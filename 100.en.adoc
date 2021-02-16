@@ -108,7 +108,7 @@ Validation is a process used to determine if data are inaccurate, incomplete, or
 Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process. The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning. It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully. It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered.
 ____
 
-===Documentation
+=== Documentation
 
 [cols=2*]
 |===
