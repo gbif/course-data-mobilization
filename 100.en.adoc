@@ -71,8 +71,8 @@ Accuracy refers to the closeness of measured values, observations or estimates t
 
 Precision (or Resolution) can be divided into two main types.
 
-*Statistical precision is the closeness with which repeated observations conform to themselves. They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy. 
-*Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers. 
+a*Statistical precision is the closeness with which repeated observations conform to themselves. They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy. 
+a*Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers. 
 
 For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places). This often leads to a false impression of both the resolution and the accuracy.
 
