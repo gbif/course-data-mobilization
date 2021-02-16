@@ -69,12 +69,7 @@ Accuracy and precision are regularly confused and the differences are not genera
 
 Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point).
 
-Precision (or Resolution) can be divided into two main types.
-
-a*Statistical precision is the closeness with which repeated observations conform to themselves. They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy. 
-a*Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers. 
-
-For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places). This often leads to a false impression of both the resolution and the accuracy.
+Precision (or Resolution) can be divided into two main types. Statistical precision is the closeness with which repeated observations conform to themselves. They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy. Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers. For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places). This often leads to a false impression of both the resolution and the accuracy.
 
 These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data. For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision).
 
@@ -112,3 +107,14 @@ Validation is a process used to determine if data are inaccurate, incomplete, or
 
 Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process. The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning. It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully. It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered.
 ____
+
+===Documentation
+
+[cols=2*]
+|===
+a|image::img/icons/video-player.png[video player icon, width=100px,height=100px]
+|Video activity: Video activity: watch video on the importance of documentation and metadata
+|===
+
+.In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing. You will learn about data mapping, data relationships and metadata. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 29.2 MB)
+video::434713200[vimeo]
