@@ -1,0 +1,35 @@
+= GBIF Document Template
+Author One <communication@gbif.org>; Author Two
+:toc: left
+:toclevels: 3
+:numbered:
+:revnumber: {git-metadata-sha-short}
+:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+:title-logo-image: img/web/photo.jpg
+:license: https://creativecommons.org/licenses/by-sa/4.0/
+
+ifdef::backend-html5[]
+languageLinks:combined[]
+endif::backend-html5[]
+
+:sectnums!:
+
+include::colophon.en.adoc[]
+
+include::preface.en.adoc[]
+
+:sectnums:
+
+include::100.en.adoc[]
+
+include::200.en.adoc[]
+
+:sectnums!:
+
+include::afterword.en.adoc[]
+
+include::appa.en.adoc[]
+
+include::glossary.en.adoc[]
+
+include::bibliography.en.adoc[]

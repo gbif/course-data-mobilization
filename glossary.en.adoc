@@ -1,0 +1,12 @@
+[glossary]
+== Glossary
+
+//Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
+
+[glossary]
+[[anchor]]term:: add short tags corresponding to an anchor name in HTML between brackets (no spaces allowed), then list the term, which should be written as you wish it to appear.
+[[authorization]]authorization:: refers to the process of determining which individuals can be afforded different access rights for authentication and data access.
+[[decimal-degrees]]decimal degrees:: degrees expressed as a single real number (e.g. −22.343456°). Note that latitudes south of the equator are negative, as are longitudes west of the prime meridian to −180 degrees.
+[[generalization]]generalization:: refers here to any modifications carried out to source data to conceal sensitive content, typically by reducing the precision of the data (such as reporting at the level of a watershed, grid or county, citing just the nearest named place, or by deleting some parts of the data). In geographic terms it refers to the conversion of a geographic representation to one with less resolution and less information content; traditionally associated with a change in scale. Also referred elsewhere to as: _fuzzying_, _dummying-up_, etc.
+
+<<<

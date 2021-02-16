@@ -1,0 +1,25 @@
+https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Document]]
+// DOI badge: If you have a DOI, remove the comment ("// ") from the line below, change "10.EXAMPLE/EXAMPLE" to the DOI in all three places, and remove this line.
+// https://doi.org/10.EXAMPLE/EXAMPLE[image:https://zenodo.org/badge/DOI/10.EXAMPLE/EXAMPLE.svg[doi:10.EXAMPLE/EXAMPLE]]
+// License badge
+https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
+// Build status badge: In the text below, please update "doc-template" to "doc-your-document-name", and remove this line.
+https://builds.gbif.org/job/doc-template/lastBuild/console[image:https://builds.gbif.org/job/doc-template/badge/icon[Build status]]
+
+= GBIF Document Template
+
+////////////////////////////////////////////////////////////////////////////////
+// Please delete this text after cloning the repository for a new document!
+This repository can be cloned to create the structure for maintaining up-to-date, community-curated documentation for the GBIF network on GitHub. *This file is REQUIRED.*
+
+All documentation should be written in https://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc], a lightweight plain-text format that supports the structural elements needed for producing technical documentation from the same source content in both digital and print formats (see this https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[helpful quick reference guide for AsciiDoc formatting]).
+
+This `README.adoc` file should not normally be part of the document.  It is shown on the GitHub source code page, and should contain information on how issues and contributions should be handled, and how the code might be used (such as build instructions).
+// End of text to delete.
+////////////////////////////////////////////////////////////////////////////////
+
+_This is information *about* this document's source code.  It is not part of the document._
+
+The document is available as HTML and PDF at https://docs.gbif-uat.org/template/[Document Template].
+
+The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines].
