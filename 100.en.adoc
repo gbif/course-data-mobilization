@@ -6,7 +6,7 @@ This section includes instruction to ensure all participants are at the same lev
 
 In this section, you will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.
 
-[cols=10%,90%]
+[cols=2*]
 |===
 a|image::img/icons/video-player.png[video player icon, width=100px,height=100px]
 |Video activity: watch three videos on the definitions, software and structures for this course.
@@ -148,3 +148,28 @@ There are other videos in the iDigBio series that you may be interested in, if y
 * “Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690
 * “Imaging Workflows for the Digitization of Dry-preserved Vertebrate Specimens” (7:25 mins) https://vimeo.com/160615629
 * “Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768
+
+=== Software tools
+
+[cols=2*]
+|===
+a|image::img/icons/stationary.png[mouse icon, width=100px,height=100px]
+|Software activity: review software tools used in biodiversity informatics
+|===
+ 
+During the course activities, we’ll demonstrate and work with many different software tools related to data digitization, data quality and transformation. You probably already use several of them in your daily work.
+
+Community trainers, mentors and former course participants have compiled a list with information about biodiversity informatics software tools. It provides links for their main websites, a key facts and a summary of strong and weak points.
+
+Download spreadsheet (Excel, 22.6 KB)
+
+When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes. You will find below a list with which you can start your evaluation. They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual “Initiating a Digitization Project”:
+
+* *Price*: One of the most determining factors. Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.
+* *Functionality*: You need to have clarity on what do you expect the software to achieve, and make sure it does it efficiently. Do not get distracted by additional functionality that can make the software more complex unnecessarily.
+* *Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising. It will also make more likely to be updated and ported to more modern operating systems.
+* *Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously. Check the opinions of other users online.
+* *Integration*: Make sure that the software accepts and produces the data formats that you use and need. Data transformation is a time consuming task.
+* *Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.
+* *Documentation and technical support*: make sure to explore the existing documentation and support mechanisms. You can be sure that at some point you will need it.
+* *Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learnt while using them, supported by in-line help systems.
