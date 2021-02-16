@@ -1,4 +1,78 @@
-[[short-id-for-section]]
-== Section/chapter title 
+== Foundations 
 
-It was a dark and stormy night, the rain fell in torrents — except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the house-tops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness. Through one of the obscurest quarters of London, and among haunts little loved by the gentlemen of the police, a man evidently of the lowest orders was wending his solitary way. He stopped twice or thrice at different shops and houses of a description correspondent with the appearance of the _quartier_ in which they were situated, — and tended inquiry for some article or another which did not seem easily to be met with. All the answers he received were couched in the negative; and as he turned from each door he muttered to himself, in no very elegant phraseology, his disappointment and discontent. At length, at one house, the landlord, a sturdy butcher, after rendering the same reply the inquirer had hitherto received, added, — “But if _this_ vill do as vell, Dummie, it is quite at your sarvice!” Pausing reflectively for a moment, Dummie responded that he thought the thing proffered _might_ do as well; and thrusting it into his ample pocket, he strode away with as rapid a motion as the wind and the rain would allow. He soon came to a nest of low and dingy buildings, at the entrance to which, in half-effaced characters, was written “Thames Court.” Halting at the most conspicuous of these buildings, an inn or alehouse, through the half-closed windows of which blazed out in ruddy comfort the beams of the hospitable hearth, he knocked hastily at the door. He was admitted by a lady of a certain age, and endowed with a comely rotundity of face and person.
+This section includes instruction to ensure all participants are at the same level before delving into the data mobilization topics.
+ 	
+=== Terminology
+
+Video activity: watch three videos on the definitions, software and structures for this course
+
+In this section, you will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.
+
+==== Definitions
+
+.In this video (12:02), you will review terminology used in this course. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 38.5 MB)
+video::434713168[vimeo]
+
+==== Software
+
+.In this video (05:58), you will review examples of the different types of applications
+and software available in the world of biodiversity mobilization informatics. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 18.9 MB)
+video::434713189[vimeo] 
+
+==== Structures
+
+.In this video (13:10), you will review the field and data types that hold data, the structures that help
+to organize and protect that data and what these mean for the integrity and security of your data. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 38.8 MB)
+video::434713175[vimeo]
+
+=== Data quality
+
+Video activity: watch video on the key concepts of data quality in Biodiversity Informatics
+
+.In this video (12:26), you will review terminology used in this course. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
+video::434713215[vimeo]
+
+Reading activity: become familiar with the key concepts of data quality in Biodiversity Informatics
+
+Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”. Full document and references can be found in GBIF.org.
+
+---------------
+
+Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described. These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data.
+Species-occurrence data
+
+Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data. In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included. In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day). In general the data are also tied to a taxonomic name, but unidentified collections may also be included. The term has occasionally been used interchangeably with the term “primary species data”.
+Primary species data
+
+“Primary species data” is used to describe raw collection data and data without any spatial attributes. It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references.
+Accuracy and Precision
+
+Accuracy and precision are regularly confused and the differences are not generally understood.
+Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point).
+Precision (or Resolution) can be divided into two main types. Statistical precision is the closeness with which repeated observations conform to themselves. They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy. Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers. For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places). This often leads to a false impression of both the resolution and the accuracy.
+These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data. For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision).
+Data quality
+
+Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation. As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user. In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful. Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).
+Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret.
+One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes. There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability. This may require such things as atomising data fields, adding geo-referencing information, etc.
+Quality Assurance/ Quality Control
+
+The difference between quality control and quality assurance is not always clear. Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met. She defines
+Quality Control as a judgment of quality based on internal standards, processes and procedures established to control and monitor quality; and
+Quality Assurance as a judgment of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality.
+In a more business-oriented approach, Redman (2001) defines Quality Assurance as
+“those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”.
+How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management.
+Uncertainty
+
+Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999). Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se. There is always uncertainty in data; the difficulty is in recording, understanding and visualising that uncertainty so that others can also understand it. Uncertainty is a key term in understanding risk and risk assessment.
+Error
+
+Error encompasses both the imprecision of data and their inaccuracies. There are many factors that contribute to error.
+Error is generally seen as being either random or systematic. Random error tends to refer to deviation from the true state in a random manner. Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991). In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others. An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems. Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code.
+“Because error is inescapable, it should be recognised as a fundamental dimension of data” (Chrisman 1991). Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge. Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented.
+Validation and Cleaning
+
+Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable. The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists). These processes usually result in flagging, documenting and subsequent checking of suspect records. Validation checks may also involve checking for compliance against applicable standards, rules, and conventions. A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001).
+Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process. The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning. It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully. It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered.
