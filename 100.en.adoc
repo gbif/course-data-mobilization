@@ -113,8 +113,43 @@ ____
 [cols=2*]
 |===
 a|image::img/icons/video-player.png[video player icon, width=100px,height=100px]
-|Video activity: Video activity: watch video on the importance of documentation and metadata
+|Video activity: watch video on the importance of documentation and metadata
 |===
 
 .In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing. You will learn about data mapping, data relationships and metadata. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 29.2 MB)
 video::434713200[vimeo]
+
+=== Digitization Workflows
+
+We do not teach digitization, per se, during the workshop, as it can easliy stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture. However, we want to provide you with resources on Digitization as we know many are interested in this.
+
+There are many ways to organize digitization efforts and so digitization can seem daunting to begin with. It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to. In this exercise we introduce you to some practical digitization workflow resources to help get you started. These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows.
+
+Some steps in the process may include:
+
+* *Pre-digitization curation and staging* This includes the preparation of the data source for the digitization process, including the assignment of unique identifiers that will help to refer to the source without error and to keep all derived information together.
+* *Image capture* This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.
+* *Image processing* This includes quality control, file conversion, etc.
+* *Electronic data capture* The core of the digitization process, includes capturing key information in a database. The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.
+* *Georeferencing* Geographical information is very important fort biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.
+
+Integrated Digitized Biocollections (iDigBio) is the coordination center for the United States National Resource for Advancing Digitization of Biodiversity Collections (ADBC). They are leading a nation-wide effort to make available data and images for millions of biological specimens in a standard electronic format for the research community, government agencies, students, educators, and the general public. They are making a huge outreach effort and have produced several videos that discuss the digitization process.
+
+[cols=2*]
+|===
+a|image::img/icons/video-player.png[video player icon, width=100px,height=100px]
+|Video activity: Watch an overview of digitization workflows
+|===
+
+.This video (07:20) on Digitization Workflows identifies five clusters (or stages)
+in the process of digitizing natural history collection objects using digital images,
+and these stages can be easily adapted to other biodiversity data sources. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 26.8 MB)
+video::120369455[vimeo]
+
+TIP: As the video highlights, digitization protocols vary from institution to institution, but it is essential that the chosen protocol is agreed, documented and respected.
+
+There are other videos in the iDigBio series that you may be interested in, if you wish to learn more about specific workflows for different specimen types:
+
+* “Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690
+* “Imaging Workflows for the Digitization of Dry-preserved Vertebrate Specimens” (7:25 mins) https://vimeo.com/160615629
+* “Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768
