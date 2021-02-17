@@ -4,62 +4,44 @@
 //Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
 
 [glossary]
-[[ALA]]::ALA
-Atlas of Living Australia. The Australian node of GBIF, who developed an open source data portal now widely used within the GBIF community & partners for biodiversity national portals.
+[[ALA]]ALA:: Atlas of Living Australia. The Australian node of GBIF, who developed an open source data portal now widely used within the GBIF community & partners for biodiversity national portals.
 
-[[API]]::API
-Application Programming Interface.  A set of clearly defined methods of communication between various software components.
+[[API]]API:: Application Programming Interface.  A set of clearly defined methods of communication between various software components.
 
-[[BID]]::BID
-Biodiversity Information for Development. An EU funded project co-ordinated by GBIF whose aim is to increase data mobilization capacity in the Africa, Caribbean and Pacific regions.
+[[BID]]BID:: Biodiversity Information for Development. An EU funded project co-ordinated by GBIF whose aim is to increase data mobilization capacity in the Africa, Caribbean and Pacific regions.
 
-[[BIFA]]::BIFA
-Biodiversity Fund for Asia. 
+[[BIFA]]BIFA:: Biodiversity Fund for Asia. 
 
-[[CC]]::CC Licences
-Creative Commons. These are a series of licenses set up by the Creative Commons organisation that enable sharing and reuse of creativity and knowledge through the provision of free legal tools. Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC.
+[[CC]]CC Licences:: Creative Commons. These are a series of licenses set up by the Creative Commons organisation that enable sharing and reuse of creativity and knowledge through the provision of free legal tools. Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC.
 
-[[vocab]]::Controlled Vocabulary
-This is a restricted set of terms that are used as possible values for a given field. One can think of it as a lookup list or dropdown for a particular field. For example the DwC field basisOfRecord should only contain one of these values: "PreservedSpecimen", "FossilSpecimen", "LivingSpecimen", "HumanObservation", "MachineObservation". We would say that list of values is a controlled vocabulary for that field.
+[[vocab]]Controlled Vocabulary:: This is a restricted set of terms that are used as possible values for a given field. One can think of it as a lookup list or dropdown for a particular field. For example the DwC field basisOfRecord should only contain one of these values: "PreservedSpecimen", "FossilSpecimen", "LivingSpecimen", "HumanObservation", "MachineObservation". We would say that list of values is a controlled vocabulary for that field.
 
-[[DwC]]::DwC
-Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners. It is a set of standardised terms (or field names) and their definitions, which are used to share biodiversity information.
+[[DwC]]DwC:: Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners. It is a set of standardised terms (or field names) and their definitions, which are used to share biodiversity information.
 
-[[DOI]]::DOI
-Digital Object Identifier. A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications.
+[[DOI]]DOI:: Digital Object Identifier. A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications.
 
-[[DwC-A]]::DwC-A
-Darwin Core Archive. A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource. Each zip contains three types of files:
+[[DwC-A]]DwC-A:: Darwin Core Archive. A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource. Each zip contains three types of files:
 . the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc 
 . a mapping file: rtf.xml
 . a metadata (EML) file: eml.xml
 When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF. Also, when you download data from the GBIF website you can choose a DwC-A format as well.
 
-[[GUID]]::GUID
-Globally Unique IDentifier
+[[GUID]]GUID:: Globally Unique IDentifier
 
-[[IPT]]::IPT
-Integrated Publishing Toolkit. It is a free and open source web application (software) for publishing biodiversity data. The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7. It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF.
+[[IPT]]IPT:: Integrated Publishing Toolkit. It is a free and open source web application (software) for publishing biodiversity data. The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7. It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF.
 
-[[loan]]::Loan
-In the context of natural history collections, this is the procedure of lending specimens between institutions.
+[[loan]]Loan:: In the context of natural history collections, this is the procedure of lending specimens between institutions.
 
-[[LSID]]::LSID
-Life Sciences Identifier. They are persistent, globally unique identifiers for biological objects.
+[[LSID]]LSID:: Life Sciences Identifier. They are persistent, globally unique identifiers for biological objects.
 
-[[DP]]::Data Publishing
-With regards to GBIF we have a very specific defintion of data publishing. It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL).
+[[DP]]Data Publishing:: With regards to GBIF we have a very specific defintion of data publishing. It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL).
 
-[[resource]]::Resource
-A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance.
+[[resource]]Resource:: A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance.
 
-[[TDWG]]::TDWG
-Taxonomic Databases Working Group, now renamed Biodiversity Information Standards.
+[[TDWG]]TDWG:: Taxonomic Databases Working Group, now renamed Biodiversity Information Standards.
 
-[[URN]]::URN
-Uniform Resource Number
+[[URN]]URN:: Uniform Resource Number
 
-[[UUID]]::UUID
-Universally Unique Identifier
+[[UUID]]UUID:: Universally Unique Identifier
 
 <<<
