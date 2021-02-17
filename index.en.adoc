@@ -14,8 +14,6 @@ endif::backend-html5[]
 
 :sectnums!:
 
-include::colophon.en.adoc[]
-
 include::description.en.adoc[]
 
 :sectnums:
@@ -33,3 +31,5 @@ include::acknowledgements.en.adoc[]
 include::glossary.en.adoc[]
 
 include::keydocs.en.adoc[]
+
+include::colophon.en.adoc[]
