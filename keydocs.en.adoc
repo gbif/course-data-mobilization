@@ -1,0 +1,117 @@
+== Key documentation
+
+The following references provide further detail on the topics covered in this course
+
+=== Darwin Core
+
+* Darwin Core Terms: A quick reference guide
+* Simple DarwinCore
+* Darwin Core Questions & Answers
+* Darwin Core extensions registered with GBIF
+
+=== Data publishing
+
+* Quick guide to publishing data through GBIF
+* How to publish biodiversity data through GBIF.org
+* Become a data publisher with GBIF
+* Classes of datasets supported by GBIF
+* GBIF data quality requirements for publishing
+* GBIF data licenses
+* Checklist core templates
+* Occurrence core templates
+* Sampling event core templates
+* Sampling event data best practices
+* Sharing images, sounds and videos on GBIF
+* Data papers
+* Published data papers
+
+=== Data publishing: Integrated Publishing Toolkit (IPT)
+
+* _The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet_ Robertson et al. (2014)
+* To install IPT or not to install IPT
+* IPT data hosting centres
+* IPT Install / Set up webinar
+* IPT server requirements
+* Installing the IPT video
+* IPT in Practice demonstration video
+
+=== Digitization
+
+* iDigBio Digitization Resources
+* iDigBio Collections Digitization Workflows
+* iDigBio Digitization Workflows and Protocols
+* iDigBio specimen image capture guide
+* Canadensys 10-step guide to managing images with your biodiversity data
+
+=== GBIF
+
+* What is GBIF
+* Strategic Plan
+* Become a member
+* Science Review
+
+=== Georeferencing
+
+* Georeferencing quick referencing guide
+* Biogeomancer, Guide to Best Practices in Georeferencing. Chapman & Wieczorek (2006)
+* More georeferencing resources
+
+=== Invasive Species
+
+* GRISS - Global Register of Introduced and Invasive Species
+* Global Register of Introduced and Invasive Species
+* TrIAS - Tracking Invasive Alien Species
+* TrIAS aims to build an open data-driven framework to support policy on invasive species.
+
+=== Living Atlases
+
+* Living Atlases
+* ALA key technical documentation
+
+=== Miscellaneous
+
+* VertNet Guide to opening text files in Excel
+* VertNet data licensing guide
+
+=== OpenRefine
+
+* OpenRefine documentation
+* OpenRefine regular expressions
+* Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data
+2012. iPhylo blog post. Rod Page. Google Refine is an elegant tool for data cleaning. One of its most powerful features is the ability to call "Reconciliation Services" to help clean data, for example by matching names to external identifiers.
+* Reconciling author names using Open Refine and VIAF
+2013. iPhylo blog post. Rod Page. In an earlier post, I discussed using Open Refine (formerly Google Refine) to clean and reconcile taxon names. I've added an additional service that can be used to reconcile author names that uses the Virtual International Authority File (VIAF) API. Using this service we can match authors to VIAF identifiers (you may have noticed these appearing on people's pages in Wikipedia, e.g. Mary J. Rathbun's Wikipedia page lists her VIAF as 61796012).
+* Validating scientific names with the GBIF Portal web service API. 2013. This guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick, and is being cross-posted to the VertNet Blog.
+* iDigBio Cleaning data with OpenRefine. 2013. PDF
+* Have We Got the Names “Right”? 2014. Canadensys blog post regarding a workshop. Participants in the workshop, many of whom arrived with data in-hand, elected to use Open Refine. We picked-up from the work Rod Page started a few years ago. Similar work has been done by Gaurav Vaidya and the VertNet team with superb documentation. The Canadensys development team tweaked Rod’s code to connect to web services offered by the Global Names Resolver and the Database of Vascular Plants of Canada, each of which are high-performance services that accept scientific names in batches and produce responses containing full namestrings and hierarchies. Rod’s code was an excellent first pass, but we noticed that it could be made much more performant so we made a temporary service for the workshop and a temporary code repository. The Canadensys development team is contemplating a dedicated Open Refine service for the Database of Vascular Plants of Canada (VASCAN) and we’ve shared our approach with members of the Global Names project.
+* Cleaning data with OpenRefine. 2016. TDWG Presentation. Desmet and Brosens. Short introduction on Google Refine, on biodiversity data.
+* Allocating more memory to OpenRefine - and other helpful information for handling large datasets. 2017. iDigBio Research Spotlight blog post.
+* EasyOpen Redlist. An accessible method of querying the IUCN Red List, using a species list, the free software OpenRefine, and some pre-written code. Olly Griffin, July 2019. We often have a list of species - a checklist, or a set of species of interest for a project - for which we want to know the IUCN Red List category: Critically Endangered, Vulnerable, Least Concern etc. Manually searching the IUCN Red List website species by species would be slow for lists longer than 10 species, and practically impossible for a list longer than 1,000 species. I wrote a quick guide, link below, which shows you how to automatically return the Red List category, along with a number of other useful results, from the IUCN database using the free software OpenRefine to query the IUCN RedList API with pre-written code that works for any clean list of species scientific names. There is also a video which shows the process in action. I mostly use this for updating our long (900+) species list for KSWS. It can also be useful for research results, reports, publications, website data, national species lists, and anything where you’re dealing with a significant number of species. This process can be done in other ways – using R, for example – but this is an accessible method that requires no coding. I hope you find this useful. Please let me now if anything is not clear, and feel free to share with others who may also be interested.
+
+=== Planning/Collaboration
+
+* Agile (philosophy behind SCRUM)
+* What is Agile? How does it work? How is it different? Agile Myths Agile vs Waterfall
+* What is SCRUM
+* SCRUM Framework
+* Kanban methodology
+* Scrum Guide
+* Your Scrum Pathway to Tools, Knowledge and Professional Recognition
+* GitHub
+
+=== Quality
+
+* Principles of Data Quality. Arthur Chapman (2005)
+* Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data. Arthur Chapman (2005)
+* Be careful with dates in Excel
+* Character encoding for beginners
+* MVZ Guide for Recording Localities in Field Notes
+
+=== Taxonomy
+
+* GBIF checklist datasets and data gaps
+* GBIF Labs - Names Parser
+* GBIF Labs - Species Matching
+* Global Names Resolver
+* Marine Name Matching Strategy for taxonomic quality control (from OBIS)
+* Nomenmatch
