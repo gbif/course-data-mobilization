@@ -6,9 +6,9 @@ This section includes instruction to ensure all participants are at the same lev
 
 In this section, you will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.
 
-[NOTE.video]
+[NOTE.presentation]
 ====
-Video activity: watch three videos on the definitions, software and structures for this course.
+Watch three videos on the definitions, software and structures for this course.
 ====
 
 ==== Definitions
@@ -26,17 +26,18 @@ video::434713175[vimeo, height=480, width=640, align=center]
 
 === Data quality
 
-[NOTE.video]
-Video activity: watch video on the key concepts of data quality in Biodiversity Informatics
+[NOTE.presentation]
+Watch video on the key concepts of data quality in Biodiversity Informatics
 
 .In this video (12:26), you will review terminology used in this course. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
 video::434713215[vimeo, height=480, width=640, align=center]
 
 
-[NOTE.read]
-Reading activity: become familiar with the key concepts of data quality in Biodiversity Informatics
+[NOTE.activity]
+Become familiar with the key concepts of data quality in Biodiversity Informatics
 
 Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”. Full document and references can be found on GBIF.org.
+****
 ____
 Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described. These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data.
 
@@ -94,11 +95,12 @@ Validation is a process used to determine if data are inaccurate, incomplete, or
 
 Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process. The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning. It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully. It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered.
 ____
+****
 
 === Documentation
 
-[NOTE.video]
-Video activity: watch video on the importance of documentation and metadata
+[NOTE.presentation]
+Watch video on the importance of documentation and metadata
 
 .In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing. You will learn about data mapping, data relationships and metadata. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 29.2 MB)
 video::434713200[vimeo, height=480, width=640, align=center]
@@ -119,8 +121,8 @@ Some steps in the process may include:
 
 Integrated Digitized Biocollections (iDigBio) is the coordination center for the United States National Resource for Advancing Digitization of Biodiversity Collections (ADBC). They are leading a nation-wide effort to make available data and images for millions of biological specimens in a standard electronic format for the research community, government agencies, students, educators, and the general public. They are making a huge outreach effort and have produced several videos that discuss the digitization process.
 
-[NOTE.video]
-Video activity: Watch an overview of digitization workflows
+[NOTE.presentation]
+Watch a video of an overview of digitization workflows
 
 .This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources. If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 26.8 MB)
 video::120369455[vimeo, height=480, width=640, align=center]
@@ -135,8 +137,8 @@ There are other videos in the iDigBio series that you may be interested in, if y
 
 === Software tools
 
-[NOTE.software]
-Software activity: review software tools used in biodiversity informatics
+[NOTE.activity]
+Review software tools used in biodiversity informatics
  
 During the course activities, we’ll demonstrate and work with many different software tools related to data digitization, data quality and transformation. You probably already use several of them in your daily work.
 
@@ -158,7 +160,7 @@ When analysing biodiversity software that you have not used before, you need to 
 === Install OpenRefine
 
 [NOTE.install]
-Software activity: install software required for activities later in the course
+Install software required for activities later in the course
 
 image::img/logos/open-refine-logo.png[Open Refine Logo,width=255px,height=62px,align=center]
 
@@ -188,41 +190,30 @@ NOTE: Detailed installation instructions are available on the OpenRefine GitHub 
 . Double click on it and a new web browser window will show the application.
 
 === Quiz
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+****
+[question, mc]
+....
+What is the binary for the word "biodiversity"?
 
-++++
-<div class="involveme_embed" data-embed="gbif/dm-sec-1-150d" data-width="640" data-min-height="480"></div>
-<script src="https://app.involve.me/embed"></script>
-++++
+[TIP]
+Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html.
 
-=== Quiz2
-
-++++
-<iframe src="https://www.classmarker.com/online-test/start/?quiz=gk4602d48fa23ead&iframe=1" frameborder="0" style="width:100%;max-width:700px;" height="800"></iframe>
-++++
-
-=== Quiz3
+- [x] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 01101110 01100011 01100101
+- [x] 01000010 01001001 01000110 01000001
+- [x] 01000111 01000010 01001001 01000110
+- [ ] 01100010 01101001 01101111 01100100 01101001 01110110 01100101 01110010 01110011 01101001 01110100 01111001
+....
 
 [question, mc]
 ....
-Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua.
+If you open a data file and see the following, what would you suspect is the issue?
+�tre, ou ne pas �tre, c�est l� la question.
 
-- [x] ipsum
-- [ ] eltir
-- [x] ut
+- [x] Nothing
+- [x] It is corrupt
+- [ ] The wrong encoding was used to open the file
+- [x] The sender used a weird font
 ....
-
-[question, gap]
-....
-At vero eos et __accusam__ et justo
-duo dolores et ea rebum. Stet clita
-kasd gubergren, no sea __takimata
-sanctus est Lorem__ ipsum dolor sit
-amet. Lorem __ipsum dolor sit amet__,
-consetetur sadipscing elitr, sed diam
-nonumy __eirmod tempor invidunt__ ut
-labore et dolore magna aliquyam erat,
-sed diam voluptua.
-....
+****
