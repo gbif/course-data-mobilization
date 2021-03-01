@@ -1,5 +1,6 @@
 = Biodiversity Data Mobilization Course
 GBIF Secretariat <training@gbif.org>
+
 :multipage:
 :multipage-level: 1
 :toc: left
@@ -12,8 +13,10 @@ GBIF Secretariat <training@gbif.org>
 :docinfo: shared-head
 :stylesheet: /adoc/gbif-stylesheet/stylesheets/gbif-training.css
 
+// add cover image to img directory and update filename below
 ifdef::backend-html5[]
 languageLinks:combined[]
+image::img/web/photo.jpg[align="center", width="640", height="480"]
 endif::backend-html5[]
 
 :sectnums!:
