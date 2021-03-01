@@ -21,6 +21,7 @@ endif::backend-html5[]
 include::description.en.adoc[]
 
 :sectnums:
+:multipage:
 :multipage-level: 2
 
 include::100.en.adoc[]
