@@ -17,7 +17,7 @@ languageLinks:combined[]
 endif::backend-html5[]
 
 :sectnums!:
-:multipage-level: 0
+:multipage-level: 1
 
 include::description.en.adoc[]
 
@@ -31,7 +31,7 @@ include::200.en.adoc[]
 include::300.en.adoc[]
 
 :sectnums!:
-:multipage-level: 0
+:multipage-level: 1
 
 include::keydocs.en.adoc[]
 
