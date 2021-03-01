@@ -1,7 +1,7 @@
 = Biodiversity Data Mobilization Course
 GBIF Secretariat <training@gbif.org>
 :multipage:
-:multipage-level: 1
+:multipage-level: 0
 :toc: left
 :toclevels: 3
 :numbered:
@@ -17,7 +17,7 @@ languageLinks:combined[]
 endif::backend-html5[]
 
 :sectnums!:
-:multipage-level: 1
+:multipage-level: 0
 
 include::description.en.adoc[]
 
@@ -31,7 +31,7 @@ include::200.en.adoc[]
 include::300.en.adoc[]
 
 :sectnums!:
-:multipage-level: 1
+:multipage-level: 0
 
 include::keydocs.en.adoc[]
 
