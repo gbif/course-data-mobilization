@@ -16,9 +16,12 @@ ifndef::backend-pdf[]
 languageLinks:combined[]
 endif::backend-pdf[]
 
+// add cover image to img directory and update filename below
+ifndef::backend-pdf[]
 :figure-caption!:
 ._Zonocerus elegans_ (Thunberg, 1815) observed in Zimbabwe by nickypegg (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])
 image::img/web/photo.jpg[align="center", width="640", height="360"]
+endif::backend-pdf[]
 
 :sectnums!:
 
