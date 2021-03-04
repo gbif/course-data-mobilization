@@ -10,7 +10,7 @@ GBIF Secretariat <training@gbif.org>
 :title-logo-image: img/web/photo.jpg
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 :docinfo: shared-head
-:stylesheet: /adoc/gbif-stylesheet/stylesheets/gbif-training.css
+// :stylesheet: /adoc/gbif-stylesheet/stylesheets/gbif-training.css
 
 ifndef::backend-pdf[]
 languageLinks:combined[]
