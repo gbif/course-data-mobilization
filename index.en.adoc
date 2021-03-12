@@ -27,21 +27,17 @@ endif::backend-pdf[]
 
 include::description.en.adoc[]
 
-:sectnums!:
+include::foundations.en.adoc[]
 
-include::100.en.adoc[]
+include::planning.en.adoc[]
 
-include::200.en.adoc[]
+include::capture.en.adoc[]
 
-include::300.en.adoc[]
+include::management.en.adoc[]
 
-include::400.en.adoc[]
+include::publishing.en.adoc[]
 
-include::500.en.adoc[]
-
-include::600.en.adoc[]
-
-:sectnums!:
+include::assignments.en.adoc[]
 
 include::keydocs.en.adoc[]
 
