@@ -1,7 +1,39 @@
+[multipage-level=2]
+
 == Data publishing
+[NOTE.objectives]
+In this module, you will learn about data publishing concepts, including the IPT, cores and extensions, and the importance of licenses, metadata, mandatory fields and hosting of datasets.
 
 === Data publishing concepts
+[NOTE.presentation]
+In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (IPT).
+If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 20 MB)
 
-=== Demonstration: IPT
+video::440142375[vimeo, height=480, width=640, align=center]
+
+=== IPT overview
+[NOTE.presentation]
+In this video (??:??), you will receive and overview of the IPT data publishing interface.
+If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - ??.?? MB)
+
+video::xxxxxxxx[vimeo, height=480, width=640, align=center]
+
+=== IPT demonstration
+[NOTE.presentation]
+In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.
+If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 52.6 MB)
+
+video::438520703[vimeo, height=480, width=640, align=center]
 
 === Exercise 4: IPT
+[NOTE.activity]
+In this exercise, you will publish an occurrence dataset using the IPT.
+
+*Data publishing*
+After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset.
+
+. At this point, you need an account on the course IPT. 
+If you have not already been provided a login, please contact Laura Russell (larussell@gbif.org) and she will provide you with a login and password on the course IPT.
+. Download 'IPT Data Publishing_Poales Dataset.csv'. (233.5 KB)
+. Use the assigned IPT installation and publish this file.
+. Describe the steps you would perform to publish this dataset on the Use Case I exercise sheet.
