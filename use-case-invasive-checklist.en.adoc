@@ -37,8 +37,6 @@ Four botany students from the University, as a part of their final course assess
 
 ==== Data collection
 
-image::img/web/use-case-2-invasives-data-collection.png[align="center", width="640"]
-
 Students from each high school organized a series of day-long community surveys in their local neighbourhoods.
 Participants, guided by local ISC Early Detection Technicians and Student Mentors, visited various locations where they were given photo guides and assigned a route to follow during collection events.
 Along each route, they were tasked with identifying the target species and taking 1-3 photos of them using GPS-enabled mobile phones. 
@@ -46,6 +44,8 @@ Along each route, they were tasked with identifying the target species and takin
 Details, describing every observation of the 21 invasive species of interest, were recorded using a digital data collection form during each community collection event.
 Participants uploaded the images captured on mobile phones and were encouraged to click their locations using a Google map, embedded in the form, to assign latitude and longitude to each observation.
 The form’s design was based on the HISC pest reporting form.
+
+image::img/web/use-case-2-invasives-data-collection.png[align="center", width="640"]
 
 ==== Digital data description
 A database, created and hosted by the Computing Department at UHM, holds the imagery and data from the online form, but these data are not accessible publicly. 
