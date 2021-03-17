@@ -61,7 +61,7 @@ This is an example of the description of a series of species observations from o
 
 image::img/web/use-case-3-analogue.png[align="center", width="640", height="360"]
 
-==== Scanned data description
+==== Scanned and translated data description
 
 This is an example of the scanned and translated output from the analogue example above.
 
@@ -119,7 +119,7 @@ On the churches (Our Lady’s and St. Peter’s) of Copenhagen, I have often see
 ====
 
 . Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences. The occurrences will need unique numbers assigned to them.  
-. Create a sample spreadsheet using the data fields listed in Digital Data Description section of this use case and the original data found in Analog Data Description section, recorded by: Chr. Fr. Lütken. 
+. Create a sample spreadsheet using the data fields listed in the https://docs.gbif-uat.org/course-data-mobilization/en/scenario-4.html#digital-data-description-3[Digital Data Description] using data found in the example above recorded by: Chr. Fr. Lütken. 
 . Document your work using the exercise sheet.
 
 TIP: In the examples used, the individual occurrences do not always contain data to complete all of the columns in the spreadsheet.
@@ -128,11 +128,14 @@ TIP: In the examples used, the individual occurrences do not always contain data
 
 *Data management*
 
-Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society. Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset.
+Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society.
+Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset.
 
-Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography. Since all the observations were made in Denmark, continent and country can easily be added. 
-
-Additionally, the scientific name was provided, but no other higher taxonomy was. Higher taxonomy can be derived utilizing software tools such as OpenRefine. You are also aware that there are typographic errors that were made by the digitizers.
+Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography.
+Since all the observations were made in Denmark, continent and country can easily be added.
+Additionally, only the scientific name was provided.
+Higher taxonomy can be derived utilizing software tools such as OpenRefine.
+You are also aware that there are typographic errors that were made by the digitizers.
 
 . Download USE CASE 3 DL - Data File Cleaning
 . Identify and correct any invalid years
