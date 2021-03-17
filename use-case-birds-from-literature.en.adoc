@@ -36,6 +36,7 @@ As GBIF requires a license be applied with all published data, the museum has de
 The IT services required are provided by the Technology Unit of the University of Copenhagen, as for all museum digital projects. 
 
 The HHM-DK deputy director, who is coordinating this piece of work has developed a general outline for the work:
+
 . The museum will carry out the digitization of the literature using two library staff members trained in the use of the library scanner to scan delicate volumes.
 They will also extract text from the scans through OCR (Optical Character Recognition) software.
 . Three volunteers from the Copenhagen Ornithological Society (COS) who regularly collaborate with the museum and are familiar with the birds of the region have been enlisted to assist and will complete the transfer of data from the scanned PDFs into spreadsheet format.
@@ -57,11 +58,13 @@ Observations of weather conditions during the nights when birds were observed by
 ==== Analogue data description
 
 This is an example of the description of a series of species observations from one of the books (in German, except the common name for the species which is provided in Danish).
+
 image::img/web/use-case-3-analogue.png[align="center", width="640", height="360"]
 
 ==== Scanned data description
 
 This is an example of the scanned and translated output from the analogue example above.
+
 image::img/web/use-case-3-scanned.png[align="center", width="640", height="360"]
 
 ==== Digital data description
