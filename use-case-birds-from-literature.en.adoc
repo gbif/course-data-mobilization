@@ -67,6 +67,7 @@ This is an example of the scanned and translated output from the analogue exampl
 
 image::img/web/use-case-3-scanned.png[align="center", width="640", height="360"]
 
+[[birds-digital-data-description]]
 ==== Digital data description
 
 Studying the extract from the book, the volunteers from the Copenhagen Ornithology Society suggest extracting the following data from the scanned and translated text:
@@ -119,7 +120,7 @@ On the churches (Our Lady’s and St. Peter’s) of Copenhagen, I have often see
 ====
 
 . Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences. The occurrences will need unique numbers assigned to them.  
-. Create a sample spreadsheet using the data fields listed in the https://docs.gbif-uat.org/course-data-mobilization/en/scenario-4.html#digital-data-description-3[Digital Data Description] using data found in the example above recorded by: Chr. Fr. Lütken. 
+. Create a sample spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken.
 . Document your work using the exercise sheet.
 
 TIP: In the examples used, the individual occurrences do not always contain data to complete all of the columns in the spreadsheet.
