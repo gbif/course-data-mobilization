@@ -22,6 +22,8 @@ video::xxxxxxxxx[vimeo, height=480, width=640, align=center]
 [NOTE.activity]
 For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use OpenRefine.
 
+Read <<scenario,USE CASE I>> (if you haven't already).
+
 Your institution is part of the “Global Poales Association (GPA)”. 
 This association has secured funding to publish an up-to-date flora on the group and has requested your herbarium to participate and provide any high quality records you may have on this order of plants. 
 The order is well represented in your collection so you think you could contribute substantially to this effort.
@@ -31,12 +33,13 @@ The order is well represented in your collection so you think you could contribu
 *Validation checks*
 
 In this short exercise we will focus on technical errors and perform a basic validation check to identify technical and consistency errors. 
-Fix the errors in the Excel sheet manually, and also document the changes in the Use Case I exercise sheet.
 
-. Use file ‘Data Cleaning_DATA EXAMPLE.csv’. (207.5 KB)
+. Download ‘Data Cleaning_DATA EXAMPLE.csv’. (207.5 KB)
 . Import the CSV file in Excel using the Excel wizard. See 'Data Cleaning Excel Tips-EN' (PDF, 7 MB) for import instructions.
-. Find and correct the errors (see table on page 10 of Use Case I for hints) manually.
-. Use the table on p. 10 of Use Case I to document your actions. See ‘Data Cleaning - Tips_EN’ (PDF, 521 KB) for information on the types of errors.
+. Find and correct the errors manually.
+. Use the exercise sheet to provide your answers.
+
+See ‘Data Cleaning - Tips_EN’ (PDF, 521 KB) for information on the types of errors.
 
 ==== Exercise 3b
 
@@ -51,9 +54,11 @@ The GPA association has given you a checklist of data quality elements to verify
 * All dates are in the proper column and in the format YYYY-MM-DD
 
 . Review 'Data Cleaning Other Tools Tips-EN' (PDF, 107.8 KB) for tips on completing the exercise.
+. Use the same file from the previous exercise.
 . Make the correction ONLY for the Eriocaulaceae family (so you may want to filter the data)
 . Correct the errors found in the dataset used in exercise 3a (previous exercise), using the tools of your choice, and document the changes you perform in the exercise sheet.
 . Correct the entire file if you have time.
+. Use the exercise sheet to provide your answers.
 
 ==== Exercise 3c
 [NOTE.presentation]
@@ -67,6 +72,7 @@ video::xxxxxxxxx[vimeo, height=480, width=640, align=center]
 In this exercise we use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions.
 
 . Complete the exercises in 'Data Cleaning OpenRefine Exercise-EN'. (PDF, 1.1 MB)
-. Use 'Data Cleaning_OpenRefine_DATA EXAMPLE.csv' (207.5 KB) as your source file.
+. Download 'Data Cleaning_OpenRefine_DATA EXAMPLE.csv' (207.5 KB) as your source file.
+. Use the exercise sheet to provide your answers.
 
 === Review
