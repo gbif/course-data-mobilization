@@ -39,21 +39,27 @@ video::434713215[vimeo, height=480, width=640, align=center]
 
 
 [NOTE.activity]
-Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”. Full document and references can be found on GBIF.org.
+Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”. 
+Full document and references can be found on GBIF.org.
 
 ****
 ____
-Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described. These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data.
+Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described. 
+These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data.
 
 *Species-occurrence data*
 
-Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data. In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included. In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day). 
+Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.
+In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.
+In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day). 
 
-In general the data are also tied to a taxonomic name, but unidentified collections may also be included. The term has occasionally been used interchangeably with the term “primary species data”.
+In general the data are also tied to a taxonomic name, but unidentified collections may also be included.
+The term has occasionally been used interchangeably with the term “primary species data”.
 
 *Primary species data*
 
-“Primary species data” is used to describe raw collection data and data without any spatial attributes. It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references.
+“Primary species data” is used to describe raw collection data and data without any spatial attributes.
+It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references.
 
 *Accuracy and Precision*
 
@@ -61,21 +67,34 @@ Accuracy and precision are regularly confused and the differences are not genera
 
 Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point).
 
-Precision (or Resolution) can be divided into two main types. Statistical precision is the closeness with which repeated observations conform to themselves. They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy. Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers. For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places). This often leads to a false impression of both the resolution and the accuracy.
+Precision (or Resolution) can be divided into two main types.
+Statistical precision is the closeness with which repeated observations conform to themselves.
+They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.
+Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.
+For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).
+This often leads to a false impression of both the resolution and the accuracy.
 
-These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data. For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision).
+These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.
+For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision).
 
 *Data quality*
 
-Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation. As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user. In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful. Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).
+Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation.
+As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user.
+In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful.
+Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).
 
 Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret.
 
-One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes. There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability. This may require such things as atomising data fields, adding geo-referencing information, etc.
+One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.
+There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.
+This may require such things as atomising data fields, adding geo-referencing information, etc.
 
 *Quality Assurance/ Quality Control*
 
-The difference between quality control and quality assurance is not always clear. Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met. She defines Quality Control as a judgment of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgment of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality.
+The difference between quality control and quality assurance is not always clear.
+Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met.
+She defines Quality Control as a judgment of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgment of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality.
 
 In a more business-oriented approach, Redman (2001) defines Quality Assurance as “those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”.
 
@@ -83,21 +102,39 @@ How these terms are to be applied in practice is not clear, and in most cases th
 
 *Uncertainty*
 
-Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999). Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se. There is always uncertainty in data; the difficulty is in recording, understanding and visualising that uncertainty so that others can also understand it. Uncertainty is a key term in understanding risk and risk assessment.
+Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).
+Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.
+There is always uncertainty in data; the difficulty is in recording, understanding and visualising that uncertainty so that others can also understand it.
+Uncertainty is a key term in understanding risk and risk assessment.
 
 *Error*
 
-Error encompasses both the imprecision of data and their inaccuracies. There are many factors that contribute to error. Error is generally seen as being either random or systematic. Random error tends to refer to deviation from the true state in a random manner. Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991). In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others. 
+Error encompasses both the imprecision of data and their inaccuracies.
+There are many factors that contribute to error.
+Error is generally seen as being either random or systematic.
+Random error tends to refer to deviation from the true state in a random manner.
+Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).
+In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others. 
 
-An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems. Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code.
+An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.
+Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code.
 
-“Because error is inescapable, it should be recognised as a fundamental dimension of data” (Chrisman 1991). Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge. Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented.
+“Because error is inescapable, it should be recognised as a fundamental dimension of data” (Chrisman 1991).
+Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.
+Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented.
 
 *Validation and Cleaning*
 
-Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable. The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists). These processes usually result in flagging, documenting and subsequent checking of suspect records. Validation checks may also involve checking for compliance against applicable standards, rules, and conventions. A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001).
+Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.
+The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).
+These processes usually result in flagging, documenting and subsequent checking of suspect records.
+Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.
+A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001).
 
-Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process. The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning. It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully. It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered.
+Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.
+The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.
+It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.
+It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered.
 ____
 ****
 
@@ -118,19 +155,26 @@ video::120369455[vimeo, height=480, width=640, align=center]
 
 TIP: As the video highlights, digitization protocols vary from institution to institution, but it is essential that the chosen protocol is agreed, documented and respected.
 
-We do not teach digitization, per se, during the workshop, as it can easliy stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture. However, we want to provide you with resources on Digitization as we know many are interested in this.
+We do not teach digitization, per se, during the workshop, as it can easliy stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.
+However, we want to provide you with resources on Digitization as we know many are interested in this.
 
-There are many ways to organize digitization efforts and so digitization can seem daunting to begin with. It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to. In this exercise we introduce you to some practical digitization workflow resources to help get you started. These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows.
+There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.
+It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to.
+In this exercise we introduce you to some practical digitization workflow resources to help get you started.
+These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows.
 
 Some steps in the process may include:
 
 * *Pre-digitization curation and staging*: This includes the preparation of the data source for the digitization process, including the assignment of unique identifiers that will help to refer to the source without error and to keep all derived information together.
 * *Image capture*: This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.
 * *Image processing*: This includes quality control, file conversion, etc.
-* *Electronic data capture*: The core of the digitization process, includes capturing key information in a database. The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.
+* *Electronic data capture*: The core of the digitization process, includes capturing key information in a database.
+The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.
 * *Georeferencing*: Geographical information is very important fort biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.
 
-Integrated Digitized Biocollections (iDigBio) is the coordination center for the United States National Resource for Advancing Digitization of Biodiversity Collections (ADBC). They are leading a nation-wide effort to make available data and images for millions of biological specimens in a standard electronic format for the research community, government agencies, students, educators, and the general public. They are making a huge outreach effort and have produced several videos that discuss the digitization process.
+Integrated Digitized Biocollections (iDigBio) is the coordination center for the United States National Resource for Advancing Digitization of Biodiversity Collections (ADBC).
+They are leading a nation-wide effort to make available data and images for millions of biological specimens in a standard electronic format for the research community, government agencies, students, educators, and the general public.
+They are making a huge outreach effort and have produced several videos that discuss the digitization process.
 
 There are other videos in the iDigBio series that you may be interested in, if you wish to learn more about specific workflows for different specimen types:
 
@@ -142,21 +186,31 @@ There are other videos in the iDigBio series that you may be interested in, if y
 [NOTE.activity]
 Review software tools used in biodiversity informatics
  
-During the course activities, we’ll demonstrate and work with many different software tools related to data digitization, data quality and transformation. You probably already use several of them in your daily work.
+During the course activities, we’ll demonstrate and work with many different software tools related to data digitization, data quality and transformation.
+You probably already use several of them in your daily work.
 
-Community trainers, mentors and former course participants have compiled a list with information about biodiversity informatics software tools. It provides links for their main websites, a key facts and a summary of strong and weak points.
+Community trainers, mentors and former course participants have compiled a list with information about biodiversity informatics software tools.
+It provides links for their main websites, a key facts and a summary of strong and weak points.
 
 Download spreadsheet (Excel, 22.6 KB)
 
-When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes. You will find below a list with which you can start your evaluation. They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual “Initiating a Digitization Project”:
+When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.
+You will find below a list with which you can start your evaluation.
+They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual “Initiating a Digitization Project”:
 
-* *Price*: One of the most determining factors. Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.
-* *Functionality*: You need to have clarity on what do you expect the software to achieve, and make sure it does it efficiently. Do not get distracted by additional functionality that can make the software more complex unnecessarily.
-* *Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising. It will also make more likely to be updated and ported to more modern operating systems.
-* *Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously. Check the opinions of other users online.
-* *Integration*: Make sure that the software accepts and produces the data formats that you use and need. Data transformation is a time consuming task.
+* *Price*: One of the most determining factors.
+Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.
+* *Functionality*: You need to have clarity on what do you expect the software to achieve, and make sure it does it efficiently.
+Do not get distracted by additional functionality that can make the software more complex unnecessarily.
+* *Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.
+It will also make more likely to be updated and ported to more modern operating systems.
+* *Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.
+Check the opinions of other users online.
+* *Integration*: Make sure that the software accepts and produces the data formats that you use and need.
+Data transformation is a time consuming task.
 * *Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.
-* *Documentation and technical support*: make sure to explore the existing documentation and support mechanisms. You can be sure that at some point you will need it.
+* *Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.
+You can be sure that at some point you will need it.
 * *Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learnt while using them, supported by in-line help systems.
 
 === Install OpenRefine
@@ -165,9 +219,14 @@ Install software required for activities later in the course
 
 image::img/logos/open-refine-logo.png[Open Refine Logo,width=255px,height=62px,align=center]
 
-OpenRefine is a tool with a set of features for working with tabular data that improves the overall quality of a dataset. It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server. So, think of OpenRefine as a personal and private web application.
+OpenRefine is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.
+It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.
+So, think of OpenRefine as a personal and private web application.
 
-We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises. It will be necessary to install OpenRefine on your laptop. If you are a skilled computer user, you can follow these steps to install the software on your computer. If you are not confident, please ask for help. 
+We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.
+It will be necessary to install OpenRefine on your laptop.
+If you are a skilled computer user, you can follow these steps to install the software on your computer.
+If you are not confident, please ask for help. 
 
 CAUTION: Administrative passwords may be required to install software.
 
@@ -181,7 +240,8 @@ NOTE: Detailed installation instructions are available on the OpenRefine GitHub 
 ==== Installation on MS Windows
 
 . Download the Windows kit.
-. Unzip, and double-click on google-refine.exe. If you’re having issues with the above, try double-clicking on refine.bat instead.
+. Unzip, and double-click on google-refine.exe.
+If you’re having issues with the above, try double-clicking on refine.bat instead.
 . A command window will appear (don't close it) and immediately after a new web browser window will show the application.
 
 ==== Installation on Mac
