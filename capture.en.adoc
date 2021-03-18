@@ -20,12 +20,13 @@ If you are unable to watch the embeded Vimeo video, you can download it locally.
 
 video::438251559[vimeo, height=480, width=640, align=center]
 
-====
+****
 *Questions*
+
 * Is your data type different than you originally thought?
 * With what kind of data do you work?
 * How would you publish your data to GBIF (using which Core and/or extension)?
-====
+****
 
 === Data capture, processing and quality
 [NOTE.presentation]
@@ -37,7 +38,7 @@ video::438251371[vimeo, height=480, width=640, align=center]
 [NOTE.activity]
 For this activity, you will complete an exercise simulating data capture. You will begin to work with Darwin Core terms and make decisions on data that is needed for your organization/project and you will consider which of that data will be shared later during publication.
 
-Refer to USE CASE 1, exercise 2 for further details.
+Read <<scenario,USE CASE I>> (if you haven't already).
 
 Imagine that you are the person assigned to transcribe the data found on the herbarium sheets.
 
@@ -46,7 +47,8 @@ There are 10 images. Two images per specimen for a total of five specimens.
 The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels. 
 Remember to use both images per record to compile the information.
 . Download the spreadsheet template: ‘USE CASE 1 - Exercise 2 - Template (Occurrences).xlsx’ (57.3 KB) to transcribe the information found on each of the images for the five specimens. 
-NOTE: you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template.
 . Use the exercise sheet at the end of Use Case I (829.7 KB) to note your answers.
+
+NOTE: you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template.
 
 === Review
