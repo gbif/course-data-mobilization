@@ -89,7 +89,7 @@ Studying the extract from the book, the volunteers from the Copenhagen Ornitholo
 The team needs to develop a sustainable workflow to digitize literature resources, extract any valuable biodiversity information on them and publish it online via GBIF.
 They need to develop a plan that can be sustained in the future once the funding from the national library association is over.
  
-The scenarion section of this use case includes a brief description of the workflow conceived by the deputy director.
+The <<scenario-4,scenario>> section of this use case includes a brief description of the workflow conceived by the deputy director.
 Based on the workflow and the accompanying text complete the following:
 
 . Identify the different stakeholders participating in this project
@@ -107,7 +107,7 @@ Occurrence data must now be extracted from those sources and compiled in a sprea
 
 The original data was in German and, to make it more widely useable when published online, the project manager would like to make it available in English.
 
-====
+****
 2. Cerchneis tinnunculus, Linn. ( "Taarnfalk") nests in several steeples around Viborg.
  
 At the churches of Mönsted and Daubjerg there were several family groups in 1880, each of 7 individuals, suggesting a particularly abundant source of food on the surrounding heather (lizards). In the area of Thisted, where the tower falcon broods very often, young were always present in broods of 6, only once did I find a group of 7 on Egebäksande (H.)
@@ -117,11 +117,12 @@ In Horsens I found kestrels brooding on the churches of Vähr, Hansted, Hundslun
 In Oelsted 5 eggs on 3 May 1879, in 1882 also 5, and in 1883 6 eggs.
 
 On the churches (Our Lady’s and St. Peter’s) of Copenhagen, I have often seen it in the autumn and winter of 1879; in spring 1880, it brooded on Our Lady’s church, the "round tower" and the law firm building (in a valve) and certainly also on St. Peter's Church. (F.)
-====
+****
 
-. Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences. The occurrences will need unique numbers assigned to them.  
-. Create a sample spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken.
-. Document your work using the exercise sheet.
+. Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences.
+The occurrences will need unique numbers assigned to them.  
+. Create a spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken.
+. Use the exercise sheet to provide your answers and submit the spreadsheet.
 
 TIP: In the examples used, the individual occurrences do not always contain data to complete all of the columns in the spreadsheet.
 
@@ -138,14 +139,15 @@ Additionally, only the scientific name was provided.
 Higher taxonomy can be derived utilizing software tools such as OpenRefine.
 You are also aware that there are typographic errors that were made by the digitizers.
 
-. Download USE CASE 3 DL - Data File Cleaning
-. Identify and correct any invalid years
-. Verify and correct taxonomy
+. Download USE CASE 3 DL - Data File Cleaning.
+. Identify and correct any invalid years.
+. Verify and correct taxonomy.
 . Verify coordinates are correct for the two given localities.
 Correct any that are not.
 Coordinates should be in decimal format.
 . Add any data for missing elements that can be derived using the available data
 . Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata.
+. Use the exercise sheet to provide your answers and submit the spreadsheet.
 
 TIP: dataset should contain only years 1883-1939
 
@@ -158,8 +160,8 @@ You have been supplied with a multimedia file and an identification history file
 The staff member in charge of data quality has provided cleaned datasets for you to publish.
 
 . Download USE CASE 3 DL - Data Files Publishing from the elearning platform
-. Use the exercise sheet to describe the steps you would perform to publish this dataset. 
 . Use the previously provided IPT installation to publish the given dataset.
+. Use the exercise sheet to provide your answers and link to the published dataset.
 
 === Exercise sheet
 
