@@ -1,7 +1,7 @@
 [glossary]
 == Glossary
 
-//Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
+//Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 
 [glossary]
 [[ALA]]ALA:: Atlas of Living Australia. 
@@ -16,7 +16,7 @@ An EU funded project co-ordinated by GBIF whose aim is to increase data mobiliza
 [[BIFA]]BIFA:: Biodiversity Fund for Asia. 
 
 [[CC]]CC Licences:: Creative Commons. 
-These are a series of licenses set up by the Creative Commons organisation that enable sharing and reuse of creativity and knowledge through the provision of free legal tools. 
+These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools. 
 Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC.
 
 [[vocab]]Controlled Vocabulary:: This is a restricted set of terms that are used as possible values for a given field. 
@@ -25,7 +25,7 @@ For example the DwC field basisOfRecord should only contain one of these values:
 We would say that list of values is a controlled vocabulary for that field.
 
 [[DwC]]DwC:: Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners. 
-It is a set of standardised terms (or field names) and their definitions, which are used to share biodiversity information.
+It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information.
 
 [[DOI]]DOI:: Digital Object Identifier. 
 A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications.
@@ -51,7 +51,7 @@ It is used to create and handle Darwin Core Archive files that can be shared and
 [[LSID]]LSID:: Life Sciences Identifier. 
 They are persistent, globally unique identifiers for biological objects.
 
-[[DP]]Data Publishing:: With regards to GBIF we have a very specific defintion of data publishing. 
+[[DP]]Data Publishing:: With regards to GBIF we have a very specific definition of data publishing. 
 It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL).
 
 [[resource]]Resource:: A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance.

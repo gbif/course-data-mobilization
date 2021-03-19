@@ -12,28 +12,28 @@ Lastly, you will be asked to install the OpenRefine software as part of this mod
 ==== Definitions
 [NOTE.presentation]
 In this video (12:02), you will review terminology used in this course. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 38.5 MB)
+If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 38.5 MB)
 
 video::434713168[vimeo, height=480, width=640, align=center]
 
 ==== Software
 [NOTE.presentation]
 In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 18.9 MB)
+If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 18.9 MB)
 
 video::434713189[vimeo, height=480, width=640, align=center] 
 
 ==== Structures
 [NOTE.presentation]
 In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 38.8 MB)
+If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 38.8 MB)
 
 video::434713175[vimeo, height=480, width=640, align=center]
 
 === Data quality
 [NOTE.presentation]
 In this video (12:26), you will review terminology used in this course. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
+If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 44.5 MB)
 
 video::434713215[vimeo, height=480, width=640, align=center]
 
@@ -88,13 +88,13 @@ Redman (2001), suggested that for data to be fit for use they must be accessible
 
 One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.
 There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.
-This may require such things as atomising data fields, adding geo-referencing information, etc.
+This may require such things as atomizing data fields, adding geo-referencing information, etc.
 
 *Quality Assurance/ Quality Control*
 
 The difference between quality control and quality assurance is not always clear.
 Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met.
-She defines Quality Control as a judgment of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgment of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality.
+She defines Quality Control as a judgement of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgement of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality.
 
 In a more business-oriented approach, Redman (2001) defines Quality Assurance as “those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”.
 
@@ -104,7 +104,7 @@ How these terms are to be applied in practice is not clear, and in most cases th
 
 Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).
 Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.
-There is always uncertainty in data; the difficulty is in recording, understanding and visualising that uncertainty so that others can also understand it.
+There is always uncertainty in data; the difficulty is in recording, understanding and visualizing that uncertainty so that others can also understand it.
 Uncertainty is a key term in understanding risk and risk assessment.
 
 *Error*
@@ -119,7 +119,7 @@ In determining ‘fitness for use’ systematic error may be acceptable for some
 An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.
 Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code.
 
-“Because error is inescapable, it should be recognised as a fundamental dimension of data” (Chrisman 1991).
+“Because error is inescapable, it should be recognized as a fundamental dimension of data” (Chrisman 1991).
 Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.
 Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented.
 
@@ -142,20 +142,20 @@ ____
 [NOTE.presentation]
 In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing. 
 You will learn about data mapping, data relationships and metadata. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 29.2 MB)
+If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 29.2 MB)
 
 video::434713200[vimeo, height=480, width=640, align=center]
 
 === Digitization Workflows
 [NOTE.presentation]
 This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources. 
-If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 26.8 MB)
+If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 26.8 MB)
 
 video::120369455[vimeo, height=480, width=640, align=center]
 
 TIP: As the video highlights, digitization protocols vary from institution to institution, but it is essential that the chosen protocol is agreed, documented and respected.
 
-We do not teach digitization, per se, during the workshop, as it can easliy stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.
+We do not teach digitization, per se, during the workshop, as it can easily stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.
 However, we want to provide you with resources on Digitization as we know many are interested in this.
 
 There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.
