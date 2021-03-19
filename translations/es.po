@@ -1,0 +1,4009 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: data-mobilization-course\n"
+"POT-Creation-Date: 2021-03-19 14:16+0000\n"
+"PO-Revision-Date: 2021-03-19 14:29\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: data-mobilization-course\n"
+"X-Crowdin-Project-ID: 446784\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 390\n"
+
+#. type: Title =
+#: index.en.adoc:1
+#, no-wrap
+msgid "Biodiversity Data Mobilization Course"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:3
+msgid "GBIF Secretariat <training@gbif.org>"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:17
+msgid "languageLinks:combined[]"
+msgstr ""
+
+#. type: Block title
+#: index.en.adoc:22
+#, no-wrap
+msgid "_Zonocerus elegans_ (Thunberg, 1815) observed in Zimbabwe by nickypegg (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
+msgstr ""
+
+#. type: Target for macro image
+#: index.en.adoc:23
+#, no-wrap
+msgid "img/web/photo.jpg"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:2
+#, no-wrap
+msgid "Course description"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:8
+msgid "This course enables participants to plan and implement biodiversity data mobilization efforts effectively using accepted community standards.  Its aim is to increase the volume, richness and quality of the data published through the GBIF network.  This course was first developed as part of the Biodiversity Information for Development (BID) programme funded by the European Union."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:10
+msgid "Topics include:"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:12
+msgid "Project management"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:13 use-case-herbarium-specimens.en.adoc:57
+#: capture.en.adoc:2
+#, no-wrap
+msgid "Data capture"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:14 use-case-herbarium-specimens.en.adoc:61
+#: management.en.adoc:3
+#, no-wrap
+msgid "Data management"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:15 use-case-herbarium-specimens.en.adoc:65
+#: publishing.en.adoc:3
+#, no-wrap
+msgid "Data publishing"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:18
+msgid "This course is comprised of video instruction paired with quizzes and practical exercises.  When offered as an onsite or virtual workshop, group work and social interaction are encouraged."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:20
+#, no-wrap
+msgid "Audience"
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:23
+#, no-wrap
+msgid "Prerequisites"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:26
+msgid "Introduction to GBIF course"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:28
+msgid "Additionally, to make best use of the activities around this course, the participants should possess the following skills and knowledge:"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:30
+msgid "Basic skills in computer and internet use, and, in particular, in the use of spreadsheets."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:31
+msgid "Basic knowledge about geography and biodiversity informatics: geography and mapping concepts, basic taxonomy and nomenclature rules."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:32
+msgid "Willingness to disseminate the knowledge learned in the workshop with partners and collaborators in your project by adapting the biodiversity data mobilization training materials to specific contexts and languages while maintaining their instructional value."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:33
+msgid "A good command of English. While efforts are made to provide materials in other languages, instruction/videos will be in English."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:34
+#, no-wrap
+msgid "Learning objectives"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:37
+msgid "Learn key concepts (foundations) of biodiversity informatics, particular to biodiversity digital data management."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:38
+msgid "Receive an introduction to the Darwin Core Standard and its components."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:39
+msgid "Learn to understand the different stages for planning a mobilization project and how to adapt stages to a specific project."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:40
+msgid "Evaluate a data mobilization strategy to identify potential gaps, inefficiencies and pitfalls."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:41
+msgid "Develop a data mobilization strategy customized to a given institutional framework."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:42
+msgid "Learn to identify the types of data and how to best capture relevant information using best practices, existing softwares, tools and techniques."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:43
+msgid "Use software tools designed to facilitate biodiversity data capture to produce digital biodiversity data from analogue sources."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:44
+msgid "Learn data quality concepts and receive an introduction to tools used for standardizing data, validating data, and cleaning data."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:45
+msgid "Use software tools to evaluate the fitness-for-use of a biodiversity dataset"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:46
+msgid "Use software tools designed for (biodiversity) data cleaning."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:47
+msgid "Learn the process of making biodiversity data freely available online, also known as data publishing, utilizing GBIF’s Integrated Publishing Toolkit (IPT)."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:48
+msgid "Define the publishable data types and subtypes (if any) for a biodiversity dataset."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:49
+msgid "Use the GBIF IPT to publish biodiversity datasets using the appropriate extensions."
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:50
+msgid "Capacitate others in the planning, capture, management and publishing of biodiversity data."
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:51
+#, no-wrap
+msgid "Certification"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:54
+msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge].  See <<assessment-and-certification,Assessment and Certification>> for more details."
+msgstr ""
+
+#. type: Title ==
+#: foundations.en.adoc:2
+#, no-wrap
+msgid "Foundations "
+msgstr ""
+
+#. type: Plain text
+#: foundations.en.adoc:9
+msgid "This module includes instruction to ensure all participants are at the same level before delving into the data mobilization topics.  You will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.  You will also receive an introduction to data quality and learn the importance of documentation.  Lastly, you will be asked to install the OpenRefine software as part of this module."
+msgstr ""
+
+#. type: Title ===
+#: foundations.en.adoc:10
+#, no-wrap
+msgid "Terminology"
+msgstr ""
+
+#. type: Title ====
+#: foundations.en.adoc:12
+#, no-wrap
+msgid "Definitions"
+msgstr ""
+
+#. type: Plain text
+#: foundations.en.adoc:16
+msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 38.5 MB)"
+msgstr ""
+
+#. type: Title ====
+#: foundations.en.adoc:19
+#, no-wrap
+msgid "Software"
+msgstr ""
+
+#. type: Plain text
+#: foundations.en.adoc:23
+msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 18.9 MB)"
+msgstr ""
+
+#. type: Plain text
+#: foundations.en.adoc:25
+msgid "video::434713189[vimeo, height=480, width=640, align=center]"
+msgstr ""
+
+#. type: Title ====
+#: foundations.en.adoc:26
+#, no-wrap
+msgid "Structures"
+msgstr ""
+
+#. type: Plain text
+#: foundations.en.adoc:30
+msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 38.8 MB)"
+msgstr ""
+
+#. type: Title ===
+#: foundations.en.adoc:33
+#, no-wrap
+msgid "Data quality"
+msgstr ""
+
+#. type: Plain text
+#: foundations.en.adoc:37
+msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 44.5 MB)"
+msgstr ""
+
+#. type: Plain text
+#: foundations.en.adoc:44
+msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document], references and translations can be found on GBIF.org."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:49
+msgid "Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described.  These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:51
+#, no-wrap
+msgid "*Species-occurrence data*\n"
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:55
+msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:58
+msgid "In general the data are also tied to a taxonomic name, but unidentified collections may also be included.  The term has occasionally been used interchangeably with the term “primary species data”."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:60
+#, no-wrap
+msgid "*Primary species data*\n"
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:63
+msgid "“Primary species data” is used to describe raw collection data and data without any spatial attributes.  It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:65
+#, no-wrap
+msgid "*Accuracy and Precision*\n"
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:67
+msgid "Accuracy and precision are regularly confused and the differences are not generally understood."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:69
+msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:76
+msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:79
+msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:81
+#, no-wrap
+msgid "*Data quality*\n"
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:86
+msgid "Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation.  As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user.  In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful.  Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999)."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:88
+msgid "Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:92
+msgid "One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.  There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.  This may require such things as atomising data fields, adding geo-referencing information, etc."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:94
+#, no-wrap
+msgid "*Quality Assurance/ Quality Control*\n"
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:98
+msgid "The difference between quality control and quality assurance is not always clear.  Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met.  She defines Quality Control as a judgment of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgment of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:100
+msgid "In a more business-oriented approach, Redman (2001) defines Quality Assurance as “those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:102
+msgid "How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:104
+#, no-wrap
+msgid "*Uncertainty*\n"
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:109
+msgid "Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).  Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.  There is always uncertainty in data; the difficulty is in recording, understanding and visualising that uncertainty so that others can also understand it.  Uncertainty is a key term in understanding risk and risk assessment."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:111
+#, no-wrap
+msgid "*Error*\n"
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:118
+msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:121
+msgid "An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.  Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:125
+msgid "“Because error is inescapable, it should be recognised as a fundamental dimension of data” (Chrisman 1991).  Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.  Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:127
+#, no-wrap
+msgid "*Validation and Cleaning*\n"
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:133
+msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
+msgstr ""
+
+#. type: delimited block _
+#: foundations.en.adoc:138
+msgid "Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.  The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.  It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.  It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered."
+msgstr ""
+
+#. type: Title ===
+#: foundations.en.adoc:141
+#, no-wrap
+msgid "Documentation"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:146
+msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 29.2 MB)"
+msgstr ""
+
+#. type: Title ===
+#: foundations.en.adoc:149
+#, no-wrap
+msgid "Digitization Workflows"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:153
+msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 26.8 MB)"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:157
+msgid "As the video highlights, digitization protocols vary from institution to institution, but it is essential that the chosen protocol is agreed, documented and respected."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:160
+msgid "We do not teach digitization, per se, during the workshop, as it can easliy stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.  However, we want to provide you with resources on Digitization as we know many are interested in this."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:165
+msgid "There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.  It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to.  In this exercise we introduce you to some practical digitization workflow resources to help get you started.  These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:167
+msgid "Some steps in the process may include:"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:169
+#, no-wrap
+msgid "*Pre-digitization curation and staging*: This includes the preparation of the data source for the digitization process, including the assignment of unique identifiers that will help to refer to the source without error and to keep all derived information together.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:170
+#, no-wrap
+msgid "*Image capture*: This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:171
+#, no-wrap
+msgid "*Image processing*: This includes quality control, file conversion, etc.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:173
+#, no-wrap
+msgid "*Electronic data capture*: The core of the digitization process, includes capturing key information in a database.\n"
+"The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:174
+#, no-wrap
+msgid "*Georeferencing*: Geographical information is very important fort biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:178
+msgid "Integrated Digitized Biocollections (iDigBio) is the coordination center for the United States National Resource for Advancing Digitization of Biodiversity Collections (ADBC).  They are leading a nation-wide effort to make available data and images for millions of biological specimens in a standard electronic format for the research community, government agencies, students, educators, and the general public.  They are making a huge outreach effort and have produced several videos that discuss the digitization process."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:180
+msgid "There are other videos in the iDigBio series that you may be interested in, if you wish to learn more about specific workflows for different specimen types:"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:182
+msgid "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:183
+msgid "“Imaging Workflows for the Digitization of Dry-preserved Vertebrate Specimens” (7:25 mins) https://vimeo.com/160615629"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:184
+msgid "“Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768"
+msgstr ""
+
+#. type: Title ===
+#: foundations.en.adoc:185
+#, no-wrap
+msgid "Software tools"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:188
+msgid "Review software tools used in biodiversity informatics"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:191
+msgid "During the course activities, we’ll demonstrate and work with many different software tools related to data digitization, data quality and transformation.  You probably already use several of them in your daily work."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:194
+msgid "Community trainers, mentors and former course participants have compiled a list with information about biodiversity informatics software tools.  It provides links for their main websites, a key facts and a summary of strong and weak points."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:196
+msgid "Download spreadsheet (Excel, 22.6 KB)"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:200
+msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual “Initiating a Digitization Project”:"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:203
+#, no-wrap
+msgid "*Price*: One of the most determining factors.\n"
+"Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:205
+#, no-wrap
+msgid "*Functionality*: You need to have clarity on what do you expect the software to achieve, and make sure it does it efficiently.\n"
+"Do not get distracted by additional functionality that can make the software more complex unnecessarily.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:207
+#, no-wrap
+msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
+"It will also make more likely to be updated and ported to more modern operating systems.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:209
+#, no-wrap
+msgid "*Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.\n"
+"Check the opinions of other users online.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:211
+#, no-wrap
+msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
+"Data transformation is a time consuming task.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:212
+#, no-wrap
+msgid "*Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:214
+#, no-wrap
+msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
+"You can be sure that at some point you will need it.\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:215
+#, no-wrap
+msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learnt while using them, supported by in-line help systems.\n"
+msgstr ""
+
+#. type: Title ===
+#: foundations.en.adoc:216
+#, no-wrap
+msgid "Install OpenRefine"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:219
+msgid "Install software required for activities later in the course"
+msgstr ""
+
+#. type: Positional ($1) AttributeList argument for macro 'image'
+#: foundations.en.adoc:220
+#, no-wrap
+msgid "Open Refine Logo"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:220
+#, no-wrap
+msgid "img/logos/open-refine-logo.png"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:225
+msgid "OpenRefine is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:230
+msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:232
+msgid "Administrative passwords may be required to install software."
+msgstr ""
+
+#. type: Title ====
+#: foundations.en.adoc:233
+#, no-wrap
+msgid "Installation Requirements"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:236
+msgid "Java JRE installed."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:237
+msgid "Google Chrome or Mozilla Firefox installed, avoid using Internet Explorer."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:239
+msgid "Detailed installation instructions are available on the OpenRefine GitHub repository."
+msgstr ""
+
+#. type: Title ====
+#: foundations.en.adoc:240
+#, no-wrap
+msgid "Installation on MS Windows"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:243
+msgid "Download the Windows kit."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:245
+msgid "Unzip, and double-click on google-refine.exe.  If you’re having issues with the above, try double-clicking on refine.bat instead."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:246
+msgid "A command window will appear (don't close it) and immediately after a new web browser window will show the application."
+msgstr ""
+
+#. type: Title ====
+#: foundations.en.adoc:247
+#, no-wrap
+msgid "Installation on Mac"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:250
+msgid "Download the Mac kit."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:251
+msgid "Open, and drag the the icon into the Applications folder."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:252
+msgid "Double click on it and a new web browser window will show the application."
+msgstr ""
+
+#. type: Title ===
+#: foundations.en.adoc:253
+#, no-wrap
+msgid "Foundations review"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:256
+msgid "Quiz yourself on the concepts learned in this section."
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:260
+#, no-wrap
+msgid "What is the binary for the word \"biodiversity\"?\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:263
+#, no-wrap
+msgid "[TIP]\n"
+"Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html.\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:268
+#, no-wrap
+msgid "- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 01101110 01100011 01100101\n"
+"- [ ] 01000010 01001001 01000110 01000001\n"
+"- [ ] 01000111 01000010 01001001 01000110\n"
+"- [x] 01100010 01101001 01101111 01100100 01101001 01110110 01100101 01110010 01110011 01101001 01110100 01111001\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:273
+#, no-wrap
+msgid "If you open a data file and see the following, what would you suspect is the issue?\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:275
+#, no-wrap
+msgid "�tre, ou ne pas �tre, c�est l� la question.\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:280
+#, no-wrap
+msgid "- [ ] Nothing\n"
+"- [ ] It is corrupt\n"
+"- [x] The wrong encoding was used to open the file\n"
+"- [ ] The sender used a weird font\n"
+msgstr ""
+
+#. type: Title ==
+#: use-case-herbarium-specimens.en.adoc:3
+#, no-wrap
+msgid "Use Case I - Hebarium Specimens"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-checklist.en.adoc:6
+#: use-case-lepidoptera-sampling.en.adoc:6
+#: use-case-birds-from-literature.en.adoc:6
+msgid "Familiarize yourself with the use case scenario."
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:11
+msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the exercise sheet (MS Word, 829.7 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
+msgstr ""
+
+#. type: Title ===
+#: use-case-herbarium-specimens.en.adoc:12
+#: use-case-invasive-checklist.en.adoc:14
+#: use-case-lepidoptera-sampling.en.adoc:14
+#: use-case-birds-from-literature.en.adoc:9
+#, no-wrap
+msgid "Scenario"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:14
+#, no-wrap
+msgid "*A Data Mobilization Project in a Regional Herbarium*\n"
+msgstr ""
+
+#. type: Block title
+#: use-case-herbarium-specimens.en.adoc:16
+#, no-wrap
+msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-herbarium-specimens.en.adoc:17
+#, no-wrap
+msgid "img/web/use-case-1-Eriocaulon_bilobatum-cropped.png"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:20
+msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. The data are from a real dataset, but have been modified for the purposes of these exercises. It is a fictionalized scenario and is meant only for instructional purposes."
+msgstr ""
+
+#. type: Title ====
+#: use-case-herbarium-specimens.en.adoc:21
+#: use-case-invasive-checklist.en.adoc:27
+#: use-case-lepidoptera-sampling.en.adoc:24
+#: use-case-birds-from-literature.en.adoc:22
+#, no-wrap
+msgid "Description"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:25
+msgid "The University of White Plains is a well recognized tertiary education institution in Guatemala and a national reference for biodiversity research.  The Plant Biology Department keeps a medium-size herbarium containing approximately 80,000 specimens collected in and around the local region and dating from the mid-20th century to the present.  The collection includes important specimens including types and endemics."
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:29
+msgid "Currently, the care of the collection is assigned to the Professor of Plant Systematics, who performs curatorial tasks as well as their regular research and teaching work.  The Departmental Admin is responsible for day-to-day administrative tasks for the herbarium such as purchasing consumables including paper and labels.  Faculty staff and students collaborating within the department occasionally work on and update the identifications on the specimens and there are two retired botanists who regularly volunteer in the collection assisting the Professor to prepare loans."
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:32
+msgid "The University already has an online search for its library collections which is maintained by the University’s central web-team on externally hosted servers.  No natural history specimens are currently served via this platform."
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:35
+msgid "The Head of the Plant Biology Department has recently secured a 50,000USD, two year grant to image and publish the botanical collections information online.  The team wants to use this opportunity to establish a permanent digitization and publishing protocol that will give higher visibility to the herbarium and continue attracting funding."
+msgstr ""
+
+#. type: Title ====
+#: use-case-herbarium-specimens.en.adoc:36
+#: use-case-invasive-checklist.en.adoc:42
+#: use-case-lepidoptera-sampling.en.adoc:39
+#, no-wrap
+msgid "Data collection"
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-herbarium-specimens.en.adoc:38
+#, no-wrap
+msgid "img/web/use-case-1-short-mountain-park.png"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:44
+msgid "The herbarium comprises approximately 80,000 specimens collected from 1960 to 2015 concentrated mainly in the biodiversity hot spot -- Short Mountain National Park.  The collection is still growing as a result of exchanges, donations and several active research projects.  For each specimen, information about collector, time, date, location and taxonomy are documented.  So far no quality control measures have been carried out on the data and there has been no systematic imaging of specimens."
+msgstr ""
+
+#. type: Title ====
+#: use-case-herbarium-specimens.en.adoc:45
+#, no-wrap
+msgid "Dataset description"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:48
+msgid "The professor has a simple non-relational database on his computer which serves as an index of many but not all specimens.  Any images of the specimens that exist are held locally by the individual researchers that took them."
+msgstr ""
+
+#. type: Title ===
+#: use-case-herbarium-specimens.en.adoc:49
+#, no-wrap
+msgid "Exercises"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:52
+msgid "The individual exercises for this use case are located in the corresponding modules."
+msgstr ""
+
+#. type: Title ==
+#: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
+#, no-wrap
+msgid "Planning"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:56
+msgid "<<Exercise 1a-c>>"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:60
+msgid "<<Exercise 2>>"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:64
+msgid "<<Exercise 3a-c>>"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:68
+msgid "<<Exercise 4>>"
+msgstr ""
+
+#. type: Title ===
+#: use-case-herbarium-specimens.en.adoc:69
+#: use-case-invasive-checklist.en.adoc:145
+#: use-case-lepidoptera-sampling.en.adoc:157
+#: use-case-birds-from-literature.en.adoc:166
+#, no-wrap
+msgid "Exercise sheet"
+msgstr ""
+
+#. type: Plain text
+#: use-case-herbarium-specimens.en.adoc:71
+#: use-case-invasive-checklist.en.adoc:147
+#: use-case-lepidoptera-sampling.en.adoc:159
+#: use-case-birds-from-literature.en.adoc:168
+msgid "Download (MS Word, ?? MB)"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:7
+msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on Use Case I.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
+msgstr ""
+
+#. type: Title ===
+#: planning.en.adoc:8
+#, no-wrap
+msgid "Resourcing"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:12
+msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 25.1 MB)"
+msgstr ""
+
+#. type: Title ===
+#: planning.en.adoc:15
+#, no-wrap
+msgid "Organizing"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:19
+msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practicle workable plans and clear documentation.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 26.2 MB)"
+msgstr ""
+
+#. type: Title ===
+#: planning.en.adoc:22
+#, no-wrap
+msgid "Exercise 1a-c"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:26
+msgid "For this activity, you will be using a virtual tabletop platform and making notes on your Use Case I answer sheet for exercise 1 a-c.  Review the exercise instructions below."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:28
+#, no-wrap
+msgid "*References*\n"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:30
+msgid "Role definitions"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:31
+msgid "Stage definitions"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:33
+msgid "To help you to work through the planning exercises for Use Case's 2 and 3, we have made available five virtual playing card tables."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:35
+msgid "Because these are shared spaces, we ask that you follow these rules so that everyone who wants to use them can:"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:40
+msgid "Clean up after yourself.  If you use a card table, please be sure to return it to it's clean and original state when you are done.  This means putting all of the cards away and removing/deleting any new cards that you have added to the deck.  You can do this by clicking the recall buttons below each deck of cards."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:43
+msgid "If it's busy, try another table.  If you see that a card table is in use, please use one of the other card table links.  If you are unable to find an empty card table, alert the trainers so that we can check the tables to be sure that any tables were not left unattended (or if we need to create an additional table for you)."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:47
+msgid "Don't leave a table unattended.  Please do not leave your work on a table sitting out for long periods of time.  If you need to step away for an hour or two, that is acceptable, but please do not leave the cards unattended for more than 4 hours.  If you need to leave your set up for an extended period of time, please use the eLearning platform to notify the group and trainers which link you are using, why you need to leave your cards, and when you will return to complete your work."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:51
+msgid "Take screen captures often.  We cannot guarantee that your cards will not be reset accidentally by someone from the workshop or by someone from your own project.  You cannot reset the cards once they have been recalled and reset.  If you want to submit a screenshot with your excercise please do."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:53
+msgid "The trainers reserve the right to reset the card tables.  If we observe that one or more tables contain cards that have not been put away and have not been used for more than four hours without any notifications in the Forum on the eLearning platform, we will clear and reset the table for others to use."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:55
+msgid "Gameroom links:"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:57
+msgid "RED: http://playingcards.io/sca368"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:59
+msgid "GREEN: http://playingcards.io/fxkceg"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:61
+msgid "YELLOW: http://playingcards.io/7va9m5"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:63
+msgid "BLUE: http://playingcards.io/s6vvn9"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:65
+msgid "PURPLE: http://playingcards.io/tm5g4c"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:67
+msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and Kate Webbink for artistic expertise. The online tabletop platform is provided by PlayingCards.io."
+msgstr ""
+
+#. type: Title ====
+#: planning.en.adoc:68 use-case-invasive-checklist.en.adoc:68
+#: use-case-lepidoptera-sampling.en.adoc:80
+#, no-wrap
+msgid "Exercise 1a"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:70 capture.en.adoc:44 management.en.adoc:26
+#: publishing.en.adoc:33
+msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:74
+msgid "Using the cards select the goals that mostly closely match those the project outlines and then choose the tasks that would need to be carried out to complete them.  Next, identify the people/resources that the project has available to it and assign role cards to them as appropriate.  Lastly, assign these to their stakeholder groups and affiliations."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:76
+msgid "Review the GOALS cards with the group, select and lay out the ones that fit the use case."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:77
+msgid "Review the TASK cards with the group."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:78
+msgid "Assign the TASK cards to each of the GOAL cards selected from the use case description."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:79
+msgid "Identify the institutions and people mentioned in the use case text and make note of them."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:80
+msgid "Lay out the AFFILIATIONS cards on the table."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:81
+msgid "Review the STAKEHOLDER cards, identify any mentioned in the use case and then decide which AFFILIATION they belong to."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:82
+msgid "Review the ROLE cards, identify any mentioned in the use case and decide which STAKEHOLDER group they belong to."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:83
+msgid "Make notes to cards as appropriate."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:84
+msgid "Once the cards are assigned take pictures/screenshots."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:85 planning.en.adoc:100 capture.en.adoc:53
+#: management.en.adoc:41 management.en.adoc:62 management.en.adoc:77
+#: publishing.en.adoc:43 use-case-invasive-checklist.en.adoc:75
+#: use-case-invasive-checklist.en.adoc:95
+#: use-case-lepidoptera-sampling.en.adoc:87
+#: use-case-lepidoptera-sampling.en.adoc:107
+#: use-case-birds-from-literature.en.adoc:100
+msgid "Use the exercise sheet to provide your answers."
+msgstr ""
+
+#. type: delimited block *
+#: planning.en.adoc:88
+#, no-wrap
+msgid "*Question*\n"
+msgstr ""
+
+#. type: delimited block *
+#: planning.en.adoc:90
+msgid "Are there resources or goals missing from the cards that you feel are critical to the successful completion of the project? Note these on the answer sheet."
+msgstr ""
+
+#. type: Title ====
+#: planning.en.adoc:92 use-case-invasive-checklist.en.adoc:87
+#: use-case-lepidoptera-sampling.en.adoc:99
+#, no-wrap
+msgid "Exercise 1b"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:95
+msgid "Using the stakeholder and goal analysis from exercise 1a, develop a workflow using the STAGE cards."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:97
+msgid "Re-read the use case introduction, if necessary."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:98
+msgid "Decide which TASKS for which each ROLE will be responsible."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:99
+msgid "Review the STAGE cards and order the TASKS appropriately."
+msgstr ""
+
+#. type: delimited block *
+#: planning.en.adoc:103
+#, no-wrap
+msgid "*Questions*   \n"
+msgstr ""
+
+#. type: delimited block *
+#: planning.en.adoc:106
+msgid "Are there obvious bottlenecks in the workflow? For example: Are there too many tasks for a particular role/resource?"
+msgstr ""
+
+#. type: delimited block *
+#: planning.en.adoc:108
+msgid "What issues do you think would be important to the successful mobilization of data from the points of view of each stakeholder/role? For example: What are the deliverables? Thinking about the general project timeframe, are they realistic?"
+msgstr ""
+
+#. type: delimited block *
+#: planning.en.adoc:109
+msgid "Consolidate notes and prioritize in order of importance."
+msgstr ""
+
+#. type: delimited block *
+#: planning.en.adoc:110
+msgid "If you have time you can explore different combinations as different scenarios are possible in different contexts or even try to document the situation for your own project."
+msgstr ""
+
+#. type: Title ====
+#: planning.en.adoc:112
+#, no-wrap
+msgid "Exercise 1c"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:115
+msgid "This exercise should be used when the course is taught virtually or onsite as a group activity."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:117
+msgid "After the exercises the presenter of each group will:"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:119
+msgid "Present any missing stakeholders and/or tasks saying why they were added."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:120
+msgid "Highlight the two most critical issues/topics that the group has identified."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:122
+msgid "Potential discussion points across groups:"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:124
+msgid "What similarities and differences can be seen in the flows?"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:125
+msgid "Were there common issues that came up across the groups?"
+msgstr ""
+
+#. type: Title ===
+#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:78
+#: publishing.en.adoc:44
+#, no-wrap
+msgid "Review"
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:7
+msgid "In this module, you will learn about the concept of standards, in particular, the Darwin Core standard and its components.  You will also learn the types of primary biodiversity data and how to best share that information within GBIF.  Lastly, you will review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
+msgstr ""
+
+#. type: Title ===
+#: capture.en.adoc:8
+#, no-wrap
+msgid "Standards and Darwin Core"
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:13
+msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 27 MB)"
+msgstr ""
+
+#. type: Title ===
+#: capture.en.adoc:16
+#, no-wrap
+msgid "Data orgins and types"
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:20
+msgid "In this video (10:45), you will review primary biodiversity data that can be shared within GBIF.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 19 MB)"
+msgstr ""
+
+#. type: delimited block *
+#: capture.en.adoc:25
+#, no-wrap
+msgid "*Questions*\n"
+msgstr ""
+
+#. type: delimited block *
+#: capture.en.adoc:27
+msgid "Is your data type different than you originally thought?"
+msgstr ""
+
+#. type: delimited block *
+#: capture.en.adoc:28
+msgid "With what kind of data do you work?"
+msgstr ""
+
+#. type: delimited block *
+#: capture.en.adoc:29
+msgid "How would you publish your data to GBIF (using which Core and/or extension)?"
+msgstr ""
+
+#. type: Title ===
+#: capture.en.adoc:31
+#, no-wrap
+msgid "Data capture, processing and quality"
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:35
+msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 19 MB)"
+msgstr ""
+
+#. type: Title ===
+#: capture.en.adoc:38 use-case-invasive-checklist.en.adoc:108
+#: use-case-lepidoptera-sampling.en.adoc:120
+#: use-case-birds-from-literature.en.adoc:101
+#, no-wrap
+msgid "Exercise 2"
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:42
+msgid "For this activity, you will complete an exercise simulating data capture.  You will begin to work with Darwin Core terms and make decisions on data that is needed for your organization/project and you will consider which of that data will be shared later during publication."
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:46
+msgid "Imagine that you are the person assigned to transcribe the data found on the herbarium sheets."
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:51
+msgid "Download ‘USE CASE 1 - Exercise 2 Base Material.zip’. (34.4 MB).  There are 10 images. Two images per specimen for a total of five specimens.  The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels.  Remember to use both images per record to compile the information."
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:52
+msgid "Download the spreadsheet template: ‘USE CASE 1 - Exercise 2 - Template (Occurrences).xlsx’ (57.3 KB) to transcribe the information found on each of the images for the five specimens."
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:55
+msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:6
+msgid "In this module, you will review the main concepts, related tools and best practices for data cleaning and standardization."
+msgstr ""
+
+#. type: Title ===
+#: management.en.adoc:7
+#, no-wrap
+msgid "Principles of data managment"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:11
+msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 16.6 MB)"
+msgstr ""
+
+#. type: Title ===
+#: management.en.adoc:14
+#, no-wrap
+msgid "Data management tools"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:18
+msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
+msgstr ""
+
+#. type: Title ===
+#: management.en.adoc:21
+#, no-wrap
+msgid "Exercise 3a-c"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:24
+msgid "For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use OpenRefine."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:30
+msgid "Your institution is part of the “Global Poales Association (GPA)”.  This association has secured funding to publish an up-to-date flora on the group and has requested your herbarium to participate and provide any high quality records you may have on this order of plants.  The order is well represented in your collection so you think you could contribute substantially to this effort."
+msgstr ""
+
+#. type: Title ====
+#: management.en.adoc:31
+#, no-wrap
+msgid "Execise 3a"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:34
+#, no-wrap
+msgid "*Validation checks*\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:36
+msgid "In this short exercise we will focus on technical errors and perform a basic validation check to identify technical and consistency errors."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:38
+msgid "Download ‘Data Cleaning_DATA EXAMPLE.csv’. (207.5 KB)"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:39
+msgid "Import the CSV file in Excel using the Excel wizard. See 'Data Cleaning Excel Tips-EN' (PDF, 7 MB) for import instructions."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:40
+msgid "Find and correct the errors manually."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:43
+msgid "See ‘Data Cleaning - Tips_EN’ (PDF, 521 KB) for information on the types of errors."
+msgstr ""
+
+#. type: Title ====
+#: management.en.adoc:44
+#, no-wrap
+msgid "Exercise 3b"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:47
+#, no-wrap
+msgid "*Other data management tools*\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:49
+msgid "The GPA association has given you a checklist of data quality elements to verify:"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:51
+msgid "All plant names (full name) are correctly spelled"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:52
+msgid "All plant names belong to the order"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:53
+msgid "All records have coordinates"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:54
+msgid "All coordinates are inside the country stated and converted to decimal format"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:55
+msgid "All dates are in the proper column and in the format YYYY-MM-DD"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:57
+msgid "Review 'Data Cleaning Other Tools Tips-EN' (PDF, 107.8 KB) for tips on completing the exercise."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:58
+msgid "Use the same file from the previous exercise."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:59
+msgid "Make the correction ONLY for the Eriocaulaceae family (so you may want to filter the data)"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:60
+msgid "Correct the errors found in the dataset used in exercise 3a (previous exercise), using the tools of your choice, and document the changes you perform in the exercise sheet."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:61
+msgid "Correct the entire file if you have time."
+msgstr ""
+
+#. type: Title ====
+#: management.en.adoc:63
+#, no-wrap
+msgid "Exercise 3c"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:67
+msgid "In this video (??:??), you will learn about OpenRefine. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:71 keydocs.en.adoc:78
+#, no-wrap
+msgid "*OpenRefine*\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:73
+msgid "In this exercise we use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:75
+msgid "Complete the exercises in 'Data Cleaning OpenRefine Exercise-EN'. (PDF, 1.1 MB)"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:76
+msgid "Download 'Data Cleaning_OpenRefine_DATA EXAMPLE.csv' (207.5 KB) as your source file."
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:6
+msgid "In this module, you will learn about data publishing concepts, including the IPT, cores and extensions, and the importance of licenses, metadata, mandatory fields and hosting of datasets."
+msgstr ""
+
+#. type: Title ===
+#: publishing.en.adoc:7
+#, no-wrap
+msgid "Data publishing concepts"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:11
+msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (IPT).  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 20 MB)"
+msgstr ""
+
+#. type: Title ===
+#: publishing.en.adoc:14
+#, no-wrap
+msgid "IPT overview"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:18
+msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
+msgstr ""
+
+#. type: Title ===
+#: publishing.en.adoc:21
+#, no-wrap
+msgid "IPT demonstration"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:25
+msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embeded Vimeo video, you can download it locally. (MP4 - 52.6 MB)"
+msgstr ""
+
+#. type: Title ===
+#: publishing.en.adoc:28 use-case-invasive-checklist.en.adoc:133
+#: use-case-lepidoptera-sampling.en.adoc:145
+#: use-case-birds-from-literature.en.adoc:154
+#, no-wrap
+msgid "Exercise 4"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:31
+msgid "In this exercise, you will publish an occurrence dataset using the IPT."
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:35 assessments-certification.en.adoc:148
+#: use-case-invasive-checklist.en.adoc:136
+#: use-case-lepidoptera-sampling.en.adoc:148
+#: use-case-birds-from-literature.en.adoc:157 keydocs.en.adoc:14
+#, no-wrap
+msgid "*Data publishing*\n"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:37
+msgid "After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset."
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:40
+msgid "At this point, you need an account on the course IPT.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:41
+msgid "Download 'IPT Data Publishing_Poales Dataset.csv'. (233.5 KB)"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:42
+msgid "Use the assigned IPT installation and publish this file."
+msgstr ""
+
+#. type: Title ==
+#: assessments-certification.en.adoc:3
+#, no-wrap
+msgid "Assessment and certification"
+msgstr ""
+
+#. type: Plain text
+#: assessments-certification.en.adoc:6
+msgid "In this module, you will review the criteria to be used to assess assignments and to achieve certification."
+msgstr ""
+
+#. type: Plain text
+#: assessments-certification.en.adoc:8
+msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge]."
+msgstr ""
+
+#. type: Table
+#: assessments-certification.en.adoc:16
+#, no-wrap
+msgid "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=\"center\", width=\"75\", height=\"75\"]\n"
+"|An overall score of 2.5-2.9 earns a BASIC Biodiversity Data Mobilization badge\n\n"
+"|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=\"center\", width=\"75\", height=\"75\"]\n"
+"|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
+msgstr ""
+
+#. type: Plain text
+#: assessments-certification.en.adoc:19
+msgid "Participants are required to submit Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
+msgstr ""
+
+#. type: Plain text
+#: assessments-certification.en.adoc:21
+msgid "Review the rubrics to ensure understanding of the skills that will be assessed for certification."
+msgstr ""
+
+#. type: Title ===
+#: assessments-certification.en.adoc:22
+#, no-wrap
+msgid "Planning rubric"
+msgstr ""
+
+#. type: Plain text
+#: assessments-certification.en.adoc:25 use-case-invasive-checklist.en.adoc:63
+#: use-case-lepidoptera-sampling.en.adoc:75
+#: use-case-birds-from-literature.en.adoc:88
+#, no-wrap
+msgid "*Planning*\n"
+msgstr ""
+
+#. type: Table
+#: assessments-certification.en.adoc:61 assessments-certification.en.adoc:102
+#: assessments-certification.en.adoc:143 assessments-certification.en.adoc:184
+#, no-wrap
+msgid "|Skills\n"
+"|Beginning performance\n"
+"1\n"
+"|Developing performance\n"
+"2\n"
+"|Accomplished performance\n"
+"3\n"
+"|Outstanding performance\n"
+"4\n\n"
+"|A\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+"|Item\n\n"
+"|B\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+"|Item\n\n"
+"|C\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+"|Item\n\n"
+"|D\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+msgstr ""
+
+#. type: Title ===
+#: assessments-certification.en.adoc:63
+#, no-wrap
+msgid "Data capture rubric"
+msgstr ""
+
+#. type: Plain text
+#: assessments-certification.en.adoc:66 use-case-invasive-checklist.en.adoc:111
+#: use-case-lepidoptera-sampling.en.adoc:123
+#: use-case-birds-from-literature.en.adoc:104
+#, no-wrap
+msgid "*Data capture*\n"
+msgstr ""
+
+#. type: Title ===
+#: assessments-certification.en.adoc:104
+#, no-wrap
+msgid "Data management rubric"
+msgstr ""
+
+#. type: Plain text
+#: assessments-certification.en.adoc:107
+#: use-case-invasive-checklist.en.adoc:124
+#: use-case-lepidoptera-sampling.en.adoc:135
+#: use-case-birds-from-literature.en.adoc:132
+#, no-wrap
+msgid "*Data management*\n"
+msgstr ""
+
+#. type: Title ===
+#: assessments-certification.en.adoc:145
+#, no-wrap
+msgid "Data publishing rubric"
+msgstr ""
+
+#. type: Title ===
+#: assessments-certification.en.adoc:186
+#, no-wrap
+msgid "Badge recipients"
+msgstr ""
+
+#. type: Title ====
+#: assessments-certification.en.adoc:188
+#, no-wrap
+msgid "Advanced"
+msgstr ""
+
+#. type: Title ====
+#: assessments-certification.en.adoc:190
+#, no-wrap
+msgid "Basic"
+msgstr ""
+
+#. type: Title ==
+#: use-case-invasive-checklist.en.adoc:3
+#, no-wrap
+msgid "Use Case II - Invasive species"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:8
+#: use-case-lepidoptera-sampling.en.adoc:8
+msgid "You have a choice for Use Case II between two scenarios:"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:10
+#: use-case-lepidoptera-sampling.en.adoc:10
+msgid "Invasive species checklist"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:11
+#: use-case-lepidoptera-sampling.en.adoc:11
+msgid "Lepidoptera sampling"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:13
+#: use-case-lepidoptera-sampling.en.adoc:13
+msgid "Your choice for Use Case II will be graded."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:16
+#, no-wrap
+msgid "*Tracking invasive species*\n"
+msgstr ""
+
+#. type: Block title
+#: use-case-invasive-checklist.en.adoc:18
+#, no-wrap
+msgid "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam.) de Wit] observed in Hawaii by Sharon Grant (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-invasive-checklist.en.adoc:19
+#, no-wrap
+msgid "img/web/use-case-2-invasive-hawaii.png"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:22
+msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Sharon Grant, John Wieczorek, David Bloom and Laura Anne Russell."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:26
+msgid "It is a fictionalized scenario based on a real dataset and is meant only for instructional purposes.  The original dataset is attributed to Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:31
+msgid "The Hawaii Invasive Species Council (HISC) received a federal grant to collaborate with high schools as part of Hawaii’s statewide curriculum on Invasive Species to increase local knowledge about invasive species, increase data collection and produce annotated checklists for under reported areas.  A full-time Project Manager is employed to oversee the project.  All funds and allocations are managed by the HISC Fiscal Associate."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:35
+msgid "The Manager of each island’s Invasive Species Committee (ISC) received a sub-award to set up local education programs and collect data.  The programs trained high school students to become Student Mentors and to facilitate image and data collection by members of the local community.  The Big Island Invasive Species Committee (BIISC) received a further sub-award to extend their central database to accommodate each ISC’s data, provide participating schools with their own websites, and maintain a single, searchable data portal to serve government, public, and scholarly research efforts."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:38
+msgid "Two schools on each island were selected because they were located in areas where knowledge and documentation of invasive species assessment was poor or non-existent.  Teachers worked with their local Invasive Species Council (ISC) Outreach Associate to create teaching materials detailing 21 important invasive plant species, including how to identify each species’ life stages and the most effective control methods."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:41
+msgid "The Graduate School of the University of Hawaii in Maui (UHM) runs a course in community outreach.  Four botany students from the University, as a part of their final course assessment, are validating the identifications from the images and descriptions submitted by each high school to their local ISC."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:47
+msgid "Students from each high school organized a series of day-long community surveys in their local neighbourhoods.  Participants, guided by local ISC Early Detection Technicians and Student Mentors, visited various locations where they were given photo guides and assigned a route to follow during collection events.  Along each route, they were tasked with identifying the target species and taking 1-3 photos of them using GPS-enabled mobile phones."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:51
+msgid "Details, describing every observation of the 21 invasive species of interest, were recorded using a digital data collection form during each community collection event.  Participants uploaded the images captured on mobile phones and were encouraged to click their locations using a Google map, embedded in the form, to assign latitude and longitude to each observation.  The form’s design was based on the HISC pest reporting form."
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-invasive-checklist.en.adoc:52
+#, no-wrap
+msgid "img/web/use-case-2-invasives-data-collection.png"
+msgstr ""
+
+#. type: Title ====
+#: use-case-invasive-checklist.en.adoc:54
+#: use-case-lepidoptera-sampling.en.adoc:63
+#: use-case-birds-from-literature.en.adoc:71
+#, no-wrap
+msgid "Digital data description"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:59
+msgid "A database, created and hosted by the Computing Department at UHM, holds the imagery and data from the online form, but these data are not accessible publicly.  Data were exported as comma separated value (.csv) files and given to the four UHM graduate students for taxonomic validation using the images and descriptions submitted.  The BIISC GIS Analyst used the Google Maps coordinates and image EXIF data to check observations for quality and to add any missing georeferences.  Student mentors renamed all image files to match the observation number for cross referencing later at BIISC."
+msgstr ""
+
+#. type: Title ===
+#: use-case-invasive-checklist.en.adoc:60
+#: use-case-lepidoptera-sampling.en.adoc:72
+#: use-case-birds-from-literature.en.adoc:85
+#, no-wrap
+msgid "Exercise 1"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:67
+#: use-case-lepidoptera-sampling.en.adoc:79
+msgid "You are the local ISC Manager and, because of the success of the lesson plans and community surveys, 10 more schools on your island would like to set up their own projects the following year.  You would like to accommodate them, but your ISC funding will expire at the end of this year.  HISC has indicated that they will look favourably on a small grant application to expand your programs in the following year and BIISC has offered support."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:71
+#: use-case-lepidoptera-sampling.en.adoc:83
+#, no-wrap
+msgid "*Analyze the financial implications of expanding the number of schools*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:74
+#: use-case-lepidoptera-sampling.en.adoc:86
+msgid "Evaluate the following options to expand the number of participating schools.  You can only select TWO of these options, so you need to choose wisely."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:77
+#: use-case-lepidoptera-sampling.en.adoc:89
+#, no-wrap
+msgid "*Options*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:79
+#: use-case-lepidoptera-sampling.en.adoc:91
+msgid "Pay extra summer interns to work at the local ISC to coordinate surveys ."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:80
+#: use-case-lepidoptera-sampling.en.adoc:92
+msgid "Offer financial support to BIISC to set up websites for each new school."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:82
+#: use-case-lepidoptera-sampling.en.adoc:94
+msgid "Offer financial compensation to the graduate students.  You will not be able to pay all four of them the equivalent of a regular salary, but could cover the costs of part time positions for two of them."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:84
+#: use-case-lepidoptera-sampling.en.adoc:96
+msgid "Contract a software company to build a database that can automatically ingest data directly from the online form.  The system will include an admin interface to allow data manipulation and csv exports."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:85
+#: use-case-lepidoptera-sampling.en.adoc:97
+msgid "Fund four public outreach activities (e.g., a BioBlitz) to promote awareness in the communities and increase volunteer participation."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:86
+#: use-case-lepidoptera-sampling.en.adoc:98
+msgid "Prepare and carry out a reusable training a course for the teachers at the schools to teach them how to prepare data for submission to BIISC."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:90
+#: use-case-lepidoptera-sampling.en.adoc:102
+#, no-wrap
+msgid "*Assign roles*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:92
+#: use-case-lepidoptera-sampling.en.adoc:104
+msgid "The new project has the following people available for data processing and mobilization."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:94
+msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible?"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:97
+#: use-case-lepidoptera-sampling.en.adoc:109
+#, no-wrap
+msgid "*Roles*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:99
+#: use-case-lepidoptera-sampling.en.adoc:111
+msgid "BIISC GIS Analyst: Advanced computer use, GIS and data analysis tools."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:100
+#: use-case-lepidoptera-sampling.en.adoc:112
+msgid "ISC Manager: Good computer skills."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:101
+#: use-case-lepidoptera-sampling.en.adoc:113
+msgid "ISC Outreach Associate: Good field identification skills; Basic computer use. Social media expert."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:102
+#: use-case-lepidoptera-sampling.en.adoc:114
+msgid "Student Mentor 1: Basic taxonomic knowledge. Basic computer use."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:103
+#: use-case-lepidoptera-sampling.en.adoc:115
+msgid "Student Mentor 2: Basic taxonomic knowledge. Basic computer use."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:104
+#: use-case-lepidoptera-sampling.en.adoc:116
+msgid "Botany Student 1: Advanced taxonomic knowledge. Programming skills."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:105
+#: use-case-lepidoptera-sampling.en.adoc:117
+msgid "Botany Student 2: Advanced taxonomic knowledge."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:106
+#: use-case-lepidoptera-sampling.en.adoc:118
+msgid "Botany Student 3: Advanced taxonomic knowledge."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:107
+#: use-case-lepidoptera-sampling.en.adoc:119
+msgid "Botany student 4: Advanced taxonomic knowledge."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:116
+msgid "The BIISC is now planning to make all of the data from the project publicly available by publishing datasets to GBIF.  As the BIISC’s Outreach Assistant, you must identify the relevant Darwin Core fields to accommodate the data from the online form.  You’ve noticed that additional data describing species and locations have been added to the data form by the graduate students performing validations.  To accommodate this data, you need to extend the data structure to aggregate the data from the online form with the added taxonomy and georeferences."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:118
+msgid "Download ‘USE CASE 2 - BIISCoccurrence.csv’"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:119
+msgid "Using the downloaded dataset, produce a spreadsheet as example of the extended data structure and the fields you’ve identified as relevant for Darwin Core."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:120
+msgid "Use the exercise sheet to provide your answers and submit the spreadheet."
+msgstr ""
+
+#. type: Title ===
+#: use-case-invasive-checklist.en.adoc:121
+#: use-case-lepidoptera-sampling.en.adoc:132
+#: use-case-birds-from-literature.en.adoc:129
+#, no-wrap
+msgid "Exercise 3"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:127
+msgid "Over the summer, interns at the HISC main office created checklists from the original occurrence data that were collected and augmented from the online form.  Taking the role of the HSC Project Leader, you must now carry out final quality checks prior to publication."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:129
+msgid "Download ‘USE CASE 2 - BIISCChecklistPrecheckedFilledUnclean’"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:130
+#: use-case-lepidoptera-sampling.en.adoc:142
+msgid "Evaluate the dataset and identify which types of errors are present."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:131
+msgid "Identify possible ways to correct those issues and perform those corrections for as many of the errors as you can."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:132
+#: use-case-lepidoptera-sampling.en.adoc:131
+#: use-case-lepidoptera-sampling.en.adoc:144
+#: use-case-birds-from-literature.en.adoc:126
+#: use-case-birds-from-literature.en.adoc:151
+msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:140
+msgid "The HISC is now ready to publish the checklist data and associated occurrences to GBIF.  For this exercise, you will take the role of the Project Leader.  Your responsibility: publishing the cleaned checklist data and associated occurences online through the GBIF network."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:142
+msgid "Download USE CASE 2 - BIISCChecklistPrecheckedFilledCleanForPublication"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:143
+#: use-case-lepidoptera-sampling.en.adoc:155
+#: use-case-birds-from-literature.en.adoc:164
+msgid "Use the previously provided IPT installation to publish the given dataset."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-checklist.en.adoc:144
+#: use-case-lepidoptera-sampling.en.adoc:156
+#: use-case-birds-from-literature.en.adoc:165
+msgid "Use the exercise sheet to provide your answers and link to the published dataset."
+msgstr ""
+
+#. type: Title ==
+#: use-case-lepidoptera-sampling.en.adoc:3
+#, no-wrap
+msgid "Use Case II - Lepidoptera sightings"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:16
+#, no-wrap
+msgid "*Sampling of Lepidoptera across Countries*\n"
+msgstr ""
+
+#. type: Block title
+#: use-case-lepidoptera-sampling.en.adoc:18
+#, no-wrap
+msgid "https://www.gbif.org/occurrence/3039469018[Papilio machaon Linnaeus, 1758] observed in Israel by עומר וינר (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-lepidoptera-sampling.en.adoc:19
+#, no-wrap
+msgid "img/web/use-case-2-Papilio_machaon.jpeg"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:23
+msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, based on previous work by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé.  It is a fictionalized scenario and is meant only for instructional purposes."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:29
+msgid "The International Butterfly Amateur Network (IBAN) has been providing a framework for national amateur observational groups to capture data about the occurrence of butterflies (Lepidoptera) since 2009.  An extensive network of amateur observers use a standard protocol based on Pollard walks to capture this information on paper sheets that they send to their national office.  Some of these offices digitize this information into spreadsheets, but others do not have the human resources to do this and they send the paper logs to the IBAN for processing.  IBAN produces an annual report based on the sightings provided by these national members, with updated distribution maps and analysis of population trends for some key species."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:35
+msgid "The IBAN headquarters is mainly staffed with volunteers.  With the increasing popularity of citizen science and the general interest in butterflies as a charismatic group of organisms, more and more data are received every year and the paper data sheets quickly pile up undigitized.  The IBAN steering committee is trying to identify a more efficient and agile workflow for the creation of digital data because they would like to start publishing these data online regularly.  They would also like to start processing digital pictures that their volunteers are already capturing with mobile devices like phones and tablets.  Their ultimate objective is to raise the profile of the network and strengthen collaborations with local and regional governments to influence conservation policies for lepidoptera in the countries involved."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:38
+msgid "There is currently no formal agreement between IBAN and the amateurs capturing data, to cover the ways in which the data can be used, for example.  The steering committee has some concerns that when they start publishing the data online, they will have to formalize this arrangement."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:43
+msgid "The recommended protocol —Pollard walks— is based on transects that range between 300 and 600 m in length, divided into 50 m sections.  Each transect should cover a single habitat type."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:46
+msgid "In each visit, transect-walkers have to count all species of lepidoptera that can be seen within 5 m of the transect line.  Special behaviours (egg laying or nectaring), as well as developmental stage (e.g., larvae or eggs), should be recorded as well."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:48
+msgid "For most countries, these sampling efforts happen once every two weeks from the beginning of October to the end of June."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:52
+msgid "There are quality control measures in place: every reported record is flagged \"Pending approval\".  Record status is only changed to \"Approved\" after verification by a designated taxonomic expert.  Species spotted out of their regular season or distribution area are flagged for additional verification."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:58
+msgid "Time of day and weather conditions are recorded at the beginning of the transect.  Along the transect, the number of individuals of every species seen is counted.  Un-identified species are counted and recorded either by family or as a predefined complex of two or three similar species.  Butterflies seen outside the 5 meter range are recorded as “Extra+the number of the nearest section” (e.g. 5-extra).  The end time of the transect is also recorded."
+msgstr ""
+
+#. type: Title ====
+#: use-case-lepidoptera-sampling.en.adoc:59
+#, no-wrap
+msgid "Analogue data capture example"
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-lepidoptera-sampling.en.adoc:61
+#, no-wrap
+msgid "img/web/use-case-2-lepidoptera-analogue.png"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:68
+msgid "Some national offices use groups of volunteers to digitize the paper logs and produce digital spreadsheets.  The spreadsheets are very simple and include three datasheets.  One captures the information linked to the sampling efforts, the second the weather conditions and the third the species encountered and the number of individuals observed by the amateur."
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-lepidoptera-sampling.en.adoc:69
+#, no-wrap
+msgid "img/web/use-case-2-lepidoptera-digital-1.png"
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-lepidoptera-sampling.en.adoc:70
+#, no-wrap
+msgid "img/web/use-case-2-lepidoptera-digital-2.png"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:106
+msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:125
+msgid "Imagine you are one of the volunteers digitizing the paper logs received at the IBAN headquarters. You have received two paper logs."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:127
+msgid "Download log 1 ‘Use Case 2 LS - Exercise 2 - Example 1.jpg’"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:128
+msgid "Download log 2 ‘Use Case 2 LS - Exercise 2 - Example 2.pdf"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:129
+msgid "What data structure would you use to reflect the data in these logs?"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:130
+msgid "Create a spreadsheet using this structure and the data from the logs."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:139
+msgid "Taking the role of one of the volunteers with advanced computer skills, imagine you have been assigned the responsibility for data quality issues.  Your main task is to reduce the amount of data that is currently discarded (around a 15%) before processing due to errors and inconsistencies.  You have received a dataset as the raw product of the digitization effort."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:141
+msgid "Download ‘Use Case 2 LS - Exercise 3 - For Cleaning.xlsx’"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:143
+msgid "Identify possible ways to correct those issues, and perform those corrections for as many of the errors present as you can."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:152
+msgid "For this exercise, you will take the role of the taxonomic expert collaborating with IBAN at their headquarters.  Some of your previous responsibilities (writing the annual report, and producing the base distribution maps) have been handed over to the volunteers, and you have now been given a new responsibility: publishing the cleaned data online through the GBIF network.  The volunteer in charge of data quality has provided a dataset to be published."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:154
+msgid "Download ‘Use Case 2 LS - Exercise 4 - cleaned for publishing.xlsx’"
+msgstr ""
+
+#. type: Title ==
+#: use-case-birds-from-literature.en.adoc:3
+#, no-wrap
+msgid "Use Case III - Birds from literature"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:8
+msgid "Use Case III will be graded."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:11
+#, no-wrap
+msgid "*Data Mobilization Project from Literature “Birds fallen at Danish Lighthouses, 1883–1939”*\n"
+msgstr ""
+
+#. type: Block title
+#: use-case-birds-from-literature.en.adoc:13
+#, no-wrap
+msgid "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG[High resolution scanner] for book digitisation project by Heiko Hornig (licensed under https://creativecommons.org/licenses/by-sa/2.5/deed.en[CC BY-SA 2.5])"
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-birds-from-literature.en.adoc:14
+#, no-wrap
+msgid "img/web/use-case-3-scanner.png"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:18
+msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Andrea Hahn, Laura Russell and Sharon Grant.  It is based upon a previous adaptation by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:21
+msgid "It is a fictionalized scenario based on a real project and dataset and is meant only for instructional purposes.  The https://danbif.dk/se-eksempler/fyrfaldne-fugle/[original project] and the https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[original dataset] are attributed to the Danish GBIF Node, https://danbif.dk/[DanBIF]."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:27
+msgid "The Natural History Museum of Denmark (NHM-DK) is a research centre associated with the University of Copenhagen.  Their library is a member of the national library association who recently received state funding to make available online the resources held by its members.  The NHM-DK would like to begin digitization of the field notebooks, journal publications and books held in their library, some of which have significant historic value."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:31
+msgid "After a short consultation with their regular partners, NHM-DK received a suggestion from the Head of the management office of the Nordjylland National Park.  They would like the contents of a particular classic literature compilation digitized for a project they are running: ‘Birds at the Danish Lighthouses, 1883–1939’ (In Danish, ‘Fuglene ved de danske Fyr, 1883–1939’).  They want to use any occurrence data recorded in those books from two lighthouses (Lodbjerg Fyr and Hanstholm Fyr) for an on-site exhibition project."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:35
+msgid "The NHM-DK has started discussions with their national GBIF node, DanBIF, about the mobilization of the information contained in these volumes, namely to preserve their contents for the future and provide online access for everyone.  With the involvement of DanBIF, there is intent to publish and register the resulting extracted data with GBIF.  As GBIF requires a license be applied with all published data, the museum has decided to publish the data with a Creative Commons license allowing use of data with attribution (CC-BY)."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:37
+msgid "The IT services required are provided by the Technology Unit of the University of Copenhagen, as for all museum digital projects."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:39
+msgid "The HHM-DK deputy director, who is coordinating this piece of work has developed a general outline for the work:"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:42
+msgid "The museum will carry out the digitization of the literature using two library staff members trained in the use of the library scanner to scan delicate volumes.  They will also extract text from the scans through OCR (Optical Character Recognition) software."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:44
+msgid "Three volunteers from the Copenhagen Ornithological Society (COS) who regularly collaborate with the museum and are familiar with the birds of the region have been enlisted to assist and will complete the transfer of data from the scanned PDFs into spreadsheet format.  They will need to go to the museum and use the computers available in the library to gain access to the files stored in the museum intranet (private network)."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:48
+msgid "The Ornithology Curator in the Bird Department will lead the team responsible for taxonomic checking, data curation, cleaning, format and transformation, and will oversee the entry of metadata for the published dataset.  The team includes a collaborating researcher from Sweden, and two postdoctoral students.  They have been selected for this task because they are used to working with digital biodiversity data.  They will all use their own work computers."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:49
+msgid "The DanBIF Node Manager will ensure that the institution is adequately registered in GBIF as a data publisher and that the deputy director and the ornithology curator have the proper credentials and access to DanBIF’s IPT instance to upload and publish the data."
+msgstr ""
+
+#. type: Title ====
+#: use-case-birds-from-literature.en.adoc:50
+#, no-wrap
+msgid "Orignal data collection"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:57
+msgid "In the period 1883-1939, there were 45 lighthouses and lightships functioning in Denmark.  These lighthouses were used by several species of birds during the nights of the bird migration period from the years 1886 through 1939.  The presence and activities of these birds were recorded, especially by the keepers of these lighthouses who also collected specimens that were sent to the museum in Copenhagen.  These birds were carefully preserved and catalogued by collection managers at the museum and the specimens can still be found there today.  Observations of weather conditions during the nights when birds were observed by the keepers were also documented."
+msgstr ""
+
+#. type: Title ====
+#: use-case-birds-from-literature.en.adoc:58
+#, no-wrap
+msgid "Analogue data description"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:61
+msgid "This is an example of the description of a series of species observations from one of the books (in German, except the common name for the species which is provided in Danish)."
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-birds-from-literature.en.adoc:62
+#, no-wrap
+msgid "img/web/use-case-3-analogue.png"
+msgstr ""
+
+#. type: Title ====
+#: use-case-birds-from-literature.en.adoc:64
+#, no-wrap
+msgid "Scanned and translated data description"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:67
+msgid "This is an example of the scanned and translated output from the analogue example above."
+msgstr ""
+
+#. type: Target for macro image
+#: use-case-birds-from-literature.en.adoc:68
+#, no-wrap
+msgid "img/web/use-case-3-scanned.png"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:74
+msgid "Studying the extract from the book, the volunteers from the Copenhagen Ornithology Society suggest extracting the following data from the scanned and translated text:"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:76
+msgid "Scientific name as appearing in the book"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:77
+msgid "Common name(s) in Danish as appearing in the book"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:78
+msgid "Locality"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:79
+msgid "Year/month/day"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:80
+msgid "Observed number of individuals"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:81
+msgid "Sex"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:82
+msgid "Lifestage"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:83
+msgid "Remarks"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:84
+msgid "URL of the digitized book page in which the occurrence is provided"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:91
+msgid "The team needs to develop a sustainable workflow to digitize literature resources, extract any valuable biodiversity information on them and publish it online via GBIF.  They need to develop a plan that can be sustained in the future once the funding from the national library association is over."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:94
+msgid "The <<scenario-4,scenario>> section of this use case includes a brief description of the workflow conceived by the deputy director.  Based on the workflow and the accompanying text complete the following:"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:96
+msgid "Identify the different stakeholders participating in this project"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:97
+msgid "Identify their affiliation and assign each of them to a stakeholder group"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:98
+msgid "Identify the roles associated to them and assign the tasks for which they are currently responsible"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:99
+msgid "Perform a critical analysis of the workflow, identify potential risks and gaps, and suggest ways to improve the workflow, maximize the efficiency of the digitization project and produce data of the highest quality possible."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:107
+msgid "The scans and character recognition (OCR) of the books have been completed.  Occurrence data must now be extracted from those sources and compiled in a spreadsheet format."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:109
+msgid "The original data was in German and, to make it more widely useable when published online, the project manager would like to make it available in English."
+msgstr ""
+
+#. type: delimited block *
+#: use-case-birds-from-literature.en.adoc:112
+msgid "Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples around Viborg."
+msgstr ""
+
+#. type: delimited block *
+#: use-case-birds-from-literature.en.adoc:114
+msgid "At the churches of Mönsted and Daubjerg there were several family groups in 1880, each of 7 individuals, suggesting a particularly abundant source of food on the surrounding heather (lizards). In the area of Thisted, where the tower falcon broods very often, young were always present in broods of 6, only once did I find a group of 7 on Egebäksande (H.)"
+msgstr ""
+
+#. type: delimited block *
+#: use-case-birds-from-literature.en.adoc:116
+msgid "In Horsens I found kestrels brooding on the churches of Vähr, Hansted, Hundslund, Thyrsted and Oelsted. In the steeple of Vähr I found a nest with 6 eggs on 6 May 1875, 6 eggs on 30 April 1876, 4 eggs on 28 April 1878; in 1877 and 1879 there were none, on 2 May 1880 they had 5 eggs, in 1882 also 5 eggs, and in 1883 seven."
+msgstr ""
+
+#. type: delimited block *
+#: use-case-birds-from-literature.en.adoc:118
+msgid "In Oelsted 5 eggs on 3 May 1879, in 1882 also 5, and in 1883 6 eggs."
+msgstr ""
+
+#. type: delimited block *
+#: use-case-birds-from-literature.en.adoc:120
+msgid "On the churches (Our Lady’s and St. Peter’s) of Copenhagen, I have often seen it in the autumn and winter of 1879; in spring 1880, it brooded on Our Lady’s church, the \"round tower\" and the law firm building (in a valve) and certainly also on St. Peter's Church. (F.)"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:124
+msgid "Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences.  The occurrences will need unique numbers assigned to them."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:125
+msgid "Create a spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:128
+msgid "In the examples used, the individual occurrences do not always contain data to complete all of the columns in the spreadsheet."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:135
+msgid "Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society.  Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:141
+msgid "Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography.  Since all the observations were made in Denmark, continent and country can easily be added.  Additionally, only the scientific name was provided.  Higher taxonomy can be derived utilizing software tools such as OpenRefine.  You are also aware that there are typographic errors that were made by the digitizers."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:143
+msgid "Download USE CASE 3 DL - Data File Cleaning."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:144
+msgid "Identify and correct any invalid years."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:145
+msgid "Verify and correct taxonomy."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:148
+msgid "Verify coordinates are correct for the two given localities.  Correct any that are not.  Coordinates should be in decimal format."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:149
+msgid "Add any data for missing elements that can be derived using the available data"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:150
+msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:153
+msgid "dataset should contain only years 1883-1939"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:161
+msgid "For this exercise, you will take the role of the person responsible for publishing the cleaned data online via the GBIF network.  You have been supplied with a multimedia file and an identification history file that should be published along with the observations.  The staff member in charge of data quality has provided cleaned datasets for you to publish."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:163
+msgid "Download USE CASE 3 DL - Data Files Publishing from the elearning platform"
+msgstr ""
+
+#. type: Title ==
+#: assignments.en.adoc:1
+#, no-wrap
+msgid "Final assignments"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:5
+msgid "For your final activities, you will complete and submit Use Case II and Use Case III for evaluation."
+msgstr ""
+
+#. type: Title ===
+#: assignments.en.adoc:6
+#, no-wrap
+msgid "USE CASE II"
+msgstr ""
+
+#. type: Title ===
+#: assignments.en.adoc:8
+#, no-wrap
+msgid "USE CASE III"
+msgstr ""
+
+#. type: Title ==
+#: course-evaluation.en.adoc:1
+#, no-wrap
+msgid "Course evaluation"
+msgstr ""
+
+#. type: Plain text
+#: course-evaluation.en.adoc:5
+msgid "Complete the course evaluation"
+msgstr ""
+
+#. type: Title ==
+#: keydocs.en.adoc:2
+#, no-wrap
+msgid "Key documentation"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:5
+msgid "The following references provide further detail on the topics covered in this course"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:7
+#, no-wrap
+msgid "*Darwin Core*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:9
+msgid "Darwin Core Terms: A quick reference guide"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:10
+msgid "Simple DarwinCore"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:11
+msgid "Darwin Core Questions & Answers"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:12
+msgid "Darwin Core extensions registered with GBIF"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:16
+msgid "Quick guide to publishing data through GBIF"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:17
+msgid "How to publish biodiversity data through GBIF.org"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:18
+msgid "Become a data publisher with GBIF"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:19
+msgid "Classes of datasets supported by GBIF"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:20
+msgid "GBIF data quality requirements for publishing"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:21
+msgid "GBIF data licenses"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:22
+msgid "Checklist core templates"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:23
+msgid "Occurrence core templates"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:24
+msgid "Sampling event core templates"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:25
+msgid "Sampling event data best practices"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:26
+msgid "Sharing images, sounds and videos on GBIF"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:27
+msgid "Data papers"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:28
+msgid "Published data papers"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:30
+#, no-wrap
+msgid "*Data publishing: Integrated Publishing Toolkit (IPT)*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:32
+msgid "_The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet_ Robertson et al. (2014)"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:33
+msgid "To install IPT or not to install IPT"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:34
+msgid "IPT data hosting centres"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:35
+msgid "IPT Install / Set up webinar"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:36
+msgid "IPT server requirements"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:37
+msgid "Installing the IPT video"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:38
+msgid "IPT in Practice demonstration video"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:40
+#, no-wrap
+msgid "*Digitization*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:42
+msgid "iDigBio Digitization Resources"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:43
+msgid "iDigBio Collections Digitization Workflows"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:44
+msgid "iDigBio Digitization Workflows and Protocols"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:45
+msgid "iDigBio specimen image capture guide"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:46
+msgid "Canadensys 10-step guide to managing images with your biodiversity data"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:48
+#, no-wrap
+msgid "*GBIF*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:50
+msgid "What is GBIF"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:51
+msgid "Strategic Plan"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:52
+msgid "Become a member"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:53
+msgid "Science Review"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:55
+#, no-wrap
+msgid "*Georeferencing*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:57
+msgid "Georeferencing quick referencing guide"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:58
+msgid "Biogeomancer, Guide to Best Practices in Georeferencing. Chapman & Wieczorek (2006)"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:59
+msgid "More georeferencing resources"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:61
+#, no-wrap
+msgid "*Invasive Species*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:63
+msgid "GRISS - Global Register of Introduced and Invasive Species"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:64
+msgid "Global Register of Introduced and Invasive Species"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:65
+msgid "TrIAS - Tracking Invasive Alien Species"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:66
+msgid "TrIAS aims to build an open data-driven framework to support policy on invasive species."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:68
+#, no-wrap
+msgid "*Living Atlases*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:70
+msgid "Living Atlases"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:71
+msgid "ALA key technical documentation"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:73
+#, no-wrap
+msgid "*Miscellaneous*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:75
+msgid "VertNet Guide to opening text files in Excel"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:76
+msgid "VertNet data licensing guide"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:80
+msgid "OpenRefine documentation"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:81
+msgid "OpenRefine regular expressions"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:82
+msgid "Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data. 2012. iPhylo blog post. Rod Page. Google Refine is an elegant tool for data cleaning. One of its most powerful features is the ability to call \"Reconciliation Services\" to help clean data, for example by matching names to external identifiers."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:83
+msgid "Reconciling author names using Open Refine and VIAF. 2013. iPhylo blog post. Rod Page. In an earlier post, I discussed using Open Refine (formerly Google Refine) to clean and reconcile taxon names. I've added an additional service that can be used to reconcile author names that uses the Virtual International Authority File (VIAF) API. Using this service we can match authors to VIAF identifiers (you may have noticed these appearing on people's pages in Wikipedia, e.g. Mary J. Rathbun's Wikipedia page lists her VIAF as 61796012)."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:84
+msgid "Validating scientific names with the GBIF Portal web service API. 2013. This guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick, and is being cross-posted to the VertNet Blog."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:85
+msgid "iDigBio Cleaning data with OpenRefine. 2013. PDF"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:86
+msgid "Have We Got the Names “Right”? 2014. Canadensys blog post regarding a workshop. Participants in the workshop, many of whom arrived with data in-hand, elected to use Open Refine. We picked-up from the work Rod Page started a few years ago. Similar work has been done by Gaurav Vaidya and the VertNet team with superb documentation. The Canadensys development team tweaked Rod’s code to connect to web services offered by the Global Names Resolver and the Database of Vascular Plants of Canada, each of which are high-performance services that accept scientific names in batches and produce responses containing full namestrings and hierarchies. Rod’s code was an excellent first pass, but we noticed that it could be made much more performant so we made a temporary service for the workshop and a temporary code repository. The Canadensys development team is contemplating a dedicated Open Refine service for the Database of Vascular Plants of Canada (VASCAN) and we’ve shared our approach with members of the Global Names project."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:87
+msgid "Cleaning data with OpenRefine. 2016. TDWG Presentation. Desmet and Brosens. Short introduction on Google Refine, on biodiversity data."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:88
+msgid "Allocating more memory to OpenRefine - and other helpful information for handling large datasets. 2017. iDigBio Research Spotlight blog post."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:89
+msgid "EasyOpen Redlist. An accessible method of querying the IUCN Red List, using a species list, the free software OpenRefine, and some pre-written code. Olly Griffin, July 2019. We often have a list of species - a checklist, or a set of species of interest for a project - for which we want to know the IUCN Red List category: Critically Endangered, Vulnerable, Least Concern etc. Manually searching the IUCN Red List website species by species would be slow for lists longer than 10 species, and practically impossible for a list longer than 1,000 species. I wrote a quick guide, link below, which shows you how to automatically return the Red List category, along with a number of other useful results, from the IUCN database using the free software OpenRefine to query the IUCN RedList API with pre-written code that works for any clean list of species scientific names. There is also a video which shows the process in action. I mostly use this for updating our long (900+) species list for KSWS. It can also be useful for research results, reports, publications, website data, national species lists, and anything where you’re dealing with a significant number of species. This process can be done in other ways – using R, for example – but this is an accessible method that requires no coding. I hope you find this useful. Please let me now if anything is not clear, and feel free to share with others who may also be interested."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:91
+#, no-wrap
+msgid "*Planning/Collaboration*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:93
+msgid "Agile (philosophy behind SCRUM)"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:94
+msgid "What is Agile? How does it work? How is it different? Agile Myths Agile vs Waterfall"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:95
+msgid "What is SCRUM"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:96
+msgid "SCRUM Framework"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:97
+msgid "Kanban methodology"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:98
+msgid "Scrum Guide"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:99
+msgid "Your Scrum Pathway to Tools, Knowledge and Professional Recognition"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:100
+msgid "GitHub"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:102
+#, no-wrap
+msgid "*Quality*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:104
+msgid "Principles of Data Quality. Arthur Chapman (2005)"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:105
+msgid "Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data. Arthur Chapman (2005)"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:106
+msgid "Be careful with dates in Excel"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:107
+msgid "Character encoding for beginners"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:108
+msgid "MVZ Guide for Recording Localities in Field Notes"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:110
+#, no-wrap
+msgid "*Taxonomy*\n"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:112
+msgid "GBIF checklist datasets and data gaps"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:113
+msgid "GBIF Labs - Names Parser"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:114
+msgid "GBIF Labs - Species Matching"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:115
+msgid "Global Names Resolver"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:116
+msgid "Marine Name Matching Strategy for taxonomic quality control (from OBIS)"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:116
+msgid "Nomenmatch"
+msgstr ""
+
+#. type: Title ==
+#: glossary.en.adoc:2
+#, no-wrap
+msgid "Glossary"
+msgstr ""
+
+#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
+#. type: Labeled list
+#: glossary.en.adoc:7
+#, no-wrap
+msgid "[[ALA]]ALA"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:9
+msgid "Atlas of Living Australia.  The Australian node of GBIF, who developed an open source data portal now widely used within the GBIF community & partners for biodiversity national portals."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:10
+#, no-wrap
+msgid "[[API]]API"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:12
+msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:13
+#, no-wrap
+msgid "[[BID]]BID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:15
+msgid "Biodiversity Information for Development.  An EU funded project co-ordinated by GBIF whose aim is to increase data mobilization capacity in the Africa, Caribbean and Pacific regions."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:16
+#, no-wrap
+msgid "[[BIFA]]BIFA"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:17
+msgid "Biodiversity Fund for Asia."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:18
+#, no-wrap
+msgid "[[CC]]CC Licences"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:21
+msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organisation that enable sharing and reuse of creativity and knowledge through the provision of free legal tools.  Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:22
+#, no-wrap
+msgid "[[vocab]]Controlled Vocabulary"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:26
+msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:27
+#, no-wrap
+msgid "[[DwC]]DwC"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:29
+msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardised terms (or field names) and their definitions, which are used to share biodiversity information."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:30
+#, no-wrap
+msgid "[[DOI]]DOI"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:32
+msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:33
+#, no-wrap
+msgid "[[DwC-A]]DwC-A"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:36
+msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:37
+msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:38
+msgid "a mapping file: rtf.xml"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:41
+msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:42
+#, no-wrap
+msgid "[[GUID]]GUID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:43
+msgid "Globally Unique IDentifier"
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:44
+#, no-wrap
+msgid "[[IPT]]IPT"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:48
+msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:49
+#, no-wrap
+msgid "[[loan]]Loan"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:50
+msgid "In the context of natural history collections, this is the procedure of lending specimens between institutions."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:51
+#, no-wrap
+msgid "[[LSID]]LSID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:53
+msgid "Life Sciences Identifier.  They are persistent, globally unique identifiers for biological objects."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:54
+#, no-wrap
+msgid "[[DP]]Data Publishing"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:56
+msgid "With regards to GBIF we have a very specific defintion of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:57
+#, no-wrap
+msgid "[[resource]]Resource"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:58
+msgid "A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:59
+#, no-wrap
+msgid "[[TDWG]]TDWG"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:60
+msgid "Taxonomic Databases Working Group, now renamed Biodiversity Information Standards."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:61
+#, no-wrap
+msgid "[[URN]]URN"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:62
+msgid "Uniform Resource Number"
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:63
+#, no-wrap
+msgid "[[UUID]]UUID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:64
+msgid "Universally Unique Identifier"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:65
+msgid "<<<"
+msgstr ""
+
+#. type: Title ==
+#: acknowledgements.en.adoc:2
+#, no-wrap
+msgid "Acknowledgements "
+msgstr ""
+
+#. type: Title ===
+#: acknowledgements.en.adoc:4
+#, no-wrap
+msgid "Course design and instruction"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:8
+msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on capacity enhancement mentoring to read more about these individuals and their contributions."
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:10
+msgid "The following individuals are recognized for their significant contributions to the course design, materials and instruction:"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:12
+msgid "Nestor Beltran*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:13
+msgid "David Bloom"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:14
+msgid "Katia Cezón*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:15
+msgid "Dag Endresen"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:16
+msgid "Alberto Gonzalez Talavan*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:17
+msgid "Sharon Grant*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:18
+msgid "Marie-Elise Lecoq"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:19
+msgid "Sophie Pamerlon*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:20
+msgid "Nicolas Noé*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:21
+msgid "Mélianie Raymond*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:22
+msgid "Laura Anne Russell*"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:23
+msgid "John Wieczorek"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:24
+msgid "Paula Zermoglio"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:26
+#, no-wrap
+msgid "*Originators of the curriculum\n"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:28
+msgid "Special acknowledgement to Arthur Chapman for the reuse of his materials on Data Quality."
+msgstr ""
+
+#. type: Title ===
+#: acknowledgements.en.adoc:29
+#, no-wrap
+msgid "Resources"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:32
+msgid "The online tabletop platform is provided by PlayingCards.io. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:33
+msgid "Icons used in this course are made by Freepik from www.flaticon.com"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:34
+msgid "OpenRefine"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:35
+msgid "Integrated Publishing Toolkit"
+msgstr ""
+
+#. type: Title ===
+#: acknowledgements.en.adoc:36
+#, no-wrap
+msgid "Resource support"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:39
+msgid "Belgium Biodiversity Platform"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:40
+msgid "GBIF France"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:41
+msgid "GBIF Spain"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:42
+msgid "The Field Museum"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:42
+msgid "VertNet"
+msgstr ""
+
+#. type: Title ==
+#: colophon.en.adoc:1
+#, no-wrap
+msgid "Colophon"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:2
+#, no-wrap
+msgid "Suggested citation"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:9
+msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.  The original curriculum was created by Nester Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto Gonzalez Talavan, Mélainie Raymond, Laura Anne Russell and Katia Cezón with additional contributions by GBIF trainers, mentors and students.  11th edition.  GBIF Secretariat: Copenhagen.  https://doi.org/10.35035/doc-xxxx-xxxx."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:10
+#, no-wrap
+msgid "Licence"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:13
+msgid "_GBIF Biodiversity Data Mobilization Course_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:14
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:17
+msgid "https://doi.org/10.35035/doc-xxxx-xxxx"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:18
+#, no-wrap
+msgid "Document control"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:21
+msgid "11th edition, Feb 2021"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:22
+#, no-wrap
+msgid "Cover image"
+msgstr ""
+
+#.  Caption. Credit, source, licence.
+#. type: Plain text
+#: colophon.en.adoc:26
+msgid "Elegant Grasshopper (_Zonocerus elegans_), Bulawayo, Zimbabwe.  Photo 2021 nickypegg via https://www.gbif.org/occurrence/3018014153[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:2
+#, no-wrap
+msgid "Foundations_Terminology_DEFINITIONS\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:5
+#, no-wrap
+msgid "1\n"
+"This session is foundation work and part of the Terminology section.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:7
+#, no-wrap
+msgid "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:10
+#, no-wrap
+msgid "2\n"
+"First let’s review the structure of this session.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:12
+#, no-wrap
+msgid "In the section on DEFINITIONS we will first try to clarify the use of the word “Data”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:14
+#, no-wrap
+msgid "We will then look at the terminology surrounding Fields, Labels and Lists.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:16
+#, no-wrap
+msgid "And lastly, we will straighten out some concepts around characters and their mappings that will help prevent unwanted data messes.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:19
+#, no-wrap
+msgid "3\n"
+"First definitions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:21
+#, no-wrap
+msgid "In this section we will look at some of the many different terms and phrases that exist within the world of data and information management. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:23
+#, no-wrap
+msgid "We will be using these throughout the course and it is important that you be familiar with, when and how to use them.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:26
+#, no-wrap
+msgid "4\n"
+"Let’s focus for a moment on some common words and phrases that contain the word data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:29
+#, no-wrap
+msgid "5\n"
+"All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:32
+#, no-wrap
+msgid "6\n"
+"So, what is a “Database”?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:34
+#, no-wrap
+msgid "There are many definitions, but what they all have in common is the theme that a database is a structured and organized collection of data and/or information held on a computer.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:36
+#, no-wrap
+msgid "Everything else in the list is just a way to help you achieve this data nirvana! \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:38
+#, no-wrap
+msgid "Let’s dig a little deeper then into those other terms.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:41
+#, no-wrap
+msgid "7\n"
+"Let us take a look at the phrase “database language”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:43
+#, no-wrap
+msgid "According to the Oxford English dictionary “language” is the method of human communication, […], consisting of the use of words [or symbols] in a structured and conventional way.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:45
+#, no-wrap
+msgid "For our purposes, database languages and their close allies the array languages are the way by which a human communicates with a computer to manipulate and move around data. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:47
+#, no-wrap
+msgid "Examples that you may have come across are:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:49
+#, no-wrap
+msgid "Java, SPARQL, SQL and Python\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:51
+#, no-wrap
+msgid "They are simply methods used to define and create tables, views and queries and also allow users to access, update, store and move data around.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:54
+#, no-wrap
+msgid "8\n"
+"Now let’s look at the phrase “database program or software”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:56
+#, no-wrap
+msgid "Again going to the Oxford English dictionary a “program/programme” is a set of related measures or activities with a particular long-term aim.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:58
+#, no-wrap
+msgid "In this context, a “database program or software” combines and presents functions and features for manipulating data, together is a unified interface. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:60
+#, no-wrap
+msgid "Examples that you may come across are:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:62
+#, no-wrap
+msgid "Microsoft Access, FilemakerPro and Oracle\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:64
+#, no-wrap
+msgid "So, database programs or software are grouped utilities which allow a user, via a database language, to store, manage, query and report data held in the system.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:67
+#, no-wrap
+msgid "9\n"
+"The last term is “data cleaning tool”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:69
+#, no-wrap
+msgid "Data cleaning tools are systems whose utilities focus is on the manipulation of data with the aim of increasing fitness for use. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:71
+#, no-wrap
+msgid "Examples that you may be familiar or will learn about during the course are:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:73
+#, no-wrap
+msgid "OpenRefine, MatLab  and spreadsheets\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:75
+#, no-wrap
+msgid "A data cleaning tool should assist the user in the discovery and repair of messy data in order to increase quality.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:78
+#, no-wrap
+msgid "10\n"
+"Continuing on with some more terms that you should be familiar with we will look at the differences between the terms Field, Label and List.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:81
+#, no-wrap
+msgid "11\n"
+"You will often hear reference made to field or column names and field labels or headings. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:83
+#, no-wrap
+msgid "Often they will be used interchangeably, however they are different things. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:85
+#, no-wrap
+msgid "Field or column names refer to the actual column in the database table. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:87
+#, no-wrap
+msgid "They are a often short, not always in plain language, sometimes computer generated; but in a properly formed database they are ALWAYS unique. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:89
+#, no-wrap
+msgid "Field names are almost always used by database languages, because the avoid ambiguity.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:91
+#, no-wrap
+msgid "Labels and headers on the other hand, refer to the human readable versions of the field names. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:93
+#, no-wrap
+msgid "Most often you will see these in the graphical user interface of your software and on exports and reports. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:95
+#, no-wrap
+msgid "In some software you can in fact have different labels to the same field on a user by user or group basis!\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:98
+#, no-wrap
+msgid "12\n"
+"As you work with your data you will come across the phrases “drop-down list” and “controlled vocabulary” and on the surface they can appear to be the same. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:100
+#, no-wrap
+msgid "Indeed they are both powerful tools to help you keep your data clean, but they are different.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:102
+#, no-wrap
+msgid "A drop-down list, also sometimes called a lookup table is a data entry element that is created in your database software. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:104
+#, no-wrap
+msgid "It allows to you select a value from a predefined set of options. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:106
+#, no-wrap
+msgid "They can also be generated from the data itself on the fly.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:108
+#, no-wrap
+msgid "A controlled vocabulary on the other hand, is a very strictly defined, domain specific set of values that should be applied to a particular field. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:110
+#, no-wrap
+msgid "They are an integral part of a well defined standard. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:112
+#, no-wrap
+msgid "Such values can be used in a drop-down list as mentioned previously.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:115
+#, no-wrap
+msgid "13\n"
+"In this section we will look at what the term character means in relation to data and computers.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:118
+#, no-wrap
+msgid "14\n"
+"As a reminder computers “see” in binary. Everything that you type in, is held in memory as a series of ones and zeros. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:120
+#, no-wrap
+msgid "The computer does not “see” the repertoire of letters and symbols on your keyboard.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:122
+#, no-wrap
+msgid "It needs a map to translate the character set that you would write or type, into its binary language and then back again to show it to you on the screen or a printer. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:124
+#, no-wrap
+msgid "This map is made up of two parts:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:126
+#, no-wrap
+msgid "The “coded character set” and \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:128
+#, no-wrap
+msgid "The “character encoding”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:130
+#, no-wrap
+msgid "Each symbol or glyph is assigned a numeric value and that number is then converted to binary.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:133
+#, no-wrap
+msgid "15\n"
+"In this example we see how character encoding is used to map the capital letter A in the western alphabet.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:135
+#, no-wrap
+msgid "The ASCII value for the capital letter A is the decimal number 65 \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:137
+#, no-wrap
+msgid "which in HEXIDECIMAL is 041 \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:139
+#, no-wrap
+msgid "and in BINARY 01000001\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:141
+#, no-wrap
+msgid "Try mapping your own name to Binary using the link at the bottom of the screen.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:144
+#, no-wrap
+msgid "16\n"
+"In effect what is happening is that when you type into a keyboard and save a file the software that you are using will select an encoding to save with it. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:146
+#, no-wrap
+msgid "When you open that file again the software needs to know which encoding (map) to use to redisplay the information back to you correctly.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:149
+#, no-wrap
+msgid "17\n"
+"So why is this important to you as a data custodian?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:151
+#, no-wrap
+msgid "Let’s say that you translate the start of Hamlet’s soliloquy\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:153
+#, no-wrap
+msgid " ”To be or not to be, that is the question”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:155
+#, no-wrap
+msgid "into French and then save the file with a text editor that uses the encoding Latin-1\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:157
+#, no-wrap
+msgid "Then you send it to a colleague to check the translation. Voila!\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:160
+#, no-wrap
+msgid "18\n"
+"When they open the file in MicroSoft Word this is what they see…\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:162
+#, no-wrap
+msgid "Mon dieu!\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:164
+#, no-wrap
+msgid "There are some unexpected characters.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:166
+#, no-wrap
+msgid "You forgot to tell your colleague that you where using Latin-1 as the encoding. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:169
+#, no-wrap
+msgid "MicroSoft Word on their end was set to use the encoding set Unicode UTF-8. \n"
+"The maps did not match.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:171
+#, no-wrap
+msgid "Depending on the software the data may be irretrievably corrupted.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:174
+#, no-wrap
+msgid "19\n"
+"In review we have looked at the differences between the phrases:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:176
+#, no-wrap
+msgid "Database; database language; database program, data-cleaning tool;\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:178
+#, no-wrap
+msgid "Field names & Field labels; Drop-down lists & Controlled vocabularies and between\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:180
+#, no-wrap
+msgid "Repertoires, Coded sets & Encodings \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:182
+#, no-wrap
+msgid "And shown that although the terms may seem similar the in fact have very different definitions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:185
+#, no-wrap
+msgid "20\n"
+"Remember that:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:187
+#, no-wrap
+msgid "“..The first step in wisdom is to know the things themselves; this notion consists in having a true idea of the objects.” \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:190
+#, no-wrap
+msgid "We often take for granted that there is a whole language associated with biodiversity informatics that is not commonplace and has to be learned. \n"
+"There is no shame in going back to basics and getting to grips with the vocabulary,  grammar and syntax just like with any new language.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:193
+#, no-wrap
+msgid "21\n"
+"If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:196
+#, no-wrap
+msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
+"The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:197
+#, no-wrap
+msgid "This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
+msgstr ""
+
