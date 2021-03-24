@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-24 16:41+0000\n"
+"POT-Creation-Date: 2021-03-24 16:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1486,7 +1486,7 @@ msgid "Exercise 1a"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:70 capture.en.adoc:45 management.en.adoc:26
+#: planning.en.adoc:70 capture.en.adoc:44 management.en.adoc:26
 #: publishing.en.adoc:33
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
 msgstr ""
@@ -1557,7 +1557,7 @@ msgid "Once the cards are assigned take pictures/screenshots."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:85 planning.en.adoc:100 capture.en.adoc:54
+#: planning.en.adoc:85 planning.en.adoc:100 capture.en.adoc:53
 #: management.en.adoc:42 management.en.adoc:67 management.en.adoc:83
 #: publishing.en.adoc:43 use-case-invasive-species.en.adoc:75
 #: use-case-invasive-species.en.adoc:95
@@ -1689,7 +1689,7 @@ msgid "Were there common issues that came up across the groups?"
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:57 management.en.adoc:140
+#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:140
 #: publishing.en.adoc:44
 #, no-wrap
 msgid "Review"
@@ -1714,30 +1714,25 @@ msgid "Standards and Darwin Core"
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:12
+#: capture.en.adoc:13
 msgid ""
 "In this video (15:37), you will learn how you interact with standards every "
 "day.  Then you will be introduced to biodiversity information standards, "
 "including the Darwin Core Standard with which you will continue to use "
-"throughout this course."
-msgstr ""
-
-#. type: Plain text
-#: capture.en.adoc:16
-msgid ""
-"If you are unable to watch the embedded Vimeo video, you can "
+"throughout this course.  If you are unable to watch the embedded Vimeo "
+"video, you can "
 "link:../videos/Foundations_Standards_Darwin_Core.mp4[download,opts=download] "
 "it locally. (MP4 - 27 MB)"
 msgstr ""
 
 #. type: Title ===
-#: capture.en.adoc:17
+#: capture.en.adoc:16
 #, no-wrap
 msgid "Data origins and types"
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:21
+#: capture.en.adoc:20
 msgid ""
 "In this video (10:45), you will review primary biodiversity data that can be "
 "shared within GBIF.  If you are unable to watch the embedded Vimeo video, "
@@ -1746,34 +1741,34 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: capture.en.adoc:26
+#: capture.en.adoc:25
 #, no-wrap
 msgid "*Questions*\n"
 msgstr ""
 
 #. type: delimited block *
-#: capture.en.adoc:28
+#: capture.en.adoc:27
 msgid "Is your data type different than you originally thought?"
 msgstr ""
 
 #. type: delimited block *
-#: capture.en.adoc:29
+#: capture.en.adoc:28
 msgid "With what kind of data do you work?"
 msgstr ""
 
 #. type: delimited block *
-#: capture.en.adoc:30
+#: capture.en.adoc:29
 msgid "How would you publish your data to GBIF (using which Core and/or extension)?"
 msgstr ""
 
 #. type: Title ===
-#: capture.en.adoc:32
+#: capture.en.adoc:31
 #, no-wrap
 msgid "Data capture, processing and quality"
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:36
+#: capture.en.adoc:35
 msgid ""
 "In this video (09:11), you will explore the principles of data quality "
 "applied to data capture, specifically when capturing data from collection "
@@ -1784,7 +1779,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: capture.en.adoc:39 use-case-invasive-species.en.adoc:108
+#: capture.en.adoc:38 use-case-invasive-species.en.adoc:108
 #: use-case-lepidoptera-sampling.en.adoc:120
 #: use-case-birds-from-literature.en.adoc:101
 #, no-wrap
@@ -1792,7 +1787,7 @@ msgid "Exercise 2"
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:43
+#: capture.en.adoc:42
 msgid ""
 "For this activity, you will complete an exercise simulating data capture.  "
 "You will begin to work with Darwin Core terms and make decisions on data "
@@ -1801,14 +1796,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:47
+#: capture.en.adoc:46
 msgid ""
 "Imagine that you are the person assigned to transcribe the data found on the "
 "herbarium sheets."
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:52
+#: capture.en.adoc:51
 msgid ""
 "Download "
 "link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. "
@@ -1820,7 +1815,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:53
+#: capture.en.adoc:52
 msgid ""
 "Download the spreadsheet template: "
 "link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] "
@@ -1829,7 +1824,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:56
+#: capture.en.adoc:55
 msgid ""
 "you may need to add fields to the spreadsheet as you may be able to capture "
 "more information from the labels that was planned for in the template."
