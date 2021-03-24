@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-03-24 13:35+0000\n"
-"PO-Revision-Date: 2021-03-24 13:42\n"
+"POT-Creation-Date: 2021-03-24 15:17+0000\n"
+"PO-Revision-Date: 2021-03-24 15:38\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1126,7 +1126,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:85 planning.en.adoc:100 capture.en.adoc:53
-#: management.en.adoc:41 management.en.adoc:62 management.en.adoc:77
+#: management.en.adoc:42 management.en.adoc:67 management.en.adoc:82
 #: publishing.en.adoc:43 use-case-invasive-species.en.adoc:75
 #: use-case-invasive-species.en.adoc:95
 #: use-case-lepidoptera-sampling.en.adoc:87
@@ -1241,7 +1241,7 @@ msgid "Were there common issues that came up across the groups?"
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:78
+#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:139
 #: publishing.en.adoc:44
 #, no-wrap
 msgid "Review"
@@ -1395,127 +1395,309 @@ msgid "*Validation checks*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:36
-msgid "In this short exercise we will focus on technical errors and perform a basic validation check to identify technical and consistency errors."
-msgstr ""
-
-#. type: Plain text
-#: management.en.adoc:38
-msgid "Download ‘Data Cleaning_DATA EXAMPLE.csv’. (207.5 KB)"
+#: management.en.adoc:37
+msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical and consistency errors.  Refer to <<Validation checks>> for information on the types of errors."
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:39
-msgid "Import the CSV file in Excel using the Excel wizard. See 'Data Cleaning Excel Tips-EN' (PDF, 7 MB) for import instructions."
+msgid "Download UC1-3ab-data-cleaning.csv. (207.5 KB)"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:40
-msgid "Find and correct the errors manually."
+msgid "Import the CSV file in Excel using the Excel wizard. See 'Data Cleaning Excel Tips-EN' (PDF, 7 MB) for import instructions."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:43
-msgid "See ‘Data Cleaning - Tips_EN’ (PDF, 521 KB) for information on the types of errors."
+#: management.en.adoc:41
+msgid "Find and correct the errors manually."
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:44
+#: management.en.adoc:43
 #, no-wrap
 msgid "Exercise 3b"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:47
+#: management.en.adoc:46
 #, no-wrap
 msgid "*Other data management tools*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:49
+#: management.en.adoc:48
 msgid "The GPA association has given you a checklist of data quality elements to verify:"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:51
+#: management.en.adoc:50
 msgid "All plant names (full name) are correctly spelled"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:52
+#: management.en.adoc:51
 msgid "All plant names belong to the order"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:53
+#: management.en.adoc:52
 msgid "All records have coordinates"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:54
+#: management.en.adoc:53
 msgid "All coordinates are inside the country stated and converted to decimal format"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:55
+#: management.en.adoc:54
 msgid "All dates are in the proper column and in the format YYYY-MM-DD"
 msgstr ""
 
 #. type: Plain text
+#: management.en.adoc:56
+msgid "The three categories of errors are:"
+msgstr ""
+
+#. type: Plain text
 #: management.en.adoc:57
-msgid "Review 'Data Cleaning Other Tools Tips-EN' (PDF, 107.8 KB) for tips on completing the exercise."
+msgid "Nomenclatural errors"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:58
-msgid "Use the same file from the previous exercise."
+msgid "Format errors"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:59
+msgid "Geographic errors / outliers"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:62
+msgid "Refer to <<Helpful tools>> in order to complete the exercise.  You are not limited to these tools, you may use any tools you like."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:63
+msgid "Use the same file from the previous exercise."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:64
 msgid "Make the correction ONLY for the Eriocaulaceae family (so you may want to filter the data)"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:60
+#: management.en.adoc:65
 msgid "Correct the errors found in the dataset used in exercise 3a (previous exercise), using the tools of your choice, and document the changes you perform in the exercise sheet."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:61
+#: management.en.adoc:66
 msgid "Correct the entire file if you have time."
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:63
+#: management.en.adoc:68
 #, no-wrap
 msgid "Exercise 3c"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:67
+#: management.en.adoc:72
 msgid "In this video (??:??), you will learn about OpenRefine. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:71 keydocs.en.adoc:78
+#: management.en.adoc:76 keydocs.en.adoc:78
 #, no-wrap
 msgid "*OpenRefine*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:73
+#: management.en.adoc:78
 msgid "In this exercise we use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:75
+#: management.en.adoc:80
 msgid "Complete the exercises in 'Data Cleaning OpenRefine Exercise-EN'. (PDF, 1.1 MB)"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:76
+#: management.en.adoc:81
 msgid "Download 'Data Cleaning_OpenRefine_DATA EXAMPLE.csv' (207.5 KB) as your source file."
+msgstr ""
+
+#. type: Title ===
+#: management.en.adoc:83
+#, no-wrap
+msgid "Exercise tips"
+msgstr ""
+
+#. type: Title ====
+#: management.en.adoc:85
+#, no-wrap
+msgid "Validation checks"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:90
+#, no-wrap
+msgid "*Technical errors*\n"
+"Relatively simple, often able to be automated, *checks against the integrity of the data*. \n"
+"These may indicate incorrect exports, data mapping, field slippage (e.g. moving 1 column to the right) or data missing at the source.\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:93
+#, no-wrap
+msgid "*Completeness*: \n"
+"Whether all the data and metadata is available – are all fields present, are all fields filled out?\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:95
+#, no-wrap
+msgid "*Bounds*: \n"
+"For example, are days given in the range 1-31 (depending on month)\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:97
+#, no-wrap
+msgid "*Data type*: \n"
+"For example, does the Date field contain a date or a number?\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:99
+#, no-wrap
+msgid "*Data format*: \n"
+"For example, are Dates provided as 01/01/2010 or 01/Jan/10?\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:101
+#, no-wrap
+msgid "*Consistency errors*\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:107
+msgid "Application of real-world rules to the data.  These may indicate incorrect data entry from older records, transcription errors or post processing.  Some are complex to implement and *require reference data sets to check against*.  E.g. a list of known collectors and collecting habits.  These rules can be gathered from data users and analysts."
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:110
+#, no-wrap
+msgid "*Taxonomic*: \n"
+"For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:112
+#, no-wrap
+msgid "*Currency*: \n"
+"Are dates of collection, identification, update and digitisation consistent?\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:115
+#, no-wrap
+msgid "*Outliers*: \n"
+"Detect outliers, but remember that not all outliers are necessarily errors. \n"
+"For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:118
+#, no-wrap
+msgid "*Geographic*: \n"
+"Are the coordinates within the identified locality or region? \n"
+"For example, are there any terrestrial occurrences in the sea or marine occurrences on land?\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:122
+#, no-wrap
+msgid "*Collecting patterns*: \n"
+"Does the occurrence detail match the known collecting patterns of the organisation or collector?\n"
+"Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
+"For example, are any mammal records attributed to a bird watching group?\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:124
+#, no-wrap
+msgid "*Accuracy and precision*: \n"
+"For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:127
+#, no-wrap
+msgid "*Collecting methods*: \n"
+"Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
+"Are the records consistent with the method provided?\n"
+msgstr ""
+
+#. type: Title ====
+#: management.en.adoc:128
+#, no-wrap
+msgid "Helpful tools"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:131
+#, no-wrap
+msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:132
+#, no-wrap
+msgid "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:133
+#, no-wrap
+msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:134
+#, no-wrap
+msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:135
+#, no-wrap
+msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:136
+#, no-wrap
+msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:137
+#, no-wrap
+msgid "*Google Maps*: https://maps.google.com/\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:138
+#, no-wrap
+msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
 msgstr ""
 
 #. type: Plain text
