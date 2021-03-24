@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-24 15:14+0000\n"
+"POT-Creation-Date: 2021-03-24 15:17+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2085,24 +2085,35 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:93
+#, no-wrap
 msgid ""
-"Completeness: Whether all the data and metadata is available – are all "
-"fields present, are all fields filled out?"
+"*Completeness*: \n"
+"Whether all the data and metadata is available – are all fields present, are "
+"all fields filled out?\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:95
-msgid "Bounds: For example, are days given in the range 1-31 (depending on month)"
+#, no-wrap
+msgid ""
+"*Bounds*: \n"
+"For example, are days given in the range 1-31 (depending on month)\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:97
-msgid "Data type: For example, does the Date field contain a date or a number?"
+#, no-wrap
+msgid ""
+"*Data type*: \n"
+"For example, does the Date field contain a date or a number?\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:99
-msgid "Data format: For example, are Dates provided as 01/01/2010 or 01/Jan/10?"
+#, no-wrap
+msgid ""
+"*Data format*: \n"
+"For example, are Dates provided as 01/01/2010 or 01/Jan/10?\n"
 msgstr ""
 
 #. type: Plain text
@@ -2123,59 +2134,73 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:110
+#, no-wrap
 msgid ""
-"Taxonomic: For example, if identified to species level, have a binomial "
-"scientific name and entries in genus and species fields been provided?"
+"*Taxonomic*: \n"
+"For example, if identified to species level, have a binomial scientific name "
+"and entries in genus and species fields been provided?\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:112
+#, no-wrap
 msgid ""
-"Currency: Are dates of collection, identification, update and digitisation "
-"consistent?"
+"*Currency*: \n"
+"Are dates of collection, identification, update and digitisation "
+"consistent?\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:115
+#, no-wrap
 msgid ""
-"Outliers: Detect outliers, but remember that not all outliers are "
-"necessarily errors.  For example, compare against a known species range, or "
-"known environmental range (but remember that outliers may be "
-"misidentifications, rather than incorrect coordinates)."
+"*Outliers*: \n"
+"Detect outliers, but remember that not all outliers are necessarily "
+"errors. \n"
+"For example, compare against a known species range, or known environmental "
+"range (but remember that outliers may be misidentifications, rather than "
+"incorrect coordinates).\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:118
+#, no-wrap
 msgid ""
-"Geographic: Are the coordinates within the identified locality or region? "
+"*Geographic*: \n"
+"Are the coordinates within the identified locality or region? \n"
 "For example, are there any terrestrial occurrences in the sea or marine "
-"occurrences on land?"
+"occurrences on land?\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:122
+#, no-wrap
 msgid ""
-"Collecting patterns: Does the occurrence detail match the known collecting "
-"patterns of the organisation or collector? Do any records appear to have "
-"been created after a collector has died (could this possibly be a different "
-"collector with a similar name)? For example, are any mammal records "
-"attributed to a bird watching group?"
+"*Collecting patterns*: \n"
+"Does the occurrence detail match the known collecting patterns of the "
+"organisation or collector?\n"
+"Do any records appear to have been created after a collector has died (could "
+"this possibly be a different collector with a similar name)?\n"
+"For example, are any mammal records attributed to a bird watching group?\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:124
+#, no-wrap
 msgid ""
-"Accuracy and precision: For example, are any georeferenced records "
-"indicating very high precision or accuracy from a pre-GPS (or pre-accurate "
-"GPS) collecting period?"
+"*Accuracy and precision*: \n"
+"For example, are any georeferenced records indicating very high precision or "
+"accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:127
+#, no-wrap
 msgid ""
-"Collecting methods: Different survey methods (e.g. transects and area "
-"surveys) have particular characteristics.  Are the records consistent with "
-"the method provided?"
+"*Collecting methods*: \n"
+"Different survey methods (e.g. transects and area surveys) have particular "
+"characteristics. \n"
+"Are the records consistent with the method provided?\n"
 msgstr ""
 
 #. type: Title ====
@@ -2186,46 +2211,54 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:131
-msgid "GBIF Name Parser: https://www.gbif.org/tools/name-parser"
+#, no-wrap
+msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:132
-msgid "TNRS: http://tnrs.iplantcollaborative.org/index.html"
+#, no-wrap
+msgid "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:133
-msgid "Global Names Resolver: http://resolver.globalnames.org"
+#, no-wrap
+msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:134
-msgid "InfoXY: http://splink.cria.org.br/infoxy?criaLANG=en"
+#, no-wrap
+msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:135
+#, no-wrap
 msgid ""
-"Canadensys coordinate conversion: "
-"http://data.canadensys.net/tools/coordinates"
+"*Canadensys coordinate conversion*: "
+"http://data.canadensys.net/tools/coordinates\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:136
-msgid "Canadensys date parsing: http://data.canadensys.net/tools/dates"
+#, no-wrap
+msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:137
-msgid "Google Maps: https://maps.google.com/"
+#, no-wrap
+msgid "*Google Maps*: https://maps.google.com/\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:138
+#, no-wrap
 msgid ""
-"Georeferencing Calculator: "
-"http://georeferencing.org/georefcalculator/gc.html"
+"*Georeferencing Calculator*: "
+"http://georeferencing.org/georefcalculator/gc.html\n"
 msgstr ""
 
 #. type: Plain text
