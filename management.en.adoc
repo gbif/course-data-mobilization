@@ -88,13 +88,13 @@ In this exercise we use OpenRefine to improve the quality of a dataset by using 
 Relatively simple, often able to be automated, *checks against the integrity of the data*. 
 These may indicate incorrect exports, data mapping, field slippage (e.g. moving 1 column to the right) or data missing at the source.
 
-* Completeness: 
+* *Completeness*: 
 Whether all the data and metadata is available – are all fields present, are all fields filled out?
-* Bounds: 
+* *Bounds*: 
 For example, are days given in the range 1-31 (depending on month)
-* Data type: 
+* *Data type*: 
 For example, does the Date field contain a date or a number?
-* Data format: 
+* *Data format*: 
 For example, are Dates provided as 01/01/2010 or 01/Jan/10?
 
 *Consistency errors*
@@ -105,35 +105,35 @@ Some are complex to implement and *require reference data sets to check against*
 E.g. a list of known collectors and collecting habits. 
 These rules can be gathered from data users and analysts.
 
-* Taxonomic: 
+* *Taxonomic*: 
 For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?
-* Currency: 
+* *Currency*: 
 Are dates of collection, identification, update and digitisation consistent?
-* Outliers: 
+* *Outliers*: 
 Detect outliers, but remember that not all outliers are necessarily errors. 
 For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).
-* Geographic: 
+* *Geographic*: 
 Are the coordinates within the identified locality or region? 
 For example, are there any terrestrial occurrences in the sea or marine occurrences on land?
-* Collecting patterns: 
+* *Collecting patterns*: 
 Does the occurrence detail match the known collecting patterns of the organisation or collector?
 Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?
 For example, are any mammal records attributed to a bird watching group?
-* Accuracy and precision: 
+* *Accuracy and precision*: 
 For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?
-* Collecting methods: 
+* *Collecting methods*: 
 Different survey methods (e.g. transects and area surveys) have particular characteristics. 
 Are the records consistent with the method provided?
 
 ==== Helpful tools
 
-* GBIF Name Parser: https://www.gbif.org/tools/name-parser
-* TNRS: http://tnrs.iplantcollaborative.org/index.html
-* Global Names Resolver: http://resolver.globalnames.org
-* InfoXY: http://splink.cria.org.br/infoxy?criaLANG=en
-* Canadensys coordinate conversion: http://data.canadensys.net/tools/coordinates
-* Canadensys date parsing: http://data.canadensys.net/tools/dates
-* Google Maps: https://maps.google.com/
-* Georeferencing Calculator: http://georeferencing.org/georefcalculator/gc.html
+* *GBIF Name Parser*: https://www.gbif.org/tools/name-parser
+* *TNRS*: http://tnrs.iplantcollaborative.org/index.html
+* *Global Names Resolver*: http://resolver.globalnames.org
+* *InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en
+* *Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates
+* *Canadensys date parsing*: http://data.canadensys.net/tools/dates
+* *Google Maps*: https://maps.google.com/
+* *Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html
 
 === Review
