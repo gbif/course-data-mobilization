@@ -1,11 +1,13 @@
-Foundations_Terminology_DEFINITIONS
+Foundations Terminology DEFINITIONS
 
-1
+// Slide 1
+
 This session is foundation work and part of the Terminology section.
  
 We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.
 
-2
+// Slide 2
+
 First let’s review the structure of this session.
 
 In the section on DEFINITIONS we will first try to clarify the use of the word “Data”.
@@ -14,20 +16,24 @@ We will then look at the terminology surrounding Fields, Labels and Lists.
 
 And lastly, we will straighten out some concepts around characters and their mappings that will help prevent unwanted data messes.
 
-3
+// Slide 3
+
 First definitions.
 
 In this section we will look at some of the many different terms and phrases that exist within the world of data and information management. 
 
 We will be using these throughout the course and it is important that you be familiar with, when and how to use them.
 
-4
+// Slide 4
+
 Let’s focus for a moment on some common words and phrases that contain the word data.
 
-5
+// Slide 5
+
 All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  
 
-6
+// Slide 6
+
 So, what is a “Database”?
 
 There are many definitions, but what they all have in common is the theme that a database is a structured and organized collection of data and/or information held on a computer.
@@ -36,7 +42,8 @@ Everything else in the list is just a way to help you achieve this data nirvana!
 
 Let’s dig a little deeper then into those other terms.
 
-7
+// Slide 7
+
 Let us take a look at the phrase “database language”.
 
 According to the Oxford English dictionary “language” is the method of human communication, […], consisting of the use of words [or symbols] in a structured and conventional way.
@@ -49,7 +56,8 @@ Java, SPARQL, SQL and Python
 
 They are simply methods used to define and create tables, views and queries and also allow users to access, update, store and move data around.
 
-8
+// Slide 8
+
 Now let’s look at the phrase “database program or software”.
 
 Again going to the Oxford English dictionary a “program/programme” is a set of related measures or activities with a particular long-term aim.
@@ -62,7 +70,8 @@ Microsoft Access, FilemakerPro and Oracle
 
 So, database programs or software are grouped utilities which allow a user, via a database language, to store, manage, query and report data held in the system.
 
-9
+// Slide 9
+
 The last term is “data cleaning tool”.
 
 Data cleaning tools are systems whose utilities focus is on the manipulation of data with the aim of increasing fitness for use. 
@@ -73,10 +82,12 @@ OpenRefine, MatLab  and spreadsheets
 
 A data cleaning tool should assist the user in the discovery and repair of messy data in order to increase quality.
 
-10
+// Slide 10
+
 Continuing on with some more terms that you should be familiar with we will look at the differences between the terms Field, Label and List.
 
-11
+// Slide 11
+
 You will often hear reference made to field or column names and field labels or headings. 
 
 Often they will be used interchangeably, however they are different things. 
@@ -93,7 +104,8 @@ Most often you will see these in the graphical user interface of your software a
 
 In some software you can in fact have different labels to the same field on a user by user or group basis!
 
-12
+// Slide 12
+
 As you work with your data you will come across the phrases “drop-down list” and “controlled vocabulary” and on the surface they can appear to be the same. 
 
 Indeed they are both powerful tools to help you keep your data clean, but they are different.
@@ -110,10 +122,12 @@ They are an integral part of a well defined standard.
 
 Such values can be used in a drop-down list as mentioned previously.
 
-13
+// Slide 13
+
 In this section we will look at what the term character means in relation to data and computers.
 
-14
+// Slide 14
+
 As a reminder computers “see” in binary. Everything that you type in, is held in memory as a series of ones and zeros. 
 
 The computer does not “see” the repertoire of letters and symbols on your keyboard.
@@ -128,7 +142,8 @@ The “character encoding”
 
 Each symbol or glyph is assigned a numeric value and that number is then converted to binary.
 
-15
+// Slide 15
+
 In this example we see how character encoding is used to map the capital letter A in the western alphabet.
 
 The ASCII value for the capital letter A is the decimal number 65 
@@ -139,12 +154,14 @@ and in BINARY 01000001
 
 Try mapping your own name to Binary using the link at the bottom of the screen.
 
-16
+// Slide 16
+
 In effect what is happening is that when you type into a keyboard and save a file the software that you are using will select an encoding to save with it. 
 
 When you open that file again the software needs to know which encoding (map) to use to redisplay the information back to you correctly.
 
-17
+// Slide 17
+
 So why is this important to you as a data custodian?
 
 Let’s say that you translate the start of Hamlet’s soliloquy
@@ -155,7 +172,8 @@ into French and then save the file with a text editor that uses the encoding Lat
 
 Then you send it to a colleague to check the translation. Voila!
 
-18
+// Slide 18
+
 When they open the file in MicroSoft Word this is what they see…
 
 Mon dieu!
@@ -169,7 +187,8 @@ The maps did not match.
 
 Depending on the software the data may be irretrievably corrupted.
 
-19
+// Slide 19
+
 In review we have looked at the differences between the phrases:
 
 Database; database language; database program, data-cleaning tool;
@@ -180,7 +199,8 @@ Repertoires, Coded sets & Encodings
 
 And shown that although the terms may seem similar the in fact have very different definitions.
 
-20
+// Slide 20
+
 Remember that:
 
 “..The first step in wisdom is to know the things themselves; this notion consists in having a true idea of the objects.” 
@@ -188,7 +208,8 @@ Remember that:
 We often take for granted that there is a whole language associated with biodiversity informatics that is not commonplace and has to be learned. 
 There is no shame in going back to basics and getting to grips with the vocabulary,  grammar and syntax just like with any new language.
 
-21
+// Slide 21
+
 If you have questions on this presentation, please use the provided forum in the e-Learning platform.
 
 This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. 
