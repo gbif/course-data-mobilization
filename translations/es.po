@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-03-24 15:17+0000\n"
-"PO-Revision-Date: 2021-03-24 15:38\n"
+"POT-Creation-Date: 2021-03-24 16:34+0000\n"
+"PO-Revision-Date: 2021-03-24 16:38\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1126,7 +1126,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:85 planning.en.adoc:100 capture.en.adoc:53
-#: management.en.adoc:42 management.en.adoc:67 management.en.adoc:82
+#: management.en.adoc:42 management.en.adoc:67 management.en.adoc:83
 #: publishing.en.adoc:43 use-case-invasive-species.en.adoc:75
 #: use-case-invasive-species.en.adoc:95
 #: use-case-lepidoptera-sampling.en.adoc:87
@@ -1241,7 +1241,7 @@ msgid "Were there common issues that came up across the groups?"
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:139
+#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:140
 #: publishing.en.adoc:44
 #, no-wrap
 msgid "Review"
@@ -1260,7 +1260,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:13
-msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 27 MB)"
+msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download,opts=download] it locally. (MP4 - 27 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1271,7 +1271,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:20
-msgid "In this video (10:45), you will review primary biodiversity data that can be shared within GBIF.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 19 MB)"
+msgid "In this video (10:45), you will review primary biodiversity data that can be shared within GBIF.  If you are unable to watch the embedded Vimeo video, you can link:../videos/data_origins_types.mp4[download,opts=download] it locally. (MP4 - 19 MB)"
 msgstr ""
 
 #. type: delimited block *
@@ -1303,7 +1303,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:35
-msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 19 MB)"
+msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_capture_processing_quality.mp4[download,opts=download] it locally. (MP4 - 19 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1326,12 +1326,12 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:51
-msgid "Download ‘USE CASE 1 - Exercise 2 Base Material.zip’. (34.4 MB).  There are 10 images. Two images per specimen for a total of five specimens.  The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels.  Remember to use both images per record to compile the information."
+msgid "Download link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB).  There are 10 images. Two images per specimen for a total of five specimens.  The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels.  Remember to use both images per record to compile the information."
 msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:52
-msgid "Download the spreadsheet template: ‘USE CASE 1 - Exercise 2 - Template (Occurrences).xlsx’ (57.3 KB) to transcribe the information found on each of the images for the five specimens."
+msgid "Download the spreadsheet template: link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) to transcribe the information found on each of the images for the five specimens."
 msgstr ""
 
 #. type: Plain text
@@ -1401,12 +1401,12 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:39
-msgid "Download UC1-3ab-data-cleaning.csv. (207.5 KB)"
+msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:40
-msgid "Import the CSV file in Excel using the Excel wizard. See 'Data Cleaning Excel Tips-EN' (PDF, 7 MB) for import instructions."
+msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
 msgstr ""
 
 #. type: Plain text
@@ -1525,28 +1525,28 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:80
-msgid "Complete the exercises in 'Data Cleaning OpenRefine Exercise-EN'. (PDF, 1.1 MB)"
+msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:81
-msgid "Download 'Data Cleaning_OpenRefine_DATA EXAMPLE.csv' (207.5 KB) as your source file."
+#: management.en.adoc:82
+msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)  Also available in link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download]."
 msgstr ""
 
 #. type: Title ===
-#: management.en.adoc:83
+#: management.en.adoc:84
 #, no-wrap
 msgid "Exercise tips"
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:85
+#: management.en.adoc:86
 #, no-wrap
 msgid "Validation checks"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:90
+#: management.en.adoc:91
 #, no-wrap
 msgid "*Technical errors*\n"
 "Relatively simple, often able to be automated, *checks against the integrity of the data*. \n"
@@ -1554,60 +1554,60 @@ msgid "*Technical errors*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:93
+#: management.en.adoc:94
 #, no-wrap
 msgid "*Completeness*: \n"
 "Whether all the data and metadata is available – are all fields present, are all fields filled out?\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:95
+#: management.en.adoc:96
 #, no-wrap
 msgid "*Bounds*: \n"
 "For example, are days given in the range 1-31 (depending on month)\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:97
+#: management.en.adoc:98
 #, no-wrap
 msgid "*Data type*: \n"
 "For example, does the Date field contain a date or a number?\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:99
+#: management.en.adoc:100
 #, no-wrap
 msgid "*Data format*: \n"
 "For example, are Dates provided as 01/01/2010 or 01/Jan/10?\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:101
+#: management.en.adoc:102
 #, no-wrap
 msgid "*Consistency errors*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:107
+#: management.en.adoc:108
 msgid "Application of real-world rules to the data.  These may indicate incorrect data entry from older records, transcription errors or post processing.  Some are complex to implement and *require reference data sets to check against*.  E.g. a list of known collectors and collecting habits.  These rules can be gathered from data users and analysts."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:110
+#: management.en.adoc:111
 #, no-wrap
 msgid "*Taxonomic*: \n"
 "For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:112
+#: management.en.adoc:113
 #, no-wrap
 msgid "*Currency*: \n"
 "Are dates of collection, identification, update and digitisation consistent?\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:115
+#: management.en.adoc:116
 #, no-wrap
 msgid "*Outliers*: \n"
 "Detect outliers, but remember that not all outliers are necessarily errors. \n"
@@ -1615,7 +1615,7 @@ msgid "*Outliers*: \n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:118
+#: management.en.adoc:119
 #, no-wrap
 msgid "*Geographic*: \n"
 "Are the coordinates within the identified locality or region? \n"
@@ -1623,7 +1623,7 @@ msgid "*Geographic*: \n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:122
+#: management.en.adoc:123
 #, no-wrap
 msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organisation or collector?\n"
@@ -1632,14 +1632,14 @@ msgid "*Collecting patterns*: \n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:124
+#: management.en.adoc:125
 #, no-wrap
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:127
+#: management.en.adoc:128
 #, no-wrap
 msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
@@ -1647,55 +1647,55 @@ msgid "*Collecting methods*: \n"
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:128
+#: management.en.adoc:129
 #, no-wrap
 msgid "Helpful tools"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:131
+#: management.en.adoc:132
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:132
+#: management.en.adoc:133
 #, no-wrap
 msgid "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:133
+#: management.en.adoc:134
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:134
+#: management.en.adoc:135
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:135
+#: management.en.adoc:136
 #, no-wrap
 msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:136
+#: management.en.adoc:137
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:137
+#: management.en.adoc:138
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:138
+#: management.en.adoc:139
 #, no-wrap
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
 msgstr ""
