@@ -6,3 +6,17 @@ For your final activities, you will complete and submit Use Case II and Use Case
 === USE CASE II
 
 === USE CASE III
+
+=== Assignment submission
+
+ifdef::backend-pdf[]
+Assignments can be submitted from the online (HTML) version of the course.
+endif::backend-pdf[]
+
+ifndef::backend-pdf[]
+Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window.
+
+++++
+<iframe src="https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80" style="width: 100%; min-height: 900px;"></iframe>
+++++
+endif::backend-pdf[]
