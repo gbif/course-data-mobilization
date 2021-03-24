@@ -5,7 +5,7 @@
 *.brotli
 *.html
 !*docinfo*.html
-*.pdf
+??/*.pdf
 *.webp
 *.??.adoc
 !*.en.adoc
