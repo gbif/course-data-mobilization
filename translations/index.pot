@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-24 13:00+0000\n"
+"POT-Creation-Date: 2021-03-24 13:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2287,24 +2287,6 @@ msgstr ""
 msgid "Data publishing rubric"
 msgstr ""
 
-#. type: Title ===
-#: assessments-certification.en.adoc:186
-#, no-wrap
-msgid "Badge recipients"
-msgstr ""
-
-#. type: Title ====
-#: assessments-certification.en.adoc:188
-#, no-wrap
-msgid "Advanced"
-msgstr ""
-
-#. type: Title ====
-#: assessments-certification.en.adoc:190
-#, no-wrap
-msgid "Basic"
-msgstr ""
-
 #. type: Title ==
 #: use-case-invasive-species.en.adoc:3
 #, no-wrap
@@ -3462,6 +3444,34 @@ msgstr ""
 #: assignments.en.adoc:8
 #, no-wrap
 msgid "USE CASE III"
+msgstr ""
+
+#. type: Title ===
+#: assignments.en.adoc:10
+#, no-wrap
+msgid "Assignment submission"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:14
+msgid "Assignments can be submitted from the online (HTML) version of the course."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:18
+msgid ""
+"Please submit your assignment files using the form below.  If you do not see "
+"a form, you can also visit the "
+"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission "
+"site^] in a new window."
+msgstr ""
+
+#. type: delimited block +
+#: assignments.en.adoc:21
+#, no-wrap
+msgid ""
+"<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" "
+"style=\"width: 100%; min-height: 900px;\"></iframe>\n"
 msgstr ""
 
 #. type: Title ==
