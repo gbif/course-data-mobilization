@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-24 15:48+0000\n"
+"POT-Creation-Date: 2021-03-24 16:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1558,7 +1558,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:85 planning.en.adoc:100 capture.en.adoc:53
-#: management.en.adoc:42 management.en.adoc:67 management.en.adoc:82
+#: management.en.adoc:42 management.en.adoc:67 management.en.adoc:83
 #: publishing.en.adoc:43 use-case-invasive-species.en.adoc:75
 #: use-case-invasive-species.en.adoc:95
 #: use-case-lepidoptera-sampling.en.adoc:87
@@ -1689,7 +1689,7 @@ msgid "Were there common issues that came up across the groups?"
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:139
+#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:140
 #: publishing.en.adoc:44
 #, no-wrap
 msgid "Review"
@@ -1914,8 +1914,10 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:40
 msgid ""
-"Import the CSV file in Excel using the Excel wizard. See 'Data Cleaning "
-"Excel Tips-EN' (PDF, 7 MB) for import instructions."
+"Import the CSV file in Excel using the Excel wizard. See "
+"link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf,opts=download] (PDF, "
+"7 MB) for import instructions for your operating system (Windows, Mac, "
+"Linux)."
 msgstr ""
 
 #. type: Plain text
@@ -2052,31 +2054,35 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:80
 msgid ""
-"Complete the exercises in 'Data Cleaning OpenRefine Exercise-EN'. (PDF, 1.1 "
-"MB)"
+"Download "
+"link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. "
+"(207.5 KB)"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:81
+#: management.en.adoc:82
 msgid ""
-"Download 'Data Cleaning_OpenRefine_DATA EXAMPLE.csv' (207.5 KB) as your "
-"source file."
+"Download and complete the exercises in "
+"link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. "
+"(PDF, 1.1 MB)  Also available in "
+"link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and "
+"link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download]."
 msgstr ""
 
 #. type: Title ===
-#: management.en.adoc:83
+#: management.en.adoc:84
 #, no-wrap
 msgid "Exercise tips"
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:85
+#: management.en.adoc:86
 #, no-wrap
 msgid "Validation checks"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:90
+#: management.en.adoc:91
 #, no-wrap
 msgid ""
 "*Technical errors*\n"
@@ -2087,7 +2093,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:93
+#: management.en.adoc:94
 #, no-wrap
 msgid ""
 "*Completeness*: \n"
@@ -2096,7 +2102,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:95
+#: management.en.adoc:96
 #, no-wrap
 msgid ""
 "*Bounds*: \n"
@@ -2104,7 +2110,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:97
+#: management.en.adoc:98
 #, no-wrap
 msgid ""
 "*Data type*: \n"
@@ -2112,7 +2118,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:99
+#: management.en.adoc:100
 #, no-wrap
 msgid ""
 "*Data format*: \n"
@@ -2120,13 +2126,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:101
+#: management.en.adoc:102
 #, no-wrap
 msgid "*Consistency errors*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:107
+#: management.en.adoc:108
 msgid ""
 "Application of real-world rules to the data.  These may indicate incorrect "
 "data entry from older records, transcription errors or post processing.  "
@@ -2136,7 +2142,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:110
+#: management.en.adoc:111
 #, no-wrap
 msgid ""
 "*Taxonomic*: \n"
@@ -2145,7 +2151,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:112
+#: management.en.adoc:113
 #, no-wrap
 msgid ""
 "*Currency*: \n"
@@ -2154,7 +2160,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:115
+#: management.en.adoc:116
 #, no-wrap
 msgid ""
 "*Outliers*: \n"
@@ -2166,7 +2172,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:118
+#: management.en.adoc:119
 #, no-wrap
 msgid ""
 "*Geographic*: \n"
@@ -2176,7 +2182,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:122
+#: management.en.adoc:123
 #, no-wrap
 msgid ""
 "*Collecting patterns*: \n"
@@ -2188,7 +2194,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:124
+#: management.en.adoc:125
 #, no-wrap
 msgid ""
 "*Accuracy and precision*: \n"
@@ -2197,7 +2203,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:127
+#: management.en.adoc:128
 #, no-wrap
 msgid ""
 "*Collecting methods*: \n"
@@ -2207,37 +2213,37 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:128
+#: management.en.adoc:129
 #, no-wrap
 msgid "Helpful tools"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:131
+#: management.en.adoc:132
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:132
+#: management.en.adoc:133
 #, no-wrap
 msgid "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:133
+#: management.en.adoc:134
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:134
+#: management.en.adoc:135
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:135
+#: management.en.adoc:136
 #, no-wrap
 msgid ""
 "*Canadensys coordinate conversion*: "
@@ -2245,19 +2251,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:136
+#: management.en.adoc:137
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:137
+#: management.en.adoc:138
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:138
+#: management.en.adoc:139
 #, no-wrap
 msgid ""
 "*Georeferencing Calculator*: "
