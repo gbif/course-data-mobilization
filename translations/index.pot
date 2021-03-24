@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-24 16:27+0000\n"
+"POT-Creation-Date: 2021-03-24 16:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1720,7 +1720,9 @@ msgid ""
 "day.  Then you will be introduced to biodiversity information standards, "
 "including the Darwin Core Standard with which you will continue to use "
 "throughout this course.  If you are unable to watch the embedded Vimeo "
-"video, you can download it locally. (MP4 - 27 MB)"
+"video, you can "
+"link:../videos/Foundations_Standards_Darwin_Core.mp4[download,opts=download] "
+"it locally. (MP4 - 27 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1734,7 +1736,8 @@ msgstr ""
 msgid ""
 "In this video (10:45), you will review primary biodiversity data that can be "
 "shared within GBIF.  If you are unable to watch the embedded Vimeo video, "
-"you can download it locally. (MP4 - 19 MB)"
+"you can link:../videos/data_origins_types.mp4[download,opts=download] it "
+"locally. (MP4 - 19 MB)"
 msgstr ""
 
 #. type: delimited block *
@@ -1770,7 +1773,9 @@ msgid ""
 "In this video (09:11), you will explore the principles of data quality "
 "applied to data capture, specifically when capturing data from collection "
 "labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch "
-"the embedded Vimeo video, you can download it locally. (MP4 - 19 MB)"
+"the embedded Vimeo video, you can "
+"link:../videos/Data_capture_processing_quality.mp4[download,opts=download] "
+"it locally. (MP4 - 19 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1800,20 +1805,22 @@ msgstr ""
 #. type: Plain text
 #: capture.en.adoc:51
 msgid ""
-"Download ‘USE CASE 1 - Exercise 2 Base Material.zip’. (34.4 MB).  There are "
-"10 images. Two images per specimen for a total of five specimens.  The "
-"herbarium sheets are in Spanish (data may come to you in various means and "
-"in other languages than your own), but you should be able to recognize the "
-"data contained in the fields on the labels.  Remember to use both images per "
-"record to compile the information."
+"Download "
+"link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. "
+"(34.4 MB).  There are 10 images. Two images per specimen for a total of five "
+"specimens.  The herbarium sheets are in Spanish (data may come to you in "
+"various means and in other languages than your own), but you should be able "
+"to recognize the data contained in the fields on the labels.  Remember to "
+"use both images per record to compile the information."
 msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:52
 msgid ""
-"Download the spreadsheet template: ‘USE CASE 1 - Exercise 2 - Template "
-"(Occurrences).xlsx’ (57.3 KB) to transcribe the information found on each of "
-"the images for the five specimens."
+"Download the spreadsheet template: "
+"link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] "
+"(57.3 KB) to transcribe the information found on each of the images for the "
+"five specimens."
 msgstr ""
 
 #. type: Plain text
