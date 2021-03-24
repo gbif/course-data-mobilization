@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-19 17:09+0000\n"
+"POT-Creation-Date: 2021-03-24 10:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4510,19 +4510,23 @@ msgstr ""
 #. type: Plain text
 #: scripts/definitions.en.txt:2
 #, no-wrap
-msgid "Foundations_Terminology_DEFINITIONS\n"
+msgid "Foundations Terminology DEFINITIONS\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:5
+#: scripts/definitions.en.txt:4
 #, no-wrap
-msgid ""
-"1\n"
-"This session is foundation work and part of the Terminology section.\n"
+msgid "// Slide 1\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:7
+#: scripts/definitions.en.txt:6
+#, no-wrap
+msgid "This session is foundation work and part of the Terminology section.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:8
 #, no-wrap
 msgid ""
 "We will be introducing you to the language, terminology and definitions for "
@@ -4533,13 +4537,17 @@ msgstr ""
 #. type: Plain text
 #: scripts/definitions.en.txt:10
 #, no-wrap
-msgid ""
-"2\n"
-"First let’s review the structure of this session.\n"
+msgid "// Slide 2\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:12
+#, no-wrap
+msgid "First let’s review the structure of this session.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:14
 #, no-wrap
 msgid ""
 "In the section on DEFINITIONS we will first try to clarify the use of the "
@@ -4547,13 +4555,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:14
+#: scripts/definitions.en.txt:16
 #, no-wrap
 msgid "We will then look at the terminology surrounding Fields, Labels and Lists.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:16
+#: scripts/definitions.en.txt:18
 #, no-wrap
 msgid ""
 "And lastly, we will straighten out some concepts around characters and their "
@@ -4561,15 +4569,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:19
+#: scripts/definitions.en.txt:20
 #, no-wrap
-msgid ""
-"3\n"
-"First definitions.\n"
+msgid "// Slide 3\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:21
+#: scripts/definitions.en.txt:22
+#, no-wrap
+msgid "First definitions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:24
 #, no-wrap
 msgid ""
 "In this section we will look at some of the many different terms and phrases "
@@ -4577,7 +4589,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:23
+#: scripts/definitions.en.txt:26
 #, no-wrap
 msgid ""
 "We will be using these throughout the course and it is important that you be "
@@ -4585,33 +4597,47 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:26
+#: scripts/definitions.en.txt:28
+#, no-wrap
+msgid "// Slide 4\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:30
 #, no-wrap
 msgid ""
-"4\n"
 "Let’s focus for a moment on some common words and phrases that contain the "
 "word data.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:29
+#: scripts/definitions.en.txt:32
+#, no-wrap
+msgid "// Slide 5\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:34
 #, no-wrap
 msgid ""
-"5\n"
 "All of the phrases here include the word data, but are they all the same, "
 "and if not, then what is the difference?  \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:32
+#: scripts/definitions.en.txt:36
 #, no-wrap
-msgid ""
-"6\n"
-"So, what is a “Database”?\n"
+msgid "// Slide 6\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:34
+#: scripts/definitions.en.txt:38
+#, no-wrap
+msgid "So, what is a “Database”?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:40
 #, no-wrap
 msgid ""
 "There are many definitions, but what they all have in common is the theme "
@@ -4620,7 +4646,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:36
+#: scripts/definitions.en.txt:42
 #, no-wrap
 msgid ""
 "Everything else in the list is just a way to help you achieve this data "
@@ -4628,21 +4654,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:38
+#: scripts/definitions.en.txt:44
 #, no-wrap
 msgid "Let’s dig a little deeper then into those other terms.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:41
+#: scripts/definitions.en.txt:46
 #, no-wrap
-msgid ""
-"7\n"
-"Let us take a look at the phrase “database language”.\n"
+msgid "// Slide 7\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:43
+#: scripts/definitions.en.txt:48
+#, no-wrap
+msgid "Let us take a look at the phrase “database language”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:50
 #, no-wrap
 msgid ""
 "According to the Oxford English dictionary “language” is the method of human "
@@ -4651,7 +4681,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:45
+#: scripts/definitions.en.txt:52
 #, no-wrap
 msgid ""
 "For our purposes, database languages and their close allies the array "
@@ -4660,19 +4690,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:47
+#: scripts/definitions.en.txt:54
 #, no-wrap
 msgid "Examples that you may have come across are:\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:49
+#: scripts/definitions.en.txt:56
 #, no-wrap
 msgid "Java, SPARQL, SQL and Python\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:51
+#: scripts/definitions.en.txt:58
 #, no-wrap
 msgid ""
 "They are simply methods used to define and create tables, views and queries "
@@ -4680,15 +4710,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:54
+#: scripts/definitions.en.txt:60
 #, no-wrap
-msgid ""
-"8\n"
-"Now let’s look at the phrase “database program or software”.\n"
+msgid "// Slide 8\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:56
+#: scripts/definitions.en.txt:62
+#, no-wrap
+msgid "Now let’s look at the phrase “database program or software”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:64
 #, no-wrap
 msgid ""
 "Again going to the Oxford English dictionary a “program/programme” is a set "
@@ -4696,7 +4730,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:58
+#: scripts/definitions.en.txt:66
 #, no-wrap
 msgid ""
 "In this context, a “database program or software” combines and presents "
@@ -4705,19 +4739,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:60
+#: scripts/definitions.en.txt:68
 #, no-wrap
 msgid "Examples that you may come across are:\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:62
+#: scripts/definitions.en.txt:70
 #, no-wrap
 msgid "Microsoft Access, FilemakerPro and Oracle\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:64
+#: scripts/definitions.en.txt:72
 #, no-wrap
 msgid ""
 "So, database programs or software are grouped utilities which allow a user, "
@@ -4726,15 +4760,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:67
+#: scripts/definitions.en.txt:74
 #, no-wrap
-msgid ""
-"9\n"
-"The last term is “data cleaning tool”.\n"
+msgid "// Slide 9\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:69
+#: scripts/definitions.en.txt:76
+#, no-wrap
+msgid "The last term is “data cleaning tool”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:78
 #, no-wrap
 msgid ""
 "Data cleaning tools are systems whose utilities focus is on the manipulation "
@@ -4742,7 +4780,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:71
+#: scripts/definitions.en.txt:80
 #, no-wrap
 msgid ""
 "Examples that you may be familiar or will learn about during the course "
@@ -4750,13 +4788,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:73
+#: scripts/definitions.en.txt:82
 #, no-wrap
 msgid "OpenRefine, MatLab  and spreadsheets\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:75
+#: scripts/definitions.en.txt:84
 #, no-wrap
 msgid ""
 "A data cleaning tool should assist the user in the discovery and repair of "
@@ -4764,25 +4802,35 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:78
+#: scripts/definitions.en.txt:86
+#, no-wrap
+msgid "// Slide 10\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:88
 #, no-wrap
 msgid ""
-"10\n"
 "Continuing on with some more terms that you should be familiar with we will "
 "look at the differences between the terms Field, Label and List.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:81
+#: scripts/definitions.en.txt:90
+#, no-wrap
+msgid "// Slide 11\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:92
 #, no-wrap
 msgid ""
-"11\n"
 "You will often hear reference made to field or column names and field labels "
 "or headings. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:83
+#: scripts/definitions.en.txt:94
 #, no-wrap
 msgid ""
 "Often they will be used interchangeably, however they are different "
@@ -4790,13 +4838,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:85
+#: scripts/definitions.en.txt:96
 #, no-wrap
 msgid "Field or column names refer to the actual column in the database table. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:87
+#: scripts/definitions.en.txt:98
 #, no-wrap
 msgid ""
 "They are a often short, not always in plain language, sometimes computer "
@@ -4804,7 +4852,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:89
+#: scripts/definitions.en.txt:100
 #, no-wrap
 msgid ""
 "Field names are almost always used by database languages, because the avoid "
@@ -4812,7 +4860,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:91
+#: scripts/definitions.en.txt:102
 #, no-wrap
 msgid ""
 "Labels and headers on the other hand, refer to the human readable versions "
@@ -4820,7 +4868,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:93
+#: scripts/definitions.en.txt:104
 #, no-wrap
 msgid ""
 "Most often you will see these in the graphical user interface of your "
@@ -4828,7 +4876,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:95
+#: scripts/definitions.en.txt:106
 #, no-wrap
 msgid ""
 "In some software you can in fact have different labels to the same field on "
@@ -4836,17 +4884,22 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:98
+#: scripts/definitions.en.txt:108
+#, no-wrap
+msgid "// Slide 12\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:110
 #, no-wrap
 msgid ""
-"12\n"
 "As you work with your data you will come across the phrases “drop-down list” "
 "and “controlled vocabulary” and on the surface they can appear to be the "
 "same. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:100
+#: scripts/definitions.en.txt:112
 #, no-wrap
 msgid ""
 "Indeed they are both powerful tools to help you keep your data clean, but "
@@ -4854,7 +4907,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:102
+#: scripts/definitions.en.txt:114
 #, no-wrap
 msgid ""
 "A drop-down list, also sometimes called a lookup table is a data entry "
@@ -4862,19 +4915,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:104
+#: scripts/definitions.en.txt:116
 #, no-wrap
 msgid "It allows to you select a value from a predefined set of options. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:106
+#: scripts/definitions.en.txt:118
 #, no-wrap
 msgid "They can also be generated from the data itself on the fly.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:108
+#: scripts/definitions.en.txt:120
 #, no-wrap
 msgid ""
 "A controlled vocabulary on the other hand, is a very strictly defined, "
@@ -4883,37 +4936,47 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:110
+#: scripts/definitions.en.txt:122
 #, no-wrap
 msgid "They are an integral part of a well defined standard. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:112
+#: scripts/definitions.en.txt:124
 #, no-wrap
 msgid "Such values can be used in a drop-down list as mentioned previously.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:115
+#: scripts/definitions.en.txt:126
+#, no-wrap
+msgid "// Slide 13\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:128
 #, no-wrap
 msgid ""
-"13\n"
 "In this section we will look at what the term character means in relation to "
 "data and computers.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:118
+#: scripts/definitions.en.txt:130
+#, no-wrap
+msgid "// Slide 14\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:132
 #, no-wrap
 msgid ""
-"14\n"
 "As a reminder computers “see” in binary. Everything that you type in, is "
 "held in memory as a series of ones and zeros. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:120
+#: scripts/definitions.en.txt:134
 #, no-wrap
 msgid ""
 "The computer does not “see” the repertoire of letters and symbols on your "
@@ -4921,7 +4984,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:122
+#: scripts/definitions.en.txt:136
 #, no-wrap
 msgid ""
 "It needs a map to translate the character set that you would write or type, "
@@ -4930,25 +4993,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:124
+#: scripts/definitions.en.txt:138
 #, no-wrap
 msgid "This map is made up of two parts:\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:126
+#: scripts/definitions.en.txt:140
 #, no-wrap
 msgid "The “coded character set” and \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:128
+#: scripts/definitions.en.txt:142
 #, no-wrap
 msgid "The “character encoding”\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:130
+#: scripts/definitions.en.txt:144
 #, no-wrap
 msgid ""
 "Each symbol or glyph is assigned a numeric value and that number is then "
@@ -4956,34 +5019,39 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:133
+#: scripts/definitions.en.txt:146
+#, no-wrap
+msgid "// Slide 15\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:148
 #, no-wrap
 msgid ""
-"15\n"
 "In this example we see how character encoding is used to map the capital "
 "letter A in the western alphabet.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:135
+#: scripts/definitions.en.txt:150
 #, no-wrap
 msgid "The ASCII value for the capital letter A is the decimal number 65 \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:137
+#: scripts/definitions.en.txt:152
 #, no-wrap
 msgid "which in HEXIDECIMAL is 041 \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:139
+#: scripts/definitions.en.txt:154
 #, no-wrap
 msgid "and in BINARY 01000001\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:141
+#: scripts/definitions.en.txt:156
 #, no-wrap
 msgid ""
 "Try mapping your own name to Binary using the link at the bottom of the "
@@ -4991,17 +5059,22 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:144
+#: scripts/definitions.en.txt:158
+#, no-wrap
+msgid "// Slide 16\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:160
 #, no-wrap
 msgid ""
-"16\n"
 "In effect what is happening is that when you type into a keyboard and save a "
 "file the software that you are using will select an encoding to save with "
 "it. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:146
+#: scripts/definitions.en.txt:162
 #, no-wrap
 msgid ""
 "When you open that file again the software needs to know which encoding "
@@ -5009,27 +5082,31 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:149
+#: scripts/definitions.en.txt:164
 #, no-wrap
-msgid ""
-"17\n"
-"So why is this important to you as a data custodian?\n"
+msgid "// Slide 17\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:151
+#: scripts/definitions.en.txt:166
+#, no-wrap
+msgid "So why is this important to you as a data custodian?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:168
 #, no-wrap
 msgid "Let’s say that you translate the start of Hamlet’s soliloquy\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:153
+#: scripts/definitions.en.txt:170
 #, no-wrap
 msgid " ”To be or not to be, that is the question”\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:155
+#: scripts/definitions.en.txt:172
 #, no-wrap
 msgid ""
 "into French and then save the file with a text editor that uses the encoding "
@@ -5037,33 +5114,37 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:157
+#: scripts/definitions.en.txt:174
 #, no-wrap
 msgid "Then you send it to a colleague to check the translation. Voila!\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:160
+#: scripts/definitions.en.txt:176
 #, no-wrap
-msgid ""
-"18\n"
-"When they open the file in MicroSoft Word this is what they see…\n"
+msgid "// Slide 18\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:162
+#: scripts/definitions.en.txt:178
+#, no-wrap
+msgid "When they open the file in MicroSoft Word this is what they see…\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:180
 #, no-wrap
 msgid "Mon dieu!\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:164
+#: scripts/definitions.en.txt:182
 #, no-wrap
 msgid "There are some unexpected characters.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:166
+#: scripts/definitions.en.txt:184
 #, no-wrap
 msgid ""
 "You forgot to tell your colleague that you where using Latin-1 as the "
@@ -5071,7 +5152,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:169
+#: scripts/definitions.en.txt:187
 #, no-wrap
 msgid ""
 "MicroSoft Word on their end was set to use the encoding set Unicode "
@@ -5080,27 +5161,31 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:171
+#: scripts/definitions.en.txt:189
 #, no-wrap
 msgid "Depending on the software the data may be irretrievably corrupted.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:174
+#: scripts/definitions.en.txt:191
 #, no-wrap
-msgid ""
-"19\n"
-"In review we have looked at the differences between the phrases:\n"
+msgid "// Slide 19\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:176
+#: scripts/definitions.en.txt:193
+#, no-wrap
+msgid "In review we have looked at the differences between the phrases:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:195
 #, no-wrap
 msgid "Database; database language; database program, data-cleaning tool;\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:178
+#: scripts/definitions.en.txt:197
 #, no-wrap
 msgid ""
 "Field names & Field labels; Drop-down lists & Controlled vocabularies and "
@@ -5108,13 +5193,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:180
+#: scripts/definitions.en.txt:199
 #, no-wrap
 msgid "Repertoires, Coded sets & Encodings \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:182
+#: scripts/definitions.en.txt:201
 #, no-wrap
 msgid ""
 "And shown that although the terms may seem similar the in fact have very "
@@ -5122,15 +5207,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:185
+#: scripts/definitions.en.txt:203
 #, no-wrap
-msgid ""
-"20\n"
-"Remember that:\n"
+msgid "// Slide 20\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:187
+#: scripts/definitions.en.txt:205
+#, no-wrap
+msgid "Remember that:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:207
 #, no-wrap
 msgid ""
 "“..The first step in wisdom is to know the things themselves; this notion "
@@ -5138,7 +5227,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:190
+#: scripts/definitions.en.txt:210
 #, no-wrap
 msgid ""
 "We often take for granted that there is a whole language associated with "
@@ -5148,16 +5237,21 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:193
+#: scripts/definitions.en.txt:212
+#, no-wrap
+msgid "// Slide 21\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/definitions.en.txt:214
 #, no-wrap
 msgid ""
-"21\n"
 "If you have questions on this presentation, please use the provided forum in "
 "the e-Learning platform.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:196
+#: scripts/definitions.en.txt:217
 #, no-wrap
 msgid ""
 "This video is part of a series of presentations used in the GBIF "
@@ -5168,7 +5262,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:197
+#: scripts/definitions.en.txt:218
 #, no-wrap
 msgid ""
 "This presentation was originally created and narrated by Sharon Grant with "
