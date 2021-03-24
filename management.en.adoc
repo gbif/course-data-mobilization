@@ -36,7 +36,7 @@ In this exercise we will focus on technical errors and perform a basic validatio
 Refer to <<Validation checks>> for information on the types of errors.
 
 . Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)
-. Import the CSV file in Excel using the Excel wizard. See 'Data Cleaning Excel Tips-EN' (PDF, 7 MB) for import instructions.
+. Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux).
 . Find and correct the errors manually.
 . Use the exercise sheet to provide your answers.
 
@@ -76,8 +76,9 @@ video::xxxxxxxxx[vimeo, height=480, width=640, align=center]
 
 In this exercise we use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions.
 
-. Complete the exercises in 'Data Cleaning OpenRefine Exercise-EN'. (PDF, 1.1 MB)
-. Download 'Data Cleaning_OpenRefine_DATA EXAMPLE.csv' (207.5 KB) as your source file.
+. Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)
+. Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)
+Also available in link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download].
 . Use the exercise sheet to provide your answers.
 
 === Exercise tips
