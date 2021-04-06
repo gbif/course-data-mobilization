@@ -1,0 +1,297 @@
+// Slide 1
+
+In this presentation, we will introduce you to data standards as they relate to biodiversity data. 
+In particular, we will focus on the Darwin Core standard.
+
+// Slide 2
+
+The engineer and industrialist W. Edwards Deming said:
+
+“Standardisation does not mean that we all wear the same colour and weave of cloth, eat standard sandwiches, or live in standard rooms with standard furnishing. 
+Homes of infinite variety of design are built with a few types of bricks, and with lumber of standard sizes, and with water and heating pipes and fitting of standard dimensions.” 
+
+What he was trying to say is that using standardization does not prevent us from being creative. 
+He was also showing us that we already live with standards all around us.
+
+As we move forward, we will define the term “Standard” and we’ll look at how we interact with standards every day. 
+We will then introduce you to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.
+
+// Slide 3
+
+So what is a Standard?
+
+At its simplest, it is:
+
+“An agreed way of doing something.”
+
+Standards are combinations of norms, conventions, specifications, requirements, restrictions, and rules.
+ 
+// Slide 4
+
+The main purpose for standards is to create a framework of “mutual understanding”. 
+They should provide clarity and help communication.
+
+Examples of everyday things that we encounter which make use of standards to aid communication of information are:
+
+Units of Measurement
+
+Numeral Systems
+
+Alphabets
+
+Languages
+
+Emojis
+
+Postal Addressing
+
+Morse Code
+
+Barcoding
+
+// Slide 5
+
+Let’s take a very specific example and break it down. 
+Here in order to communicate accurately and repeatedly a position on the earth – a latitude and longitude – is actually a combination of at least 8 standards.
+
+measurement - geographic coordinates 
+
+format - degrees, minutes, seconds
+
+numeric system - sexagesimal
+
+numbers - Indo-Arabic
+
+language - English
+
+alphabet - Latin
+
+symbols - typography
+
+font - Roboto
+
+// Slide 6
+
+Standards provide ways of constraining the array of possibilities. 
+In the earlier Foundations presentations, you learned about types of data, schemas, formats and character encodings. 
+Each of these can be used to constrain the array of possibilities within the terms of a Standard.
+
+Types of data can restrict the values of a field. 
+So alphanumeric text in a text field, decimals in a float. 
+Yes/No in a Boolean.
+
+An encoding schema can restrict the range of values in a field. 
+For example, the list of possible latitude values have a range: between -90 and 90.
+
+A format can restrict the representation of a data in a field. 
+For example, whether a data appears as year month day, or day month year, or month day year.
+
+And then, character encoding provides the rules for interpreting bytes of data. 
+For our purposes, we’ll use UTF-8.
+
+// Slide 7
+
+During this course, you will be learning how to share your data. 
+As such, you will encounter standards for transferring data.
+
+An application schema, allows for the combination of data standards for a specific purpose. 
+For example, using Darwin Core terms within Darwin Core Archives. 
+We’ll delve more into both in just a few moments.
+
+Again, you will make use of format, but this time the format restricts dataset structures. 
+A dataset may make use of csv, xml, json and rdf.
+
+And lastly, you will have a transfer protocol, which provides information on how and where to send information. 
+These might include http (hypertext transfer protocol), ftp (file transfer protocol), and smtp (simple mail transfer protocol or if you like, send mail to people).
+
+ 
+// Slide 8
+
+In the domain of biodiversity informatics there are many standards already available that can help you work with your data. 
+The USGS has a very specific definition of these:
+ 
+“Data standards are the rules by which data are described and recorded. 
+In order to share, exchange, and understand data, we must standardize the format as well as the meaning.
+
+The result of using these standards, where appropriate, is that you will increase data integrity, accuracy and consistency by clarifying ambiguous meaning and minimizing redundant data.
+
+Those that you are likely to encounter or use on a regular basis may include:
+
+Ecological Metadata Language Standard (EML) 
+
+Audubon Media Description (aka Audubon Core)
+
+Global Genome Biodiversity Network(GGBN)
+
+Ocean Data Standards and Best Practices Project (ODSBP)
+
+And last, but not least, we’ll spend the rest of this discussion on Darwin Core. 
+The Darwin Core standard will allow you to share your occurrence, taxonomic, and event datasets.
+
+// Slide 9
+
+Darwin Core is a biodiversity standard developed by the Biodiversity Informatics community. 
+It was originally developed under the Taxonimic Databases Working Group or T D W G, pronounced TDWG. 
+In recent years, the group has been renamed, Biodiversity Information Standards. 
+But the acronym persists as the community is quite fond of the name TDWG.
+
+“The standard includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. 
+Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.”
+
+So in short, Darwin Core is a “List of fields and their definitions, as they relate to biodiversity data.”
+
+ 
+// Slide 10
+
+As we dive deeper into Darwin Core or as it is abbreviated, DwC, you’ll learn it is more than JUST a list of fields. 
+We will use Simple Darwin Core which is a predefined subset of the terms that have common use across a wide variety of biodiversity applications.
+
+This subset contains greater than 150 fields, that are placed into a set of field classes comprised of:
+
+Record & Dataset
+
+Occurrence
+
+Organism
+
+Material Sample
+
+Event
+
+Location
+
+Geological Context
+
+Identification
+
+Taxon
+
+Additionally, there are two auxiliary classes called:
+
+ResourceRelationship
+
+MeasurementOrFact
+
+From the Simple Darwin Core User Guide, “Simple Darwin Core is simple in that it assumes (and allows) no structure beyond the concept of rows and columns, which might be thought of as attributes and their values, or fields and records.”
+
+// Slide 11
+
+The DwC Quick Reference Guide will soon become your go to resource. 
+This page provides a list of all currently recommended terms of the Darwin Core standard. 
+Categories such as Occurrence or Event correspond to Darwin Core classes which group other terms.
+
+ 
+// Slide 12
+
+We now will look at some examples of Darwin Core terms. 
+The quick reference guide, consistently displays each term with the identifier name, definition, comments and examples. 
+The first terms we’ll review are Country and CountryCode within the Location category.
+
+Generally, data holders have a field for country within their source data. 
+But often this data can be quite messy with misspellings, abbreviations, and historical names. 
+However, it is one of the most easily standardized pieces of data. 
+As noted in the comments, the recommended best practice is to use a controlled vocabulary such as the Getty Thesaurus of Geographic Names. 
+A controlled vocabulary places restriction on the values that should be used for that term.
+
+CountryCode is a term that is generally not present in holder data. 
+But again, it is another field that can easily be supplied with data due to the recommendation in the comments to use an ISO 3166-1-alpha-2 country code.
+
+GBIF strongly recommends the sharing of CountryCode within occurrence datasets. 
+Sharing of Country is also encouraged.
+
+You will learn more about the GBIF requirements and recommendations in later sessions.
+
+// Slide 13
+
+The next term is basisOfRecord. 
+basisOfRecord defines the nature of each record in a dataset. 
+BasisOfRecord follows a controlled vocabulary. 
+You can choose from PreservedSpecimen, FossilSpecimen, LivingSpecimen, MaterialSample, Event, HumanObservation, MachineObservation, Taxon, or Occurrence. 
+GBIF requires basisOfRecord with published occurrence datasets.
+
+// Slide 14
+
+The last term we will review is occurrenceID. 
+When publishing occurrence records, GBIF requires an occurrenceID. 
+An occurrenceID is an identifier for the occurrence itself, not the digital record of the occurrence. 
+Recommended best practice is to use a globally unique identifier otherwise known as a GUID. 
+In the absence of a GUID, a unique identifier can be comprised of other identifiers within the dataset. 
+For example institutionCode, collectionCode, and catalog number. 
+We call this a triplet. 
+There are tools on the internet that can help you to generate GUIDs for your records. 
+If you use this method, these GUIDs should become a permanent field within your source data identifying each record. 
+For the work done in this course, you will create a triplet. 
+The format will follow the third example here highlighted in red.
+
+ 
+// Slide 15
+
+In using Simple Darwin Core, you may discover that you have more data to share but you cannot find corresponding terms in DwC. 
+This data could be image or sound files or perhaps you are responsible for a collection of vertebrates and you have extensive data compiled on the weights and size of the specimens. 
+Or even detailed historical information on the identification of a taxon. 
+When this occurs, you will look to Darwin Core extensions so that you can extend the base data by providing additional files that correspond to the base data. 
+Extensions that would meet your needs in these three examples are:
+
+Audubon Media Description (aka Audubon Core)
+
+Measurements or Facts
+
+Identification History
+
+There are many more extensions. 
+GBIF maintains a list of all approved and draft extensions on its tools subsite.
+
+// Slide 16
+
+There are many layers in our biodiversity informatics community. 
+The image here shows the relationships between these layers and where they intersect with the Darwin Core and where extensions maybe necessary in order to fully share data.
+
+// Slide 17
+
+Data shared to GBIF is submitted via a Darwin Core Archive or DwCA
+
+A DwCA is an expression of the Darwin Core text guide. 
+It is a compressed file containing a minimum of three files. 
+It is encoded as UTF-8. 
+
+
+In this example, these three files are: 
+
+1.	A data file (occurrence.txt) conforming to the SIMPLEDWC in a CSV format where the first row includes Darwin Core standard term names.
+
+2.	A meta file (meta.xml) in XML format containing technical details to instruct a computer in how to use the data file.
+
+3.	A meta file (eml.xml) in an XML format containing explanatory details about the records contained within the data file to instruct a user if the data will be fit for their use.
+
+A more complex structure can be obtained by sharing multiple related csv files to extend the data. 
+They are related to the core file by way of a unique id. 
+In an occurrence dataset, these related csv files are related by the occurrenceID.
+
+ 
+// Slide 18
+
+We’ve covered What Darwin Core Is and hopefully you’ve started to develop a sense of why you should use it.
+
+It is a standard and standards are good! Standards provide us with the rules and protocols we need to share our data with others.
+
+Darwin Core also provides us with a common language. 
+As we saw in the Foundations – Documentation presentation, source data can be tricky when trying to compare datasets. 
+The fields in your source data might be different than the fields in another institutions data source. 
+When we all use Darwin Core to share our data, we understand that data has been shared with a common language.
+
+// Slide 19
+And it’s not only the data holders that understand this common language, the data users do as well. 
+And after all, what could be better than a user finding a data set that is fit for their use, shared in a common language, that allows them to do better science.
+
+// Slide 20
+
+Thank you.
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. 
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. 
+
+This presentation was originally created by Paula Zermoglio and John Wieczorek with additional contributions by Sharon Grant, Sophie Pamerlon, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students. 
+
+This presentation has been narrated by Laura Anne Russell.
