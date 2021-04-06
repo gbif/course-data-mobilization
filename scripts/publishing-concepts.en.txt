@@ -1,0 +1,200 @@
+// Slide 1
+
+In this presentation, we will introduce you to the concept of Data Publishing.
+We will also introduce you to GBIF’s Integrated Publishing Toolkit.
+
+// Slide 2
+
+At this point in the course, you have moved through all the sections of mobilization project.
+Now you are ready to share your data.
+You’ve produced a cleaned and standardized dataset and you want to share and see that data on the GBIF data portal.
+
+// Slide 3
+
+But there is more to it than simply handing over a spreadsheet or a text file to GBIF.
+You must publish the data.
+
+Data publishing is the act of making biodiversity datasets publicly accessible and discoverable, in a standardized form (ie Darwin Core), via an access point.
+This access point is a URL – a web address.
+ 
+Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the Integrated Publishing Toolkit, to publish their data.
+These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities.
+This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet.
+Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.
+ 
+If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF.
+
+// Slide 4
+
+The definition on the previous Slide should probably be updated to include some words about waivers and licenses.
+The act of not only making the data accessible, but making it as open as possible.
+
+In an effort to document the level of openness of a dataset, GBIF maintains, in keeping with a 2014 decision by the GBIF governing board, that all data published and registered for use in the GBIF portal, must be issued with one of three Creative Commons options:
+
+CC0, a waiver for data made available for any use without any restrictions
+CC BY, a license for data made available for any use with appropriate attribution
+CC BY-NC, a license for data made available for any non-commercial use with appropriate attribution.
+
+Note that CC-BY-NC licences have a significant effect on the reusability of data.
+
+GBIF encourages data publishers to choose the most open option they can wherever possible.
+Projects supported through GBIF-led funding must use either the CC0 or CC BY options.
+
+// Slide 5
+
+The Integrated Publishing Toolkit (IPT) is a free, open source software tool written in Java that is used to publish and share biodiversity datasets through the GBIF network.
+The first version of IPT was released in 2009.
+It was redesigned and rereleased in 2011.
+Since that time, the IPT has been updated periodically with new features, bug fixes and security improvements.
+
+While the IPT is maintained at GBIF, the community of biodiversity informatics developers are able to contribute to its development.
+
+Some of the features include:
+
+Main (but not only) publishing tool for GBIF.
+
+One IPT can host many datasets, on behalf of several institutions, each clearly represented
+
+Test mode and production mode
+
+Multilingual – it has been translated into 7 languages.
+
+It is a server-side software, so it needs a stable connection and requires technical administration.
+This is why many institutions choose to publish their data on hosted IPTs.
+
+You can find more information on data hosting on the GBIF website under the How-to menu.
+
+For the remainder of our course, we’ll be demonstrating and completing exercises using the IPT.
+
+// Slide 6
+
+We’re now putting together what you learned in the first two presentations in the Data Capture section on Standards and Darwin Core and Data Types.
+
+At its heart, the IPT is based on Darwin Core and the Darwin Core text guide and its recommendations for sharing data in a Darwin Core Archive.
+The Darwin Core contains three distinct data cores which match up to three of the dataset types that GBIF accepts.
+
+Keep in mind:
+
+Each dataset has one and only one Core file
+
+Each Core file corresponds to a dataset type: occurrence, checklist or sampling event.
+
+Each dataset can have one or more extensions file
+
+The aim of an extension is to add new data fields not present in the core.
+
+Each entry in the core file is linked to zero, one or several rows in an extension file.
+Each row in an extension file reference one and only one row in the core file.
+
+Some examples:
+
+Core is Occurrence, no extensions
+
+Core is Occurrence, with “multimedia” extension
+
+Core is Occurrence, with Audubon core and measurementorfact extensions
+
+Core is Taxon, no extensions
+
+Core is Taxon, with species distribution extension
+
+Core is Event with Occurrence and Measurementorfact extensions
+
+
+// Slide 7
+
+The first core is the Occurrence Core.
+As a reminder, an occurrence dataset contains one individual or one group of individuals.
+Each row has a unique identifier, an occurrenceID.
+Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.
+
+ 
+// Slide 8
+
+The next option is the Taxon core.
+As a reminder, a checklist dataset contains taxonomic concepts, not individuals.
+It is a “A catalogue or list of named organisms, or taxa.” Each row will have a taxonID.
+Each taxon must be unique.
+
+// Slide 9
+
+The last option is the Event core.
+As a reminder, sampling event datasets allow data publishers to provide greater detail, not only offering evidence that a species occurred at a given location and date, but also making it possible to assess community composition for broader taxonomic groups or even the abundance of species at multiple times and places.
+By indicating the methods, events and relative abundance of species recorded in a sample, these datasets improve comparisons with data collected using the same protocols at different times and places—in some cases, even leading researchers to infer the absence of particular species from particular sites.
+
+Each row will have an EventID.
+Each event must be unique.
+
+// Slide 10
+
+This is a good point to review all of the fields required by GBIF.
+If required fields are not supplied, GBIF will have difficult indexing your dataset.
+
+Each core has its own set of required and recommended fields for the dataset and for the associated dataset metadata.
+As you now know, metadata is the data about your data and it enables users to know if your dataset will be fit for their use.
+
+Don’t stop at the required and recommended fields.
+The more data you are able to share, the more useful your dataset can be to end users.
+
+You can find the data quality on the gbif website under the How-to menu.
+
+// Slide 11
+
+Extensions were introduced in the Standards presentation.
+Publishing a dataset is now where you will put them into use.
+As mentioned previously, GBIF maintains the list of approved and draft extensions on its tools subsite.
+The approved extensions can be enabled by an IPT administrator on a Production IPT.
+Draft extensions can be enabled by an IPT administrator on a Test IPT.
+If you know you have data that cannot be shared with Simple Darwin Core, it is worth reviewing the list of available extensions.
+
+If you think an extension doesn’t exist, try reaching out to members of the TDWG community or posting on the Darwin Core issues site.
+Community members will help guide you.
+
+// Slide 12
+
+Also, in the standards presentation, you were introduced to Darwin Core Archives.
+
+This is an example of a Darwin Core archive with extensions.
+
+It’s an occurrence dataset that has been published with images, determination history and genebank information.
+
+// Slide 13
+
+Until now, it may have been difficult to imagine how two single files can be related.
+A core with an extension can represent the following relationships.
+
+1:0
+
+1:1
+
+1:many
+
+The core file will always contain unique records.
+In this example using the Taxon Core, each taxon is unique and is represented by a taxonID.
+In Vernacular Names extension file, each vernacular name is unique.
+The first three represent common names for the species Struthio camelus (1:many relationship).
+The fourth name represents the common name for the species Alectoris chukar (1:1 relationship).
+
+In this example the third and fourth taxons in the core file, do not have a match in the extension file.
+(1:0 relationship).
+ 
+// Slide 14
+
+As we finish up this presentation, we’d like for you to begin exploring the IPT.
+In the e-Learning platform, you will find your login information and the location of the test IPT.
+
+Login and a take a look around.
+In the next presentation, you will watch a demonstration on how to use the IPT, after which you’ll be ready to try it yourself.
+
+// Slide 15
+
+Thank you.
+ 
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+ 
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.
+
+This presentation was originally created by Sophie Pamerlon with additional contributions by Nicolas Noe, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students.
+
+This presentation has been narrated by Laura Anne Russell.
