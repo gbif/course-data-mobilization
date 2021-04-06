@@ -1,0 +1,74 @@
+Foundations Terminology SOFTWARE
+
+// Slide 2
+
+This session is foundation work and part of the Terminology section. 
+We will be introducing you to types of software used in data mobilization.
+
+// Slide 3
+
+The purpose of this short presentation is to give you some examples of the different types of applications and software available in the world of biodiversity mobilization informatics. 
+Hopefully it will help you to start to think about what uses they may be put too and what types of things might be practical for you.
+
+// Slide 4
+
+So very briefly, a definition. 
+We are making a distinction here between all software and those applications which have been created for an end-user to carry out a task. 
+We will take a look at software that can be used for: Data Capture, Data Management, Data Cleaning and Data Publishing.
+
+// Slide 5
+
+In the realm of data capture software, there is often no need to go ìbigî when capturing information initially, especially in the field. 
+You can capture information from collection specimens or live observations in a simple spreadsheet such as Excel, OpenOffice, LibreOffice or Google Sheets. 
+There may even not be a need to create your own system at all. 
+Apps such as iNaturalist, or eBird are stable, robust and have simple intuitive interfaces. 
+Whichever the choice, it is important to think about the long term preservation of the data that you collect.
+
+// Slide 6
+
+So, depending on your needs, a more complex data management software might be the right solution for your data. 
+Especially if long term retention and preservation is a priority. 
+More stable management platforms also better support sharing of data to multiple audiences. 
+There are many choices which vary in terms of cost and support and a few are shown here.
+From left to right: Symbiota, Specify, EMu, Elysia and Brahms.
+
+// Slide 7
+
+If a home-grown solution is preferred and can be supported, relational database software can provide cheaper alternatives. 
+Examples incluse MySQL, SQLServer, Access or filemaker.
+
+// Slide 8
+
+Increasingly the lines between languages, programs and tools have blurred, each being capable of many complex and overlapping functions.
+The common Find and Replace function is a good example of a data cleaning tool that is found in almost all database programs and is a command in database languages. 
+You are probably already familiar with spreadsheets such as Excel and indeed these are probably the most common data cleaning tools available. 
+However there are others. 
+OpenRefine originally known as GoogleRefine is a powerful free, open source data cleaning tool with a large support community. 
+You will see more of this program in upcoming sessions.  
+R is another increasingly used, sophisticated programming language and environment. 
+With a little practice it can also provide powerful data manipulations.
+
+// Slide 9
+
+Planning further ahead to the sharing of your data through GBIF to the international scientific and deciders community you will need to choose a publishing tool. 
+The choice will depend largely on the level of infrastructure support at your institution.
+If this is high and stable, installing an IPT or BioCASe application may be the right option. 
+But there are others if this is not the case. 
+You can consider partnering with an existing ipt provider or selecting a database management system that includes a publishing pathway of its own. 
+Whichever you choose, make sure that your system allows you to export data as csv or txt files and you will ultimately be able to publish your data. 
+
+// Slide 10
+
+This is a summary of the information collected in the course survey of software in use by students, mentors and trainers in the GBIF community. 
+The link and reference to more details of each section, is at the bottom of the slide.
+
+// Slide 11
+
+Remember that: The purpose of software is to help people and not the other way around. Your choice of solution should make your life easier but it should also not sacrifice the long term viability of the data that it is meant to work with.
+
+// Slide 12
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform. 
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. 
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. 
+This presentation was originally created by Sophie Pamerlon and is narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.
