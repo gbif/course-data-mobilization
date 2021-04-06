@@ -1,0 +1,298 @@
+// Slide 1
+
+This session is part of the planning section. 
+We will be introducing some concepts and methodologies that will help you to focus on the organization of your mobilization project at a number of levels. 
+The focus in this session will be on tasks and the ways in which they can be organized in order to prepare practical, workable plans and clear documentation. 
+
+// Slide 2
+
+The successful implementation of your project is dependent in large part on the development of realistic, efficient and streamlined processes and documentation
+This, combined with constant assessment of changes to the landscape within which your project exists, will increase drastically the likelihood of success.
+
+In this section we will look at three methodologies for clustering the timing and ordering of the tasks and components identified as critical to the goals of the project
+We will then see how good planning is supported by continuous documentation.
+
+// Slide 3
+
+Let’s take a quick look at the definition of the noun cluster.
+It is defined as “A group of similar things or people positioned or occurring closely together”. 
+
+The three important parts of the definition for us:
+
+Groups
+
+Similarity
+
+Things
+
+What we will see is that in order to successfully achieve your mobilization goals, you need to be able to identify groups and arrangements of similar tasks, cluster them together and then string those clusters together in a logical flow. 
+
+In plain terms we will now be looking at the When and the How of your project
+
+// Slide 4
+
+Let’s look first at GROUPINGS.
+
+Probably the most simplest grouping to be able to identify in your project are Stages relative to a fixed point in time.
+
+What we mean here is, at what time during the project should any particular task (or group of tasks) occur? 
+
+The simplest but by no means the only way of stage-grouping, uses digitization as its reference point
+
+
+// Slide 5
+
+In this example:
+
+Before - refers to any time before the start of the digitization effort itself ie the imaging and transcription;
+
+During - relates specifically to the period of active digitization; and 
+
+After - is the period after the digitization effort has ended. 
+
+Another common reference point is the start and end of funding. 
+You can use anything that makes sense and even use different reference points for different stakeholders and groups of tasks, that run concurrently.
+These points are often also good places to insert milestones with metrics into your project.
+
+// Slide 6
+
+The next set of groupings is PMBoK.
+PMBoK stands for Project Management Body of Knowledge and it is the entire collection of processes, best practices, terminologies, and guidelines that are accepted as standards within the project management industry
+
+It is overseen by the Project Management Institute (PMI), which is a global not-for-profit member association of Project Managers.
+The first edition of the PMBOK Guide was published in 1996 and it is now on its fifth edition, which was published in 2013
+
+As a very high level synopsis, the methodology uses iterative and repeatable groupings to cluster tasks together
+
+
+The stages are:
+
+INITIATING
+
+PLANNING
+
+EXECUTING
+
+MONITORING and
+
+CLOSING
+
+// Slide 7
+
+Tasks carried out during the initiating phase should define the new project or the part of the project being tracked.
+For example obtaining collection permits or MOUs before going into the field to collect.
+
+// Slide 8
+
+Tasks carried out during the planning phase are required to establish the scope of the project.
+For example assessing the physical state of a collection before pulling specimens for imaging.
+
+// Slide 9
+
+Tasks carried out during the executing phase are those that accomplish the project’s stated deliverables.
+For example the transcription of label data.
+
+// Slide 10
+
+The monitoring phase is an overarching and overlapping phase.
+The tasks assigned to it serve the function of watchdog over the planning and executing phases, ensuring that performance is on track.
+
+// Slide 11
+
+Tasks in the closing phase indicate that goals and milestones have been achieved and the project (or part of the project in question) have finished.
+
+// Slide 12
+
+This diagram shows the continuous flow and cyclical nature of the five PMBoK phases.
+
+// Slide 13
+
+Task clusters are a defined set of digitization task groups.
+The term was coined by the iDigBio team in their 2012 paper “Five task clusters that enable efficient and effective digitization of biological collections”.
+In the paper the authors identify 5 major groups of tasks that are most often found in successful natural history digitization projects. They are:
+
+pre-digitization curation and staging
+
+specimen image capture
+
+specimen image processing
+
+electronic data capture and
+
+georeferencing locality descriptions
+
+Clustering as general concept, is an extremely useful way to organize the detail of the tasks which must be carried out during any particular project stage and divides them up into manageable and trackable chunks.
+
+// Slide 14
+
+In this diagram of the digitization task clusters you can see some of the checking and monitoring feedback loops seen in the PMBoK method.
+
+// Slide 15
+
+The next examples of clustering that we will look at are generally termed “Workflows”.
+
+Workflows are defined as “the sequence of processes through which a piece of work passes from initiation to completion.”
+There are three general categories: 
+
+1) Sequential
+
+2) Rules Driven 
+
+3) State Machine
+
+In simple terms they are just another way that you join tasks and task clusters together and apply rules and logic to increase efficiency.
+We will look at the three workflows by describing in increasing detail, a common digitization workflow.
+
+// Slide 16
+
+Sequential workflows are simple and represent a unidirectional series of steps with a single start and end point. 
+The important point being that each task MUST be completed before the next one can start.
+
+// Slide 17
+
+In this example the sequence is:
+
+NAME CHECKING
+
+Followed by PHOTOGRAPHY
+
+Then DATA ENTRY
+
+And finally PROOFREADING
+
+// Slide 18
+
+Rules driven workflows often have an underlying sequential element as described previously. 
+However, within each task cluster, rules and logic can alter the progress of the workflow.
+
+// Slide 19
+
+In this example in the lower right corner in the PHOTOGRAPHY task cluster there is a quality check logic gate.
+
+If there is a problem with the image it is discarded and the specimen goes back to be photographed again.
+Only when the quality check has been passed can the workflow continue.
+
+// Slide 20
+
+Machine State workflows are the next most complex form.
+Here, the steps within each task cluster can happen asynchronously i.e they are not necessarily performed one after another, but instead can be triggered by actions and states in previous steps.
+One state is assigned as the start state, and then, based on an event, a transition is made to another state and so on.
+
+// Slide 21
+
+If we take this example from Allard 2012.
+Let’s say that the photography lab is only allowed to hold 60 herbarium sheets at any one time.
+
+The NAME CHECKING task cluster can continue to prep specimens but there is a check that means: Specimens cannot pass to the PHOTOGRAPHY task cluster until there is space again.
+
+Meanwhile the other clusters can also carry on as long as they have specimens or images to work on.
+
+// Slide 22
+
+In this next short section, ELEMENTS OF A GOOD PLAN we will look at how good documentation aids good planning. we will:
+
+highlight the benefits of good documentation;
+
+make connections between the proposal, planning and implementation documents;
+
+and show how the elements of each build together, thereby reducing the agony of the last 
+
+minute end of project report.
+
+// Slide 23
+
+The definition of a plan is a detailed proposal for doing or achieving something.
+
+Documentation of your project should describe not only what you planned to do but also what you actually did.
+
+Its primary purpose is to communicate with all stakeholders in order to provide an exact account of expectations, responsibilities and achievements.
+
+// Slide 24
+
+Thorough documentation has many benefits.
+
+It provides accountability - everyone should know what they are responsible for and also what others are responsible for.
+
+It ensures integrity - do what you say you will do, especially where sensitive data is concerned.
+
+It provides protection - a good plan helps you avoid scope creep and unexpected requests.
+
+It provides proof of compliance - allows you to show that you have followed the standards that you said you would
+
+It enhances availability - your plan should be available, there shouldn't be anything hidden at this stage. 
+
+It documents retention - How long will the data created by this project remain "fresh", what needs to happen to keep it up to date. 
+
+It documents disposition - What is the ownership of the data created by the project? Who will be responsible for it after the end of the project.
+
+It encourages transparency - openly shared practical project plans feed back into the community and allow others to learn from your successes and failures.
+
+And it promotes teamwork - All stakeholders benefit from knowing how they fit into the bigger picture and the more of a sense of ownership that they, have the more likely your project is to succeed.
+
+// Slide 25
+
+All of the resource elements that we have discussed in the previous section come together in the project documentation.
+
+The elements of your documentation overlap, let’s have a look at where in the documentation cycle each element appears.
+
+// Slide 26
+
+We won’t cover much about the detail of creating a proposal, except to say that if it got you funding then you did a good job.
+
+The proposal will contain the high-level description of purpose and rationale and a good faith description of a workplan as achievable at the time of writing.
+
+The planning document or implementation plan on the other hand should give everyone involved at the start of the project a complete guide to how the project will actually get done.
+This is where you should include the practicalities, 
+
+workflows for specific goals
+
+resource allocations to tasks
+
+milestones and targets
+
+// Slide 27
+
+The planning document should be a living entity that the project manager revisits regularly as they keep track of milestones and approach checkpoints.
+
+Workflows should be adjusted and re-documented as the landscape changes, to make sure that interim goals are kept on track.
+
+If this is done, then Progress reports which occur at checkpoints throughout the project are easy to compile.
+Metrics can be reported and any changes in the project landscape highlighted for risk mitigation.
+
+// Slide 28
+
+The compilation of the final report then becomes the less daunting task of summarizing the previous progress reports and the planning document.
+In a circular fashion your planning document now can be used in your next project proposal and has the benefit of being a tried and tested successful plan.
+
+// Slide 29
+
+To review, the sections, “Clustering the Components” and “Elements of a Good Plan” we looked at three ways to arrange tasks together into feasible workflows:
+
+Groupings –are ways to divide a project into manageable stages based on specific criteria, for example time.
+They are helpful ways to determine milestones in planning documents and mark progress for interim reports.
+
+Task Clusters – were used to describe one of the most common sets of natural history digitization tasks and their ordering.
+
+While Workflows – where explained as ways for you to connect tasks and task clusters into logical sequences with criteria and logic to describe the actualities of day-2-day project working.
+
+Lastly we looked at how project documentation is a continuous process that begins with the proposal and should be considered task in its own right.
+Continuous refinement of your documentation is essential to the successful communication of your project at all stages and will help you and your team know what they should be doing at any particular time.
+
+You will learn more about documentation of our actual data in further session in this course.
+
+// Slide 30
+
+In chapter 4 of the Hobbit, Bilbo and the unfortunate Dwarves are captured by goblins, chained together in the dark and led deep into the caverns and tunnels of the Misty Mountains. 
+
+This may indeed be your first reaction to starting out on your practical plan, but remember that being physically clustered together made it easier for the dwarves to stay together and they escaped.
+It was by getting detached that Bilbo was lost.
+Of course he found the ring as result, but that’s another story for another time.
+
+// Slide 31
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+ 
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.
+
+This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.
