@@ -1,0 +1,111 @@
+// Slide 1
+ 
+This presentation is based on “Principles for data quality” by Arthur Chapman
+
+// Slide 2
+
+During this presentation, we will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.
+
+// Slide 3
+
+Data quality is essential at every step of the data mobilization process, especially in the data capture steps.
+Each person involved in the data capture has a share of responsibility regarding the data quality, but most decisions on this topic quality have to be taken at the institutional level.
+The keywords here are: planning and documentation! 
+As mentioned in the Foundations documentation presentation, use existing standards and plan your workflows to match your goals; document everything you can, at every step, and share or re-use documents, data, tools and standards as much as possible.
+
+// Slide 4 
+
+This is an example of a data quality workflow.
+In this workflow, it begins with the collection of specimens, moves to data capture, then quality control, publishing and finally use.
+Data quality isn’t the sole responsibility of the first person in the process (here, the collector) -- it is shared at every step and every person in the process should have a responsibility for quality.
+A functioning feedback loop needs to be in place in order to check, complete, update or correct data.
+This is where documentation is essential: you need to know who was responsible for each step in the process in order to validate changes that have been made to the data (or need to be made to the data).
+ 
+// Slide 5
+
+In this simplified view of the data flow, you can see some of the data quality responsibilities of each group of people involved.
+In this example, the team in charge of the mobilization can be split into the ‘transcribers’ and ‘curator’ roles.
+The transcribers team needs to ensure data is captured and saved as best as possible, while the ‘curator’ role has the ultimate responsibility for ensuring that each team is fulfilling their roles in the process.
+
+// Slide 6
+
+Once the data workflow is in place, the data capture itself can begin.
+In the following slides, we will explore the different types of information that can be captured from specimens or field observations, and see what are the most common mistakes that should be avoided when dealing with each kind of information.
+The main topics will be as follows: taxonomic information, spatial information, collection information, descriptive information.
+Please note that each occurrence (each row in your database or spreadsheet) should have information linked to these 4 main topics in order to be shared and reused accordingly.
+
+// Slide 7 
+
+Taxonomic information is an essential part of the data capture process.
+Without it, a digitized specimen is useless and cannot be properly interpreted or reused.
+Note that the species name is not the only type of taxonomic information that can be exploited in the data capture process: sometimes the specimen hasn’t been identified to the species, and higher taxonomic levels such as the genus or family are still useful for data managers and users.
+
+// Slide 8
+
+Most of the time, the scientific name is the main way of retrieving data in a database, portal, website, browser… Any error in the spelling or authority can lead to wrong or null queries, thus impeding the management and potential reuse of the data.
+This is why it’s very important to check all categories of scientific names to fix errors and/or omissions.
+
+// Slide 9
+
+The most common issues occurring with taxon information are missing or inconsistent information, incorrect or non-atomic values, duplicates and uncertainty.
+Always check the definitions and examples of taxonomic Darwin Core terms to avoid nomenclatural mistakes: http://rs.tdwg.org/dwc/terms/index.htm
+ 
+// Slide 10
+
+Geographic information proves to be valuable in a lot of data re-use contexts, such as niche modelling or studies about species distribution.
+While ‘old’ collections or specimens can be understandably difficult, if not impossible, to geolocate precisely, it is recommended to share precise coordinates or textual information when possible.
+Coordinates should be recorded directly on the field when possible, along with the uncertainty and the geodetic datum used.
+Otherwise use relevant and verified sources to geolocate your data.
+You should note that coordinates or other geographic information can be generalized or not even shared at all in some contexts, such as with the conservation of sensitive species.
+
+// Slide 11
+
+Spatial information can be found in numerous formats, not only geographic coordinates: examples include (but are not limited to) grid data, point+radius, or polygons.
+Each of them is useful to share in order to check the consistency of the geographical elements (eg coordinates vs country code, or to ensure a given locality is consistent with a collector’s travels)
+
+// Slide 12
+
+Within GBIF, it is recommended to share the geodetic Datum that was used to derive the coordinates (decimal latitude and longitude) shared.
+In the absence of a specific geodetic datum, GBIF will infer WGS84 as default.
+
+// Slide 13
+
+This slide shows an old GBIF map with different types of geographical issues: the most obvious one is a mirror effect between the USA and China (reversed coordinates), and you can also notice an artificial line along the Greenwich meridian where ‘0’ values were put in the ‘decimalLongitude’ field, as well as another one on the Equator where ‘0’ values were put in the ‘decimalLatitude’ field.
+GBIF indexing now includes automatic geographical checks between the coordinates and countryCode shared within the dataset.
+Coordinates can be automatically reversed to match the country. 
+
+// Slide 14
+
+Information about the context of the data collection or observation are very useful to share in order to give as much detail as possible regarding each occurrence.
+Information such as the collector name, collection or observation protocol, habitat and other factors can prove to be important when reusing data for example with ecological niche modelling.
+
+// Slide 15
+Data quality factors regarding collection information are mainly along the lines of exactitude like the correct collector name, consistency for example using the same vocabulary for describing soils, habitats, and completeness as in providing all existing information about the description of a given species including the  flowering period, colour of the leaves, and medicinal uses.
+Within the Darwin Core and within the IPT you can find recommended controlled vocabularies for some fields such as the ‘lifeStage’.
+The TDWG vocabularies task group works to promote and make better the ease of use across vocabularies.
+
+// Slide 16
+
+Keep in mind that descriptive information are often incomplete due to a whole array of factors.
+
+Depending on the collection state, some labels can be incomplete or lacking crucial information; 
+
+Completeness (for example of a species description) is often impossible to achieve with a single individual; 
+
+and you should always check for consistency in your database or spreadsheet, for example in the terms used for describing colours, in order to avoid redundant information.
+
+// Slide 17
+
+This presentation has focused on the topic of data quality applied to data capture; indeed, these are the steps where it is crucial to ensure that all information related to each record is correctly and completely captured, in order for the data to be as clear and understandable as possible for future users.
+This can only be done if consistent decisions are made at the institutional level in order to create a solid workflow for data capture and data management.
+The chain of responsibility regarding data quality is then split between the persons involved at each step of the process, but keep in mind that data can always be improved and fixed if errors or omissions are detected at later stages.
+
+// Slide 18
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.
+
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.
+ 
+This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by Laura Russell, BID and BIFA Trainers, Mentors and Students.
