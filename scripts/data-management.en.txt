@@ -1,0 +1,130 @@
+// Slide 1
+In this presentation, we are going to explore the key principles and processes important to effective data management.
+
+// Slide 2
+
+The concept of data management includes a wide range of topics, from metadata formats to database organization.
+In this presentation we are going to discuss an important set of principles necessary to improve data through the processes of data cleaning.
+
+// Slide 3
+
+What is data cleaning?
+
+Data Cleaning was defined by Arthur Chapman in 2005 as:
+
+“A process used to determine inaccurate, incomplete, or unreasonable data and then improving the quality through correction of detected errors and omissions.”
+
+The process of cleaning might include checks on formatting, completeness and reasonableness, the identification of outliers, review by content experts, and validation against accepted standards, rules, and conventions.
+
+// Slide 4
+
+Although there are many methods that can be applied while cleaning data, we view the process of cleaning in five general steps:
+
+First, we seek to determine and define the types of errors that are most likely present in our data.
+
+Next, we conduct a search to identify the instances where those error have occurred.
+
+Then, we will correct those errors, whenever possible.
+
+When we decide on the best means to make corrections, we want to document both the types of errors we find, as well as the solutions we have applied to them.
+
+Finally, we want to modify how data entry is practiced to reduce future errors of the same type. (Maletic & Marcus, 2000)
+
+// Slide 5
+
+One thing is certain: Errors are common and we can always expect to find them in the data we maintain.
+
+Our goal is to apply the best practices, including principles, processes, and tools, to make the data as fit for use as possible, even if we don’t know how data users will use the data.
+
+// Slide 6
+
+Let’s take a look at several of the recommended principles of data cleaning.
+These principles are presented for your consideration so that you can develop and improve upon your own data quality workflow.
+The workflow that you create should represent the most efficient and effective process to achieve the highest data quality given your institution’s resources and expertise.
+
+Talk to your colleagues to learn about their workflows, but ultimately you should strive to create a workflow that will help you to achieve your data quality goals.
+
+// Slide 7: Plan and Organize
+
+The first two principles in data cleaning are planning and organization.
+
+Plan how you want the cleaning process to go.
+A scattered or random approach is not likely to produce consistent results.
+Develop and implement a strategy that fits with your institution’s resources and expertise.
+A solid plan will improve both your data and the reputation of your institution among data users.
+
+One of the first steps of your plan should be to organize the data.
+For example, you could organize your data by taxon and then send the appropriate subset of data to individuals with the knowledge or resources to clean based on names.
+This can be done by geography or basis of record, or even in specifically sized packages of data in numeric order.
+Work to the strengths of your institution.
+
+// Slide 8
+
+As Arthur Chapman says “Prevention is better than cure.” 
+At the end of the day is always easier and less expensive to prevent an error than it is seek one out and correct it.
+The more planning you do in advance, even all the way back to the moment that data is recorded in the field, the fewer errors you are likely to find.
+Standardized vocabularies and clear procedures for data capture and data entry are only a few of the many tools you can use to prevent possible errors.
+
+Be sure that everyone in your organization understands that data quality is everyone’s responsibility.
+Of course, the primary responsibility lies with the people who maintain the data, but everyone, from field technicians to students performing data entry to emeritus curators have a responsibility to treat the data with care and to communicate any errors or inconsistencies they might discover.
+
+// Slide 9
+
+Data maintenance is only as effective as the expertise that support the process and no single individual can be expected to know everything about everything.
+Developing partnerships with data users and content experts can help to make the data quality process more successful.
+Reach out to your user community, both inside and outside of your institution, and work with them to help maintain your data at the highest quality.
+
+Prioritize your cleaning to take advantage of the resources and knowledge that your institution possesses.
+For example, you may choose to review all of the data recorded by collectors who are still alive so that important data is not lost later.
+If you maintain a large dataset you might choose to prioritize data that can be cleaned at the lowest cost using automated processes and then prioritize the more difficult errors that require individual attention.
+Ultimately, you should prioritize the data that is of the greatest value to the work of your institution and then move through the data in a logical and orderly manner.
+
+// Slide 10
+
+Some times it can be an effective strategy to set some measures of performance before the cleaning process begins.
+One performance measure might be to complete the cleaning of 500 records every week.
+Another measure might be to provide a statistical report of the accuracy of the corrections being made, such as:
+
+“95% of all georeferences corrected this week now have an uncertainty in meters of less than 1000 meters.”
+
+These kinds of measures can give direction and guidance to the people performing the cleaning, as well as, to serve as a means to report on successes and areas in need of improvement.
+
+In an ideal world, you will have developed a data maintenance plan that has been optimized to be as efficient and effective as possible.
+Optimization can be achieved in many different ways including taking advantage of your institution’s strengths, setting clear objectives and measure of success, and regular adjustment of your priorities based on available resources.
+
+// Slide 11
+
+One of the best ways to learn how successful your data cleaning and data maintenance processes are, is to seek feedback from the data users in your community.
+This can be accomplished through the partnerships we discussed earlier, but you can also seek feedback in other ways.
+Once such way is to review the way that GBIF presents your data.
+You can view the comparison between the verbatim data published to GBIF and the interpreted data that GBIF might have corrected or updated.
+These comparisons can help you to optimize your data cleaning process, but you can also help GBIF to improve its data quality processes, too, when you provide expert feedback back to them.
+
+One of the best ways to achieve success with data cleaning is to provide training and education to everyone who works with your data.
+These may be trainings that you organize yourself, local or regional trainings in partnership with, or presented by, other institutions in your area, or workshops and courses provided by other groups, such as GBIF.
+If you need training, please check the GBIF web site regularly or contact GBIF’s Community Mentors or GBIF’s Biodiversity Open Data Ambassadors who also can be good resources for training and education opportunities.
+
+// Slide 11
+
+Documentation is one of the most important principles of data cleaning.
+This is true in two key ways.
+
+First, whatever processes you use to maintain your data, it is important to be transparent about how errors are discovered and corrected.
+This transparency can be truly successful when the data cleaning process is well documented.
+Without clear and accessible documentation, you run the risk of losing best practices, building redundant processes and losing optimization.
+Good documentation will help you to avoid recurring errors.
+
+Documentation is also key to good data quality.
+Good documentation, in metadata, for example, allows data users to determine the fitness for use of your data.
+Your documentation should not only include good metadata, it should also include the best practices, standardized vocabularies, and taxonomic and geographic authorities used.
+Documenting what data was cleaned by whom will help you to improve your optimization, reach performance measures, and ultimately, tell a more complete story of where your data came from and how it was improved over time.
+
+// Slide 12
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.
+
+This presentation was originally created by Nestor Beltran with additional contributions by David Bloom, BID and BIFA Trainers, Mentors and Students.
+This presentation has been narrated by David Bloom.
