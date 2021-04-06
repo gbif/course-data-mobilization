@@ -1,0 +1,231 @@
+Foundataions DATA QUALITY
+
+// SLIDE 1
+
+In this presentation, we are going to introduce some of the concepts that are important to understand basic data quality.
+
+// SLIDE 2
+
+The two primary concepts that we will explore are Fitness for Use and Measures of Quality.
+These two ideas will lay the foundation for more detailed data quality concepts and techniques in the future.
+
+// SLIDE 3
+
+Before we begin, I’d like to take a moment to explain why data quality is important.
+Cleanliness is next to Godliness is an expression that we sometimes use to describe the importance of data quality.
+In this case, Godliness can be understood as holiness, and when something is holy it is considered by many to be worthy of our trust.
+So, in the case of data quality, we are more likely to trust and to use data that has been cleaned and cared for.
+
+// SLIDE 4
+
+Stepping back into the domain of biodiversity informatics, the classic definition of data quality was coined in 2005 by Arthur Chapman.
+
+He wrote: “Data quality is related to use and cannot be assessed independently of the user.
+In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized when someone uses the data to do something useful.
+Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).”
+
+And so, for us, as individuals who are responsible for maintaining data, we want the data we publish to be as satisfying to all of our potential users as possible.
+To do this, we seek to provide the highest quality data.
+
+// SLIDE 5
+
+To help you to accomplish this task, we will explore Fitness for Use.
+We will also explore the Measures of Quality, specifically, Correctness and Consistency.
+
+These are important concepts that you will need to know and be able to articulate about your own data or data that you maintain.
+
+// SLIDE 6
+
+Let’s begin with an example of Fitness for Use.
+A shoemaker creates a pair of clogs for the purpose of covering a person’s feet, just like those at the top of this image.
+
+// SLIDE 7
+
+When the shoemaker made these shoes, did he know that this girl would use them for dancing?
+
+Maybe.
+
+// SLIDE 8
+
+Do you think that the same shoemaker knew that a gardener might one day use the shoes as plant pots?
+
+Maybe not.
+ 
+// SLIDE 9
+
+We often hear people talk about data’s Fitness for Use in the ecological sciences, but what we need to remember is that data is not inherently good or bad.
+Rather it is the user of the data who gives data its value.
+
+For example, for one person, data identified to the level of Genus may be sufficient to run predictive models of ecological niches.
+For a person studying a particular taxon, that same genus-level data will be much less useful than more detailed occurrences with subspecies information.
+
+// SLIDE 10
+
+So, what is Fitness for Use and how does it relate to data?
+
+When Chapman discusses Fitness for Use, he says that once a dataset has been created and shared there are two primary perspectives on how those data might be used; the perspective of the creator and the perspective of the user.
+
+To help somebody to decide if your data is trustworthy or useful enough for them to use, you have to understand your data and how to convey those data to the potential user.
+These are some of the important questions about the metadata, or characteristics of your data, that you should be able to answer and share with others:
+
+How Accessible are your data? 
+How easily can someone access your data? 
+People can’t use the data if they can’t find the data.
+
+How Accurate are your data? 
+Can your data be trusted? 
+For example, are your identifications current and were they made by known experts?
+
+How Timely are they? 
+When will the data be made available? 
+How often are they updated? 
+
+How Complete or Comprehensive are the data? 
+Which parts of your dataset are documented fully? 
+How well do the data cover a particular time, place, or domain?
+
+How Consistent are they? 
+Is the data in each field always of the same type? 
+Was the data collected using the same documented protocols?
+
+How Relevant are they? 
+How similar is this dataset to others that have been used successfully for the same purpose?
+
+How Detailed are the data? 
+How much resolution is there in your data? 
+At what scale can they be used for mapping?
+
+Is the data Easy to interpret? 
+Is the dataset documented in a clear and concise way? 
+If your documents are handwritten, are they legible?
+
+// SLIDE 11
+
+While Fitness for Use is subjective, measures of data quality are much less so.
+
+Chapman states that: "All data include error – there is no escaping it! 
+It is knowing what the error is that is important, and knowing if the error is within acceptable limits for the purpose to which the data are to be put.”
+
+// SLIDE 12
+
+We can use two measures of quality, Correctness and Consistency, to help us to document these inherent errors in data.
+
+Correctness, sometimes called accuracy, is “How close the recorded value is to the actual, real-world value”.
+
+In this diagram accuracy is how close a given dot is to the centre of the target.
+
+Consistency, sometimes called precision, is “How often you get it right”
+
+In this diagram, precision is how close the dots are together irrespective of how close they are to the centre of the target.
+
+These are measures of how well the data gatherer was able to capture the true value being investigated.
+Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.
+
+// SLIDE 13
+
+This image provides a clear set of illustrations of accuracy and precision.
+This may be a good image to keep with you when you have to explain these concepts to others.
+
+// SLIDE 14
+ 
+Let’s look at some examples of Correctness, or accuracy, and how it can help us think about the practicalities of data cleaning.
+Remember that Correctness is how close you are to the center of a target.
+
+Let’s look at an example.
+
+// SLIDE 15
+
+For this example, let’s imagine your dataset contains records of fossil bird specimens from the Early Triassic Period.
+The taxonomic name for a number of specimens in your dataset is recorded as Thismia.
+
+Do you know if Thismia is a taxon of ancient birds?
+
+
+// SLIDE 16
+
+In this case, the answer is no! 
+
+Thismia is a very rare plant from the State of Illinois in the United States.
+
+As a result, the correctness, or accuracy, of the taxonomic name is low.
+Perhaps because the data entry technician was not a paleontologist.
+As a result, all of the names in the dataset might need to be checked and corrected by an expert before the data could be used.
+
+// SLIDE 17
+
+Let’s look at another example.
+Here, your dataset contains specimens collected in a place called Kalamazoo by a scientist named Richard Spruce.
+
+We must ask ourselves:
+
+Is 49007 the right postal code for Kalamazoo?
+
+Did Richard Spruce collect in Michigan?
+
+// SLIDE 18
+
+In this case, the answer is yes to our first question, 49007 is a postal code for Kalamazoo, so the accuracy of the locality is good, but what about the collector, Richard Spruce?
+
+// SLIDE 19
+
+There is, in fact, a famous botanist named Richard Spruce.
+He was born in 1817 and died in 1893, but he conducted his collecting in the Amazon Basin and Andes mountains in South America.
+Something is not quite right, so we need to find out more about the collector before we can be confident in the correctness of these data.
+
+// SLIDE 20
+
+Let’s take a look now at what Consistency, or precision, means to data.
+
+Consistency represents how many times you get the same answer, regardless of where the center of the target lies.
+
+For example, your dataset contains botanical occurrences including a field, or column, named “Full Name”.
+This field contains the name of the specimen collector.
+As you can see there are five different names, but how many unique collectors are there? Can you tell just by looking at the names?
+
+// SLIDE 21
+
+Sometimes, if you are familiar with the dataset, you might know how many collectors are represented just by looking at the data, but if you don’t know these data well, you might need to do some research, ask some questions or look at the original field notes.
+
+In this example, if you guessed that these five names represent two or three unique collectors, you would be right.
+
+In blue, Joseph Dalton Hooker AND Hook.f.
+are the same person.
+
+Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).
+
+In green, W.J. Hooker and Hook. are the same person.
+Period is the abbreviation for William Jackson Hooker (1785-1865).
+William was actually Joseph’s father.
+
+Finally, in the red, there is “Hooker, J.” 
+This entry could be an error or typo of either Joseph or William Hooker, OR it could be a third person with a similar name.
+Thus, more research would be needed to clarify these data.
+
+// SLIDE 22
+
+We have just discussed several simple illustrations of two measures of data quality.
+These examples should give you a basic understanding about how to identify the inaccuracies and imprecisions in data.
+
+How we document and fix these issues or errors is a process that we call data cleaning.
+
+More specifically:
+
+Data cleaning is the process of correcting or removing dirty data caused by contradictions, disparities, keying mistakes, missing bits, and more.
+It also includes validation of the changes made, and may require normalization.
+
+Our data cleaning, or lack thereof, will affect how data users perceive your data’s fitness for use.
+
+It is not necessary for you to do all the data cleaning yourself, in fact, a common misconception is that all errors MUST be fixed before you can share your data.
+
+The truth is that you can only clean as much data as your time, knowledge, and resources permit.
+As a result, it is essential to document what you know and what you do not know about your data so that when you do share them, data users will know the level of the quality of your data.
+
+// SLIDE 23
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.
+
+This presentation was originally created by Sharon Grant with additional contributions by Dag Endresen, David Bloom, BID and BIFA Trainers, Mentors and Students.
+This presentation has been narrated by David Bloom.
