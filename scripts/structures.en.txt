@@ -1,0 +1,167 @@
+Foundations Terminology STRUCTURES
+
+// Slide 1
+
+This session is foundation work and part of the Terminology section. 
+We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.
+
+// Slide 2
+
+First let us review the structure of this session. 
+In the section on STRUCTURES we will be working on understanding the field and data types that hold data, the structures that help to organize and protect that data and lastly look at what these mean for the integrity and security of your data.
+
+// Slide 3
+
+In this section on basic database Structures, we will focus on the different elements that databases, software tools and languages use to handle the data that you enter.
+
+// Slide 4
+
+First, let us look at field types, also known as data types.
+ 
+// Slide 5
+
+Data Types let the computer know what kind of data is expected in a particular field. 
+This then dictates what functions can be performed on it. 
+They can be simple and encompass a single concept or combine concepts depending on the software or language you are using. 
+Either way the essential building blocks are the same. 
+So let us look at six that you will come across most frequently.
+
+// Slide 6
+
+First Numeric fields. 
+This data type holds numbers, and there are 2 kinds: Integers and long integers, and whole numbers. 
+For example 1, 2, 3, 99, 2000.
+The size of the number, depends on the number of bits assigned to the field (more about that later). 
+For now just remember that a long integer field will hold a bigger number than an integer.
+Floats, also referred to as doubles, hold fractions or parts of whole numbers. 
+For example 4.5, 19.47. 
+The important thing to remember here is that a float always has decimal places so the number 10 will be stored as 10.0. 
+The number of decimal places being an integral element of the type. 
+This has implications when it comes to precision and accuracy.
+
+// Slide 7
+
+Alphanumeric fields are also referred to as text, character or string fields. 
+They can hold any letter, number or symbol in the coded character set and usually have a defined character limit. 
+Entering more characters than the character limit can often result in truncation and loss of data on save.
+
+// Slide 8
+
+Another type of text field that you will come across is the Unstructured text field, also known as memo, long char or blob fields. 
+These types of field are used to hold large amounts of unformatted text and unlike alphanumeric fields may not have an obvious character limit. 
+In simple systems, they are generally less flexible in terms of processing; for example sorting and indexing, than their smaller alphanumeric cousins. 
+With decreased storage costs and the rise of NoSQL document-oriented database programs, such as MongoDB however, this is changing.
+
+// Slide 9
+
+System Value fields have a double nature and what you see on the screen is not usually the actual value that the software is storing in memory. 
+Date and time fields are the most common example of this type of field. 
+In this example you typed 1 March 1971 into a cell in Excel and hit return. 
+Now it says 1-Mar-71 in the cell AND 3/1/1971 in the functionbar.
+Excel is applying a display format to the cell, which you can change at will. 
+HOWEVER, if you remove the format you see that what is actually being stored in the field is the number 25993.00! 
+So you can see that the field is actually a float. 
+You should beware because that system value not be the same from software to software.
+Exports should to checked to make sure the actual date is exported and not the system value.
+
+// Slide 10
+
+Boolean fields ñ also known as Binary fields only contain one of two values that represent a one or a zero. 
+They are a special case of a System Value field as mentioned previously in that whilst the software actually saves a number it often displays values such as: Yes/No, Yes/no, Y/N, True/False.
+You should take care to find out which way around the system you are using translates. 
+Is a 1 a yes or no?
+
+// Slide 11
+
+Structured Text fields are less common but mentioned here for completeness. 
+They are fields which can be either made up of combinations of the simple data types or even be defined by the data itself. 
+Most often these are used in programming languages to allow flexibility and handling of complex concepts. 
+An example is the factor field used in the R programming language, which is defined as a type vector containing a set of numeric codes with character-valued levels.
+
+// Slide 12
+
+Now that you have an understanding of the field types used to represent your data elements let us talk about the containers or structures, that many database programs and software use collate and display your data.
+
+// Slide 13
+
+First is the cell. 
+This is the smallest data structure, it holds a single value and has a single data type associated with it.
+
+// Slide 14
+
+There is one concept that you should beware of when it comes to cells and that is the empty cell. An empty cell doesn't necessarily mean an empty field.
+Some software fills an empty field with a System value based on the data type. 
+Examples are NULL N A or even zero!
+
+// Slide 15
+
+As you start to organize cells you begin to build a grid. 
+Grids have implied structure in the form of Rows.
+
+// Slide 16
+
+And columns.
+
+// Slide 17
+
+When you organize cells into rows and columns, obviously, what you get is a grid!
+This is looks very much like a spreadsheet right? 
+Well, yes. 
+The difference however between a spreadsheet grid and a table are the strength of the ties that hold the rows and columns together.
+
+// Slide 18
+
+So let us now talk about those connections. 
+What the implications for the integrity and security of your data of loose unenforced relationships between rows and columns?
+
+// Slide 19
+
+What actually makes a table useful are the connections that we create to give the data in the structure meaning. 
+We intrinsically make patterns of attributes that turns data into information. 
+Rows become records and Columns become attributes. 
+In a spreadsheet however, the connections between cells are idiomatic, loose and un-enforced. 
+It is easy for the attributes between the rows to get jumbled up or for the values get changed and then the meaning is lost.
+`
+// Slide 20
+
+This lack of enforced connections makes a spreadsheet easy to use but these same qualities also cause problems. 
+Errors are easy to make and hard to catch -- Connections and relationships are not documentable and so subject to interpretation and mutation. 
+Spreadsheets are not built to scale either in terms of size or numbers of users -- So can be slow, crashy and easily corruptible. 
+Spreadsheets are easy to copy and email -- So they are hard to version and keep track of.
+The question is what is the solution?
+
+// Slide 21
+
+Let us look back, at the connections in a bit more detail. 
+We generally understand that the data in each row of a table means something. 
+For example each row can represent a specimen or a taxa that was found at a particular place, at a particular time, by a particular person. 
+It would be odd to have one row in a table that represents a specimen followed by a row that represents a collection site. 
+We also often want to analyse, sort and compare values of particular attributes between rows. 
+For example you may want find the mean weight of all the Kenyan bats. 
+So ideally we want to use a system to store our data that: 1) always holds the rows together; 2)does not mix data types; 3) and segregates data in each table to a single concept or theme. 
+These are functions of a database!
+
+// Slide 22
+
+Functions in a true database inherently bind rows together and columns may only have a single data type. 
+Tables in database are held together by virtual links called keys. 
+These keys are identifiers that match between tables and allow data to be connected efficiently. 
+It is these 2 key concepts that distinguish a spreadsheet from a database.
+
+// Slide 23
+
+In review then, we have looked at the 6 most common data types, the basic building blocks of data structure and distinguished between a spreadsheet grid and database table.
+Understanding these elements and how they interact with one another will allow you to better determine the best ways to manipulate and document the data that falls under your custodianship.
+
+// Slide 24
+
+Remember that: When you realize the difference between the container and the content, you will have knowledge. 
+Using the correct terms to describe both your data and the structures that you create and use to store it; is the most important way to ensure that it remains relevant and useable.
+Never underestimate how much damage can be done to priceless information by careless descriptions and storage.
+
+// Slide 25
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform. 
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. 
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. 
+This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.
