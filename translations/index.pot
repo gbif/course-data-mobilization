@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-07 13:47+0000\n"
+"POT-Creation-Date: 2021-04-07 14:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1148,16 +1148,7 @@ msgid "What is the binary for the word \"biodiversity\"?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:269
-#, no-wrap
-msgid ""
-"[TIP]\n"
-"Calculate text to binary using the website, "
-"https://www.rapidtables.com/convert/number/ascii-to-binary.html[^].\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:274
+#: foundations.en.adoc:271
 #, no-wrap
 msgid ""
 "- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 "
@@ -1169,7 +1160,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:279
+#: foundations.en.adoc:276
 #, no-wrap
 msgid ""
 "If you open a data file and see the following, what would you suspect is the "
@@ -1177,19 +1168,26 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:281
+#: foundations.en.adoc:278
 #, no-wrap
 msgid "�tre, ou ne pas �tre, c�est l� la question.\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:286
+#: foundations.en.adoc:283
 #, no-wrap
 msgid ""
 "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
 "- [x] The wrong encoding was used to open the file\n"
 "- [ ] The sender used a weird font\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:287
+msgid ""
+"Calculate text to binary using the website, "
+"https://www.rapidtables.com/convert/number/ascii-to-binary.html[^]"
 msgstr ""
 
 #. type: Title ==
