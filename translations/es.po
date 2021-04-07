@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-07 09:45+0000\n"
-"PO-Revision-Date: 2021-04-07 09:48\n"
+"POT-Creation-Date: 2021-04-07 10:38+0000\n"
+"PO-Revision-Date: 2021-04-07 10:44\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -221,6 +221,45 @@ msgid "Upon successful completion of the course and successful assessment of ass
 msgstr ""
 
 #. type: Title ==
+#: downloads.en.adoc:1
+#, no-wrap
+msgid "Files for download"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:7
+msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embbedded throughout the course, as well, and play from Vimeo.  If you have difficulty accessing Vimeo.com, please download the mp4 files to play them locally on your computer."
+msgstr ""
+
+#. type: Title ===
+#: downloads.en.adoc:8
+#, no-wrap
+msgid "Videos"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:10
+msgid "The videos are narrated in English. Subtitles are available for French, Spanish and Portuguese."
+msgstr ""
+
+#. type: Title ===
+#: downloads.en.adoc:12
+#, no-wrap
+msgid "Exercise data"
+msgstr ""
+
+#. type: Title ===
+#: downloads.en.adoc:15
+#, no-wrap
+msgid "Exercise sheets"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:17
+msgid "This compressed file contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
+msgstr ""
+
+#. type: Title ==
 #: foundations.en.adoc:2
 #, no-wrap
 msgid "Foundations "
@@ -261,7 +300,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:25
-msgid "video::434713189[vimeo, height=480, width=640, align=center]"
+msgid "video::434713189[vimeo, height=480, width=640, align=center, poster=img/web/vThumb-software.jpg]"
 msgstr ""
 
 #. type: Title ====
@@ -1008,7 +1047,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:43
-msgid "If it's busy, try another table.  If you see that a card table is in use, please use one of the other card table links.  If you are unable to find an empty card table, alert the trainers so that we can check the tables to be sure that any tables were not left unattended (or if we need to create an additional table for you)."
+msgid "If it's busy, try another table.  If you see that a card table is in use, please use one of the other card table links.  If you are unable to find an empty card table, alert us at training@gbif.org so that we can check the tables to be sure that any tables were not left unattended (or if we need to create an additional table for you)."
 msgstr ""
 
 #. type: Plain text
@@ -1028,32 +1067,32 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:55
-msgid "Gameroom links:"
+msgid "Gameroom links (each table will open in a new window/tab):"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:57
-msgid "RED: https://playingcards.io/vbtkgd"
+msgid "RED: https://playingcards.io/vbtkgd[^]"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:59
-msgid "GREEN: https://playingcards.io/m53by6"
+msgid "GREEN: https://playingcards.io/m53by6[^]"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:61
-msgid "YELLOW: https://playingcards.io/kpen5h"
+msgid "YELLOW: https://playingcards.io/kpen5h[^]"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:63
-msgid "BLUE: https://playingcards.io/8dwg98"
+msgid "BLUE: https://playingcards.io/8dwg98[^]"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:65
-msgid "PURPLE: https://playingcards.io/fah8an"
+msgid "PURPLE: https://playingcards.io/fah8an[^]"
 msgstr ""
 
 #. type: Plain text
@@ -3651,9 +3690,1451 @@ msgid "Elegant Grasshopper (_Zonocerus elegans_), Bulawayo, Zimbabwe.  Photo 202
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:2
+#: scripts/data-capture.en.txt:2 scripts/data-management.en.txt:2
+#: scripts/data-types.en.txt:2 scripts/definitions.en.txt:2
+#: scripts/documentation.en.txt:2 scripts/organizing.en.txt:2
+#: scripts/publishing-concepts.en.txt:2 scripts/resourcing.en.txt:2
+#: scripts/software.en.txt:2 scripts/standards.en.txt:2
+#: scripts/structures.en.txt:2
 #, no-wrap
 msgid "// Slide 1\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:4
+#, no-wrap
+msgid "This presentation is based on “Principles for data quality” by Arthur Chapman\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:6 scripts/data-management.en.txt:6
+#: scripts/data-types.en.txt:7 scripts/definitions.en.txt:8
+#: scripts/documentation.en.txt:7 scripts/organizing.en.txt:8
+#: scripts/publishing-concepts.en.txt:7 scripts/resourcing.en.txt:7
+#: scripts/software.en.txt:7 scripts/standards.en.txt:7
+#: scripts/structures.en.txt:7
+#, no-wrap
+msgid "// Slide 2\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:8
+#, no-wrap
+msgid "During this presentation, we will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:10 scripts/data-management.en.txt:11
+#: scripts/data-types.en.txt:12 scripts/definitions.en.txt:18
+#: scripts/documentation.en.txt:33 scripts/organizing.en.txt:16
+#: scripts/publishing-concepts.en.txt:13 scripts/resourcing.en.txt:15
+#: scripts/software.en.txt:12 scripts/standards.en.txt:20
+#: scripts/structures.en.txt:12
+#, no-wrap
+msgid "// Slide 3\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:15
+#, no-wrap
+msgid "Data quality is essential at every step of the data mobilization process, especially in the data capture steps.\n"
+"Each person involved in the data capture has a share of responsibility regarding the data quality, but most decisions on this topic quality have to be taken at the institutional level.\n"
+"The keywords here are: planning and documentation! \n"
+"As mentioned in the Foundations documentation presentation, use existing standards and plan your workflows to match your goals; document everything you can, at every step, and share or re-use documents, data, tools and standards as much as possible.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:17
+#, no-wrap
+msgid "// Slide 4 \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:23
+#, no-wrap
+msgid "This is an example of a data quality workflow.\n"
+"In this workflow, it begins with the collection of specimens, moves to data capture, then quality control, publishing and finally use.\n"
+"Data quality isn’t the sole responsibility of the first person in the process (here, the collector) -- it is shared at every step and every person in the process should have a responsibility for quality.\n"
+"A functioning feedback loop needs to be in place in order to check, complete, update or correct data.\n"
+"This is where documentation is essential: you need to know who was responsible for each step in the process in order to validate changes that have been made to the data (or need to be made to the data).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:25 scripts/data-management.en.txt:35
+#: scripts/data-types.en.txt:27 scripts/definitions.en.txt:30
+#: scripts/organizing.en.txt:44 scripts/publishing-concepts.en.txt:44
+#: scripts/resourcing.en.txt:29 scripts/software.en.txt:26
+#: scripts/standards.en.txt:53 scripts/structures.en.txt:20
+#, no-wrap
+msgid "// Slide 5\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:29
+#, no-wrap
+msgid "In this simplified view of the data flow, you can see some of the data quality responsibilities of each group of people involved.\n"
+"In this example, the team in charge of the mobilization can be split into the ‘transcribers’ and ‘curator’ roles.\n"
+"The transcribers team needs to ensure data is captured and saved as best as possible, while the ‘curator’ role has the ultimate responsibility for ensuring that each team is fulfilling their roles in the process.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:31 scripts/data-management.en.txt:41
+#: scripts/data-types.en.txt:33 scripts/definitions.en.txt:34
+#: scripts/documentation.en.txt:68 scripts/organizing.en.txt:58
+#: scripts/publishing-concepts.en.txt:70 scripts/resourcing.en.txt:36
+#: scripts/software.en.txt:34 scripts/standards.en.txt:74
+#: scripts/structures.en.txt:28
+#, no-wrap
+msgid "// Slide 6\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:36
+#, no-wrap
+msgid "Once the data workflow is in place, the data capture itself can begin.\n"
+"In the following slides, we will explore the different types of information that can be captured from specimens or field observations, and see what are the most common mistakes that should be avoided when dealing with each kind of information.\n"
+"The main topics will be as follows: taxonomic information, spatial information, collection information, descriptive information.\n"
+"Please note that each occurrence (each row in your database or spreadsheet) should have information linked to these 4 main topics in order to be shared and reused accordingly.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:38
+#, no-wrap
+msgid "// Slide 7 \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:42
+#, no-wrap
+msgid "Taxonomic information is an essential part of the data capture process.\n"
+"Without it, a digitized specimen is useless and cannot be properly interpreted or reused.\n"
+"Note that the species name is not the only type of taxonomic information that can be exploited in the data capture process: sometimes the specimen hasn’t been identified to the species, and higher taxonomic levels such as the genus or family are still useful for data managers and users.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:44 scripts/data-management.en.txt:63
+#: scripts/data-types.en.txt:43 scripts/definitions.en.txt:58
+#: scripts/organizing.en.txt:86 scripts/resourcing.en.txt:66
+#: scripts/software.en.txt:50 scripts/structures.en.txt:47
+#, no-wrap
+msgid "// Slide 8\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:47
+#, no-wrap
+msgid "Most of the time, the scientific name is the main way of retrieving data in a database, portal, website, browser… Any error in the spelling or authority can lead to wrong or null queries, thus impeding the management and potential reuse of the data.\n"
+"This is why it’s very important to check all categories of scientific names to fix errors and/or omissions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:49 scripts/data-management.en.txt:73
+#: scripts/data-types.en.txt:47 scripts/definitions.en.txt:72
+#: scripts/organizing.en.txt:91 scripts/publishing-concepts.en.txt:120
+#: scripts/resourcing.en.txt:74 scripts/software.en.txt:59
+#: scripts/standards.en.txt:132 scripts/structures.en.txt:54
+#, no-wrap
+msgid "// Slide 9\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:54
+#, no-wrap
+msgid "The most common issues occurring with taxon information are missing or inconsistent information, incorrect or non-atomic values, duplicates and uncertainty.\n"
+"Always check the definitions and examples of taxonomic Darwin Core terms to avoid nomenclatural mistakes: http://rs.tdwg.org/dwc/terms/index.htm\n"
+" \n"
+"// Slide 10\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:60
+#, no-wrap
+msgid "Geographic information proves to be valuable in a lot of data re-use contexts, such as niche modelling or studies about species distribution.\n"
+"While ‘old’ collections or specimens can be understandably difficult, if not impossible, to geolocate precisely, it is recommended to share precise coordinates or textual information when possible.\n"
+"Coordinates should be recorded directly on the field when possible, along with the uncertainty and the geodetic datum used.\n"
+"Otherwise use relevant and verified sources to geolocate your data.\n"
+"You should note that coordinates or other geographic information can be generalized or not even shared at all in some contexts, such as with the conservation of sensitive species.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:62 scripts/data-management.en.txt:97
+#: scripts/data-management.en.txt:109 scripts/data-types.en.txt:57
+#: scripts/definitions.en.txt:88 scripts/documentation.en.txt:137
+#: scripts/organizing.en.txt:101 scripts/publishing-concepts.en.txt:142
+#: scripts/resourcing.en.txt:100 scripts/software.en.txt:68
+#: scripts/standards.en.txt:178 scripts/structures.en.txt:73
+#, no-wrap
+msgid "// Slide 11\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:65
+#, no-wrap
+msgid "Spatial information can be found in numerous formats, not only geographic coordinates: examples include (but are not limited to) grid data, point+radius, or polygons.\n"
+"Each of them is useful to share in order to check the consistency of the geographical elements (eg coordinates vs country code, or to ensure a given locality is consistent with a collector’s travels)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:67 scripts/data-management.en.txt:124
+#: scripts/data-types.en.txt:62 scripts/definitions.en.txt:106
+#: scripts/organizing.en.txt:105 scripts/publishing-concepts.en.txt:154
+#: scripts/resourcing.en.txt:109 scripts/structures.en.txt:80
+#, no-wrap
+msgid "// Slide 12\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:70
+#, no-wrap
+msgid "Within GBIF, it is recommended to share the geodetic Datum that was used to derive the coordinates (decimal latitude and longitude) shared.\n"
+"In the absence of a specific geodetic datum, GBIF will infer WGS84 as default.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:72 scripts/data-types.en.txt:69
+#: scripts/definitions.en.txt:124 scripts/organizing.en.txt:109
+#: scripts/publishing-concepts.en.txt:162 scripts/resourcing.en.txt:119
+#: scripts/standards.en.txt:205 scripts/structures.en.txt:84
+#, no-wrap
+msgid "// Slide 13\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:76
+#, no-wrap
+msgid "This slide shows an old GBIF map with different types of geographical issues: the most obvious one is a mirror effect between the USA and China (reversed coordinates), and you can also notice an artificial line along the Greenwich meridian where ‘0’ values were put in the ‘decimalLongitude’ field, as well as another one on the Equator where ‘0’ values were put in the ‘decimalLatitude’ field.\n"
+"GBIF indexing now includes automatic geographical checks between the coordinates and countryCode shared within the dataset.\n"
+"Coordinates can be automatically reversed to match the country. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:78 scripts/data-types.en.txt:74
+#: scripts/definitions.en.txt:128 scripts/organizing.en.txt:127
+#: scripts/resourcing.en.txt:129 scripts/standards.en.txt:213
+#: scripts/structures.en.txt:89
+#, no-wrap
+msgid "// Slide 14\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:81
+#, no-wrap
+msgid "Information about the context of the data collection or observation are very useful to share in order to give as much detail as possible regarding each occurrence.\n"
+"Information such as the collector name, collection or observation protocol, habitat and other factors can prove to be important when reusing data for example with ecological niche modelling.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:86
+#, no-wrap
+msgid "// Slide 15\n"
+"Data quality factors regarding collection information are mainly along the lines of exactitude like the correct collector name, consistency for example using the same vocabulary for describing soils, habitats, and completeness as in providing all existing information about the description of a given species including the  flowering period, colour of the leaves, and medicinal uses.\n"
+"Within the Darwin Core and within the IPT you can find recommended controlled vocabularies for some fields such as the ‘lifeStage’.\n"
+"The TDWG vocabularies task group works to promote and make better the ease of use across vocabularies.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:88 scripts/data-types.en.txt:83
+#: scripts/definitions.en.txt:156 scripts/organizing.en.txt:147
+#: scripts/resourcing.en.txt:161 scripts/standards.en.txt:245
+#: scripts/structures.en.txt:100
+#, no-wrap
+msgid "// Slide 16\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:90
+#, no-wrap
+msgid "Keep in mind that descriptive information are often incomplete due to a whole array of factors.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:92
+#, no-wrap
+msgid "Depending on the collection state, some labels can be incomplete or lacking crucial information; \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:94
+#, no-wrap
+msgid "Completeness (for example of a species description) is often impossible to achieve with a single individual; \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:96
+#, no-wrap
+msgid "and you should always check for consistency in your database or spreadsheet, for example in the terms used for describing colours, in order to avoid redundant information.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:98 scripts/data-types.en.txt:88
+#: scripts/definitions.en.txt:162 scripts/organizing.en.txt:152
+#: scripts/resourcing.en.txt:173 scripts/standards.en.txt:250
+#: scripts/structures.en.txt:104
+#, no-wrap
+msgid "// Slide 17\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:102
+#, no-wrap
+msgid "This presentation has focused on the topic of data quality applied to data capture; indeed, these are the steps where it is crucial to ensure that all information related to each record is correctly and completely captured, in order for the data to be as clear and understandable as possible for future users.\n"
+"This can only be done if consistent decisions are made at the institutional level in order to create a solid workflow for data capture and data management.\n"
+"The chain of responsibility regarding data quality is then split between the persons involved at each step of the process, but keep in mind that data can always be improved and fixed if errors or omissions are detected at later stages.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:104 scripts/data-types.en.txt:92
+#: scripts/definitions.en.txt:174 scripts/organizing.en.txt:164
+#: scripts/resourcing.en.txt:183 scripts/structures.en.txt:111
+#, no-wrap
+msgid "// Slide 18\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:106 scripts/data-management.en.txt:126
+#: scripts/data-quality.en.txt:224 scripts/data-types.en.txt:137
+#: scripts/definitions.en.txt:212 scripts/documentation.en.txt:176
+#: scripts/publishing-concepts.en.txt:194 scripts/standards.en.txt:291
+#, no-wrap
+msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:108 scripts/data-types.en.txt:139
+#, no-wrap
+msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:110 scripts/data-types.en.txt:141
+#, no-wrap
+msgid "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-capture.en.txt:111
+#, no-wrap
+msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by Laura Russell, BID and BIFA Trainers, Mentors and Students.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:4
+#, no-wrap
+msgid "In this presentation, we are going to explore the key principles and processes important to effective data management.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:9
+#, no-wrap
+msgid "The concept of data management includes a wide range of topics, from metadata formats to database organization.\n"
+"In this presentation we are going to discuss an important set of principles necessary to improve data through the processes of data cleaning.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:13
+#, no-wrap
+msgid "What is data cleaning?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:15
+#, no-wrap
+msgid "Data Cleaning was defined by Arthur Chapman in 2005 as:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:17
+#, no-wrap
+msgid "“A process used to determine inaccurate, incomplete, or unreasonable data and then improving the quality through correction of detected errors and omissions.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:19
+#, no-wrap
+msgid "The process of cleaning might include checks on formatting, completeness and reasonableness, the identification of outliers, review by content experts, and validation against accepted standards, rules, and conventions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:21 scripts/data-types.en.txt:17
+#: scripts/definitions.en.txt:26 scripts/documentation.en.txt:42
+#: scripts/organizing.en.txt:33 scripts/publishing-concepts.en.txt:28
+#: scripts/resourcing.en.txt:22 scripts/software.en.txt:18
+#: scripts/structures.en.txt:16
+#, no-wrap
+msgid "// Slide 4\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:23
+#, no-wrap
+msgid "Although there are many methods that can be applied while cleaning data, we view the process of cleaning in five general steps:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:25
+#, no-wrap
+msgid "First, we seek to determine and define the types of errors that are most likely present in our data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:27
+#, no-wrap
+msgid "Next, we conduct a search to identify the instances where those error have occurred.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:29
+#, no-wrap
+msgid "Then, we will correct those errors, whenever possible.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:31
+#, no-wrap
+msgid "When we decide on the best means to make corrections, we want to document both the types of errors we find, as well as the solutions we have applied to them.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:33
+#, no-wrap
+msgid "Finally, we want to modify how data entry is practiced to reduce future errors of the same type. (Maletic & Marcus, 2000)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:37
+#, no-wrap
+msgid "One thing is certain: Errors are common and we can always expect to find them in the data we maintain.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:39
+#, no-wrap
+msgid "Our goal is to apply the best practices, including principles, processes, and tools, to make the data as fit for use as possible, even if we don’t know how data users will use the data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:45
+#, no-wrap
+msgid "Let’s take a look at several of the recommended principles of data cleaning.\n"
+"These principles are presented for your consideration so that you can develop and improve upon your own data quality workflow.\n"
+"The workflow that you create should represent the most efficient and effective process to achieve the highest data quality given your institution’s resources and expertise.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:47
+#, no-wrap
+msgid "Talk to your colleagues to learn about their workflows, but ultimately you should strive to create a workflow that will help you to achieve your data quality goals.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:49
+#, no-wrap
+msgid "// Slide 7: Plan and Organize\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:51
+#, no-wrap
+msgid "The first two principles in data cleaning are planning and organization.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:56
+#, no-wrap
+msgid "Plan how you want the cleaning process to go.\n"
+"A scattered or random approach is not likely to produce consistent results.\n"
+"Develop and implement a strategy that fits with your institution’s resources and expertise.\n"
+"A solid plan will improve both your data and the reputation of your institution among data users.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:61
+#, no-wrap
+msgid "One of the first steps of your plan should be to organize the data.\n"
+"For example, you could organize your data by taxon and then send the appropriate subset of data to individuals with the knowledge or resources to clean based on names.\n"
+"This can be done by geography or basis of record, or even in specifically sized packages of data in numeric order.\n"
+"Work to the strengths of your institution.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:68
+#, no-wrap
+msgid "As Arthur Chapman says “Prevention is better than cure.” \n"
+"At the end of the day is always easier and less expensive to prevent an error than it is seek one out and correct it.\n"
+"The more planning you do in advance, even all the way back to the moment that data is recorded in the field, the fewer errors you are likely to find.\n"
+"Standardized vocabularies and clear procedures for data capture and data entry are only a few of the many tools you can use to prevent possible errors.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:71
+#, no-wrap
+msgid "Be sure that everyone in your organization understands that data quality is everyone’s responsibility.\n"
+"Of course, the primary responsibility lies with the people who maintain the data, but everyone, from field technicians to students performing data entry to emeritus curators have a responsibility to treat the data with care and to communicate any errors or inconsistencies they might discover.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:77
+#, no-wrap
+msgid "Data maintenance is only as effective as the expertise that support the process and no single individual can be expected to know everything about everything.\n"
+"Developing partnerships with data users and content experts can help to make the data quality process more successful.\n"
+"Reach out to your user community, both inside and outside of your institution, and work with them to help maintain your data at the highest quality.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:82
+#, no-wrap
+msgid "Prioritize your cleaning to take advantage of the resources and knowledge that your institution possesses.\n"
+"For example, you may choose to review all of the data recorded by collectors who are still alive so that important data is not lost later.\n"
+"If you maintain a large dataset you might choose to prioritize data that can be cleaned at the lowest cost using automated processes and then prioritize the more difficult errors that require individual attention.\n"
+"Ultimately, you should prioritize the data that is of the greatest value to the work of your institution and then move through the data in a logical and orderly manner.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:84 scripts/data-types.en.txt:52
+#: scripts/definitions.en.txt:84 scripts/documentation.en.txt:130
+#: scripts/organizing.en.txt:96 scripts/publishing-concepts.en.txt:129
+#: scripts/resourcing.en.txt:84 scripts/software.en.txt:64
+#: scripts/structures.en.txt:66
+#, no-wrap
+msgid "// Slide 10\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:88
+#, no-wrap
+msgid "Some times it can be an effective strategy to set some measures of performance before the cleaning process begins.\n"
+"One performance measure might be to complete the cleaning of 500 records every week.\n"
+"Another measure might be to provide a statistical report of the accuracy of the corrections being made, such as:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:90
+#, no-wrap
+msgid "“95% of all georeferences corrected this week now have an uncertainty in meters of less than 1000 meters.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:92
+#, no-wrap
+msgid "These kinds of measures can give direction and guidance to the people performing the cleaning, as well as, to serve as a means to report on successes and areas in need of improvement.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:95
+#, no-wrap
+msgid "In an ideal world, you will have developed a data maintenance plan that has been optimized to be as efficient and effective as possible.\n"
+"Optimization can be achieved in many different ways including taking advantage of your institution’s strengths, setting clear objectives and measure of success, and regular adjustment of your priorities based on available resources.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:103
+#, no-wrap
+msgid "One of the best ways to learn how successful your data cleaning and data maintenance processes are, is to seek feedback from the data users in your community.\n"
+"This can be accomplished through the partnerships we discussed earlier, but you can also seek feedback in other ways.\n"
+"Once such way is to review the way that GBIF presents your data.\n"
+"You can view the comparison between the verbatim data published to GBIF and the interpreted data that GBIF might have corrected or updated.\n"
+"These comparisons can help you to optimize your data cleaning process, but you can also help GBIF to improve its data quality processes, too, when you provide expert feedback back to them.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:107
+#, no-wrap
+msgid "One of the best ways to achieve success with data cleaning is to provide training and education to everyone who works with your data.\n"
+"These may be trainings that you organize yourself, local or regional trainings in partnership with, or presented by, other institutions in your area, or workshops and courses provided by other groups, such as GBIF.\n"
+"If you need training, please check the GBIF web site regularly or contact GBIF’s Community Mentors or GBIF’s Biodiversity Open Data Ambassadors who also can be good resources for training and education opportunities.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:112
+#, no-wrap
+msgid "Documentation is one of the most important principles of data cleaning.\n"
+"This is true in two key ways.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:117
+#, no-wrap
+msgid "First, whatever processes you use to maintain your data, it is important to be transparent about how errors are discovered and corrected.\n"
+"This transparency can be truly successful when the data cleaning process is well documented.\n"
+"Without clear and accessible documentation, you run the risk of losing best practices, building redundant processes and losing optimization.\n"
+"Good documentation will help you to avoid recurring errors.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:122
+#, no-wrap
+msgid "Documentation is also key to good data quality.\n"
+"Good documentation, in metadata, for example, allows data users to determine the fitness for use of your data.\n"
+"Your documentation should not only include good metadata, it should also include the best practices, standardized vocabularies, and taxonomic and geographic authorities used.\n"
+"Documenting what data was cleaned by whom will help you to improve your optimization, reach performance measures, and ultimately, tell a more complete story of where your data came from and how it was improved over time.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:129 scripts/data-quality.en.txt:227
+#: scripts/documentation.en.txt:179 scripts/publishing-concepts.en.txt:197
+#, no-wrap
+msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
+"The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-management.en.txt:131
+#, no-wrap
+msgid "This presentation was originally created by Nestor Beltran with additional contributions by David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
+"This presentation has been narrated by David Bloom.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:2
+#, no-wrap
+msgid "// SLIDE 1\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:4
+#, no-wrap
+msgid "In this presentation, we are going to introduce some of the concepts that are important to understand basic data quality.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:6
+#, no-wrap
+msgid "// SLIDE 2\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:9
+#, no-wrap
+msgid "The two primary concepts that we will explore are Fitness for Use and Measures of Quality.\n"
+"These two ideas will lay the foundation for more detailed data quality concepts and techniques in the future.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:11
+#, no-wrap
+msgid "// SLIDE 3\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:16
+#, no-wrap
+msgid "Before we begin, I’d like to take a moment to explain why data quality is important.\n"
+"Cleanliness is next to Godliness is an expression that we sometimes use to describe the importance of data quality.\n"
+"In this case, Godliness can be understood as holiness, and when something is holy it is considered by many to be worthy of our trust.\n"
+"So, in the case of data quality, we are more likely to trust and to use data that has been cleaned and cared for.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:18
+#, no-wrap
+msgid "// SLIDE 4\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:20
+#, no-wrap
+msgid "Stepping back into the domain of biodiversity informatics, the classic definition of data quality was coined in 2005 by Arthur Chapman.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:24
+#, no-wrap
+msgid "He wrote: “Data quality is related to use and cannot be assessed independently of the user.\n"
+"In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized when someone uses the data to do something useful.\n"
+"Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:27
+#, no-wrap
+msgid "And so, for us, as individuals who are responsible for maintaining data, we want the data we publish to be as satisfying to all of our potential users as possible.\n"
+"To do this, we seek to provide the highest quality data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:29
+#, no-wrap
+msgid "// SLIDE 5\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:32
+#, no-wrap
+msgid "To help you to accomplish this task, we will explore Fitness for Use.\n"
+"We will also explore the Measures of Quality, specifically, Correctness and Consistency.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:34
+#, no-wrap
+msgid "These are important concepts that you will need to know and be able to articulate about your own data or data that you maintain.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:36
+#, no-wrap
+msgid "// SLIDE 6\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:39
+#, no-wrap
+msgid "Let’s begin with an example of Fitness for Use.\n"
+"A shoemaker creates a pair of clogs for the purpose of covering a person’s feet, just like those at the top of this image.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:41
+#, no-wrap
+msgid "// SLIDE 7\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:43
+#, no-wrap
+msgid "When the shoemaker made these shoes, did he know that this girl would use them for dancing?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:45
+#, no-wrap
+msgid "Maybe.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:47
+#, no-wrap
+msgid "// SLIDE 8\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:49
+#, no-wrap
+msgid "Do you think that the same shoemaker knew that a gardener might one day use the shoes as plant pots?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:53
+#, no-wrap
+msgid "Maybe not.\n"
+" \n"
+"// SLIDE 9\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:56
+#, no-wrap
+msgid "We often hear people talk about data’s Fitness for Use in the ecological sciences, but what we need to remember is that data is not inherently good or bad.\n"
+"Rather it is the user of the data who gives data its value.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:59
+#, no-wrap
+msgid "For example, for one person, data identified to the level of Genus may be sufficient to run predictive models of ecological niches.\n"
+"For a person studying a particular taxon, that same genus-level data will be much less useful than more detailed occurrences with subspecies information.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:61
+#, no-wrap
+msgid "// SLIDE 10\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:63
+#, no-wrap
+msgid "So, what is Fitness for Use and how does it relate to data?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:65
+#, no-wrap
+msgid "When Chapman discusses Fitness for Use, he says that once a dataset has been created and shared there are two primary perspectives on how those data might be used; the perspective of the creator and the perspective of the user.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:68
+#, no-wrap
+msgid "To help somebody to decide if your data is trustworthy or useful enough for them to use, you have to understand your data and how to convey those data to the potential user.\n"
+"These are some of the important questions about the metadata, or characteristics of your data, that you should be able to answer and share with others:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:72
+#, no-wrap
+msgid "How Accessible are your data? \n"
+"How easily can someone access your data? \n"
+"People can’t use the data if they can’t find the data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:76
+#, no-wrap
+msgid "How Accurate are your data? \n"
+"Can your data be trusted? \n"
+"For example, are your identifications current and were they made by known experts?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:80
+#, no-wrap
+msgid "How Timely are they? \n"
+"When will the data be made available? \n"
+"How often are they updated? \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:84
+#, no-wrap
+msgid "How Complete or Comprehensive are the data? \n"
+"Which parts of your dataset are documented fully? \n"
+"How well do the data cover a particular time, place, or domain?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:88
+#, no-wrap
+msgid "How Consistent are they? \n"
+"Is the data in each field always of the same type? \n"
+"Was the data collected using the same documented protocols?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:91
+#, no-wrap
+msgid "How Relevant are they? \n"
+"How similar is this dataset to others that have been used successfully for the same purpose?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:95
+#, no-wrap
+msgid "How Detailed are the data? \n"
+"How much resolution is there in your data? \n"
+"At what scale can they be used for mapping?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:99
+#, no-wrap
+msgid "Is the data Easy to interpret? \n"
+"Is the dataset documented in a clear and concise way? \n"
+"If your documents are handwritten, are they legible?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:101
+#, no-wrap
+msgid "// SLIDE 11\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:103
+#, no-wrap
+msgid "While Fitness for Use is subjective, measures of data quality are much less so.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:106
+#, no-wrap
+msgid "Chapman states that: \"All data include error – there is no escaping it! \n"
+"It is knowing what the error is that is important, and knowing if the error is within acceptable limits for the purpose to which the data are to be put.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:108
+#, no-wrap
+msgid "// SLIDE 12\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:110
+#, no-wrap
+msgid "We can use two measures of quality, Correctness and Consistency, to help us to document these inherent errors in data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:112
+#, no-wrap
+msgid "Correctness, sometimes called accuracy, is “How close the recorded value is to the actual, real-world value”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:114
+#, no-wrap
+msgid "In this diagram accuracy is how close a given dot is to the centre of the target.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:116
+#, no-wrap
+msgid "Consistency, sometimes called precision, is “How often you get it right”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:118
+#, no-wrap
+msgid "In this diagram, precision is how close the dots are together irrespective of how close they are to the centre of the target.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:121
+#, no-wrap
+msgid "These are measures of how well the data gatherer was able to capture the true value being investigated.\n"
+"Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
+#, no-wrap
+msgid "// SLIDE 13\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:126
+#, no-wrap
+msgid "This image provides a clear set of illustrations of accuracy and precision.\n"
+"This may be a good image to keep with you when you have to explain these concepts to others.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:128
+#, no-wrap
+msgid "// SLIDE 14\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:131
+#, no-wrap
+msgid "Let’s look at some examples of Correctness, or accuracy, and how it can help us think about the practicalities of data cleaning.\n"
+"Remember that Correctness is how close you are to the center of a target.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:133
+#, no-wrap
+msgid "Let’s look at an example.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:135
+#, no-wrap
+msgid "// SLIDE 15\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:138
+#, no-wrap
+msgid "For this example, let’s imagine your dataset contains records of fossil bird specimens from the Early Triassic Period.\n"
+"The taxonomic name for a number of specimens in your dataset is recorded as Thismia.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:140
+#, no-wrap
+msgid "Do you know if Thismia is a taxon of ancient birds?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:143
+#, no-wrap
+msgid "// SLIDE 16\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:145
+#, no-wrap
+msgid "In this case, the answer is no! \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:147
+#, no-wrap
+msgid "Thismia is a very rare plant from the State of Illinois in the United States.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:151
+#, no-wrap
+msgid "As a result, the correctness, or accuracy, of the taxonomic name is low.\n"
+"Perhaps because the data entry technician was not a paleontologist.\n"
+"As a result, all of the names in the dataset might need to be checked and corrected by an expert before the data could be used.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:153
+#, no-wrap
+msgid "// SLIDE 17\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:156
+#, no-wrap
+msgid "Let’s look at another example.\n"
+"Here, your dataset contains specimens collected in a place called Kalamazoo by a scientist named Richard Spruce.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:158
+#, no-wrap
+msgid "We must ask ourselves:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:160
+#, no-wrap
+msgid "Is 49007 the right postal code for Kalamazoo?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:162
+#, no-wrap
+msgid "Did Richard Spruce collect in Michigan?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:164
+#, no-wrap
+msgid "// SLIDE 18\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:166
+#, no-wrap
+msgid "In this case, the answer is yes to our first question, 49007 is a postal code for Kalamazoo, so the accuracy of the locality is good, but what about the collector, Richard Spruce?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:168
+#, no-wrap
+msgid "// SLIDE 19\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:172
+#, no-wrap
+msgid "There is, in fact, a famous botanist named Richard Spruce.\n"
+"He was born in 1817 and died in 1893, but he conducted his collecting in the Amazon Basin and Andes mountains in South America.\n"
+"Something is not quite right, so we need to find out more about the collector before we can be confident in the correctness of these data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:174
+#, no-wrap
+msgid "// SLIDE 20\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:176
+#, no-wrap
+msgid "Let’s take a look now at what Consistency, or precision, means to data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:178
+#, no-wrap
+msgid "Consistency represents how many times you get the same answer, regardless of where the center of the target lies.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:182
+#, no-wrap
+msgid "For example, your dataset contains botanical occurrences including a field, or column, named “Full Name”.\n"
+"This field contains the name of the specimen collector.\n"
+"As you can see there are five different names, but how many unique collectors are there? Can you tell just by looking at the names?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:184
+#, no-wrap
+msgid "// SLIDE 21\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:186
+#, no-wrap
+msgid "Sometimes, if you are familiar with the dataset, you might know how many collectors are represented just by looking at the data, but if you don’t know these data well, you might need to do some research, ask some questions or look at the original field notes.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:188
+#, no-wrap
+msgid "In this example, if you guessed that these five names represent two or three unique collectors, you would be right.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:191
+#, no-wrap
+msgid "In blue, Joseph Dalton Hooker AND Hook.f.\n"
+"are the same person.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:193
+#, no-wrap
+msgid "Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:197
+#, no-wrap
+msgid "In green, W.J. Hooker and Hook. are the same person.\n"
+"Period is the abbreviation for William Jackson Hooker (1785-1865).\n"
+"William was actually Joseph’s father.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:201
+#, no-wrap
+msgid "Finally, in the red, there is “Hooker, J.” \n"
+"This entry could be an error or typo of either Joseph or William Hooker, OR it could be a third person with a similar name.\n"
+"Thus, more research would be needed to clarify these data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:203
+#, no-wrap
+msgid "// SLIDE 22\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:206
+#, no-wrap
+msgid "We have just discussed several simple illustrations of two measures of data quality.\n"
+"These examples should give you a basic understanding about how to identify the inaccuracies and imprecisions in data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:208
+#, no-wrap
+msgid "How we document and fix these issues or errors is a process that we call data cleaning.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:210
+#, no-wrap
+msgid "More specifically:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:213
+#, no-wrap
+msgid "Data cleaning is the process of correcting or removing dirty data caused by contradictions, disparities, keying mistakes, missing bits, and more.\n"
+"It also includes validation of the changes made, and may require normalization.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:215
+#, no-wrap
+msgid "Our data cleaning, or lack thereof, will affect how data users perceive your data’s fitness for use.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:217
+#, no-wrap
+msgid "It is not necessary for you to do all the data cleaning yourself, in fact, a common misconception is that all errors MUST be fixed before you can share your data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:220
+#, no-wrap
+msgid "The truth is that you can only clean as much data as your time, knowledge, and resources permit.\n"
+"As a result, it is essential to document what you know and what you do not know about your data so that when you do share them, data users will know the level of the quality of your data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:222
+#, no-wrap
+msgid "// SLIDE 23\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-quality.en.txt:229
+#, no-wrap
+msgid "This presentation was originally created by Sharon Grant with additional contributions by Dag Endresen, David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
+"This presentation has been narrated by David Bloom.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:5
+#, no-wrap
+msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
+"These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:10
+#, no-wrap
+msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
+"I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:15
+#, no-wrap
+msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
+"In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:19
+#, no-wrap
+msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:21
+#, no-wrap
+msgid "a list of species present in a protected area is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:23
+#, no-wrap
+msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:25
+#, no-wrap
+msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:31
+#, no-wrap
+msgid "GBIF provides data publishers with templates for each class of dataset.\n"
+"The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
+"In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:36
+#, no-wrap
+msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
+"Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:38 scripts/definitions.en.txt:44
+#: scripts/organizing.en.txt:81 scripts/publishing-concepts.en.txt:105
+#: scripts/resourcing.en.txt:51 scripts/software.en.txt:39
+#: scripts/standards.en.txt:93 scripts/structures.en.txt:41
+#, no-wrap
+msgid "// Slide 7\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:41
+#, no-wrap
+msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
+"However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:45
+#, no-wrap
+msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:50
+#, no-wrap
+msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
+"ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:55
+#, no-wrap
+msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
+"These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:60
+#, no-wrap
+msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
+"They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:67
+#, no-wrap
+msgid "Occurrence data represents the GBIF class of datasets with the largest number of records on GBIF.org.\n"
+"Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
+"In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
+"Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:72
+#, no-wrap
+msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
+"They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:77
+#, no-wrap
+msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
+"Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
+#: scripts/organizing.en.txt:131 scripts/publishing-concepts.en.txt:190
+#: scripts/resourcing.en.txt:151 scripts/structures.en.txt:95
+#, no-wrap
+msgid "// Slide 15\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:81
+#, no-wrap
+msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:86
+#, no-wrap
+msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
+"Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:90
+#, no-wrap
+msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:96
+#, no-wrap
+msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
+"Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
+"In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:98 scripts/definitions.en.txt:189
+#: scripts/organizing.en.txt:169 scripts/resourcing.en.txt:199
+#: scripts/structures.en.txt:116
+#, no-wrap
+msgid "// Slide 19\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:102
+#, no-wrap
+msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
+"The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
+"The data are then searchable and downloadable via GBIF.org.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:104 scripts/definitions.en.txt:201
+#: scripts/organizing.en.txt:176 scripts/resourcing.en.txt:214
+#: scripts/standards.en.txt:287
+#, no-wrap
+msgid "// Slide 20\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:107
+#, no-wrap
+msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
+"The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:109
+#, no-wrap
+msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:111
+#, no-wrap
+msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:113
+#, no-wrap
+msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:115
+#, no-wrap
+msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:117 scripts/definitions.en.txt:210
+#: scripts/organizing.en.txt:182 scripts/structures.en.txt:132
+#, no-wrap
+msgid "// Slide 21\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:121
+#, no-wrap
+msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
+"Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
+"You can find these requirements on GBIF.org from the How-to menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:123 scripts/organizing.en.txt:191
+#: scripts/structures.en.txt:143
+#, no-wrap
+msgid "// Slide 22\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:125
+#, no-wrap
+msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:127
+#, no-wrap
+msgid "You can reflect on this topic with the following questions:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:129
+#, no-wrap
+msgid "Is your data type different than you originally thought?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:131
+#, no-wrap
+msgid "With what kind of data do you work?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:133
+#, no-wrap
+msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:135 scripts/organizing.en.txt:203
+#: scripts/structures.en.txt:150
+#, no-wrap
+msgid "// Slide 23\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:142
+#, no-wrap
+msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
 msgstr ""
 
 #. type: Plain text
@@ -3666,12 +5147,6 @@ msgstr ""
 #: scripts/definitions.en.txt:6
 #, no-wrap
 msgid "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:8
-#, no-wrap
-msgid "// Slide 2\n"
 msgstr ""
 
 #. type: Plain text
@@ -3699,12 +5174,6 @@ msgid "And lastly, we will straighten out some concepts around characters and th
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:18
-#, no-wrap
-msgid "// Slide 3\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:20
 #, no-wrap
 msgid "First definitions.\n"
@@ -3723,33 +5192,15 @@ msgid "We will be using these throughout the course and it is important that you
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:26
-#, no-wrap
-msgid "// Slide 4\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:28
 #, no-wrap
 msgid "Let’s focus for a moment on some common words and phrases that contain the word data.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:30
-#, no-wrap
-msgid "// Slide 5\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:32
 #, no-wrap
 msgid "All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  \n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:34
-#, no-wrap
-msgid "// Slide 6\n"
 msgstr ""
 
 #. type: Plain text
@@ -3774,12 +5225,6 @@ msgstr ""
 #: scripts/definitions.en.txt:42
 #, no-wrap
 msgid "Let’s dig a little deeper then into those other terms.\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:44
-#, no-wrap
-msgid "// Slide 7\n"
 msgstr ""
 
 #. type: Plain text
@@ -3819,12 +5264,6 @@ msgid "They are simply methods used to define and create tables, views and queri
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:58
-#, no-wrap
-msgid "// Slide 8\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:60
 #, no-wrap
 msgid "Now let’s look at the phrase “database program or software”.\n"
@@ -3861,12 +5300,6 @@ msgid "So, database programs or software are grouped utilities which allow a use
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:72
-#, no-wrap
-msgid "// Slide 9\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:74
 #, no-wrap
 msgid "The last term is “data cleaning tool”.\n"
@@ -3897,21 +5330,9 @@ msgid "A data cleaning tool should assist the user in the discovery and repair o
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:84
-#, no-wrap
-msgid "// Slide 10\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:86
 #, no-wrap
 msgid "Continuing on with some more terms that you should be familiar with we will look at the differences between the terms Field, Label and List.\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:88
-#, no-wrap
-msgid "// Slide 11\n"
 msgstr ""
 
 #. type: Plain text
@@ -3963,12 +5384,6 @@ msgid "In some software you can in fact have different labels to the same field 
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:106
-#, no-wrap
-msgid "// Slide 12\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:108
 #, no-wrap
 msgid "As you work with your data you will come across the phrases “drop-down list” and “controlled vocabulary” and on the surface they can appear to be the same. \n"
@@ -4017,21 +5432,9 @@ msgid "Such values can be used in a drop-down list as mentioned previously.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:124
-#, no-wrap
-msgid "// Slide 13\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:126
 #, no-wrap
 msgid "In this section we will look at what the term character means in relation to data and computers.\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:128
-#, no-wrap
-msgid "// Slide 14\n"
 msgstr ""
 
 #. type: Plain text
@@ -4077,12 +5480,6 @@ msgid "Each symbol or glyph is assigned a numeric value and that number is then 
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:144
-#, no-wrap
-msgid "// Slide 15\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:146
 #, no-wrap
 msgid "In this example we see how character encoding is used to map the capital letter A in the western alphabet.\n"
@@ -4113,12 +5510,6 @@ msgid "Try mapping your own name to Binary using the link at the bottom of the s
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:156
-#, no-wrap
-msgid "// Slide 16\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:158
 #, no-wrap
 msgid "In effect what is happening is that when you type into a keyboard and save a file the software that you are using will select an encoding to save with it. \n"
@@ -4128,12 +5519,6 @@ msgstr ""
 #: scripts/definitions.en.txt:160
 #, no-wrap
 msgid "When you open that file again the software needs to know which encoding (map) to use to redisplay the information back to you correctly.\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:162
-#, no-wrap
-msgid "// Slide 17\n"
 msgstr ""
 
 #. type: Plain text
@@ -4164,12 +5549,6 @@ msgstr ""
 #: scripts/definitions.en.txt:172
 #, no-wrap
 msgid "Then you send it to a colleague to check the translation. Voila!\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:174
-#, no-wrap
-msgid "// Slide 18\n"
 msgstr ""
 
 #. type: Plain text
@@ -4210,12 +5589,6 @@ msgid "Depending on the software the data may be irretrievably corrupted.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:189
-#, no-wrap
-msgid "// Slide 19\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:191
 #, no-wrap
 msgid "In review we have looked at the differences between the phrases:\n"
@@ -4246,12 +5619,6 @@ msgid "And shown that although the terms may seem similar the in fact have very 
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:201
-#, no-wrap
-msgid "// Slide 20\n"
-msgstr ""
-
-#. type: Plain text
 #: scripts/definitions.en.txt:203
 #, no-wrap
 msgid "Remember that:\n"
@@ -4271,27 +5638,2862 @@ msgid "We often take for granted that there is a whole language associated with 
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:210
-#, no-wrap
-msgid "// Slide 21\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:212
-#, no-wrap
-msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:215
+#: scripts/definitions.en.txt:215 scripts/standards.en.txt:294
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:216
+#: scripts/definitions.en.txt:216 scripts/organizing.en.txt:298
+#: scripts/resourcing.en.txt:220
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:5
+#, no-wrap
+msgid "In this presentation, we will provide an overview of the importance of documentation as it relates to data management and data publishing.\n"
+"You will learn about data mapping, data relationships and metadata .\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:10
+#, no-wrap
+msgid "In the previous Foundations presentations, we looked at the individual elements that make up both your data and the containers that hold it.\n"
+"Now we’ll look at ways to document those data and what you want to do with it.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:12
+#, no-wrap
+msgid "According to the director Steven Spielberg,\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:16
+#, no-wrap
+msgid "“People have forgotten how to tell a story.\n"
+"Stories don’t have a middle or an end any more.\n"
+"They usually have a beginning that never stops beginning.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:19
+#, no-wrap
+msgid "Documentation is the story of your project or dataset.\n"
+"There should always be a concrete beginning, middle and end.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:21
+#, no-wrap
+msgid "In essence you should be able to answer certain questions at specific points:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:24
+#, no-wrap
+msgid "At the beginning: What did our project aim to do? \n"
+"What was the purpose of creating the dataset?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:27
+#, no-wrap
+msgid "In the middle:  What did we actually do? \n"
+"What did we achieve? \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:31
+#, no-wrap
+msgid "At the end: What didn’t we achieve? \n"
+"Why? \n"
+"What should happen next?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:35
+#, no-wrap
+msgid "In order to document your data and render them as fit for use as possible for yourself and future users, you need to follow these three essential steps :\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:39
+#, no-wrap
+msgid "Mapping your data to existing formats and standards if necessary\n"
+"Planning your data moves\n"
+"Create useful metadata describing your data\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:44
+#, no-wrap
+msgid "We will begin by looking at ways to describe your data, then we will show how to map your data from one data structure to another and finally talk about how to record metadata about your data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:46
+#, no-wrap
+msgid "First is mapping data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:48
+#, no-wrap
+msgid "This is the process that you will use to describe how the attributes in your dataset can be transformed into attributes in a different one.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:50
+#, no-wrap
+msgid "Mapping data is the “Process of Identifying the start field(s) within dataset A, and its (their) corresponding field(s) in dataset B.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:52
+#, no-wrap
+msgid "In this example Dataset A has 10 columns.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:54
+#, no-wrap
+msgid "There are: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:62
+#, no-wrap
+msgid "some integer fields represented by the purple squares, \n"
+"some boolean fields represented by the red triangles\n"
+"Some date fields represented by blue pentagons \n"
+"Some text fields, green 8 pointed stars\n"
+"and some complex fields\n"
+" \n"
+"// Slide 5\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:64
+#, no-wrap
+msgid "Dataset B has a different set of fields, 15 in total.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:66
+#, no-wrap
+msgid "What we need to do is identify which fields in Dataset A match which fields in Dataset B\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:73
+#, no-wrap
+msgid "We do that by describing the relationships.\n"
+"For example Dataset A has an ID field and so does Dataset B.\n"
+"We can draw a line directly between the two.\n"
+"This is called a one to one match.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:76
+#, no-wrap
+msgid "Question: Can you see any other one to one matches? \n"
+"Answer: State, Exp?, Pink Elephant!\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:80
+#, no-wrap
+msgid "Another type of relationship is is a one to many.\n"
+"In these cases there is a single field in dataset A that maps to 2 or more fields in Dataset B.\n"
+"Date is an example.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:85
+#, no-wrap
+msgid "You many also find cases where a more than one field in Dataset A contains data for more than one field in Dataset B.\n"
+"Notes fields are often guilty of this.\n"
+" \n"
+"// Slide 7\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:88
+#, no-wrap
+msgid "In fact there are six relationships:\n"
+"Some fields will map one-to-one (1:1), meaning that the original column in dataset A exactly matches another one in dataset B\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:90
+#, no-wrap
+msgid "Some fields will map many-to-one (∞:1), meaning that some columns in dataset A can be merged (or concatenated) to match a single one in dataset B\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:92
+#, no-wrap
+msgid "Some fields will map one-to-many (1:∞), meaning that one column in dataset A will have to be split into two or more fields in order to match the fields in dataset B\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:94
+#, no-wrap
+msgid "Some fields might not exist yet zero-to-one (0:1), meaning that some information are not present in dataset A and need to be added in a new column to match an existing field in dataset B\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:96
+#, no-wrap
+msgid "Some fields might not have a place to go one-to-zero (1:0), meaning that some information present in dataset A does not match any existing field on dataset B\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:98
+#, no-wrap
+msgid "Some fields will map many-to-many (∞ : ∞), meaning that information in dataset A is scattered in different fields, which do not match exactly existing ones in dataset B\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:101 scripts/publishing-concepts.en.txt:113
+#: scripts/standards.en.txt:109
+#, no-wrap
+msgid " \n"
+"// Slide 8\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:103
+#, no-wrap
+msgid "Each of the relationship types has its own nuances as to how you are going to have to handle them.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:107
+#, no-wrap
+msgid "one-to-one (1:1) - Beware your field types. \n"
+"If they are the not the same. \n"
+"You will need to do some manipulation.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:109
+#, no-wrap
+msgid "many-to-one (∞:1) - These fields will need to joined together to go into the field.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:111
+#, no-wrap
+msgid "one-to-many (1:∞) - These fields will need to be split apart and put in to different fields\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:115
+#, no-wrap
+msgid "zero-to-one (0:1) - Work out how (or if) you can even fill these in.\n"
+"Is the data mixed into a notes field? \n"
+"If so how do you get it out?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:119
+#, no-wrap
+msgid "one-to-zero (1:0) - Either throw away the data or add a field.\n"
+"You might not even have a home in the other dataset.\n"
+"Do/Can you create a new field?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:122
+#, no-wrap
+msgid "many-to-many (∞ : ∞) -  “for the love of a higher being!” \n"
+"This usually means that your incoming data is very messy and will take time to clean before you can map it.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:124
+#, no-wrap
+msgid "// Slide 9 \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:127
+#, no-wrap
+msgid "This is an example of what a mapping document looks like.\n"
+"Notice that not only do we document the relationships we also articulate (to the best of our knowledge) what should be done to the data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:133
+#, no-wrap
+msgid "We’ve talked a lot about documenting the structures that hold your data but you must also document the information that gives context.\n"
+"This is called metadata and is data about your data!\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:135
+#, no-wrap
+msgid "As we mention in the section on data quality your ”Metadata must be rich enough to allow data (re)use by a third party without them having to refer to the data source.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:139
+#, no-wrap
+msgid "We will discuss this in more detail in later sessions but as a quick guide good documentation should include:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:141
+#, no-wrap
+msgid "A title – Which should be descriptive, memorable and if possible unique.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:143
+#, no-wrap
+msgid "Dates are good to include in a dataset name for example to allow you to track versions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:146
+#, no-wrap
+msgid "A narrative – Should describe the rationale for the creation of the dataset.\n"
+"It should include at least general information about spatial, temporal and taxonomic coverage and give the potential user a broad picture of uses that may be appropriate for the data without further transformation.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:148
+#, no-wrap
+msgid "Source information – If you did not collect or measure the data yourself, where or who did you get if from?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:151
+#, no-wrap
+msgid "Lineage – Does the dataset have a history? \n"
+"Have any of the fields been transformed in any way from the original?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:153
+#, no-wrap
+msgid "Statement of accuracy – Using the concepts of accuracy, precision, errors and uncertainty that we discussed previously, are there any issues with the dataset that should be known to a user?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:157
+#, no-wrap
+msgid "Dates and life expectancy – When will the dataset be available? \n"
+"How long is it valid for? \n"
+"When if ever will it be updated?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:161
+#, no-wrap
+msgid "Field Definitions – Describing the format of fields and what kind of data each contains.\n"
+"Was any cleaning or transformation down to the original data? \n"
+"This is important for you to know if you are mapping it to a standard such as Darwin Core.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:164
+#, no-wrap
+msgid "Collection methodology – How was the data collected? \n"
+"Where there protocols used which will affect its fitness for use?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:166
+#, no-wrap
+msgid "Statement of completeness – What is missing from the data and why?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:169
+#, no-wrap
+msgid "Conditions of use and constraints – Where and how can you use the data? \n"
+"For most portals and GBIF in particular data must use very open licensing, so understanding the requirements of data owners and their institutions is very important.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:172
+#, no-wrap
+msgid "Custodianship/Contact information  – This should be the institution responsible for the dataset as presented to you, as well as (if possible) the individual who created the dataset.\n"
+"There should also be a technical contact who is responsible for the publication of the dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/documentation.en.txt:180
+#, no-wrap
+msgid "This presentation was originally created by Sharon Grant and has been narrated by Sophie Pamerlon.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:6
+#, no-wrap
+msgid "This session is part of the planning section. \n"
+"We will be introducing some concepts and methodologies that will help you to focus on the organization of your mobilization project at a number of levels. \n"
+"The focus in this session will be on tasks and the ways in which they can be organized in order to prepare practical, workable plans and clear documentation. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:11
+#, no-wrap
+msgid "The successful implementation of your project is dependent in large part on the development of realistic, efficient and streamlined processes and documentation\n"
+"This, combined with constant assessment of changes to the landscape within which your project exists, will increase drastically the likelihood of success.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:14
+#, no-wrap
+msgid "In this section we will look at three methodologies for clustering the timing and ordering of the tasks and components identified as critical to the goals of the project\n"
+"We will then see how good planning is supported by continuous documentation.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:19
+#, no-wrap
+msgid "Let’s take a quick look at the definition of the noun cluster.\n"
+"It is defined as “A group of similar things or people positioned or occurring closely together”. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:21
+#, no-wrap
+msgid "The three important parts of the definition for us:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:23
+#, no-wrap
+msgid "Groups\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:25
+#, no-wrap
+msgid "Similarity\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:27
+#, no-wrap
+msgid "Things\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:29
+#, no-wrap
+msgid "What we will see is that in order to successfully achieve your mobilization goals, you need to be able to identify groups and arrangements of similar tasks, cluster them together and then string those clusters together in a logical flow. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:31
+#, no-wrap
+msgid "In plain terms we will now be looking at the When and the How of your project\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:35
+#, no-wrap
+msgid "Let’s look first at GROUPINGS.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:37
+#, no-wrap
+msgid "Probably the most simplest grouping to be able to identify in your project are Stages relative to a fixed point in time.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:39
+#, no-wrap
+msgid "What we mean here is, at what time during the project should any particular task (or group of tasks) occur? \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:41
+#, no-wrap
+msgid "The simplest but by no means the only way of stage-grouping, uses digitization as its reference point\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:46
+#, no-wrap
+msgid "In this example:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:48
+#, no-wrap
+msgid "Before - refers to any time before the start of the digitization effort itself ie the imaging and transcription;\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:50
+#, no-wrap
+msgid "During - relates specifically to the period of active digitization; and \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:52
+#, no-wrap
+msgid "After - is the period after the digitization effort has ended. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:56
+#, no-wrap
+msgid "Another common reference point is the start and end of funding. \n"
+"You can use anything that makes sense and even use different reference points for different stakeholders and groups of tasks, that run concurrently.\n"
+"These points are often also good places to insert milestones with metrics into your project.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:61
+#, no-wrap
+msgid "The next set of groupings is PMBoK.\n"
+"PMBoK stands for Project Management Body of Knowledge and it is the entire collection of processes, best practices, terminologies, and guidelines that are accepted as standards within the project management industry\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:64
+#, no-wrap
+msgid "It is overseen by the Project Management Institute (PMI), which is a global not-for-profit member association of Project Managers.\n"
+"The first edition of the PMBOK Guide was published in 1996 and it is now on its fifth edition, which was published in 2013\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:66
+#, no-wrap
+msgid "As a very high level synopsis, the methodology uses iterative and repeatable groupings to cluster tasks together\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:69
+#, no-wrap
+msgid "The stages are:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:71
+#, no-wrap
+msgid "INITIATING\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:73
+#, no-wrap
+msgid "PLANNING\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:75
+#, no-wrap
+msgid "EXECUTING\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:77
+#, no-wrap
+msgid "MONITORING and\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:79
+#, no-wrap
+msgid "CLOSING\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:84
+#, no-wrap
+msgid "Tasks carried out during the initiating phase should define the new project or the part of the project being tracked.\n"
+"For example obtaining collection permits or MOUs before going into the field to collect.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:89
+#, no-wrap
+msgid "Tasks carried out during the planning phase are required to establish the scope of the project.\n"
+"For example assessing the physical state of a collection before pulling specimens for imaging.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:94
+#, no-wrap
+msgid "Tasks carried out during the executing phase are those that accomplish the project’s stated deliverables.\n"
+"For example the transcription of label data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:99
+#, no-wrap
+msgid "The monitoring phase is an overarching and overlapping phase.\n"
+"The tasks assigned to it serve the function of watchdog over the planning and executing phases, ensuring that performance is on track.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:103
+#, no-wrap
+msgid "Tasks in the closing phase indicate that goals and milestones have been achieved and the project (or part of the project in question) have finished.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:107
+#, no-wrap
+msgid "This diagram shows the continuous flow and cyclical nature of the five PMBoK phases.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:113
+#, no-wrap
+msgid "Task clusters are a defined set of digitization task groups.\n"
+"The term was coined by the iDigBio team in their 2012 paper “Five task clusters that enable efficient and effective digitization of biological collections”.\n"
+"In the paper the authors identify 5 major groups of tasks that are most often found in successful natural history digitization projects. They are:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:115
+#, no-wrap
+msgid "pre-digitization curation and staging\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:117
+#, no-wrap
+msgid "specimen image capture\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:119
+#, no-wrap
+msgid "specimen image processing\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:121
+#, no-wrap
+msgid "electronic data capture and\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:123
+#, no-wrap
+msgid "georeferencing locality descriptions\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:125
+#, no-wrap
+msgid "Clustering as general concept, is an extremely useful way to organize the detail of the tasks which must be carried out during any particular project stage and divides them up into manageable and trackable chunks.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:129
+#, no-wrap
+msgid "In this diagram of the digitization task clusters you can see some of the checking and monitoring feedback loops seen in the PMBoK method.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:133
+#, no-wrap
+msgid "The next examples of clustering that we will look at are generally termed “Workflows”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:136
+#, no-wrap
+msgid "Workflows are defined as “the sequence of processes through which a piece of work passes from initiation to completion.”\n"
+"There are three general categories: \n"
+msgstr ""
+
+#. type: Bullet: '1) '
+#: scripts/organizing.en.txt:138
+#, markdown-text, no-wrap
+msgid "Sequential\n"
+msgstr ""
+
+#. type: Bullet: '2) '
+#: scripts/organizing.en.txt:140
+#, markdown-text, no-wrap
+msgid "Rules Driven \n"
+msgstr ""
+
+#. type: Bullet: '3) '
+#: scripts/organizing.en.txt:142
+#, markdown-text, no-wrap
+msgid "State Machine\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:145
+#, no-wrap
+msgid "In simple terms they are just another way that you join tasks and task clusters together and apply rules and logic to increase efficiency.\n"
+"We will look at the three workflows by describing in increasing detail, a common digitization workflow.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:150
+#, no-wrap
+msgid "Sequential workflows are simple and represent a unidirectional series of steps with a single start and end point. \n"
+"The important point being that each task MUST be completed before the next one can start.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:154
+#, no-wrap
+msgid "In this example the sequence is:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:156
+#, no-wrap
+msgid "NAME CHECKING\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:158
+#, no-wrap
+msgid "Followed by PHOTOGRAPHY\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:160
+#, no-wrap
+msgid "Then DATA ENTRY\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:162
+#, no-wrap
+msgid "And finally PROOFREADING\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:167
+#, no-wrap
+msgid "Rules driven workflows often have an underlying sequential element as described previously. \n"
+"However, within each task cluster, rules and logic can alter the progress of the workflow.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:171
+#, no-wrap
+msgid "In this example in the lower right corner in the PHOTOGRAPHY task cluster there is a quality check logic gate.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:174
+#, no-wrap
+msgid "If there is a problem with the image it is discarded and the specimen goes back to be photographed again.\n"
+"Only when the quality check has been passed can the workflow continue.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:180
+#, no-wrap
+msgid "Machine State workflows are the next most complex form.\n"
+"Here, the steps within each task cluster can happen asynchronously i.e they are not necessarily performed one after another, but instead can be triggered by actions and states in previous steps.\n"
+"One state is assigned as the start state, and then, based on an event, a transition is made to another state and so on.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:185
+#, no-wrap
+msgid "If we take this example from Allard 2012.\n"
+"Let’s say that the photography lab is only allowed to hold 60 herbarium sheets at any one time.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:187
+#, no-wrap
+msgid "The NAME CHECKING task cluster can continue to prep specimens but there is a check that means: Specimens cannot pass to the PHOTOGRAPHY task cluster until there is space again.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:189
+#, no-wrap
+msgid "Meanwhile the other clusters can also carry on as long as they have specimens or images to work on.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:193
+#, no-wrap
+msgid "In this next short section, ELEMENTS OF A GOOD PLAN we will look at how good documentation aids good planning. we will:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:195
+#, no-wrap
+msgid "highlight the benefits of good documentation;\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:197
+#, no-wrap
+msgid "make connections between the proposal, planning and implementation documents;\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:199
+#, no-wrap
+msgid "and show how the elements of each build together, thereby reducing the agony of the last \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:201
+#, no-wrap
+msgid "minute end of project report.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:205
+#, no-wrap
+msgid "The definition of a plan is a detailed proposal for doing or achieving something.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:207
+#, no-wrap
+msgid "Documentation of your project should describe not only what you planned to do but also what you actually did.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:209
+#, no-wrap
+msgid "Its primary purpose is to communicate with all stakeholders in order to provide an exact account of expectations, responsibilities and achievements.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:211 scripts/structures.en.txt:155
+#, no-wrap
+msgid "// Slide 24\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:213
+#, no-wrap
+msgid "Thorough documentation has many benefits.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:215
+#, no-wrap
+msgid "It provides accountability - everyone should know what they are responsible for and also what others are responsible for.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:217
+#, no-wrap
+msgid "It ensures integrity - do what you say you will do, especially where sensitive data is concerned.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:219
+#, no-wrap
+msgid "It provides protection - a good plan helps you avoid scope creep and unexpected requests.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:221
+#, no-wrap
+msgid "It provides proof of compliance - allows you to show that you have followed the standards that you said you would\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:223
+#, no-wrap
+msgid "It enhances availability - your plan should be available, there shouldn't be anything hidden at this stage. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:225
+#, no-wrap
+msgid "It documents retention - How long will the data created by this project remain \"fresh\", what needs to happen to keep it up to date. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:227
+#, no-wrap
+msgid "It documents disposition - What is the ownership of the data created by the project? Who will be responsible for it after the end of the project.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:229
+#, no-wrap
+msgid "It encourages transparency - openly shared practical project plans feed back into the community and allow others to learn from your successes and failures.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:231
+#, no-wrap
+msgid "And it promotes teamwork - All stakeholders benefit from knowing how they fit into the bigger picture and the more of a sense of ownership that they, have the more likely your project is to succeed.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:233 scripts/structures.en.txt:161
+#, no-wrap
+msgid "// Slide 25\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:235
+#, no-wrap
+msgid "All of the resource elements that we have discussed in the previous section come together in the project documentation.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:237
+#, no-wrap
+msgid "The elements of your documentation overlap, let’s have a look at where in the documentation cycle each element appears.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:239
+#, no-wrap
+msgid "// Slide 26\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:241
+#, no-wrap
+msgid "We won’t cover much about the detail of creating a proposal, except to say that if it got you funding then you did a good job.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:243
+#, no-wrap
+msgid "The proposal will contain the high-level description of purpose and rationale and a good faith description of a workplan as achievable at the time of writing.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:246
+#, no-wrap
+msgid "The planning document or implementation plan on the other hand should give everyone involved at the start of the project a complete guide to how the project will actually get done.\n"
+"This is where you should include the practicalities, \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:248
+#, no-wrap
+msgid "workflows for specific goals\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:250
+#, no-wrap
+msgid "resource allocations to tasks\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:252
+#, no-wrap
+msgid "milestones and targets\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:254
+#, no-wrap
+msgid "// Slide 27\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:256
+#, no-wrap
+msgid "The planning document should be a living entity that the project manager revisits regularly as they keep track of milestones and approach checkpoints.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:258
+#, no-wrap
+msgid "Workflows should be adjusted and re-documented as the landscape changes, to make sure that interim goals are kept on track.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:261
+#, no-wrap
+msgid "If this is done, then Progress reports which occur at checkpoints throughout the project are easy to compile.\n"
+"Metrics can be reported and any changes in the project landscape highlighted for risk mitigation.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:263
+#, no-wrap
+msgid "// Slide 28\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:266
+#, no-wrap
+msgid "The compilation of the final report then becomes the less daunting task of summarizing the previous progress reports and the planning document.\n"
+"In a circular fashion your planning document now can be used in your next project proposal and has the benefit of being a tried and tested successful plan.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:268
+#, no-wrap
+msgid "// Slide 29\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:270
+#, no-wrap
+msgid "To review, the sections, “Clustering the Components” and “Elements of a Good Plan” we looked at three ways to arrange tasks together into feasible workflows:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:273
+#, no-wrap
+msgid "Groupings –are ways to divide a project into manageable stages based on specific criteria, for example time.\n"
+"They are helpful ways to determine milestones in planning documents and mark progress for interim reports.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:275
+#, no-wrap
+msgid "Task Clusters – were used to describe one of the most common sets of natural history digitization tasks and their ordering.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:277
+#, no-wrap
+msgid "While Workflows – where explained as ways for you to connect tasks and task clusters into logical sequences with criteria and logic to describe the actualities of day-2-day project working.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:280
+#, no-wrap
+msgid "Lastly we looked at how project documentation is a continuous process that begins with the proposal and should be considered task in its own right.\n"
+"Continuous refinement of your documentation is essential to the successful communication of your project at all stages and will help you and your team know what they should be doing at any particular time.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:282
+#, no-wrap
+msgid "You will learn more about documentation of our actual data in further session in this course.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:284
+#, no-wrap
+msgid "// Slide 30\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:286
+#, no-wrap
+msgid "In chapter 4 of the Hobbit, Bilbo and the unfortunate Dwarves are captured by goblins, chained together in the dark and led deep into the caverns and tunnels of the Misty Mountains. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:290
+#, no-wrap
+msgid "This may indeed be your first reaction to starting out on your practical plan, but remember that being physically clustered together made it easier for the dwarves to stay together and they escaped.\n"
+"It was by getting detached that Bilbo was lost.\n"
+"Of course he found the ring as result, but that’s another story for another time.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:292
+#, no-wrap
+msgid "// Slide 31\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/organizing.en.txt:297
+#, no-wrap
+msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
+" \n"
+"This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
+"The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:5
+#, no-wrap
+msgid "In this presentation, we will introduce you to the concept of Data Publishing.\n"
+"We will also introduce you to GBIF’s Integrated Publishing Toolkit.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:11
+#, no-wrap
+msgid "At this point in the course, you have moved through all the sections of mobilization project.\n"
+"Now you are ready to share your data.\n"
+"You’ve produced a cleaned and standardized dataset and you want to share and see that data on the GBIF data portal.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:16
+#, no-wrap
+msgid "But there is more to it than simply handing over a spreadsheet or a text file to GBIF.\n"
+"You must publish the data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:19
+#, no-wrap
+msgid "Data publishing is the act of making biodiversity datasets publicly accessible and discoverable, in a standardized form (ie Darwin Core), via an access point.\n"
+"This access point is a URL – a web address.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:24
+#, no-wrap
+msgid "Most organizations within the GBIF Network, otherwise known as publishers, make use of an IPT, the Integrated Publishing Toolkit, to publish their data.\n"
+"These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities.\n"
+"This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet.\n"
+"Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:26
+#, no-wrap
+msgid "If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:31
+#, no-wrap
+msgid "The definition on the previous Slide should probably be updated to include some words about waivers and licenses.\n"
+"The act of not only making the data accessible, but making it as open as possible.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:33
+#, no-wrap
+msgid "In an effort to document the level of openness of a dataset, GBIF maintains, in keeping with a 2014 decision by the GBIF governing board, that all data published and registered for use in the GBIF portal, must be issued with one of three Creative Commons options:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:37
+#, no-wrap
+msgid "CC0, a waiver for data made available for any use without any restrictions\n"
+"CC BY, a license for data made available for any use with appropriate attribution\n"
+"CC BY-NC, a license for data made available for any non-commercial use with appropriate attribution.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:39
+#, no-wrap
+msgid "Note that CC-BY-NC licences have a significant effect on the reusability of data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:42
+#, no-wrap
+msgid "GBIF encourages data publishers to choose the most open option they can wherever possible.\n"
+"Projects supported through GBIF-led funding must use either the CC0 or CC BY options.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:49
+#, no-wrap
+msgid "The Integrated Publishing Toolkit (IPT) is a free, open source software tool written in Java that is used to publish and share biodiversity datasets through the GBIF network.\n"
+"The first version of IPT was released in 2009.\n"
+"It was redesigned and rereleased in 2011.\n"
+"Since that time, the IPT has been updated periodically with new features, bug fixes and security improvements.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:51
+#, no-wrap
+msgid "While the IPT is maintained at GBIF, the community of biodiversity informatics developers are able to contribute to its development.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:53
+#, no-wrap
+msgid "Some of the features include:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:55
+#, no-wrap
+msgid "Main (but not only) publishing tool for GBIF.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:57
+#, no-wrap
+msgid "One IPT can host many datasets, on behalf of several institutions, each clearly represented\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:59
+#, no-wrap
+msgid "Test mode and production mode\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:61
+#, no-wrap
+msgid "Multilingual – it has been translated into 7 languages.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:64
+#, no-wrap
+msgid "It is a server-side software, so it needs a stable connection and requires technical administration.\n"
+"This is why many institutions choose to publish their data on hosted IPTs.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:66
+#, no-wrap
+msgid "You can find more information on data hosting on the GBIF website under the How-to menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:68
+#, no-wrap
+msgid "For the remainder of our course, we’ll be demonstrating and completing exercises using the IPT.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:72
+#, no-wrap
+msgid "We’re now putting together what you learned in the first two presentations in the Data Capture section on Standards and Darwin Core and Data Types.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:75
+#, no-wrap
+msgid "At its heart, the IPT is based on Darwin Core and the Darwin Core text guide and its recommendations for sharing data in a Darwin Core Archive.\n"
+"The Darwin Core contains three distinct data cores which match up to three of the dataset types that GBIF accepts.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:77
+#, no-wrap
+msgid "Keep in mind:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:79
+#, no-wrap
+msgid "Each dataset has one and only one Core file\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:81
+#, no-wrap
+msgid "Each Core file corresponds to a dataset type: occurrence, checklist or sampling event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:83
+#, no-wrap
+msgid "Each dataset can have one or more extensions file\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:85
+#, no-wrap
+msgid "The aim of an extension is to add new data fields not present in the core.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:88
+#, no-wrap
+msgid "Each entry in the core file is linked to zero, one or several rows in an extension file.\n"
+"Each row in an extension file reference one and only one row in the core file.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:90
+#, no-wrap
+msgid "Some examples:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:92
+#, no-wrap
+msgid "Core is Occurrence, no extensions\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:94
+#, no-wrap
+msgid "Core is Occurrence, with “multimedia” extension\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:96
+#, no-wrap
+msgid "Core is Occurrence, with Audubon core and measurementorfact extensions\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:98
+#, no-wrap
+msgid "Core is Taxon, no extensions\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:100
+#, no-wrap
+msgid "Core is Taxon, with species distribution extension\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:102
+#, no-wrap
+msgid "Core is Event with Occurrence and Measurementorfact extensions\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:110
+#, no-wrap
+msgid "The first core is the Occurrence Core.\n"
+"As a reminder, an occurrence dataset contains one individual or one group of individuals.\n"
+"Each row has a unique identifier, an occurrenceID.\n"
+"Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:118
+#, no-wrap
+msgid "The next option is the Taxon core.\n"
+"As a reminder, a checklist dataset contains taxonomic concepts, not individuals.\n"
+"It is a “A catalogue or list of named organisms, or taxa.” Each row will have a taxonID.\n"
+"Each taxon must be unique.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:124
+#, no-wrap
+msgid "The last option is the Event core.\n"
+"As a reminder, sampling event datasets allow data publishers to provide greater detail, not only offering evidence that a species occurred at a given location and date, but also making it possible to assess community composition for broader taxonomic groups or even the abundance of species at multiple times and places.\n"
+"By indicating the methods, events and relative abundance of species recorded in a sample, these datasets improve comparisons with data collected using the same protocols at different times and places—in some cases, even leading researchers to infer the absence of particular species from particular sites.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:127
+#, no-wrap
+msgid "Each row will have an EventID.\n"
+"Each event must be unique.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:132
+#, no-wrap
+msgid "This is a good point to review all of the fields required by GBIF.\n"
+"If required fields are not supplied, GBIF will have difficult indexing your dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:135
+#, no-wrap
+msgid "Each core has its own set of required and recommended fields for the dataset and for the associated dataset metadata.\n"
+"As you now know, metadata is the data about your data and it enables users to know if your dataset will be fit for their use.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:138
+#, no-wrap
+msgid "Don’t stop at the required and recommended fields.\n"
+"The more data you are able to share, the more useful your dataset can be to end users.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:140
+#, no-wrap
+msgid "You can find the data quality on the gbif website under the How-to menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:149
+#, no-wrap
+msgid "Extensions were introduced in the Standards presentation.\n"
+"Publishing a dataset is now where you will put them into use.\n"
+"As mentioned previously, GBIF maintains the list of approved and draft extensions on its tools subsite.\n"
+"The approved extensions can be enabled by an IPT administrator on a Production IPT.\n"
+"Draft extensions can be enabled by an IPT administrator on a Test IPT.\n"
+"If you know you have data that cannot be shared with Simple Darwin Core, it is worth reviewing the list of available extensions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:152
+#, no-wrap
+msgid "If you think an extension doesn’t exist, try reaching out to members of the TDWG community or posting on the Darwin Core issues site.\n"
+"Community members will help guide you.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:156
+#, no-wrap
+msgid "Also, in the standards presentation, you were introduced to Darwin Core Archives.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:158
+#, no-wrap
+msgid "This is an example of a Darwin Core archive with extensions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:160
+#, no-wrap
+msgid "It’s an occurrence dataset that has been published with images, determination history and genebank information.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:165
+#, no-wrap
+msgid "Until now, it may have been difficult to imagine how two single files can be related.\n"
+"A core with an extension can represent the following relationships.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:167
+#, no-wrap
+msgid "1:0\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:169
+#, no-wrap
+msgid "1:1\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:171
+#, no-wrap
+msgid "1:many\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:177
+#, no-wrap
+msgid "The core file will always contain unique records.\n"
+"In this example using the Taxon Core, each taxon is unique and is represented by a taxonID.\n"
+"In Vernacular Names extension file, each vernacular name is unique.\n"
+"The first three represent common names for the species Struthio camelus (1:many relationship).\n"
+"The fourth name represents the common name for the species Alectoris chukar (1:1 relationship).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:182
+#, no-wrap
+msgid "In this example the third and fourth taxons in the core file, do not have a match in the extension file.\n"
+"(1:0 relationship).\n"
+" \n"
+"// Slide 14\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:185
+#, no-wrap
+msgid "As we finish up this presentation, we’d like for you to begin exploring the IPT.\n"
+"In the e-Learning platform, you will find your login information and the location of the test IPT.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:188
+#, no-wrap
+msgid "Login and a take a look around.\n"
+"In the next presentation, you will watch a demonstration on how to use the IPT, after which you’ll be ready to try it yourself.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:192 scripts/standards.en.txt:289
+#, no-wrap
+msgid "Thank you.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:199
+#, no-wrap
+msgid "This presentation was originally created by Sophie Pamerlon with additional contributions by Nicolas Noe, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/publishing-concepts.en.txt:200 scripts/standards.en.txt:297
+#, no-wrap
+msgid "This presentation has been narrated by Laura Anne Russell.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:5
+#, no-wrap
+msgid "This session is part of the planning section.\n"
+"We will be introducing some concepts and methodologies that will help you to focus on the organization of your mobilization project at a number of levels.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:9
+#, no-wrap
+msgid "Good planning begins by defining the elements that will have an impact on your project and then understanding the interactions between them.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:11
+#, no-wrap
+msgid "In this section we will look at the different players that it is necessary to understand before you can effectively organize your project and a methodology to identify WHO the key players and resources are and WHAT they should be doing.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:13
+#, no-wrap
+msgid "The 5 key concepts we will look at are: Affiliations, Stakeholders, Roles, Tasks and Goals.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:20
+#, no-wrap
+msgid "First let us take a moment to understand the term Mobilisation.\n"
+"Mobilisation is the action of bringing resources into use to achieve a particular purpose or goal.\n"
+"In other words, to mobilize something, whether it be an expedition to the Antarctic or the publication of data, you will need to bring together available resources and assets and use them to achieve a defined “something”.\n"
+"To mobilize we must understand our resources.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:27
+#, no-wrap
+msgid "Let’s break this down this and look at the first part of the definition of the term mobilize and dig into what a RESOURCE is.\n"
+"In the context of biodiversity data mobilization there are two types of resource.\n"
+"The hardware that you will need to create or manipulate digital files (for example computers, cameras, lights, desks etc) and the people.\n"
+"The actual individuals who will work with and for the project.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:34
+#, no-wrap
+msgid "Specific hardware choices are unfortunately, outside of the scope of this presentation, but there are references to existing resources in the e-Learning platform, that may be helpful.\n"
+"Don’t be shy to ask your mentors and colleagues who have done similar projects for help.\n"
+"In general though, which hardware you need, depends on both the type of digitization being carried out (for example herbarium sheets or pinned insects etc) as well as the combination of people who will do the digitization and publication.\n"
+"Do NOT fall into the trap of buying equipment before identifying the people. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:39
+#, no-wrap
+msgid "So to the people.\n"
+"People come in many types and can be organized in may ways, and it is the connections between that will have the most impact on the successful completion of your mobilization project.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:41
+#, no-wrap
+msgid "They can be broadly grouped into 3 levels: AFFLIATIONS, STAKEHOLDERS and ROLES.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:44
+#, no-wrap
+msgid "Affiliations are very high level and most broadly represent the entity that is responsible for the management and pay of the team or individual.\n"
+"They are often strategic in nature.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:47
+#, no-wrap
+msgid "Stakeholders are groups or teams who may or may not be part of a formal management structure.\n"
+"They share an affiliation and a tactical theme.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:49
+#, no-wrap
+msgid "Roles in this context, represent jobs or positions with a title that an individual may hold.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:53
+#, no-wrap
+msgid "Three affiliations are commonly a part of the biodiversity data mobilization landscape.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:56
+#, no-wrap
+msgid "An “INSTITUTIONAL” affiliation usually accounts for teams who work for the institution that is running the project.\n"
+"In the context of the project they are NOT specifically paid by the project. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:58
+#, no-wrap
+msgid "A “PROJECT” affiliation covers those teams that ARE specifically paid by the project for any part of their time.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:61
+#, no-wrap
+msgid "Those teams or groups who do not work for the institution and are not paid by the project specifically, but whose input is required for success, have an “EXTERNAL” affiliation.\n"
+"Three often encountered examples of these are Local Government, Regional Government and NGOs.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:64
+#, no-wrap
+msgid "Knowing the affiliations of the teams working on your project will give you a good idea of any potentially competing or supporting strategic goals, priorities, projects and agenda’s.\n"
+"It is often at this level that long to medium term plans and policies come into play, such as Laws, Intellectual Property Rights, and Retention Policies which can have a high impact on your project and its goals.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:72
+#, no-wrap
+msgid "Stakeholders represent the next level of the WHO in your project. \n"
+"These are most often the tactical units within a shared affiliation.\n"
+"They have responsibility for day to day running such as managing infrastructure, curating the collection, doing the research and paying the bills.\n"
+"Stakeholders may or may not be part of the same formal management structure but they share an affiliation and come together to do something practical.\n"
+"It is important to remember that no two affiliations organize their stakeholder groups in the same way you should never assume that someone else’s structure is the same as yours.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:81
+#, no-wrap
+msgid "Each stakeholder group is made up of one or more Roles.\n"
+"Roles in this context represent jobs or positions with a title that an individual may hold.\n"
+"Each of these roles is held by a real person who will have at least one role.\n"
+"It is important to understand how these roles are distributed across the different stakeholder groups.\n"
+"Be aware that a named role at your institution may not be in the same stakeholder group somewhere else.\n"
+"In some case even though the name of the role may be the same they may have different responsibilities.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:86
+#, no-wrap
+msgid "There is one particular role that we should spend a little time on.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:88
+#, no-wrap
+msgid "The project manager.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:90
+#, no-wrap
+msgid "This is the person who must: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:92
+#, no-wrap
+msgid "Keep track of Scope, Manage, control and mitigate Change of everything.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:94
+#, no-wrap
+msgid "Articulate and keep track of the planning process by turning high-level information into detailed executable plans.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:96
+#, no-wrap
+msgid "Follow through on the Management of the project team so they can meet the project objectives.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:98
+#, no-wrap
+msgid "Monitor and control the work of producing the products, and results that the project has committed to and ultimately be responsible for the Success of the project as measured by quality, timeliness and budget compliance.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:102
+#, no-wrap
+msgid "The second element of the definition of the term mobilize is USES.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:104
+#, no-wrap
+msgid "These work tasks represent WHICH things you will need to do, in order to successfully do what you said you would do. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:107
+#, no-wrap
+msgid "The specific set of tasks carried out by the individuals assigned to the roles and working on your project, is dependent on the type of digitization that you need to do in order to create your publishable dataset. \n"
+"However, they will most likely include some or all of the following tasks: Specimen/Object Staging, Curation, Data Review, Database Review, Image Capture, Transcription, Data Cleaning, Quality Checking, Georeferencing and Publishing.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:114
+#, no-wrap
+msgid "Once identified, tasks will need to be scheduled and ordered to be effective.\n"
+"There are many way to arrange tasks, some of course will be more efficient than others.\n"
+"We will look more closely at the application of several methods for manging TASKS for data mobilization in the session on ORGANISING.\n"
+"These will include: Groupings, Clustering and Workflows.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:117
+#, no-wrap
+msgid "Remember that whilst there is no perfect ”one size fits all”, digitization activities most have been tried at least once by someone else! \n"
+"There are many existing repositories of digitization protocols available online, and many are included in the course resources in the eLearning platform.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:121
+#, no-wrap
+msgid "The third and final element of the definition is the outcome or outcomes.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:127
+#, no-wrap
+msgid "GOALS are the “WHAT are you going to do” of the project, and will have been established in the original project proposal.\n"
+"In fact this is actually the place to start.\n"
+"Clearly re-articulating the stated deliverables of a project and when they are due is the critical first step in creating a successful implementation plan.\n"
+"Time should also be spent documenting any implied goals.\n"
+"Whilst these are often more difficult to metricize, they often speak directly to the sustainability of the project and its impact outside of its target audience.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:131
+#, no-wrap
+msgid "Examples of explicit stated data mobilization goals are: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:133
+#, no-wrap
+msgid "Publishing Data to GBIF and doing it regularly; \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:135
+#, no-wrap
+msgid "Inclusion of additional supporting metadata over and above the basic fields if available; \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:137
+#, no-wrap
+msgid "Taking Images of an object/specimen from from multiple angles, or using advanced techniques such as; CT Scanning or Electron Microscopy; \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:139
+#, no-wrap
+msgid "Imaging all specimens in a collection as opposed to just of type specimens;  \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:141
+#, no-wrap
+msgid "Georeferencing rather than verbatim transcription of localities; Creating and Maintaining your own IPT.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:143
+#, no-wrap
+msgid "More implied but equally important goals include: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:145
+#, no-wrap
+msgid "Increased public awareness of local issues.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:147
+#, no-wrap
+msgid "The ability to use a successful project as evidence of capacity and expertise when applying for further funding.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:149
+#, no-wrap
+msgid "Use of mobilised datasets to effect data driven policy change.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:153
+#, no-wrap
+msgid "You should break down high level implied or indirect goals into the direct deliverables that will move you towards your goals.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:155
+#, no-wrap
+msgid "For example if your goal is CAPACITY ENHANCEMENT then you could have specific achievements that may include setting up a regional IPT that can used by multiple institutions that cannot host their own or the training of collections staff to create and update their own ipt resources for publication.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:157
+#, no-wrap
+msgid "If the goal is INCREASED PUBLIC OUTREACH deliverables could include increased visitation to your collections web pages or increased number of observations by locals and citizen scientists. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:159
+#, no-wrap
+msgid "In this way it becomes possible to track the progress of the goal and ultimately report on its success.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:163
+#, no-wrap
+msgid "Having defined your goals, gathered your resources and organised your tasks you are now in a position to document the landscape and realistically assess where gaps, bottlenecks and barriers may exist in your implementation plan.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:166
+#, no-wrap
+msgid "One way to do this is take your list of existing stakeholders, associate roles to them and then assign to each role the tasks that you have decided they will need to carry out.\n"
+"If any stakeholder or role seems to have too many tasks then this is likely to become a bottleneck in your project.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:169
+#, no-wrap
+msgid "A task with no assigned role indicates a a gap. \n"
+"Effective early assessment of resources should mitigate capacity and practical barriers whilst identifying competing goals and conflicting affiliation will help to avoid cultural and institutional barriers.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:171
+#, no-wrap
+msgid "You will see more on this process in the online planning exercises.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:175
+#, no-wrap
+msgid "In review, good planning begins by defining the elements that will have an impact on your project and understanding the interactions between them.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:177
+#, no-wrap
+msgid "We have looked at the classifications of individuals and groups of people; and the ways in which they interact which each other that may support or block progress in the completion of your project.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:179
+#, no-wrap
+msgid "We then briefly discussed the need to identify the practical tasks that will need to be accomplished.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:181
+#, no-wrap
+msgid "Lastly, and arguably most significantly, we emphasized that a workable implementation plan begins with a thorough review of the goals and deadlines of the project.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:185
+#, no-wrap
+msgid "Using the criteria we have discussed you should now be able to assess the environment that your project exists within now in three steps: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:188
+#, no-wrap
+msgid "First review your goals.\n"
+"Do you know exactly what you need to do and when? \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:192
+#, no-wrap
+msgid "Second, research tasks similar to yours.\n"
+"Has anyone else in the community done a similar project? \n"
+"What did they use? \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:197
+#, no-wrap
+msgid "Lastly review available resources.\n"
+"Start with the people.\n"
+"Who do have to help you? \n"
+"Only then see what equipment is already available and what you need to buy?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:203
+#, no-wrap
+msgid "Hopefully, the proposal project design, and the landscape in which is was scoped are still valid at implementation time.\n"
+"This should however, never be taken for granted.\n"
+"Things change.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:207
+#, no-wrap
+msgid "It is often the case that many months (and sometimes years) will have passed between the original submission, funding and project start.\n"
+"The original project staff may even no longer be involved.\n"
+"It is imperative therefore, that the deliverables as stated in the proposal are reviewed critically before implementation, before any hardware is bought or tasks begun.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:209
+#, no-wrap
+msgid "To paraphrase Gandalf in the book The Hobbit, you don’t need “a mighty warrior” or “even a Hero” to kill a dragon; you just need to “get on and make some plans”.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:212
+#, no-wrap
+msgid "Whilst you may find some warriors to fight your cause, and a hero or two to help you out of a problem along the way, you shouldn’t rely only on them.\n"
+"Knowing who the stalwart troopers and quietly reliable ones in your team is more likely to get you to the finish line on time, on target and within budget.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/resourcing.en.txt:219
+#, no-wrap
+msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
+" \n"
+"This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
+"The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:5
+#, no-wrap
+msgid "This session is foundation work and part of the Terminology section. \n"
+"We will be introducing you to types of software used in data mobilization.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:10
+#, no-wrap
+msgid "The purpose of this short presentation is to give you some examples of the different types of applications and software available in the world of biodiversity mobilization informatics. \n"
+"Hopefully it will help you to start to think about what uses they may be put too and what types of things might be practical for you.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:16
+#, no-wrap
+msgid "So very briefly, a definition. \n"
+"We are making a distinction here between all software and those applications which have been created for an end-user to carry out a task. \n"
+"We will take a look at software that can be used for: Data Capture, Data Management, Data Cleaning and Data Publishing.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:24
+#, no-wrap
+msgid "In the realm of data capture software, there is often no need to go ìbigî when capturing information initially, especially in the field. \n"
+"You can capture information from collection specimens or live observations in a simple spreadsheet such as Excel, OpenOffice, LibreOffice or Google Sheets. \n"
+"There may even not be a need to create your own system at all. \n"
+"Apps such as iNaturalist, or eBird are stable, robust and have simple intuitive interfaces. \n"
+"Whichever the choice, it is important to think about the long term preservation of the data that you collect.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:32
+#, no-wrap
+msgid "So, depending on your needs, a more complex data management software might be the right solution for your data. \n"
+"Especially if long term retention and preservation is a priority. \n"
+"More stable management platforms also better support sharing of data to multiple audiences. \n"
+"There are many choices which vary in terms of cost and support and a few are shown here.\n"
+"From left to right: Symbiota, Specify, EMu, Elysia and Brahms.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:37
+#, no-wrap
+msgid "If a home-grown solution is preferred and can be supported, relational database software can provide cheaper alternatives. \n"
+"Examples incluse MySQL, SQLServer, Access or filemaker.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:48
+#, no-wrap
+msgid "Increasingly the lines between languages, programs and tools have blurred, each being capable of many complex and overlapping functions.\n"
+"The common Find and Replace function is a good example of a data cleaning tool that is found in almost all database programs and is a command in database languages. \n"
+"You are probably already familiar with spreadsheets such as Excel and indeed these are probably the most common data cleaning tools available. \n"
+"However there are others. \n"
+"OpenRefine originally known as GoogleRefine is a powerful free, open source data cleaning tool with a large support community. \n"
+"You will see more of this program in upcoming sessions.  \n"
+"R is another increasingly used, sophisticated programming language and environment. \n"
+"With a little practice it can also provide powerful data manipulations.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:57
+#, no-wrap
+msgid "Planning further ahead to the sharing of your data through GBIF to the international scientific and deciders community you will need to choose a publishing tool. \n"
+"The choice will depend largely on the level of infrastructure support at your institution.\n"
+"If this is high and stable, installing an IPT or BioCASe application may be the right option. \n"
+"But there are others if this is not the case. \n"
+"You can consider partnering with an existing ipt provider or selecting a database management system that includes a publishing pathway of its own. \n"
+"Whichever you choose, make sure that your system allows you to export data as csv or txt files and you will ultimately be able to publish your data. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:62
+#, no-wrap
+msgid "This is a summary of the information collected in the course survey of software in use by students, mentors and trainers in the GBIF community. \n"
+"The link and reference to more details of each section, is at the bottom of the slide.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:66
+#, no-wrap
+msgid "Remember that: The purpose of software is to help people and not the other way around. Your choice of solution should make your life easier but it should also not sacrifice the long term viability of the data that it is meant to work with.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/software.en.txt:72
+#, no-wrap
+msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform. \n"
+"This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
+"The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
+"This presentation was originally created by Sophie Pamerlon and is narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:5
+#, no-wrap
+msgid "In this presentation, we will introduce you to data standards as they relate to biodiversity data. \n"
+"In particular, we will focus on the Darwin Core standard.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:9
+#, no-wrap
+msgid "The engineer and industrialist W. Edwards Deming said:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:12
+#, no-wrap
+msgid "“Standardisation does not mean that we all wear the same colour and weave of cloth, eat standard sandwiches, or live in standard rooms with standard furnishing. \n"
+"Homes of infinite variety of design are built with a few types of bricks, and with lumber of standard sizes, and with water and heating pipes and fitting of standard dimensions.” \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:15
+#, no-wrap
+msgid "What he was trying to say is that using standardization does not prevent us from being creative. \n"
+"He was also showing us that we already live with standards all around us.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:18
+#, no-wrap
+msgid "As we move forward, we will define the term “Standard” and we’ll look at how we interact with standards every day. \n"
+"We will then introduce you to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:22
+#, no-wrap
+msgid "So what is a Standard?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:24
+#, no-wrap
+msgid "At its simplest, it is:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:26
+#, no-wrap
+msgid "“An agreed way of doing something.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:30
+#, no-wrap
+msgid "Standards are combinations of norms, conventions, specifications, requirements, restrictions, and rules.\n"
+" \n"
+"// Slide 4\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:33
+#, no-wrap
+msgid "The main purpose for standards is to create a framework of “mutual understanding”. \n"
+"They should provide clarity and help communication.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:35
+#, no-wrap
+msgid "Examples of everyday things that we encounter which make use of standards to aid communication of information are:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:37
+#, no-wrap
+msgid "Units of Measurement\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:39
+#, no-wrap
+msgid "Numeral Systems\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:41
+#, no-wrap
+msgid "Alphabets\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:43
+#, no-wrap
+msgid "Languages\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:45
+#, no-wrap
+msgid "Emojis\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:47
+#, no-wrap
+msgid "Postal Addressing\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:49
+#, no-wrap
+msgid "Morse Code\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:51
+#, no-wrap
+msgid "Barcoding\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:56
+#, no-wrap
+msgid "Let’s take a very specific example and break it down. \n"
+"Here in order to communicate accurately and repeatedly a position on the earth – a latitude and longitude – is actually a combination of at least 8 standards.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:58
+#, no-wrap
+msgid "measurement - geographic coordinates \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:60
+#, no-wrap
+msgid "format - degrees, minutes, seconds\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:62
+#, no-wrap
+msgid "numeric system - sexagesimal\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:64
+#, no-wrap
+msgid "numbers - Indo-Arabic\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:66
+#, no-wrap
+msgid "language - English\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:68
+#, no-wrap
+msgid "alphabet - Latin\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:70
+#, no-wrap
+msgid "symbols - typography\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:72
+#, no-wrap
+msgid "font - Roboto\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:78
+#, no-wrap
+msgid "Standards provide ways of constraining the array of possibilities. \n"
+"In the earlier Foundations presentations, you learned about types of data, schemas, formats and character encodings. \n"
+"Each of these can be used to constrain the array of possibilities within the terms of a Standard.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:82
+#, no-wrap
+msgid "Types of data can restrict the values of a field. \n"
+"So alphanumeric text in a text field, decimals in a float. \n"
+"Yes/No in a Boolean.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:85
+#, no-wrap
+msgid "An encoding schema can restrict the range of values in a field. \n"
+"For example, the list of possible latitude values have a range: between -90 and 90.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:88
+#, no-wrap
+msgid "A format can restrict the representation of a data in a field. \n"
+"For example, whether a data appears as year month day, or day month year, or month day year.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:91
+#, no-wrap
+msgid "And then, character encoding provides the rules for interpreting bytes of data. \n"
+"For our purposes, we’ll use UTF-8.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:96
+#, no-wrap
+msgid "During this course, you will be learning how to share your data. \n"
+"As such, you will encounter standards for transferring data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:100
+#, no-wrap
+msgid "An application schema, allows for the combination of data standards for a specific purpose. \n"
+"For example, using Darwin Core terms within Darwin Core Archives. \n"
+"We’ll delve more into both in just a few moments.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:103
+#, no-wrap
+msgid "Again, you will make use of format, but this time the format restricts dataset structures. \n"
+"A dataset may make use of csv, xml, json and rdf.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:106
+#, no-wrap
+msgid "And lastly, you will have a transfer protocol, which provides information on how and where to send information. \n"
+"These might include http (hypertext transfer protocol), ftp (file transfer protocol), and smtp (simple mail transfer protocol or if you like, send mail to people).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:112
+#, no-wrap
+msgid "In the domain of biodiversity informatics there are many standards already available that can help you work with your data. \n"
+"The USGS has a very specific definition of these:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:115
+#, no-wrap
+msgid "“Data standards are the rules by which data are described and recorded. \n"
+"In order to share, exchange, and understand data, we must standardize the format as well as the meaning.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:117
+#, no-wrap
+msgid "The result of using these standards, where appropriate, is that you will increase data integrity, accuracy and consistency by clarifying ambiguous meaning and minimizing redundant data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:119
+#, no-wrap
+msgid "Those that you are likely to encounter or use on a regular basis may include:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:121
+#, no-wrap
+msgid "Ecological Metadata Language Standard (EML) \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:123 scripts/standards.en.txt:236
+#, no-wrap
+msgid "Audubon Media Description (aka Audubon Core)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:125
+#, no-wrap
+msgid "Global Genome Biodiversity Network(GGBN)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:127
+#, no-wrap
+msgid "Ocean Data Standards and Best Practices Project (ODSBP)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:130
+#, no-wrap
+msgid "And last, but not least, we’ll spend the rest of this discussion on Darwin Core. \n"
+"The Darwin Core standard will allow you to share your occurrence, taxonomic, and event datasets.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:137
+#, no-wrap
+msgid "Darwin Core is a biodiversity standard developed by the Biodiversity Informatics community. \n"
+"It was originally developed under the Taxonimic Databases Working Group or T D W G, pronounced TDWG. \n"
+"In recent years, the group has been renamed, Biodiversity Information Standards. \n"
+"But the acronym persists as the community is quite fond of the name TDWG.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:140
+#, no-wrap
+msgid "“The standard includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. \n"
+"Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:142
+#, no-wrap
+msgid "So in short, Darwin Core is a “List of fields and their definitions, as they relate to biodiversity data.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:145
+#, no-wrap
+msgid " \n"
+"// Slide 10\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:148
+#, no-wrap
+msgid "As we dive deeper into Darwin Core or as it is abbreviated, DwC, you’ll learn it is more than JUST a list of fields. \n"
+"We will use Simple Darwin Core which is a predefined subset of the terms that have common use across a wide variety of biodiversity applications.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:150
+#, no-wrap
+msgid "This subset contains greater than 150 fields, that are placed into a set of field classes comprised of:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:152
+#, no-wrap
+msgid "Record & Dataset\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:154
+#, no-wrap
+msgid "Occurrence\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:156
+#, no-wrap
+msgid "Organism\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:158
+#, no-wrap
+msgid "Material Sample\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:160
+#, no-wrap
+msgid "Event\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:162
+#, no-wrap
+msgid "Location\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:164
+#, no-wrap
+msgid "Geological Context\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:166
+#, no-wrap
+msgid "Identification\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:168
+#, no-wrap
+msgid "Taxon\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:170
+#, no-wrap
+msgid "Additionally, there are two auxiliary classes called:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:172
+#, no-wrap
+msgid "ResourceRelationship\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:174
+#, no-wrap
+msgid "MeasurementOrFact\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:176
+#, no-wrap
+msgid "From the Simple Darwin Core User Guide, “Simple Darwin Core is simple in that it assumes (and allows) no structure beyond the concept of rows and columns, which might be thought of as attributes and their values, or fields and records.”\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:182
+#, no-wrap
+msgid "The DwC Quick Reference Guide will soon become your go to resource. \n"
+"This page provides a list of all currently recommended terms of the Darwin Core standard. \n"
+"Categories such as Occurrence or Event correspond to Darwin Core classes which group other terms.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:185
+#, no-wrap
+msgid " \n"
+"// Slide 12\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:189
+#, no-wrap
+msgid "We now will look at some examples of Darwin Core terms. \n"
+"The quick reference guide, consistently displays each term with the identifier name, definition, comments and examples. \n"
+"The first terms we’ll review are Country and CountryCode within the Location category.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:195
+#, no-wrap
+msgid "Generally, data holders have a field for country within their source data. \n"
+"But often this data can be quite messy with misspellings, abbreviations, and historical names. \n"
+"However, it is one of the most easily standardized pieces of data. \n"
+"As noted in the comments, the recommended best practice is to use a controlled vocabulary such as the Getty Thesaurus of Geographic Names. \n"
+"A controlled vocabulary places restriction on the values that should be used for that term.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:198
+#, no-wrap
+msgid "CountryCode is a term that is generally not present in holder data. \n"
+"But again, it is another field that can easily be supplied with data due to the recommendation in the comments to use an ISO 3166-1-alpha-2 country code.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:201
+#, no-wrap
+msgid "GBIF strongly recommends the sharing of CountryCode within occurrence datasets. \n"
+"Sharing of Country is also encouraged.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:203
+#, no-wrap
+msgid "You will learn more about the GBIF requirements and recommendations in later sessions.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:211
+#, no-wrap
+msgid "The next term is basisOfRecord. \n"
+"basisOfRecord defines the nature of each record in a dataset. \n"
+"BasisOfRecord follows a controlled vocabulary. \n"
+"You can choose from PreservedSpecimen, FossilSpecimen, LivingSpecimen, MaterialSample, Event, HumanObservation, MachineObservation, Taxon, or Occurrence. \n"
+"GBIF requires basisOfRecord with published occurrence datasets.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:225
+#, no-wrap
+msgid "The last term we will review is occurrenceID. \n"
+"When publishing occurrence records, GBIF requires an occurrenceID. \n"
+"An occurrenceID is an identifier for the occurrence itself, not the digital record of the occurrence. \n"
+"Recommended best practice is to use a globally unique identifier otherwise known as a GUID. \n"
+"In the absence of a GUID, a unique identifier can be comprised of other identifiers within the dataset. \n"
+"For example institutionCode, collectionCode, and catalog number. \n"
+"We call this a triplet. \n"
+"There are tools on the internet that can help you to generate GUIDs for your records. \n"
+"If you use this method, these GUIDs should become a permanent field within your source data identifying each record. \n"
+"For the work done in this course, you will create a triplet. \n"
+"The format will follow the third example here highlighted in red.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:228
+#, no-wrap
+msgid " \n"
+"// Slide 15\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:234
+#, no-wrap
+msgid "In using Simple Darwin Core, you may discover that you have more data to share but you cannot find corresponding terms in DwC. \n"
+"This data could be image or sound files or perhaps you are responsible for a collection of vertebrates and you have extensive data compiled on the weights and size of the specimens. \n"
+"Or even detailed historical information on the identification of a taxon. \n"
+"When this occurs, you will look to Darwin Core extensions so that you can extend the base data by providing additional files that correspond to the base data. \n"
+"Extensions that would meet your needs in these three examples are:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:238
+#, no-wrap
+msgid "Measurements or Facts\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:240
+#, no-wrap
+msgid "Identification History\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:243
+#, no-wrap
+msgid "There are many more extensions. \n"
+"GBIF maintains a list of all approved and draft extensions on its tools subsite.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:248
+#, no-wrap
+msgid "There are many layers in our biodiversity informatics community. \n"
+"The image here shows the relationships between these layers and where they intersect with the Darwin Core and where extensions maybe necessary in order to fully share data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:252
+#, no-wrap
+msgid "Data shared to GBIF is submitted via a Darwin Core Archive or DwCA\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:256
+#, no-wrap
+msgid "A DwCA is an expression of the Darwin Core text guide. \n"
+"It is a compressed file containing a minimum of three files. \n"
+"It is encoded as UTF-8. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:259
+#, no-wrap
+msgid "In this example, these three files are: \n"
+msgstr ""
+
+#. type: Bullet: '1.	'
+#: scripts/standards.en.txt:261
+#, markdown-text, no-wrap
+msgid "A data file (occurrence.txt) conforming to the SIMPLEDWC in a CSV format where the first row includes Darwin Core standard term names.\n"
+msgstr ""
+
+#. type: Bullet: '2.	'
+#: scripts/standards.en.txt:263
+#, markdown-text, no-wrap
+msgid "A meta file (meta.xml) in XML format containing technical details to instruct a computer in how to use the data file.\n"
+msgstr ""
+
+#. type: Bullet: '3.	'
+#: scripts/standards.en.txt:265
+#, markdown-text, no-wrap
+msgid "A meta file (eml.xml) in an XML format containing explanatory details about the records contained within the data file to instruct a user if the data will be fit for their use.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:269
+#, no-wrap
+msgid "A more complex structure can be obtained by sharing multiple related csv files to extend the data. \n"
+"They are related to the core file by way of a unique id. \n"
+"In an occurrence dataset, these related csv files are related by the occurrenceID.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:272
+#, no-wrap
+msgid " \n"
+"// Slide 18\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:274
+#, no-wrap
+msgid "We’ve covered What Darwin Core Is and hopefully you’ve started to develop a sense of why you should use it.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:276
+#, no-wrap
+msgid "It is a standard and standards are good! Standards provide us with the rules and protocols we need to share our data with others.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:281
+#, no-wrap
+msgid "Darwin Core also provides us with a common language. \n"
+"As we saw in the Foundations – Documentation presentation, source data can be tricky when trying to compare datasets. \n"
+"The fields in your source data might be different than the fields in another institutions data source. \n"
+"When we all use Darwin Core to share our data, we understand that data has been shared with a common language.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:285
+#, no-wrap
+msgid "// Slide 19\n"
+"And it’s not only the data holders that understand this common language, the data users do as well. \n"
+"And after all, what could be better than a user finding a data set that is fit for their use, shared in a common language, that allows them to do better science.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/standards.en.txt:296
+#, no-wrap
+msgid "This presentation was originally created by Paula Zermoglio and John Wieczorek with additional contributions by Sharon Grant, Sophie Pamerlon, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:5
+#, no-wrap
+msgid "This session is foundation work and part of the Terminology section. \n"
+"We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:10
+#, no-wrap
+msgid "First let us review the structure of this session. \n"
+"In the section on STRUCTURES we will be working on understanding the field and data types that hold data, the structures that help to organize and protect that data and lastly look at what these mean for the integrity and security of your data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:14
+#, no-wrap
+msgid "In this section on basic database Structures, we will focus on the different elements that databases, software tools and languages use to handle the data that you enter.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:18
+#, no-wrap
+msgid "First, let us look at field types, also known as data types.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:26
+#, no-wrap
+msgid "Data Types let the computer know what kind of data is expected in a particular field. \n"
+"This then dictates what functions can be performed on it. \n"
+"They can be simple and encompass a single concept or combine concepts depending on the software or language you are using. \n"
+"Either way the essential building blocks are the same. \n"
+"So let us look at six that you will come across most frequently.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:39
+#, no-wrap
+msgid "First Numeric fields. \n"
+"This data type holds numbers, and there are 2 kinds: Integers and long integers, and whole numbers. \n"
+"For example 1, 2, 3, 99, 2000.\n"
+"The size of the number, depends on the number of bits assigned to the field (more about that later). \n"
+"For now just remember that a long integer field will hold a bigger number than an integer.\n"
+"Floats, also referred to as doubles, hold fractions or parts of whole numbers. \n"
+"For example 4.5, 19.47. \n"
+"The important thing to remember here is that a float always has decimal places so the number 10 will be stored as 10.0. \n"
+"The number of decimal places being an integral element of the type. \n"
+"This has implications when it comes to precision and accuracy.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:45
+#, no-wrap
+msgid "Alphanumeric fields are also referred to as text, character or string fields. \n"
+"They can hold any letter, number or symbol in the coded character set and usually have a defined character limit. \n"
+"Entering more characters than the character limit can often result in truncation and loss of data on save.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:52
+#, no-wrap
+msgid "Another type of text field that you will come across is the Unstructured text field, also known as memo, long char or blob fields. \n"
+"These types of field are used to hold large amounts of unformatted text and unlike alphanumeric fields may not have an obvious character limit. \n"
+"In simple systems, they are generally less flexible in terms of processing; for example sorting and indexing, than their smaller alphanumeric cousins. \n"
+"With decreased storage costs and the rise of NoSQL document-oriented database programs, such as MongoDB however, this is changing.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:64
+#, no-wrap
+msgid "System Value fields have a double nature and what you see on the screen is not usually the actual value that the software is storing in memory. \n"
+"Date and time fields are the most common example of this type of field. \n"
+"In this example you typed 1 March 1971 into a cell in Excel and hit return. \n"
+"Now it says 1-Mar-71 in the cell AND 3/1/1971 in the functionbar.\n"
+"Excel is applying a display format to the cell, which you can change at will. \n"
+"HOWEVER, if you remove the format you see that what is actually being stored in the field is the number 25993.00! \n"
+"So you can see that the field is actually a float. \n"
+"You should beware because that system value not be the same from software to software.\n"
+"Exports should to checked to make sure the actual date is exported and not the system value.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:71
+#, no-wrap
+msgid "Boolean fields ñ also known as Binary fields only contain one of two values that represent a one or a zero. \n"
+"They are a special case of a System Value field as mentioned previously in that whilst the software actually saves a number it often displays values such as: Yes/No, Yes/no, Y/N, True/False.\n"
+"You should take care to find out which way around the system you are using translates. \n"
+"Is a 1 a yes or no?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:78
+#, no-wrap
+msgid "Structured Text fields are less common but mentioned here for completeness. \n"
+"They are fields which can be either made up of combinations of the simple data types or even be defined by the data itself. \n"
+"Most often these are used in programming languages to allow flexibility and handling of complex concepts. \n"
+"An example is the factor field used in the R programming language, which is defined as a type vector containing a set of numeric codes with character-valued levels.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:82
+#, no-wrap
+msgid "Now that you have an understanding of the field types used to represent your data elements let us talk about the containers or structures, that many database programs and software use collate and display your data.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:87
+#, no-wrap
+msgid "First is the cell. \n"
+"This is the smallest data structure, it holds a single value and has a single data type associated with it.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:93
+#, no-wrap
+msgid "There is one concept that you should beware of when it comes to cells and that is the empty cell. An empty cell doesn't necessarily mean an empty field.\n"
+"Some software fills an empty field with a System value based on the data type. \n"
+"Examples are NULL N A or even zero!\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:98
+#, no-wrap
+msgid "As you start to organize cells you begin to build a grid. \n"
+"Grids have implied structure in the form of Rows.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:102
+#, no-wrap
+msgid "And columns.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:109
+#, no-wrap
+msgid "When you organize cells into rows and columns, obviously, what you get is a grid!\n"
+"This is looks very much like a spreadsheet right? \n"
+"Well, yes. \n"
+"The difference however between a spreadsheet grid and a table are the strength of the ties that hold the rows and columns together.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:114
+#, no-wrap
+msgid "So let us now talk about those connections. \n"
+"What the implications for the integrity and security of your data of loose unenforced relationships between rows and columns?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:124
+#, no-wrap
+msgid "What actually makes a table useful are the connections that we create to give the data in the structure meaning. \n"
+"We intrinsically make patterns of attributes that turns data into information. \n"
+"Rows become records and Columns become attributes. \n"
+"In a spreadsheet however, the connections between cells are idiomatic, loose and un-enforced. \n"
+"It is easy for the attributes between the rows to get jumbled up or for the values get changed and then the meaning is lost.\n"
+"`\n"
+"// Slide 20\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:130
+#, no-wrap
+msgid "This lack of enforced connections makes a spreadsheet easy to use but these same qualities also cause problems. \n"
+"Errors are easy to make and hard to catch -- Connections and relationships are not documentable and so subject to interpretation and mutation. \n"
+"Spreadsheets are not built to scale either in terms of size or numbers of users -- So can be slow, crashy and easily corruptible. \n"
+"Spreadsheets are easy to copy and email -- So they are hard to version and keep track of.\n"
+"The question is what is the solution?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:141
+#, no-wrap
+msgid "Let us look back, at the connections in a bit more detail. \n"
+"We generally understand that the data in each row of a table means something. \n"
+"For example each row can represent a specimen or a taxa that was found at a particular place, at a particular time, by a particular person. \n"
+"It would be odd to have one row in a table that represents a specimen followed by a row that represents a collection site. \n"
+"We also often want to analyse, sort and compare values of particular attributes between rows. \n"
+"For example you may want find the mean weight of all the Kenyan bats. \n"
+"So ideally we want to use a system to store our data that: 1) always holds the rows together; 2)does not mix data types; 3) and segregates data in each table to a single concept or theme. \n"
+"These are functions of a database!\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:148
+#, no-wrap
+msgid "Functions in a true database inherently bind rows together and columns may only have a single data type. \n"
+"Tables in database are held together by virtual links called keys. \n"
+"These keys are identifiers that match between tables and allow data to be connected efficiently. \n"
+"It is these 2 key concepts that distinguish a spreadsheet from a database.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:153
+#, no-wrap
+msgid "In review then, we have looked at the 6 most common data types, the basic building blocks of data structure and distinguished between a spreadsheet grid and database table.\n"
+"Understanding these elements and how they interact with one another will allow you to better determine the best ways to manipulate and document the data that falls under your custodianship.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:159
+#, no-wrap
+msgid "Remember that: When you realize the difference between the container and the content, you will have knowledge. \n"
+"Using the correct terms to describe both your data and the structures that you create and use to store it; is the most important way to ensure that it remains relevant and useable.\n"
+"Never underestimate how much damage can be done to priceless information by careless descriptions and storage.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/structures.en.txt:165
+#, no-wrap
+msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform. \n"
+"This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
+"The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
+"This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
 msgstr ""
 
