@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-07 13:37+0000\n"
+"POT-Creation-Date: 2021-04-07 13:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1591,7 +1591,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:70 capture.en.adoc:44 management.en.adoc:26
-#: publishing.en.adoc:33
+#: publishing.en.adoc:43
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
 msgstr ""
 
@@ -1792,7 +1792,7 @@ msgstr ""
 
 #. type: Title ===
 #: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:140
-#: publishing.en.adoc:44
+#: publishing.en.adoc:54
 #, no-wrap
 msgid "Review"
 msgstr ""
@@ -1930,7 +1930,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:53 management.en.adoc:42 management.en.adoc:67
-#: management.en.adoc:83 publishing.en.adoc:43
+#: management.en.adoc:83 publishing.en.adoc:53
 msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr ""
 
@@ -2430,14 +2430,43 @@ msgid ""
 "you can download it locally. (MP4 - ??.?? MB)"
 msgstr ""
 
-#. type: Title ===
+#. type: Title ====
 #: publishing.en.adoc:21
+#, no-wrap
+msgid "Training IPT installations"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:24
+msgid ""
+"If you have not already been provided a login, please contact "
+"training@gbif.org and you will be provided with a login and password on the "
+"course IPT."
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:26
+msgid "https://training-ipt-a.gbif.org/[^]"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:28
+msgid "https://training-ipt-b.gbif.org/[^]"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:30
+msgid "https://training-ipt-c.gbif.org/[^]"
+msgstr ""
+
+#. type: Title ===
+#: publishing.en.adoc:31
 #, no-wrap
 msgid "IPT demonstration"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:25
+#: publishing.en.adoc:35
 msgid ""
 "In this video (24:16), you will learn how to publish an occurrence dataset "
 "using an IPT.  If you are unable to watch the embedded Vimeo video, you can "
@@ -2446,7 +2475,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: publishing.en.adoc:28 use-case-invasive-species.en.adoc:133
+#: publishing.en.adoc:38 use-case-invasive-species.en.adoc:133
 #: use-case-lepidoptera-sampling.en.adoc:145
 #: use-case-birds-from-literature.en.adoc:158
 #, no-wrap
@@ -2454,12 +2483,12 @@ msgid "Exercise 4"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:31
+#: publishing.en.adoc:41
 msgid "In this exercise, you will publish an occurrence dataset using the IPT."
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:35 assessments-certification.en.adoc:148
+#: publishing.en.adoc:45 assessments-certification.en.adoc:148
 #: use-case-invasive-species.en.adoc:136
 #: use-case-lepidoptera-sampling.en.adoc:148
 #: use-case-birds-from-literature.en.adoc:161 keydocs.en.adoc:14
@@ -2468,7 +2497,7 @@ msgid "*Data publishing*\n"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:37
+#: publishing.en.adoc:47
 msgid ""
 "After cleaning the data in the Poales dataset, the team considers that "
 "publishing the data online through the GBIF network could be a good way to "
@@ -2477,20 +2506,24 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:40
+#: publishing.en.adoc:50
 msgid ""
-"At this point, you need an account on the course IPT.  If you have not "
-"already been provided a login, please contact training@gbif.org and you will "
-"be provided with a login and password on the course IPT."
+"At this point, you need an account on one of the <<Training IPT "
+"installations,course IPTs>>.  If you have not already been provided a login, "
+"please contact training@gbif.org and you will be provided with a login and "
+"password on one of the course IPTs."
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:41
-msgid "Download 'IPT Data Publishing_Poales Dataset.csv'. (233.5 KB)"
+#: publishing.en.adoc:51
+msgid ""
+"Download "
+"link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. "
+"(233.5 KB)"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:42
+#: publishing.en.adoc:52
 msgid "Use the assigned IPT installation and publish this file."
 msgstr ""
 
