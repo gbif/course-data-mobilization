@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-07 13:29+0000\n"
+"POT-Creation-Date: 2021-04-07 13:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1661,8 +1661,7 @@ msgid "Once the cards are assigned take pictures/screenshots."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:85 planning.en.adoc:100 management.en.adoc:42
-#: management.en.adoc:67 management.en.adoc:83 publishing.en.adoc:43
+#: planning.en.adoc:85 planning.en.adoc:100 publishing.en.adoc:43
 #: use-case-invasive-species.en.adoc:75 use-case-invasive-species.en.adoc:95
 #: use-case-lepidoptera-sampling.en.adoc:87
 #: use-case-lepidoptera-sampling.en.adoc:107
@@ -1930,7 +1929,8 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:53
+#: capture.en.adoc:53 management.en.adoc:42 management.en.adoc:67
+#: management.en.adoc:83
 msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr ""
 
@@ -1945,7 +1945,8 @@ msgstr ""
 #: management.en.adoc:6
 msgid ""
 "In this module, you will review the main concepts, related tools and best "
-"practices for data cleaning and standardization."
+"practices for data management, particularly, data cleaning and "
+"standardization."
 msgstr ""
 
 #. type: Title ===
@@ -1959,8 +1960,9 @@ msgstr ""
 msgid ""
 "In this video (09:49), you will review an important set of principles "
 "necessary to improve data through the processes of data cleaning.  If you "
-"are unable to watch the embedded Vimeo video, you can download it "
-"locally. (MP4 - 16.6 MB)"
+"are unable to watch the embedded Vimeo video, you can "
+"link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 "
+"- 16.6 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1987,7 +1989,8 @@ msgstr ""
 #: management.en.adoc:24
 msgid ""
 "For these exercises, you will perform technical and consistency validation "
-"checks, improve data with different tools, and learn how to use OpenRefine."
+"checks, improve data with different tools, and learn how to use "
+"https://openrefine.org/[OpenRefine^]."
 msgstr ""
 
 #. type: Plain text
@@ -2017,8 +2020,8 @@ msgstr ""
 #: management.en.adoc:37
 msgid ""
 "In this exercise we will focus on technical errors and perform a basic "
-"validation check to identify technical and consistency errors.  Refer to "
-"<<Validation checks>> for information on the types of errors."
+"validation check to identify technical errors.  Refer to <<Validation "
+"checks>> for information on the types of errors."
 msgstr ""
 
 #. type: Plain text
@@ -2150,10 +2153,10 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:72
 msgid ""
-"In this video (??:??), you will learn about OpenRefine. You can use "
-"OpenRefine to standardize and improve the quality of your data.  If you are "
-"unable to watch the embedded Vimeo video, you can download it locally. (MP4 "
-"- ??.?? MB)"
+"In this video (??:??), you will learn about "
+"https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize "
+"and improve the quality of your data.  If you are unable to watch the "
+"embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
 msgstr ""
 
 #. type: Plain text
