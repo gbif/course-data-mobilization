@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-07 10:38+0000\n"
-"PO-Revision-Date: 2021-04-07 10:44\n"
+"POT-Creation-Date: 2021-04-07 11:27+0000\n"
+"PO-Revision-Date: 2021-04-07 11:56\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -284,7 +284,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:16
-msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 38.5 MB)"
+msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Definitions.mp4[download,opts=download] it locally. (MP4 - 38.5 MB)"
 msgstr ""
 
 #. type: Title ====
@@ -295,12 +295,12 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:23
-msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 18.9 MB)"
+msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Software.mp4[download,opts=download] it locally. (MP4 - 18.9 MB)"
 msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:25
-msgid "video::434713189[vimeo, height=480, width=640, align=center, poster=img/web/vThumb-software.jpg]"
+msgid "video::434713189[vimeo, height=480, width=640, align=center]"
 msgstr ""
 
 #. type: Title ====
@@ -311,7 +311,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:30
-msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 38.8 MB)"
+msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Structures.mp4[download,opts=download] it locally. (MP4 - 38.8 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -322,12 +322,12 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:37
-msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 44.5 MB)"
+msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Data_Quality.mp4[download,opts=download] it locally. (MP4 - 44.5 MB)"
 msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:44
-msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document], references and translations can be found on GBIF.org."
+msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
 msgstr ""
 
 #. type: delimited block _
@@ -486,7 +486,7 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:146
-msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 29.2 MB)"
+msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Documentation.mp4[download,opts=download] it locally. (MP4 - 29.2 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -497,7 +497,7 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:153
-msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 26.8 MB)"
+msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Workflows.mp4[download,opts=download] it locally. (MP4 - 26.8 MB)"
 msgstr ""
 
 #. type: delimited block *
@@ -553,7 +553,7 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:178
-msgid "Integrated Digitized Biocollections (iDigBio) is the coordination center for the United States National Resource for Advancing Digitization of Biodiversity Collections (ADBC).  They are leading a nation-wide effort to make available data and images for millions of biological specimens in a standard electronic format for the research community, government agencies, students, educators, and the general public.  They are making a huge outreach effort and have produced several videos that discuss the digitization process."
+msgid "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) is the coordination center for the United States National Resource for Advancing Digitization of Biodiversity Collections (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]).  They lead a nation-wide effort to make data and images for millions of biological specimens available in a standard electronic format for the research community, government agencies, students, educators, and the general public.  They have produced several videos that discuss the digitization process."
 msgstr ""
 
 #. type: delimited block *
@@ -563,17 +563,17 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:182
-msgid "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690"
+msgid "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690[^]"
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:183
-msgid "“Imaging Workflows for the Digitization of Dry-preserved Vertebrate Specimens” (7:25 mins) https://vimeo.com/160615629"
+msgid "“Imaging Workflows for the Digitization of Dry-preserved Vertebrate Specimens” (7:25 mins) https://vimeo.com/160615629[^]"
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:184
-msgid "“Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768"
+msgid "“Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768[^]"
 msgstr ""
 
 #. type: Title ===
@@ -599,12 +599,12 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:196
-msgid "Download spreadsheet (Excel, 22.6 KB)"
+msgid "Download link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:200
-msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual “Initiating a Digitization Project”:"
+msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^]:"
 msgstr ""
 
 #. type: delimited block *
@@ -691,7 +691,7 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:230
-msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help."
+msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine^] download page for more details."
 msgstr ""
 
 #. type: delimited block *
@@ -717,7 +717,7 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:239
-msgid "Detailed installation instructions are available on the OpenRefine GitHub repository."
+msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
 msgstr ""
 
 #. type: Title ====
@@ -728,33 +728,33 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:243
-msgid "Download the Windows kit."
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[Windows kit] or https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit with embedded Java]."
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:244
+msgid "Unzip, and double-click on openrefine.exe or refine.bat if the former does not work.."
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:245
-msgid "Unzip, and double-click on google-refine.exe.  If you’re having issues with the above, try double-clicking on refine.bat instead."
-msgstr ""
-
-#. type: delimited block *
-#: foundations.en.adoc:246
 msgid "A command window will appear (don't close it) and immediately after a new web browser window will show the application."
 msgstr ""
 
 #. type: Title ====
-#: foundations.en.adoc:247
+#: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on Mac"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:250
-msgid "Download the Mac kit."
+#: foundations.en.adoc:249
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit.]"
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:251
-msgid "Open, and drag the the icon into the Applications folder."
+msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
 msgstr ""
 
 #. type: delimited block *
@@ -762,32 +762,48 @@ msgstr ""
 msgid "Double click on it and a new web browser window will show the application."
 msgstr ""
 
-#. type: Title ===
+#. type: Title ====
 #: foundations.en.adoc:253
+#, no-wrap
+msgid "Installation on Linux"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:256
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit.]"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:258
+msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
+msgstr ""
+
+#. type: Title ===
+#: foundations.en.adoc:259
 #, no-wrap
 msgid "Foundations review"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:256
+#: foundations.en.adoc:262
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:260
+#: foundations.en.adoc:266
 #, no-wrap
 msgid "What is the binary for the word \"biodiversity\"?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:263
+#: foundations.en.adoc:269
 #, no-wrap
 msgid "[TIP]\n"
-"Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html.\n"
+"Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html[^].\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:268
+#: foundations.en.adoc:274
 #, no-wrap
 msgid "- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 01101110 01100011 01100101\n"
 "- [ ] 01000010 01001001 01000110 01000001\n"
@@ -796,19 +812,19 @@ msgid "- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 0110
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:273
+#: foundations.en.adoc:279
 #, no-wrap
 msgid "If you open a data file and see the following, what would you suspect is the issue?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:275
+#: foundations.en.adoc:281
 #, no-wrap
 msgid "�tre, ou ne pas �tre, c�est l� la question.\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:280
+#: foundations.en.adoc:286
 #, no-wrap
 msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
@@ -3673,20 +3689,8 @@ msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:22
+#: colophon.en.adoc:21
 msgid "11th edition, Feb 2021"
-msgstr ""
-
-#. type: Title ===
-#: colophon.en.adoc:23
-#, no-wrap
-msgid "Cover image"
-msgstr ""
-
-#.  Caption. Credit, source, licence.
-#. type: Plain text
-#: colophon.en.adoc:27
-msgid "Elegant Grasshopper (_Zonocerus elegans_), Bulawayo, Zimbabwe.  Photo 2021 nickypegg via https://www.gbif.org/occurrence/3018014153[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 msgstr ""
 
 #. type: Plain text
