@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-07 14:24+0000\n"
+"POT-Creation-Date: 2021-04-07 14:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1406,9 +1406,9 @@ msgstr ""
 msgid ""
 "In the planning module, you will review key project planning stages and will "
 "learn how to create a viable workflow.  Additionally, you will create an "
-"idealized project plan/workflow based on <<scenario,USE CASE I>>.  You will "
-"identify goals, tasks, key stakeholders and roles and will assign specific "
-"tasks to stages."
+"idealized project plan/workflow based on USE CASE I.  You will identify "
+"goals, tasks, key stakeholders and roles and will assign specific tasks to "
+"stages."
 msgstr ""
 
 #. type: Title ===
@@ -1452,9 +1452,8 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:26
 msgid ""
-"For this activity, you will be using a virtual tabletop platform and making "
-"notes on your <<exercise-sheet,Use Case I exercise sheet>> for exercise 1 "
-"a-c.  Review the exercise instructions below."
+"For this activity, you will be using a virtual tabletop platform.  Review "
+"the exercise instructions below."
 msgstr ""
 
 #. type: Plain text
@@ -1659,12 +1658,8 @@ msgid "Once the cards are assigned take pictures/screenshots."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:85 planning.en.adoc:100
-#: use-case-invasive-species.en.adoc:75 use-case-invasive-species.en.adoc:95
-#: use-case-lepidoptera-sampling.en.adoc:87
-#: use-case-lepidoptera-sampling.en.adoc:107
-#: use-case-birds-from-literature.en.adoc:100
-msgid "Use the exercise sheet to provide your answers."
+#: planning.en.adoc:85
+msgid "Use the <exercise-sheet, exercise sheet>> to provide your answers."
 msgstr ""
 
 #. type: delimited block *
@@ -1708,6 +1703,12 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:99
 msgid "Review the STAGE cards and order the TASKS appropriately."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:100 capture.en.adoc:53 management.en.adoc:42
+#: management.en.adoc:67 management.en.adoc:83 publishing.en.adoc:53
+msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr ""
 
 #. type: delimited block *
@@ -1927,12 +1928,6 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:53 management.en.adoc:42 management.en.adoc:67
-#: management.en.adoc:83 publishing.en.adoc:53
-msgid "Use the previously downloaded exercise sheet to provide your answers."
-msgstr ""
-
-#. type: Plain text
 #: capture.en.adoc:55
 msgid ""
 "you may need to add fields to the spreadsheet as you may be able to capture "
@@ -2034,8 +2029,8 @@ msgstr ""
 #: management.en.adoc:40
 msgid ""
 "Import the CSV file in Excel using the Excel wizard. See "
-"link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf,opts=download] (PDF, "
-"7 MB) for import instructions for your operating system (Windows, Mac, "
+"link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] "
+"(PDF, 7 MB) for import instructions for your operating system (Windows, Mac, "
 "Linux)."
 msgstr ""
 
@@ -2865,6 +2860,14 @@ msgid ""
 "Evaluate the following options to expand the number of participating "
 "schools.  You can only select TWO of these options, so you need to choose "
 "wisely."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:75 use-case-invasive-species.en.adoc:95
+#: use-case-lepidoptera-sampling.en.adoc:87
+#: use-case-lepidoptera-sampling.en.adoc:107
+#: use-case-birds-from-literature.en.adoc:100
+msgid "Use the exercise sheet to provide your answers."
 msgstr ""
 
 #. type: Plain text
