@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-07 13:47+0000\n"
-"PO-Revision-Date: 2021-04-07 14:07\n"
+"POT-Creation-Date: 2021-04-07 14:35+0000\n"
+"PO-Revision-Date: 2021-04-07 15:07\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -796,14 +796,7 @@ msgid "What is the binary for the word \"biodiversity\"?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:269
-#, no-wrap
-msgid "[TIP]\n"
-"Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html[^].\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:274
+#: foundations.en.adoc:271
 #, no-wrap
 msgid "- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 01101110 01100011 01100101\n"
 "- [ ] 01000010 01001001 01000110 01000001\n"
@@ -812,24 +805,29 @@ msgid "- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 0110
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:279
+#: foundations.en.adoc:276
 #, no-wrap
 msgid "If you open a data file and see the following, what would you suspect is the issue?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:281
+#: foundations.en.adoc:278
 #, no-wrap
 msgid "�tre, ou ne pas �tre, c�est l� la question.\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:286
+#: foundations.en.adoc:283
 #, no-wrap
 msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
 "- [x] The wrong encoding was used to open the file\n"
 "- [ ] The sender used a weird font\n"
+msgstr ""
+
+#. type: delimited block *
+#: foundations.en.adoc:287
+msgid "Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html[^]"
 msgstr ""
 
 #. type: Title ==
@@ -991,7 +989,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:7
-msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on <<scenario,USE CASE I>>.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
+msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on USE CASE I.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
 msgstr ""
 
 #. type: Title ===
@@ -1024,7 +1022,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:26
-msgid "For this activity, you will be using a virtual tabletop platform and making notes on your <<exercise-sheet,Use Case I exercise sheet>> for exercise 1 a-c.  Review the exercise instructions below."
+msgid "For this activity, you will be using a virtual tabletop platform.  Review the exercise instructions below."
 msgstr ""
 
 #. type: Plain text
@@ -1177,12 +1175,8 @@ msgid "Once the cards are assigned take pictures/screenshots."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:85 planning.en.adoc:100
-#: use-case-invasive-species.en.adoc:75 use-case-invasive-species.en.adoc:95
-#: use-case-lepidoptera-sampling.en.adoc:87
-#: use-case-lepidoptera-sampling.en.adoc:107
-#: use-case-birds-from-literature.en.adoc:100
-msgid "Use the exercise sheet to provide your answers."
+#: planning.en.adoc:85
+msgid "Use the <exercise-sheet, exercise sheet>> to provide your answers."
 msgstr ""
 
 #. type: delimited block *
@@ -1221,6 +1215,12 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:99
 msgid "Review the STAGE cards and order the TASKS appropriately."
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:100 capture.en.adoc:53 management.en.adoc:42
+#: management.en.adoc:67 management.en.adoc:83 publishing.en.adoc:53
+msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr ""
 
 #. type: delimited block *
@@ -1385,12 +1385,6 @@ msgid "Download the spreadsheet template: link:../exercise-data/UC1-2-occurrence
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:53 management.en.adoc:42 management.en.adoc:67
-#: management.en.adoc:83 publishing.en.adoc:53
-msgid "Use the previously downloaded exercise sheet to provide your answers."
-msgstr ""
-
-#. type: Plain text
 #: capture.en.adoc:55
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
 msgstr ""
@@ -1462,7 +1456,7 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:40
-msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
+msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
 msgstr ""
 
 #. type: Plain text
@@ -2111,6 +2105,14 @@ msgstr ""
 #: use-case-invasive-species.en.adoc:74
 #: use-case-lepidoptera-sampling.en.adoc:86
 msgid "Evaluate the following options to expand the number of participating schools.  You can only select TWO of these options, so you need to choose wisely."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:75 use-case-invasive-species.en.adoc:95
+#: use-case-lepidoptera-sampling.en.adoc:87
+#: use-case-lepidoptera-sampling.en.adoc:107
+#: use-case-birds-from-literature.en.adoc:100
+msgid "Use the exercise sheet to provide your answers."
 msgstr ""
 
 #. type: Plain text
