@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-07 13:25+0000\n"
+"POT-Creation-Date: 2021-04-07 13:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -749,7 +749,7 @@ msgid ""
 "We do not teach digitization, per se, during the workshop, as it can easily "
 "stand as a week-long course on its own, instead we focus on basic "
 "introduction to biodiversity data capture.  However, we want to provide you "
-"with resources on Digitization as we know many are interested in this."
+"with resources on digitization as we know many are interested in this."
 msgstr ""
 
 #. type: delimited block *
@@ -1005,11 +1005,11 @@ msgstr ""
 #. type: delimited block *
 #: foundations.en.adoc:225
 msgid ""
-"OpenRefine is a tool with a set of features for working with tabular data "
-"that improves the overall quality of a dataset.  It is an application that "
-"runs on your own computer as a small web server, and in order to use it your "
-"web browser should point at that web server.  So, think of OpenRefine as a "
-"personal and private web application."
+"https://openrefine.org/[OpenRefine^] is a tool with a set of features for "
+"working with tabular data that improves the overall quality of a dataset.  "
+"It is an application that runs on your own computer as a small web server, "
+"and in order to use it your web browser should point at that web server.  "
+"So, think of OpenRefine as a personal and private web application."
 msgstr ""
 
 #. type: delimited block *
@@ -1020,7 +1020,7 @@ msgid ""
 "OpenRefine on your laptop.  If you are a skilled computer user, you can "
 "follow these steps to install the software on your computer.  If you are not "
 "confident, please ask for help. Refer to the "
-"https://openrefine.org/download.html[OpenRefine^] download page for more "
+"https://openrefine.org/download.html[OpenRefine download page^] for more "
 "details."
 msgstr ""
 
