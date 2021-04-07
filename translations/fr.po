@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-03-24 16:44+0000\n"
-"PO-Revision-Date: 2021-03-24 17:35\n"
+"POT-Creation-Date: 2021-04-07 09:45+0000\n"
+"PO-Revision-Date: 2021-04-07 09:48\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1033,27 +1033,27 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:57
-msgid "RED: http://playingcards.io/sca368"
+msgid "RED: https://playingcards.io/vbtkgd"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:59
-msgid "GREEN: http://playingcards.io/fxkceg"
+msgid "GREEN: https://playingcards.io/m53by6"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:61
-msgid "YELLOW: http://playingcards.io/7va9m5"
+msgid "YELLOW: https://playingcards.io/kpen5h"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:63
-msgid "BLUE: http://playingcards.io/s6vvn9"
+msgid "BLUE: https://playingcards.io/8dwg98"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:65
-msgid "PURPLE: http://playingcards.io/tm5g4c"
+msgid "PURPLE: https://playingcards.io/fah8an"
 msgstr ""
 
 #. type: Plain text
@@ -3653,650 +3653,644 @@ msgstr ""
 #. type: Plain text
 #: scripts/definitions.en.txt:2
 #, no-wrap
-msgid "Foundations Terminology DEFINITIONS\n"
+msgid "// Slide 1\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:4
 #, no-wrap
-msgid "// Slide 1\n"
+msgid "This session is foundation work and part of the Terminology section.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:6
 #, no-wrap
-msgid "This session is foundation work and part of the Terminology section.\n"
+msgid "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:8
 #, no-wrap
-msgid "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
+msgid "// Slide 2\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:10
 #, no-wrap
-msgid "// Slide 2\n"
+msgid "First let’s review the structure of this session.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:12
 #, no-wrap
-msgid "First let’s review the structure of this session.\n"
+msgid "In the section on DEFINITIONS we will first try to clarify the use of the word “Data”.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:14
 #, no-wrap
-msgid "In the section on DEFINITIONS we will first try to clarify the use of the word “Data”.\n"
+msgid "We will then look at the terminology surrounding Fields, Labels and Lists.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:16
 #, no-wrap
-msgid "We will then look at the terminology surrounding Fields, Labels and Lists.\n"
+msgid "And lastly, we will straighten out some concepts around characters and their mappings that will help prevent unwanted data messes.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:18
 #, no-wrap
-msgid "And lastly, we will straighten out some concepts around characters and their mappings that will help prevent unwanted data messes.\n"
+msgid "// Slide 3\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:20
 #, no-wrap
-msgid "// Slide 3\n"
+msgid "First definitions.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:22
 #, no-wrap
-msgid "First definitions.\n"
+msgid "In this section we will look at some of the many different terms and phrases that exist within the world of data and information management. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:24
 #, no-wrap
-msgid "In this section we will look at some of the many different terms and phrases that exist within the world of data and information management. \n"
+msgid "We will be using these throughout the course and it is important that you be familiar with, when and how to use them.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:26
 #, no-wrap
-msgid "We will be using these throughout the course and it is important that you be familiar with, when and how to use them.\n"
+msgid "// Slide 4\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:28
 #, no-wrap
-msgid "// Slide 4\n"
+msgid "Let’s focus for a moment on some common words and phrases that contain the word data.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:30
 #, no-wrap
-msgid "Let’s focus for a moment on some common words and phrases that contain the word data.\n"
+msgid "// Slide 5\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:32
 #, no-wrap
-msgid "// Slide 5\n"
+msgid "All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:34
 #, no-wrap
-msgid "All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  \n"
+msgid "// Slide 6\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:36
 #, no-wrap
-msgid "// Slide 6\n"
+msgid "So, what is a “Database”?\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:38
 #, no-wrap
-msgid "So, what is a “Database”?\n"
+msgid "There are many definitions, but what they all have in common is the theme that a database is a structured and organized collection of data and/or information held on a computer.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:40
 #, no-wrap
-msgid "There are many definitions, but what they all have in common is the theme that a database is a structured and organized collection of data and/or information held on a computer.\n"
+msgid "Everything else in the list is just a way to help you achieve this data nirvana! \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:42
 #, no-wrap
-msgid "Everything else in the list is just a way to help you achieve this data nirvana! \n"
+msgid "Let’s dig a little deeper then into those other terms.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:44
 #, no-wrap
-msgid "Let’s dig a little deeper then into those other terms.\n"
+msgid "// Slide 7\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:46
 #, no-wrap
-msgid "// Slide 7\n"
+msgid "Let us take a look at the phrase “database language”.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:48
 #, no-wrap
-msgid "Let us take a look at the phrase “database language”.\n"
+msgid "According to the Oxford English dictionary “language” is the method of human communication, […], consisting of the use of words [or symbols] in a structured and conventional way.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:50
 #, no-wrap
-msgid "According to the Oxford English dictionary “language” is the method of human communication, […], consisting of the use of words [or symbols] in a structured and conventional way.\n"
+msgid "For our purposes, database languages and their close allies the array languages are the way by which a human communicates with a computer to manipulate and move around data. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:52
 #, no-wrap
-msgid "For our purposes, database languages and their close allies the array languages are the way by which a human communicates with a computer to manipulate and move around data. \n"
+msgid "Examples that you may have come across are:\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:54
 #, no-wrap
-msgid "Examples that you may have come across are:\n"
+msgid "Java, SPARQL, SQL and Python\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:56
 #, no-wrap
-msgid "Java, SPARQL, SQL and Python\n"
+msgid "They are simply methods used to define and create tables, views and queries and also allow users to access, update, store and move data around.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:58
 #, no-wrap
-msgid "They are simply methods used to define and create tables, views and queries and also allow users to access, update, store and move data around.\n"
+msgid "// Slide 8\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:60
 #, no-wrap
-msgid "// Slide 8\n"
+msgid "Now let’s look at the phrase “database program or software”.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:62
 #, no-wrap
-msgid "Now let’s look at the phrase “database program or software”.\n"
+msgid "Again going to the Oxford English dictionary a “program/programme” is a set of related measures or activities with a particular long-term aim.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:64
 #, no-wrap
-msgid "Again going to the Oxford English dictionary a “program/programme” is a set of related measures or activities with a particular long-term aim.\n"
+msgid "In this context, a “database program or software” combines and presents functions and features for manipulating data, together is a unified interface. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:66
 #, no-wrap
-msgid "In this context, a “database program or software” combines and presents functions and features for manipulating data, together is a unified interface. \n"
+msgid "Examples that you may come across are:\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:68
 #, no-wrap
-msgid "Examples that you may come across are:\n"
+msgid "Microsoft Access, FilemakerPro and Oracle\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:70
 #, no-wrap
-msgid "Microsoft Access, FilemakerPro and Oracle\n"
+msgid "So, database programs or software are grouped utilities which allow a user, via a database language, to store, manage, query and report data held in the system.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:72
 #, no-wrap
-msgid "So, database programs or software are grouped utilities which allow a user, via a database language, to store, manage, query and report data held in the system.\n"
+msgid "// Slide 9\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:74
 #, no-wrap
-msgid "// Slide 9\n"
+msgid "The last term is “data cleaning tool”.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:76
 #, no-wrap
-msgid "The last term is “data cleaning tool”.\n"
+msgid "Data cleaning tools are systems whose utilities focus is on the manipulation of data with the aim of increasing fitness for use. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:78
 #, no-wrap
-msgid "Data cleaning tools are systems whose utilities focus is on the manipulation of data with the aim of increasing fitness for use. \n"
+msgid "Examples that you may be familiar or will learn about during the course are:\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:80
 #, no-wrap
-msgid "Examples that you may be familiar or will learn about during the course are:\n"
+msgid "OpenRefine, MatLab  and spreadsheets\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:82
 #, no-wrap
-msgid "OpenRefine, MatLab  and spreadsheets\n"
+msgid "A data cleaning tool should assist the user in the discovery and repair of messy data in order to increase quality.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:84
 #, no-wrap
-msgid "A data cleaning tool should assist the user in the discovery and repair of messy data in order to increase quality.\n"
+msgid "// Slide 10\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:86
 #, no-wrap
-msgid "// Slide 10\n"
+msgid "Continuing on with some more terms that you should be familiar with we will look at the differences between the terms Field, Label and List.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:88
 #, no-wrap
-msgid "Continuing on with some more terms that you should be familiar with we will look at the differences between the terms Field, Label and List.\n"
+msgid "// Slide 11\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:90
 #, no-wrap
-msgid "// Slide 11\n"
+msgid "You will often hear reference made to field or column names and field labels or headings. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:92
 #, no-wrap
-msgid "You will often hear reference made to field or column names and field labels or headings. \n"
+msgid "Often they will be used interchangeably, however they are different things. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:94
 #, no-wrap
-msgid "Often they will be used interchangeably, however they are different things. \n"
+msgid "Field or column names refer to the actual column in the database table. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:96
 #, no-wrap
-msgid "Field or column names refer to the actual column in the database table. \n"
+msgid "They are a often short, not always in plain language, sometimes computer generated; but in a properly formed database they are ALWAYS unique. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:98
 #, no-wrap
-msgid "They are a often short, not always in plain language, sometimes computer generated; but in a properly formed database they are ALWAYS unique. \n"
+msgid "Field names are almost always used by database languages, because the avoid ambiguity.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:100
 #, no-wrap
-msgid "Field names are almost always used by database languages, because the avoid ambiguity.\n"
+msgid "Labels and headers on the other hand, refer to the human readable versions of the field names. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:102
 #, no-wrap
-msgid "Labels and headers on the other hand, refer to the human readable versions of the field names. \n"
+msgid "Most often you will see these in the graphical user interface of your software and on exports and reports. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:104
 #, no-wrap
-msgid "Most often you will see these in the graphical user interface of your software and on exports and reports. \n"
+msgid "In some software you can in fact have different labels to the same field on a user by user or group basis!\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:106
 #, no-wrap
-msgid "In some software you can in fact have different labels to the same field on a user by user or group basis!\n"
+msgid "// Slide 12\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:108
 #, no-wrap
-msgid "// Slide 12\n"
+msgid "As you work with your data you will come across the phrases “drop-down list” and “controlled vocabulary” and on the surface they can appear to be the same. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:110
 #, no-wrap
-msgid "As you work with your data you will come across the phrases “drop-down list” and “controlled vocabulary” and on the surface they can appear to be the same. \n"
+msgid "Indeed they are both powerful tools to help you keep your data clean, but they are different.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:112
 #, no-wrap
-msgid "Indeed they are both powerful tools to help you keep your data clean, but they are different.\n"
+msgid "A drop-down list, also sometimes called a lookup table is a data entry element that is created in your database software. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:114
 #, no-wrap
-msgid "A drop-down list, also sometimes called a lookup table is a data entry element that is created in your database software. \n"
+msgid "It allows to you select a value from a predefined set of options. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:116
 #, no-wrap
-msgid "It allows to you select a value from a predefined set of options. \n"
+msgid "They can also be generated from the data itself on the fly.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:118
 #, no-wrap
-msgid "They can also be generated from the data itself on the fly.\n"
+msgid "A controlled vocabulary on the other hand, is a very strictly defined, domain specific set of values that should be applied to a particular field. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:120
 #, no-wrap
-msgid "A controlled vocabulary on the other hand, is a very strictly defined, domain specific set of values that should be applied to a particular field. \n"
+msgid "They are an integral part of a well defined standard. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:122
 #, no-wrap
-msgid "They are an integral part of a well defined standard. \n"
+msgid "Such values can be used in a drop-down list as mentioned previously.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:124
 #, no-wrap
-msgid "Such values can be used in a drop-down list as mentioned previously.\n"
+msgid "// Slide 13\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:126
 #, no-wrap
-msgid "// Slide 13\n"
+msgid "In this section we will look at what the term character means in relation to data and computers.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:128
 #, no-wrap
-msgid "In this section we will look at what the term character means in relation to data and computers.\n"
+msgid "// Slide 14\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:130
 #, no-wrap
-msgid "// Slide 14\n"
+msgid "As a reminder computers “see” in binary. Everything that you type in, is held in memory as a series of ones and zeros. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:132
 #, no-wrap
-msgid "As a reminder computers “see” in binary. Everything that you type in, is held in memory as a series of ones and zeros. \n"
+msgid "The computer does not “see” the repertoire of letters and symbols on your keyboard.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:134
 #, no-wrap
-msgid "The computer does not “see” the repertoire of letters and symbols on your keyboard.\n"
+msgid "It needs a map to translate the character set that you would write or type, into its binary language and then back again to show it to you on the screen or a printer. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:136
 #, no-wrap
-msgid "It needs a map to translate the character set that you would write or type, into its binary language and then back again to show it to you on the screen or a printer. \n"
+msgid "This map is made up of two parts:\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:138
 #, no-wrap
-msgid "This map is made up of two parts:\n"
+msgid "The “coded character set” and \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:140
 #, no-wrap
-msgid "The “coded character set” and \n"
+msgid "The “character encoding”\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:142
 #, no-wrap
-msgid "The “character encoding”\n"
+msgid "Each symbol or glyph is assigned a numeric value and that number is then converted to binary.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:144
 #, no-wrap
-msgid "Each symbol or glyph is assigned a numeric value and that number is then converted to binary.\n"
+msgid "// Slide 15\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:146
 #, no-wrap
-msgid "// Slide 15\n"
+msgid "In this example we see how character encoding is used to map the capital letter A in the western alphabet.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:148
 #, no-wrap
-msgid "In this example we see how character encoding is used to map the capital letter A in the western alphabet.\n"
+msgid "The ASCII value for the capital letter A is the decimal number 65 \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:150
 #, no-wrap
-msgid "The ASCII value for the capital letter A is the decimal number 65 \n"
+msgid "which in HEXIDECIMAL is 041 \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:152
 #, no-wrap
-msgid "which in HEXIDECIMAL is 041 \n"
+msgid "and in BINARY 01000001\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:154
 #, no-wrap
-msgid "and in BINARY 01000001\n"
+msgid "Try mapping your own name to Binary using the link at the bottom of the screen.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:156
 #, no-wrap
-msgid "Try mapping your own name to Binary using the link at the bottom of the screen.\n"
+msgid "// Slide 16\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:158
 #, no-wrap
-msgid "// Slide 16\n"
+msgid "In effect what is happening is that when you type into a keyboard and save a file the software that you are using will select an encoding to save with it. \n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:160
 #, no-wrap
-msgid "In effect what is happening is that when you type into a keyboard and save a file the software that you are using will select an encoding to save with it. \n"
+msgid "When you open that file again the software needs to know which encoding (map) to use to redisplay the information back to you correctly.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:162
 #, no-wrap
-msgid "When you open that file again the software needs to know which encoding (map) to use to redisplay the information back to you correctly.\n"
+msgid "// Slide 17\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:164
 #, no-wrap
-msgid "// Slide 17\n"
+msgid "So why is this important to you as a data custodian?\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:166
 #, no-wrap
-msgid "So why is this important to you as a data custodian?\n"
+msgid "Let’s say that you translate the start of Hamlet’s soliloquy\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:168
 #, no-wrap
-msgid "Let’s say that you translate the start of Hamlet’s soliloquy\n"
+msgid " ”To be or not to be, that is the question”\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:170
 #, no-wrap
-msgid " ”To be or not to be, that is the question”\n"
+msgid "into French and then save the file with a text editor that uses the encoding Latin-1\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:172
 #, no-wrap
-msgid "into French and then save the file with a text editor that uses the encoding Latin-1\n"
+msgid "Then you send it to a colleague to check the translation. Voila!\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:174
 #, no-wrap
-msgid "Then you send it to a colleague to check the translation. Voila!\n"
+msgid "// Slide 18\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:176
 #, no-wrap
-msgid "// Slide 18\n"
+msgid "When they open the file in MicroSoft Word this is what they see…\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:178
 #, no-wrap
-msgid "When they open the file in MicroSoft Word this is what they see…\n"
+msgid "Mon dieu!\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:180
 #, no-wrap
-msgid "Mon dieu!\n"
+msgid "There are some unexpected characters.\n"
 msgstr ""
 
 #. type: Plain text
 #: scripts/definitions.en.txt:182
 #, no-wrap
-msgid "There are some unexpected characters.\n"
-msgstr ""
-
-#. type: Plain text
-#: scripts/definitions.en.txt:184
-#, no-wrap
 msgid "You forgot to tell your colleague that you where using Latin-1 as the encoding. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:187
+#: scripts/definitions.en.txt:185
 #, no-wrap
 msgid "MicroSoft Word on their end was set to use the encoding set Unicode UTF-8. \n"
 "The maps did not match.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:189
+#: scripts/definitions.en.txt:187
 #, no-wrap
 msgid "Depending on the software the data may be irretrievably corrupted.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:191
+#: scripts/definitions.en.txt:189
 #, no-wrap
 msgid "// Slide 19\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:193
+#: scripts/definitions.en.txt:191
 #, no-wrap
 msgid "In review we have looked at the differences between the phrases:\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:195
+#: scripts/definitions.en.txt:193
 #, no-wrap
 msgid "Database; database language; database program, data-cleaning tool;\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:197
+#: scripts/definitions.en.txt:195
 #, no-wrap
 msgid "Field names & Field labels; Drop-down lists & Controlled vocabularies and between\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:199
+#: scripts/definitions.en.txt:197
 #, no-wrap
 msgid "Repertoires, Coded sets & Encodings \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:201
+#: scripts/definitions.en.txt:199
 #, no-wrap
 msgid "And shown that although the terms may seem similar the in fact have very different definitions.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:203
+#: scripts/definitions.en.txt:201
 #, no-wrap
 msgid "// Slide 20\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:205
+#: scripts/definitions.en.txt:203
 #, no-wrap
 msgid "Remember that:\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:207
+#: scripts/definitions.en.txt:205
 #, no-wrap
 msgid "“..The first step in wisdom is to know the things themselves; this notion consists in having a true idea of the objects.” \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:210
+#: scripts/definitions.en.txt:208
 #, no-wrap
 msgid "We often take for granted that there is a whole language associated with biodiversity informatics that is not commonplace and has to be learned. \n"
 "There is no shame in going back to basics and getting to grips with the vocabulary,  grammar and syntax just like with any new language.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:212
+#: scripts/definitions.en.txt:210
 #, no-wrap
 msgid "// Slide 21\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:214
+#: scripts/definitions.en.txt:212
 #, no-wrap
 msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:217
+#: scripts/definitions.en.txt:215
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
 msgstr ""
 
 #. type: Plain text
-#: scripts/definitions.en.txt:218
+#: scripts/definitions.en.txt:216
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
 msgstr ""
