@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-07 11:27+0000\n"
-"PO-Revision-Date: 2021-04-07 11:56\n"
+"POT-Creation-Date: 2021-04-07 13:08+0000\n"
+"PO-Revision-Date: 2021-04-07 13:10\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -847,7 +847,7 @@ msgstr ""
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
-msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the exercise sheet (MS Word, 829.7 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
+msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
 msgstr ""
 
 #. type: Title ===
@@ -986,10 +986,7 @@ msgstr ""
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
-#: use-case-invasive-species.en.adoc:147
-#: use-case-lepidoptera-sampling.en.adoc:159
-#: use-case-birds-from-literature.en.adoc:172
-msgid "Download (MS Word, ?? MB)"
+msgid "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
 msgstr ""
 
 #. type: Plain text
@@ -1005,7 +1002,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:12
-msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 25.1 MB)"
+msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Planning_Resourcing.mp4[download^,opts=download] it locally. (MP4 - 25.1 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1016,7 +1013,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:19
-msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 26.2 MB)"
+msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Planning_Organizing.mp4[download,opts=download] it locally. (MP4 - 26.2 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1027,7 +1024,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:26
-msgid "For this activity, you will be using a virtual tabletop platform and making notes on your Use Case I answer sheet for exercise 1 a-c.  Review the exercise instructions below."
+msgid "For this activity, you will be using a virtual tabletop platform and making notes on your <<exercise-sheet,Use Case I exercise sheet>> for exercise 1 a-c.  Review the exercise instructions below."
 msgstr ""
 
 #. type: Plain text
@@ -1038,17 +1035,17 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:30
-msgid "Role definitions"
+msgid "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role definitions^]"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:31
-msgid "Stage definitions"
+msgid "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage definitions^]"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:33
-msgid "To help you to work through the planning exercises for Use Case's 2 and 3, we have made available five virtual playing card tables."
+msgid "To help you to work through the planning exercises for all use cases, we have made available five virtual playing card tables."
 msgstr ""
 
 #. type: Plain text
@@ -1113,7 +1110,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:67
-msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and Kate Webbink for artistic expertise. The online tabletop platform is provided by PlayingCards.io."
+msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
 msgstr ""
 
 #. type: Title ====
@@ -2283,6 +2280,13 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:156
 #: use-case-birds-from-literature.en.adoc:169
 msgid "Use the exercise sheet to provide your answers and link to the published dataset."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:147
+#: use-case-lepidoptera-sampling.en.adoc:159
+#: use-case-birds-from-literature.en.adoc:172
+msgid "Download (MS Word, ?? MB)"
 msgstr ""
 
 #. type: Title ==
