@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-07 13:12+0000\n"
+"POT-Creation-Date: 2021-04-07 13:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1661,10 +1661,9 @@ msgid "Once the cards are assigned take pictures/screenshots."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:85 planning.en.adoc:100 capture.en.adoc:53
-#: management.en.adoc:42 management.en.adoc:67 management.en.adoc:83
-#: publishing.en.adoc:43 use-case-invasive-species.en.adoc:75
-#: use-case-invasive-species.en.adoc:95
+#: planning.en.adoc:85 planning.en.adoc:100 management.en.adoc:42
+#: management.en.adoc:67 management.en.adoc:83 publishing.en.adoc:43
+#: use-case-invasive-species.en.adoc:75 use-case-invasive-species.en.adoc:95
 #: use-case-lepidoptera-sampling.en.adoc:87
 #: use-case-lepidoptera-sampling.en.adoc:107
 #: use-case-birds-from-literature.en.adoc:100
@@ -1803,7 +1802,7 @@ msgstr ""
 #: capture.en.adoc:7
 msgid ""
 "In this module, you will learn about the concept of standards, in "
-"particular, the Darwin Core standard and its components.  You will also "
+"particular, the Darwin Core Standard and its components.  You will also "
 "learn the types of primary biodiversity data and how to best share that "
 "information within GBIF.  Lastly, you will review principles of data quality "
 "in the context of data capture and will learn about data quality and "
@@ -1821,11 +1820,12 @@ msgstr ""
 #: capture.en.adoc:13
 msgid ""
 "In this video (15:37), you will learn how you interact with standards every "
-"day.  Then you will be introduced to biodiversity information standards, "
-"including the Darwin Core Standard with which you will continue to use "
-"throughout this course.  If you are unable to watch the embedded Vimeo "
-"video, you can "
-"link:../videos/Foundations_Standards_Darwin_Core.mp4[download,opts=download] "
+"day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity "
+"Information Standards^], including the "
+"https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you "
+"will continue to use throughout this course.  If you are unable to watch the "
+"embedded Vimeo video, you can "
+"link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] "
 "it locally. (MP4 - 27 MB)"
 msgstr ""
 
@@ -1838,9 +1838,10 @@ msgstr ""
 #. type: Plain text
 #: capture.en.adoc:20
 msgid ""
-"In this video (10:45), you will review primary biodiversity data that can be "
+"In this video (10:45), you will review "
+"https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be "
 "shared within GBIF.  If you are unable to watch the embedded Vimeo video, "
-"you can link:../videos/data_origins_types.mp4[download,opts=download] it "
+"you can link:../videos/data_origins_types.mp4[download^,opts=download] it "
 "locally. (MP4 - 19 MB)"
 msgstr ""
 
@@ -1878,7 +1879,7 @@ msgid ""
 "applied to data capture, specifically when capturing data from collection "
 "labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch "
 "the embedded Vimeo video, you can "
-"link:../videos/Data_capture_processing_quality.mp4[download,opts=download] "
+"link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] "
 "it locally. (MP4 - 19 MB)"
 msgstr ""
 
@@ -1925,6 +1926,11 @@ msgid ""
 "link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] "
 "(57.3 KB) to transcribe the information found on each of the images for the "
 "five specimens."
+msgstr ""
+
+#. type: Plain text
+#: capture.en.adoc:53
+msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr ""
 
 #. type: Plain text
