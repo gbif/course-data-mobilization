@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-07 11:27+0000\n"
+"POT-Creation-Date: 2021-04-07 12:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1210,8 +1210,9 @@ msgstr ""
 msgid ""
 "Use Case I is a practice use case for the planning, data capture, data "
 "management and data publishing modules.  It is recommended that you download "
-"the exercise sheet (MS Word, 829.7 KB) so that you can make notes as you "
-"work through the exercises.  A suggested solution will be provided in the "
+"the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise "
+"sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work "
+"through the exercises.  A suggested solution will be provided in the "
 "solution appendix.  Use Case I is not graded."
 msgstr ""
 
@@ -1397,10 +1398,9 @@ msgstr ""
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
-#: use-case-invasive-species.en.adoc:147
-#: use-case-lepidoptera-sampling.en.adoc:159
-#: use-case-birds-from-literature.en.adoc:172
-msgid "Download (MS Word, ?? MB)"
+msgid ""
+"link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] "
+"(MS Word 345 KB)"
 msgstr ""
 
 #. type: Plain text
@@ -3053,6 +3053,13 @@ msgstr ""
 msgid ""
 "Use the exercise sheet to provide your answers and link to the published "
 "dataset."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:147
+#: use-case-lepidoptera-sampling.en.adoc:159
+#: use-case-birds-from-literature.en.adoc:172
+msgid "Download (MS Word, ?? MB)"
 msgstr ""
 
 #. type: Title ==
