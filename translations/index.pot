@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-07 12:28+0000\n"
+"POT-Creation-Date: 2021-04-07 13:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1425,7 +1425,8 @@ msgid ""
 "In this video (15:09), you will learn how to define the elements that will "
 "have an impact on a project and will look at the interactions between the "
 "elements.  If you are unable to watch the embedded Vimeo video, you can "
-"download it locally. (MP4 - 25.1 MB)"
+"link:../videos/Planning_Resourcing.mp4[download^,opts=download] it "
+"locally. (MP4 - 25.1 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1439,7 +1440,8 @@ msgstr ""
 msgid ""
 "This video (15:52) focuses on tasks and the ways that they can be organized "
 "in order to prepare practical workable plans and clear documentation.  If "
-"you are unable to watch the embedded Vimeo video, you can download it "
+"you are unable to watch the embedded Vimeo video, you can "
+"link:../videos/Planning_Organizing.mp4[download,opts=download] it "
 "locally. (MP4 - 26.2 MB)"
 msgstr ""
 
@@ -1453,7 +1455,7 @@ msgstr ""
 #: planning.en.adoc:26
 msgid ""
 "For this activity, you will be using a virtual tabletop platform and making "
-"notes on your Use Case I answer sheet for exercise 1 a-c.  Review the "
+"notes on your Use Case I exercise sheet for exercise 1 a-c.  Review the "
 "exercise instructions below."
 msgstr ""
 
@@ -1465,19 +1467,23 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:30
-msgid "Role definitions"
+msgid ""
+"https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role "
+"definitions^]"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:31
-msgid "Stage definitions"
+msgid ""
+"https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage "
+"definitions^]"
 msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:33
 msgid ""
-"To help you to work through the planning exercises for Use Case's 2 and 3, "
-"we have made available five virtual playing card tables."
+"To help you to work through the planning exercises for all use cases, we "
+"have made available five virtual playing card tables."
 msgstr ""
 
 #. type: Plain text
@@ -1571,8 +1577,9 @@ msgstr ""
 #: planning.en.adoc:67
 msgid ""
 "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and "
-"helping to create the online playing tables and Kate Webbink for artistic "
-"expertise. The online tabletop platform is provided by PlayingCards.io."
+"helping to create the online playing tables for this exercise and to Kate "
+"Webbink for artistic expertise. The online tabletop platform is provided by "
+"https://playingcards.io/."
 msgstr ""
 
 #. type: Title ====
