@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-07 13:08+0000\n"
-"PO-Revision-Date: 2021-04-07 13:10\n"
+"POT-Creation-Date: 2021-04-07 13:47+0000\n"
+"PO-Revision-Date: 2021-04-07 14:07\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -284,7 +284,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:16
-msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Definitions.mp4[download,opts=download] it locally. (MP4 - 38.5 MB)"
+msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
 msgstr ""
 
 #. type: Title ====
@@ -295,7 +295,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:23
-msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Software.mp4[download,opts=download] it locally. (MP4 - 18.9 MB)"
+msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
 msgstr ""
 
 #. type: Plain text
@@ -311,7 +311,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:30
-msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Structures.mp4[download,opts=download] it locally. (MP4 - 38.8 MB)"
+msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -322,7 +322,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:37
-msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Data_Quality.mp4[download,opts=download] it locally. (MP4 - 44.5 MB)"
+msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
 msgstr ""
 
 #. type: Plain text
@@ -486,7 +486,7 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:146
-msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Documentation.mp4[download,opts=download] it locally. (MP4 - 29.2 MB)"
+msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -497,7 +497,7 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:153
-msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Workflows.mp4[download,opts=download] it locally. (MP4 - 26.8 MB)"
+msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
 msgstr ""
 
 #. type: delimited block *
@@ -507,7 +507,7 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:160
-msgid "We do not teach digitization, per se, during the workshop, as it can easily stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.  However, we want to provide you with resources on Digitization as we know many are interested in this."
+msgid "We do not teach digitization, per se, during the workshop, as it can easily stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.  However, we want to provide you with resources on digitization as we know many are interested in this."
 msgstr ""
 
 #. type: delimited block *
@@ -686,12 +686,12 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:225
-msgid "OpenRefine is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
+msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:230
-msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine^] download page for more details."
+msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
 msgstr ""
 
 #. type: delimited block *
@@ -991,7 +991,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:7
-msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on Use Case I.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
+msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on <<scenario,USE CASE I>>.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
 msgstr ""
 
 #. type: Title ===
@@ -1013,7 +1013,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:19
-msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Planning_Organizing.mp4[download,opts=download] it locally. (MP4 - 26.2 MB)"
+msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1122,7 +1122,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:70 capture.en.adoc:44 management.en.adoc:26
-#: publishing.en.adoc:33
+#: publishing.en.adoc:43
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
 msgstr ""
 
@@ -1177,10 +1177,8 @@ msgid "Once the cards are assigned take pictures/screenshots."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:85 planning.en.adoc:100 capture.en.adoc:53
-#: management.en.adoc:42 management.en.adoc:67 management.en.adoc:83
-#: publishing.en.adoc:43 use-case-invasive-species.en.adoc:75
-#: use-case-invasive-species.en.adoc:95
+#: planning.en.adoc:85 planning.en.adoc:100
+#: use-case-invasive-species.en.adoc:75 use-case-invasive-species.en.adoc:95
 #: use-case-lepidoptera-sampling.en.adoc:87
 #: use-case-lepidoptera-sampling.en.adoc:107
 #: use-case-birds-from-literature.en.adoc:100
@@ -1294,14 +1292,14 @@ msgstr ""
 
 #. type: Title ===
 #: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:140
-#: publishing.en.adoc:44
+#: publishing.en.adoc:54
 #, no-wrap
 msgid "Review"
 msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:7
-msgid "In this module, you will learn about the concept of standards, in particular, the Darwin Core standard and its components.  You will also learn the types of primary biodiversity data and how to best share that information within GBIF.  Lastly, you will review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
+msgid "In this module, you will learn about the concept of standards, in particular, the Darwin Core Standard and its components.  You will also learn the types of primary biodiversity data and how to best share that information within GBIF.  Lastly, you will review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
 msgstr ""
 
 #. type: Title ===
@@ -1312,7 +1310,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:13
-msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download,opts=download] it locally. (MP4 - 27 MB)"
+msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1323,7 +1321,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:20
-msgid "In this video (10:45), you will review primary biodiversity data that can be shared within GBIF.  If you are unable to watch the embedded Vimeo video, you can link:../videos/data_origins_types.mp4[download,opts=download] it locally. (MP4 - 19 MB)"
+msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded Vimeo video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
 msgstr ""
 
 #. type: delimited block *
@@ -1355,7 +1353,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:35
-msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_capture_processing_quality.mp4[download,opts=download] it locally. (MP4 - 19 MB)"
+msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1368,7 +1366,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:42
-msgid "For this activity, you will complete an exercise simulating data capture.  You will begin to work with Darwin Core terms and make decisions on data that is needed for your organization/project and you will consider which of that data will be shared later during publication."
+msgid "For this activity, you will complete an exercise simulating data capture.  You will begin to work with https://dwc.tdwg.org/terms/[Darwin Core terms^] and make decisions on data that is needed for your organization/project and you will consider which of that data will be shared later during publication."
 msgstr ""
 
 #. type: Plain text
@@ -1387,13 +1385,19 @@ msgid "Download the spreadsheet template: link:../exercise-data/UC1-2-occurrence
 msgstr ""
 
 #. type: Plain text
+#: capture.en.adoc:53 management.en.adoc:42 management.en.adoc:67
+#: management.en.adoc:83 publishing.en.adoc:53
+msgid "Use the previously downloaded exercise sheet to provide your answers."
+msgstr ""
+
+#. type: Plain text
 #: capture.en.adoc:55
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:6
-msgid "In this module, you will review the main concepts, related tools and best practices for data cleaning and standardization."
+msgid "In this module, you will review the main concepts, related tools and best practices for data management, particularly, data cleaning and standardization."
 msgstr ""
 
 #. type: Title ===
@@ -1404,7 +1408,7 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:11
-msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 16.6 MB)"
+msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1426,7 +1430,7 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:24
-msgid "For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use OpenRefine."
+msgid "For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use https://openrefine.org/[OpenRefine^]."
 msgstr ""
 
 #. type: Plain text
@@ -1448,7 +1452,7 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:37
-msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical and consistency errors.  Refer to <<Validation checks>> for information on the types of errors."
+msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
 msgstr ""
 
 #. type: Plain text
@@ -1561,7 +1565,7 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:72
-msgid "In this video (??:??), you will learn about OpenRefine. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
+msgid "In this video (??:??), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
 msgstr ""
 
 #. type: Plain text
@@ -1765,7 +1769,7 @@ msgstr ""
 
 #. type: Plain text
 #: publishing.en.adoc:11
-msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (IPT).  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 20 MB)"
+msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -1779,19 +1783,45 @@ msgstr ""
 msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
 msgstr ""
 
-#. type: Title ===
+#. type: Title ====
 #: publishing.en.adoc:21
+#, no-wrap
+msgid "Training IPT installations"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:24
+msgid "If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:26
+msgid "https://training-ipt-a.gbif.org/[^]"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:28
+msgid "https://training-ipt-b.gbif.org/[^]"
+msgstr ""
+
+#. type: Plain text
+#: publishing.en.adoc:30
+msgid "https://training-ipt-c.gbif.org/[^]"
+msgstr ""
+
+#. type: Title ===
+#: publishing.en.adoc:31
 #, no-wrap
 msgid "IPT demonstration"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:25
-msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - 52.6 MB)"
+#: publishing.en.adoc:35
+msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded Vimeo video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
 msgstr ""
 
 #. type: Title ===
-#: publishing.en.adoc:28 use-case-invasive-species.en.adoc:133
+#: publishing.en.adoc:38 use-case-invasive-species.en.adoc:133
 #: use-case-lepidoptera-sampling.en.adoc:145
 #: use-case-birds-from-literature.en.adoc:158
 #, no-wrap
@@ -1799,12 +1829,12 @@ msgid "Exercise 4"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:31
+#: publishing.en.adoc:41
 msgid "In this exercise, you will publish an occurrence dataset using the IPT."
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:35 assessments-certification.en.adoc:148
+#: publishing.en.adoc:45 assessments-certification.en.adoc:148
 #: use-case-invasive-species.en.adoc:136
 #: use-case-lepidoptera-sampling.en.adoc:148
 #: use-case-birds-from-literature.en.adoc:161 keydocs.en.adoc:14
@@ -1813,22 +1843,22 @@ msgid "*Data publishing*\n"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:37
+#: publishing.en.adoc:47
 msgid "After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset."
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:40
-msgid "At this point, you need an account on the course IPT.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
+#: publishing.en.adoc:50
+msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:41
-msgid "Download 'IPT Data Publishing_Poales Dataset.csv'. (233.5 KB)"
+#: publishing.en.adoc:51
+msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:42
+#: publishing.en.adoc:52
 msgid "Use the assigned IPT installation and publish this file."
 msgstr ""
 
