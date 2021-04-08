@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-07 14:35+0000\n"
-"PO-Revision-Date: 2021-04-07 15:07\n"
+"POT-Creation-Date: 2021-04-08 10:51+0000\n"
+"PO-Revision-Date: 2021-04-08 11:36\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -975,9 +975,6 @@ msgstr ""
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:69
-#: use-case-invasive-species.en.adoc:145
-#: use-case-lepidoptera-sampling.en.adoc:157
-#: use-case-birds-from-literature.en.adoc:170
 #, no-wrap
 msgid "Exercise sheet"
 msgstr ""
@@ -1112,8 +1109,8 @@ msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and
 msgstr ""
 
 #. type: Title ====
-#: planning.en.adoc:68 use-case-invasive-species.en.adoc:68
-#: use-case-lepidoptera-sampling.en.adoc:80
+#: planning.en.adoc:68 use-case-invasive-species.en.adoc:72
+#: use-case-lepidoptera-sampling.en.adoc:84
 #, no-wrap
 msgid "Exercise 1a"
 msgstr ""
@@ -1191,8 +1188,8 @@ msgid "Are there resources or goals missing from the cards that you feel are cri
 msgstr ""
 
 #. type: Title ====
-#: planning.en.adoc:92 use-case-invasive-species.en.adoc:87
-#: use-case-lepidoptera-sampling.en.adoc:99
+#: planning.en.adoc:92 use-case-invasive-species.en.adoc:91
+#: use-case-lepidoptera-sampling.en.adoc:103
 #, no-wrap
 msgid "Exercise 1b"
 msgstr ""
@@ -1357,9 +1354,9 @@ msgid "In this video (09:11), you will explore the principles of data quality ap
 msgstr ""
 
 #. type: Title ===
-#: capture.en.adoc:38 use-case-invasive-species.en.adoc:108
-#: use-case-lepidoptera-sampling.en.adoc:120
-#: use-case-birds-from-literature.en.adoc:101
+#: capture.en.adoc:38 use-case-invasive-species.en.adoc:112
+#: use-case-lepidoptera-sampling.en.adoc:124
+#: use-case-birds-from-literature.en.adoc:105
 #, no-wrap
 msgid "Exercise 2"
 msgstr ""
@@ -1815,9 +1812,9 @@ msgid "In this video (24:16), you will learn how to publish an occurrence datase
 msgstr ""
 
 #. type: Title ===
-#: publishing.en.adoc:38 use-case-invasive-species.en.adoc:133
-#: use-case-lepidoptera-sampling.en.adoc:145
-#: use-case-birds-from-literature.en.adoc:158
+#: publishing.en.adoc:38 use-case-invasive-species.en.adoc:137
+#: use-case-lepidoptera-sampling.en.adoc:148
+#: use-case-birds-from-literature.en.adoc:162
 #, no-wrap
 msgid "Exercise 4"
 msgstr ""
@@ -1829,9 +1826,9 @@ msgstr ""
 
 #. type: Plain text
 #: publishing.en.adoc:45 assessments-certification.en.adoc:148
-#: use-case-invasive-species.en.adoc:136
-#: use-case-lepidoptera-sampling.en.adoc:148
-#: use-case-birds-from-literature.en.adoc:161 keydocs.en.adoc:14
+#: use-case-invasive-species.en.adoc:140
+#: use-case-lepidoptera-sampling.en.adoc:151
+#: use-case-birds-from-literature.en.adoc:165 keydocs.en.adoc:14
 #, no-wrap
 msgid "*Data publishing*\n"
 msgstr ""
@@ -1898,9 +1895,9 @@ msgid "Planning rubric"
 msgstr ""
 
 #. type: Plain text
-#: assessments-certification.en.adoc:25 use-case-invasive-species.en.adoc:63
-#: use-case-lepidoptera-sampling.en.adoc:75
-#: use-case-birds-from-literature.en.adoc:88
+#: assessments-certification.en.adoc:25 use-case-invasive-species.en.adoc:67
+#: use-case-lepidoptera-sampling.en.adoc:79
+#: use-case-birds-from-literature.en.adoc:92
 #, no-wrap
 msgid "*Planning*\n"
 msgstr ""
@@ -1947,9 +1944,9 @@ msgid "Data capture rubric"
 msgstr ""
 
 #. type: Plain text
-#: assessments-certification.en.adoc:66 use-case-invasive-species.en.adoc:111
-#: use-case-lepidoptera-sampling.en.adoc:123
-#: use-case-birds-from-literature.en.adoc:104
+#: assessments-certification.en.adoc:66 use-case-invasive-species.en.adoc:115
+#: use-case-lepidoptera-sampling.en.adoc:127
+#: use-case-birds-from-literature.en.adoc:108
 #, no-wrap
 msgid "*Data capture*\n"
 msgstr ""
@@ -1961,9 +1958,9 @@ msgid "Data management rubric"
 msgstr ""
 
 #. type: Plain text
-#: assessments-certification.en.adoc:107 use-case-invasive-species.en.adoc:124
-#: use-case-lepidoptera-sampling.en.adoc:135
-#: use-case-birds-from-literature.en.adoc:136
+#: assessments-certification.en.adoc:107 use-case-invasive-species.en.adoc:128
+#: use-case-lepidoptera-sampling.en.adoc:138
+#: use-case-birds-from-literature.en.adoc:140
 #, no-wrap
 msgid "*Data management*\n"
 msgstr ""
@@ -2082,243 +2079,247 @@ msgstr ""
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:60
-#: use-case-lepidoptera-sampling.en.adoc:72
-#: use-case-birds-from-literature.en.adoc:85
+#, no-wrap
+msgid "Invasives exercise sheet"
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:63
+msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
+msgstr ""
+
+#. type: Title ===
+#: use-case-invasive-species.en.adoc:64
+#: use-case-lepidoptera-sampling.en.adoc:76
+#: use-case-birds-from-literature.en.adoc:89
 #, no-wrap
 msgid "Exercise 1"
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:67
-#: use-case-lepidoptera-sampling.en.adoc:79
+#: use-case-invasive-species.en.adoc:71
+#: use-case-lepidoptera-sampling.en.adoc:83
 msgid "You are the local ISC Manager and, because of the success of the lesson plans and community surveys, 10 more schools on your island would like to set up their own projects the following year.  You would like to accommodate them, but your ISC funding will expire at the end of this year.  HISC has indicated that they will look favourably on a small grant application to expand your programs in the following year and BIISC has offered support."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:71
-#: use-case-lepidoptera-sampling.en.adoc:83
+#: use-case-invasive-species.en.adoc:75
+#: use-case-lepidoptera-sampling.en.adoc:87
 #, no-wrap
 msgid "*Analyse the financial implications of expanding the number of schools*\n"
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:74
-#: use-case-lepidoptera-sampling.en.adoc:86
+#: use-case-invasive-species.en.adoc:78
+#: use-case-lepidoptera-sampling.en.adoc:90
 msgid "Evaluate the following options to expand the number of participating schools.  You can only select TWO of these options, so you need to choose wisely."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:75 use-case-invasive-species.en.adoc:95
-#: use-case-lepidoptera-sampling.en.adoc:87
-#: use-case-lepidoptera-sampling.en.adoc:107
-#: use-case-birds-from-literature.en.adoc:100
+#: use-case-invasive-species.en.adoc:79 use-case-invasive-species.en.adoc:99
+#: use-case-lepidoptera-sampling.en.adoc:91
+#: use-case-lepidoptera-sampling.en.adoc:111
+#: use-case-birds-from-literature.en.adoc:104
 msgid "Use the exercise sheet to provide your answers."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:77
-#: use-case-lepidoptera-sampling.en.adoc:89
+#: use-case-invasive-species.en.adoc:81
+#: use-case-lepidoptera-sampling.en.adoc:93
 #, no-wrap
 msgid "*Options*\n"
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:79
-#: use-case-lepidoptera-sampling.en.adoc:91
+#: use-case-invasive-species.en.adoc:83
+#: use-case-lepidoptera-sampling.en.adoc:95
 msgid "Pay extra summer interns to work at the local ISC to coordinate surveys ."
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:80
-#: use-case-lepidoptera-sampling.en.adoc:92
-msgid "Offer financial support to BIISC to set up websites for each new school."
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:82
-#: use-case-lepidoptera-sampling.en.adoc:94
-msgid "Offer financial compensation to the graduate students.  You will not be able to pay all four of them the equivalent of a regular salary, but could cover the costs of part time positions for two of them."
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:84
 #: use-case-lepidoptera-sampling.en.adoc:96
-msgid "Contract a software company to build a database that can automatically ingest data directly from the online form.  The system will include an admin interface to allow data manipulation and csv exports."
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:85
-#: use-case-lepidoptera-sampling.en.adoc:97
-msgid "Fund four public outreach activities (e.g., a BioBlitz) to promote awareness in the communities and increase volunteer participation."
+msgid "Offer financial support to BIISC to set up websites for each new school."
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:86
 #: use-case-lepidoptera-sampling.en.adoc:98
-msgid "Prepare and carry out a reusable training a course for the teachers at the schools to teach them how to prepare data for submission to BIISC."
+msgid "Offer financial compensation to the graduate students.  You will not be able to pay all four of them the equivalent of a regular salary, but could cover the costs of part time positions for two of them."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:88
+#: use-case-lepidoptera-sampling.en.adoc:100
+msgid "Contract a software company to build a database that can automatically ingest data directly from the online form.  The system will include an admin interface to allow data manipulation and csv exports."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:89
+#: use-case-lepidoptera-sampling.en.adoc:101
+msgid "Fund four public outreach activities (e.g., a BioBlitz) to promote awareness in the communities and increase volunteer participation."
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:90
 #: use-case-lepidoptera-sampling.en.adoc:102
+msgid "Prepare and carry out a reusable training a course for the teachers at the schools to teach them how to prepare data for submission to BIISC."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:94
+#: use-case-lepidoptera-sampling.en.adoc:106
 #, no-wrap
 msgid "*Assign roles*\n"
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:92
-#: use-case-lepidoptera-sampling.en.adoc:104
+#: use-case-invasive-species.en.adoc:96
+#: use-case-lepidoptera-sampling.en.adoc:108
 msgid "The new project has the following people available for data processing and mobilization."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:94
+#: use-case-invasive-species.en.adoc:98
 msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible?"
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:97
-#: use-case-lepidoptera-sampling.en.adoc:109
-#, no-wrap
-msgid "*Roles*\n"
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:99
-#: use-case-lepidoptera-sampling.en.adoc:111
-msgid "BIISC GIS Analyst: Advanced computer use, GIS and data analysis tools."
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:100
-#: use-case-lepidoptera-sampling.en.adoc:112
-msgid "ISC Manager: Good computer skills."
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:101
 #: use-case-lepidoptera-sampling.en.adoc:113
-msgid "ISC Outreach Associate: Good field identification skills; Basic computer use. Social media expert."
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:102
-#: use-case-lepidoptera-sampling.en.adoc:114
-msgid "Student Mentor 1: Basic taxonomic knowledge. Basic computer use."
+#, no-wrap
+msgid "*Roles*\n"
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:103
 #: use-case-lepidoptera-sampling.en.adoc:115
-msgid "Student Mentor 2: Basic taxonomic knowledge. Basic computer use."
+msgid "BIISC GIS Analyst: Advanced computer use, GIS and data analysis tools."
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:104
 #: use-case-lepidoptera-sampling.en.adoc:116
-msgid "Botany Student 1: Advanced taxonomic knowledge. Programming skills."
+msgid "ISC Manager: Good computer skills."
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:105
 #: use-case-lepidoptera-sampling.en.adoc:117
-msgid "Botany Student 2: Advanced taxonomic knowledge."
+msgid "ISC Outreach Associate: Good field identification skills; Basic computer use. Social media expert."
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:106
 #: use-case-lepidoptera-sampling.en.adoc:118
-msgid "Botany Student 3: Advanced taxonomic knowledge."
+msgid "Student Mentor 1: Basic taxonomic knowledge. Basic computer use."
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:107
 #: use-case-lepidoptera-sampling.en.adoc:119
+msgid "Student Mentor 2: Basic taxonomic knowledge. Basic computer use."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:108
+#: use-case-lepidoptera-sampling.en.adoc:120
+msgid "Botany Student 1: Advanced taxonomic knowledge. Programming skills."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:109
+#: use-case-lepidoptera-sampling.en.adoc:121
+msgid "Botany Student 2: Advanced taxonomic knowledge."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:110
+#: use-case-lepidoptera-sampling.en.adoc:122
+msgid "Botany Student 3: Advanced taxonomic knowledge."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:111
+#: use-case-lepidoptera-sampling.en.adoc:123
 msgid "Botany student 4: Advanced taxonomic knowledge."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:116
+#: use-case-invasive-species.en.adoc:120
 msgid "The BIISC is now planning to make all of the data from the project publicly available by publishing datasets to GBIF.  As the BIISC’s Outreach Assistant, you must identify the relevant Darwin Core fields to accommodate the data from the online form.  You’ve noticed that additional data describing species and locations have been added to the data form by the graduate students performing validations.  To accommodate this data, you need to extend the data structure to aggregate the data from the online form with the added taxonomy and georeferences."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:118
-msgid "Download ‘USE CASE 2 - BIISCoccurrence.csv’"
+#: use-case-invasive-species.en.adoc:122
+msgid "Download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:119
+#: use-case-invasive-species.en.adoc:123
 msgid "Using the downloaded dataset, produce a spreadsheet as example of the extended data structure and the fields you’ve identified as relevant for Darwin Core."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:120 use-case-invasive-species.en.adoc:132
-#: use-case-lepidoptera-sampling.en.adoc:131
-#: use-case-lepidoptera-sampling.en.adoc:144
-#: use-case-birds-from-literature.en.adoc:130
-#: use-case-birds-from-literature.en.adoc:155
+#: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
+#: use-case-lepidoptera-sampling.en.adoc:134
+#: use-case-lepidoptera-sampling.en.adoc:147
+#: use-case-birds-from-literature.en.adoc:134
+#: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
 msgstr ""
 
 #. type: Title ===
-#: use-case-invasive-species.en.adoc:121
-#: use-case-lepidoptera-sampling.en.adoc:132
-#: use-case-birds-from-literature.en.adoc:133
+#: use-case-invasive-species.en.adoc:125
+#: use-case-lepidoptera-sampling.en.adoc:135
+#: use-case-birds-from-literature.en.adoc:137
 #, no-wrap
 msgid "Exercise 3"
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:127
+#: use-case-invasive-species.en.adoc:131
 msgid "Over the summer, interns at the HISC main office created checklists from the original occurrence data that were collected and augmented from the online form.  Taking the role of the HSC Project Leader, you must now carry out final quality checks prior to publication."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:129
-msgid "Download ‘USE CASE 2 - BIISCChecklistPrecheckedFilledUnclean’"
+#: use-case-invasive-species.en.adoc:133
+msgid "Download link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:130
-#: use-case-lepidoptera-sampling.en.adoc:142
+#: use-case-invasive-species.en.adoc:134
+#: use-case-lepidoptera-sampling.en.adoc:145
 msgid "Evaluate the dataset and identify which types of errors are present."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:131
+#: use-case-invasive-species.en.adoc:135
 msgid "Identify possible ways to correct those issues and perform those corrections for as many of the errors as you can."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:140
+#: use-case-invasive-species.en.adoc:144
 msgid "The HISC is now ready to publish the checklist data and associated occurrences to GBIF.  For this exercise, you will take the role of the Project Leader.  Your responsibility: publishing the cleaned checklist data and associated occurrences online through the GBIF network."
 msgstr ""
 
 #. type: Plain text
-#: use-case-invasive-species.en.adoc:142
-msgid "Download USE CASE 2 - BIISCChecklistPrecheckedFilledCleanForPublication"
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:143
-#: use-case-lepidoptera-sampling.en.adoc:155
-#: use-case-birds-from-literature.en.adoc:168
-msgid "Use the previously provided IPT installation to publish the given dataset."
-msgstr ""
-
-#. type: Plain text
-#: use-case-invasive-species.en.adoc:144
-#: use-case-lepidoptera-sampling.en.adoc:156
-#: use-case-birds-from-literature.en.adoc:169
-msgid "Use the exercise sheet to provide your answers and link to the published dataset."
+#: use-case-invasive-species.en.adoc:146
+msgid "Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
 msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
-#: use-case-lepidoptera-sampling.en.adoc:159
+#: use-case-lepidoptera-sampling.en.adoc:158
 #: use-case-birds-from-literature.en.adoc:172
-msgid "Download (MS Word, ?? MB)"
+msgid "Use the previously provided IPT installation to publish the given dataset."
+msgstr ""
+
+#. type: Plain text
+#: use-case-invasive-species.en.adoc:147
+#: use-case-lepidoptera-sampling.en.adoc:158
+#: use-case-birds-from-literature.en.adoc:172
+msgid "Use the exercise sheet to provide your answers and link to the published dataset."
 msgstr ""
 
 #. type: Title ==
@@ -2419,59 +2420,65 @@ msgstr ""
 msgid "img/web/use-case-2-lepidoptera-digital-2.png"
 msgstr ""
 
+#. type: Title ===
+#: use-case-lepidoptera-sampling.en.adoc:72
+#, no-wrap
+msgid "Lepidoptera exercise sheet"
+msgstr ""
+
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:106
+#: use-case-lepidoptera-sampling.en.adoc:75
+msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:110
 msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible."
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:125
+#: use-case-lepidoptera-sampling.en.adoc:129
 msgid "Imagine you are one of the volunteers digitizing the paper logs received at the IBAN headquarters. You have received two paper logs."
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:127
-msgid "Download log 1 ‘Use Case 2 LS - Exercise 2 - Example 1.jpg’"
+#: use-case-lepidoptera-sampling.en.adoc:131
+msgid "Download logs 1 and 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:128
-msgid "Download log 2 ‘Use Case 2 LS - Exercise 2 - Example 2.pdf"
-msgstr ""
-
-#. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:129
+#: use-case-lepidoptera-sampling.en.adoc:132
 msgid "What data structure would you use to reflect the data in these logs?"
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:130
+#: use-case-lepidoptera-sampling.en.adoc:133
 msgid "Create a spreadsheet using this structure and the data from the logs."
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:139
+#: use-case-lepidoptera-sampling.en.adoc:142
 msgid "Taking the role of one of the volunteers with advanced computer skills, imagine you have been assigned the responsibility for data quality issues.  Your main task is to reduce the amount of data that is currently discarded (around a 15%) before processing due to errors and inconsistencies.  You have received a dataset as the raw product of the digitization effort."
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:141
-msgid "Download ‘Use Case 2 LS - Exercise 3 - For Cleaning.xlsx’"
+#: use-case-lepidoptera-sampling.en.adoc:144
+msgid "Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:143
+#: use-case-lepidoptera-sampling.en.adoc:146
 msgid "Identify possible ways to correct those issues, and perform those corrections for as many of the errors present as you can."
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:152
+#: use-case-lepidoptera-sampling.en.adoc:155
 msgid "For this exercise, you will take the role of the taxonomic expert collaborating with IBAN at their headquarters.  Some of your previous responsibilities (writing the annual report, and producing the base distribution maps) have been handed over to the volunteers, and you have now been given a new responsibility: publishing the cleaned data online through the GBIF network.  The volunteer in charge of data quality has provided a dataset to be published."
 msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:154
-msgid "Download ‘Use Case 2 LS - Exercise 4 - cleaned for publishing.xlsx’"
+#: use-case-lepidoptera-sampling.en.adoc:157
+msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
 msgstr ""
 
 #. type: Title ==
@@ -2653,141 +2660,152 @@ msgstr ""
 msgid "URL of the digitized book page in which the occurrence is provided"
 msgstr ""
 
+#. type: Title ===
+#: use-case-birds-from-literature.en.adoc:85
+#, no-wrap
+msgid "Birds from literature exercise sheet"
+msgstr ""
+
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:91
+#: use-case-birds-from-literature.en.adoc:88
+msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:95
 msgid "The team needs to develop a sustainable workflow to digitize literature resources, extract any valuable biodiversity information on them and publish it online via GBIF.  They need to develop a plan that can be sustained in the future once the funding from the national library association is over."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:94
+#: use-case-birds-from-literature.en.adoc:98
 msgid "The <<scenario-4,scenario>> section of this use case includes a brief description of the workflow conceived by the deputy director.  Based on the workflow and the accompanying text complete the following:"
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:96
+#: use-case-birds-from-literature.en.adoc:100
 msgid "Identify the different stakeholders participating in this project"
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:97
+#: use-case-birds-from-literature.en.adoc:101
 msgid "Identify their affiliation and assign each of them to a stakeholder group"
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:98
+#: use-case-birds-from-literature.en.adoc:102
 msgid "Identify the roles associated to them and assign the tasks for which they are currently responsible"
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:99
+#: use-case-birds-from-literature.en.adoc:103
 msgid "Perform a critical analysis of the workflow, identify potential risks and gaps, and suggest ways to improve the workflow, maximize the efficiency of the digitization project and produce data of the highest quality possible."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:107
+#: use-case-birds-from-literature.en.adoc:111
 msgid "The scans and character recognition (OCR) of the books have been completed.  Occurrence data must now be extracted from those sources and compiled in a spreadsheet format."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:109
+#: use-case-birds-from-literature.en.adoc:113
 msgid "The original data was in German and, to make it more widely usable when published online, the project manager would like to make it available in English."
 msgstr ""
 
 #. Do not translate this block
 #. type: delimited block *
-#: use-case-birds-from-literature.en.adoc:114
+#: use-case-birds-from-literature.en.adoc:118
 msgid "Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples around Viborg."
 msgstr ""
 
 #. type: delimited block *
-#: use-case-birds-from-literature.en.adoc:116
+#: use-case-birds-from-literature.en.adoc:120
 msgid "At the churches of Mönsted and Daubjerg there were several family groups in 1880, each of 7 individuals, suggesting a particularly abundant source of food on the surrounding heather (lizards). In the area of Thisted, where the tower falcon broods very often, young were always present in broods of 6, only once did I find a group of 7 on Egebäksande (H.)"
 msgstr ""
 
 #. type: delimited block *
-#: use-case-birds-from-literature.en.adoc:118
+#: use-case-birds-from-literature.en.adoc:122
 msgid "In Horsens I found kestrels brooding on the churches of Vähr, Hansted, Hundslund, Thyrsted and Oelsted. In the steeple of Vähr I found a nest with 6 eggs on 6 May 1875, 6 eggs on 30 April 1876, 4 eggs on 28 April 1878; in 1877 and 1879 there were none, on 2 May 1880 they had 5 eggs, in 1882 also 5 eggs, and in 1883 seven."
 msgstr ""
 
 #. type: delimited block *
-#: use-case-birds-from-literature.en.adoc:120
+#: use-case-birds-from-literature.en.adoc:124
 msgid "In Oelsted 5 eggs on 3 May 1879, in 1882 also 5, and in 1883 6 eggs."
 msgstr ""
 
 #. type: delimited block *
-#: use-case-birds-from-literature.en.adoc:122
+#: use-case-birds-from-literature.en.adoc:126
 msgid "On the churches (Our Lady’s and St. Peter’s) of Copenhagen, I have often seen it in the autumn and winter of 1879; in spring 1880, it brooded on Our Lady’s church, the \"round tower\" and the law firm building (in a valve) and certainly also on St. Peter's Church. (F.)"
 msgstr ""
 
 #. End block - Begin translation again
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:128
+#: use-case-birds-from-literature.en.adoc:132
 msgid "Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences.  The occurrences will need unique numbers assigned to them."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:129
+#: use-case-birds-from-literature.en.adoc:133
 msgid "Create a spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:132
+#: use-case-birds-from-literature.en.adoc:136
 msgid "In the examples used, the individual occurrences do not always contain data to complete all of the columns in the spreadsheet."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:139
+#: use-case-birds-from-literature.en.adoc:143
 msgid "Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society.  Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:145
+#: use-case-birds-from-literature.en.adoc:149
 msgid "Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography.  Since all the observations were made in Denmark, continent and country can easily be added.  Additionally, only the scientific name was provided.  Higher taxonomy can be derived utilizing software tools such as OpenRefine.  You are also aware that there are typographic errors that were made by the digitizers."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:147
-msgid "Download USE CASE 3 DL - Data File Cleaning."
-msgstr ""
-
-#. type: Plain text
-#: use-case-birds-from-literature.en.adoc:148
-msgid "Identify and correct any invalid years."
-msgstr ""
-
-#. type: Plain text
-#: use-case-birds-from-literature.en.adoc:149
-msgid "Verify and correct taxonomy."
+#: use-case-birds-from-literature.en.adoc:151
+msgid "Download link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
 msgstr ""
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
-msgid "Verify coordinates are correct for the two given localities.  Correct any that are not.  Coordinates should be in decimal format."
+msgid "Identify and correct any invalid years."
 msgstr ""
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:153
-msgid "Add any data for missing elements that can be derived using the available data"
+msgid "Verify and correct taxonomy."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:154
-msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
+#: use-case-birds-from-literature.en.adoc:156
+msgid "Verify coordinates are correct for the two given localities.  Correct any that are not.  Coordinates should be in decimal format."
 msgstr ""
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:157
+msgid "Add any data for missing elements that can be derived using the available data"
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:158
+msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:161
 msgid "dataset should contain only years 1883-1939"
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:165
+#: use-case-birds-from-literature.en.adoc:169
 msgid "For this exercise, you will take the role of the person responsible for publishing the cleaned data online via the GBIF network.  You have been supplied with a multimedia file and an identification history file that should be published along with the observations.  The staff member in charge of data quality has provided cleaned datasets for you to publish."
 msgstr ""
 
 #. type: Plain text
-#: use-case-birds-from-literature.en.adoc:167
-msgid "Download USE CASE 3 DL - Data Files Publishing from the elearning platform"
+#: use-case-birds-from-literature.en.adoc:171
+msgid "Download link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
 msgstr ""
 
 #. type: Title ==
