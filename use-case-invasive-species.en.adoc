@@ -57,6 +57,10 @@ Data were exported as comma separated value (.csv) files and given to the four U
 The BIISC GIS Analyst used the Google Maps coordinates and image EXIF data to check observations for quality and to add any missing georeferences.
 Student mentors renamed all image files to match the observation number for cross referencing later at BIISC.
 
+=== Invasives exercise sheet
+
+Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)
+
 === Exercise 1
 
 *Planning*
@@ -114,7 +118,7 @@ As the BIISC’s Outreach Assistant, you must identify the relevant Darwin Core 
 You’ve noticed that additional data describing species and locations have been added to the data form by the graduate students performing validations.
 To accommodate this data, you need to extend the data structure to aggregate the data from the online form with the added taxonomy and georeferences.
 
-. Download ‘USE CASE 2 - BIISCoccurrence.csv’
+. Download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)
 . Using the downloaded dataset, produce a spreadsheet as example of the extended data structure and the fields you’ve identified as relevant for Darwin Core.
 . Use the exercise sheet to provide your answers and submit the spreadsheet.
 
@@ -125,7 +129,7 @@ To accommodate this data, you need to extend the data structure to aggregate the
 Over the summer, interns at the HISC main office created checklists from the original occurrence data that were collected and augmented from the online form.
 Taking the role of the HSC Project Leader, you must now carry out final quality checks prior to publication.
 
-. Download ‘USE CASE 2 - BIISCChecklistPrecheckedFilledUnclean’
+. Download link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)
 . Evaluate the dataset and identify which types of errors are present. 
 . Identify possible ways to correct those issues and perform those corrections for as many of the errors as you can. 
 . Use the exercise sheet to provide your answers and submit the spreadsheet.
@@ -138,10 +142,6 @@ The HISC is now ready to publish the checklist data and associated occurrences t
 For this exercise, you will take the role of the Project Leader.
 Your responsibility: publishing the cleaned checklist data and associated occurrences online through the GBIF network.
 
-. Download USE CASE 2 - BIISCChecklistPrecheckedFilledCleanForPublication 
+. Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB) 
 . Use the previously provided IPT installation to publish the given dataset.
 . Use the exercise sheet to provide your answers and link to the published dataset.
-
-=== Exercise sheet
-
-Download (MS Word, ?? MB)
