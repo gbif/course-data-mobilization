@@ -69,6 +69,10 @@ One captures the information linked to the sampling efforts, the second the weat
 image::img/web/use-case-2-lepidoptera-digital-1.png[align="center", width="640", height="360"]
 image::img/web/use-case-2-lepidoptera-digital-2.png[align="center", width="640", height="360"]
 
+=== Lepidoptera exercise sheet
+
+Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)
+
 === Exercise 1
 
 *Planning*
@@ -123,8 +127,7 @@ The new project has the following people available for data processing and mobil
 
 Imagine you are one of the volunteers digitizing the paper logs received at the IBAN headquarters. You have received two paper logs.
 
-. Download log 1 ‘Use Case 2 LS - Exercise 2 - Example 1.jpg’
-. Download log 2 ‘Use Case 2 LS - Exercise 2 - Example 2.pdf
+. Download logs 1 and 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)
 . What data structure would you use to reflect the data in these logs?
 . Create a spreadsheet using this structure and the data from the logs.
 . Use the exercise sheet to provide your answers and submit the spreadsheet.
@@ -137,7 +140,7 @@ Taking the role of one of the volunteers with advanced computer skills, imagine 
 Your main task is to reduce the amount of data that is currently discarded (around a 15%) before processing due to errors and inconsistencies.
 You have received a dataset as the raw product of the digitization effort.
 
-. Download ‘Use Case 2 LS - Exercise 3 - For Cleaning.xlsx’
+. Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)
 . Evaluate the dataset and identify which types of errors are present. 
 . Identify possible ways to correct those issues, and perform those corrections for as many of the errors present as you can. 
 . Use the exercise sheet to provide your answers and submit the spreadsheet.
@@ -150,10 +153,6 @@ For this exercise, you will take the role of the taxonomic expert collaborating 
 Some of your previous responsibilities (writing the annual report, and producing the base distribution maps) have been handed over to the volunteers, and you have now been given a new responsibility: publishing the cleaned data online through the GBIF network.
 The volunteer in charge of data quality has provided a dataset to be published.
 
-. Download ‘Use Case 2 LS - Exercise 4 - cleaned for publishing.xlsx’ 
+. Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB) 
 . Use the previously provided IPT installation to publish the given dataset.
 . Use the exercise sheet to provide your answers and link to the published dataset.
-
-=== Exercise sheet
-
-Download (MS Word, ?? MB)
