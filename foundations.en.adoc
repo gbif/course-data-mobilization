@@ -260,14 +260,12 @@ This requires Java to be installed on your computer.
 [NOTE.quiz]
 Quiz yourself on the concepts learned in this section.
 ****
-[question, mc]
-....
-What is the binary for the word "biodiversity"?
+[question, gap]
+For the given statement, input the correct term (database, database language, database program)
 
-- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 01101110 01100011 01100101
-- [ ] 01000010 01001001 01000110 01000001
-- [ ] 01000111 01000010 01001001 01000110
-- [x] 01100010 01101001 01101111 01100100 01101001 01110110 01100101 01110010 01110011 01101001 01110100 01111001
+combines and presents functions and features for manipulating data, together in a unified interface _database program_
+structured and organized collection of data and/or information held on a computer _database_
+the way by which a human communicates with a computer _database language_
 ....
 
 [question, mc]
@@ -281,7 +279,123 @@ If you open a data file and see the following, what would you suspect is the iss
 - [x] The wrong encoding was used to open the file
 - [ ] The sender used a weird font
 ....
-****
 
-[TIP]
-Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html[^]
+[question, gap]
+....
+For the given softare, input the type of software (data capture, data management, data cleaning, data publishing).
+
+Integrated Publishing Toolkit (IPT) _data publishing_
+Specify _data capture_ and _data management_
+iNaturalist _data capture_
+OpenRefine _data cleaning_
+....
+
+[question, gap]
+....
+For the given example, input the correct data type (binary, float, integer, long integer, text, unstructured text)
+
+We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. _unstructured text_
+1236975 _long integer_
+01101111 _binary_
+1024 _integer_
+29.0 _float_
+6 rabbits were observed _text_
+....
+
+[question, mc]
+....
+What is the binary for the word "biodiversity"? (Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html)
+
+- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 01101110 01100011 01100101
+- [ ] 01000010 01001001 01000110 01000001
+- [ ] 01000111 01000010 01001001 01000110
+- [x] 01100010 01101001 01101111 01100100 01101001 01110110 01100101 01110010 01110011 01101001 01110100 01111001
+....
+
+[question, gap]
+....
+For the given example, match it to its type (boolean, integer, text, float)
+
+Yes/No or Y/N or True/False _boolean_
+4.5 or 19.47 or 137.45689 _float_
+29 butterflies were spotted or 63.4% were orange and black or between 1963 and 1973 _text_
+1 or 88 or 1204 _integer_
+....
+
+[question, mc]
+....
+Which of these terms describes a "field/column name"?
+
+- [x] Assigned
+- [ ] Descriptive
+- [x] Identifying
+- [ ] Readable
+- [x] Unique
+- [ ] User-interface
+....
+
+[question, mc]
+....
+Which of these terms describes a "field label"?
+
+- [ ] Assigned
+- [x] Descriptive
+- [ ] Identifying
+- [x] Readable
+- [ ] Unique
+- [x] User-interface
+....
+
+[question, gap]
+....
+For each statement, input the correct structure (row, column, table)
+
+All data in a table refers to a SINGLE concept. _table_
+An attribute has the SAME field/data type for every record. _column_
+Attributes of a record ALWAYS stay together. _row_
+....
+
+[question, mc]
+....
+Who determines the fitness for use of your data?
+
+- [ ] The museum or department director
+- [x] The users of the data for research or education
+- [ ] The collector of the data in the field
+- [ ] The person entering the data into the database
+....
+
+[question, gap]
+....
+For the given statements, input the matching image. (A, B, C, D)
+image::img/web/accuracyandprecision.png[align="center", width="640", height="360"]
+
+High accuracy, low precision _C_
+Low accurracy, high precision _B_
+High accuracy, high precision _D_
+Low accuracy, low precision _A_
+....
+
+[question, mc]
+....
+Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships have a hint.
+
+Collector field exists in both dataset A and B _1:1_
+Country field only exists in dataset B _0:1_
+Name field exists in dataset A, but dataset B contains First Name and Last Name fields _1:∞_
+ID field exists in both dataset A and B _1:1_
+Elevation exists in dataset A, but not in dataset B _1:0_
+Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B _1:∞_
+....
+
+[question, mc]
+....
+Metadata is important because... (select the TRUE statements)
+
+- [x] it allows users to determine if a dataset is fit for their use.
+- [ ] it allows you to share exact coordinates for each occurrence.
+- [x] it allows you to know under which legal terms the reuse of data is permitted.
+- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.
+- [ ] it allows you know about the institution's next exhibition/opening hours.
+....
+****
