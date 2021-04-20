@@ -264,9 +264,12 @@ Quiz yourself on the concepts learned in this section.
 ....
 For the given statement, input the correct term (database, database language, database program)
 
-combines and presents functions and features for manipulating data, together in a unified interface __database program__ +
-structured and organized collection of data and/or information held on a computer __database__ +
-the way by which a human communicates with a computer __database language__ +
+combines and presents functions and features for manipulating data, together in a unified interface +
+__database program__ +
+structured and organized collection of data and/or information held on a computer +
+__database__ +
+the way by which a human communicates with a computer +
+__database language__ +
 ....
 
 [question, mc]
@@ -285,23 +288,34 @@ If you open a data file and see the following, what would you suspect is the iss
 ....
 For the given softare, input the type of software (data capture, data management, data cleaning, data publishing).
 
-Integrated Publishing Toolkit (IPT) __data publishing__ +
-Specify _data capture_ and __data management__ +
-iNaturalist __data capture__ +
-OpenRefine __data cleaning__
+Integrated Publishing Toolkit (IPT) +
+__data publishing__ +
+Specify +
+__data capture__ AND __data management__ +
+iNaturalist +
+__data capture__ +
+OpenRefine +
+__data cleaning__
 ....
 
 [question, gap]
 ....
 For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)
 
-We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. __unstructured text__ +
-1236975 __long integer__ +
-01101111 __binary__ +
-1024 __integer__ +
-29.0 __float__ +
-Yes/No _boolean_ +
-6 rabbits were observed __text__
+We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +
+__unstructured text__ +
+1236975 +
+__long integer__ +
+01101111 +
+__binary__ +
+1024 +
+__integer__ +
+29.0 +
+__float__ +
+Yes/No +
+_boolean_ +
+6 rabbits were observed +
+__text__
 ....
 
 [question, mc]
@@ -332,9 +346,12 @@ Which of these terms describes a "field label"?
 ....
 For each statement, input the correct structure (row, column, table)
 
-All data in a table refers to a SINGLE concept. __table__ +
-An attribute has the SAME field/data type for every record. __column__ +
-Attributes of a record ALWAYS stay together. __row__
+All data in a table refers to a SINGLE concept. +
+__table__ +
+An attribute has the SAME field/data type for every record. +
+__column__ +
+Attributes of a record ALWAYS stay together. +
+__row__
 ....
 
 [question, mc]
@@ -349,25 +366,35 @@ Who determines the fitness for use of your data?
 
 [question, gap]
 ....
-For the given statements, input the matching image. (A, B, C, D)
+For the given statements, input the matching image. (A, B, C, D) +
 image:img/web/accuracyandprecision.png[align="center", width="640", height="360"]
 
-High accuracy, low precision __C__ +
-Low accurracy, high precision __B__ +
-High accuracy, high precision __D__ +
-Low accuracy, low precision __A__
+High accuracy, low precision +
+__C__ +
+Low accurracy, high precision +
+__B__ +
+High accuracy, high precision +
+__D__ +
+Low accuracy, low precision +
+__A__
 ....
 
-[question, mc]
+[question, gap]
 ....
 Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships have a hint.
 
-Collector field exists in both dataset A and B __1:1__ +
-Country field only exists in dataset B __0:1__ +
-Name field exists in dataset A, but dataset B contains First Name and Last Name fields __1:∞__ +
-ID field exists in both dataset A and B __1:1__ +
-Elevation exists in dataset A, but not in dataset B __1:0__ +
-Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B __1:∞__
+Collector field exists in both dataset A and B +
+__1:1__ +
+Country field only exists in dataset B +
+__0:1__ +
+Name field exists in dataset A, but dataset B contains First Name and Last Name fields +
+__1:∞__ +
+ID field exists in both dataset A and B +
+__1:1__ +
+Elevation exists in dataset A, but not in dataset B +
+__1:0__ +
+Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +
+__1:∞__
 ....
 
 [question, mc]
