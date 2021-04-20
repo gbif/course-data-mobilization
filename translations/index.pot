@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-20 13:30+0000\n"
+"POT-Creation-Date: 2021-04-20 17:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -284,7 +284,7 @@ msgstr ""
 msgid ""
 "All files for the course may be downloaded from this page.  Or if you "
 "prefer, all files are linked individually throughout the course as they "
-"occur in the curriculum.  The video files are embbedded throughout the "
+"occur in the curriculum.  The video files are embedded throughout the "
 "course, as well, and play from Vimeo.  If you have difficulty accessing "
 "Vimeo.com, please download the mp4 files to play them locally on your "
 "computer."
@@ -819,7 +819,7 @@ msgstr ""
 #: foundations.en.adoc:178
 msgid ""
 "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) is "
-"the coordination center for the United States National Resource for "
+"the coordination centre for the United States National Resource for "
 "Advancing Digitization of Biodiversity Collections "
 "(https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]).  They lead "
 "a nation-wide effort to make data and images for millions of biological "
@@ -975,7 +975,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "*Learning curve*: Some software may require specific training to learn how "
-"to use it, while others are more intuitive and can be learnt while using "
+"to use it, while others are more intuitive and can be learned while using "
 "them, supported by in-line help systems.\n"
 msgstr ""
 
@@ -1191,7 +1191,7 @@ msgstr ""
 #: foundations.en.adoc:290
 #, no-wrap
 msgid ""
-"3. For the given softare, input the type of software (data capture, data "
+"3. For the given software, input the type of software (data capture, data "
 "management, data cleaning, data publishing).\n"
 msgstr ""
 
@@ -1324,7 +1324,7 @@ msgstr ""
 msgid ""
 "High accuracy, low precision +\n"
 "__C__ +\n"
-"Low accurracy, high precision +\n"
+"Low accuracy, high precision +\n"
 "__B__ +\n"
 "High accuracy, high precision +\n"
 "__D__ +\n"
@@ -1894,7 +1894,7 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:100 capture.en.adoc:53 management.en.adoc:42
-#: management.en.adoc:67 management.en.adoc:83 publishing.en.adoc:53
+#: management.en.adoc:68 management.en.adoc:84 publishing.en.adoc:53
 msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr ""
 
@@ -1977,7 +1977,7 @@ msgid "Were there common issues that came up across the groups?"
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:140
+#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:141
 #: publishing.en.adoc:54
 #, no-wrap
 msgid "Review"
@@ -2345,41 +2345,41 @@ msgid "The three categories of errors are:"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:57
+#: management.en.adoc:58
 msgid "Nomenclatural errors"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:58
+#: management.en.adoc:59
 msgid "Format errors"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:59
+#: management.en.adoc:60
 msgid "Geographic errors / outliers"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:62
+#: management.en.adoc:63
 msgid ""
 "Refer to <<Helpful tools>> in order to complete the exercise.  You are not "
 "limited to these tools, you may use any tools you like."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:63
+#: management.en.adoc:64
 msgid "Use the same file from the previous exercise."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:64
+#: management.en.adoc:65
 msgid ""
 "Make the correction ONLY for the Eriocaulaceae family (so you may want to "
 "filter the data)"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:65
+#: management.en.adoc:66
 msgid ""
 "Correct the errors found in the dataset used in exercise 3a (previous "
 "exercise), using the tools of your choice, and document the changes you "
@@ -2387,18 +2387,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:66
+#: management.en.adoc:67
 msgid "Correct the entire file if you have time."
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:68
+#: management.en.adoc:69
 #, no-wrap
 msgid "Exercise 3c"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:72
+#: management.en.adoc:73
 msgid ""
 "In this video (??:??), you will learn about "
 "https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize "
@@ -2407,20 +2407,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:76 keydocs.en.adoc:78
+#: management.en.adoc:77 keydocs.en.adoc:78
 #, no-wrap
 msgid "*OpenRefine*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:78
+#: management.en.adoc:79
 msgid ""
 "In this exercise we use OpenRefine to improve the quality of a dataset by "
 "using the default features, existing web services and regular expressions."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:80
+#: management.en.adoc:81
 msgid ""
 "Download "
 "link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. "
@@ -2428,7 +2428,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:82
+#: management.en.adoc:83
 msgid ""
 "Download and complete the exercises in "
 "link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. "
@@ -2438,19 +2438,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: management.en.adoc:84
+#: management.en.adoc:85
 #, no-wrap
 msgid "Exercise tips"
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:86
+#: management.en.adoc:87
 #, no-wrap
 msgid "Validation checks"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:91
+#: management.en.adoc:92
 #, no-wrap
 msgid ""
 "*Technical errors*\n"
@@ -2461,7 +2461,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:94
+#: management.en.adoc:95
 #, no-wrap
 msgid ""
 "*Completeness*: \n"
@@ -2470,7 +2470,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:96
+#: management.en.adoc:97
 #, no-wrap
 msgid ""
 "*Bounds*: \n"
@@ -2478,7 +2478,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:98
+#: management.en.adoc:99
 #, no-wrap
 msgid ""
 "*Data type*: \n"
@@ -2486,7 +2486,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:100
+#: management.en.adoc:101
 #, no-wrap
 msgid ""
 "*Data format*: \n"
@@ -2494,13 +2494,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:102
+#: management.en.adoc:103
 #, no-wrap
 msgid "*Consistency errors*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:108
+#: management.en.adoc:109
 msgid ""
 "Application of real-world rules to the data.  These may indicate incorrect "
 "data entry from older records, transcription errors or post processing.  "
@@ -2510,7 +2510,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:111
+#: management.en.adoc:112
 #, no-wrap
 msgid ""
 "*Taxonomic*: \n"
@@ -2519,16 +2519,16 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:113
+#: management.en.adoc:114
 #, no-wrap
 msgid ""
 "*Currency*: \n"
-"Are dates of collection, identification, update and digitisation "
+"Are dates of collection, identification, update and digitization "
 "consistent?\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:116
+#: management.en.adoc:117
 #, no-wrap
 msgid ""
 "*Outliers*: \n"
@@ -2540,7 +2540,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:119
+#: management.en.adoc:120
 #, no-wrap
 msgid ""
 "*Geographic*: \n"
@@ -2550,19 +2550,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:123
+#: management.en.adoc:124
 #, no-wrap
 msgid ""
 "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the "
-"organisation or collector?\n"
+"organization or collector?\n"
 "Do any records appear to have been created after a collector has died (could "
 "this possibly be a different collector with a similar name)?\n"
 "For example, are any mammal records attributed to a bird watching group?\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:125
+#: management.en.adoc:126
 #, no-wrap
 msgid ""
 "*Accuracy and precision*: \n"
@@ -2571,7 +2571,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:128
+#: management.en.adoc:129
 #, no-wrap
 msgid ""
 "*Collecting methods*: \n"
@@ -2581,37 +2581,37 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:129
+#: management.en.adoc:130
 #, no-wrap
 msgid "Helpful tools"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:132
+#: management.en.adoc:133
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:133
+#: management.en.adoc:134
 #, no-wrap
 msgid "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:134
+#: management.en.adoc:135
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:135
+#: management.en.adoc:136
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:136
+#: management.en.adoc:137
 #, no-wrap
 msgid ""
 "*Canadensys coordinate conversion*: "
@@ -2619,19 +2619,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:137
+#: management.en.adoc:138
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:138
+#: management.en.adoc:139
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:139
+#: management.en.adoc:140
 #, no-wrap
 msgid ""
 "*Georeferencing Calculator*: "
@@ -4205,7 +4205,7 @@ msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:10
-msgid "Simple DarwinCore"
+msgid "Simple Darwin Core"
 msgstr ""
 
 #. type: Plain text
@@ -5123,7 +5123,7 @@ msgid ""
 "part of https://www.gbif.org/bid[Biodiversity Information Development^], a "
 "programme funded by the https://europa.eu[European Union^]. The original "
 "curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie "
-"Pamerlon, Alberto Gonzalez Talavan, Mélainie Raymond, Laura Anne Russell and "
+"Pamerlon, Alberto Gonzalez Talavan, Mélianie Raymond, Laura Anne Russell and "
 "Katia Cezón, with additional contributions by GBIF trainers, mentors and "
 "students."
 msgstr ""
