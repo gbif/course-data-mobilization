@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-20 12:49+0000\n"
+"POT-Creation-Date: 2021-04-20 13:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1145,7 +1145,7 @@ msgstr ""
 #: foundations.en.adoc:266
 #, no-wrap
 msgid ""
-". For the given statement, input the correct term (database, database "
+"1. For the given statement, input the correct term (database, database "
 "language, database program)\n"
 msgstr ""
 
@@ -1167,7 +1167,7 @@ msgstr ""
 #: foundations.en.adoc:278
 #, no-wrap
 msgid ""
-". If you open a data file and see the following, what would you suspect is "
+"2. If you open a data file and see the following, what would you suspect is "
 "the issue?\n"
 msgstr ""
 
@@ -1191,7 +1191,7 @@ msgstr ""
 #: foundations.en.adoc:290
 #, no-wrap
 msgid ""
-". For the given softare, input the type of software (data capture, data "
+"3. For the given softare, input the type of software (data capture, data "
 "management, data cleaning, data publishing).\n"
 msgstr ""
 
@@ -1213,7 +1213,7 @@ msgstr ""
 #: foundations.en.adoc:304
 #, no-wrap
 msgid ""
-". For the given example, input the correct data type (binary, boolean, "
+"4. For the given example, input the correct data type (binary, boolean, "
 "float, integer, long integer, text, unstructured text)\n"
 msgstr ""
 
@@ -1242,7 +1242,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:324
 #, no-wrap
-msgid ". Which of these terms describes a \"field/column name\"?\n"
+msgid "5. Which of these terms describes a \"field/column name\"?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1260,7 +1260,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:336
 #, no-wrap
-msgid ". Which of these terms describes a \"field label\"?\n"
+msgid "6. Which of these terms describes a \"field label\"?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1278,7 +1278,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:348
 #, no-wrap
-msgid ". For each statement, input the correct structure (row, column, table)\n"
+msgid "7. For each statement, input the correct structure (row, column, table)\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1296,7 +1296,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:360
 #, no-wrap
-msgid ". Who determines the fitness for use of your data?\n"
+msgid "8. Who determines the fitness for use of your data?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1313,7 +1313,7 @@ msgstr ""
 #: foundations.en.adoc:371
 #, no-wrap
 msgid ""
-". For the given statements, input the matching image. (A, B, C, D)\n"
+"9. For the given statements, input the matching image. (A, B, C, D)\n"
 "image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", "
 "height=\"360\"]\n"
 msgstr ""
@@ -1336,7 +1336,7 @@ msgstr ""
 #: foundations.en.adoc:385
 #, no-wrap
 msgid ""
-". Identify the data relationships where Dataset B needs to be merged into "
+"10. Identify the data relationships where Dataset B needs to be merged into "
 "Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.\n"
 msgstr ""
 
@@ -1363,7 +1363,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:403
 #, no-wrap
-msgid ". Metadata is important because (select the TRUE statements):\n"
+msgid "11. Metadata is important because (select the TRUE statements):\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1986,7 +1986,7 @@ msgstr ""
 #. type: delimited block .
 #: planning.en.adoc:135
 #, no-wrap
-msgid "What is the order of the five PMBoK Process Groupings?\n"
+msgid "1. What is the order of the five PMBoK Process Groupings?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -2002,7 +2002,7 @@ msgstr ""
 #. type: delimited block .
 #: planning.en.adoc:145
 #, no-wrap
-msgid "What are the types of deliverables? (multiple correct answers)\n"
+msgid "2. What are the types of deliverables? (multiple correct answers)\n"
 msgstr ""
 
 #. type: delimited block .
@@ -2020,7 +2020,7 @@ msgstr ""
 #. type: delimited block .
 #: planning.en.adoc:157
 #, no-wrap
-msgid "What is a bottleneck?\n"
+msgid "3. What is a bottleneck?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -2036,7 +2036,7 @@ msgstr ""
 #. type: delimited block .
 #: planning.en.adoc:166
 #, no-wrap
-msgid "Which are examples of mobilization tasks? (multiple correct answers)\n"
+msgid "4. Which are examples of mobilization tasks? (multiple correct answers)\n"
 msgstr ""
 
 #. type: delimited block .
