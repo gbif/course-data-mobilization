@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-20 17:04+0000\n"
-"PO-Revision-Date: 2021-04-20 22:22\n"
+"PO-Revision-Date: 2021-04-20 23:25\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -666,12 +666,12 @@ msgstr ""
 #: foundations.en.adoc:216
 #, no-wrap
 msgid "Install OpenRefine"
-msgstr ""
+msgstr "Installer OpenRefine"
 
 #. type: delimited block *
 #: foundations.en.adoc:219
 msgid "Install software required for activities later in the course"
-msgstr ""
+msgstr "Installer le logiciel requis pour les activités qui seront donné plus tard dans le cours"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: foundations.en.adoc:220
@@ -693,102 +693,102 @@ msgstr ""
 #. type: delimited block *
 #: foundations.en.adoc:230
 msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
-msgstr ""
+msgstr "Nous utiliserons OpenRefine pendant la partie du cours concernant la mobilisation des données , en particulier pendant les exercices pratiques. Il sera nécessaire d'installer OpenRefine sur votre ordinateur portable. Si vous êtes sûr de vos capacité, vous pouvez suivre les étapes fournit dans le lien ci-dessous, pour installer le logiciel sur votre ordinateur. Si vous n'êtes pas sûr d'y arriver, veuillez demander de l'aide. Reportez-vous ce lien pour l'installation: https://openrefine.org/download.html[OpenRefine download page^] pour plus de détails."
 
 #. type: delimited block *
 #: foundations.en.adoc:232
 msgid "Administrative passwords may be required to install software."
-msgstr ""
+msgstr "Des mots de passe administratifs peuvent être requis pour installer ces logiciels."
 
 #. type: Title ====
 #: foundations.en.adoc:233
 #, no-wrap
 msgid "Installation Requirements"
-msgstr ""
+msgstr "Prérequis pour l’installation"
 
 #. type: delimited block *
 #: foundations.en.adoc:236
 msgid "Java JRE installed."
-msgstr ""
+msgstr "Installation de Java JRE."
 
 #. type: delimited block *
 #: foundations.en.adoc:237
 msgid "Google Chrome or Mozilla Firefox installed, avoid using Internet Explorer."
-msgstr ""
+msgstr "Installés Google Chrome ou Mozilla Firefox, évitez d'utiliser Internet Explorer."
 
 #. type: delimited block *
 #: foundations.en.adoc:239
 msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
-msgstr ""
+msgstr "La dernière version stable est OpenRefine 3.4.1, publiée le 24 septembre 2020. Les instructions d'installation détaillées sont disponibles sur https://docs.openrefine.org/manual/installing/[^]."
 
 #. type: Title ====
 #: foundations.en.adoc:240
 #, no-wrap
 msgid "Installation on MS Windows"
-msgstr ""
+msgstr "Installation sûr MS Windows"
 
 #. type: delimited block *
 #: foundations.en.adoc:243
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[Windows kit] or https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit with embedded Java]."
-msgstr ""
+msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[Windows kit] ou https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit with embedded Java]."
 
 #. type: delimited block *
 #: foundations.en.adoc:244
 msgid "Unzip, and double-click on openrefine.exe or refine.bat if the former does not work.."
-msgstr ""
+msgstr "Décompresser le fichier zip, et double-cliquez sur openrefine.exe ou refine.bat si le premier ne fonctionne pas.."
 
 #. type: delimited block *
 #: foundations.en.adoc:245
 msgid "A command window will appear (don't close it) and immediately after a new web browser window will show the application."
-msgstr ""
+msgstr "Une fenêtre de commande apparaîtra (ne la fermez pas) et aussitôt, une nouvelle fenêtre de navigateur Web affichera l'application."
 
 #. type: Title ====
 #: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on Mac"
-msgstr ""
+msgstr "Installation sûr Mac"
 
 #. type: delimited block *
 #: foundations.en.adoc:249
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit.]"
-msgstr ""
+msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit.]"
 
 #. type: delimited block *
 #: foundations.en.adoc:251
 msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
-msgstr ""
+msgstr "Téléchargement, ouvrez, glissez l'icône dans le dossier d'applications. Vous n'avez pas besoin d'installer Java séparément."
 
 #. type: delimited block *
 #: foundations.en.adoc:252
 msgid "Double click on it and a new web browser window will show the application."
-msgstr ""
+msgstr "Faites un double clic dessus et une nouvelle fenêtre de navigateur Web affichera l'application."
 
 #. type: Title ====
 #: foundations.en.adoc:253
 #, no-wrap
 msgid "Installation on Linux"
-msgstr ""
+msgstr "Installation sûr Linux"
 
 #. type: delimited block *
 #: foundations.en.adoc:256
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit.]"
-msgstr ""
+msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit.]"
 
 #. type: delimited block *
 #: foundations.en.adoc:258
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
-msgstr ""
+msgstr "Téléchargez, faites extrait, puis tapez ./refine pour démarrer. Cela nécessite que Java soit installé sur votre ordinateur."
 
 #. type: Title ===
 #: foundations.en.adoc:259
 #, no-wrap
 msgid "Foundations review"
-msgstr ""
+msgstr "Revue des fondations"
 
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr ""
+msgstr "Veuillez prendre un quiz sur les concepts que vous avez appris dans cette section."
 
 #. type: delimited block .
 #: foundations.en.adoc:266
