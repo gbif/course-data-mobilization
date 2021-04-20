@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-20 13:30+0000\n"
-"PO-Revision-Date: 2021-04-20 15:33\n"
+"PO-Revision-Date: 2021-04-20 16:32\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -240,35 +240,35 @@ msgstr "Vidéos"
 #. type: Plain text
 #: downloads.en.adoc:10
 msgid "The videos are narrated in English. Subtitles are available for French, Spanish and Portuguese."
-msgstr ""
+msgstr "Les vidéos sont narrées en anglais. Les sous-titres sont disponibles en français, espagnol et portugais."
 
 #. type: Title ===
 #: downloads.en.adoc:12
 #, no-wrap
 msgid "Exercise data"
-msgstr ""
+msgstr "Données des exercices"
 
 #. type: Title ===
 #: downloads.en.adoc:15
 #, no-wrap
 msgid "Exercise sheets"
-msgstr ""
+msgstr "Feuilles d'exercice"
 
 #. type: Plain text
 #: downloads.en.adoc:17
 msgid "This compressed file contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr ""
+msgstr "Ce fichier compressé contient les feuilles d'exercices pour tous les cas d'études. Les feuilles d'exercices sont rédigées en anglais et doivent être remplies en anglais."
 
 #. type: Title ==
 #: foundations.en.adoc:2
 #, no-wrap
 msgid "Foundations "
-msgstr ""
+msgstr "Fondations "
 
 #. type: Plain text
 #: foundations.en.adoc:9
 msgid "This module includes instruction to ensure all participants are at the same level before delving into the data mobilization topics.  You will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.  You will also receive an introduction to data quality and learn the importance of documentation.  Lastly, you will be asked to install the OpenRefine software as part of this module."
-msgstr ""
+msgstr "Ce module comprend des instructions pour s'assurer que tous les participants sont au même niveau avant de se plonger dans les sujets de mobilisation des données. Vous recevrez une introduction au langage, à la terminologie et aux définitions de certains des concepts, fonctions et processus de base que vous allez mettre en oeuvre pendant le reste du cours. Vous recevrez également une introduction à la qualité des données et découvrirez l'importance de la documentation. Enfin, il vous sera demandé d'installer le logiciel OpenRefine dans le cadre de ce module."
 
 #. type: Title ===
 #: foundations.en.adoc:10
@@ -285,7 +285,7 @@ msgstr "Définitions"
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (12:02), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez utiliser le lien : ../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:19
@@ -296,60 +296,61 @@ msgstr "Logiciel"
 #. type: Plain text
 #: foundations.en.adoc:23
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez utiliser le lien \n"
+" ::../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:25
 msgid "video::434713189[vimeo, height=480, width=640, align=center]"
-msgstr ""
+msgstr "video::434713189[vimeo, height=480, width=640, align=center]"
 
 #. type: Title ====
 #: foundations.en.adoc:26
 #, no-wrap
 msgid "Structures"
-msgstr ""
+msgstr "Structures"
 
 #. type: Plain text
 #: foundations.en.adoc:30
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (13:10), vous passerez en revue les types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données et ce que cela signifie pour l'intégrité et la sécurité de vos données. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez utiliser le lien : ../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:33
 #, no-wrap
 msgid "Data quality"
-msgstr ""
+msgstr "Qualité des données"
 
 #. type: Plain text
 #: foundations.en.adoc:37
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez utiliser le lien: ../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:44
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
-msgstr ""
+msgstr "Vous trouverez ci-dessous une sélection de recommandation de lecture du guide d’Arthur Chapman «Principles of data quality». https://www.gbif.org/document/80509/principles-of-data-quality[Full document ^], des références et des traductions peuvent être trouvées sur GBIF.org."
 
 #. type: delimited block _
 #: foundations.en.adoc:49
 msgid "Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described.  These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data."
-msgstr ""
+msgstr "Avant qu'une discussion détaillée sur la qualité des données et son application aux données d'occurrence des espèces puisse avoir lieu, il y a un certain nombre de concepts qui doivent être définis et décrits. Ceux-ci incluent le terme de qualité des données lui-même, les termes exactitude et précision qui sont souvent mal appliqués, et ce que nous entendons par données primaires sur les espèces et données d'occurrence des espèces."
 
 #. type: delimited block _
 #: foundations.en.adoc:51
 #, no-wrap
 msgid "*Species-occurrence data*\n"
-msgstr ""
+msgstr "*Species-occurrence data*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:55
 msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
-msgstr ""
+msgstr "Les données d'occurrence d'espèces sont utilisées ici pour inclure des données d'étiquettes de spécimens attachées à des spécimens ou des lots hébergés dans des musées et des herbiers, des données d'observation et des données d'enquêtes environnementales. En général, les données sont ce que nous appelons «basées sur des points», bien que des lignes (données de transect provenant d'enquêtes environnementales, des collectes le long d'une rivière), des polygones (observations à l'intérieur d'une zone définie comme un parc national) et des données de grille (observations ou les enregistrements d'enquête d'une grille régulière) sont également inclus. En général, nous parlons de données géoréférencées - c'est-à-dire d'enregistrements avec des références géographiques qui les lient à un endroit particulier dans l'espace - que ce soit avec une coordonnée géoréférencée (ex: latitude et longitude, UTM) ou non (description textuelle d'une localité, altitude, profondeur) - et l'heure (date, heure du jour)."
 
 #. type: delimited block _
 #: foundations.en.adoc:58
 msgid "In general the data are also tied to a taxonomic name, but unidentified collections may also be included.  The term has occasionally been used interchangeably with the term “primary species data”."
-msgstr ""
+msgstr "En général, les données sont également liées à un nom taxonomique, mais des collections non identifiées peuvent également être incluses. Le terme a parfois été utilisé de manière interchangeable avec le terme “primary species data”."
 
 #. type: delimited block _
 #: foundations.en.adoc:60
