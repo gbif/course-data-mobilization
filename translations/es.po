@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-20 13:07+0000\n"
-"PO-Revision-Date: 2021-04-20 13:30\n"
+"POT-Creation-Date: 2021-04-20 13:30+0000\n"
+"PO-Revision-Date: 2021-04-20 14:29\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,12 +20,12 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Biodiversity Data Mobilization Course"
-msgstr ""
+msgstr "Movilización de datos sobre biodiversidad"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <training@gbif.org>"
-msgstr ""
+msgstr "Secretaría del GBIF <training@gbif.org>"
 
 #. type: Plain text
 #: index.en.adoc:17
@@ -48,17 +48,17 @@ msgstr ""
 #: description.en.adoc:2
 #, no-wrap
 msgid "Course description"
-msgstr ""
+msgstr "Descripción del curso"
 
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "This course enables participants to plan and implement biodiversity data mobilization efforts effectively using accepted community standards.  Its aim is to increase the volume, richness and quality of the data published through the GBIF network.  This course was first developed as part of the Biodiversity Information for Development (BID) programme funded by the European Union."
-msgstr ""
+msgstr "Este curso capacita a los participantes para planificar y poner en práctica los esfuerzos de movilización de datos de biodiversidad de forma eficaz utilizando los estándares comunitarios aceptados.  Su objetivo es aumentar el volumen, la riqueza y la calidad de los datos publicados a través de la red GBIF.  Este curso se desarrolló por primera vez como parte del programa de Información sobre Biodiversidad para el Desarrollo (BID) financiado por la Unión Europea."
 
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "Topics include:"
-msgstr ""
+msgstr "Temas:"
 
 #. type: delimited block *
 #: description.en.adoc:12
@@ -3383,17 +3383,17 @@ msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:82
-msgid "Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data. 2012. iPhylo blog post. Rod Page. Google Refine is an elegant tool for data cleaning. One of its most powerful features is the ability to call \"Reconciliation Services\" to help clean data, for example by matching names to external identifiers."
+msgid "Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data. 2012. iPhylo blog post. Rod Page."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:83
-msgid "Reconciling author names using Open Refine and VIAF. 2013. iPhylo blog post. Rod Page. In an earlier post, I discussed using Open Refine (formerly Google Refine) to clean and reconcile taxon names. I've added an additional service that can be used to reconcile author names that uses the Virtual International Authority File (VIAF) API. Using this service we can match authors to VIAF identifiers (you may have noticed these appearing on people's pages in Wikipedia, e.g. Mary J. Rathbun's Wikipedia page lists her VIAF as 61796012)."
+msgid "Reconciling author names using Open Refine and VIAF. 2013. iPhylo blog post. Rod Page."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:84
-msgid "Validating scientific names with the GBIF Portal web service API. 2013. This guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick, and is being cross-posted to the VertNet Blog."
+msgid "Validating scientific names with the GBIF Portal web service API. 2013. This guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick, and was cross-posted to the VertNet Blog."
 msgstr ""
 
 #. type: Plain text
@@ -3403,12 +3403,12 @@ msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:86
-msgid "Have We Got the Names “Right”? 2014. Canadensys blog post regarding a workshop. Participants in the workshop, many of whom arrived with data in-hand, elected to use Open Refine. We picked-up from the work Rod Page started a few years ago. Similar work has been done by Gaurav Vaidya and the VertNet team with superb documentation. The Canadensys development team tweaked Rod’s code to connect to web services offered by the Global Names Resolver and the Database of Vascular Plants of Canada, each of which are high-performance services that accept scientific names in batches and produce responses containing full namestrings and hierarchies. Rod’s code was an excellent first pass, but we noticed that it could be made much more performant so we made a temporary service for the workshop and a temporary code repository. The Canadensys development team is contemplating a dedicated Open Refine service for the Database of Vascular Plants of Canada (VASCAN) and we’ve shared our approach with members of the Global Names project."
+msgid "Have We Got the Names “Right”? 2014. Canadensys blog post regarding a workshop using OpenRefine."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:87
-msgid "Cleaning data with OpenRefine. 2016. TDWG Presentation. Desmet and Brosens. Short introduction on Google Refine, on biodiversity data."
+msgid "Cleaning data with OpenRefine. 2016. TDWG Presentation. Desmet and Brosens."
 msgstr ""
 
 #. type: Plain text
@@ -3418,7 +3418,7 @@ msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:89
-msgid "EasyOpen Redlist. An accessible method of querying the IUCN Red List, using a species list, the free software OpenRefine, and some pre-written code. Olly Griffin, July 2019. We often have a list of species - a checklist, or a set of species of interest for a project - for which we want to know the IUCN Red List category: Critically Endangered, Vulnerable, Least Concern etc. Manually searching the IUCN Red List website species by species would be slow for lists longer than 10 species, and practically impossible for a list longer than 1,000 species. I wrote a quick guide, link below, which shows you how to automatically return the Red List category, along with a number of other useful results, from the IUCN database using the free software OpenRefine to query the IUCN RedList API with pre-written code that works for any clean list of species scientific names. There is also a video which shows the process in action. I mostly use this for updating our long (900+) species list for KSWS. It can also be useful for research results, reports, publications, website data, national species lists, and anything where you’re dealing with a significant number of species. This process can be done in other ways – using R, for example – but this is an accessible method that requires no coding. I hope you find this useful. Please let me now if anything is not clear, and feel free to share with others who may also be interested."
+msgid "EasyOpen Redlist. An accessible method of querying the IUCN Red List, using a species list, the free software OpenRefine, and some pre-written code. Olly Griffin, July 2019."
 msgstr ""
 
 #. type: Plain text
