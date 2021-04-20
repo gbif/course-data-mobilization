@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-20 09:58+0000\n"
-"PO-Revision-Date: 2021-04-20 11:20\n"
+"POT-Creation-Date: 2021-04-20 12:26+0000\n"
+"PO-Revision-Date: 2021-04-20 12:32\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -792,32 +792,31 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:266
 #, no-wrap
-msgid "What is the binary for the word \"biodiversity\"?\n"
+msgid "For the given statement, input the correct term (database, database language, database program)\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:271
+#: foundations.en.adoc:270
 #, no-wrap
-msgid "- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 01101110 01100011 01100101\n"
-"- [ ] 01000010 01001001 01000110 01000001\n"
-"- [ ] 01000111 01000010 01001001 01000110\n"
-"- [x] 01100010 01101001 01101111 01100100 01101001 01110110 01100101 01110010 01110011 01101001 01110100 01111001\n"
+msgid "combines and presents functions and features for manipulating data, together in a unified interface __database program__ +\n"
+"structured and organized collection of data and/or information held on a computer __database__ +\n"
+"the way by which a human communicates with a computer __database language__ +\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:276
+#: foundations.en.adoc:275
 #, no-wrap
 msgid "If you open a data file and see the following, what would you suspect is the issue?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:278
+#: foundations.en.adoc:277
 #, no-wrap
 msgid "�tre, ou ne pas �tre, c�est l� la question.\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:283
+#: foundations.en.adoc:282
 #, no-wrap
 msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
@@ -825,9 +824,149 @@ msgid "- [ ] Nothing\n"
 "- [ ] The sender used a weird font\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block .
 #: foundations.en.adoc:287
-msgid "Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html[^]"
+#, no-wrap
+msgid "For the given softare, input the type of software (data capture, data management, data cleaning, data publishing).\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:292
+#, no-wrap
+msgid "Integrated Publishing Toolkit (IPT) __data publishing__ +\n"
+"Specify _data capture_ and __data management__ +\n"
+"iNaturalist __data capture__ +\n"
+"OpenRefine __data cleaning__\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:297
+#, no-wrap
+msgid "For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:305
+#, no-wrap
+msgid "We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. __unstructured text__ +\n"
+"1236975 __long integer__ +\n"
+"01101111 __binary__ +\n"
+"1024 __integer__ +\n"
+"29.0 __float__ +\n"
+"Yes/No _boolean_ +\n"
+"6 rabbits were observed __text__\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:310
+#, no-wrap
+msgid "Which of these terms describes a \"field/column name\"?\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:317
+#, no-wrap
+msgid "- [x] Assigned\n"
+"- [ ] Descriptive\n"
+"- [x] Identifying\n"
+"- [ ] Readable\n"
+"- [x] Unique\n"
+"- [ ] User-interface\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:322
+#, no-wrap
+msgid "Which of these terms describes a \"field label\"?\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:329
+#, no-wrap
+msgid "- [ ] Assigned\n"
+"- [x] Descriptive\n"
+"- [ ] Identifying\n"
+"- [x] Readable\n"
+"- [ ] Unique\n"
+"- [x] User-interface\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:334
+#, no-wrap
+msgid "For each statement, input the correct structure (row, column, table)\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:338
+#, no-wrap
+msgid "All data in a table refers to a SINGLE concept. __table__ +\n"
+"An attribute has the SAME field/data type for every record. __column__ +\n"
+"Attributes of a record ALWAYS stay together. __row__\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:343
+#, no-wrap
+msgid "Who determines the fitness for use of your data?\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:348
+#, no-wrap
+msgid "- [ ] The museum or department director\n"
+"- [x] The users of the data for research or education\n"
+"- [ ] The collector of the data in the field\n"
+"- [ ] The person entering the data into the database\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:354
+#, no-wrap
+msgid "For the given statements, input the matching image. (A, B, C, D)\n"
+"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:359
+#, no-wrap
+msgid "High accuracy, low precision __C__ +\n"
+"Low accurracy, high precision __B__ +\n"
+"High accuracy, high precision __D__ +\n"
+"Low accuracy, low precision __A__\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:364
+#, no-wrap
+msgid "Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships have a hint.\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:371
+#, no-wrap
+msgid "Collector field exists in both dataset A and B __1:1__ +\n"
+"Country field only exists in dataset B __0:1__ +\n"
+"Name field exists in dataset A, but dataset B contains First Name and Last Name fields __1:∞__ +\n"
+"ID field exists in both dataset A and B __1:1__ +\n"
+"Elevation exists in dataset A, but not in dataset B __1:0__ +\n"
+"Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B __1:∞__\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:376
+#, no-wrap
+msgid "Metadata is important because (select the TRUE statements):\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:382
+#, no-wrap
+msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
+"- [ ] it allows you to share exact coordinates for each occurrence.\n"
+"- [x] it allows you to know under which legal terms the reuse of data is permitted.\n"
+"- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
+"- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
 msgstr ""
 
 #. type: Title ==
