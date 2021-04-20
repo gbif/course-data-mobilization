@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-08 10:51+0000\n"
-"PO-Revision-Date: 2021-04-08 11:36\n"
+"POT-Creation-Date: 2021-04-20 09:58+0000\n"
+"PO-Revision-Date: 2021-04-20 11:20\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -784,8 +784,8 @@ msgstr ""
 msgid "Foundations review"
 msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:262
+#. type: Plain text
+#: foundations.en.adoc:262 planning.en.adoc:130
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -1292,6 +1292,68 @@ msgstr ""
 #: publishing.en.adoc:54
 #, no-wrap
 msgid "Review"
+msgstr ""
+
+#. type: delimited block .
+#: planning.en.adoc:135
+#, no-wrap
+msgid "What is the order of the five PMBoK Process Groupings?\n"
+msgstr ""
+
+#. type: delimited block .
+#: planning.en.adoc:140
+#, no-wrap
+msgid "- [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closing\n"
+"- [x] Initiating, Planning, Executing, Monitoring and Controlling, Closing\n"
+"- [ ] Initiating, Planning, Executing, Closing, Monitoring and Controlling\n"
+"- [ ] Initiating, Planning, Monitoring and Controlling, Executing, Closing\n"
+msgstr ""
+
+#. type: delimited block .
+#: planning.en.adoc:145
+#, no-wrap
+msgid "What are the types of deliverables? (multiple correct answers)\n"
+msgstr ""
+
+#. type: delimited block .
+#: planning.en.adoc:152
+#, no-wrap
+msgid "- [x] Stated\n"
+"- [x] Implied\n"
+"- [ ] Estimated\n"
+"- [x] Direct\n"
+"- [x] Indirect\n"
+"- [ ] Guesses\n"
+msgstr ""
+
+#. type: delimited block .
+#: planning.en.adoc:157
+#, no-wrap
+msgid "What is a bottleneck?\n"
+msgstr ""
+
+#. type: delimited block .
+#: planning.en.adoc:161
+#, no-wrap
+msgid "- [x] a blockage that delays development or progress\n"
+"- [ ] a space where something or someone is missing\n"
+"- [ ] a problem, or situation that prevents somebody from doing something, or that makes something impossible.\n"
+msgstr ""
+
+#. type: delimited block .
+#: planning.en.adoc:166
+#, no-wrap
+msgid "Which are examples of mobilization tasks? (multiple correct answers)\n"
+msgstr ""
+
+#. type: delimited block .
+#: planning.en.adoc:172
+#, no-wrap
+msgid "- [ ] Affiliation\n"
+"- [x] Publishing\n"
+"- [x] Imaging\n"
+"- [x] Georeferencing\n"
+"- [ ] Increased Public Awareness\n"
 msgstr ""
 
 #. type: Plain text
