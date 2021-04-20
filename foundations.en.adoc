@@ -264,9 +264,9 @@ Quiz yourself on the concepts learned in this section.
 ....
 For the given statement, input the correct term (database, database language, database program)
 
-combines and presents functions and features for manipulating data, together in a unified interface __database program__
-structured and organized collection of data and/or information held on a computer __database__
-the way by which a human communicates with a computer __database language__
+combines and presents functions and features for manipulating data, together in a unified interface __database program__ +
+structured and organized collection of data and/or information held on a computer __database__ +
+the way by which a human communicates with a computer __database language__ +
 ....
 
 [question, mc]
@@ -285,42 +285,23 @@ If you open a data file and see the following, what would you suspect is the iss
 ....
 For the given softare, input the type of software (data capture, data management, data cleaning, data publishing).
 
-Integrated Publishing Toolkit (IPT) __data publishing__
-Specify _data capture_ and __data management__
-iNaturalist __data capture__
+Integrated Publishing Toolkit (IPT) __data publishing__ +
+Specify _data capture_ and __data management__ +
+iNaturalist __data capture__ +
 OpenRefine __data cleaning__
 ....
 
 [question, gap]
 ....
-For the given example, input the correct data type (binary, float, integer, long integer, text, unstructured text)
+For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)
 
-We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. __unstructured text__
-1236975 __long integer__
-01101111 __binary__
-1024 __integer__
-29.0 __float__
+We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. __unstructured text__ +
+1236975 __long integer__ +
+01101111 __binary__ +
+1024 __integer__ +
+29.0 __float__ +
+Yes/No _boolean_ +
 6 rabbits were observed __text__
-....
-
-[question, mc]
-....
-What is the binary for the word "biodiversity"? (Calculate text to binary using the website, https://www.rapidtables.com/convert/number/ascii-to-binary.html)
-
-- [ ] 01101111 01100011 01100011 01110101 01110010 01110010 01100101 01101110 01100011 01100101
-- [ ] 01000010 01001001 01000110 01000001
-- [ ] 01000111 01000010 01001001 01000110
-- [x] 01100010 01101001 01101111 01100100 01101001 01110110 01100101 01110010 01110011 01101001 01110100 01111001
-....
-
-[question, gap]
-....
-For the given example, match it to its type (boolean, integer, text, float)
-
-Yes/No or Y/N or True/False __boolean__
-4.5 or 19.47 or 137.45689 __float__
-29 butterflies were spotted or 63.4% were orange and black or between 1963 and 1973 __text__
-1 or 88 or 1204 __integer__
 ....
 
 [question, mc]
@@ -351,8 +332,8 @@ Which of these terms describes a "field label"?
 ....
 For each statement, input the correct structure (row, column, table)
 
-All data in a table refers to a SINGLE concept. __table__
-An attribute has the SAME field/data type for every record. __column__
+All data in a table refers to a SINGLE concept. __table__ +
+An attribute has the SAME field/data type for every record. __column__ +
 Attributes of a record ALWAYS stay together. __row__
 ....
 
@@ -371,9 +352,9 @@ Who determines the fitness for use of your data?
 For the given statements, input the matching image. (A, B, C, D)
 image:img/web/accuracyandprecision.png[align="center", width="640", height="360"]
 
-High accuracy, low precision __C__
-Low accurracy, high precision __B__
-High accuracy, high precision __D__
+High accuracy, low precision __C__ +
+Low accurracy, high precision __B__ +
+High accuracy, high precision __D__ +
 Low accuracy, low precision __A__
 ....
 
@@ -381,17 +362,17 @@ Low accuracy, low precision __A__
 ....
 Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships have a hint.
 
-Collector field exists in both dataset A and B __1:1__
-Country field only exists in dataset B __0:1__
-Name field exists in dataset A, but dataset B contains First Name and Last Name fields __1:∞__
-ID field exists in both dataset A and B __1:1__
-Elevation exists in dataset A, but not in dataset B __1:0__
+Collector field exists in both dataset A and B __1:1__ +
+Country field only exists in dataset B __0:1__ +
+Name field exists in dataset A, but dataset B contains First Name and Last Name fields __1:∞__ +
+ID field exists in both dataset A and B __1:1__ +
+Elevation exists in dataset A, but not in dataset B __1:0__ +
 Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B __1:∞__
 ....
 
 [question, mc]
 ....
-Metadata is important because... (select the TRUE statements)
+Metadata is important because (select the TRUE statements):
 
 - [x] it allows users to determine if a dataset is fit for their use.
 - [ ] it allows you to share exact coordinates for each occurrence.
