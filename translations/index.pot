@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-20 12:42+0000\n"
+"POT-Creation-Date: 2021-04-20 12:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1145,7 +1145,7 @@ msgstr ""
 #: foundations.en.adoc:266
 #, no-wrap
 msgid ""
-"For the given statement, input the correct term (database, database "
+". For the given statement, input the correct term (database, database "
 "language, database program)\n"
 msgstr ""
 
@@ -1167,8 +1167,8 @@ msgstr ""
 #: foundations.en.adoc:278
 #, no-wrap
 msgid ""
-"If you open a data file and see the following, what would you suspect is the "
-"issue?\n"
+". If you open a data file and see the following, what would you suspect is "
+"the issue?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1191,7 +1191,7 @@ msgstr ""
 #: foundations.en.adoc:290
 #, no-wrap
 msgid ""
-"For the given softare, input the type of software (data capture, data "
+". For the given softare, input the type of software (data capture, data "
 "management, data cleaning, data publishing).\n"
 msgstr ""
 
@@ -1213,28 +1213,28 @@ msgstr ""
 #: foundations.en.adoc:304
 #, no-wrap
 msgid ""
-"For the given example, input the correct data type (binary, boolean, float, "
-"integer, long integer, text, unstructured text)\n"
+". For the given example, input the correct data type (binary, boolean, "
+"float, integer, long integer, text, unstructured text)\n"
 msgstr ""
 
 #. type: delimited block .
 #: foundations.en.adoc:319
 #, no-wrap
 msgid ""
-"We walked 5 miles down the road west from the post office in the center of "
-"town. We then went 2 miles north on a dirt path to the river. Then we "
-"continued west along the river for another 5 miles. +\n"
-"__unstructured text__ +\n"
 "1236975 +\n"
 "__long integer__ +\n"
 "01101111 +\n"
 "__binary__ +\n"
+"We walked 5 miles down the road west from the post office in the center of "
+"town. We then went 2 miles north on a dirt path to the river. Then we "
+"continued west along the river for another 5 miles. +\n"
+"__unstructured text__ +\n"
 "1024 +\n"
 "__integer__ +\n"
 "29.0 +\n"
 "__float__ +\n"
 "Yes/No +\n"
-"_boolean_ +\n"
+"__boolean__ +\n"
 "6 rabbits were observed +\n"
 "__text__\n"
 msgstr ""
@@ -1242,7 +1242,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:324
 #, no-wrap
-msgid "Which of these terms describes a \"field/column name\"?\n"
+msgid ". Which of these terms describes a \"field/column name\"?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1260,7 +1260,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:336
 #, no-wrap
-msgid "Which of these terms describes a \"field label\"?\n"
+msgid ". Which of these terms describes a \"field label\"?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1278,14 +1278,14 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:348
 #, no-wrap
-msgid "For each statement, input the correct structure (row, column, table)\n"
+msgid ". For each statement, input the correct structure (row, column, table)\n"
 msgstr ""
 
 #. type: delimited block .
 #: foundations.en.adoc:355
 #, no-wrap
 msgid ""
-"All data in a table refers to a SINGLE concept. +\n"
+"All data refers to a SINGLE concept. +\n"
 "__table__ +\n"
 "An attribute has the SAME field/data type for every record. +\n"
 "__column__ +\n"
@@ -1296,7 +1296,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:360
 #, no-wrap
-msgid "Who determines the fitness for use of your data?\n"
+msgid ". Who determines the fitness for use of your data?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1313,7 +1313,7 @@ msgstr ""
 #: foundations.en.adoc:371
 #, no-wrap
 msgid ""
-"For the given statements, input the matching image. (A, B, C, D)\n"
+". For the given statements, input the matching image. (A, B, C, D)\n"
 "image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", "
 "height=\"360\"]\n"
 msgstr ""
@@ -1336,9 +1336,8 @@ msgstr ""
 #: foundations.en.adoc:385
 #, no-wrap
 msgid ""
-"Identify the data relationships where Dataset B needs to be merged into "
-"Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships have a "
-"hint.\n"
+". Identify the data relationships where Dataset B needs to be merged into "
+"Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1364,7 +1363,7 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:403
 #, no-wrap
-msgid "Metadata is important because (select the TRUE statements):\n"
+msgid ". Metadata is important because (select the TRUE statements):\n"
 msgstr ""
 
 #. type: delimited block .
