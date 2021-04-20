@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-20 17:04+0000\n"
-"PO-Revision-Date: 2021-04-20 17:28\n"
+"PO-Revision-Date: 2021-04-20 18:33\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -229,7 +229,7 @@ msgstr "Fichiers à télécharger"
 #. type: Plain text
 #: downloads.en.adoc:7
 msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from Vimeo.  If you have difficulty accessing Vimeo.com, please download the mp4 files to play them locally on your computer."
-msgstr ""
+msgstr "Tous les fichiers du cours peuvent être téléchargés à partir de cette page.  Ou si vous préférez, tous les fichiers sont liés individuellement dans le cours au fil de leur apparition dans le programme.  Les fichiers vidéo sont également intégrés dans le cours et peuvent être lus à partir de Vimeo.  Si vous avez des difficultés à accéder  Vimeo.com, veuillez télécharger les fichiers mp4 pour les lire localement sur votre ordinateur."
 
 #. type: Title ===
 #: downloads.en.adoc:8
@@ -361,7 +361,7 @@ msgstr "*Données primaires sur les espèces*\n"
 #. type: delimited block _
 #: foundations.en.adoc:63
 msgid "“Primary species data” is used to describe raw collection data and data without any spatial attributes.  It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references."
-msgstr "Les “primary species data” sont utilisées pour décrire les données brutes des collections et les données sans aucun attribut spatial. Cela comprend des données taxonomiques et nomenclaturales sans attributs spatiaux, tels que des noms, des taxons et des concepts taxonomiques sans références géographiques associées."
+msgstr "Les “données primaires sur les espèces” sont utilisées pour décrire les données brutes des collections et les données sans aucun attribut spatial. Cela comprend des données taxonomiques et nomenclaturales sans attributs spatiaux, tels que des noms, des taxons et des concepts taxonomiques sans références géographiques associées."
 
 #. type: delimited block _
 #: foundations.en.adoc:65
@@ -382,18 +382,18 @@ msgstr "La précision fait référence à la proximité des valeurs mesurées, d
 #. type: delimited block _
 #: foundations.en.adoc:76
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
-msgstr ""
+msgstr "La précision (ou Résolution) peut être divisée en deux types principaux: la précision statistique est la proximité avec laquelle les observations répétées sont conformes à elles-mêmes. Ils n'ont rien à voir avec leur relation avec la valeur réelle et peuvent avoir une grande précision, mais une faible exactitude. La précision numérique est le nombre de chiffres significatifs dans lesquels une observation est enregistrée et est devenue beaucoup plus évidente avec l'avènement des ordinateurs. Par exemple, une base de données peut afficher un enregistrement de latitude/longitude décimale à 10 décimales, c'est-à-dire ca . 1 mm quand en réalité l'enregistrement a une résolution de moins de 10-100 m (3-4 décimales). Cela donne souvent une fausse impression à la fois de la résolution et de la précision."
 
 #. type: delimited block _
 #: foundations.en.adoc:79
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
-msgstr ""
+msgstr "Ces termes – exactitude et précision – peuvent également être appliqués aux données non spatiales ainsi qu'aux données spatiales. Par exemple, une collection peut avoir une identification au niveau des sous-espèces (i.e. , ont une grande précision), mais être le mauvais taxon (c'est-à-dire avoir une faible exactitude), ou être identifié uniquement au niveau de la famille (haute exactitude, mais faible précision)."
 
 #. type: delimited block _
 #: foundations.en.adoc:81
 #, no-wrap
 msgid "*Data quality*\n"
-msgstr ""
+msgstr "*La qualité de données*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:86
