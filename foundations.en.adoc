@@ -262,7 +262,7 @@ Quiz yourself on the concepts learned in this section.
 ****
 [question, gap]
 ....
-For the given statement, input the correct term (database, database language, database program)
+. For the given statement, input the correct term (database, database language, database program)
 
 combines and presents functions and features for manipulating data, together in a unified interface +
 __database program__ +
@@ -274,7 +274,7 @@ __database language__ +
 
 [question, mc]
 ....
-If you open a data file and see the following, what would you suspect is the issue?
+. If you open a data file and see the following, what would you suspect is the issue?
 
 �tre, ou ne pas �tre, c�est l� la question.
 
@@ -286,7 +286,7 @@ If you open a data file and see the following, what would you suspect is the iss
 
 [question, gap]
 ....
-For the given softare, input the type of software (data capture, data management, data cleaning, data publishing).
+. For the given softare, input the type of software (data capture, data management, data cleaning, data publishing).
 
 Integrated Publishing Toolkit (IPT) +
 __data publishing__ +
@@ -300,27 +300,27 @@ __data cleaning__
 
 [question, gap]
 ....
-For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)
+. For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)
 
-We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +
-__unstructured text__ +
 1236975 +
 __long integer__ +
 01101111 +
 __binary__ +
+We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +
+__unstructured text__ +
 1024 +
 __integer__ +
 29.0 +
 __float__ +
 Yes/No +
-_boolean_ +
+__boolean__ +
 6 rabbits were observed +
 __text__
 ....
 
 [question, mc]
 ....
-Which of these terms describes a "field/column name"?
+. Which of these terms describes a "field/column name"?
 
 - [x] Assigned
 - [ ] Descriptive
@@ -332,7 +332,7 @@ Which of these terms describes a "field/column name"?
 
 [question, mc]
 ....
-Which of these terms describes a "field label"?
+. Which of these terms describes a "field label"?
 
 - [ ] Assigned
 - [x] Descriptive
@@ -344,9 +344,9 @@ Which of these terms describes a "field label"?
 
 [question, gap]
 ....
-For each statement, input the correct structure (row, column, table)
+. For each statement, input the correct structure (row, column, table)
 
-All data in a table refers to a SINGLE concept. +
+All data refers to a SINGLE concept. +
 __table__ +
 An attribute has the SAME field/data type for every record. +
 __column__ +
@@ -356,7 +356,7 @@ __row__
 
 [question, mc]
 ....
-Who determines the fitness for use of your data?
+. Who determines the fitness for use of your data?
 
 - [ ] The museum or department director
 - [x] The users of the data for research or education
@@ -366,7 +366,7 @@ Who determines the fitness for use of your data?
 
 [question, gap]
 ....
-For the given statements, input the matching image. (A, B, C, D)
+. For the given statements, input the matching image. (A, B, C, D)
 image:img/web/accuracyandprecision.png[align="center", width="640", height="360"]
 
 High accuracy, low precision +
@@ -381,7 +381,7 @@ __A__
 
 [question, gap]
 ....
-Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships have a hint.
+. Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.
 
 Collector field exists in both dataset A and B +
 __1:1__ +
@@ -399,7 +399,7 @@ __1:∞__
 
 [question, mc]
 ....
-Metadata is important because (select the TRUE statements):
+. Metadata is important because (select the TRUE statements):
 
 - [x] it allows users to determine if a dataset is fit for their use.
 - [ ] it allows you to share exact coordinates for each occurrence.
