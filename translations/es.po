@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-20 13:30+0000\n"
-"PO-Revision-Date: 2021-04-20 14:29\n"
+"PO-Revision-Date: 2021-04-20 15:33\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -30,19 +30,19 @@ msgstr "Secretaría del GBIF <training@gbif.org>"
 #. type: Plain text
 #: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Block title
 #: index.en.adoc:22
 #, no-wrap
 msgid "_Zonocerus elegans_ (Thunberg, 1815) observed in Zimbabwe by nickypegg (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "_Zonocerus elegans_ (Thunberg, 1815) observado en Zimbabwe por nickypegg (bajo licencia http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: index.en.adoc:23
 #, no-wrap
 msgid "img/web/photo.jpg"
-msgstr ""
+msgstr "img/web/photo.jpg"
 
 #. type: Title ==
 #: description.en.adoc:2
@@ -63,106 +63,106 @@ msgstr "Temas:"
 #. type: delimited block *
 #: description.en.adoc:12
 msgid "Project management"
-msgstr ""
+msgstr "Gestión de proyectos"
 
 #. type: Title ==
 #: description.en.adoc:13 use-case-herbarium-specimens.en.adoc:57
 #: capture.en.adoc:2
 #, no-wrap
 msgid "Data capture"
-msgstr ""
+msgstr "Captura de datos"
 
 #. type: Title ==
 #: description.en.adoc:14 use-case-herbarium-specimens.en.adoc:61
 #: management.en.adoc:3
 #, no-wrap
 msgid "Data management"
-msgstr ""
+msgstr "Gestión de datos"
 
 #. type: Title ==
 #: description.en.adoc:15 use-case-herbarium-specimens.en.adoc:65
 #: publishing.en.adoc:3
 #, no-wrap
 msgid "Data publishing"
-msgstr ""
+msgstr "Publicación de datos"
 
 #. type: delimited block *
 #: description.en.adoc:18
 msgid "This course is comprised of video instruction paired with quizzes and practical exercises.  When offered as an onsite or virtual workshop, group work and social interaction are encouraged."
-msgstr ""
+msgstr "Este curso se compone de instrucciones en vídeo combinadas con cuestionarios y ejercicios prácticos.  Cuando se ofrece como taller presencial o virtual, se fomenta el trabajo en grupo y la interacción social."
 
 #. type: Title ===
 #: description.en.adoc:20
 #, no-wrap
 msgid "Audience"
-msgstr ""
+msgstr "Público"
 
 #. type: Title ===
 #: description.en.adoc:23
 #, no-wrap
 msgid "Prerequisites"
-msgstr ""
+msgstr "Prerequisitos"
 
 #. type: Plain text
 #: description.en.adoc:26
 msgid "Introduction to GBIF course"
-msgstr ""
+msgstr "Introducción al Curso"
 
 #. type: Plain text
 #: description.en.adoc:28
 msgid "Additionally, to make best use of the activities around this course, the participants should possess the following skills and knowledge:"
-msgstr ""
+msgstr "Además, para aprovechar al máximo las actividades de este curso, los participantes deben poseer las siguientes habilidades y conocimientos:"
 
 #. type: Plain text
 #: description.en.adoc:30
 msgid "Basic skills in computer and internet use, and, in particular, in the use of spreadsheets."
-msgstr ""
+msgstr "Conocimientos básicos en el uso de ordenadores e internet y, en particular, en el uso de hojas de cálculo."
 
 #. type: Plain text
 #: description.en.adoc:31
 msgid "Basic knowledge about geography and biodiversity informatics: geography and mapping concepts, basic taxonomy and nomenclature rules."
-msgstr ""
+msgstr "Conocimientos básicos de geografía y bioinformática: conceptos de geografía y cartografía, reglas básicas de taxonomía y nomenclatura."
 
 #. type: Plain text
 #: description.en.adoc:32
 msgid "Willingness to disseminate the knowledge learned in the workshop with partners and collaborators in your project by adapting the biodiversity data mobilization training materials to specific contexts and languages while maintaining their instructional value."
-msgstr ""
+msgstr "Disposición de difundir los conocimientos aprendidos en el taller con los socios y colaboradores de su proyecto, adaptando los materiales de formación sobre movilización de datos de biodiversidad a contextos e idiomas específicos, pero manteniendo su valor didáctico."
 
 #. type: Plain text
 #: description.en.adoc:33
 msgid "A good command of English. While efforts are made to provide materials in other languages, instruction/videos will be in English."
-msgstr ""
+msgstr "Un buen dominio del inglés. Aunque se hace un esfuerzo por proporcionar materiales en otros idiomas, la información/los vídeos serán en inglés."
 
 #. type: Title ===
 #: description.en.adoc:34
 #, no-wrap
 msgid "Learning objectives"
-msgstr ""
+msgstr "Objetivos de aprendizaje"
 
 #. type: Plain text
 #: description.en.adoc:37
 msgid "Learn key concepts (foundations) of biodiversity informatics, particular to biodiversity digital data management."
-msgstr ""
+msgstr "Aprender los conceptos clave (fundamentos) de bioinformática, en particular de la gestión de datos digitales de la biodiversidad."
 
 #. type: Plain text
 #: description.en.adoc:38
 msgid "Receive an introduction to the Darwin Core Standard and its components."
-msgstr ""
+msgstr "Recibir una introducción al Estándar Darwin Core y sus componentes."
 
 #. type: Plain text
 #: description.en.adoc:39
 msgid "Learn to understand the different stages for planning a mobilization project and how to adapt stages to a specific project."
-msgstr ""
+msgstr "Aprenda a entender las diferentes etapas para planificar un proyecto de movilización y cómo adaptar las etapas a un proyecto específico."
 
 #. type: Plain text
 #: description.en.adoc:40
 msgid "Evaluate a data mobilization strategy to identify potential gaps, inefficiencies and pitfalls."
-msgstr ""
+msgstr "Evaluar una estrategia de movilización de datos para identificar posibles vacíos, deficiencias y dificultades."
 
 #. type: Plain text
 #: description.en.adoc:41
 msgid "Develop a data mobilization strategy customized to a given institutional framework."
-msgstr ""
+msgstr "Desarrollar una estrategia de movilización de datos adaptada a un marco institucional determinado."
 
 #. type: Plain text
 #: description.en.adoc:42
