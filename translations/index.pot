@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-20 11:37+0000\n"
+"POT-Creation-Date: 2021-04-20 12:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1154,10 +1154,11 @@ msgstr ""
 #, no-wrap
 msgid ""
 "combines and presents functions and features for manipulating data, together "
-"in a unified interface _database program_\n"
+"in a unified interface __database program__\n"
 "structured and organized collection of data and/or information held on a "
-"computer _database_\n"
-"the way by which a human communicates with a computer _database language_\n"
+"computer __database__\n"
+"the way by which a human communicates with a computer __database "
+"language__\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1196,10 +1197,10 @@ msgstr ""
 #: foundations.en.adoc:292
 #, no-wrap
 msgid ""
-"Integrated Publishing Toolkit (IPT) _data publishing_\n"
-"Specify _data capture_ and _data management_\n"
-"iNaturalist _data capture_\n"
-"OpenRefine _data cleaning_\n"
+"Integrated Publishing Toolkit (IPT) __data publishing__\n"
+"Specify _data capture_ and __data management__\n"
+"iNaturalist __data capture__\n"
+"OpenRefine __data cleaning__\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1216,12 +1217,12 @@ msgstr ""
 msgid ""
 "We walked 5 miles down the road west from the post office in the center of "
 "town. We then went 2 miles north on a dirt path to the river. Then we "
-"continued west along the river for another 5 miles. _unstructured text_\n"
-"1236975 _long integer_\n"
-"01101111 _binary_\n"
-"1024 _integer_\n"
-"29.0 _float_\n"
-"6 rabbits were observed _text_\n"
+"continued west along the river for another 5 miles. __unstructured text__\n"
+"1236975 __long integer__\n"
+"01101111 __binary__\n"
+"1024 __integer__\n"
+"29.0 __float__\n"
+"6 rabbits were observed __text__\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1257,11 +1258,11 @@ msgstr ""
 #: foundations.en.adoc:324
 #, no-wrap
 msgid ""
-"Yes/No or Y/N or True/False _boolean_\n"
-"4.5 or 19.47 or 137.45689 _float_\n"
+"Yes/No or Y/N or True/False __boolean__\n"
+"4.5 or 19.47 or 137.45689 __float__\n"
 "29 butterflies were spotted or 63.4% were orange and black or between 1963 "
-"and 1973 _text_\n"
-"1 or 88 or 1204 _integer_\n"
+"and 1973 __text__\n"
+"1 or 88 or 1204 __integer__\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1310,9 +1311,9 @@ msgstr ""
 #: foundations.en.adoc:357
 #, no-wrap
 msgid ""
-"All data in a table refers to a SINGLE concept. _table_\n"
-"An attribute has the SAME field/data type for every record. _column_\n"
-"Attributes of a record ALWAYS stay together. _row_\n"
+"All data in a table refers to a SINGLE concept. __table__\n"
+"An attribute has the SAME field/data type for every record. __column__\n"
+"Attributes of a record ALWAYS stay together. __row__\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1336,7 +1337,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "For the given statements, input the matching image. (A, B, C, D)\n"
-"image::img/web/accuracyandprecision.png[align=\"center\", width=\"640\", "
+"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", "
 "height=\"360\"]\n"
 msgstr ""
 
@@ -1344,10 +1345,10 @@ msgstr ""
 #: foundations.en.adoc:378
 #, no-wrap
 msgid ""
-"High accuracy, low precision _C_\n"
-"Low accurracy, high precision _B_\n"
-"High accuracy, high precision _D_\n"
-"Low accuracy, low precision _A_\n"
+"High accuracy, low precision __C__\n"
+"Low accurracy, high precision __B__\n"
+"High accuracy, high precision __D__\n"
+"Low accuracy, low precision __A__\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1363,14 +1364,14 @@ msgstr ""
 #: foundations.en.adoc:390
 #, no-wrap
 msgid ""
-"Collector field exists in both dataset A and B _1:1_\n"
-"Country field only exists in dataset B _0:1_\n"
+"Collector field exists in both dataset A and B __1:1__\n"
+"Country field only exists in dataset B __0:1__\n"
 "Name field exists in dataset A, but dataset B contains First Name and Last "
-"Name fields _1:∞_\n"
-"ID field exists in both dataset A and B _1:1_\n"
-"Elevation exists in dataset A, but not in dataset B _1:0_\n"
+"Name fields __1:∞__\n"
+"ID field exists in both dataset A and B __1:1__\n"
+"Elevation exists in dataset A, but not in dataset B __1:0__\n"
 "Date exists in dataset A, but Day, Month, and Year are separate fields in "
-"dataset B _1:∞_\n"
+"dataset B __1:∞__\n"
 msgstr ""
 
 #. type: delimited block .
