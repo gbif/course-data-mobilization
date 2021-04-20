@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-20 12:26+0000\n"
-"PO-Revision-Date: 2021-04-20 12:32\n"
+"POT-Creation-Date: 2021-04-20 13:07+0000\n"
+"PO-Revision-Date: 2021-04-20 13:30\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -792,31 +792,34 @@ msgstr ""
 #. type: delimited block .
 #: foundations.en.adoc:266
 #, no-wrap
-msgid "For the given statement, input the correct term (database, database language, database program)\n"
+msgid "1. For the given statement, input the correct term (database, database language, database program)\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:270
+#: foundations.en.adoc:273
 #, no-wrap
-msgid "combines and presents functions and features for manipulating data, together in a unified interface __database program__ +\n"
-"structured and organized collection of data and/or information held on a computer __database__ +\n"
-"the way by which a human communicates with a computer __database language__ +\n"
+msgid "combines and presents functions and features for manipulating data, together in a unified interface +\n"
+"__database program__ +\n"
+"structured and organized collection of data and/or information held on a computer +\n"
+"__database__ +\n"
+"the way by which a human communicates with a computer +\n"
+"__database language__ +\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:275
+#: foundations.en.adoc:278
 #, no-wrap
-msgid "If you open a data file and see the following, what would you suspect is the issue?\n"
+msgid "2. If you open a data file and see the following, what would you suspect is the issue?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:277
+#: foundations.en.adoc:280
 #, no-wrap
 msgid "�tre, ou ne pas �tre, c�est l� la question.\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:282
+#: foundations.en.adoc:285
 #, no-wrap
 msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
@@ -825,46 +828,57 @@ msgid "- [ ] Nothing\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:287
+#: foundations.en.adoc:290
 #, no-wrap
-msgid "For the given softare, input the type of software (data capture, data management, data cleaning, data publishing).\n"
+msgid "3. For the given softare, input the type of software (data capture, data management, data cleaning, data publishing).\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:292
+#: foundations.en.adoc:299
 #, no-wrap
-msgid "Integrated Publishing Toolkit (IPT) __data publishing__ +\n"
-"Specify _data capture_ and __data management__ +\n"
-"iNaturalist __data capture__ +\n"
-"OpenRefine __data cleaning__\n"
+msgid "Integrated Publishing Toolkit (IPT) +\n"
+"__data publishing__ +\n"
+"Specify +\n"
+"__data capture__ AND __data management__ +\n"
+"iNaturalist +\n"
+"__data capture__ +\n"
+"OpenRefine +\n"
+"__data cleaning__\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:297
+#: foundations.en.adoc:304
 #, no-wrap
-msgid "For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)\n"
+msgid "4. For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:305
+#: foundations.en.adoc:319
 #, no-wrap
-msgid "We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. __unstructured text__ +\n"
-"1236975 __long integer__ +\n"
-"01101111 __binary__ +\n"
-"1024 __integer__ +\n"
-"29.0 __float__ +\n"
-"Yes/No _boolean_ +\n"
-"6 rabbits were observed __text__\n"
+msgid "1236975 +\n"
+"__long integer__ +\n"
+"01101111 +\n"
+"__binary__ +\n"
+"We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +\n"
+"__unstructured text__ +\n"
+"1024 +\n"
+"__integer__ +\n"
+"29.0 +\n"
+"__float__ +\n"
+"Yes/No +\n"
+"__boolean__ +\n"
+"6 rabbits were observed +\n"
+"__text__\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:310
+#: foundations.en.adoc:324
 #, no-wrap
-msgid "Which of these terms describes a \"field/column name\"?\n"
+msgid "5. Which of these terms describes a \"field/column name\"?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:317
+#: foundations.en.adoc:331
 #, no-wrap
 msgid "- [x] Assigned\n"
 "- [ ] Descriptive\n"
@@ -875,13 +889,13 @@ msgid "- [x] Assigned\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:322
+#: foundations.en.adoc:336
 #, no-wrap
-msgid "Which of these terms describes a \"field label\"?\n"
+msgid "6. Which of these terms describes a \"field label\"?\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:329
+#: foundations.en.adoc:343
 #, no-wrap
 msgid "- [ ] Assigned\n"
 "- [x] Descriptive\n"
@@ -892,27 +906,30 @@ msgid "- [ ] Assigned\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:334
-#, no-wrap
-msgid "For each statement, input the correct structure (row, column, table)\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:338
-#, no-wrap
-msgid "All data in a table refers to a SINGLE concept. __table__ +\n"
-"An attribute has the SAME field/data type for every record. __column__ +\n"
-"Attributes of a record ALWAYS stay together. __row__\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:343
-#, no-wrap
-msgid "Who determines the fitness for use of your data?\n"
-msgstr ""
-
-#. type: delimited block .
 #: foundations.en.adoc:348
+#, no-wrap
+msgid "7. For each statement, input the correct structure (row, column, table)\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:355
+#, no-wrap
+msgid "All data refers to a SINGLE concept. +\n"
+"__table__ +\n"
+"An attribute has the SAME field/data type for every record. +\n"
+"__column__ +\n"
+"Attributes of a record ALWAYS stay together. +\n"
+"__row__\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:360
+#, no-wrap
+msgid "8. Who determines the fitness for use of your data?\n"
+msgstr ""
+
+#. type: delimited block .
+#: foundations.en.adoc:365
 #, no-wrap
 msgid "- [ ] The museum or department director\n"
 "- [x] The users of the data for research or education\n"
@@ -921,46 +938,56 @@ msgid "- [ ] The museum or department director\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:354
+#: foundations.en.adoc:371
 #, no-wrap
-msgid "For the given statements, input the matching image. (A, B, C, D)\n"
+msgid "9. For the given statements, input the matching image. (A, B, C, D)\n"
 "image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:359
+#: foundations.en.adoc:380
 #, no-wrap
-msgid "High accuracy, low precision __C__ +\n"
-"Low accurracy, high precision __B__ +\n"
-"High accuracy, high precision __D__ +\n"
-"Low accuracy, low precision __A__\n"
+msgid "High accuracy, low precision +\n"
+"__C__ +\n"
+"Low accurracy, high precision +\n"
+"__B__ +\n"
+"High accuracy, high precision +\n"
+"__D__ +\n"
+"Low accuracy, low precision +\n"
+"__A__\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:364
+#: foundations.en.adoc:385
 #, no-wrap
-msgid "Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships have a hint.\n"
+msgid "10. Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:371
+#: foundations.en.adoc:398
 #, no-wrap
-msgid "Collector field exists in both dataset A and B __1:1__ +\n"
-"Country field only exists in dataset B __0:1__ +\n"
-"Name field exists in dataset A, but dataset B contains First Name and Last Name fields __1:∞__ +\n"
-"ID field exists in both dataset A and B __1:1__ +\n"
-"Elevation exists in dataset A, but not in dataset B __1:0__ +\n"
-"Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B __1:∞__\n"
+msgid "Collector field exists in both dataset A and B +\n"
+"__1:1__ +\n"
+"Country field only exists in dataset B +\n"
+"__0:1__ +\n"
+"Name field exists in dataset A, but dataset B contains First Name and Last Name fields +\n"
+"__1:∞__ +\n"
+"ID field exists in both dataset A and B +\n"
+"__1:1__ +\n"
+"Elevation exists in dataset A, but not in dataset B +\n"
+"__1:0__ +\n"
+"Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +\n"
+"__1:∞__\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:376
+#: foundations.en.adoc:403
 #, no-wrap
-msgid "Metadata is important because (select the TRUE statements):\n"
+msgid "11. Metadata is important because (select the TRUE statements):\n"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:382
+#: foundations.en.adoc:409
 #, no-wrap
 msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [ ] it allows you to share exact coordinates for each occurrence.\n"
@@ -1436,7 +1463,7 @@ msgstr ""
 #. type: delimited block .
 #: planning.en.adoc:135
 #, no-wrap
-msgid "What is the order of the five PMBoK Process Groupings?\n"
+msgid "1. What is the order of the five PMBoK Process Groupings?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1451,7 +1478,7 @@ msgstr ""
 #. type: delimited block .
 #: planning.en.adoc:145
 #, no-wrap
-msgid "What are the types of deliverables? (multiple correct answers)\n"
+msgid "2. What are the types of deliverables? (multiple correct answers)\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1468,7 +1495,7 @@ msgstr ""
 #. type: delimited block .
 #: planning.en.adoc:157
 #, no-wrap
-msgid "What is a bottleneck?\n"
+msgid "3. What is a bottleneck?\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1482,7 +1509,7 @@ msgstr ""
 #. type: delimited block .
 #: planning.en.adoc:166
 #, no-wrap
-msgid "Which are examples of mobilization tasks? (multiple correct answers)\n"
+msgid "4. Which are examples of mobilization tasks? (multiple correct answers)\n"
 msgstr ""
 
 #. type: delimited block .
