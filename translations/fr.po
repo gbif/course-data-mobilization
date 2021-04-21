@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-20 17:04+0000\n"
-"PO-Revision-Date: 2021-04-21 10:17\n"
+"PO-Revision-Date: 2021-04-21 11:22\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -285,7 +285,7 @@ msgstr "Définitions"
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr "Dans cette vidéo (12:02), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez utiliser le lien : ../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
+msgstr "Dans cette vidéo (12:02), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez le link:../videos/Foundations_Definitions.mp4[télécharger^,opts=download] localement. (MP4 - 38.5 Mo)"
 
 #. type: Title ====
 #: foundations.en.adoc:19
@@ -296,8 +296,7 @@ msgstr "Logiciel"
 #. type: Plain text
 #: foundations.en.adoc:23
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez utiliser le lien \n"
-" ::../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
+msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez le link:../videos/Foundations_Software.mp4[télécharger^,opts=download] localement. (MP4 - 18.9 Mo)"
 
 #. type: Plain text
 #: foundations.en.adoc:25
@@ -313,7 +312,7 @@ msgstr "Structures"
 #. type: Plain text
 #: foundations.en.adoc:30
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr "Dans cette vidéo (13:10), vous passerez en revue les types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données et ce que cela signifie pour l'intégrité et la sécurité de vos données. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez utiliser le lien : ../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
+msgstr "Dans cette vidéo (13:10), vous passerez en revue les types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données et ce que cela signifie pour l'intégrité et la sécurité de vos données. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez le link:../videos/Foundations_Structures.mp4[télécharger^,opts=download] localement. (MP4 - 38.8 Mo)"
 
 #. type: Title ===
 #: foundations.en.adoc:33
@@ -324,7 +323,7 @@ msgstr "Qualité des données"
 #. type: Plain text
 #: foundations.en.adoc:37
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez utiliser le lien: ../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
+msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez le link:../videos/Foundations_Data_Quality.mp4[télécharger^,opts=download] localement. (MP4 - 44.5 Mo)"
 
 #. type: Plain text
 #: foundations.en.adoc:44
@@ -408,7 +407,7 @@ msgstr "Redman (2001), a suggéré que pour que les données soient aptes à êt
 #. type: delimited block _
 #: foundations.en.adoc:92
 msgid "One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.  There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.  This may require such things as atomizing data fields, adding geo-referencing information, etc."
-msgstr ""
+msgstr "Un problème que le dépositaire des données pourrait devoir examiner est ce qu'il pourrait être nécessaire de faire avec la base de données pour augmenter sa convivialité pour un public plus large (i.e . - augmenter son utilisation potentielle ou sa pertinence) et la rendre donc plus adaptée à un  large éventail de finalités. Il y aura un compromis entre une facilité d'utilisation accrue et la quantité d'efforts nécessaires pour ajouter des fonctionnalités supplémentaires et accroître cette facilité d'utilisation. Cela peut nécessiter des éléments tels que l'atomisation des champs de données, l'ajout d'informations de géo-référencement, etc."
 
 #. type: delimited block _
 #: foundations.en.adoc:94
@@ -419,17 +418,17 @@ msgstr "*Assurance Qualité/Contrôle de la Qualité*\n"
 #. type: delimited block _
 #: foundations.en.adoc:98
 msgid "The difference between quality control and quality assurance is not always clear.  Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met.  She defines Quality Control as a judgement of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgement of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality."
-msgstr ""
+msgstr "La différence entre le contrôle de la qualité et l'assurance de la qualité n'est pas toujours claire. Taulbee (1996) fait la distinction entre le contrôle de la qualité et l’assurance de la qualité et souligne que l’un ne peut exister sans l’autre si l’on veut atteindre les objectifs de qualité. Elle définit le contrôle de qualité comme un jugement de qualité basé sur des normes, des processus et des procédures internes établis pour contrôler et surveiller la qualité ; et l'Assurance de la qualité comme un jugement de qualité basé sur des normes externes au processus et est l'examen des activités et des processus de contrôle de la qualité pour s'assurer que les produits finis répondent à des normes de qualité prédéterminées."
 
 #. type: delimited block _
 #: foundations.en.adoc:100
 msgid "In a more business-oriented approach, Redman (2001) defines Quality Assurance as “those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”."
-msgstr ""
+msgstr "Dans une approche plus orientée vers l'entreprise, Redman (2001) définit l’assurance de la qualité comme étant « les activités qui sont conçues pour produire des produits d’information sans défaut pour répondre aux besoins les plus importants des clients les plus importants au prix le plus bas possible»."
 
 #. type: delimited block _
 #: foundations.en.adoc:102
 msgid "How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management."
-msgstr ""
+msgstr "La manière dont ces conditions doivent être appliquées dans la pratique n'est pas claire, et dans la plupart des cas, les termes semblent être largement utilisés de manière synonymique pour décrire la pratique générale de la gestion de la qualité des données."
 
 #. type: delimited block _
 #: foundations.en.adoc:104
@@ -440,7 +439,7 @@ msgstr "*Incertitude*\n"
 #. type: delimited block _
 #: foundations.en.adoc:109
 msgid "Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).  Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.  There is always uncertainty in data; the difficulty is in recording, understanding and visualizing that uncertainty so that others can also understand it.  Uncertainty is a key term in understanding risk and risk assessment."
-msgstr ""
+msgstr "L’incertitude peut être considérée comme une « mesure de l’incomplétude des connaissances ou des informations sur une quantité inconnue dont la valeur réelle pourrait être établie si un dispositif de mesure parfait était disponible » (Cullen and Frey 1999). L’incertitude est une propriété de la compréhension des données par l’observateur, et elle concerne davantage l’observateur que les données en soi. Il y a toujours une incertitude dans les données; la difficulté est d’enregistrer, de comprendre et de visualiser cette incertitude afin que d’autres puissent la comprendre. L'incertitude est un terme clé pour comprendre les  risques et l'évaluation des risques."
 
 #. type: delimited block _
 #: foundations.en.adoc:111
@@ -499,7 +498,7 @@ msgstr "Workflows the numérisation"
 #. type: delimited block *
 #: foundations.en.adoc:153
 msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
-msgstr "Cette vidéo (07:20) sur les workflows de numérisation identifie cinq clusters (ou étapes) dans le processus de numérisation des objets de collection d'histoire naturelle à l'aide d'images numériques. Ces étapes peuvent être facilement adaptées à d'autres sources de données sur la biodiversité. Si vous ne pouvez pas regarder la vidéo intégrée Vimeo, vous pouvez la regarder:../videos/Foundations_Workflows.mp4[download^,opts=download] localement. (MP4 - 26,8 Mo)"
+msgstr "Cette vidéo (07:20) sur les workflows de numérisation identifie cinq clusters (ou étapes) dans le processus de numérisation des objets de collection d'histoire naturelle à l'aide d'images numériques. Ces étapes peuvent être facilement adaptées à d'autres sources de données sur la biodiversité. Si vous ne pouvez pas regarder la vidéo intégrée Vimeo, vous pouvez le link:../videos/Foundations_Workflows.mp4[télécharger^,opts=download] localement. (MP4 - 26,8 Mo)"
 
 #. type: delimited block *
 #: foundations.en.adoc:157
