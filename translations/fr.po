@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 15:51+0000\n"
-"PO-Revision-Date: 2021-04-21 16:31\n"
+"POT-Creation-Date: 2021-04-21 16:45+0000\n"
+"PO-Revision-Date: 2021-04-21 17:29\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -554,8 +554,8 @@ msgstr "*Saisie électronique des données * : Le cœur du processus de numéris
 #. type: delimited block *
 #: foundations.en.adoc:174
 #, no-wrap
-msgid "*Georeferencing*: Geographical information is very important fort biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.\n"
-msgstr "*Géoréférencement* : L'information géographique est une analyse très importante pour la biodiversité, donc les projets de numérisation devraient chercher à extraire l'information géographique la plus exacte possible.\n"
+msgid "*Georeferencing*: Geographical information is very important for biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.\n"
+msgstr "*Géoréférencement* : Les informations géographiques sont très importantes pour l'analyse de la biodiversité, donc les projets de numérisation devraient chercher à extraire l'information géographique la plus précise possible.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:178
@@ -1137,29 +1137,29 @@ msgstr "Description"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:25
 msgid "The University of White Plains is a well recognized tertiary education institution in Guatemala and a national reference for biodiversity research.  The Plant Biology Department keeps a medium-size herbarium containing approximately 80,000 specimens collected in and around the local region and dating from the mid-20th century to the present.  The collection includes important specimens including types and endemics."
-msgstr ""
+msgstr "L'Université de White Plains est un établissement d'enseignement tertiaire reconnu au Guatemala et une référence nationale pour la recherche sur la biodiversité. Le département de biologie végétale héberge un herbarium de taille moyenne contenant environ 80, 00 spécimens récoltés dans et autour de la région et datant du milieu du Xxe siècle à nos jours. La collection comprend des spécimens importants, y compris des spécimens types et des espèces endémiques."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:29
 msgid "Currently, the care of the collection is assigned to the Professor of Plant Systematics, who performs curatorial tasks as well as their regular research and teaching work.  The Departmental Admin is responsible for day-to-day administrative tasks for the herbarium such as purchasing consumables including paper and labels.  Faculty staff and students collaborating within the department occasionally work on and update the identifications on the specimens and there are two retired botanists who regularly volunteer in the collection assisting the Professor to prepare loans."
-msgstr ""
+msgstr "Actuellement, les soins à la collection sont attribués au professeur de systématique végétale, qui accomplit les tâches de curateur ainsi que des travaux de recherche et d'enseignement réguliers. L'administrateur du département est responsable des tâches administratives quotidiennes de l'herbier, comme l'achat de consommables y compris le  papier et les étiquettes. Le personnel enseignant et les étudiants qui collaborent au sein du département y travaillent occasionnellement et mettent à jour les identifications des spécimens et il y a deux botaniques retraités qui se portent régulièrement volontaires dans la collections pour aider le professeur à préparer les prêts."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:32
 msgid "The University already has an online search for its library collections which is maintained by the University’s central web-team on externally hosted servers.  No natural history specimens are currently served via this platform."
-msgstr ""
+msgstr "L’université a déjà un système de recherche en ligne pour les collections de sa bibliothèque qui est maintenue par l’équipe web centrale de l’université sur des serveurs hébergés en externe. Aucun spécimens d'histoire naturelle n'est actuellement disponible via cette plate-forme."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:35
 msgid "The Head of the Plant Biology Department has recently secured a 50,000USD, two year grant to image and publish the botanical collections information online.  The team wants to use this opportunity to establish a permanent digitization and publishing protocol that will give higher visibility to the herbarium and continue attracting funding."
-msgstr ""
+msgstr "Le responsable du département de biologie végétale a récemment obtenu une subvention de 50 000 Usd de deux ans pour l'imagerie et la publication en ligne des informations sur les collections botaniques. L'équipe veut profiter de cette occasion pour établir un protocole permanent de numérisation et de publication qui donnera une plus grande visibilité à l'herbier et continuera d'attirer des fonds."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:36 use-case-invasive-species.en.adoc:42
 #: use-case-lepidoptera-sampling.en.adoc:39
 #, no-wrap
 msgid "Data collection"
-msgstr "Collecte de données"
+msgstr "Collection de données"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:38
@@ -1176,7 +1176,7 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:45
 #, no-wrap
 msgid "Dataset description"
-msgstr ""
+msgstr "Description du jeu de données"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:48
@@ -1198,7 +1198,7 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
 #, no-wrap
 msgid "Planning"
-msgstr ""
+msgstr "Planification"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:56
@@ -1288,22 +1288,22 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:33
 msgid "To help you to work through the planning exercises for all use cases, we have made available five virtual playing card tables."
-msgstr ""
+msgstr "Pour vous aider à réaliser les exercices de planification pour tous les études de cas, nous avons mis à disposition cinq tables virtuelles de jeu de cartes."
 
 #. type: Plain text
 #: planning.en.adoc:35
 msgid "Because these are shared spaces, we ask that you follow these rules so that everyone who wants to use them can:"
-msgstr ""
+msgstr "Parce qu'il s'agit d'espaces partagés, nous vous demandons de respecter ces règles afin que tous ceux qui veulent les utiliser puissent :"
 
 #. type: Plain text
 #: planning.en.adoc:40
 msgid "Clean up after yourself.  If you use a card table, please be sure to return it to it's clean and original state when you are done.  This means putting all of the cards away and removing/deleting any new cards that you have added to the deck.  You can do this by clicking the recall buttons below each deck of cards."
-msgstr ""
+msgstr "Nettoyez après vous. Si vous utilisez une table de cartes, assurez-vous de la retourner à son état propre et original lorsque vous avez terminé. Cela signifie que toutes les cartes sont retirées et supprimer/supprimer toutes les nouvelles cartes que vous avez ajoutées au plateau. Vous pouvez le faire en cliquant sur les boutons de rappel sous chaque paquet de cartes."
 
 #. type: Plain text
 #: planning.en.adoc:43
 msgid "If it's busy, try another table.  If you see that a card table is in use, please use one of the other card table links.  If you are unable to find an empty card table, alert us at training@gbif.org so that we can check the tables to be sure that any tables were not left unattended (or if we need to create an additional table for you)."
-msgstr ""
+msgstr "Si elle est occupée, essayez une autre table. Si vous voyez qu'une table de cartes est utilisée, veuillez utiliser l'un des autres liens de la table de cartes. Si vous ne trouvez pas de table de cartes vide, avertissez-nous à training@gbif. rg pour que nous puissions vérifier les tables pour être sûr que toutes les tables ne sont pas laissées sans surveillance (ou si nous avons besoin de créer une table supplémentaire pour vous)."
 
 #. type: Plain text
 #: planning.en.adoc:47
@@ -1313,7 +1313,7 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:51
 msgid "Take screen captures often.  We cannot guarantee that your cards will not be reset accidentally by someone from the workshop or by someone from your own project.  You cannot reset the cards once they have been recalled and reset.  If you want to submit a screenshot with your exercise please do."
-msgstr ""
+msgstr "Prenez souvent des captures d'écran. Nous ne pouvons pas garantir que vos cartes ne seront pas réinitialisées accidentellement par quelqu'un de l'atelier ou par quelqu'un de votre propre projet. Vous ne pouvez pas réinitialiser les cartes une fois qu'elles ont été rappelées et réinitialisées. Si vous voulez soumettre une capture d'écran avec votre exercice, faites-le s'il vous plaît."
 
 #. type: Plain text
 #: planning.en.adoc:53
@@ -1328,17 +1328,17 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:57
 msgid "RED: https://playingcards.io/vbtkgd[^]"
-msgstr ""
+msgstr "ROUGE : https://playingcards.io/vbtkgd[^]"
 
 #. type: Plain text
 #: planning.en.adoc:59
 msgid "GREEN: https://playingcards.io/m53by6[^]"
-msgstr ""
+msgstr "VERT : https://playingcards.io/m53by6[^]"
 
 #. type: Plain text
 #: planning.en.adoc:61
 msgid "YELLOW: https://playingcards.io/kpen5h[^]"
-msgstr ""
+msgstr "JAUNE: https://playingcards.io/kpen5h[^]"
 
 #. type: Plain text
 #: planning.en.adoc:63
@@ -9530,7 +9530,7 @@ msgstr "Les champs Valeur Système (System Value) ont une nature double et ce qu
 #. type: Plain text
 #: scripts/structures.en.txt:71
 #, no-wrap
-msgid "Boolean fields ñ also known as Binary fields only contain one of two values that represent a one or a zero. \n"
+msgid "Boolean fields, also known as Binary fields, only contain one of two values that represent a one or a zero. \n"
 "They are a special case of a System Value field as mentioned previously in that whilst the software actually saves a number it often displays values such as: Yes/No, Yes/no, Y/N, True/False.\n"
 "You should take care to find out which way around the system you are using translates. \n"
 "Is a 1 a yes or no?\n"
