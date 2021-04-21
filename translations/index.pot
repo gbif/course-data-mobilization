@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-20 17:04+0000\n"
+"POT-Creation-Date: 2021-04-21 12:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1137,7 +1137,7 @@ msgid "Foundations review"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:262 planning.en.adoc:130
+#: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -2186,6 +2186,241 @@ msgstr ""
 msgid ""
 "you may need to add fields to the spreadsheet as you may be able to capture "
 "more information from the labels that was planned for in the template."
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:65
+#, no-wrap
+msgid "What dataset type(s) would you choose for an ichthyology collection?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:69
+#, no-wrap
+msgid ""
+":figure-caption!:\n"
+".https://www.gbif.org/occurrence/441867173 | Muséum d’histoire naturelle de "
+"Nice\n"
+"image:img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", "
+"height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:73 capture.en.adoc:86
+#, no-wrap
+msgid ""
+"- [x] occurrence\n"
+"- [x] checklist\n"
+"- [ ] sampling event\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:78
+#, no-wrap
+msgid "What dataset type(s) would you choose for a list of invasive species?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:82
+#, no-wrap
+msgid ""
+":figure-caption!:\n"
+".Water hyacinth (Eichhornia crassipes), Bourail, New Caledonia, where it is "
+"as an introduced and invasive species by GRIIS. Photo by gérard (2016) "
+"licensed under CC BY-SA 2.0\n"
+"image:img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", "
+"height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:91
+#, no-wrap
+msgid ""
+"What dataset type(s) would you choose for the flora and fauna of an "
+"environmental impact study?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:93
+#, no-wrap
+msgid ""
+"Environmental impact assessment studies are done by experts in order to "
+"assess the biodiversity and biotopes of a given area, before, during and "
+"after it is affected by human activities (road works, wind turbines, mining, "
+"building construction, etc.).\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:97
+#, no-wrap
+msgid ""
+":figure-caption!:\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg "
+"by Matthieu Gauvain (CC-BY-SA)\n"
+"image:img/web/QDataTypes-field.png[align=\"center\", width=\"640\", "
+"height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:101 capture.en.adoc:129 capture.en.adoc:161
+#, no-wrap
+msgid ""
+"- [x] occurrence\n"
+"- [ ] checklist\n"
+"- [x] sampling event\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:106
+#, no-wrap
+msgid "What dataset type(s) would you choose for bird tracking data?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:108
+#, no-wrap
+msgid ""
+"Bird-tracking data are recorded using specific devices, such as GPS trackers "
+"mounted on live birds, thus allowing scientists to track their migratory "
+"routes or breeding sites.\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:112
+#, no-wrap
+msgid ""
+":figure-caption!:\n"
+".picture by user  מינוזיג - MinoZig (CC0) "
+"https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg\n"
+"image:img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", "
+"height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:116
+#, no-wrap
+msgid ""
+"- [x] occurrence\n"
+"- [ ] checklist\n"
+"- [ ] sampling event\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:121
+#, no-wrap
+msgid "What dataset type(s) would you choose for insect trap data?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:125
+#, no-wrap
+msgid ""
+":figure-caption!:\n"
+".https://www.flickr.com/photos/miheco/215305679/ picture by user miheco "
+"(CC-BY-SA)\n"
+"image:img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", "
+"height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:134
+#, no-wrap
+msgid "What dataset type(s) would you choose for national park management data?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:136
+#, no-wrap
+msgid ""
+"Data acquired in the context of protected areas management (such as national "
+"parks but also smaller nature reserves) can be diverse and have different "
+"origins: botanical surveys, tagged animals tracking, observations from "
+"rangers and guards, and even ‘citizen science’ data or data inferred from "
+"pictures shared on social medias.\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:140
+#, no-wrap
+msgid ""
+":figure-caption!:\n"
+".picture by  user pen_ash ( (Simplified Pixabay License: free for commercial "
+"use, no attribution required) "
+"https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/\n"
+"image:img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", "
+"height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:144
+#, no-wrap
+msgid ""
+"- [x] occurrence\n"
+"- [x] checklist\n"
+"- [x] sampling event\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:149
+#, no-wrap
+msgid "What dataset type(s) would you choose for a citizen science bioblitz?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:151
+#, no-wrap
+msgid ""
+"Citizen science data are often collected through thematic fieldwork days "
+"known as a “bioblitz.” Volunteers typically gather in a given area and spend "
+"the day trying to observe and identify as many species as they can in this "
+"area.\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:153
+#, no-wrap
+msgid ""
+"Data from each participant are captured and merged into the citizen science "
+"programme’s data capture or data management tool.\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:157
+#, no-wrap
+msgid ""
+":figure-caption!:\n"
+".US National Park Service photo "
+"https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1 "
+"(authorized reuse on google image search)\n"
+"image:img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", "
+"height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:166
+#, no-wrap
+msgid "What dataset type(s) would you choose for a regional species list?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:170
+#, no-wrap
+msgid ""
+":figure-caption!:\n"
+".picture by user Mani300 (Simplified Pixabay License: free for commercial "
+"use, no attribution required) "
+"https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/\n"
+"image:img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", "
+"height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:174
+#, no-wrap
+msgid ""
+"- [ ] occurrence\n"
+"- [x] checklist\n"
+"- [ ] sampling event\n"
 msgstr ""
 
 #. type: Plain text
