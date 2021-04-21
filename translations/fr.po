@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-20 17:04+0000\n"
-"PO-Revision-Date: 2021-04-21 07:46\n"
+"PO-Revision-Date: 2021-04-21 09:05\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -361,7 +361,7 @@ msgstr "*Données primaires sur les espèces*\n"
 #. type: delimited block _
 #: foundations.en.adoc:63
 msgid "“Primary species data” is used to describe raw collection data and data without any spatial attributes.  It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references."
-msgstr "Les “données primaires sur les espèces” sont utilisées pour décrire les données brutes des collections et les données sans aucun attribut spatial. Cela comprend des données taxonomiques et nomenclaturales sans attributs spatiaux, tels que des noms, des taxons et des concepts taxonomiques sans références géographiques associées."
+msgstr "«Les données primaires sur les espèces» sont utilisées pour décrire les données brutes des collections et les données sans aucun attribut spatial. Cela comprend des données taxonomiques et nomenclaturales sans attributs spatiaux, tels que des noms, des taxons et des concepts taxonomiques sans références géographiques associées."
 
 #. type: delimited block _
 #: foundations.en.adoc:65
@@ -403,7 +403,7 @@ msgstr "La qualité des données est multidimensionnelle et implique la gestion 
 #. type: delimited block _
 #: foundations.en.adoc:88
 msgid "Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret."
-msgstr ""
+msgstr "Redman (2001), a suggéré que pour que les données soient aptes à être utilisées, elles doivent être accessibles, exactes, opportunes, complètes, cohérentes avec d'autres sources, pertinentes, compréhensives, fournissent un niveau de détail approprié, soient faciles à lire et à interpréter."
 
 #. type: delimited block _
 #: foundations.en.adoc:92
@@ -2939,7 +2939,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "Télécharger le lien:../course-docs/UC3-DL-exercise-sheet_FR.docx[fiche exercices,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
@@ -3224,12 +3224,12 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:26
 msgid "Sharing images, sounds and videos on GBIF"
-msgstr ""
+msgstr "Partager les images, les sons et les vidéos sur le GBIF"
 
 #. type: Plain text
 #: keydocs.en.adoc:27
 msgid "Data papers"
-msgstr ""
+msgstr "Les “data papers”"
 
 #. type: Plain text
 #: keydocs.en.adoc:28
@@ -3359,7 +3359,7 @@ msgstr ""
 #: keydocs.en.adoc:61
 #, no-wrap
 msgid "*Invasive Species*\n"
-msgstr ""
+msgstr "*Espèces invasives*\n"
 
 #. type: Plain text
 #: keydocs.en.adoc:63
@@ -3385,12 +3385,12 @@ msgstr ""
 #: keydocs.en.adoc:68
 #, no-wrap
 msgid "*Living Atlases*\n"
-msgstr ""
+msgstr "*Living Atlases*\n"
 
 #. type: Plain text
 #: keydocs.en.adoc:70
 msgid "Living Atlases"
-msgstr ""
+msgstr "Living Atlases"
 
 #. type: Plain text
 #: keydocs.en.adoc:71
@@ -3401,7 +3401,7 @@ msgstr ""
 #: keydocs.en.adoc:73
 #, no-wrap
 msgid "*Miscellaneous*\n"
-msgstr ""
+msgstr "*Divers*\n"
 
 #. type: Plain text
 #: keydocs.en.adoc:75
@@ -3416,7 +3416,7 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:80
 msgid "OpenRefine documentation"
-msgstr ""
+msgstr "Documentation d'OpenRefine"
 
 #. type: Plain text
 #: keydocs.en.adoc:81
@@ -3497,23 +3497,23 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:98
 msgid "Scrum Guide"
-msgstr ""
+msgstr "Guide Scrum"
 
 #. type: Plain text
 #: keydocs.en.adoc:99
 msgid "Your Scrum Pathway to Tools, Knowledge and Professional Recognition"
-msgstr ""
+msgstr "Votre chemin Scrum vers les outils, la connaissance et la reconnaissance professionnelle"
 
 #. type: Plain text
 #: keydocs.en.adoc:100
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #. type: Plain text
 #: keydocs.en.adoc:102
 #, no-wrap
 msgid "*Quality*\n"
-msgstr ""
+msgstr "*Qualité*\n"
 
 #. type: Plain text
 #: keydocs.en.adoc:104
@@ -3544,7 +3544,7 @@ msgstr ""
 #: keydocs.en.adoc:110
 #, no-wrap
 msgid "*Taxonomy*\n"
-msgstr ""
+msgstr "*Taxonomy*\n"
 
 #. type: Plain text
 #: keydocs.en.adoc:112
