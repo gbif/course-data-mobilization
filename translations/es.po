@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 14:06+0000\n"
-"PO-Revision-Date: 2021-04-21 14:34\n"
+"POT-Creation-Date: 2021-04-21 14:45+0000\n"
+"PO-Revision-Date: 2021-04-21 15:32\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -53,7 +53,7 @@ msgstr "Descripción del curso"
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "This course enables participants to plan and implement biodiversity data mobilization efforts effectively using accepted community standards.  Its aim is to increase the volume, richness and quality of the data published through the GBIF network.  This course was first developed as part of the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development] (BID) programme funded by the https://europa.eu/[European Union]."
-msgstr ""
+msgstr "Este curso permitirá a los participantes planificar y poner en práctica los esfuerzos de movilización de datos de biodiversidad de forma eficaz utilizando los estándares comunitarios aceptados.  Su objetivo es aumentar el volumen, la riqueza y la calidad de los datos publicados a través de la red GBIF.  Este curso se desarrolló por primera vez como parte del programa https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Información sobre Biodiversidad para el Desarrollo] (BID) financiado por la https://europa.eu/[Unión Europea]."
 
 #. type: delimited block *
 #: description.en.adoc:10
@@ -100,7 +100,7 @@ msgstr "Público"
 #. type: Plain text
 #: description.en.adoc:24
 msgid "This course is designed for individuals who work as researchers or technicians in biodiversity research or policy institutions.  The instruction provided is particularly useful for those who have a need or desire to plan mobilization projects and/or mobilize biodiversity information for their respective institutions."
-msgstr ""
+msgstr "Este curso está diseñado para personas que trabajan como investigadores o técnicos en instituciones de investigación sobre biodiversidad o en la elaboración de políticas.  La instrucción proporcionada es particularmente útil para aquellos que tienen la necesidad o el deseo de planificar proyectos de movilización y/o movilizar información sobre la biodiversidad para sus respectivas instituciones."
 
 #. type: Title ===
 #: description.en.adoc:25
@@ -187,7 +187,7 @@ msgstr "Aprende conceptos de calidad de datos y recibe una introducción a las h
 #. type: Plain text
 #: description.en.adoc:47
 msgid "Use software tools to evaluate the fitness-for-use of a biodiversity dataset"
-msgstr ""
+msgstr "Utilizar herramientas informáticas para evaluar la idoneidad de un conjunto de datos sobre biodiversidad"
 
 #. type: Plain text
 #: description.en.adoc:48
@@ -223,13 +223,13 @@ msgstr "Certificación"
 #. type: Plain text
 #: description.en.adoc:56
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge].  See <<assessment-and-certification,Assessment and Certification>> for more details."
-msgstr ""
+msgstr "Una vez completado con éxito el curso y la evaluación de las tareas (por parte de los formadores y mentores), los participantes tienen la oportunidad de recibir una certificación oficial en forma de https://openbadges.org/[Open Badge]. Ver <<assessment-and-certification,Assessment and Certification>> para más detalles."
 
 #. type: Title ==
 #: downloads.en.adoc:1
 #, no-wrap
 msgid "Files for download"
-msgstr ""
+msgstr "Archivos para descargar"
 
 #. type: Plain text
 #: downloads.en.adoc:7
@@ -3247,30 +3247,65 @@ msgstr ""
 msgid "USE CASE II"
 msgstr ""
 
+#. type: Plain text
+#: assignments.en.adoc:9
+msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:11 assignments.en.adoc:20
+msgid "Required files for submission:"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:13 assignments.en.adoc:22
+msgid "completed exercise sheet (MS Word Doc or similar is acceptable)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:14 assignments.en.adoc:23
+msgid "data capture spreadsheet (MS Excel, csv, txt or similar is acceptable)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:15 assignments.en.adoc:24
+msgid "cleaned/standardized dataset (MS Excel, csv, txt or similar is acceptable)"
+msgstr ""
+
 #. type: Title ===
-#: assignments.en.adoc:8
+#: assignments.en.adoc:16
 #, no-wrap
 msgid "USE CASE III"
 msgstr ""
 
+#. type: Plain text
+#: assignments.en.adoc:18
+msgid "There is only one option for USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:26
+msgid "Include the use case and exercise number along with your name on all files submitted. For example, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted in English*. Contact training@gbif.org if you have any questions."
+msgstr ""
+
 #. type: Title ===
-#: assignments.en.adoc:10
+#: assignments.en.adoc:27
 #, no-wrap
 msgid "Assignment submission"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:14
+#: assignments.en.adoc:31
 msgid "Assignments can be submitted from the online (HTML) version of the course."
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:18
+#: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
 msgstr ""
 
 #. type: delimited block +
-#: assignments.en.adoc:21
+#: assignments.en.adoc:38
 #, no-wrap
 msgid "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
 msgstr ""
