@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 14:45+0000\n"
-"PO-Revision-Date: 2021-04-21 15:33\n"
+"POT-Creation-Date: 2021-04-21 15:51+0000\n"
+"PO-Revision-Date: 2021-04-21 16:31\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -79,9 +79,9 @@ msgstr ""
 msgid "Data management"
 msgstr ""
 
-#. type: Title ==
+#. type: Title ===
 #: description.en.adoc:15 use-case-herbarium-specimens.en.adoc:65
-#: publishing.en.adoc:3
+#: publishing.en.adoc:3 keydocs.en.adoc:15
 #, no-wrap
 msgid "Data publishing"
 msgstr ""
@@ -1982,7 +1982,7 @@ msgid "In this video (??:??), you will learn about https://openrefine.org/[OpenR
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:77 keydocs.en.adoc:78
+#: management.en.adoc:77
 #, no-wrap
 msgid "*OpenRefine*\n"
 msgstr ""
@@ -2250,7 +2250,7 @@ msgstr ""
 #: publishing.en.adoc:45 assessments-certification.en.adoc:148
 #: use-case-invasive-species.en.adoc:140
 #: use-case-lepidoptera-sampling.en.adoc:151
-#: use-case-birds-from-literature.en.adoc:165 keydocs.en.adoc:14
+#: use-case-birds-from-literature.en.adoc:165
 #, no-wrap
 msgid "*Data publishing*\n"
 msgstr ""
@@ -3328,439 +3328,456 @@ msgid "Key documentation"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:5
-msgid "The following references provide further detail on the topics covered in this course"
-msgstr ""
-
-#. type: Plain text
 #: keydocs.en.adoc:7
+msgid "The following references provide further detail on the topics covered in this course.  All links open in a new window/tab."
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:8
 #, no-wrap
-msgid "*Darwin Core*\n"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:9
-msgid "Darwin Core Terms: A quick reference guide"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:10
-msgid "Simple Darwin Core"
+msgid "Darwin Core"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:11
-msgid "Darwin Core Questions & Answers"
+msgid "http://rs.tdwg.org/dwc/terms/[Darwin Core Terms: A quick reference guide^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:12
-msgid "Darwin Core extensions registered with GBIF"
+msgid "https://dwc.tdwg.org/simple/[Simple DarwinCore^]"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:16
-msgid "Quick guide to publishing data through GBIF"
+#: keydocs.en.adoc:13
+msgid "https://github.com/tdwg/dwc-qa[Darwin Core Questions & Answers^]"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:17
-msgid "How to publish biodiversity data through GBIF.org"
+#: keydocs.en.adoc:14
+msgid "https://tools.gbif.org/dwca-validator/extensions.do[Darwin Core extensions registered with GBIF^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:18
-msgid "Become a data publisher with GBIF"
+msgid "https://www.gbif.org/publishing-data[Quick guide to publishing data through GBIF^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:19
-msgid "Classes of datasets supported by GBIF"
+msgid "https://github.com/gbif/ipt/wiki/howToPublish[How to publish biodiversity data through GBIF.org^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:20
-msgid "GBIF data quality requirements for publishing"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:21
-msgid "GBIF data licenses"
+msgid "https://www.gbif.org/become-a-publisher[Become a data publisher with GBIF^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:22
-msgid "Checklist core templates"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:23
-msgid "Occurrence core templates"
+msgid "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^] + GBIF Secretariat & IAIA: International Association for Impact Assessment (2020)."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:24
-msgid "Sampling event core templates"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:25
-msgid "Sampling event data best practices"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:26
-msgid "Sharing images, sounds and videos on GBIF"
+msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:27
-msgid "Data papers"
+msgid "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] + *COMMUNITY REVIEW DRAFT* + Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:28
-msgid "Published data papers"
+msgid "https://www.gbif.org/dataset-classes[Classes of datasets supported by GBIF^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:29
+msgid "https://www.gbif.org/data-quality-requirements[GBIF data quality requirements for publishing^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:30
-#, no-wrap
-msgid "*Data publishing: Integrated Publishing Toolkit (IPT)*\n"
+msgid "https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[GBIF data licenses^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:31
+msgid "https://github.com/gbif/ipt/wiki/checklistData#templates[Checklist core templates^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:32
-msgid "_The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet_ Robertson et al. (2014)"
+msgid "https://github.com/gbif/ipt/wiki/occurrenceData#templates[Occurrence core templates^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:33
-msgid "To install IPT or not to install IPT"
+msgid "https://github.com/gbif/ipt/wiki/samplingEventData#templates[Sampling event core templates^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:34
-msgid "IPT data hosting centres"
+msgid "https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData[Sampling event data best practices^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:35
-msgid "IPT Install / Set up webinar"
+msgid "https://data-blog.gbif.org/post/gbif-multimedia/[Sharing images, sounds and videos on GBIF^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:36
-msgid "IPT server requirements"
+msgid "https://www.gbif.org/data-papers[Data papers^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:37
-msgid "Installing the IPT video"
+msgid "https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED[Published data papers^]"
 msgstr ""
 
-#. type: Plain text
+#. type: Title ===
 #: keydocs.en.adoc:38
-msgid "IPT in Practice demonstration video"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:40
 #, no-wrap
-msgid "*Digitization*\n"
+msgid "Data publishing: IPT"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:42
-msgid "iDigBio Digitization Resources"
+msgid "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^] + Robertson et al. (2014)"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:43
-msgid "iDigBio Collections Digitization Workflows"
+msgid "https://github.com/gbif/ipt/wiki/PublisherProfiles[To install IPT or not to install IPT^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:44
-msgid "iDigBio Digitization Workflows and Protocols"
+msgid "https://github.com/gbif/ipt/wiki/dataHostingCentres[IPT data hosting centres^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:45
-msgid "iDigBio specimen image capture guide"
+msgid "http://idigbio.adobeconnect.com/p4dfquy4bsf/[IPT Install / Set up webinar^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:46
-msgid "Canadensys 10-step guide to managing images with your biodiversity data"
+msgid "https://vimeo.com/116142276[Installing the IPT video^]"
 msgstr ""
 
 #. type: Plain text
+#: keydocs.en.adoc:47
+msgid "https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]"
+msgstr ""
+
+#. type: Title ===
 #: keydocs.en.adoc:48
 #, no-wrap
-msgid "*GBIF*\n"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:50
-msgid "What is GBIF"
+msgid "Digitization"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:51
-msgid "Strategic Plan"
+msgid "https://www.idigbio.org/wiki/index.php/Digitization_Resources[iDigBio Digitization Resources^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:52
-msgid "Become a member"
+msgid "https://www.idigbio.org/wiki/index.php/Collections_Digitization_Workflows[iDigBio Collections Digitization Workflows^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:53
-msgid "Science Review"
+msgid "https://www.idigbio.org/wiki/index.php/Digitization_Workflows_and_Protocols[iDigBio Digitization Workflows and Protocols^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:54
+msgid "https://www.idigbio.org/wiki/index.php/Specimen_Image_Capture[iDigBio specimen image capture guide^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:55
+msgid "http://www.canadensys.net/publication/multimedia-publication-guide[Canadensys 10-step guide to managing images with your biodiversity data^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:56
 #, no-wrap
-msgid "*Georeferencing*\n"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:57
-msgid "Georeferencing quick referencing guide"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:58
-msgid "BioGeomancer, Guide to Best Practices in Georeferencing. Chapman & Wieczorek (2006)"
+msgid "GBIF"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:59
-msgid "More georeferencing resources"
+msgid "https://www.gbif.org/what-is-gbif[What is GBIF^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:60
+msgid "https://www.gbif.org/strategic-plan[Strategic Plan^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:61
-#, no-wrap
-msgid "*Invasive Species*\n"
+msgid "https://www.gbif.org/become-member[Become a member^]"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:63
-msgid "GRISS - Global Register of Introduced and Invasive Species"
+#: keydocs.en.adoc:62
+msgid "https://www.gbif.org/science-review[Science Review^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:64
-msgid "Global Register of Introduced and Invasive Species"
+msgid "https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^] + GBIF Secretariat (2019)."
 msgstr ""
 
-#. type: Plain text
+#. type: Title ===
 #: keydocs.en.adoc:65
-msgid "TrIAS - Tracking Invasive Alien Species"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:66
-msgid "TrIAS aims to build an open data-driven framework to support policy on invasive species."
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:68
 #, no-wrap
-msgid "*Living Atlases*\n"
+msgid "Georeferencing"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:70
-msgid "Living Atlases"
+#: keydocs.en.adoc:69
+msgid "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] + Arthur D. Chapman & John R. Wieczorek (2020)."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:71
-msgid "ALA key technical documentation"
+msgid "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:73
-#, no-wrap
-msgid "*Miscellaneous*\n"
+msgid "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
 msgstr ""
 
 #. type: Plain text
+#: keydocs.en.adoc:74
+msgid "http://georeferencing.org/[Georeferencing resources^]"
+msgstr ""
+
+#. type: Title ===
 #: keydocs.en.adoc:75
-msgid "VertNet Guide to opening text files in Excel"
+#, no-wrap
+msgid "Invasive Species"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:76
-msgid "VertNet data licensing guide"
+#: keydocs.en.adoc:78
+msgid "http://www.griis.org/about.php[GRISS - Global Register of Introduced and Invasive Species^]"
 msgstr ""
 
 #. type: Plain text
+#: keydocs.en.adoc:79
+msgid "https://osf.io/7dpgr/[TrIAS - Tracking Invasive Alien Species^]"
+msgstr ""
+
+#. type: Title ===
 #: keydocs.en.adoc:80
-msgid "OpenRefine documentation"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:81
-msgid "OpenRefine regular expressions"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:82
-msgid "Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data. 2012. iPhylo blog post. Rod Page."
+#, no-wrap
+msgid "Living Atlases"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:83
-msgid "Reconciling author names using Open Refine and VIAF. 2013. iPhylo blog post. Rod Page."
+msgid "https://living-atlases.gbif.org/[Living Atlases^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:84
-msgid "Validating scientific names with the GBIF Portal web service API. 2013. This guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick, and was cross-posted to the VertNet Blog."
+msgid "http://www.gbif.org/resource/82847[ALA key technical documentation^]"
 msgstr ""
 
-#. type: Plain text
+#. type: Title ===
 #: keydocs.en.adoc:85
-msgid "iDigBio Cleaning data with OpenRefine. 2013. PDF"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:86
-msgid "Have We Got the Names “Right”? 2014. Canadensys blog post regarding a workshop using OpenRefine."
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:87
-msgid "Cleaning data with OpenRefine. 2016. TDWG Presentation. Desmet and Brosens."
+#, no-wrap
+msgid "Miscellaneous"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:88
-msgid "Allocating more memory to OpenRefine - and other helpful information for handling large datasets. 2017. iDigBio Research Spotlight blog post."
+msgid "http://vertnet.org/resources/downloadsinexcelguide.html[VertNet Guide to opening text files in Excel^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:89
-msgid "EasyOpen Redlist. An accessible method of querying the IUCN Red List, using a species list, the free software OpenRefine, and some pre-written code. Olly Griffin, July 2019."
+msgid "http://vertnet.org/resources/datalicensingguide.html[VertNet data licensing guide^]"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:91
+#: keydocs.en.adoc:90 acknowledgements.en.adoc:34
 #, no-wrap
-msgid "*Planning/Collaboration*\n"
+msgid "OpenRefine"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:93
-msgid "Agile (philosophy behind SCRUM)"
+msgid "https://github.com/OpenRefine/OpenRefine/wiki[OpenRefine documentation^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:94
-msgid "What is Agile? How does it work? How is it different? Agile Myths Agile vs Waterfall"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:95
-msgid "What is SCRUM"
+msgid "https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions[OpenRefine regular expressions^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:96
-msgid "SCRUM Framework"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:97
-msgid "Kanban methodology"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:98
-msgid "Scrum Guide"
+msgid "https://doi.org/10.15468/doc-gzjg-af18[Guía para la limpieza de datos sobre biodiversidad con OpenRefine^] + Paula F. Zermoglio, Camila A. Plata Corredor, John R. Wieczorek, Ricardo Ortiz Gallego & Leonardo Buitrago (2021)."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:99
-msgid "Your Scrum Pathway to Tools, Knowledge and Professional Recognition"
+msgid "http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html[Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data^] + iPhylo blog post. Rod Page 2012."
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:100
-msgid "GitHub"
+#: keydocs.en.adoc:101
+msgid "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^] + iPhylo blog post. Rod Page 2013."
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:102
-#, no-wrap
-msgid "*Quality*\n"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:104
-msgid "Principles of Data Quality. Arthur Chapman (2005)"
+#: keydocs.en.adoc:103
+msgid "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^] + Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:105
-msgid "Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data. Arthur Chapman (2005)"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:106
-msgid "Be careful with dates in Excel"
+msgid "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^] + iDigBio 2013."
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:107
-msgid "Character encoding for beginners"
+msgid "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^] + Canadensys 2014."
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:108
-msgid "MVZ Guide for Recording Localities in Field Notes"
+#: keydocs.en.adoc:109
+msgid "http://slides.com/dimitribrosens/o-3#/[Cleaning data with OpenRefine^] + Desmet and Brosens 2016 TDWG."
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:110
-#, no-wrap
-msgid "*Taxonomy*\n"
+#: keydocs.en.adoc:111
+msgid "https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^] + Querying the IUCN Red List, using a species list, OpenRefine, and some pre-written code. Olly Griffin July 2019."
 msgstr ""
 
-#. type: Plain text
+#. type: Title ===
 #: keydocs.en.adoc:112
-msgid "GBIF checklist datasets and data gaps"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:113
-msgid "GBIF Labs - Names Parser"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:114
-msgid "GBIF Labs - Species Matching"
+#, no-wrap
+msgid "Planning/Collaboration"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:115
-msgid "Global Names Resolver"
+msgid "http://www.agilenutshell.com/[Agile^]"
 msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:116
-msgid "Marine Name Matching Strategy for taxonomic quality control (from OBIS)"
+msgid "https://www.scrum.org/resources/what-is-scrum[What is SCRUM^]"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:116
-msgid "Nomenmatch"
+#: keydocs.en.adoc:117
+msgid "https://www.atlassian.com/agile/scrum[SCRUM Framework^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:118
+msgid "https://www.atlassian.com/agile/kanban[Kanban methodology^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:119
+msgid "https://scrumguide.com/[Scrum Guide^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:120
+msgid "https://github.com/[GitHub^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:121
+#, no-wrap
+msgid "Quality"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:125
+msgid "https://www.gbif.org/document/80509/principles-of-data-quality[Principles of Data Quality^] + Arthur Chapman 2005."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:127
+msgid "https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data[Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data^] + Arthur Chapman 2005."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:129
+msgid "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^] + DataOne 2014."
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:130
+msgid "https://www.w3.org/International/questions/qa-what-is-encoding[Character encoding for beginners^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:131
+msgid "http://mvz.berkeley.edu/Locality_Field_Recording_Notebooks.html[MVZ Guide for Recording Localities in Field Notes^]"
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:132
+#, no-wrap
+msgid "Sensitive species"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:136
+msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] + Arthur D. Chapman 2020."
+msgstr ""
+
+#. type: Title ===
+#: keydocs.en.adoc:137
+#, no-wrap
+msgid "Taxonomy"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:140
+msgid "https://data-blog.gbif.org/post/gbif-checklist-datasets-and-data-gaps/[GBIF checklist datasets and data gaps^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:141
+msgid "https://www.gbif.org/tools/name-parser[GBIF Labs - Names Parser^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:142
+msgid "https://www.gbif.org/tools/species-lookup[GBIF Labs - Species Matching^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:143
+msgid "http://resolver.globalnames.org/[Global Names Resolver^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:144
+msgid "https://obis.org/manual/namematching/[Marine Name Matching Strategy for taxonomic quality control^]"
+msgstr ""
+
+#. type: Plain text
+#: keydocs.en.adoc:144
+msgid "http://match.taibif.tw/index.html[Nomenmatch^]"
 msgstr ""
 
 #. type: Title ==
@@ -4621,11 +4638,6 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:33
 msgid "Icons used in this course are made by Freepik from www.flaticon.com"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:34
-msgid "OpenRefine"
 msgstr ""
 
 #. type: Plain text
