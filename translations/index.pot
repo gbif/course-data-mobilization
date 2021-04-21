@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-21 16:30+0000\n"
+"POT-Creation-Date: 2021-04-21 16:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12195,7 +12195,7 @@ msgstr ""
 #: scripts/structures.en.txt:71
 #, no-wrap
 msgid ""
-"Boolean fields ñ also known as Binary fields only contain one of two values "
+"Boolean fields, also known as Binary fields, only contain one of two values "
 "that represent a one or a zero. \n"
 "They are a special case of a System Value field as mentioned previously in "
 "that whilst the software actually saves a number it often displays values "
