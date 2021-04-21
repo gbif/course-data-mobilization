@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 14:06+0000\n"
-"PO-Revision-Date: 2021-04-21 14:34\n"
+"POT-Creation-Date: 2021-04-21 14:45+0000\n"
+"PO-Revision-Date: 2021-04-21 15:33\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -338,87 +338,87 @@ msgstr "Abaixo encontrará uma leitura selecionada do guia do Arthur Chapman: �
 #. type: delimited block _
 #: foundations.en.adoc:49
 msgid "Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described.  These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data."
-msgstr ""
+msgstr "Antes que uma discussão detalhada sobre a qualidade dos dados e a sua aplicação a dados de ocorrência de espécies possa ser iniciada, há vários conceitos que precisam ser definidos e descritos. Estes, incluem o termo \"qualidade de dados\" em si, os termos \"precisão\" e \"acurácia\", que são comumente mal aplicados, e o que queremos dizer com dados de espécies primárias e dados de ocorrência de espécies."
 
 #. type: delimited block _
 #: foundations.en.adoc:51
 #, no-wrap
 msgid "*Species-occurrence data*\n"
-msgstr ""
+msgstr "*Dados de ocorrência-espécie*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:55
 msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
-msgstr ""
+msgstr "Os dados de ocorrência de espécies são utilizados aqui para incluir dados de etiquetas de espécimes anexados a espécimes ou coleções alojados em museus e herbaria, dados de observações e dados de pesquisas ambientais. Em geral, os dados são o que chamamos de “point-based”, embora transecto (dados de transectos de pesquisas ambientais, colheitas ao longo de um rio), polígono (observações de uma área definida como um parque nacional) e dados de grid (observações ou registos de pesquisa de uma grid regular) também são incluídos. Em geral, estamos a falar de dados georeferenciados – i.e. registros com referências geográficas que os amarram a um local em particular no espaço - seja com uma coordenada georeferenciada (e.g. latitude e longitude, UTM) ou não (descrição textual de uma localidade, altitude, profundidade) – e hora (data, hora do dia)."
 
 #. type: delimited block _
 #: foundations.en.adoc:58
 msgid "In general the data are also tied to a taxonomic name, but unidentified collections may also be included.  The term has occasionally been used interchangeably with the term “primary species data”."
-msgstr ""
+msgstr "Em geral, os dados também são vinculados a um nome taxonômico, mas as coleções não identificadas também podem ser incluídas. O termo tem sido ocasionalmente utilizado indistintamente com o termo \"dados primários de espécies\"."
 
 #. type: delimited block _
 #: foundations.en.adoc:60
 #, no-wrap
 msgid "*Primary species data*\n"
-msgstr ""
+msgstr "*Dados primários de espécies*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:63
 msgid "“Primary species data” is used to describe raw collection data and data without any spatial attributes.  It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references."
-msgstr ""
+msgstr "\"Dados de espécies primárias\" é usado para descrever dados e dados da coleção bruta sem quaisquer atributos espaciais. Inclui dados taxonómicos e nomenclaturais sem atributos espaciais, como nomes, taxa e conceitos taxonómicos sem referências geográficas associadas."
 
 #. type: delimited block _
 #: foundations.en.adoc:65
 #, no-wrap
 msgid "*Accuracy and Precision*\n"
-msgstr ""
+msgstr "*Acurácia e precisão*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:67
 msgid "Accuracy and precision are regularly confused and the differences are not generally understood."
-msgstr ""
+msgstr "A acurácia e a precisão são regularmente confundidas e as diferenças não são geralmente compreendidas."
 
 #. type: delimited block _
 #: foundations.en.adoc:69
 msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
-msgstr ""
+msgstr "A acurácia refere-se à proximidade de valores medidos, observações ou estimativas para o valor real ou verdadeiro (ou para um valor que é aceito como sendo verdadeiro – por exemplo, as coordenadas de um ponto de controle da pesquisa)."
 
 #. type: delimited block _
 #: foundations.en.adoc:76
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
-msgstr ""
+msgstr "A precisão (ou Resolução) pode ser dividida em dois tipos principais. A precisão estatística é a proximidade com que repetidas observações se relacionam a si mesmas. Eles não têm nada a ver com a sua relação com o verdadeiro valor e podem ter uma grande precisão, mas uma baixa acurácia. Precisão numérica é o número de algarismos significativos em que uma observação é registada e tornou-se muito mais evidente com o advento dos computadores. Por exemplo, uma base de dados pode produzir um registro decimal de latitude/longitude em 10 casas decimais – i.e. ca. 1 mm quando na realidade, o registo tem uma resolução não superior a 10-100 m (3-4 casas decimais). Isto conduz frequentemente a uma falsa impressão tanto da precisão como da acurácia."
 
 #. type: delimited block _
 #: foundations.en.adoc:79
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
-msgstr ""
+msgstr "Estes termos – precisão e acurácia – também podem ser aplicados aos dados não espaciais, bem como aos dados espaciais. Por exemplo, uma coleção pode ter uma identificação para o nível de subespécie (i.e. tem alta precisão), mas seja o táxon errado (ou seja, tenha baixa acurácia), ou ser identificado apenas para o nível de Família (alta acurácia, mas baixa precisão)."
 
 #. type: delimited block _
 #: foundations.en.adoc:81
 #, no-wrap
 msgid "*Data quality*\n"
-msgstr ""
+msgstr "*Qualidade dos dados* \n"
 
 #. type: delimited block _
 #: foundations.en.adoc:86
 msgid "Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation.  As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user.  In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful.  Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999)."
-msgstr ""
+msgstr "A qualidade dos dados é multidimensional, e envolve gestão de dados, modelação e análise, controlo de qualidade e garantia, armazenamento e apresentação. Como dito de forma independente por Chrisman (1991) e Strong et al. (1997), a qualidade dos dados está relacionada à utilização e não pode ser avaliada independentemente do utilizador. Numa base de dados, os dados não têm real qualidade ou valor (Dalcin 2004); só têm valor potencial que é reconhecido apenas quando alguém usa os dados para fazer algo útil. A qualidade da informação está relacionada com a sua capacidade de satisfazer os seus clientes e de atender as necessidades dos clientes (English 1999)."
 
 #. type: delimited block _
 #: foundations.en.adoc:88
 msgid "Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret."
-msgstr ""
+msgstr "Redman (2001) sugeriu que para que os dados estejam em condições de serem utilizados, devem ser acessíveis, exactos, oportunos, completos, consistente com outras fontes, relevantes, abrangentes, fornecerem um adequado nível de detalhe, serem fáceis de ler e fáceis de interpretar."
 
 #. type: delimited block _
 #: foundations.en.adoc:92
 msgid "One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.  There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.  This may require such things as atomizing data fields, adding geo-referencing information, etc."
-msgstr ""
+msgstr "Uma questão que um detentor de dados pode precisar considerar é o que pode precisar ser feito com a base de dados, para aumentar a sua utilização para um público mais amplo (i.e. aumentar seu potencial uso ou relevância) e torná-la assim adequada para um leque mais amplo de propósitos. Haverá uma troca entre o aumento da usabilidade e o volume de esforço necessário para adicionar funcionalidade e usabilidade extra. Isso pode exigir coisas como atomizar campos de dados, adicionar informações de georeferenciamento, etc."
 
 #. type: delimited block _
 #: foundations.en.adoc:94
 #, no-wrap
 msgid "*Quality Assurance/ Quality Control*\n"
-msgstr ""
+msgstr "*Garantia de Qualidade/ Controle de Qualidade*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:98
@@ -3247,30 +3247,65 @@ msgstr ""
 msgid "USE CASE II"
 msgstr ""
 
+#. type: Plain text
+#: assignments.en.adoc:9
+msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:11 assignments.en.adoc:20
+msgid "Required files for submission:"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:13 assignments.en.adoc:22
+msgid "completed exercise sheet (MS Word Doc or similar is acceptable)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:14 assignments.en.adoc:23
+msgid "data capture spreadsheet (MS Excel, csv, txt or similar is acceptable)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:15 assignments.en.adoc:24
+msgid "cleaned/standardized dataset (MS Excel, csv, txt or similar is acceptable)"
+msgstr ""
+
 #. type: Title ===
-#: assignments.en.adoc:8
+#: assignments.en.adoc:16
 #, no-wrap
 msgid "USE CASE III"
 msgstr ""
 
+#. type: Plain text
+#: assignments.en.adoc:18
+msgid "There is only one option for USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:26
+msgid "Include the use case and exercise number along with your name on all files submitted. For example, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted in English*. Contact training@gbif.org if you have any questions."
+msgstr ""
+
 #. type: Title ===
-#: assignments.en.adoc:10
+#: assignments.en.adoc:27
 #, no-wrap
 msgid "Assignment submission"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:14
+#: assignments.en.adoc:31
 msgid "Assignments can be submitted from the online (HTML) version of the course."
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:18
+#: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
 msgstr ""
 
 #. type: delimited block +
-#: assignments.en.adoc:21
+#: assignments.en.adoc:38
 #, no-wrap
 msgid "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
 msgstr ""
