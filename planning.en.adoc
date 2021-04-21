@@ -128,21 +128,27 @@ Potential discussion points across groups:
 [NOTE.quiz]
 Quiz yourself on the concepts learned in this section.
 
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
 ****
+// Question 1
+. What is the order of the five PMBoK Process Groupings?
++
 [question, mc]
 ....
-1. What is the order of the five PMBoK Process Groupings?
 
 - [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closing
 - [x] Initiating, Planning, Executing, Monitoring and Controlling, Closing
 - [ ] Initiating, Planning, Executing, Closing, Monitoring and Controlling
 - [ ] Initiating, Planning, Monitoring and Controlling, Executing, Closing
 ....
-
+// Question 2
+. What are the types of deliverables? (multiple correct answers)
++
 [question, mc]
 ....
-2. What are the types of deliverables? (multiple correct answers)
-
 - [x] Stated
 - [x] Implied
 - [ ] Estimated
@@ -150,20 +156,20 @@ Quiz yourself on the concepts learned in this section.
 - [x] Indirect
 - [ ] Guesses
 ....
-
+// Question 3
+. What is a bottleneck?
++
 [question, mc]
 ....
-3. What is a bottleneck?
-
 - [x] a blockage that delays development or progress
 - [ ] a space where something or someone is missing
 - [ ] a problem, or situation that prevents somebody from doing something, or that makes something impossible.
 ....
-
+// Question 4
+. Which are examples of mobilization tasks? (multiple correct answers)
++
 [question, mc]
 ....
-4. Which are examples of mobilization tasks? (multiple correct answers)
-
 - [ ] Affiliation
 - [x] Publishing
 - [x] Imaging

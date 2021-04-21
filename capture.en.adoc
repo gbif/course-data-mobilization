@@ -58,11 +58,16 @@ NOTE: you may need to add fields to the spreadsheet as you may be able to captur
 [NOTE.quiz]
 Quiz yourself on the concepts learned in this section.
 
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
 ****
+// Question 1
+. What dataset type(s) would you choose for an ichthyology collection?
++
 [question, mc]
 ....
-What dataset type(s) would you choose for an ichthyology collection?
-
 :figure-caption!:
 .https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice
 image::img/web/QDataTypes-specimen.png[align="center", width="640", height="360"]
@@ -71,11 +76,11 @@ image::img/web/QDataTypes-specimen.png[align="center", width="640", height="360"
 - [x] checklist
 - [ ] sampling event
 ....
-
+// Question 2
+. What dataset type(s) would you choose for a list of invasive species?
++
 [question, mc]
 ....
-What dataset type(s) would you choose for a list of invasive species?
-
 :figure-caption!:
 .Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0
 image::img/web/QDataTypes-plant.png[align="center", width="640", height="360"]
@@ -84,11 +89,11 @@ image::img/web/QDataTypes-plant.png[align="center", width="640", height="360"]
 - [x] checklist
 - [ ] sampling event
 ....
-
+// Question 3
+. What dataset type(s) would you choose for the flora and fauna of an environmental impact study?
++
 [question, mc]
 ....
-What dataset type(s) would you choose for the flora and fauna of an environmental impact study?
-
 Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).
 
 :figure-caption!:
@@ -99,11 +104,11 @@ image::img/web/QDataTypes-field.png[align="center", width="640", height="360"]
 - [ ] checklist
 - [x] sampling event
 ....
-
+// Question 4
+. What dataset type(s) would you choose for bird tracking data?
++
 [question, mc]
 ....
-What dataset type(s) would you choose for bird tracking data?
-
 Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.
 
 :figure-caption!:
@@ -114,11 +119,11 @@ image::img/web/QDataTypes-tracking.png[align="center", width="640", height="360"
 - [ ] checklist
 - [ ] sampling event
 ....
-
+// Question 5
+. What dataset type(s) would you choose for insect trap data?
++
 [question, mc]
 ....
-What dataset type(s) would you choose for insect trap data?
-
 :figure-caption!:
 .https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)
 image::img/web/QDataTypes-traps.png[align="center", width="640", height="360"]
@@ -127,26 +132,27 @@ image::img/web/QDataTypes-traps.png[align="center", width="640", height="360"]
 - [ ] checklist
 - [x] sampling event
 ....
-
+// Question 6
+. What dataset type(s) would you choose for national park management data?
++
 [question, mc]
 ....
-What dataset type(s) would you choose for national park management data?
-
 Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.
 
 :figure-caption!:
-.https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.
+.https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.
 image::img/web/QDataTypes-Observations.png[align="center", width="640", height="360"]
+>>>>>>> Form review quizzes into numbered lists.
 
 - [x] occurrence
 - [x] checklist
 - [x] sampling event
 ....
-
+// Question 7
+. What dataset type(s) would you choose for a citizen science bioblitz?
++
 [question, mc]
 ....
-What dataset type(s) would you choose for a citizen science bioblitz?
-
 Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.
 
 Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.
@@ -159,13 +165,13 @@ image::img/web/QDataTypes-citizen.png[align="center", width="640", height="360"]
 - [ ] checklist
 - [x] sampling event
 ....
-
+// Question 8
+. What dataset type(s) would you choose for a regional species list?
++
 [question, mc]
 ....
-What dataset type(s) would you choose for a regional species list?
-
 :figure-caption!:
-.https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300
+.https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300
 image::img/web/QDataTypes-threatened.png[align="center", width="640", height="360"]
 
 - [ ] occurrence

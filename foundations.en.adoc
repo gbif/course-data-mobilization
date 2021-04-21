@@ -260,68 +260,74 @@ This requires Java to be installed on your computer.
 [NOTE.quiz]
 Quiz yourself on the concepts learned in this section.
 ****
+
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
+// Question 1
+. For the given statement, input the correct term (database, database language, database program)
++
 [question, gap]
 ....
-1. For the given statement, input the correct term (database, database language, database program)
-
-combines and presents functions and features for manipulating data, together in a unified interface +
-__database program__ +
-structured and organized collection of data and/or information held on a computer +
-__database__ +
-the way by which a human communicates with a computer +
-__database language__ +
+* combines and presents functions and features for manipulating data, together in a unified interface +
+  __database program__
+* structured and organized collection of data and/or information held on a computer +
+  __database__
+* the way by which a human communicates with a computer +
+  __database language__
 ....
-
+// Question 2
+. If you open a data file and see the following, what would you suspect is the issue? +
++
+`�tre, ou ne pas �tre, c�est l� la question.`
++
 [question, mc]
 ....
-2. If you open a data file and see the following, what would you suspect is the issue?
-
-�tre, ou ne pas �tre, c�est l� la question.
-
 - [ ] Nothing
 - [ ] It is corrupt
 - [x] The wrong encoding was used to open the file
 - [ ] The sender used a weird font
 ....
-
+// Question 3
+. For the given software, input the type of software (data capture, data management, data cleaning, data publishing).
++
 [question, gap]
 ....
-3. For the given software, input the type of software (data capture, data management, data cleaning, data publishing).
-
-Integrated Publishing Toolkit (IPT) +
-__data publishing__ +
-Specify +
-__data capture__ AND __data management__ +
-iNaturalist +
-__data capture__ +
-OpenRefine +
-__data cleaning__
+* Integrated Publishing Toolkit (IPT) +
+  __data publishing__
+* Specify +
+  __data capture__ AND __data management__
+* iNaturalist +
+  __data capture__
+* OpenRefine +
+  __data cleaning__
 ....
-
+// Question 4
+. For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)
++
 [question, gap]
 ....
-4. For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)
-
-1236975 +
-__long integer__ +
-01101111 +
-__binary__ +
-We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +
-__unstructured text__ +
-1024 +
-__integer__ +
-29.0 +
-__float__ +
-Yes/No +
-__boolean__ +
-6 rabbits were observed +
-__text__
+* 1236975 +
+  __long integer__
+* 01101111 +
+  __binary__
+* We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +
+  __unstructured text__
+* 1024 +
+  __integer__
+* 29.0 +
+  __float__
+* Yes/No +
+  __boolean__
+* 6 rabbits were observed +
+  __text__
 ....
-
+// Question 5
+. Which of these terms describes a "field/column name"?
++
 [question, mc]
 ....
-5. Which of these terms describes a "field/column name"?
-
 - [x] Assigned
 - [ ] Descriptive
 - [x] Identifying
@@ -329,11 +335,11 @@ __text__
 - [x] Unique
 - [ ] User-interface
 ....
-
+// Question 6
+. Which of these terms describes a "field label"?
++
 [question, mc]
 ....
-6. Which of these terms describes a "field label"?
-
 - [ ] Assigned
 - [x] Descriptive
 - [ ] Identifying
@@ -341,66 +347,66 @@ __text__
 - [ ] Unique
 - [x] User-interface
 ....
-
+// Question 7
+. For each statement, input the correct structure (row, column, table)
++
 [question, gap]
 ....
-7. For each statement, input the correct structure (row, column, table)
-
-All data refers to a SINGLE concept. +
-__table__ +
-An attribute has the SAME field/data type for every record. +
-__column__ +
-Attributes of a record ALWAYS stay together. +
-__row__
+* All data refers to a SINGLE concept. +
+  __table__
+* An attribute has the SAME field/data type for every record. +
+  __column__
+* Attributes of a record ALWAYS stay together. +
+  __row__
 ....
-
+// Question 8
+. Who determines the fitness for use of your data?
++
 [question, mc]
 ....
-8. Who determines the fitness for use of your data?
-
 - [ ] The museum or department director
 - [x] The users of the data for research or education
 - [ ] The collector of the data in the field
 - [ ] The person entering the data into the database
 ....
-
-[question, gap]
-....
-9. For the given statements, input the matching image. (A, B, C, D)
+// Question 9
+. For the given statements, input the matching image. (A, B, C, D)
 image:img/web/accuracyandprecision.png[align="center", width="640", height="360"]
-
-High accuracy, low precision +
-__C__ +
-Low accuracy, high precision +
-__B__ +
-High accuracy, high precision +
-__D__ +
-Low accuracy, low precision +
-__A__
-....
-
++
 [question, gap]
 ....
-10. Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.
-
-Collector field exists in both dataset A and B +
-__1:1__ +
-Country field only exists in dataset B +
-__0:1__ +
-Name field exists in dataset A, but dataset B contains First Name and Last Name fields +
-__1:∞__ +
-ID field exists in both dataset A and B +
-__1:1__ +
-Elevation exists in dataset A, but not in dataset B +
-__1:0__ +
-Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +
-__1:∞__
+* High accuracy, low precision +
+  __C__
+* Low accuracy, high precision +
+  __B__
+* High accuracy, high precision +
+  __D__
+* Low accuracy, low precision +
+  __A__
 ....
-
+// Question 10
+. Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are used.
++
+[question, gap]
+....
+* Collector field exists in both dataset A and B +
+  __1:1__
+* Country field only exists in dataset B +
+  __0:1__
+* Name field exists in dataset A, but dataset B contains First Name and Last Name fields +
+  __1:∞__
+* ID field exists in both dataset A and B +
+  __1:1__
+* Elevation exists in dataset A, but not in dataset B +
+  __1:0__
+* Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +
+  __1:∞__
+....
+// Question 11
+. Metadata is important because (select the TRUE statements):
++
 [question, mc]
 ....
-11. Metadata is important because (select the TRUE statements):
-
 - [x] it allows users to determine if a dataset is fit for their use.
 - [ ] it allows you to share exact coordinates for each occurrence.
 - [x] it allows you to know under which legal terms the reuse of data is permitted.
