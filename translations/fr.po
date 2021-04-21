@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-20 17:04+0000\n"
-"PO-Revision-Date: 2021-04-21 11:22\n"
+"POT-Creation-Date: 2021-04-21 12:03+0000\n"
+"PO-Revision-Date: 2021-04-21 12:19\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -285,7 +285,7 @@ msgstr "Définitions"
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr "Dans cette vidéo (12:02), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez le link:../videos/Foundations_Definitions.mp4[télécharger^,opts=download] localement. (MP4 - 38.5 Mo)"
+msgstr "Dans cette vidéo (12:02), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Foundations_Definitions.mp4[télécharger^,opts=download] localement. (MP4 - 38.5 Mo)"
 
 #. type: Title ====
 #: foundations.en.adoc:19
@@ -296,7 +296,7 @@ msgstr "Logiciel"
 #. type: Plain text
 #: foundations.en.adoc:23
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez le link:../videos/Foundations_Software.mp4[télécharger^,opts=download] localement. (MP4 - 18.9 Mo)"
+msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Foundations_Software.mp4[télécharger^,opts=download] localement. (MP4 - 18.9 Mo)"
 
 #. type: Plain text
 #: foundations.en.adoc:25
@@ -312,7 +312,7 @@ msgstr "Structures"
 #. type: Plain text
 #: foundations.en.adoc:30
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr "Dans cette vidéo (13:10), vous passerez en revue les types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données et ce que cela signifie pour l'intégrité et la sécurité de vos données. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez le link:../videos/Foundations_Structures.mp4[télécharger^,opts=download] localement. (MP4 - 38.8 Mo)"
+msgstr "Dans cette vidéo (13:10), vous passerez en revue les types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données et ce que cela signifie pour l'intégrité et la sécurité de vos données. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Foundations_Structures.mp4[télécharger^,opts=download] localement. (MP4 - 38.8 Mo)"
 
 #. type: Title ===
 #: foundations.en.adoc:33
@@ -323,12 +323,12 @@ msgstr "Qualité des données"
 #. type: Plain text
 #: foundations.en.adoc:37
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez le link:../videos/Foundations_Data_Quality.mp4[télécharger^,opts=download] localement. (MP4 - 44.5 Mo)"
+msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Foundations_Data_Quality.mp4[télécharger^,opts=download] localement. (MP4 - 44.5 Mo)"
 
 #. type: Plain text
 #: foundations.en.adoc:44
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
-msgstr "Vous trouverez ci-dessous une sélection de recommandation de lecture du guide d’Arthur Chapman «Principles of data quality». https://www.gbif.org/document/80509/principles-of-data-quality[Full document ^], des références et des traductions peuvent être trouvées sur GBIF.org."
+msgstr "Vous trouverez ci-dessous une sélection de recommandation de lecture du guide d’Arthur Chapman «Principles of data quality». https://www.gbif.org/fr/document/80509/principles-of-data-quality[Full document^], des références et des traductions peuvent être trouvées sur GBIF.org."
 
 #. type: delimited block _
 #: foundations.en.adoc:49
@@ -450,7 +450,7 @@ msgstr "*Erreur*\n"
 #. type: delimited block _
 #: foundations.en.adoc:118
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
-msgstr ""
+msgstr "L'erreur englobe à la fois l'imprécision des données et leurs inexactitudes, et de nombreux facteurs contribuent à l'erreur. L'erreur est généralement perçue comme étant aléatoire ou systématique. L'erreur aléatoire tend à faire référence à une déviation de l'état réel de manière aléatoire. Une erreur systématique ou un biais résulte d’un changement uniforme des valeurs et est parfois décrit comme ayant une « exactitude relative » dans le monde cartographique (Chrisman, 1991). Dans la détermination de l’« adéquation à l’usage », une erreur systématique peut être acceptable pour certaines applications et ne convient pas pour d’autres."
 
 #. type: delimited block _
 #: foundations.en.adoc:121
@@ -498,7 +498,7 @@ msgstr "Workflows the numérisation"
 #. type: delimited block *
 #: foundations.en.adoc:153
 msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
-msgstr "Cette vidéo (07:20) sur les workflows de numérisation identifie cinq clusters (ou étapes) dans le processus de numérisation des objets de collection d'histoire naturelle à l'aide d'images numériques. Ces étapes peuvent être facilement adaptées à d'autres sources de données sur la biodiversité. Si vous ne pouvez pas regarder la vidéo intégrée Vimeo, vous pouvez le link:../videos/Foundations_Workflows.mp4[télécharger^,opts=download] localement. (MP4 - 26,8 Mo)"
+msgstr "Cette vidéo (07:20) sur les workflows de numérisation identifie cinq clusters (ou étapes) dans le processus de numérisation des objets de collection d'histoire naturelle à l'aide d'images numériques. Ces étapes peuvent être facilement adaptées à d'autres sources de données sur la biodiversité. Si vous ne pouvez pas regarder la vidéo intégrée Vimeo, vous pouvez la link:../videos/Foundations_Workflows.mp4[télécharger^,opts=download] localement. (MP4 - 26,8 Mo)"
 
 #. type: delimited block *
 #: foundations.en.adoc:157
@@ -788,7 +788,7 @@ msgid "Foundations review"
 msgstr "Revue des fondations"
 
 #. type: Plain text
-#: foundations.en.adoc:262 planning.en.adoc:130
+#: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr "Veuillez prendre un quiz sur les concepts que vous avez appris dans cette section."
 
@@ -1073,7 +1073,7 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collecté au Guatemala par Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (sous licence http://creativecommons. rg/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
+msgstr "https://www.gbif.org/fr/occurrence/1228493621[Eriocaulon bilobatum Morong] collecté au Guatemala par Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (sous licence http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
@@ -1211,7 +1211,7 @@ msgstr ""
 #: planning.en.adoc:15
 #, no-wrap
 msgid "Organizing"
-msgstr ""
+msgstr "Organiser"
 
 #. type: Plain text
 #: planning.en.adoc:19
@@ -1653,6 +1653,188 @@ msgstr ""
 #. type: Plain text
 #: capture.en.adoc:55
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:65
+#, no-wrap
+msgid "What dataset type(s) would you choose for an ichthyology collection?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:69
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://www.gbif.org/occurrence/441867173 | Muséum d’histoire naturelle de Nice\n"
+"image:img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:73 capture.en.adoc:86
+#, no-wrap
+msgid "- [x] occurrence\n"
+"- [x] checklist\n"
+"- [ ] sampling event\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:78
+#, no-wrap
+msgid "What dataset type(s) would you choose for a list of invasive species?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:82
+#, no-wrap
+msgid ":figure-caption!:\n"
+".Water hyacinth (Eichhornia crassipes), Bourail, New Caledonia, where it is as an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
+"image:img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:91
+#, no-wrap
+msgid "What dataset type(s) would you choose for the flora and fauna of an environmental impact study?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:93
+#, no-wrap
+msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:97
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg by Matthieu Gauvain (CC-BY-SA)\n"
+"image:img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:101 capture.en.adoc:129 capture.en.adoc:161
+#, no-wrap
+msgid "- [x] occurrence\n"
+"- [ ] checklist\n"
+"- [x] sampling event\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:106
+#, no-wrap
+msgid "What dataset type(s) would you choose for bird tracking data?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:108
+#, no-wrap
+msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:112
+#, no-wrap
+msgid ":figure-caption!:\n"
+".picture by user  מינוזיג - MinoZig (CC0) https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg\n"
+"image:img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:116
+#, no-wrap
+msgid "- [x] occurrence\n"
+"- [ ] checklist\n"
+"- [ ] sampling event\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:121
+#, no-wrap
+msgid "What dataset type(s) would you choose for insect trap data?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:125
+#, no-wrap
+msgid ":figure-caption!:\n"
+".https://www.flickr.com/photos/miheco/215305679/ picture by user miheco (CC-BY-SA)\n"
+"image:img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:134
+#, no-wrap
+msgid "What dataset type(s) would you choose for national park management data?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:136
+#, no-wrap
+msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:140
+#, no-wrap
+msgid ":figure-caption!:\n"
+".picture by  user pen_ash ( (Simplified Pixabay License: free for commercial use, no attribution required) https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/\n"
+"image:img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:144
+#, no-wrap
+msgid "- [x] occurrence\n"
+"- [x] checklist\n"
+"- [x] sampling event\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:149
+#, no-wrap
+msgid "What dataset type(s) would you choose for a citizen science bioblitz?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:151
+#, no-wrap
+msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:153
+#, no-wrap
+msgid "Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:157
+#, no-wrap
+msgid ":figure-caption!:\n"
+".US National Park Service photo https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1 (authorized reuse on google image search)\n"
+"image:img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:166
+#, no-wrap
+msgid "What dataset type(s) would you choose for a regional species list?\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:170
+#, no-wrap
+msgid ":figure-caption!:\n"
+".picture by user Mani300 (Simplified Pixabay License: free for commercial use, no attribution required) https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/\n"
+"image:img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: delimited block .
+#: capture.en.adoc:174
+#, no-wrap
+msgid "- [ ] occurrence\n"
+"- [x] checklist\n"
+"- [ ] sampling event\n"
 msgstr ""
 
 #. type: Plain text
