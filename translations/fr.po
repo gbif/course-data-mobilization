@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-20 17:04+0000\n"
-"PO-Revision-Date: 2021-04-20 23:25\n"
+"PO-Revision-Date: 2021-04-21 00:29\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -683,7 +683,7 @@ msgstr ""
 #: foundations.en.adoc:220
 #, no-wrap
 msgid "img/logos/open-refine-logo.png"
-msgstr ""
+msgstr "img/logos/open-refine-logo.png"
 
 #. type: delimited block *
 #: foundations.en.adoc:225
@@ -794,7 +794,7 @@ msgstr "Veuillez prendre un quiz sur les concepts que vous avez appris dans cett
 #: foundations.en.adoc:266
 #, no-wrap
 msgid "1. For the given statement, input the correct term (database, database language, database program)\n"
-msgstr ""
+msgstr "1. Repondez à chaque question posée en choisissant le terme correct (base de données, langue de la base de données, programme de base de données)\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:273
@@ -805,13 +805,18 @@ msgid "combines and presents functions and features for manipulating data, toget
 "__database__ +\n"
 "the way by which a human communicates with a computer +\n"
 "__database language__ +\n"
-msgstr ""
+msgstr "combine et présente des fonctions et des fonctionnalités pour manipuler des données ensemble, dans une interface unifiée +\n"
+"__programme de base de données__ +\n"
+"une collecte structurée et organisée de données et/ou d'informations conservées sur un ordinateur +\n"
+"__database__ +\n"
+"la façon dont un humain communique avec un ordinateur +\n"
+"__langage de base de données__ +\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:278
 #, no-wrap
 msgid "2. If you open a data file and see the following, what would you suspect is the issue?\n"
-msgstr ""
+msgstr "2. Si vous ouvrez un fichier de données et vous voyez ce qui suit, que soupçonnerez vous d'etre le problème ?\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:280
@@ -826,13 +831,16 @@ msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
 "- [x] The wrong encoding was used to open the file\n"
 "- [ ] The sender used a weird font\n"
-msgstr ""
+msgstr "- [ ] Rien\n"
+"- [ ] Il est corrompu\n"
+"- [x] Le mauvais encodage a été utilisé pour ouvrir le fichier\n"
+"- [ ] L'expéditeur a utilisé une police bizarre\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:290
 #, no-wrap
 msgid "3. For the given software, input the type of software (data capture, data management, data cleaning, data publishing).\n"
-msgstr ""
+msgstr "3. Pour le logiciel donné, saisissez le type de logiciel (saisie de données, gestion des données, nettoyage des données, publication des données).\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:299
@@ -845,13 +853,20 @@ msgid "Integrated Publishing Toolkit (IPT) +\n"
 "__data capture__ +\n"
 "OpenRefine +\n"
 "__data cleaning__\n"
-msgstr ""
+msgstr "Outils de publication intégrés (IPT) +\n"
+"__publication de données__ +\n"
+"Spécifiez +\n"
+"__capture de données__ ET __gestion de données__ +\n"
+"iNaturalist +\n"
+"__capture de données__ +\n"
+"OpenRefine +\n"
+"__nettoyage de données__\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:304
 #, no-wrap
 msgid "4. For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)\n"
-msgstr ""
+msgstr "4. Pour l'exemple donné, entrez le type de données correct (binaire, booléen, float, integer, long integer, text, texte non structuré)\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:319
@@ -870,13 +885,26 @@ msgid "1236975 +\n"
 "__boolean__ +\n"
 "6 rabbits were observed +\n"
 "__text__\n"
-msgstr ""
+msgstr "1236975 +\n"
+"__long integer__ +\n"
+"1101111 +\n"
+"__binary__ +\n"
+"Nous avons marché empeut plus de 8.05 kilometre sur la route à l'ouest du bureau de poste au centre de la ville. Ensuite, nous avons parcouru 3.22 kilometre au nord, sur un chemin de terre menant à la rivière, puis nous avons continué vers l'ouest le long de la rivière pendant 8.05 kilometre. +\n"
+"__texte non structuré__ +\n"
+"1024 +\n"
+"__integer__ +\n"
+"29. + \n"
+"__float__ +\n"
+"Oui/Non +\n"
+"__boolean__ +\n"
+"6 lapins ont été observés +\n"
+"__text__\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:324
 #, no-wrap
 msgid "5. Which of these terms describes a \"field/column name\"?\n"
-msgstr ""
+msgstr "5. Lequel de ces termes décrit un \"nom de champ/colonne\"?\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:331
@@ -887,13 +915,18 @@ msgid "- [x] Assigned\n"
 "- [ ] Readable\n"
 "- [x] Unique\n"
 "- [ ] User-interface\n"
-msgstr ""
+msgstr "[x] Assigné\n"
+"- [ ] Descriptif\n"
+"- [x] Identifiant\n"
+"- [ ] Lisible\n"
+"- [x] Unique\n"
+"- [ ] Interface utilisateur\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:336
 #, no-wrap
 msgid "6. Which of these terms describes a \"field label\"?\n"
-msgstr ""
+msgstr "6. Lequel de ces termes décrit une \"étiquette de champ\"?\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:343
@@ -904,13 +937,18 @@ msgid "- [ ] Assigned\n"
 "- [x] Readable\n"
 "- [ ] Unique\n"
 "- [x] User-interface\n"
-msgstr ""
+msgstr "- [ ] Assigné\n"
+"- [x] Descriptif\n"
+"- [ ] Identifiant\n"
+"- [x] Lisible\n"
+"- [ ] Unique\n"
+"- [x] Interface utilisateur\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:348
 #, no-wrap
 msgid "7. For each statement, input the correct structure (row, column, table)\n"
-msgstr ""
+msgstr "7. Pour chaque requête, entrez la structure correcte (ligne, colonne, table)\n"
 
 #. type: delimited block .
 #: foundations.en.adoc:355
@@ -1021,7 +1059,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:9
 #, no-wrap
 msgid "Scenario"
-msgstr ""
+msgstr "Scénario"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:14
@@ -1033,18 +1071,18 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collecté au Guatemala par Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (sous licence http://creativecommons. rg/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
 #, no-wrap
 msgid "img/web/use-case-1-Eriocaulon_bilobatum-cropped.png"
-msgstr ""
+msgstr "img/web/use-case-1-Eriocaulon_bilobatum-cropped.png"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:20
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. The data are from a real dataset, but have been modified for the purposes of these exercises. It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr ""
+msgstr "Ce récit a été développé comme base pour des exercices pratiques dans le cours de mobilisation des données sur la biodiversité et le concept et le contenu de l'exercice a été développé par Alberto Gonzaëlez-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. Les données proviennent d'un véritable jeu de données, mais ont été modifiées aux fins de ces exercices. C'est un scénario fictionalisé et n'est destiné qu'à des fins d'enseignement."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:21 use-case-invasive-species.en.adoc:27
