@@ -64,7 +64,7 @@ Exports should to checked to make sure the actual date is exported and not the s
 
 // Slide 10
 
-Boolean fields ñ also known as Binary fields only contain one of two values that represent a one or a zero. 
+Boolean fields, also known as Binary fields, only contain one of two values that represent a one or a zero. 
 They are a special case of a System Value field as mentioned previously in that whilst the software actually saves a number it often displays values such as: Yes/No, Yes/no, Y/N, True/False.
 You should take care to find out which way around the system you are using translates. 
 Is a 1 a yes or no?
