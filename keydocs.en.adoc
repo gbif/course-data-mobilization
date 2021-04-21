@@ -1,116 +1,124 @@
-[keydocs]
+[multipage-level=2]
 == Key documentation
 
-The following references provide further detail on the topics covered in this course
+[NOTE.objectives]
+The following references provide further detail on the topics covered in this course. 
+All links open in a new window/tab.
 
-*Darwin Core*
+=== Darwin Core
 
-* Darwin Core Terms: A quick reference guide
-* Simple Darwin Core
-* Darwin Core Questions & Answers
-* Darwin Core extensions registered with GBIF
+* http://rs.tdwg.org/dwc/terms/[Darwin Core Terms: A quick reference guide^]
+* https://dwc.tdwg.org/simple/[Simple DarwinCore^]
+* https://github.com/tdwg/dwc-qa[Darwin Core Questions & Answers^]
+* https://tools.gbif.org/dwca-validator/extensions.do[Darwin Core extensions registered with GBIF^]
 
-*Data publishing*
+=== Data publishing
 
-* Quick guide to publishing data through GBIF
-* How to publish biodiversity data through GBIF.org
-* Become a data publisher with GBIF
-* Classes of datasets supported by GBIF
-* GBIF data quality requirements for publishing
-* GBIF data licenses
-* Checklist core templates
-* Occurrence core templates
-* Sampling event core templates
-* Sampling event data best practices
-* Sharing images, sounds and videos on GBIF
-* Data papers
-* Published data papers
+* https://www.gbif.org/publishing-data[Quick guide to publishing data through GBIF^]
+* https://github.com/gbif/ipt/wiki/howToPublish[How to publish biodiversity data through GBIF.org^]
+* https://www.gbif.org/become-a-publisher[Become a data publisher with GBIF^]
+* https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^] GBIF Secretariat & IAIA: International Association for Impact Assessment (2020).
+* https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020).
+* https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] *COMMUNITY REVIEW DRAFT* Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020).
+* https://www.gbif.org/dataset-classes[Classes of datasets supported by GBIF^]
+* https://www.gbif.org/data-quality-requirements[GBIF data quality requirements for publishing^]
+* https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[GBIF data licenses^]
+* https://github.com/gbif/ipt/wiki/checklistData#templates[Checklist core templates^]
+* https://github.com/gbif/ipt/wiki/occurrenceData#templates[Occurrence core templates^]
+* https://github.com/gbif/ipt/wiki/samplingEventData#templates[Sampling event core templates^]
+* https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData[Sampling event data best practices^]
+* https://data-blog.gbif.org/post/gbif-multimedia/[Sharing images, sounds and videos on GBIF^]
+* https://www.gbif.org/data-papers[Data papers^]
+* https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED[Published data papers^]
 
-*Data publishing: Integrated Publishing Toolkit (IPT)*
+=== Data publishing: Integrated Publishing Toolkit (IPT)
 
-* _The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet_ Robertson et al. (2014)
-* To install IPT or not to install IPT
-* IPT data hosting centres
-* IPT Install / Set up webinar
-* IPT server requirements
-* Installing the IPT video
-* IPT in Practice demonstration video
+* http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^] Robertson et al. (2014)
+* https://github.com/gbif/ipt/wiki/PublisherProfiles[To install IPT or not to install IPT^]
+* https://github.com/gbif/ipt/wiki/dataHostingCentres[IPT data hosting centres^]
+* http://idigbio.adobeconnect.com/p4dfquy4bsf/[IPT Install / Set up webinar^]
+* https://vimeo.com/116142276[Installing the IPT video^]
+* https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]
 
-*Digitization*
+=== Digitization
 
-* iDigBio Digitization Resources
-* iDigBio Collections Digitization Workflows
-* iDigBio Digitization Workflows and Protocols
-* iDigBio specimen image capture guide
-* Canadensys 10-step guide to managing images with your biodiversity data
+* https://www.idigbio.org/wiki/index.php/Digitization_Resources[iDigBio Digitization Resources^]
+* https://www.idigbio.org/wiki/index.php/Collections_Digitization_Workflows[iDigBio Collections Digitization Workflows^]
+* https://www.idigbio.org/wiki/index.php/Digitization_Workflows_and_Protocols[iDigBio Digitization Workflows and Protocols^]
+* https://www.idigbio.org/wiki/index.php/Specimen_Image_Capture[iDigBio specimen image capture guide^]
+* http://www.canadensys.net/publication/multimedia-publication-guide[Canadensys 10-step guide to managing images with your biodiversity data^]
 
-*GBIF*
+=== GBIF
 
-* What is GBIF
-* Strategic Plan
-* Become a member
-* Science Review
+* https://www.gbif.org/what-is-gbif[What is GBIF^]
+* https://www.gbif.org/strategic-plan[Strategic Plan^]
+* https://www.gbif.org/become-member[Become a member^]
+* https://www.gbif.org/science-review[Science Review^]
+* https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^] GBIF Secretariat (2019).
 
-*Georeferencing*
+=== Georeferencing
 
-* Georeferencing quick referencing guide
-* BioGeomancer, Guide to Best Practices in Georeferencing. Chapman & Wieczorek (2006)
-* More georeferencing resources
+* https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] Arthur D. Chapman & John R. Wieczorek (2020).
+* https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020).
+* https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020).
+* http://georeferencing.org/[Georeferencing resources^]
 
-*Invasive Species*
+=== Invasive Species
 
-* GRISS - Global Register of Introduced and Invasive Species
-* Global Register of Introduced and Invasive Species
-* TrIAS - Tracking Invasive Alien Species
-* TrIAS aims to build an open data-driven framework to support policy on invasive species.
+* http://www.griis.org/about.php[GRISS - Global Register of Introduced and Invasive Species^]
+* https://osf.io/7dpgr/[TrIAS - Tracking Invasive Alien Species^]
 
-*Living Atlases*
+=== Living Atlases
 
-* Living Atlases
-* ALA key technical documentation
+* https://living-atlases.gbif.org/[Living Atlases^]
+* http://www.gbif.org/resource/82847[ALA key technical documentation^]
 
-*Miscellaneous*
+=== Miscellaneous
 
-* VertNet Guide to opening text files in Excel
-* VertNet data licensing guide
+* http://vertnet.org/resources/downloadsinexcelguide.html[VertNet Guide to opening text files in Excel^]
+* http://vertnet.org/resources/datalicensingguide.html[VertNet data licensing guide^]
 
-*OpenRefine*
+=== OpenRefine
 
-* OpenRefine documentation
-* OpenRefine regular expressions
-* Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data. 2012. iPhylo blog post. Rod Page.
-* Reconciling author names using Open Refine and VIAF. 2013. iPhylo blog post. Rod Page.
-* Validating scientific names with the GBIF Portal web service API. 2013. This guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick, and was cross-posted to the VertNet Blog.
-* iDigBio Cleaning data with OpenRefine. 2013. PDF
-* Have We Got the Names “Right”? 2014. Canadensys blog post regarding a workshop using OpenRefine.
-* Cleaning data with OpenRefine. 2016. TDWG Presentation. Desmet and Brosens.
-* Allocating more memory to OpenRefine - and other helpful information for handling large datasets. 2017. iDigBio Research Spotlight blog post.
-* EasyOpen Redlist. An accessible method of querying the IUCN Red List, using a species list, the free software OpenRefine, and some pre-written code. Olly Griffin, July 2019.
+* https://github.com/OpenRefine/OpenRefine/wiki[OpenRefine documentation^]
+* https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions[OpenRefine regular expressions^]
+* https://doi.org/10.15468/doc-gzjg-af18[Guía para la limpieza de datos sobre biodiversidad con OpenRefine^] Paula F. Zermoglio, Camila A. Plata Corredor, John R. Wieczorek, Ricardo Ortiz Gallego & Leonardo Buitrago (2021).
+* http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html[Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean
+messy data^] iPhylo blog post. Rod Page 2012.
+* http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^] iPhylo blog post. Rod Page 2013.
+* http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^] Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013.
+* https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^] 2013. PDF
+* http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^] 2014. Canadensys blog post 2014.
+* http://slides.com/dimitribrosens/o-3#/[Cleaning data with OpenRefine^] Desmet and Brosens 2016 TDWG.
+* https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^] Querying the IUCN Red List, using a species
+list, OpenRefine, and some pre-written code. Olly Griffin July 2019.
 
-*Planning/Collaboration*
+=== Planning/Collaboration
 
-* Agile (philosophy behind SCRUM)
-* What is Agile? How does it work? How is it different? Agile Myths Agile vs Waterfall
-* What is SCRUM
-* SCRUM Framework
-* Kanban methodology
-* Scrum Guide
-* Your Scrum Pathway to Tools, Knowledge and Professional Recognition
-* GitHub
+* http://www.agilenutshell.com/[Agile] (philosophy behind SCRUM^)
+* https://www.scrum.org/resources/what-is-scrum[What is SCRUM^]
+* https://www.atlassian.com/agile/scrum[SCRUM Framework^]
+* https://www.atlassian.com/agile/kanban[Kanban methodology^]
+* https://scrumguide.com/[Scrum Guide^]
+* https://github.com/[GitHub^]
 
-*Quality*
+=== Quality
 
-* Principles of Data Quality. Arthur Chapman (2005)
-* Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data. Arthur Chapman (2005)
-* Be careful with dates in Excel
-* Character encoding for beginners
-* MVZ Guide for Recording Localities in Field Notes
+* https://www.gbif.org/document/80509/principles-of-data-quality[Principles of Data Quality^] Arthur Chapman 2005.
+* https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data[Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data^] Arthur Chapman 2005.
+* https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^] DataOne 2014.
+* https://www.w3.org/International/questions/qa-what-is-encoding[Character encoding for beginners^]
+* http://mvz.berkeley.edu/Locality_Field_Recording_Notebooks.html[MVZ Guide for Recording Localities in Field Notes^]
 
-*Taxonomy*
+=== Sensitive species
 
-* GBIF checklist datasets and data gaps
-* GBIF Labs - Names Parser
-* GBIF Labs - Species Matching
-* Global Names Resolver
-* Marine Name Matching Strategy for taxonomic quality control (from OBIS)
-* Nomenmatch
+* https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] Arthur D. Chapman 2020.
+
+=== Taxonomy
+
+* https://data-blog.gbif.org/post/gbif-checklist-datasets-and-data-gaps/[GBIF checklist datasets and data gaps^]
+* https://www.gbif.org/tools/name-parser[GBIF Labs - Names Parser^]
+* https://www.gbif.org/tools/species-lookup[GBIF Labs - Species Matching^]
+* http://resolver.globalnames.org/[Global Names Resolver^]
+* https://obis.org/manual/namematching/[Marine Name Matching Strategy for taxonomic quality control^]
+* http://match.taibif.tw/index.html[Nomenmatch^]
