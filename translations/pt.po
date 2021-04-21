@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 12:37+0000\n"
-"PO-Revision-Date: 2021-04-21 13:24\n"
+"POT-Creation-Date: 2021-04-21 14:06+0000\n"
+"PO-Revision-Date: 2021-04-21 14:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -52,283 +52,288 @@ msgstr "Descrição do curso"
 
 #. type: delimited block *
 #: description.en.adoc:8
-msgid "This course enables participants to plan and implement biodiversity data mobilization efforts effectively using accepted community standards.  Its aim is to increase the volume, richness and quality of the data published through the GBIF network.  This course was first developed as part of the Biodiversity Information for Development (BID) programme funded by the European Union."
+msgid "This course enables participants to plan and implement biodiversity data mobilization efforts effectively using accepted community standards.  Its aim is to increase the volume, richness and quality of the data published through the GBIF network.  This course was first developed as part of the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development] (BID) programme funded by the https://europa.eu/[European Union]."
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "Topics include:"
-msgstr ""
+msgstr "Os tópicos incluem:"
 
 #. type: delimited block *
 #: description.en.adoc:12
 msgid "Project management"
-msgstr ""
+msgstr "Gestão de projeto"
 
 #. type: Title ==
 #: description.en.adoc:13 use-case-herbarium-specimens.en.adoc:57
 #: capture.en.adoc:2
 #, no-wrap
 msgid "Data capture"
-msgstr ""
+msgstr "Captura de dados"
 
 #. type: Title ==
 #: description.en.adoc:14 use-case-herbarium-specimens.en.adoc:61
 #: management.en.adoc:3
 #, no-wrap
 msgid "Data management"
-msgstr ""
+msgstr "Gestão de dados"
 
 #. type: Title ==
 #: description.en.adoc:15 use-case-herbarium-specimens.en.adoc:65
 #: publishing.en.adoc:3
 #, no-wrap
 msgid "Data publishing"
-msgstr ""
+msgstr "Publicação de dados"
 
 #. type: delimited block *
 #: description.en.adoc:18
 msgid "This course is comprised of video instruction paired with quizzes and practical exercises.  When offered as an onsite or virtual workshop, group work and social interaction are encouraged."
-msgstr ""
+msgstr "Este curso é composto por instruções em vídeo, com questionários e exercícios práticos. Quando oferecido como oficina virtual, o trabalho de grupo e a interação social são encorajados."
 
 #. type: Title ===
 #: description.en.adoc:20
 #, no-wrap
 msgid "Audience"
+msgstr "Audiência"
+
+#. type: Plain text
+#: description.en.adoc:24
+msgid "This course is designed for individuals who work as researchers or technicians in biodiversity research or policy institutions.  The instruction provided is particularly useful for those who have a need or desire to plan mobilization projects and/or mobilize biodiversity information for their respective institutions."
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:23
+#: description.en.adoc:25
 #, no-wrap
 msgid "Prerequisites"
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:26
-msgid "Introduction to GBIF course"
-msgstr ""
+msgstr "Pré-requisitos"
 
 #. type: Plain text
 #: description.en.adoc:28
-msgid "Additionally, to make best use of the activities around this course, the participants should possess the following skills and knowledge:"
-msgstr ""
+msgid "Introduction to GBIF course"
+msgstr "Introdução ao curso GBIF"
 
 #. type: Plain text
 #: description.en.adoc:30
-msgid "Basic skills in computer and internet use, and, in particular, in the use of spreadsheets."
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:31
-msgid "Basic knowledge about geography and biodiversity informatics: geography and mapping concepts, basic taxonomy and nomenclature rules."
-msgstr ""
+msgid "Additionally, to make best use of the activities around this course, the participants should possess the following skills and knowledge:"
+msgstr "Além disso, para melhor utilização das actividades em torno deste curso, os participantes devem possuir as seguintes habilidades e conhecimentos:"
 
 #. type: Plain text
 #: description.en.adoc:32
-msgid "Willingness to disseminate the knowledge learned in the workshop with partners and collaborators in your project by adapting the biodiversity data mobilization training materials to specific contexts and languages while maintaining their instructional value."
-msgstr ""
+msgid "Basic skills in computer and internet use, and, in particular, in the use of spreadsheets."
+msgstr "Competências básicas no domínio da utilização de computadores e da Internet e, em particular, na utilização de tabelas."
 
 #. type: Plain text
 #: description.en.adoc:33
+msgid "Basic knowledge about geography and biodiversity informatics: geography and mapping concepts, basic taxonomy and nomenclature rules."
+msgstr "Conhecimento básico sobre geografia e informática para a biodiversidade: conceitos geográficos e de mapeamento, taxonomia básica e regras de nomenclatura."
+
+#. type: Plain text
+#: description.en.adoc:34
+msgid "Willingness to disseminate the knowledge learned in the workshop with partners and collaborators in your project by adapting the biodiversity data mobilization training materials to specific contexts and languages while maintaining their instructional value."
+msgstr "Disposição para divulgar o conhecimento adquirido no workshop com parceiros e colaboradores em seu projecto, adaptando os materiais de treinamento de dados da biodiversidade a contextos e idiomas específicos, mantendo o valor educativo."
+
+#. type: Plain text
+#: description.en.adoc:35
 msgid "A good command of English. While efforts are made to provide materials in other languages, instruction/videos will be in English."
-msgstr ""
+msgstr "Um bom comando de Inglês. Apesar dos esforços realizados para prover materiais em outras línguas, instruções/vídeos serão em inglês."
 
 #. type: Title ===
-#: description.en.adoc:34
+#: description.en.adoc:36
 #, no-wrap
 msgid "Learning objectives"
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:37
-msgid "Learn key concepts (foundations) of biodiversity informatics, particular to biodiversity digital data management."
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:38
-msgid "Receive an introduction to the Darwin Core Standard and its components."
-msgstr ""
+msgstr "Objectivos de aprendizado"
 
 #. type: Plain text
 #: description.en.adoc:39
-msgid "Learn to understand the different stages for planning a mobilization project and how to adapt stages to a specific project."
-msgstr ""
+msgid "Learn key concepts (foundations) of biodiversity informatics, particular to biodiversity digital data management."
+msgstr "Aprenda conceitos-chave (fundações) de informação sobre biodiversidade, especialmente para a gestão de dados digitais de biodiversidade."
 
 #. type: Plain text
 #: description.en.adoc:40
-msgid "Evaluate a data mobilization strategy to identify potential gaps, inefficiencies and pitfalls."
-msgstr ""
+msgid "Receive an introduction to the Darwin Core Standard and its components."
+msgstr "Receba uma introdução ao padrão Darwin Core e seus componentes."
 
 #. type: Plain text
 #: description.en.adoc:41
-msgid "Develop a data mobilization strategy customized to a given institutional framework."
-msgstr ""
+msgid "Learn to understand the different stages for planning a mobilization project and how to adapt stages to a specific project."
+msgstr "Aprenda a compreender as diferentes etapas para planear um projeto de mobilização e como adaptar etapas a um projecto específico."
 
 #. type: Plain text
 #: description.en.adoc:42
-msgid "Learn to identify the types of data and how to best capture relevant information using best practices, existing softwares, tools and techniques."
-msgstr ""
+msgid "Evaluate a data mobilization strategy to identify potential gaps, inefficiencies and pitfalls."
+msgstr "Avalie uma estratégia de mobilização de dados para identificar potenciais lacunas, ineficiências e dificuldades."
 
 #. type: Plain text
 #: description.en.adoc:43
-msgid "Use software tools designed to facilitate biodiversity data capture to produce digital biodiversity data from analogue sources."
-msgstr ""
+msgid "Develop a data mobilization strategy customized to a given institutional framework."
+msgstr "Desenvolva uma estratégia de mobilização de dados personalizada para um determinado quadro institucional."
 
 #. type: Plain text
 #: description.en.adoc:44
-msgid "Learn data quality concepts and receive an introduction to tools used for standardizing data, validating data, and cleaning data."
-msgstr ""
+msgid "Learn to identify the types of data and how to best capture relevant information using best practices, existing softwares, tools and techniques."
+msgstr "Aprenda a identificar os tipos de dados e a melhor maneira de capturar informações relevantes usando as melhores práticas, softwares existentes, ferramentas e técnicas."
 
 #. type: Plain text
 #: description.en.adoc:45
-msgid "Use software tools to evaluate the fitness-for-use of a biodiversity dataset"
-msgstr ""
+msgid "Use software tools designed to facilitate biodiversity data capture to produce digital biodiversity data from analogue sources."
+msgstr "Utiliza ferramentas de software desenhadas para facilitar a captura de dados de biodiversidade para produzir dados de biodiversidade digitais a partir de fontes analógicas."
 
 #. type: Plain text
 #: description.en.adoc:46
-msgid "Use software tools designed for (biodiversity) data cleaning."
-msgstr ""
+msgid "Learn data quality concepts and receive an introduction to tools used for standardizing data, validating data, and cleaning data."
+msgstr "Aprenda conceitos de qualidade de dados e receba uma introdução às ferramentas utilizadas para padronizar dados, validar dados e limpar dados."
 
 #. type: Plain text
 #: description.en.adoc:47
-msgid "Learn the process of making biodiversity data freely available online, also known as data publishing, utilizing GBIF’s Integrated Publishing Toolkit (IPT)."
-msgstr ""
+msgid "Use software tools to evaluate the fitness-for-use of a biodiversity dataset"
+msgstr "Utilize ferramentas de software para avaliar a aptidão para a utilização de um conjunto de dados de biodiversidade"
 
 #. type: Plain text
 #: description.en.adoc:48
-msgid "Define the publishable data types and subtypes (if any) for a biodiversity dataset."
-msgstr ""
+msgid "Use software tools designed for (biodiversity) data cleaning."
+msgstr "Utilize ferramentas de software desenhadas para limpeza de dados (biodiversidade)."
 
 #. type: Plain text
 #: description.en.adoc:49
-msgid "Use the GBIF IPT to publish biodiversity datasets using the appropriate extensions."
-msgstr ""
+msgid "Learn the process of making biodiversity data freely available online, also known as data publishing, utilizing GBIF’s Integrated Publishing Toolkit (IPT)."
+msgstr "Aprenda o processo de tornar os dados de biodiversidade disponíveis gratuitamente online, também conhecido como publicação de dados, utilizando o Conjunto de Ferramentas Integradas para Publicação do GBIF (IPT)."
 
 #. type: Plain text
 #: description.en.adoc:50
-msgid "Capacitate others in the planning, capture, management and publishing of biodiversity data."
-msgstr ""
-
-#. type: Title ===
-#: description.en.adoc:51
-#, no-wrap
-msgid "Certification"
-msgstr ""
+msgid "Define the publishable data types and subtypes (if any) for a biodiversity dataset."
+msgstr "Defina os tipos e subtipos de dados publicáveis (se houver) para um conjunto de dados de biodiversidade."
 
 #. type: Plain text
-#: description.en.adoc:54
+#: description.en.adoc:51
+msgid "Use the GBIF IPT to publish biodiversity datasets using the appropriate extensions."
+msgstr "Use o GBIF IPT para publicar conjuntos de dados de biodiversidade utilizando as extensões apropriadas."
+
+#. type: Plain text
+#: description.en.adoc:52
+msgid "Capacitate others in the planning, capture, management and publishing of biodiversity data."
+msgstr "Capacite outros no planeamento, captura, gestão e publicação dos dados da biodiversidade."
+
+#. type: Title ===
+#: description.en.adoc:53
+#, no-wrap
+msgid "Certification"
+msgstr "Certificação"
+
+#. type: Plain text
+#: description.en.adoc:56
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge].  See <<assessment-and-certification,Assessment and Certification>> for more details."
-msgstr ""
+msgstr "Após a conclusão bem sucedida do curso e avaliação bem sucedida das recomendações (por treinadores e mentores), os participantes têm a oportunidade de receber uma certificação oficial sob a forma de https://openbadges. rg/[Open Badge]. Veja <<assessment-and-certification,Assessment and Certification>> para mais detalhes."
 
 #. type: Title ==
 #: downloads.en.adoc:1
 #, no-wrap
 msgid "Files for download"
-msgstr ""
+msgstr "Ficheiros para descarregamento"
 
 #. type: Plain text
 #: downloads.en.adoc:7
 msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from Vimeo.  If you have difficulty accessing Vimeo.com, please download the mp4 files to play them locally on your computer."
-msgstr ""
+msgstr "Todos os ficheiros do curso podem ser descarregados desta página. Ou se preferir, todos os ficheiros são vinculados individualmente ao longo do curso, a medida que ocorrem no currículo. Os ficheiros de vídeo também são incorporados ao longo do curso e são reproduzidos pelo Vimeo. Se tiver dificuldade em aceder ao Vimeo.com, faça o descarregamento dos ficheiros mp4 para reproduzi-los localmente no seu computador."
 
 #. type: Title ===
 #: downloads.en.adoc:8
 #, no-wrap
 msgid "Videos"
-msgstr ""
+msgstr "Vídeos"
 
 #. type: Plain text
 #: downloads.en.adoc:10
 msgid "The videos are narrated in English. Subtitles are available for French, Spanish and Portuguese."
-msgstr ""
+msgstr "Os vídeos são narrados em inglês. As legendas estão disponíveis em francês, espanhol e português."
 
 #. type: Title ===
 #: downloads.en.adoc:12
 #, no-wrap
 msgid "Exercise data"
-msgstr ""
+msgstr "Dados do exercício"
 
 #. type: Title ===
 #: downloads.en.adoc:15
 #, no-wrap
 msgid "Exercise sheets"
-msgstr ""
+msgstr "Folhas de exercício"
 
 #. type: Plain text
 #: downloads.en.adoc:17
 msgid "This compressed file contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr ""
+msgstr "Este ficheiro compactado contém as folhas de exercícios para todos os casos de uso. As folhas de exercícios são escritas em inglês e devem ser concluídas em inglês."
 
 #. type: Title ==
 #: foundations.en.adoc:2
 #, no-wrap
 msgid "Foundations "
-msgstr ""
+msgstr "Fundações "
 
 #. type: Plain text
 #: foundations.en.adoc:9
 msgid "This module includes instruction to ensure all participants are at the same level before delving into the data mobilization topics.  You will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.  You will also receive an introduction to data quality and learn the importance of documentation.  Lastly, you will be asked to install the OpenRefine software as part of this module."
-msgstr ""
+msgstr "Este módulo inclui instruções para garantir que todos os participantes estejam no mesmo nível antes de mergulhar nos tópicos de mobilização de dados. Receberá uma introdução a linguagem, terminologia e definições para alguns dos conceitos básicos, funções e processos que irá colocar em uso durante o resto do curso. Receberão também uma introdução à qualidade dos dados e aprenderão a importância da documentação. Por último, será solicitado a instalar o software OpenRefine como parte deste módulo."
 
 #. type: Title ===
 #: foundations.en.adoc:10
 #, no-wrap
 msgid "Terminology"
-msgstr ""
+msgstr "Terminologia"
 
 #. type: Title ====
 #: foundations.en.adoc:12
 #, no-wrap
 msgid "Definitions"
-msgstr ""
+msgstr "Definições"
 
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr ""
+msgstr "Neste vídeo (12:02), poderá rever a terminologia usada neste curso. Se não puder assistir o vídeo incorporado no Vimeo, utilize o link:. /videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 38.5 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:19
 #, no-wrap
 msgid "Software"
-msgstr ""
+msgstr "Software"
 
 #. type: Plain text
 #: foundations.en.adoc:23
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr ""
+msgstr "Neste vídeo (05:58), revisará exemplos dos diferentes tipos de aplicações e softwares disponíveis no mundo da mobilização da informática para a biodiversidade. Se não puder assistir ao vídeo do Vimeo, use o link:../videos/Foundations_Software.mp4[download^,opts=download] localmente. (MP4 - 18.9 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:25
 msgid "video::434713189[vimeo, height=480, width=640, align=center]"
-msgstr ""
+msgstr "video::434713189[vimeo, height=480, largura=640, align=center]"
 
 #. type: Title ====
 #: foundations.en.adoc:26
 #, no-wrap
 msgid "Structures"
-msgstr ""
+msgstr "Estructuras"
 
 #. type: Plain text
 #: foundations.en.adoc:30
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr ""
+msgstr "Neste vídeo (13:10), irá rever os tipos de campos e de dados que possuem dados, as estructuras que ajudam a organizar e proteger esses dados e o que eles significam para a integridade e a segurança de seus dados. Se não conseguir assistir ao vídeo embutido do Vimeo, use o link:../videos/Foundations_Structures.mp4[download^,opts=download] localmente. (MP4 - 38.8 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:33
 #, no-wrap
 msgid "Data quality"
-msgstr ""
+msgstr "Qualidade dos dados"
 
 #. type: Plain text
 #: foundations.en.adoc:37
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr ""
+msgstr "Neste vídeo (12:26), poderá rever a terminologia usada neste curso. Se não puder assistir o vídeo incorporado no Vimeo, utilize o link:. /videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 44.5 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:44
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
-msgstr ""
+msgstr "Abaixo encontrará uma leitura selecionada do guia do Arthur Chapman: “Princípios da qualidade de dados”. https://www.gbif.org/document/80509/principles-of-data-quality[Documento completo ^], referências e traduções podem ser encontradas em GBIF.org."
 
 #. type: delimited block _
 #: foundations.en.adoc:49
@@ -789,37 +794,39 @@ msgstr ""
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
-#. type: delimited block .
-#: foundations.en.adoc:266
-#, no-wrap
-msgid "1. For the given statement, input the correct term (database, database language, database program)\n"
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: Plain text
+#: foundations.en.adoc:270
+msgid "For the given statement, input the correct term (database, database language, database program)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:273
+#: foundations.en.adoc:279
 #, no-wrap
-msgid "combines and presents functions and features for manipulating data, together in a unified interface +\n"
-"__database program__ +\n"
-"structured and organized collection of data and/or information held on a computer +\n"
-"__database__ +\n"
-"the way by which a human communicates with a computer +\n"
-"__database language__ +\n"
+msgid "* combines and presents functions and features for manipulating data, together in a unified interface +\n"
+"  __database program__\n"
+"* structured and organized collection of data and/or information held on a computer +\n"
+"  __database__\n"
+"* the way by which a human communicates with a computer +\n"
+"  __database language__\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: foundations.en.adoc:282
+msgid "If you open a data file and see the following, what would you suspect is the issue? +"
+msgstr ""
+
+#. type: Plain text
+#: foundations.en.adoc:284 solutions.en.adoc:21
+msgid "`�tre, ou ne pas �tre, c�est l� la question.`"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:278
-#, no-wrap
-msgid "2. If you open a data file and see the following, what would you suspect is the issue?\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:280
-#, no-wrap
-msgid "�tre, ou ne pas �tre, c�est l� la question.\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:285
+#: foundations.en.adoc:291
 #, no-wrap
 msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
@@ -827,58 +834,58 @@ msgid "- [ ] Nothing\n"
 "- [ ] The sender used a weird font\n"
 msgstr ""
 
-#. type: delimited block .
-#: foundations.en.adoc:290
-#, no-wrap
-msgid "3. For the given software, input the type of software (data capture, data management, data cleaning, data publishing).\n"
+#.  Question 3
+#. type: Plain text
+#: foundations.en.adoc:294
+msgid "For the given software, input the type of software (data capture, data management, data cleaning, data publishing)."
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:299
+#: foundations.en.adoc:305
 #, no-wrap
-msgid "Integrated Publishing Toolkit (IPT) +\n"
-"__data publishing__ +\n"
-"Specify +\n"
-"__data capture__ AND __data management__ +\n"
-"iNaturalist +\n"
-"__data capture__ +\n"
-"OpenRefine +\n"
-"__data cleaning__\n"
+msgid "* Integrated Publishing Toolkit (IPT) +\n"
+"  __data publishing__\n"
+"* Specify +\n"
+"  __data capture__ AND __data management__\n"
+"* iNaturalist +\n"
+"  __data capture__\n"
+"* OpenRefine +\n"
+"  __data cleaning__\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: foundations.en.adoc:308
+msgid "For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:304
+#: foundations.en.adoc:325
 #, no-wrap
-msgid "4. For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)\n"
+msgid "* 1236975 +\n"
+"  __long integer__\n"
+"* 01101111 +\n"
+"  __binary__\n"
+"* We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +\n"
+"  __unstructured text__\n"
+"* 1024 +\n"
+"  __integer__\n"
+"* 29.0 +\n"
+"  __float__\n"
+"* Yes/No +\n"
+"  __boolean__\n"
+"* 6 rabbits were observed +\n"
+"  __text__\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: foundations.en.adoc:328
+msgid "Which of these terms describes a \"field/column name\"?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:319
-#, no-wrap
-msgid "1236975 +\n"
-"__long integer__ +\n"
-"01101111 +\n"
-"__binary__ +\n"
-"We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +\n"
-"__unstructured text__ +\n"
-"1024 +\n"
-"__integer__ +\n"
-"29.0 +\n"
-"__float__ +\n"
-"Yes/No +\n"
-"__boolean__ +\n"
-"6 rabbits were observed +\n"
-"__text__\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:324
-#, no-wrap
-msgid "5. Which of these terms describes a \"field/column name\"?\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:331
+#: foundations.en.adoc:337
 #, no-wrap
 msgid "- [x] Assigned\n"
 "- [ ] Descriptive\n"
@@ -888,14 +895,14 @@ msgid "- [x] Assigned\n"
 "- [ ] User-interface\n"
 msgstr ""
 
-#. type: delimited block .
-#: foundations.en.adoc:336
-#, no-wrap
-msgid "6. Which of these terms describes a \"field label\"?\n"
+#.  Question 6
+#. type: Plain text
+#: foundations.en.adoc:340
+msgid "Which of these terms describes a \"field label\"?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:343
+#: foundations.en.adoc:349
 #, no-wrap
 msgid "- [ ] Assigned\n"
 "- [x] Descriptive\n"
@@ -905,31 +912,31 @@ msgid "- [ ] Assigned\n"
 "- [x] User-interface\n"
 msgstr ""
 
-#. type: delimited block .
-#: foundations.en.adoc:348
-#, no-wrap
-msgid "7. For each statement, input the correct structure (row, column, table)\n"
+#.  Question 7
+#. type: Plain text
+#: foundations.en.adoc:352
+msgid "For each statement, input the correct structure (row, column, table)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:355
+#: foundations.en.adoc:361
 #, no-wrap
-msgid "All data refers to a SINGLE concept. +\n"
-"__table__ +\n"
-"An attribute has the SAME field/data type for every record. +\n"
-"__column__ +\n"
-"Attributes of a record ALWAYS stay together. +\n"
-"__row__\n"
+msgid "* All data refers to a SINGLE concept. +\n"
+"  __table__\n"
+"* An attribute has the SAME field/data type for every record. +\n"
+"  __column__\n"
+"* Attributes of a record ALWAYS stay together. +\n"
+"  __row__\n"
+msgstr ""
+
+#.  Question 8
+#. type: Plain text
+#: foundations.en.adoc:364
+msgid "Who determines the fitness for use of your data?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:360
-#, no-wrap
-msgid "8. Who determines the fitness for use of your data?\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:365
+#: foundations.en.adoc:371
 #, no-wrap
 msgid "- [ ] The museum or department director\n"
 "- [x] The users of the data for research or education\n"
@@ -937,57 +944,56 @@ msgid "- [ ] The museum or department director\n"
 "- [ ] The person entering the data into the database\n"
 msgstr ""
 
-#. type: delimited block .
-#: foundations.en.adoc:371
-#, no-wrap
-msgid "9. For the given statements, input the matching image. (A, B, C, D)\n"
-"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+#.  Question 9
+#. type: Plain text
+#: foundations.en.adoc:375
+msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:380
+#: foundations.en.adoc:386
 #, no-wrap
-msgid "High accuracy, low precision +\n"
-"__C__ +\n"
-"Low accuracy, high precision +\n"
-"__B__ +\n"
-"High accuracy, high precision +\n"
-"__D__ +\n"
-"Low accuracy, low precision +\n"
-"__A__\n"
+msgid "* High accuracy, low precision +\n"
+"  __C__\n"
+"* Low accuracy, high precision +\n"
+"  __B__\n"
+"* High accuracy, high precision +\n"
+"  __D__\n"
+"* Low accuracy, low precision +\n"
+"  __A__\n"
+msgstr ""
+
+#.  Question 10
+#. type: Plain text
+#: foundations.en.adoc:389
+msgid "Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are used."
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:385
+#: foundations.en.adoc:404
 #, no-wrap
-msgid "10. Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.\n"
+msgid "* Collector field exists in both dataset A and B +\n"
+"  __1:1__\n"
+"* Country field only exists in dataset B +\n"
+"  __0:1__\n"
+"* Name field exists in dataset A, but dataset B contains First Name and Last Name fields +\n"
+"  __1:∞__\n"
+"* ID field exists in both dataset A and B +\n"
+"  __1:1__\n"
+"* Elevation exists in dataset A, but not in dataset B +\n"
+"  __1:0__\n"
+"* Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +\n"
+"  __1:∞__\n"
+msgstr ""
+
+#.  Question 11
+#. type: Plain text
+#: foundations.en.adoc:407
+msgid "Metadata is important because (select the TRUE statements):"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:398
-#, no-wrap
-msgid "Collector field exists in both dataset A and B +\n"
-"__1:1__ +\n"
-"Country field only exists in dataset B +\n"
-"__0:1__ +\n"
-"Name field exists in dataset A, but dataset B contains First Name and Last Name fields +\n"
-"__1:∞__ +\n"
-"ID field exists in both dataset A and B +\n"
-"__1:1__ +\n"
-"Elevation exists in dataset A, but not in dataset B +\n"
-"__1:0__ +\n"
-"Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +\n"
-"__1:∞__\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:403
-#, no-wrap
-msgid "11. Metadata is important because (select the TRUE statements):\n"
-msgstr ""
-
-#. type: delimited block .
-#: foundations.en.adoc:409
+#: foundations.en.adoc:415
 #, no-wrap
 msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [ ] it allows you to share exact coordinates for each occurrence.\n"
@@ -1460,14 +1466,17 @@ msgstr ""
 msgid "Review"
 msgstr ""
 
-#. type: delimited block .
-#: planning.en.adoc:135
-#, no-wrap
-msgid "1. What is the order of the five PMBoK Process Groupings?\n"
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: planning.en.adoc:138
+msgid "What is the order of the five PMBoK Process Groupings?"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:140
+#: planning.en.adoc:146
 #, no-wrap
 msgid "- [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closing\n"
 "- [x] Initiating, Planning, Executing, Monitoring and Controlling, Closing\n"
@@ -1475,14 +1484,14 @@ msgid "- [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closin
 "- [ ] Initiating, Planning, Monitoring and Controlling, Executing, Closing\n"
 msgstr ""
 
-#. type: delimited block .
-#: planning.en.adoc:145
-#, no-wrap
-msgid "2. What are the types of deliverables? (multiple correct answers)\n"
+#.  Question 2
+#. type: Plain text
+#: planning.en.adoc:149
+msgid "What are the types of deliverables? (multiple correct answers)"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:152
+#: planning.en.adoc:158
 #, no-wrap
 msgid "- [x] Stated\n"
 "- [x] Implied\n"
@@ -1492,28 +1501,28 @@ msgid "- [x] Stated\n"
 "- [ ] Guesses\n"
 msgstr ""
 
-#. type: delimited block .
-#: planning.en.adoc:157
-#, no-wrap
-msgid "3. What is a bottleneck?\n"
+#.  Question 3
+#. type: Plain text
+#: planning.en.adoc:161
+msgid "What is a bottleneck?"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:161
+#: planning.en.adoc:167
 #, no-wrap
 msgid "- [x] a blockage that delays development or progress\n"
 "- [ ] a space where something or someone is missing\n"
 "- [ ] a problem, or situation that prevents somebody from doing something, or that makes something impossible.\n"
 msgstr ""
 
-#. type: delimited block .
-#: planning.en.adoc:166
-#, no-wrap
-msgid "4. Which are examples of mobilization tasks? (multiple correct answers)\n"
+#.  Question 4
+#. type: Plain text
+#: planning.en.adoc:170
+msgid "Which are examples of mobilization tasks? (multiple correct answers)"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:172
+#: planning.en.adoc:178
 #, no-wrap
 msgid "- [ ] Affiliation\n"
 "- [x] Publishing\n"
@@ -1614,14 +1623,17 @@ msgstr ""
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
 msgstr ""
 
-#. type: delimited block .
-#: capture.en.adoc:65
-#, no-wrap
-msgid "What dataset type(s) would you choose for an ichthyology collection?\n"
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: capture.en.adoc:68
+msgid "What dataset type(s) would you choose for an ichthyology collection?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:69
+#: capture.en.adoc:74
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
@@ -1629,41 +1641,41 @@ msgid ":figure-caption!:\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:73 capture.en.adoc:86
+#: capture.en.adoc:78 capture.en.adoc:91
 #, no-wrap
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [ ] sampling event\n"
 msgstr ""
 
-#. type: delimited block .
-#: capture.en.adoc:78
-#, no-wrap
-msgid "What dataset type(s) would you choose for a list of invasive species?\n"
+#.  Question 2
+#. type: Plain text
+#: capture.en.adoc:81
+msgid "What dataset type(s) would you choose for a list of invasive species?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:82
+#: capture.en.adoc:87
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
 "image::img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
-#. type: delimited block .
-#: capture.en.adoc:91
-#, no-wrap
-msgid "What dataset type(s) would you choose for the flora and fauna of an environmental impact study?\n"
+#.  Question 3
+#. type: Plain text
+#: capture.en.adoc:94
+msgid "What dataset type(s) would you choose for the flora and fauna of an environmental impact study?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:93
+#: capture.en.adoc:98
 #, no-wrap
 msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:97
+#: capture.en.adoc:102
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
@@ -1671,27 +1683,27 @@ msgid ":figure-caption!:\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:101 capture.en.adoc:129 capture.en.adoc:161
+#: capture.en.adoc:106 capture.en.adoc:134 capture.en.adoc:166
 #, no-wrap
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [x] sampling event\n"
 msgstr ""
 
-#. type: delimited block .
-#: capture.en.adoc:106
-#, no-wrap
-msgid "What dataset type(s) would you choose for bird tracking data?\n"
+#.  Question 4
+#. type: Plain text
+#: capture.en.adoc:109
+msgid "What dataset type(s) would you choose for bird tracking data?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:108
+#: capture.en.adoc:113
 #, no-wrap
 msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:112
+#: capture.en.adoc:117
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
@@ -1699,97 +1711,97 @@ msgid ":figure-caption!:\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:116
+#: capture.en.adoc:121
 #, no-wrap
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [ ] sampling event\n"
 msgstr ""
 
-#. type: delimited block .
-#: capture.en.adoc:121
-#, no-wrap
-msgid "What dataset type(s) would you choose for insect trap data?\n"
+#.  Question 5
+#. type: Plain text
+#: capture.en.adoc:124
+msgid "What dataset type(s) would you choose for insect trap data?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:125
+#: capture.en.adoc:130
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
 "image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
-#. type: delimited block .
-#: capture.en.adoc:134
-#, no-wrap
-msgid "What dataset type(s) would you choose for national park management data?\n"
+#.  Question 6
+#. type: Plain text
+#: capture.en.adoc:137
+msgid "What dataset type(s) would you choose for national park management data?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:136
+#: capture.en.adoc:141
 #, no-wrap
 msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:140
+#: capture.en.adoc:145
 #, no-wrap
 msgid ":figure-caption!:\n"
-".https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
+".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
 "image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:144
+#: capture.en.adoc:149
 #, no-wrap
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [x] sampling event\n"
 msgstr ""
 
-#. type: delimited block .
-#: capture.en.adoc:149
-#, no-wrap
-msgid "What dataset type(s) would you choose for a citizen science bioblitz?\n"
+#.  Question 7
+#. type: Plain text
+#: capture.en.adoc:152
+msgid "What dataset type(s) would you choose for a citizen science bioblitz?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:151
+#: capture.en.adoc:156
 #, no-wrap
 msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:153
+#: capture.en.adoc:158
 #, no-wrap
 msgid "Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:157
+#: capture.en.adoc:162
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
 "image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
-#. type: delimited block .
-#: capture.en.adoc:166
-#, no-wrap
-msgid "What dataset type(s) would you choose for a regional species list?\n"
+#.  Question 8
+#. type: Plain text
+#: capture.en.adoc:169
+msgid "What dataset type(s) would you choose for a regional species list?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:170
+#: capture.en.adoc:175
 #, no-wrap
 msgid ":figure-caption!:\n"
-".https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
+".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
 "image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:174
+#: capture.en.adoc:179
 #, no-wrap
 msgid "- [ ] occurrence\n"
 "- [x] checklist\n"
@@ -3942,6 +3954,527 @@ msgid "<<<"
 msgstr ""
 
 #. type: Title ==
+#: solutions.en.adoc:2
+#, no-wrap
+msgid "Appendix: Solutions"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:6
+msgid "This appendix contains the answers and additional information to all of the review quizzes.  Additionally, this section contains a suggested solution to USE CASE I."
+msgstr ""
+
+#. type: Title ===
+#: solutions.en.adoc:7
+#, no-wrap
+msgid "Foundations review solutions"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:10
+#, no-wrap
+msgid "*For the given statement, input the correct term (database, database language, database program)*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:13
+msgid "combines and presents functions and features for manipulating data, together in a unified interface + *database program* +"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:15
+msgid "structured and organized collection of data and/or information held on a computer + *database* +"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:17
+msgid "the way by which a human communicates with a computer + *database language* +"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:19
+#, no-wrap
+msgid "*If you open a data file and see the following, what would you suspect is the issue?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:23
+msgid "The wrong encoding was used to open the file"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:25
+#, no-wrap
+msgid "*For the given software, input the type of software (data capture, data management, data cleaning, data publishing).*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:28
+msgid "Integrated Publishing Toolkit (IPT) + *data publishing*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:30
+msgid "Specify + *data capture* AND *data management*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:32
+msgid "iNaturalist + *data capture*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:34
+msgid "OpenRefine + *data cleaning*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:36
+#, no-wrap
+msgid "*For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:39
+msgid "1236975 + *long integer*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:41
+msgid "01101111 + *binary*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:43
+msgid "We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. + *unstructured text*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:45
+msgid "1024 + *integer*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:47
+msgid "29.0 + *float*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:49
+msgid "Yes/No + *boolean*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:51
+msgid "6 rabbits were observed + *text*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:53
+#, no-wrap
+msgid "*Which of these terms describes a \"field/column name\"?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:55
+msgid "Assigned"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:56
+msgid "Identifying"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:57
+msgid "Unique"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:59
+#, no-wrap
+msgid "*Which of these terms describes a \"field label\"?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:61
+msgid "Descriptive"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:62
+msgid "Readable"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:63
+msgid "User-interface"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:65
+#, no-wrap
+msgid "*For each statement, input the correct structure (row, column, table)*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:68
+msgid "All data refers to a SINGLE concept. + *table*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:70
+msgid "An attribute has the SAME field/data type for every record. + *column*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:72
+msgid "Attributes of a record ALWAYS stay together. + *row*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:74
+#, no-wrap
+msgid "*Who determines the fitness for use of your data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:76
+msgid "The users of the data for research or education"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:79
+#, no-wrap
+msgid "*For the given statements, input the matching image. (A, B, C, D)*\n"
+"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:82
+msgid "High accuracy, low precision + *C*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:84
+msgid "Low accuracy, high precision + *B*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:86
+msgid "High accuracy, high precision + *D*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:88
+msgid "Low accuracy, low precision + *A*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:90
+#, no-wrap
+msgid "*Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:93
+msgid "Collector field exists in both dataset A and B + *1:1*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:95
+msgid "Country field only exists in dataset B + *0:1*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:97
+msgid "Name field exists in dataset A, but dataset B contains First Name and Last Name fields + *1:∞*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:99
+msgid "ID field exists in both dataset A and B + *1:1*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:101
+msgid "Elevation exists in dataset A, but not in dataset B + *1:0*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:103
+msgid "Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B + *1:∞*"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:105
+#, no-wrap
+msgid "*Metadata is important because (select the TRUE statements)*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:107
+msgid "it allows users to determine if a dataset is fit for their use."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:108
+msgid "it allows you to know under which legal terms the reuse of data is permitted."
+msgstr ""
+
+#. type: Title ===
+#: solutions.en.adoc:109
+#, no-wrap
+msgid "Planning review solutions"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:112
+#, no-wrap
+msgid "*What is the order of the five PMBoK Process Groupings?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:114
+msgid "Initiating, Planning, Executing, Monitoring and Controlling, Closing"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:116
+msgid "Learn More: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:118
+#, no-wrap
+msgid "*What are the types of deliverable?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:120
+msgid "Stated - YES"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:121
+msgid "Implied - YES"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:122
+msgid "Estimated - NO"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:123
+msgid "Direct - YES"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:124
+msgid "Indirect - YES"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:125
+msgid "Guesses - NO"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:127
+#, no-wrap
+msgid "*What is a bottleneck?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:130
+msgid "a blockage that delays development or progress - YES a space where something or someone is missing - NO, THIS IS A GAP"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:131
+msgid "a problem, or situation that prevents somebody from doing something, or that makes something impossible. NO, THIS IS A BARRIER"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:133
+#, no-wrap
+msgid "*Which are examples of mobilization tasks?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:135
+msgid "Affiliation - NO, This is a Resource Type"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:136
+msgid "Publishing - YES"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:137
+msgid "Imaging - YES"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:138
+msgid "Georeferencing - YES"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:139
+msgid "Increased Public Awareness - NO, This is an implied goal."
+msgstr ""
+
+#. type: Title ===
+#: solutions.en.adoc:140
+#, no-wrap
+msgid "Data capture review solutions"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:143
+#, no-wrap
+msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:148
+msgid "occurrence + Most of the time, specimens from collection databases are shared as occurrence data.  Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.  Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:150
+msgid "checklist + It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:152
+#, no-wrap
+msgid "*What dataset type(s) would you choose for a list of invasive species?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:155
+msgid "occurrence + Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:157
+msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:159
+#, no-wrap
+msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:162
+msgid "occurrence + Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:164
+msgid "sampling event + They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:166
+#, no-wrap
+msgid "*What dataset type(s) would you choose for bird tracking data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:169
+msgid "occurrence + These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:171
+#, no-wrap
+msgid "*What dataset type(s) would you choose for insect trap data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:174
+msgid "occurrence + Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:178
+msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:180
+#, no-wrap
+msgid "*What dataset type(s) would you choose for national park management data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:183
+msgid "occurrence + record individuals of species"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:185
+msgid "checklist + It is important to know how many species are present in the park/reserve perimeter and their conservation status."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:187
+msgid "sampling event + check and track the populations"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:189
+#, no-wrap
+msgid "*What dataset type(s) would you choose for a citizen science bioblitz?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:192
+msgid "occurrence + Bioblitz datasets are mainly shared as occurrence datasets."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:194
+msgid "sampling event + Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:196
+#, no-wrap
+msgid "*What dataset type(s) would you choose for a regional species list?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:200
+msgid "checklist + Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
+msgstr ""
+
+#. type: Title ===
+#: solutions.en.adoc:201
+#, no-wrap
+msgid "Data management review solutions"
+msgstr ""
+
+#. type: Title ===
+#: solutions.en.adoc:203
+#, no-wrap
+msgid "Data publishing review solutions"
+msgstr ""
+
+#. type: Title ===
+#: solutions.en.adoc:205
+#, no-wrap
+msgid "Use Case I suggested solution"
+msgstr ""
+
+#. type: Title ==
 #: acknowledgements.en.adoc:2
 #, no-wrap
 msgid "Acknowledgements "
@@ -3985,7 +4518,7 @@ msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:16
-msgid "Alberto Gonzalez Talavan*"
+msgid "Alberto González-Talaván*"
 msgstr ""
 
 #. type: Plain text
@@ -4121,7 +4654,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:10
-msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto Gonzalez Talavan, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
+msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
 msgstr ""
 
 #. type: Title ===
