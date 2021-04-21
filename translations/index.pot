@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-21 14:06+0000\n"
+"POT-Creation-Date: 2021-04-21 14:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4387,25 +4387,70 @@ msgstr ""
 msgid "USE CASE II"
 msgstr ""
 
+#. type: Plain text
+#: assignments.en.adoc:9
+msgid ""
+"There are two options for USE CASE II "
+"(<<use-case-ii-invasive-species,Invasive species>> OR "
+"<<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need "
+"to select one of them for your assignment."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:11 assignments.en.adoc:20
+msgid "Required files for submission:"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:13 assignments.en.adoc:22
+msgid "completed exercise sheet (MS Word Doc or similar is acceptable)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:14 assignments.en.adoc:23
+msgid "data capture spreadsheet (MS Excel, csv, txt or similar is acceptable)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:15 assignments.en.adoc:24
+msgid "cleaned/standardized dataset (MS Excel, csv, txt or similar is acceptable)"
+msgstr ""
+
 #. type: Title ===
-#: assignments.en.adoc:8
+#: assignments.en.adoc:16
 #, no-wrap
 msgid "USE CASE III"
 msgstr ""
 
+#. type: Plain text
+#: assignments.en.adoc:18
+msgid ""
+"There is only one option for USE CASE III "
+"(<<use-case-iii-birds-from-literature,Birds from literature>>)."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:26
+msgid ""
+"Include the use case and exercise number along with your name on all files "
+"submitted. For example, Russell-UC2-IS-exercise-sheet.docx, "
+"Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted "
+"in English*. Contact training@gbif.org if you have any questions."
+msgstr ""
+
 #. type: Title ===
-#: assignments.en.adoc:10
+#: assignments.en.adoc:27
 #, no-wrap
 msgid "Assignment submission"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:14
+#: assignments.en.adoc:31
 msgid "Assignments can be submitted from the online (HTML) version of the course."
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:18
+#: assignments.en.adoc:35
 msgid ""
 "Please submit your assignment files using the form below.  If you do not see "
 "a form, you can also visit the "
@@ -4414,7 +4459,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block +
-#: assignments.en.adoc:21
+#: assignments.en.adoc:38
 #, no-wrap
 msgid ""
 "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" "
