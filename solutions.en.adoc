@@ -1,6 +1,8 @@
 [multipage-level=2]
 == Appendix: Solutions
 
+This appendix contains the answers and additional information to all of the review quizzes. Additionally, this section contains a suggested solution to USE CASE I.
+
 === Foundations review solutions
 
 *For the given statement, input the correct term (database, database language, database program)*
@@ -135,6 +137,65 @@ a space where something or someone is missing - NO, THIS IS A GAP
 * Increased Public Awareness - NO, This is an implied goal.
 
 === Data capture review solutions
+
+*What dataset type(s) would you choose for an ichthyology collection?*
+
+* occurrence +
+Most of the time, specimens from collection databases are shared as occurrence data.
+Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.
+Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID.  
+* checklist +
+It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT.
+
+*What dataset type(s) would you choose for a list of invasive species?*
+
+* occurrence +
+Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data.
+* checklist +
+Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results]).
+
+*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*
+
+* occurrence +
+Data are recorded by naturalists on the field and can be shared as simple occurrence datasets.
+* sampling event +
+They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data.
+
+*What dataset type(s) would you choose for bird tracking data?*
+
+* occurrence +
+These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])
+
+*What dataset type(s) would you choose for insect trap data?*
+
+* occurrence +
+Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed.
+* sampling event +
+Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance. 
+Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.
+The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work.
+
+*What dataset type(s) would you choose for national park management data?*
+
+* occurrence +
+record individuals of species
+* checklist +
+It is important to know how many species are present in the park/reserve perimeter and their conservation status.
+* sampling event +
+check and track the populations
+
+*What dataset type(s) would you choose for a citizen science bioblitz?*
+
+* occurrence +
+Bioblitz datasets are mainly shared as occurrence datasets.
+* sampling event +
+Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset.
+
+*What dataset type(s) would you choose for a regional species list?*
+
+* checklist +
+Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area. 
+Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences.
 
 === Data management review solutions
 
