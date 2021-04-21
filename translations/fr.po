@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 14:06+0000\n"
-"PO-Revision-Date: 2021-04-21 14:34\n"
+"POT-Creation-Date: 2021-04-21 14:45+0000\n"
+"PO-Revision-Date: 2021-04-21 15:32\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -53,7 +53,7 @@ msgstr "Description du cours"
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "This course enables participants to plan and implement biodiversity data mobilization efforts effectively using accepted community standards.  Its aim is to increase the volume, richness and quality of the data published through the GBIF network.  This course was first developed as part of the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development] (BID) programme funded by the https://europa.eu/[European Union]."
-msgstr ""
+msgstr "Ce cours permet aux participants de planifier et de mettre en œuvre efficacement les efforts de mobilisation des données sur la biodiversité en utilisant les standards communautaires acceptés. Son objectif est d'augmenter le volume, la richesse et la qualité des données publiées via le réseau GBIF. Ce cours a été développé pour la première fois dans le cadre du programme https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development] (BID) financé par l’ https://europa.eu/[Union Européenne]."
 
 #. type: delimited block *
 #: description.en.adoc:10
@@ -100,7 +100,7 @@ msgstr "Public"
 #. type: Plain text
 #: description.en.adoc:24
 msgid "This course is designed for individuals who work as researchers or technicians in biodiversity research or policy institutions.  The instruction provided is particularly useful for those who have a need or desire to plan mobilization projects and/or mobilize biodiversity information for their respective institutions."
-msgstr ""
+msgstr "Ce cours s'adresse aux personnes qui travaillent en tant que chercheurs ou techniciens dans des institutions de recherche ou de politique dans le domaine de la biodiversité. Les instructions fournies sont particulièrement utiles pour ceux qui ont besoin ou souhaitent planifier des projets de mobilisation et/ou mobiliser des informations sur la biodiversité pour leurs institutions respectives."
 
 #. type: Title ===
 #: description.en.adoc:25
@@ -634,34 +634,37 @@ msgstr "*Fonctionnalité* : Vous devez avoir une vision claire de ce que vous at
 #, no-wrap
 msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
 "It will also make more likely to be updated and ported to more modern operating systems.\n"
-msgstr ""
+msgstr "*Stabilité* : Certaines solutions sont sur le marché depuis longtemps et qui sont supportées par des institutions ou des entreprises solides sont plus susceptibles d'être exemptes de bogues et/ou d'avoir de bons systèmes en place pour résoudre les problèmes qui se posent.\n"
+"Elles sont aussi plus susceptibles d'être mises à jour et portées par des systèmes d'exploitation plus modernes.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:209
 #, no-wrap
 msgid "*Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.\n"
 "Check the opinions of other users online.\n"
-msgstr ""
+msgstr "*Extensibilité* : Certains logiciels fonctionnent très bien lorsqu'ils sont présentés de manière prête-à-l'emploi, mais leurs performances se dégradent après un certain temps ou lors de leur utilisation avec une plus grande quantité de données ou lorsque plusieurs utilisateurs y accèdent simultanément.\n"
+"Vérifiez les opinions des autres utilisateurs en ligne.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:211
 #, no-wrap
 msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
 "Data transformation is a time consuming task.\n"
-msgstr ""
+msgstr "*Intégration* : Assurez-vous que le logiciel accepte et produit les formats de données que vous utilisez et dont vous avez besoin.\n"
+"La transformation de données est une tâche qui prend du temps.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:212
 #, no-wrap
 msgid "*Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.\n"
-msgstr ""
+msgstr "*Prise en charge de la langue* : il est essentiel que tous les utilisateurs du logiciel puissent comprendre son interface et la documentation qui rendra possible son utilisation.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:214
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
-msgstr "*Documentation et support technique* : explorez la documentation et les supports existants.\n"
+msgstr "*Documentation et support technique* : assurez-vous d'explorer la documentation et les supports existants.\n"
 "Vous en aurez besoin à un moment ou à un autre.\n"
 
 #. type: delimited block *
@@ -679,7 +682,7 @@ msgstr "Installer OpenRefine"
 #. type: delimited block *
 #: foundations.en.adoc:219
 msgid "Install software required for activities later in the course"
-msgstr "Installer le logiciel requis pour les activités qui seront donné plus tard dans le cours"
+msgstr "Installer le logiciel requis pour les activités ultérieures du cours"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: foundations.en.adoc:220
@@ -706,23 +709,23 @@ msgstr "Nous utiliserons OpenRefine pendant la partie du cours concernant la mob
 #. type: delimited block *
 #: foundations.en.adoc:232
 msgid "Administrative passwords may be required to install software."
-msgstr "Des mots de passe administratifs peuvent être requis pour installer ces logiciels."
+msgstr "Des mots de passe en tant qu'administrateur peuvent être requis pour installer ces logiciels."
 
 #. type: Title ====
 #: foundations.en.adoc:233
 #, no-wrap
 msgid "Installation Requirements"
-msgstr "Prérequis pour l’installation"
+msgstr "Conditions requises pour l’installation"
 
 #. type: delimited block *
 #: foundations.en.adoc:236
 msgid "Java JRE installed."
-msgstr "Installation de Java JRE."
+msgstr "Java JRE installé."
 
 #. type: delimited block *
 #: foundations.en.adoc:237
 msgid "Google Chrome or Mozilla Firefox installed, avoid using Internet Explorer."
-msgstr "Installés Google Chrome ou Mozilla Firefox, évitez d'utiliser Internet Explorer."
+msgstr "Google Chrome ou Mozilla Firefox ont été installés, évitez d'utiliser Internet Explorer."
 
 #. type: delimited block *
 #: foundations.en.adoc:239
@@ -733,7 +736,7 @@ msgstr "La dernière version stable est OpenRefine 3.4.1, publiée le 24 septemb
 #: foundations.en.adoc:240
 #, no-wrap
 msgid "Installation on MS Windows"
-msgstr "Installation sûr MS Windows"
+msgstr "Installation sur MS Windows"
 
 #. type: delimited block *
 #: foundations.en.adoc:243
@@ -743,7 +746,7 @@ msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/downl
 #. type: delimited block *
 #: foundations.en.adoc:244
 msgid "Unzip, and double-click on openrefine.exe or refine.bat if the former does not work.."
-msgstr "Décompresser le fichier zip, et double-cliquez sur openrefine.exe ou refine.bat si le premier ne fonctionne pas.."
+msgstr "Décompresser le fichier zip, et double-cliquez sur openrefine.exe ou refine.bat si le premier ne fonctionne pas."
 
 #. type: delimited block *
 #: foundations.en.adoc:245
@@ -754,7 +757,7 @@ msgstr "Une fenêtre de commande apparaîtra (ne la fermez pas) et aussitôt, un
 #: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on Mac"
-msgstr "Installation sûr Mac"
+msgstr "Installation sur Mac"
 
 #. type: delimited block *
 #: foundations.en.adoc:249
@@ -764,7 +767,7 @@ msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/downl
 #. type: delimited block *
 #: foundations.en.adoc:251
 msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
-msgstr "Téléchargement, ouvrez, glissez l'icône dans le dossier d'applications. Vous n'avez pas besoin d'installer Java séparément."
+msgstr "Téléchargez, ouvrez, glissez l'icône dans le dossier d'applications. Vous n'avez pas besoin d'installer Java séparément."
 
 #. type: delimited block *
 #: foundations.en.adoc:252
@@ -775,7 +778,7 @@ msgstr "Faites un double clic dessus et une nouvelle fenêtre de navigateur Web 
 #: foundations.en.adoc:253
 #, no-wrap
 msgid "Installation on Linux"
-msgstr "Installation sûr Linux"
+msgstr "Installation sur Linux"
 
 #. type: delimited block *
 #: foundations.en.adoc:256
@@ -785,7 +788,7 @@ msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/downl
 #. type: delimited block *
 #: foundations.en.adoc:258
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
-msgstr "Téléchargez, faites extrait, puis tapez ./refine pour démarrer. Cela nécessite que Java soit installé sur votre ordinateur."
+msgstr "Téléchargez, extrayez, puis tapez ./refine pour démarrer. Cela nécessite que Java soit installé sur votre ordinateur."
 
 #. type: Title ===
 #: foundations.en.adoc:259
@@ -796,7 +799,7 @@ msgstr "Revue des fondations"
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr "Veuillez prendre un quiz sur les concepts que vous avez appris dans cette section."
+msgstr "Passez un quiz sur les concepts que vous avez appris dans cette section."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -805,7 +808,7 @@ msgstr "Veuillez prendre un quiz sur les concepts que vous avez appris dans cett
 #. type: Plain text
 #: foundations.en.adoc:270
 msgid "For the given statement, input the correct term (database, database language, database program)"
-msgstr ""
+msgstr "Pour l'assertion donnée, entrez le terme correct (base de données, langage de la base de données, programme de base de données)"
 
 #. type: delimited block .
 #: foundations.en.adoc:279
@@ -816,18 +819,23 @@ msgid "* combines and presents functions and features for manipulating data, tog
 "  __database__\n"
 "* the way by which a human communicates with a computer +\n"
 "  __database language__\n"
-msgstr ""
+msgstr "* combine et présente des fonctions et des fonctionnalités pour manipuler des données ensemble dans une interface unifiée +\n"
+"__programme de base de données__ +\n"
+"* une collection structurée et organisée de données et/ou d'informations conservées sur un ordinateur +\n"
+"__database__ +\n"
+"* la façon dont un être humain communique avec un ordinateur +\n"
+"__langage de base de données__ +\n"
 
 #.  Question 2
 #. type: Plain text
 #: foundations.en.adoc:282
 msgid "If you open a data file and see the following, what would you suspect is the issue? +"
-msgstr ""
+msgstr ". Si vous ouvrez un fichier de données et vous voyez ce qui suit, que soupçonnerez-vous d'etre le problème ?+"
 
 #. type: Plain text
 #: foundations.en.adoc:284 solutions.en.adoc:21
 msgid "`�tre, ou ne pas �tre, c�est l� la question.`"
-msgstr ""
+msgstr "`�tre, ou ne pas �tre, c�est l� la question.`"
 
 #. type: delimited block .
 #: foundations.en.adoc:291
@@ -845,7 +853,7 @@ msgstr "- [ ] Rien\n"
 #. type: Plain text
 #: foundations.en.adoc:294
 msgid "For the given software, input the type of software (data capture, data management, data cleaning, data publishing)."
-msgstr ""
+msgstr "Pour le logiciel donné, saisissez le type de logiciel (saisie de données, gestion des données, nettoyage des données, publication des données)."
 
 #. type: delimited block .
 #: foundations.en.adoc:305
@@ -858,7 +866,14 @@ msgid "* Integrated Publishing Toolkit (IPT) +\n"
 "  __data capture__\n"
 "* OpenRefine +\n"
 "  __data cleaning__\n"
-msgstr ""
+msgstr "* Integrated Publishing Toolkit (IPT) +\n"
+"  __publication des données__\n"
+"* Specify +\n"
+"  __saisie des données__ ET__gestion des données__\n"
+"* iNaturalist +\n"
+"  __saisie des données__\n"
+"* OpenRefine +\n"
+"  __data cleaning__\n"
 
 #.  Question 4
 #. type: Plain text
@@ -3274,30 +3289,65 @@ msgstr ""
 msgid "USE CASE II"
 msgstr ""
 
+#. type: Plain text
+#: assignments.en.adoc:9
+msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:11 assignments.en.adoc:20
+msgid "Required files for submission:"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:13 assignments.en.adoc:22
+msgid "completed exercise sheet (MS Word Doc or similar is acceptable)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:14 assignments.en.adoc:23
+msgid "data capture spreadsheet (MS Excel, csv, txt or similar is acceptable)"
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:15 assignments.en.adoc:24
+msgid "cleaned/standardized dataset (MS Excel, csv, txt or similar is acceptable)"
+msgstr ""
+
 #. type: Title ===
-#: assignments.en.adoc:8
+#: assignments.en.adoc:16
 #, no-wrap
 msgid "USE CASE III"
 msgstr ""
 
+#. type: Plain text
+#: assignments.en.adoc:18
+msgid "There is only one option for USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
+msgstr ""
+
+#. type: Plain text
+#: assignments.en.adoc:26
+msgid "Include the use case and exercise number along with your name on all files submitted. For example, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted in English*. Contact training@gbif.org if you have any questions."
+msgstr ""
+
 #. type: Title ===
-#: assignments.en.adoc:10
+#: assignments.en.adoc:27
 #, no-wrap
 msgid "Assignment submission"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:14
+#: assignments.en.adoc:31
 msgid "Assignments can be submitted from the online (HTML) version of the course."
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:18
+#: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
 msgstr ""
 
 #. type: delimited block +
-#: assignments.en.adoc:21
+#: assignments.en.adoc:38
 #, no-wrap
 msgid "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
 msgstr ""
@@ -9276,13 +9326,13 @@ msgstr ""
 #: scripts/standards.en.txt:274
 #, no-wrap
 msgid "We’ve covered What Darwin Core Is and hopefully you’ve started to develop a sense of why you should use it.\n"
-msgstr ""
+msgstr "Nous avons expliqué ce qu'est le Darwin Core et espérons que vous avez commencé à comprendre pourquoi vous devriez l'utiliser.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:276
 #, no-wrap
 msgid "It is a standard and standards are good! Standards provide us with the rules and protocols we need to share our data with others.\n"
-msgstr ""
+msgstr "C'est un standard et les standards sont une bonne chose ! Les standards nous fournissent les règles et les protocoles dont nous avons besoin pour partager nos données avec les autres.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:281
@@ -9291,7 +9341,10 @@ msgid "Darwin Core also provides us with a common language. \n"
 "As we saw in the Foundations – Documentation presentation, source data can be tricky when trying to compare datasets. \n"
 "The fields in your source data might be different than the fields in another institutions data source. \n"
 "When we all use Darwin Core to share our data, we understand that data has been shared with a common language.\n"
-msgstr ""
+msgstr "Le Darwin Core nous fournit également une langue commune. \n"
+"Comme nous l'avons vu dans la partie Fondations – Présentation de la documentation, les données sources peuvent être difficiles à exploiter lorsqu'on essaie de comparer les jeux de données. \n"
+"Les champs dans vos données sources peuvent être différents des champs dans des données source provenant d'une autre institution. \n"
+"Lorsque nous utilisons tous le Darwin Core pour partager nos données, nous comprenons que les données ont été partagées avec une langue commune.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:285
@@ -9299,39 +9352,43 @@ msgstr ""
 msgid "// Slide 19\n"
 "And it’s not only the data holders that understand this common language, the data users do as well. \n"
 "And after all, what could be better than a user finding a data set that is fit for their use, shared in a common language, that allows them to do better science.\n"
-msgstr ""
+msgstr "// Diapositive 19\n"
+"Et ce ne sont pas seulement les détenteurs de données qui comprennent cette langue commune, les utilisateurs de données le font aussi. \n"
+"Et après tout, quoi de mieux qu'un utilisateur trouvant un jeu de données adapté à ses besoins, partagé dans un langage commun, ce qui lui permet d'obtenir de meilleurs résultats scientifiques.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:296
 #, no-wrap
 msgid "This presentation was originally created by Paula Zermoglio and John Wieczorek with additional contributions by Sharon Grant, Sophie Pamerlon, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students. \n"
-msgstr ""
+msgstr "Cette présentation a été créée par Paula Zermoglio et John Wieczorek avec des contributions supplémentaires de Sharon Grant, Sophie Pamerlon, Laura Anne Russell et Dag Endresen, ainsi que les formateurs, mentors et participants aux formations BID et BIFA. \n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:5
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section. \n"
 "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
+msgstr "Cette session est un travail sur les bases et fait partie de la section Terminologie. \n"
+"Nous allons vous présenter le langage, la terminologie et les définitions de certains des concepts de base, fonctions et processus que vous allez mettre en œuvre pendant le reste du cours.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:10
 #, no-wrap
 msgid "First let us review the structure of this session. \n"
 "In the section on STRUCTURES we will be working on understanding the field and data types that hold data, the structures that help to organize and protect that data and lastly look at what these mean for the integrity and security of your data.\n"
-msgstr ""
+msgstr "Commençons par revoir la structure de cette session. \n"
+"Dans la section sur les STRUCTURES, nous allons travailler sur la compréhension des types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données, et enfin regarder ce que cela signifie pour l'intégrité et la sécurité de vos données.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:14
 #, no-wrap
 msgid "In this section on basic database Structures, we will focus on the different elements that databases, software tools and languages use to handle the data that you enter.\n"
-msgstr ""
+msgstr "Dans cette section sur les Structures de base de données, nous nous concentrerons sur les différents éléments que les bases de données, les outils logiciels et les langages utilisent pour traiter les données que vous saisissez.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:18
 #, no-wrap
 msgid "First, let us look at field types, also known as data types.\n"
-msgstr ""
+msgstr "Premièrement, regardons les types de champs, aussi appelés types de données.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:26
@@ -9341,7 +9398,11 @@ msgid "Data Types let the computer know what kind of data is expected in a parti
 "They can be simple and encompass a single concept or combine concepts depending on the software or language you are using. \n"
 "Either way the essential building blocks are the same. \n"
 "So let us look at six that you will come across most frequently.\n"
-msgstr ""
+msgstr "Les types de données indiquent à l'ordinateur quel genre de données est attendu dans un champ particulier. \n"
+"Cela dicte ensuite quelles fonctions peuvent être exécutées dessus. \n"
+"Ils peuvent être simples et englober un concept unique, ou combiner des concepts selon le logiciel ou le langage que vous utilisez. \n"
+"Dans les deux cas, les blocs de construction essentiels sont les mêmes. \n"
+"Nous allons en examiner six que vous rencontrerez le plus souvent.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:39
@@ -9356,7 +9417,16 @@ msgid "First Numeric fields. \n"
 "The important thing to remember here is that a float always has decimal places so the number 10 will be stored as 10.0. \n"
 "The number of decimal places being an integral element of the type. \n"
 "This has implications when it comes to precision and accuracy.\n"
-msgstr ""
+msgstr "Premièrement, les champs numériques. \n"
+"Ce type de données contient des nombres, et il y en a 2 types : Entiers et entiers longs, et des nombres entiers. \n"
+"Par exemple 1, 2, 3, 99, 2000.\n"
+"La taille du nombre dépend du nombre de bits affectés au champ (nous en dirons plus à ce sujet plus tard). \n"
+"Pour l'instant, n'oubliez pas qu'un champ entier long contiendra un nombre plus grand qu'un entier.\n"
+"Les nombres flottants, également appelés doubles, comprennent des fractions ou des parties de nombres entiers. \n"
+"Par exemple 4.5, 19.47. \n"
+"L'important à retenir ici est qu'un nombre flottant a toujours des décimales : le nombre 10 sera stocké comme 10,0. \n"
+"Le nombre de décimales est un élément intégral du type. \n"
+"Cela a des implications en matière de précision et d’exactitude.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:45
@@ -9364,7 +9434,9 @@ msgstr ""
 msgid "Alphanumeric fields are also referred to as text, character or string fields. \n"
 "They can hold any letter, number or symbol in the coded character set and usually have a defined character limit. \n"
 "Entering more characters than the character limit can often result in truncation and loss of data on save.\n"
-msgstr ""
+msgstr "Les champs alphanumériques sont aussi appelés champs de texte, de caractère ou de chaîne. \n"
+"Ils peuvent contenir n'importe quelle lettre, nombre ou symbole dans le jeu de caractères codé et ont généralement une limite de caractères définie. \n"
+"La saisie de plus de caractères que la limite de caractères peut souvent entraîner une troncature et une perte de données lors de la sauvegarde.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:52
@@ -9373,7 +9445,10 @@ msgid "Another type of text field that you will come across is the Unstructured 
 "These types of field are used to hold large amounts of unformatted text and unlike alphanumeric fields may not have an obvious character limit. \n"
 "In simple systems, they are generally less flexible in terms of processing; for example sorting and indexing, than their smaller alphanumeric cousins. \n"
 "With decreased storage costs and the rise of NoSQL document-oriented database programs, such as MongoDB however, this is changing.\n"
-msgstr ""
+msgstr "Un autre type de champ de texte que vous rencontrerez est le champ de texte non structuré, également connu sous le nom de champs mémo, caractères longs ou blob . \n"
+"Ces types de champ sont utilisés pour contenir de grandes quantités de texte non formaté et, contrairement aux champs alphanumériques, peuvent ne pas avoir de limite de caractères évidente. \n"
+"Dans des systèmes simples, ils sont généralement moins souples en termes de traitement ; par exemple de tri et d'indexation, que leurs cousins alphanumériques plus petits. \n"
+"Cependant, cela est en train de changer grâce à la diminution des coûts de stockage et la hausse des programmes de base de données orientés vers des documents NoSQL, comme MongoDB.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:64
@@ -9387,7 +9462,15 @@ msgid "System Value fields have a double nature and what you see on the screen i
 "So you can see that the field is actually a float. \n"
 "You should beware because that system value not be the same from software to software.\n"
 "Exports should to checked to make sure the actual date is exported and not the system value.\n"
-msgstr ""
+msgstr "Les champs Valeur Système (System Value) ont une nature double et ce que vous voyez à l'écran n'est généralement pas la valeur réelle que le logiciel stocke en mémoire. \n"
+"Les champs date et heure sont l'exemple le plus commun de ce type de champ. \n"
+"Dans cet exemple vous avez tapé le 1er mars 1971 dans une cellule dans Excel et appuyé sur la touche Entrée. \n"
+"Maintenant, il est indiqué 1-Mar-71 dans la cellule ET 3/1/1971 dans la barre de fonctions.\n"
+"Excel applique un format d'affichage à la cellule, que vous pouvez modifier à volonté. \n"
+"CEPENDANT, si vous supprimez le format, vous voyez que ce qui est réellement stocké dans le champ est le numéro 25993,00 ! \n"
+"Donc vous pouvez voir que le champ est en fait un nombre décimal. \n"
+"Vous devriez vous méfier car la valeur du système n'est pas la même d'un logiciel à l'autre.\n"
+"Il faut bien vérifier à l'exportation des données que la date réelle est exportée et non la valeur système.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:71
@@ -9514,7 +9597,9 @@ msgstr ""
 msgid "Remember that: When you realize the difference between the container and the content, you will have knowledge. \n"
 "Using the correct terms to describe both your data and the structures that you create and use to store it; is the most important way to ensure that it remains relevant and useable.\n"
 "Never underestimate how much damage can be done to priceless information by careless descriptions and storage.\n"
-msgstr ""
+msgstr "Rappelez-vous que lorsque vous réalisez la différence entre le contenant et le contenu, vous aurez des connaissances. \n"
+"Employez des termes corrects pour décrire à la fois vos données et les structures que vous créez et utilisez pour les stocker ; c'est la manière la plus importante de s'assurer qu'elles restent pertinentes et utilisables.\n"
+"Ne sous-estimez jamais combien de dommages peuvent être faits à des informations inestimables en les décrivant et en les stockant de façon inconsidérée.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:165
