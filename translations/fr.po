@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-21 17:29\n"
+"PO-Revision-Date: 2021-04-21 18:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1170,7 +1170,7 @@ msgstr "img/web/use-case-1-short mountain-park.png"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:44
 msgid "The herbarium comprises approximately 80,000 specimens collected from 1960 to 2015 concentrated mainly in the biodiversity hot spot -- Short Mountain National Park.  The collection is still growing as a result of exchanges, donations and several active research projects.  For each specimen, information about collector, time, date, location and taxonomy are documented.  So far no quality control measures have been carried out on the data and there has been no systematic imaging of specimens."
-msgstr ""
+msgstr "L'Herbier comprend environ 80 000 spécimens récoltés entre 1960 et 2015 concentrés principalement dans le hotspot de biodiversité -- Parc national de Short Mountain. La collection s’agrandit encore grâce à des échanges, des dons et plusieurs projets de recherche actifs. Pour chaque spécimen, des renseignements sur le collecteur, l'heure, la date, le lieu et la taxonomie sont documentés. Jusqu'à présent, aucune mesure de contrôle de qualité n'a été effectuée sur les données et il n'y a pas eu d’imagerie systématique des spécimens."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:45
@@ -1181,18 +1181,18 @@ msgstr "Description du jeu de données"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:48
 msgid "The professor has a simple non-relational database on his computer which serves as an index of many but not all specimens.  Any images of the specimens that exist are held locally by the individual researchers that took them."
-msgstr ""
+msgstr "Le professeur a une simple base de données non relationnelle sur son ordinateur qui sert d'index d’un grand nombre de spécimens. Toutes les images des spécimens qui existent sont conservées localement par les chercheurs indépendants qui les ont prises."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:49
 #, no-wrap
 msgid "Exercises"
-msgstr ""
+msgstr "Exercices"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:52
 msgid "The individual exercises for this use case are located in the corresponding modules."
-msgstr ""
+msgstr "Les exercices individuels pour ce cas d'utilisation sont situés dans les modules correspondants."
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
@@ -1203,38 +1203,38 @@ msgstr "Planification"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:56
 msgid "<<Exercise 1a-c>>"
-msgstr ""
+msgstr "<<Exercise 1a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:60
 msgid "<<Exercise 2>>"
-msgstr ""
+msgstr "<<Exercise 2>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:64
 msgid "<<Exercise 3a-c>>"
-msgstr ""
+msgstr "<<Exercise 3a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:68
 msgid "<<Exercise 4>>"
-msgstr ""
+msgstr "<<Exercise 4>>"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:69
 #, no-wrap
 msgid "Exercise sheet"
-msgstr ""
+msgstr "Feuille d'exercice"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
 msgid "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
-msgstr ""
+msgstr "link:../course-docs/UC1-Herbarium-Exercise_FR.docx[UC1-Herbarium-Exercise_FR.docx,opts=download] (MS Word 345 Ko)"
 
 #. type: Plain text
 #: planning.en.adoc:7
 msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on USE CASE I.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
-msgstr ""
+msgstr "Dans le module Planification, vous passerez en revue les étapes clés de la planification d’un projet et apprendrez comment créer un flux de travail viable. De plus, vous créerez un plan de projet ou flux de travail idéalisé basé sur le Cas d’Utilisation 1. Vous identifierez les objectifs, les tâches, les principaux intervenants et les rôles et attribuerez des tâches spécifiques aux étapes."
 
 #. type: Title ===
 #: planning.en.adoc:8
