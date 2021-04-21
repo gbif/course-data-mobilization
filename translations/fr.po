@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 12:03+0000\n"
-"PO-Revision-Date: 2021-04-21 12:19\n"
+"POT-Creation-Date: 2021-04-21 12:37+0000\n"
+"PO-Revision-Date: 2021-04-21 13:24\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -218,7 +218,7 @@ msgstr "Certification"
 #. type: Plain text
 #: description.en.adoc:54
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge].  See <<assessment-and-certification,Assessment and Certification>> for more details."
-msgstr "Une fois le cours terminé avec succès et une évaluation réussie des devoirs (par des formateurs et des mentors), les participants ont la possibilité de recevoir un certificat officiel sous la forme d'un badge https://openbadges.org/[Open Badge].  voir <<assessment-and-certification,Assessment and Certification>> pour de plus amples détails."
+msgstr "Une fois le cours terminé avec succès et une évaluation réussie des devoirs (par des formateurs et des mentors), les participants ont la possibilité de recevoir un certificat officiel sous la forme d'un badge https://openbadges.org/[Open Badge].  voir <<assessment-and-certification, Evaluation et Certification>> pour de plus amples détails."
 
 #. type: Title ==
 #: downloads.en.adoc:1
@@ -455,12 +455,12 @@ msgstr "L'erreur englobe à la fois l'imprécision des données et leurs inexact
 #. type: delimited block _
 #: foundations.en.adoc:121
 msgid "An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.  Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code."
-msgstr ""
+msgstr "Un exemple peut être l'utilisation d'un datum géodésique1 différent - quand il est utilisé tout au long de l'analyse, il ne peut pas causer de problèmes majeurs. Des problèmes se poseront toutefois lorsqu'une analyse utilise des données de différentes sources et avec différents biais – par exemple des sources de données qui utilisent des données géodésiques différentes, ou lorsque des identifications peuvent avoir été effectuées en utilisant une version antérieure d'un code nomenclatural."
 
 #. type: delimited block _
 #: foundations.en.adoc:125
 msgid "“Because error is inescapable, it should be recognized as a fundamental dimension of data” (Chrisman 1991).  Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.  Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented."
-msgstr ""
+msgstr "« Parce que l’erreur est inévitable, elle devrait être reconnue comme une dimension fondamentale des données » (Chrisman, 1991). Seulement si une erreur est incluse dans une représentation des données, il est possible de répondre aux questions sur les limitations des données, et même les limites des connaissance actuelles. Les erreurs connues dans les trois dimensions de l'espace, de l'attribut et du temps doivent être mesurées, calculées, enregistrées et documentées."
 
 #. type: delimited block _
 #: foundations.en.adoc:127
@@ -471,7 +471,7 @@ msgstr "*Validation et nettoyage*\n"
 #. type: delimited block _
 #: foundations.en.adoc:133
 msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
-msgstr ""
+msgstr "La validation est un processus utilisé pour déterminer si les données sont inexactes, incomplètes ou déraisonnables. Le processus peut inclure des vérifications de format, des vérifications de complétude, des vérifications du caractère raisonable, des vérifications de limite, un examen des données pour identifier les aspects aberrants (géographiques, statistiques, temporels ou environnementaux) ou autres erreurs, et l'évaluation des données par des experts du domaine (I.e. spécialistes  taxinomiques). Ces processus se traduisent généralement par le signalement, la documentation et la vérification ultérieure des enregistrements suspects. Les contrôles de validation peuvent également impliquer la vérification de la conformité aux standards, aux règles et aux conventions applicables. Une étape clé de la validation et du nettoyage des données est d'identifier les causes profondes des erreurs détectées et de se concentrer sur la prévention de la réapparition de ces erreurs (Redman 2001)."
 
 #. type: delimited block _
 #: foundations.en.adoc:138
@@ -487,13 +487,13 @@ msgstr "Documentation"
 #. type: delimited block *
 #: foundations.en.adoc:146
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (09:47), nous vous donnerons un aperçu de l'importance de la documentation en ce qui concerne la gestion des données et la publication des données. Vous en apprendrez plus sur le mappage des données, les relations de données et les métadonnées. Si vous ne pouvez pas regarder la vidéo intégrée Vimeo, vous pouvez la link:../videos/Foundations_Documentation.mp4[télécharger^,opts=download] localement. (MP4 - 29.2 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:149
 #, no-wrap
 msgid "Digitization Workflows"
-msgstr "Workflows the numérisation"
+msgstr "Workflows de numérisation"
 
 #. type: delimited block *
 #: foundations.en.adoc:153
@@ -508,17 +508,17 @@ msgstr "Comme le souligne la vidéo, les protocoles de numérisation varient d'u
 #. type: delimited block *
 #: foundations.en.adoc:160
 msgid "We do not teach digitization, per se, during the workshop, as it can easily stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.  However, we want to provide you with resources on digitization as we know many are interested in this."
-msgstr "Pendant cet atelier, nous n'enseignons pas la numérisation en soi, car ce sujet nécessiterait son propre cours (d'au moins une semaine). Nous nous préférons plutôt introduire la base de la collecte de données sur la biodiversité. Cependant, nous voulons vous fournir des ressources sur la numérisation, car nous pensons que beaucoup d'entre vous seront intéressés."
+msgstr "Pendant cet atelier, nous n'enseignons pas la numérisation en soi, car ce sujet nécessiterait son propre cours (d'au moins une semaine). Nous nous focalisons plutôt à introduire la base de la saisie de données sur la biodiversité. Cependant, nous voulons vous fournir des ressources sur la numérisation, car nous pensons que beaucoup d'entre vous seront intéressés."
 
 #. type: delimited block *
 #: foundations.en.adoc:165
 msgid "There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.  It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to.  In this exercise we introduce you to some practical digitization workflow resources to help get you started.  These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows."
-msgstr ""
+msgstr "Il existe de nombreuses façons d'organiser les efforts de numérisation et la numérisation peut donc paraître intimidante au départ. Il est important de se rappeler que, dans la plupart des cas, quelqu'un d'autre a déjà essayé de numériser les mêmes types de spécimens et objets que vous prévoyez. Dans cet exercice, nous vous présentons quelques ressources pratiques d'ordonnancement des tâches de  numérisation  pour vous aider à démarrer. Celles-ci constitueront également la base du travail que nous ferons au cours de l'atelier sur la sélection, la modification et l'évaluation du déroulement des tâches."
 
 #. type: delimited block *
 #: foundations.en.adoc:167
 msgid "Some steps in the process may include:"
-msgstr ""
+msgstr "Certaines étapes du processus peuvent inclure :"
 
 #. type: delimited block *
 #: foundations.en.adoc:169
@@ -1659,14 +1659,14 @@ msgstr ""
 #: capture.en.adoc:65
 #, no-wrap
 msgid "What dataset type(s) would you choose for an ichthyology collection?\n"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour une collection d’ichtyologie ?\n"
 
 #. type: delimited block .
 #: capture.en.adoc:69
 #, no-wrap
 msgid ":figure-caption!:\n"
-".https://www.gbif.org/occurrence/441867173 | Muséum d’histoire naturelle de Nice\n"
-"image:img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
+"image::img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1675,40 +1675,42 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [x] occurrence\n"
+"- [x] liste taxonomique\n"
+"- [ ] événement d'échantillonnage\n"
 
 #. type: delimited block .
 #: capture.en.adoc:78
 #, no-wrap
 msgid "What dataset type(s) would you choose for a list of invasive species?\n"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour une liste d'espèces envahissantes ?\n"
 
 #. type: delimited block .
 #: capture.en.adoc:82
 #, no-wrap
 msgid ":figure-caption!:\n"
-".Water hyacinth (Eichhornia crassipes), Bourail, New Caledonia, where it is as an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
-"image:img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
+"image::img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:91
 #, no-wrap
 msgid "What dataset type(s) would you choose for the flora and fauna of an environmental impact study?\n"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour la flore et la faune d'une étude d'impact sur l'environnement ?\n"
 
 #. type: delimited block .
 #: capture.en.adoc:93
 #, no-wrap
 msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
-msgstr ""
+msgstr "Les études d'impact sur l'environnement sont réalisées par des experts afin d'évaluer la biodiversité et les biotopes d'une surface donnée, avant, pendant et après qu'elle soit affectée par des activités anthropiques (travaux routiers, éoliennes, mines, construction de bâtiments, etc.). \n"
 
 #. type: delimited block .
 #: capture.en.adoc:97
 #, no-wrap
 msgid ":figure-caption!:\n"
-".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg by Matthieu Gauvain (CC-BY-SA)\n"
-"image:img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
+"image::img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1717,26 +1719,28 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [x] sampling event\n"
-msgstr ""
+msgstr "- [x] occurrence\n"
+"- [ ] liste taxonomique\n"
+"- [x] événement d'échantillonnage\n"
 
 #. type: delimited block .
 #: capture.en.adoc:106
 #, no-wrap
 msgid "What dataset type(s) would you choose for bird tracking data?\n"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour des données de suivi des oiseaux ?\n"
 
 #. type: delimited block .
 #: capture.en.adoc:108
 #, no-wrap
 msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
-msgstr ""
+msgstr "Les données de suivi des oiseaux sont enregistrées à l'aide d'appareils spécifiques, tels que les balises GPS montées sur des oiseaux vivants, permettant ainsi aux scientifiques de suivre leurs routes migratoires ou leurs sites de reproduction.\n"
 
 #. type: delimited block .
 #: capture.en.adoc:112
 #, no-wrap
 msgid ":figure-caption!:\n"
-".picture by user  מינוזיג - MinoZig (CC0) https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg\n"
-"image:img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
+"image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1745,40 +1749,42 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [x] occurrence\n"
+"- [ ] liste taxonomique\n"
+"- [ ] événement d'échantillonnage\n"
 
 #. type: delimited block .
 #: capture.en.adoc:121
 #, no-wrap
 msgid "What dataset type(s) would you choose for insect trap data?\n"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour des données de pièges entomologiques ?\n"
 
 #. type: delimited block .
 #: capture.en.adoc:125
 #, no-wrap
 msgid ":figure-caption!:\n"
-".https://www.flickr.com/photos/miheco/215305679/ picture by user miheco (CC-BY-SA)\n"
-"image:img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:134
 #, no-wrap
 msgid "What dataset type(s) would you choose for national park management data?\n"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour des données de gestion d'un parc national ?\n"
 
 #. type: delimited block .
 #: capture.en.adoc:136
 #, no-wrap
 msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
-msgstr ""
+msgstr "Les données acquises dans le cadre de la gestion des aires protégées (comme les parcs nationaux mais aussi les réserves naturelles plus petites) peuvent être diverses et avoir des origines différentes : relevés botaniques, suivi des animaux marqués, observations effectuées par les gestionnaires et les gardes, et même des données de «science citoyenne» déduites des images partagées sur les réseaux sociaux.\n"
 
 #. type: delimited block .
 #: capture.en.adoc:140
 #, no-wrap
 msgid ":figure-caption!:\n"
-".picture by  user pen_ash ( (Simplified Pixabay License: free for commercial use, no attribution required) https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/\n"
-"image:img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
+"image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1787,7 +1793,9 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [x] sampling event\n"
-msgstr ""
+msgstr "- [x] occurrence\n"
+"- [x] liste taxonomique\n"
+"- [x] événement d'échantillonnage\n"
 
 #. type: delimited block .
 #: capture.en.adoc:149
@@ -1811,8 +1819,8 @@ msgstr ""
 #: capture.en.adoc:157
 #, no-wrap
 msgid ":figure-caption!:\n"
-".US National Park Service photo https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1 (authorized reuse on google image search)\n"
-"image:img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1825,8 +1833,8 @@ msgstr ""
 #: capture.en.adoc:170
 #, no-wrap
 msgid ":figure-caption!:\n"
-".picture by user Mani300 (Simplified Pixabay License: free for commercial use, no attribution required) https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/\n"
-"image:img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
