@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-20 17:04+0000\n"
-"PO-Revision-Date: 2021-04-21 06:34\n"
+"PO-Revision-Date: 2021-04-21 07:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -414,7 +414,7 @@ msgstr ""
 #: foundations.en.adoc:94
 #, no-wrap
 msgid "*Quality Assurance/ Quality Control*\n"
-msgstr ""
+msgstr "*Assurance Qualité/Contrôle de la Qualité*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:98
@@ -435,7 +435,7 @@ msgstr ""
 #: foundations.en.adoc:104
 #, no-wrap
 msgid "*Uncertainty*\n"
-msgstr ""
+msgstr "*Incertitude*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:109
@@ -467,7 +467,7 @@ msgstr ""
 #: foundations.en.adoc:127
 #, no-wrap
 msgid "*Validation and Cleaning*\n"
-msgstr ""
+msgstr "*Validation et nettoyage*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:133
@@ -477,7 +477,7 @@ msgstr ""
 #. type: delimited block _
 #: foundations.en.adoc:138
 msgid "Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.  The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.  It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.  It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered."
-msgstr ""
+msgstr "Le nettoyage des données (appelé  « data cleaning  » en anglais) désigne le processus de « correction » des erreurs dans les données qui ont été identifiées au cours du processus de validation. Le terme est synonyme de « purification des données » (« data cleansing  » en anglais), bien que certains utilisent le terme purification des données pour englober à la fois la validation et le nettoyage des données. Dans le processus de nettoyage des données, il est important que les données ne soient pas perdues par inadvertance et que les changements apportés aux informations existantes soient effectués avec le plus grand soin. Il est souvent préférable de conserver à la fois les anciennes (données originales) et les nouvelles (données corrigées) côte à côte dans la base de données de sorte que si des erreurs sont commises dans le processus de nettoyage, les informations originales peuvent être récupérées."
 
 #. type: Title ===
 #: foundations.en.adoc:141
@@ -494,22 +494,22 @@ msgstr ""
 #: foundations.en.adoc:149
 #, no-wrap
 msgid "Digitization Workflows"
-msgstr ""
+msgstr "Workflows the numérisation"
 
 #. type: delimited block *
 #: foundations.en.adoc:153
 msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
-msgstr ""
+msgstr "Cette vidéo (07:20) sur les workflows de numérisation identifie cinq clusters (ou étapes) dans le processus de numérisation des objets de collection d'histoire naturelle à l'aide d'images numériques. Ces étapes peuvent être facilement adaptées à d'autres sources de données sur la biodiversité. Si vous ne pouvez pas regarder la vidéo intégrée Vimeo, vous pouvez la regarder:../videos/Foundations_Workflows.mp4[download^,opts=download] localement. (MP4 - 26,8 Mo)"
 
 #. type: delimited block *
 #: foundations.en.adoc:157
 msgid "As the video highlights, digitization protocols vary from institution to institution, but it is essential that the chosen protocol is agreed, documented and respected."
-msgstr ""
+msgstr "Comme le souligne la vidéo, les protocoles de numérisation varient d'une institution à l'autre, mais il est essentiel que le protocol choisi soit convenu, documenté et respecté."
 
 #. type: delimited block *
 #: foundations.en.adoc:160
 msgid "We do not teach digitization, per se, during the workshop, as it can easily stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.  However, we want to provide you with resources on digitization as we know many are interested in this."
-msgstr ""
+msgstr "Pendant cet atelier, nous n'enseignons pas la numérisation en soi, car ce sujet nécessiterait son propre cours (d'au moins une semaine). Nous nous préférons plutôt introduire la base de la collecte de données sur la biodiversité. Cependant, nous voulons vous fournir des ressources sur la numérisation, car nous pensons que beaucoup d'entre vous seront intéressés."
 
 #. type: delimited block *
 #: foundations.en.adoc:165
@@ -531,20 +531,21 @@ msgstr ""
 #: foundations.en.adoc:170
 #, no-wrap
 msgid "*Image capture*: This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.\n"
-msgstr ""
+msgstr "*Capture d'images* : Cela inclut une bonne partie de la planification, pas seulement sur la capture d'image elle-même (par ex. organisation du travail, sélection du matériel adéquat), mais aussi sur la façon dont et où les images seront stockées et gérées.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:171
 #, no-wrap
 msgid "*Image processing*: This includes quality control, file conversion, etc.\n"
-msgstr ""
+msgstr "*Traitement d'image* : Cela inclut le contrôle de qualité, la conversion de fichiers, etc.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:173
 #, no-wrap
 msgid "*Electronic data capture*: The core of the digitization process, includes capturing key information in a database.\n"
 "The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.\n"
-msgstr ""
+msgstr "*Capture de données électroniques* : Le cœur du processus de numérisation, elle comprend la saisie d'informations clés dans une base de données.\n"
+"La vidéo souligne que la méthode la plus courante de saisie des informations est avec un clavier, mais de plus en plus d'institutions se tournent vers des technologies avancées de saisie de données.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:174
@@ -613,7 +614,8 @@ msgstr ""
 #, no-wrap
 msgid "*Price*: One of the most determining factors.\n"
 "Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.\n"
-msgstr ""
+msgstr "*Prix* : l'un des facteurs les plus determinant pour votre projet.\n"
+"Prenez en compte les autres coûts au-delà du prix de la licence logicielle, comme le matériel informatique nécessaire pour l'exécuter, la maintenance, les mises à jour et l'expertise nécessaire pour l'utiliser.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:205
@@ -654,13 +656,14 @@ msgstr ""
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
-msgstr ""
+msgstr "*Documentation et support technique* : explorez la documentation et les supports existants.\n"
+"Vous en aurez besoin à un moment ou à un autre.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:215
 #, no-wrap
 msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learned while using them, supported by in-line help systems.\n"
-msgstr ""
+msgstr "*Courbe d'apprentissage* (« Learning curve » en anglais): Certains logiciels nécessitent des formations spécifiques, alors que d'autres sont plus intuitifs et s'apprennent à l'usage, en s'appuyant sur les systèmes d'aide en ligne.\n"
 
 #. type: Title ===
 #: foundations.en.adoc:216
@@ -688,7 +691,7 @@ msgstr "img/logos/open-refine-logo.png"
 #. type: delimited block *
 #: foundations.en.adoc:225
 msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^] est un outil contenant un ensemble de fonctionnalités pour travailler avec des données tabulaires, qui améliore la qualité globale d'un jeu de données. C'est une application qui s'exécute sur votre ordinateur comme mini serveur web. Pour l'utiliser, votre navigateur web devrait pointer vers ce serveur web. Donc, considérez OpenRefine comme une application web personnelle et privée."
 
 #. type: delimited block *
 #: foundations.en.adoc:230
@@ -1117,13 +1120,13 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:39
 #, no-wrap
 msgid "Data collection"
-msgstr ""
+msgstr "Collecte de données"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:38
 #, no-wrap
 msgid "img/web/use-case-1-short-mountain-park.png"
-msgstr ""
+msgstr "img/web/use-case-1-short mountain-park.png"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:44
@@ -2293,12 +2296,12 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
 msgid "It is a fictionalized scenario based on a real dataset and is meant only for instructional purposes.  The original dataset is attributed to Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
-msgstr ""
+msgstr "Il s'agit d'un scénario fictif, basé sur un jeu de données réel, dont le but est de servir de support pédagogique. Le jeu de données original est attribué à Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1. United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessibles via GBIF.org le 2017-07-13."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:31
 msgid "The Hawaii Invasive Species Council (HISC) received a federal grant to collaborate with high schools as part of Hawaii’s statewide curriculum on Invasive Species to increase local knowledge about invasive species, increase data collection and produce annotated checklists for under reported areas.  A full-time Project Manager is employed to oversee the project.  All funds and allocations are managed by the HISC Fiscal Associate."
-msgstr ""
+msgstr "Le Conseil des espèces invasives de Hawaï (Hawaii Invasive Species Council : HISC) a reçu une subvention fédérale pour collaborer avec des lycées dans le cadre du programme national d’Hawaï sur les espèces invasives. Le but du projet est d’accroître les connaissances locales sur les espèces invasives, accroître la collecte de données et générer des checklists annotées pour les zones signalées. Un manager est employé à temps plein pour superviser le projet. Tous les fonds et les allocations sont gérés par l'Associé Fiscal du HISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:35
@@ -2611,7 +2614,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:19
 #, no-wrap
 msgid "img/web/use-case-2-Papilio_machaon.jpeg"
-msgstr ""
+msgstr "img/web/use-case-2-Papilio_machaon.jpeg"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:23
@@ -2691,7 +2694,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:72
 #, no-wrap
 msgid "Lepidoptera exercise sheet"
-msgstr ""
+msgstr "Feuille d'exercice Lepidoptera"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
@@ -2900,32 +2903,32 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:79
 msgid "Year/month/day"
-msgstr ""
+msgstr "Année/mois/jour"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:80
 msgid "Observed number of individuals"
-msgstr ""
+msgstr "Nombre d'individus observés"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:81
 msgid "Sex"
-msgstr ""
+msgstr "Sexe"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:82
 msgid "Lifestage"
-msgstr ""
+msgstr "Etape du cycle de vie"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:83
 msgid "Remarks"
-msgstr ""
+msgstr "Remarques"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:84
 msgid "URL of the digitized book page in which the occurrence is provided"
-msgstr ""
+msgstr "URL de la page numérisée du livre dont l'occurrence provient"
 
 #. type: Title ===
 #: use-case-birds-from-literature.en.adoc:85
