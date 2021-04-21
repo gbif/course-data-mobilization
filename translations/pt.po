@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 12:03+0000\n"
-"PO-Revision-Date: 2021-04-21 12:19\n"
+"POT-Creation-Date: 2021-04-21 12:37+0000\n"
+"PO-Revision-Date: 2021-04-21 13:24\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -20,35 +20,35 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Biodiversity Data Mobilization Course"
-msgstr ""
+msgstr "Curso de Mobilização de Dados de Biodiversidade"
 
 #. type: Plain text
 #: index.en.adoc:3
 msgid "GBIF Secretariat <training@gbif.org>"
-msgstr ""
+msgstr "Secretariado do GBIF <training@gbif.org>"
 
 #. type: Plain text
 #: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "idiomaLinks:combined[]"
 
 #. type: Block title
 #: index.en.adoc:22
 #, no-wrap
 msgid "_Zonocerus elegans_ (Thunberg, 1815) observed in Zimbabwe by nickypegg (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "_Zonocerus elegans_ (Thunberg, 1815) observado no Zimbabué por nickypegg (licenciado sob http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: index.en.adoc:23
 #, no-wrap
 msgid "img/web/photo.jpg"
-msgstr ""
+msgstr "img/web/photo.jpg"
 
 #. type: Title ==
 #: description.en.adoc:2
 #, no-wrap
 msgid "Course description"
-msgstr ""
+msgstr "Descrição do curso"
 
 #. type: delimited block *
 #: description.en.adoc:8
@@ -1624,8 +1624,8 @@ msgstr ""
 #: capture.en.adoc:69
 #, no-wrap
 msgid ":figure-caption!:\n"
-".https://www.gbif.org/occurrence/441867173 | Muséum d’histoire naturelle de Nice\n"
-"image:img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
+"image::img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1646,8 +1646,8 @@ msgstr ""
 #: capture.en.adoc:82
 #, no-wrap
 msgid ":figure-caption!:\n"
-".Water hyacinth (Eichhornia crassipes), Bourail, New Caledonia, where it is as an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
-"image:img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
+"image::img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1666,8 +1666,8 @@ msgstr ""
 #: capture.en.adoc:97
 #, no-wrap
 msgid ":figure-caption!:\n"
-".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg by Matthieu Gauvain (CC-BY-SA)\n"
-"image:img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
+"image::img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1694,8 +1694,8 @@ msgstr ""
 #: capture.en.adoc:112
 #, no-wrap
 msgid ":figure-caption!:\n"
-".picture by user  מינוזיג - MinoZig (CC0) https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg\n"
-"image:img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
+"image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1716,8 +1716,8 @@ msgstr ""
 #: capture.en.adoc:125
 #, no-wrap
 msgid ":figure-caption!:\n"
-".https://www.flickr.com/photos/miheco/215305679/ picture by user miheco (CC-BY-SA)\n"
-"image:img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1736,8 +1736,8 @@ msgstr ""
 #: capture.en.adoc:140
 #, no-wrap
 msgid ":figure-caption!:\n"
-".picture by  user pen_ash ( (Simplified Pixabay License: free for commercial use, no attribution required) https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/\n"
-"image:img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
+"image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1770,8 +1770,8 @@ msgstr ""
 #: capture.en.adoc:157
 #, no-wrap
 msgid ":figure-caption!:\n"
-".US National Park Service photo https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1 (authorized reuse on google image search)\n"
-"image:img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1784,8 +1784,8 @@ msgstr ""
 #: capture.en.adoc:170
 #, no-wrap
 msgid ":figure-caption!:\n"
-".picture by user Mani300 (Simplified Pixabay License: free for commercial use, no attribution required) https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/\n"
-"image:img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
