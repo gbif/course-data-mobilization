@@ -54,3 +54,122 @@ Remember to use both images per record to compile the information.
 NOTE: you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template.
 
 === Review
+
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+
+****
+[question, mc]
+....
+What dataset type(s) would you choose for an ichthyology collection?
+
+:figure-caption!:
+.https://www.gbif.org/occurrence/441867173 | Muséum d’histoire naturelle de Nice
+image:img/web/QDataTypes-specimen.png[align="center", width="640", height="360"]
+
+- [x] occurrence
+- [x] checklist
+- [ ] sampling event
+....
+
+[question, mc]
+....
+What dataset type(s) would you choose for a list of invasive species?
+
+:figure-caption!:
+.Water hyacinth (Eichhornia crassipes), Bourail, New Caledonia, where it is as an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0
+image:img/web/QDataTypes-plant.png[align="center", width="640", height="360"]
+
+- [x] occurrence
+- [x] checklist
+- [ ] sampling event
+....
+
+[question, mc]
+....
+What dataset type(s) would you choose for the flora and fauna of an environmental impact study?
+
+Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).
+
+:figure-caption!:
+.https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg by Matthieu Gauvain (CC-BY-SA)
+image:img/web/QDataTypes-field.png[align="center", width="640", height="360"]
+
+- [x] occurrence
+- [ ] checklist
+- [x] sampling event
+....
+
+[question, mc]
+....
+What dataset type(s) would you choose for bird tracking data?
+
+Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.
+
+:figure-caption!:
+.picture by user  מינוזיג - MinoZig (CC0) https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg
+image:img/web/QDataTypes-tracking.png[align="center", width="640", height="360"]
+
+- [x] occurrence
+- [ ] checklist
+- [ ] sampling event
+....
+
+[question, mc]
+....
+What dataset type(s) would you choose for insect trap data?
+
+:figure-caption!:
+.https://www.flickr.com/photos/miheco/215305679/ picture by user miheco (CC-BY-SA)
+image:img/web/QDataTypes-traps.png[align="center", width="640", height="360"]
+
+- [x] occurrence
+- [ ] checklist
+- [x] sampling event
+....
+
+[question, mc]
+....
+What dataset type(s) would you choose for national park management data?
+
+Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.
+
+:figure-caption!:
+.picture by  user pen_ash ( (Simplified Pixabay License: free for commercial use, no attribution required) https://pixabay.com/fr/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/
+image:img/web/QDataTypes-Observations.png[align="center", width="640", height="360"]
+
+- [x] occurrence
+- [x] checklist
+- [x] sampling event
+....
+
+[question, mc]
+....
+What dataset type(s) would you choose for a citizen science bioblitz?
+
+Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.
+
+Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.
+
+:figure-caption!:
+.US National Park Service photo https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1 (authorized reuse on google image search)
+image:img/web/QDataTypes-citizen.png[align="center", width="640", height="360"]
+
+- [x] occurrence
+- [ ] checklist
+- [x] sampling event
+....
+
+[question, mc]
+....
+What dataset type(s) would you choose for a regional species list?
+
+:figure-caption!:
+.picture by user Mani300 (Simplified Pixabay License: free for commercial use, no attribution required) https://pixabay.com/fr/photos/zoo-de-magdebourg-makibo-2876837/
+image:img/web/QDataTypes-threatened.png[align="center", width="640", height="360"]
+
+- [ ] occurrence
+- [x] checklist
+- [ ] sampling event
+....
+****
