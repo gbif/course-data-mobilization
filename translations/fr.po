@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-22 06:38\n"
+"PO-Revision-Date: 2021-04-22 08:29\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3415,23 +3415,23 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:7
 msgid "The following references provide further detail on the topics covered in this course.  All links open in a new window/tab."
-msgstr ""
+msgstr "Les références suivantes fournissent plus de détails sur les sujets abordés dans ce cours. Tous les liens s'ouvrent dans une nouvelle fenêtre/onglet."
 
 #. type: Title ===
 #: keydocs.en.adoc:8
 #, no-wrap
 msgid "Darwin Core"
-msgstr ""
+msgstr "Darwin Core"
 
 #. type: Plain text
 #: keydocs.en.adoc:11
 msgid "http://rs.tdwg.org/dwc/terms/[Darwin Core Terms: A quick reference guide^]"
-msgstr ""
+msgstr "http://rs.tdwg.org/dwc/terms/[Termes Darwin Core : Un guide de référence rapide^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:12
 msgid "https://dwc.tdwg.org/simple/[Simple DarwinCore^]"
-msgstr ""
+msgstr "https://dwc.tdwg.org/simple/[DarwinCore Simple^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:13
@@ -9536,7 +9536,10 @@ msgid "Boolean fields, also known as Binary fields, only contain one of two valu
 "They are a special case of a System Value field as mentioned previously in that whilst the software actually saves a number it often displays values such as: Yes/No, Yes/no, Y/N, True/False.\n"
 "You should take care to find out which way around the system you are using translates. \n"
 "Is a 1 a yes or no?\n"
-msgstr ""
+msgstr "Les champs booléens, également connus sous le nom de champs binaires, ne contiennent qu'une des deux valeurs qui représentent un ou un zéro. \n"
+"Il s'agit d'un cas spécial pour un champ Valeur Système : tel que mentionné précédemment, lorsque le logiciel enregistre un nombre, il affiche souvent des valeurs telles que: Oui/Non, Oui/non, O/N, Vrai/Faux.\n"
+"Vous devez vous assurer de savoir comment contourner le système que vous utilisez des traductions. \n"
+"Un 1 est-il un oui ou un non ?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:78
