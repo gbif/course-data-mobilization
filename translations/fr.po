@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-22 10:32\n"
+"PO-Revision-Date: 2021-04-22 11:31\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1820,7 +1820,7 @@ msgstr "- [x] occurrence\n"
 #. type: Plain text
 #: capture.en.adoc:124
 msgid "What dataset type(s) would you choose for insect trap data?"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour des données de pièges à insectes ?"
 
 #. type: delimited block .
 #: capture.en.adoc:130
@@ -1828,13 +1828,15 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
 "image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.flickr.com/photos/miheco/215305679/[Piège à insectes] par miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #.  Question 6
 #. type: Plain text
 #: capture.en.adoc:137
 msgid "What dataset type(s) would you choose for national park management data?"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour des données de gestion d'un parc national ?"
 
 #. type: delimited block .
 #: capture.en.adoc:141
@@ -1848,7 +1850,9 @@ msgstr "Les données acquises dans le cadre de la gestion des aires protégées 
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
 "image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[éléphants sri-lankais] observés par pen_ash.\n"
+"image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:149
@@ -1864,7 +1868,7 @@ msgstr "- [x] occurrence\n"
 #. type: Plain text
 #: capture.en.adoc:152
 msgid "What dataset type(s) would you choose for a citizen science bioblitz?"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour un inventaire éclair (bioblitz) dans le cadre d'un programme de science participative ?"
 
 #. type: delimited block .
 #: capture.en.adoc:156
@@ -1884,13 +1888,15 @@ msgstr "Les données de chaque participant sont saisies et agrégées dans l’o
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
 "image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[À la recherche d'oiseaux avec le personnel du parc] par le US National Park Service (réutilisation autorisée sur Google Image search)\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #.  Question 8
 #. type: Plain text
 #: capture.en.adoc:169
 msgid "What dataset type(s) would you choose for a regional species list?"
-msgstr ""
+msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour une liste d'espèces régionale ?"
 
 #. type: delimited block .
 #: capture.en.adoc:175
@@ -1898,7 +1904,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
 "image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Rhinocéros noir] observé au Zoo de Magdebourg en Allemagne par Mani300\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:179
@@ -1913,67 +1921,67 @@ msgstr "- [ ] occurrence\n"
 #. type: Plain text
 #: management.en.adoc:6
 msgid "In this module, you will review the main concepts, related tools and best practices for data management, particularly, data cleaning and standardization."
-msgstr ""
+msgstr "Dans ce module, vous passerez en revue les concepts principaux, les outils connexes et les meilleures pratiques pour la gestion des données, en particulier, le nettoyage et la normalisation des données."
 
 #. type: Title ===
 #: management.en.adoc:7
 #, no-wrap
 msgid "Principles of data management"
-msgstr ""
+msgstr "Principes de gestion des données"
 
 #. type: Plain text
 #: management.en.adoc:11
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (09:49), vous allez passer en revue un ensemble important de principes nécessaires pour améliorer les données à travers les processus de nettoyage des données. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Data_Management.mp4[télécharger^,opts=download] localement. (MP4 - 16,6 Mo)"
 
 #. type: Title ===
 #: management.en.adoc:14
 #, no-wrap
 msgid "Data management tools"
-msgstr ""
+msgstr "Outils de gestion des données"
 
 #. type: Plain text
 #: management.en.adoc:18
 msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr ""
+msgstr "Dans cette vidéo (??:??), vous apprendrez une variété d'outils que vous pouvez utiliser pour améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la télécharger localement. (MP4 - ??.?? MB)"
 
 #. type: Title ===
 #: management.en.adoc:21
 #, no-wrap
 msgid "Exercise 3a-c"
-msgstr ""
+msgstr "Exercice 3a-c"
 
 #. type: Plain text
 #: management.en.adoc:24
 msgid "For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use https://openrefine.org/[OpenRefine^]."
-msgstr ""
+msgstr "Pour ces exercices, vous effectuerez des vérifications techniques et cohérentes, améliorerez les données avec différents outils et apprendrez à utiliser https://openrefine.org/[OpenRefine^]."
 
 #. type: Plain text
 #: management.en.adoc:30
 msgid "Your institution is part of the “Global Poales Association (GPA)”.  This association has secured funding to publish an up-to-date flora on the group and has requested your herbarium to participate and provide any high quality records you may have on this order of plants.  The order is well represented in your collection so you think you could contribute substantially to this effort."
-msgstr ""
+msgstr "Votre institution fait partie de la « Global Poales Association (GPA) ». Cette association a obtenu un financement pour publier une flore à jour sur le groupe et a demandé à votre herbarium de participer et de fournir des enregistrements de haute qualité que vous pourriez avoir sur cet ordre de plantes. Cet ordre est bien représenté dans votre collection afin que vous puissiez contribuer de manière substantielle à cet effort."
 
 #. type: Title ====
 #: management.en.adoc:31
 #, no-wrap
 msgid "Exercise 3a"
-msgstr ""
+msgstr "Exercice 3a"
 
 #. type: Plain text
 #: management.en.adoc:34
 #, no-wrap
 msgid "*Validation checks*\n"
-msgstr ""
+msgstr "*Contrôles de validation*\n"
 
 #. type: Plain text
 #: management.en.adoc:37
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
-msgstr ""
+msgstr "Dans cet exercice, nous nous concentrerons sur les erreurs techniques et effectuerons un contrôle de validation de base pour identifier les erreurs techniques. Reportez-vous à <<Validation checks>> pour plus d'informations sur les types d'erreurs."
 
 #. type: Plain text
 #: management.en.adoc:39
 msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Télécharger link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:40
@@ -2245,7 +2253,7 @@ msgstr "Outils utiles"
 #: management.en.adoc:133
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
-msgstr "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
+msgstr "*Outil GBIF de séquençage des noms scientifiques*: https://www.gbif.org/tools/name-parser\n"
 
 #. type: Plain text
 #: management.en.adoc:134
@@ -2257,90 +2265,90 @@ msgstr "*TNRS* : http://tnrs.iplantcollaborative.org/index.html\n"
 #: management.en.adoc:135
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
-msgstr ""
+msgstr "*Global Names Resolver*: http://resolver.globalnames.org\n"
 
 #. type: Plain text
 #: management.en.adoc:136
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
-msgstr ""
+msgstr "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 
 #. type: Plain text
 #: management.en.adoc:137
 #, no-wrap
 msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
-msgstr ""
+msgstr "*Outil Canadensys de conversion des coordonnées*: http://data.canadensys.net/tools/coordonnées/fr_FR\n"
 
 #. type: Plain text
 #: management.en.adoc:138
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
-msgstr ""
+msgstr "*Outil Canadensys de séquençage des dates*: http://data.canadensys.net/tools/dates\n"
 
 #. type: Plain text
 #: management.en.adoc:139
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
-msgstr ""
+msgstr "*Google Maps*: https://maps.google.com/\n"
 
 #. type: Plain text
 #: management.en.adoc:140
 #, no-wrap
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
-msgstr ""
+msgstr "*Calculateur de coordonnées géographiques*: http://georeferencing.org/georefcalculator/gc.html\n"
 
 #. type: Plain text
 #: publishing.en.adoc:6
 msgid "In this module, you will learn about data publishing concepts, including the IPT, cores and extensions, and the importance of licenses, metadata, mandatory fields and hosting of datasets."
-msgstr ""
+msgstr "Dans ce module, vous apprendrez des concepts sur la publication de données, incluant l'IPT, les cœurs (cores) et les extensions, et l'importance des licences, des métadonnées, des champs obligatoires et de l'hébergement des jeux de données."
 
 #. type: Title ===
 #: publishing.en.adoc:7
 #, no-wrap
 msgid "Data publishing concepts"
-msgstr ""
+msgstr "Concepts de publication de données"
 
 #. type: Plain text
 #: publishing.en.adoc:11
 msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (11:45), vous vous familiariserez avec les concepts de publication de données et vous recevrez une introduction à l'IPT (https://www.gbif.org/ipt[IPT^]). Si vous ne parvenez pas à regarder la vidéo intégrée de Vimeo, vous pouvez link:../videos/Data_publishing_concepts.mp4[la télécharger^,opts=download] sur votre ordinateur. (MP4 - 20 Mo)"
 
 #. type: Title ===
 #: publishing.en.adoc:14
 #, no-wrap
 msgid "IPT overview"
-msgstr ""
+msgstr "Présentation générale de l'IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:18
 msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr ""
+msgstr "Dans cette vidéo (??:??), vous aurez un aperçu de l'interface de publication des données de l'IPT. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la télécharger sur votre ordinateur. (MP4 - ??.?? MB)"
 
 #. type: Title ====
 #: publishing.en.adoc:21
 #, no-wrap
 msgid "Training IPT installations"
-msgstr ""
+msgstr "Installations IPT pour la formation"
 
 #. type: Plain text
 #: publishing.en.adoc:24
 msgid "If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
-msgstr ""
+msgstr "Si vous n'avez pas encore reçu d'identifiant, veuillez contacter training@gbif. rg et vous recevrez un identifiant et un mot de passe pour vous connecter sur l'IPT de la formation."
 
 #. type: Plain text
 #: publishing.en.adoc:26
 msgid "https://training-ipt-a.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-a.gbif.org/[^]"
 
 #. type: Plain text
 #: publishing.en.adoc:28
 msgid "https://training-ipt-b.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-b.gbif.org/[^]"
 
 #. type: Plain text
 #: publishing.en.adoc:30
 msgid "https://training-ipt-c.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-c.gbif.org/[^]"
 
 #. type: Title ===
 #: publishing.en.adoc:31
