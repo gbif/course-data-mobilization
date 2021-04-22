@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-22 11:31\n"
+"PO-Revision-Date: 2021-04-22 12:28\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1566,7 +1566,7 @@ msgstr "- [ ] Planification, Initiation, Surveillance et Contrôle, Exécution, 
 #. type: Plain text
 #: planning.en.adoc:149
 msgid "What are the types of deliverables? (multiple correct answers)"
-msgstr "Quels sont les types de livrables ? (plusieurs réponses correctes)"
+msgstr "Quels sont les types d'éléments à livrer ? (plusieurs réponses correctes)"
 
 #. type: delimited block .
 #: planning.en.adoc:158
@@ -1577,7 +1577,12 @@ msgid "- [x] Stated\n"
 "- [x] Direct\n"
 "- [x] Indirect\n"
 "- [ ] Guesses\n"
-msgstr ""
+msgstr "[x] Déterminé\n"
+"- [x] implicit \n"
+"- [ ] Estimé\n"
+"- [x] Direct\n"
+"- [x] Indirect\n"
+"- [ ] Supposé\n"
 
 #.  Question 3
 #. type: Plain text
@@ -1986,54 +1991,54 @@ msgstr "Télécharger link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-da
 #. type: Plain text
 #: management.en.adoc:40
 msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
-msgstr ""
+msgstr "Importez le fichier CSV dans Excel en utilisant l'assistant Excel. Voir link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) pour les instructions d'importation de votre système d'exploitation (Windows, Mac, Linux)."
 
 #. type: Plain text
 #: management.en.adoc:41
 msgid "Find and correct the errors manually."
-msgstr ""
+msgstr "Trouvez et corrigez les erreurs manuellement."
 
 #. type: Title ====
 #: management.en.adoc:43
 #, no-wrap
 msgid "Exercise 3b"
-msgstr ""
+msgstr "Exercice 3b"
 
 #. type: Plain text
 #: management.en.adoc:46
 #, no-wrap
 msgid "*Other data management tools*\n"
-msgstr ""
+msgstr "*Autres outils de gestion des données*\n"
 
 #. type: Plain text
 #: management.en.adoc:48
 msgid "The GPA association has given you a checklist of data quality elements to verify:"
-msgstr ""
+msgstr "L'association GPA vous a donné une liste d'éléments de contrôle de qualité des données à vérifier:"
 
 #. type: Plain text
 #: management.en.adoc:50
 msgid "All plant names (full name) are correctly spelled"
-msgstr ""
+msgstr "Tous les noms de plantes (nom complet) sont correctement orthographiés"
 
 #. type: Plain text
 #: management.en.adoc:51
 msgid "All plant names belong to the order"
-msgstr ""
+msgstr "Tous les noms de plantes appartiennent à cet ordre"
 
 #. type: Plain text
 #: management.en.adoc:52
 msgid "All records have coordinates"
-msgstr ""
+msgstr "Tous les enregistrements ont des coordonnées"
 
 #. type: Plain text
 #: management.en.adoc:53
 msgid "All coordinates are inside the country stated and converted to decimal format"
-msgstr ""
+msgstr "Toutes les coordonnées sont à l'intérieur du pays indiqué et converties au format décimal"
 
 #. type: Plain text
 #: management.en.adoc:54
 msgid "All dates are in the proper column and in the format YYYY-MM-DD"
-msgstr ""
+msgstr "Toutes les dates sont dans la colonne appropriée et au format AAAA-MM-JJ"
 
 #. type: Plain text
 #: management.en.adoc:56
@@ -2354,7 +2359,7 @@ msgstr "https://training-ipt-c.gbif.org/[^]"
 #: publishing.en.adoc:31
 #, no-wrap
 msgid "IPT demonstration"
-msgstr ""
+msgstr "Démonstration de l'IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:35
