@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-22 13:26\n"
+"PO-Revision-Date: 2021-04-22 14:32\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2406,7 +2406,7 @@ msgstr "Télécharger link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-po
 #. type: Plain text
 #: publishing.en.adoc:52
 msgid "Use the assigned IPT installation and publish this file."
-msgstr ""
+msgstr "Utilisez l'installation IPT assignée et publiez ce fichier."
 
 #. type: Title ==
 #: assessments-certification.en.adoc:3
@@ -2417,12 +2417,12 @@ msgstr "Evaluation et certification"
 #. type: Plain text
 #: assessments-certification.en.adoc:6
 msgid "In this module, you will review the criteria to be used to assess assignments and to achieve certification."
-msgstr ""
+msgstr "Dans ce module, vous examinerez les critères à utiliser pour évaluer les affectations et obtenir une certification."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:8
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge]."
-msgstr ""
+msgstr "Une fois le cours terminé avec succès et une évaluation réussie des devoirs (par des formateurs et des mentors), les participants ont la possibilité de recevoir un certificat officiel sous la forme d'un badge https://openbadges.org/[Open Badge]."
 
 #. type: Table
 #: assessments-certification.en.adoc:16
@@ -2431,23 +2431,26 @@ msgid "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=\"center\"
 "|An overall score of 2.5-2.9 earns a BASIC Biodiversity Data Mobilization badge\n\n"
 "|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=\"center\", width=\"75\", height=\"75\"]\n"
 "|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
-msgstr ""
+msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=\"center\", width=\"75\", height=\"75\"]\n"
+"|Un score global de 2.5-2.9 reçoit un badge BASIC de mobilisation des données sur la biodiversité\n\n"
+"|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED. ng[align=\"center\", width=\"75\", height=\"75\"]\n"
+"|Un score global de 3.0-4.0 reçoit un badge AVANCED de mobilisation des données sur la biodiversité \n"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr ""
+msgstr "Les participants sont tenus de soumettre le cas d'utilisation II (choix entre deux options) et le cas d'utilisation III et chaque cas d'utilisation est noté en fonction des rubriques éducatives du cours. Les rubriques définissent les compétences et les niveaux de performance sur lesquels se fondent les objectifs d'apprentissage du cours."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
 msgid "Review the rubrics to ensure understanding of the skills that will be assessed for certification."
-msgstr ""
+msgstr "Examinez les rubriques pour vous assurer de la bonne compréhension des compétences qui seront évaluées en vue de l'obtention de la certification."
 
 #. type: Title ===
 #: assessments-certification.en.adoc:22
 #, no-wrap
 msgid "Planning rubric"
-msgstr ""
+msgstr "Rubrique de planification"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:25 use-case-invasive-species.en.adoc:67
@@ -2455,7 +2458,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:92
 #, no-wrap
 msgid "*Planning*\n"
-msgstr ""
+msgstr "*Planification*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:61 assessments-certification.en.adoc:102
@@ -2496,7 +2499,7 @@ msgstr ""
 #: assessments-certification.en.adoc:63
 #, no-wrap
 msgid "Data capture rubric"
-msgstr ""
+msgstr "Rubrique de saisie de données"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:66 use-case-invasive-species.en.adoc:115
@@ -2504,13 +2507,13 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:108
 #, no-wrap
 msgid "*Data capture*\n"
-msgstr ""
+msgstr "*Saisie de données*\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:104
 #, no-wrap
 msgid "Data management rubric"
-msgstr ""
+msgstr "Rubrique de gestion des données"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:107 use-case-invasive-species.en.adoc:128
@@ -2518,65 +2521,65 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:140
 #, no-wrap
 msgid "*Data management*\n"
-msgstr ""
+msgstr "*La gestion des données*\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:145
 #, no-wrap
 msgid "Data publishing rubric"
-msgstr ""
+msgstr "Rubrique de publication des données"
 
 #. type: Title ==
 #: use-case-invasive-species.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Invasive species"
-msgstr ""
+msgstr "Caisse d'utilisation II - Espèces envahissantes"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:8 use-case-lepidoptera-sampling.en.adoc:8
 msgid "You have a choice for Use Case II between two scenarios:"
-msgstr ""
+msgstr "Vous avez le choix entre deux scénarios pour le cas d'utilisation II :"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:10
 #: use-case-lepidoptera-sampling.en.adoc:10
 msgid "Invasive species checklist"
-msgstr ""
+msgstr "Liste de vérification des espèces envahissantes"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:11
 #: use-case-lepidoptera-sampling.en.adoc:11
 msgid "Lepidoptera sampling"
-msgstr ""
+msgstr "Échantillonnage de Lepidoptera"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:13
 #: use-case-lepidoptera-sampling.en.adoc:13
 msgid "Your choice for Use Case II will be graded."
-msgstr ""
+msgstr "Votre choix pour Use Case II sera noté."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:16
 #, no-wrap
 msgid "*Tracking invasive species*\n"
-msgstr ""
+msgstr "*Suivi des espèces envahissantes*\n"
 
 #. type: Block title
 #: use-case-invasive-species.en.adoc:18
 #, no-wrap
 msgid "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam.) de Wit] observed in Hawaii by Sharon Grant (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam) de Wit] observé à Hawaii par Sharon Grant (sous licence http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-invasive-species.en.adoc:19
 #, no-wrap
 msgid "img/web/use-case-2-invasive-hawaii.png"
-msgstr ""
+msgstr "img/web/use-case-2-invasive-hawaii.png"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:22
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Sharon Grant, John Wieczorek, David Bloom and Laura Anne Russell."
-msgstr ""
+msgstr "Ce récit a été élaboré comme base pour des exercices pratiques du cours de mobilisation des données sur la biodiversité et le concept et le contenu de l'exercice a été développé par Sharon Grant, John Wieczorek, David Bloom et Laura Anne Russell."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
@@ -2586,7 +2589,7 @@ msgstr "Il s'agit d'un scénario fictif, basé sur un jeu de données réel, don
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:31
 msgid "The Hawaii Invasive Species Council (HISC) received a federal grant to collaborate with high schools as part of Hawaii’s statewide curriculum on Invasive Species to increase local knowledge about invasive species, increase data collection and produce annotated checklists for under reported areas.  A full-time Project Manager is employed to oversee the project.  All funds and allocations are managed by the HISC Fiscal Associate."
-msgstr "Le Conseil des espèces invasives de Hawaï (Hawaii Invasive Species Council : HISC) a reçu une subvention fédérale pour collaborer avec des lycées dans le cadre du programme national d’Hawaï sur les espèces invasives. Le but du projet est d’accroître les connaissances locales sur les espèces invasives, accroître la collecte de données et générer des checklists annotées pour les zones signalées. Un manager est employé à temps plein pour superviser le projet. Tous les fonds et les allocations sont gérés par l'Associé Fiscal du HISC."
+msgstr "Le Conseil sur les espèces invasives de Hawaï (Hawaii Invasive Species Council : HISC) a reçu une subvention fédérale pour collaborer avec des lycées dans le cadre du programme national d’Hawaï sur les espèces invasives. Le but du projet est d’accroître les connaissances locales sur les espèces invasives, accroître la collecte de données et générer des checklists annotées pour les zones signalées. Un manager est employé à temps plein pour superviser le projet. Tous les fonds et les allocations sont gérés par l'Associé Fiscal du HISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:35
