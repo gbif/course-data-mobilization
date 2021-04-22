@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-22 04:36\n"
+"PO-Revision-Date: 2021-04-22 05:38\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3709,7 +3709,7 @@ msgstr "https://github.com/OpenRefine/OpenRefine/wiki[Documentation d'OpenRefine
 #. type: Plain text
 #: keydocs.en.adoc:94
 msgid "https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions[OpenRefine regular expressions^]"
-msgstr ""
+msgstr "https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions[Les expressions régulières d'OpenRefine ^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:96
@@ -3791,7 +3791,7 @@ msgstr ""
 #: keydocs.en.adoc:121
 #, no-wrap
 msgid "Quality"
-msgstr ""
+msgstr "Qualité"
 
 #. type: Plain text
 #: keydocs.en.adoc:125
@@ -4210,64 +4210,64 @@ msgstr ""
 #: solutions.en.adoc:53
 #, no-wrap
 msgid "*Which of these terms describes a \"field/column name\"?*\n"
-msgstr ""
+msgstr "*Lequel de ces termes décrit un \"champ/nom de colonne\"?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:55
 msgid "Assigned"
-msgstr ""
+msgstr "Assigné(s)"
 
 #. type: Plain text
 #: solutions.en.adoc:56
 msgid "Identifying"
-msgstr ""
+msgstr "Identifiant"
 
 #. type: Plain text
 #: solutions.en.adoc:57
 msgid "Unique"
-msgstr ""
+msgstr "Unique"
 
 #. type: Plain text
 #: solutions.en.adoc:59
 #, no-wrap
 msgid "*Which of these terms describes a \"field label\"?*\n"
-msgstr ""
+msgstr "*Lequel de ces termes décrit une \"étiquette de champ\"?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:61
 msgid "Descriptive"
-msgstr ""
+msgstr "Descriptif"
 
 #. type: Plain text
 #: solutions.en.adoc:62
 msgid "Readable"
-msgstr ""
+msgstr "Lisible"
 
 #. type: Plain text
 #: solutions.en.adoc:63
 msgid "User-interface"
-msgstr ""
+msgstr "Interface d'utilisateur"
 
 #. type: Plain text
 #: solutions.en.adoc:65
 #, no-wrap
 msgid "*For each statement, input the correct structure (row, column, table)*\n"
-msgstr ""
+msgstr "*Pour chaque relevé, entrez la structure correcte (ligne, colonne, table)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:68
 msgid "All data refers to a SINGLE concept. + *table*"
-msgstr ""
+msgstr "Toutes les données font référence à un concept SINGULIER. + *table*"
 
 #. type: Plain text
 #: solutions.en.adoc:70
 msgid "An attribute has the SAME field/data type for every record. + *column*"
-msgstr ""
+msgstr "Un attribut a le MÊME type de données/champ pour chaque enregistrement. + *colonne*"
 
 #. type: Plain text
 #: solutions.en.adoc:72
 msgid "Attributes of a record ALWAYS stay together. + *row*"
-msgstr ""
+msgstr "Les attributs d'un enregistrement de données restent TOUJOURS ensemble. + *rangée*"
 
 #. type: Plain text
 #: solutions.en.adoc:74
@@ -4278,7 +4278,7 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:76
 msgid "The users of the data for research or education"
-msgstr ""
+msgstr "Les utilisateurs des données pour la recherche ou l'éducation"
 
 #. type: Plain text
 #: solutions.en.adoc:79
@@ -4347,17 +4347,17 @@ msgstr ""
 #: solutions.en.adoc:105
 #, no-wrap
 msgid "*Metadata is important because (select the TRUE statements)*\n"
-msgstr ""
+msgstr "*Les métadonnées sont importantes car (sélectionnez les affirations qui sont VRAIES)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:107
 msgid "it allows users to determine if a dataset is fit for their use."
-msgstr ""
+msgstr "il permet aux utilisateurs de déterminer si un ensemble de données convient à leur utilisation."
 
 #. type: Plain text
 #: solutions.en.adoc:108
 msgid "it allows you to know under which legal terms the reuse of data is permitted."
-msgstr ""
+msgstr "il vous permet de savoir sous quelles conditions légales la réutilisation des données est autorisée."
 
 #. type: Title ===
 #: solutions.en.adoc:109
@@ -4395,74 +4395,75 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:121
 msgid "Implied - YES"
-msgstr ""
+msgstr "Implicite - OUI"
 
 #. type: Plain text
 #: solutions.en.adoc:122
 msgid "Estimated - NO"
-msgstr ""
+msgstr "Estimé - NON"
 
 #. type: Plain text
 #: solutions.en.adoc:123
 msgid "Direct - YES"
-msgstr ""
+msgstr "Direct - OUI"
 
 #. type: Plain text
 #: solutions.en.adoc:124
 msgid "Indirect - YES"
-msgstr ""
+msgstr "Indirect - OUI"
 
 #. type: Plain text
 #: solutions.en.adoc:125
 msgid "Guesses - NO"
-msgstr ""
+msgstr "Deviné - NON"
 
 #. type: Plain text
 #: solutions.en.adoc:127
 #, no-wrap
 msgid "*What is a bottleneck?*\n"
-msgstr ""
+msgstr "*Qu'est-ce qu'un goulot d'étranglement ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:130
 msgid "a blockage that delays development or progress - YES a space where something or someone is missing - NO, THIS IS A GAP"
-msgstr ""
+msgstr "un blocage qui retarde le développement ou le progrès - OUI \n"
+"un espace où quelque chose ou quelqu'un manque - NON, CET EST UN DÉFICIT"
 
 #. type: Plain text
 #: solutions.en.adoc:131
 msgid "a problem, or situation that prevents somebody from doing something, or that makes something impossible. NO, THIS IS A BARRIER"
-msgstr ""
+msgstr "un problème, ou une situation qui empêche quelqu'un de faire quelque chose, ou qui rend quelque chose impossible. NON, CET EST UNE BARRIÈRE"
 
 #. type: Plain text
 #: solutions.en.adoc:133
 #, no-wrap
 msgid "*Which are examples of mobilization tasks?*\n"
-msgstr ""
+msgstr "*Quels sont les exemples de tâches de mobilisation ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:135
 msgid "Affiliation - NO, This is a Resource Type"
-msgstr ""
+msgstr "Affiliation - NON, Ceci est un type de ressource"
 
 #. type: Plain text
 #: solutions.en.adoc:136
 msgid "Publishing - YES"
-msgstr ""
+msgstr "Publication - OUI"
 
 #. type: Plain text
 #: solutions.en.adoc:137
 msgid "Imaging - YES"
-msgstr ""
+msgstr "Imagerie - OUI"
 
 #. type: Plain text
 #: solutions.en.adoc:138
 msgid "Georeferencing - YES"
-msgstr ""
+msgstr "Géoréférencement - OUI"
 
 #. type: Plain text
 #: solutions.en.adoc:139
 msgid "Increased Public Awareness - NO, This is an implied goal."
-msgstr ""
+msgstr "Sensibilisation accrue du public - NON, il s'agit d'un objectif implicite."
 
 #. type: Title ===
 #: solutions.en.adoc:140
