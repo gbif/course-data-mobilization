@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-22 12:28\n"
+"PO-Revision-Date: 2021-04-22 13:26\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2364,7 +2364,7 @@ msgstr "Démonstration de l'IPT"
 #. type: Plain text
 #: publishing.en.adoc:35
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded Vimeo video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr ""
+msgstr "Dans cette vidéo (24:16), vous allez apprendre comment publier un jeu de donnée en utilisant un IPT. Si vous ne parvenez pas à regarder la vidéo intégrée Vimeo, vous pouvez link:../videos/Data_publishing_concepts.mp4[la télécharger^,opts=download] localement. (MP4 - 52.6 Mo)"
 
 #. type: Title ===
 #: publishing.en.adoc:38 use-case-invasive-species.en.adoc:137
@@ -2372,12 +2372,12 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:162
 #, no-wrap
 msgid "Exercise 4"
-msgstr ""
+msgstr "Exercice 4"
 
 #. type: Plain text
 #: publishing.en.adoc:41
 msgid "In this exercise, you will publish an occurrence dataset using the IPT."
-msgstr ""
+msgstr "Dans cet exercice, vous publierez un jeu de données d'occurrence en utilisant l'IPT."
 
 #. type: Plain text
 #: publishing.en.adoc:45 assessments-certification.en.adoc:148
@@ -2386,22 +2386,22 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:165
 #, no-wrap
 msgid "*Data publishing*\n"
-msgstr ""
+msgstr "*Publication de données*\n"
 
 #. type: Plain text
 #: publishing.en.adoc:47
 msgid "After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset."
-msgstr ""
+msgstr "Après le nettoyage des données dans le jeu de données des Poales, l'équipe considère que la publication des données en ligne via le réseau GBIF pourrait être un bon moyen de rendre cet effort visible. Il vous a été demandé de mener à bien ce travail de publication, basé sur ce jeu de données."
 
 #. type: Plain text
 #: publishing.en.adoc:50
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
-msgstr ""
+msgstr "À ce stade, vous avez besoin d'un compte sur l'un des <<Training IPT installations,course IPTs>>. Si vous n'avez pas encore reçu de login, veuillez contacter training@gbif.org et vous recevrez un login et un mot de passe sur l'un des IPTs du cours."
 
 #. type: Plain text
 #: publishing.en.adoc:51
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
-msgstr ""
+msgstr "Télécharger link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 
 #. type: Plain text
 #: publishing.en.adoc:52
