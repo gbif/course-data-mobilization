@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-23 15:06\n"
+"PO-Revision-Date: 2021-04-23 16:38\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -611,14 +611,15 @@ msgstr "Descarregue o Link:../course-docs/Software-database-EN.xlsx[Software-dat
 #. type: delimited block *
 #: foundations.en.adoc:200
 msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^]:"
-msgstr ""
+msgstr "Ao analisar um software de biodiversidade que você não utilizou antes, é necessário considerar como o adaptaria para os seus fins. Você encontrará abaixo uma lista com a qual poderá começar a sua avaliação. É inspirada nas “características de uma boa solução de banco de dados” do manual GBIF https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Iniciando um Projecto de Digitalização”^]:"
 
 #. type: delimited block *
 #: foundations.en.adoc:203
 #, no-wrap
 msgid "*Price*: One of the most determining factors.\n"
 "Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.\n"
-msgstr ""
+msgstr "*Preço*: Um dos fatores mais determinantes.\n"
+"Esteja ciente de outros custos além do preço da licença do software, tal como o hardware necessário para executá-lo, manutenção, actualização e o conhecimento para executá-lo.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:205
