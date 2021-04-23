@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-23 13:01\n"
+"PO-Revision-Date: 2021-04-23 13:57\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2975,7 +2975,7 @@ msgstr "Il y a des mesures de contrôle de la qualité en place : chaque enregis
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:58
 msgid "Time of day and weather conditions are recorded at the beginning of the transect.  Along the transect, the number of individuals of every species seen is counted.  Un-identified species are counted and recorded either by family or as a predefined complex of two or three similar species.  Butterflies seen outside the 5 meter range are recorded as “Extra+the number of the nearest section” (e.g. 5-extra).  The end time of the transect is also recorded."
-msgstr ""
+msgstr "L'heure de la journée et les conditions météorologiques sont enregistrées au début du transect. Le long de ce transect, le nombre d'individus de chaque espèce observée est comptabilisé. Les espèces non identifiées sont comptabilisées et enregistrées, soit au niveau de la famille, soit comme un complexe prédéfini de deux ou trois espèces similaires. Les papillons vus en dehors de la plage de 5 mètres sont enregistrés comme \"Extra+le numéro de la section la plus proche\" (ex. 5-extra). L'heure de fin du transect est également enregistrée."
 
 #. type: Title ====
 #: use-case-lepidoptera-sampling.en.adoc:59
@@ -3025,7 +3025,7 @@ msgstr "Attribuer des rôles pour maximiser l'efficacité du traitement et de la
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:129
 msgid "Imagine you are one of the volunteers digitizing the paper logs received at the IBAN headquarters. You have received two paper logs."
-msgstr ""
+msgstr "Imaginez que vous êtes un des bénévoles à numériser les archives papier reçues au siège de l'IBAN. Vous avez reçu deux archives papier."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:131
@@ -3099,17 +3099,17 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:18
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Andrea Hahn, Laura Russell and Sharon Grant.  It is based upon a previous adaptation by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé."
-msgstr ""
+msgstr "Ce scénario a été élaboré comme base pour les exercices pratiques du cours de mobilisation des données de biodiversité. Le concept et le contenu de l'exercice ont été développés par Alberto González-Talaván, sur la base des travaux antérieurs d'Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond et Nicolas Noé.  Il s'agit d'un scénario fictif qui n'est destiné qu'à des fins pédagogiques."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:21
 msgid "It is a fictionalized scenario based on a real project and dataset and is meant only for instructional purposes.  The https://danbif.dk/se-eksempler/fyrfaldne-fugle/[original project] and the https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[original dataset] are attributed to the Danish GBIF Node, https://danbif.dk/[DanBIF]."
-msgstr ""
+msgstr "Il s'agit d'un scénario fictif basé sur un  projet et un jeu de données véritables et qui est destiné uniquement à des fins d'instruction. Le https://danbif.dk/se-eksempler/fyrfaldne-fugle/[projet original] et le https://www. bif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[jeu de données original] sont attribués au nœud GBIF danois, https://danbif.dk/[DanBIF]."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:27
 msgid "The Natural History Museum of Denmark (NHM-DK) is a research centre associated with the University of Copenhagen.  Their library is a member of the national library association who recently received state funding to make available online the resources held by its members.  The NHM-DK would like to begin digitization of the field notebooks, journal publications and books held in their library, some of which have significant historic value."
-msgstr ""
+msgstr "Le Musée d'Histoire Naturelle du Danemark (NHM-DK) est un centre de recherche associé à l'Université de Copenhague. Leur bibliothèque est membre de l'association nationale des bibliothèques qui a récemment reçu des fonds de l'État pour mettre en ligne les ressources détenues par ses membres. Le NHM-DK aimerait commencer à numériser les cahiers de terrain, des publications et des livres contenus dans leur bibliothèque, dont certaines ont une valeur historique significative."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:31
@@ -3134,12 +3134,12 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:42
 msgid "The museum will carry out the digitization of the literature using two library staff members trained in the use of the library scanner to scan delicate volumes.  They will also extract text from the scans through OCR (Optical Character Recognition) software."
-msgstr ""
+msgstr "Le musée effectuera la numérisation de la littérature à l'aide de deux membres du personnel de la bibliothèque formés à l'utilisation du scanner de bibliothèque pour scanner des volumes délicats. Ils extraient également du texte des scans à l'aide du logiciel OCR (Optical Character Recognition)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:44
 msgid "Three volunteers from the Copenhagen Ornithological Society (COS) who regularly collaborate with the museum and are familiar with the birds of the region have been enlisted to assist and will complete the transfer of data from the scanned PDFs into spreadsheet format.  They will need to go to the museum and use the computers available in the library to gain access to the files stored in the museum intranet (private network)."
-msgstr ""
+msgstr "Trois bénévoles de la Société Ornithologique de Copenhague (COS) qui collaborent régulièrement avec le musée et connaissent les oiseaux de la région ont été engagés pour aider et compléteront le transfert des données des PDF scannés au format tableur. Ils devront se rendre au musée et utiliser les ordinateurs disponibles dans la bibliothèque pour accéder aux fichiers stockés dans l'intranet du musée (réseau privé)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:48
@@ -3337,7 +3337,7 @@ msgstr "Créez une feuille de calcul en utilisant les champs de données énumé
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:136
 msgid "In the examples used, the individual occurrences do not always contain data to complete all of the columns in the spreadsheet."
-msgstr ""
+msgstr "Dans les exemples utilisés, les occurrences individuelles ne contiennent pas toujours les données pour compléter toutes les colonnes de la feuille de calcul."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:143
@@ -3414,7 +3414,7 @@ msgstr "CAS PRATIQUE II"
 #. type: Plain text
 #: assignments.en.adoc:9
 msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
-msgstr ""
+msgstr "Il y a deux options pour le CAS PRATIQUE II (<<use-case-ii-invasive-species,Invasive species>> OU <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>). Vous n'avez qu'à sélectionner l'un d'eux pour votre travail."
 
 #. type: Plain text
 #: assignments.en.adoc:11 assignments.en.adoc:20
@@ -3456,23 +3456,23 @@ msgstr ""
 #: assignments.en.adoc:27
 #, no-wrap
 msgid "Assignment submission"
-msgstr ""
+msgstr "Soumission du travail"
 
 #. type: Plain text
 #: assignments.en.adoc:31
 msgid "Assignments can be submitted from the online (HTML) version of the course."
-msgstr ""
+msgstr "Les travaux peuvent être soumis à partir de la version en ligne (HTML) du cours."
 
 #. type: Plain text
 #: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
-msgstr ""
+msgstr "Veuillez soumettre vos fichiers de travaux en utilisant le formulaire ci-dessous. Si vous ne voyez pas de formulaire, vous pouvez également visiter le https://gbif. pp.box.com/f/1e44182c4bc74d659082c0e952d83e80:[site de dépôt^] dans une nouvelle fenêtre."
 
 #. type: delimited block +
 #: assignments.en.adoc:38
 #, no-wrap
 msgid "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
-msgstr ""
+msgstr "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
 
 #. type: Title ==
 #: course-evaluation.en.adoc:1
@@ -4032,7 +4032,7 @@ msgstr ""
 #: glossary.en.adoc:30
 #, no-wrap
 msgid "[[DOI]]DOI"
-msgstr ""
+msgstr "[[DOI]]DOI"
 
 #. type: Plain text
 #: glossary.en.adoc:32
@@ -4167,7 +4167,7 @@ msgstr ""
 #. type: Plain text
 #: glossary.en.adoc:65
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: solutions.en.adoc:2
@@ -4278,7 +4278,7 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:49
 msgid "Yes/No + *boolean*"
-msgstr ""
+msgstr "Oui/Non + *booléen*"
 
 #. type: Plain text
 #: solutions.en.adoc:51
@@ -4629,7 +4629,7 @@ msgstr ""
 #: solutions.en.adoc:180
 #, no-wrap
 msgid "*What dataset type(s) would you choose for national park management data?*\n"
-msgstr ""
+msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour des données de gestion d'un parc national ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:183
@@ -4677,13 +4677,13 @@ msgstr ""
 #: solutions.en.adoc:201
 #, no-wrap
 msgid "Data management review solutions"
-msgstr ""
+msgstr "Solutions des révisions sur la gestion des données"
 
 #. type: Title ===
 #: solutions.en.adoc:203
 #, no-wrap
 msgid "Data publishing review solutions"
-msgstr ""
+msgstr "Solutions des révisions sur la publication des données"
 
 #. type: Title ===
 #: solutions.en.adoc:205
@@ -4711,17 +4711,17 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:10
 msgid "The following individuals are recognized for their significant contributions to the course design, materials and instruction:"
-msgstr ""
+msgstr "Les personnes suivantes sont reconnues pour leurs contributions significatives à la conception, aux matériaux, et à l'enseignement du cours:"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:12
 msgid "Nestor Beltran*"
-msgstr ""
+msgstr "Nestor Beltran*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:13
 msgid "David Bloom"
-msgstr ""
+msgstr "David Bloom"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:14
@@ -4731,7 +4731,7 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:15
 msgid "Dag Endresen"
-msgstr ""
+msgstr "Dag Endresen"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:16
@@ -4746,7 +4746,7 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:18
 msgid "Marie-Elise Lecoq"
-msgstr ""
+msgstr "Marie-Elise Lecoq"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:19
@@ -4756,7 +4756,7 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:20
 msgid "Nicolas Noé*"
-msgstr ""
+msgstr "Nicolas Noe*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:21
@@ -4819,17 +4819,17 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:39
 msgid "Belgium Biodiversity Platform"
-msgstr ""
+msgstr "Plateforme Belge pour la Biodiversité"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:40
 msgid "GBIF France"
-msgstr ""
+msgstr "GBIF France"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:41
 msgid "GBIF Spain"
-msgstr ""
+msgstr "GBIF Espagne"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:42
@@ -4862,7 +4862,7 @@ msgstr ""
 #: colophon.en.adoc:7
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Contributeurs"
 
 #. type: Plain text
 #: colophon.en.adoc:10
@@ -4911,7 +4911,7 @@ msgstr ""
 #: scripts/structures.en.txt:2
 #, no-wrap
 msgid "// Slide 1\n"
-msgstr ""
+msgstr "// Diapositive 1\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:4
@@ -4928,7 +4928,7 @@ msgstr ""
 #: scripts/structures.en.txt:7
 #, no-wrap
 msgid "// Slide 2\n"
-msgstr ""
+msgstr "// Diapositive 2\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:8
@@ -4945,7 +4945,7 @@ msgstr ""
 #: scripts/structures.en.txt:12
 #, no-wrap
 msgid "// Slide 3\n"
-msgstr ""
+msgstr "// Diapositive 3\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:15
@@ -4960,7 +4960,7 @@ msgstr ""
 #: scripts/data-capture.en.txt:17
 #, no-wrap
 msgid "// Slide 4 \n"
-msgstr ""
+msgstr "// Diapositive 4\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:23
@@ -4980,7 +4980,7 @@ msgstr ""
 #: scripts/standards.en.txt:53 scripts/structures.en.txt:20
 #, no-wrap
 msgid "// Slide 5\n"
-msgstr ""
+msgstr "// Diapositive 5\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:29
@@ -4999,7 +4999,7 @@ msgstr ""
 #: scripts/structures.en.txt:28
 #, no-wrap
 msgid "// Slide 6\n"
-msgstr ""
+msgstr "// Diapositive 6\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:36
@@ -5014,7 +5014,7 @@ msgstr ""
 #: scripts/data-capture.en.txt:38
 #, no-wrap
 msgid "// Slide 7 \n"
-msgstr ""
+msgstr "// Diapositive 7\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:42
@@ -5031,7 +5031,7 @@ msgstr ""
 #: scripts/software.en.txt:50 scripts/structures.en.txt:47
 #, no-wrap
 msgid "// Slide 8\n"
-msgstr ""
+msgstr "// Diapositive 8\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:47
@@ -5048,7 +5048,7 @@ msgstr ""
 #: scripts/standards.en.txt:132 scripts/structures.en.txt:54
 #, no-wrap
 msgid "// Slide 9\n"
-msgstr ""
+msgstr "// Diapositive 9\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:54
@@ -5078,7 +5078,7 @@ msgstr ""
 #: scripts/standards.en.txt:178 scripts/structures.en.txt:73
 #, no-wrap
 msgid "// Slide 11\n"
-msgstr ""
+msgstr "// Diapositive 11\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:65
@@ -5094,7 +5094,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:109 scripts/structures.en.txt:80
 #, no-wrap
 msgid "// Slide 12\n"
-msgstr ""
+msgstr "// Diapositive 12\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:70
@@ -5110,7 +5110,7 @@ msgstr ""
 #: scripts/standards.en.txt:205 scripts/structures.en.txt:84
 #, no-wrap
 msgid "// Slide 13\n"
-msgstr ""
+msgstr "// Diapositive 13\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:76
@@ -5127,14 +5127,15 @@ msgstr ""
 #: scripts/structures.en.txt:89
 #, no-wrap
 msgid "// Slide 14\n"
-msgstr ""
+msgstr "// Diapositive 14\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:81
 #, no-wrap
 msgid "Information about the context of the data collection or observation are very useful to share in order to give as much detail as possible regarding each occurrence.\n"
 "Information such as the collector name, collection or observation protocol, habitat and other factors can prove to be important when reusing data for example with ecological niche modelling.\n"
-msgstr ""
+msgstr "Les informations sur le contexte de la collecte ou de l’observation des données sont très utiles à partager afin de donner le plus de détails possible sur chaque occurrence.\n"
+"Les informations telles que le nom du collecteur, la collection ou le protocole d'observation, l'habitat et d'autres facteurs peuvent s'avérer importants lors de la réutilisation des données par exemple pour la modélisation de la niche écologique.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:86
@@ -5410,7 +5411,7 @@ msgstr ""
 #: scripts/structures.en.txt:66
 #, no-wrap
 msgid "// Slide 10\n"
-msgstr ""
+msgstr "// Diapositive 10\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:88
@@ -6898,7 +6899,8 @@ msgstr ""
 #, no-wrap
 msgid "Documentation is the story of your project or dataset.\n"
 "There should always be a concrete beginning, middle and end.\n"
-msgstr ""
+msgstr "La documentation est l'histoire de votre projet ou de votre jeu de données.\n"
+"Il devrait toujours y avoir un début, un milieu et une fin concrets.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:21
@@ -6976,7 +6978,7 @@ msgstr ""
 #: scripts/documentation.en.txt:54
 #, no-wrap
 msgid "There are: \n"
-msgstr ""
+msgstr "Il y a :\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:62
