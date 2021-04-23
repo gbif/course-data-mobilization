@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-23 11:33\n"
+"PO-Revision-Date: 2021-04-23 13:01\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -111,7 +111,7 @@ msgstr "Prérequis"
 #. type: Plain text
 #: description.en.adoc:28
 msgid "Introduction to GBIF course"
-msgstr "Cours d'introduction au GBIF"
+msgstr "Introduction au cours du GBIF"
 
 #. type: Plain text
 #: description.en.adoc:30
@@ -2935,7 +2935,7 @@ msgstr "img/web/use-case-2-Papilio_machaon.jpeg"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:23
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, based on previous work by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé.  It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr ""
+msgstr "Ce scénario a été élaboré comme base pour les exercices pratiques du cours de mobilisation des données de biodiversité. Le concept et le contenu de l'exercice ont été développés par Alberto González-Talaván, sur la base des travaux antérieurs d'Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond et Nicolas Noé.  Il s'agit d'un scénario fictif qui n'est destiné qu'à des fins pédagogiques."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:29
@@ -2950,7 +2950,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:38
 msgid "There is currently no formal agreement between IBAN and the amateurs capturing data, to cover the ways in which the data can be used, for example.  The steering committee has some concerns that when they start publishing the data online, they will have to formalize this arrangement."
-msgstr ""
+msgstr "Il n'existe actuellement aucun accord formel entre l'IBAN et les amateurs encodant des données, comme par exemple pour couvrir la manière dont les données peuvent être utilisées. Le comité de pilotage a quelques craintes de devoir formaliser cet accord lorsqu'ils commenceront à publier les données en ligne."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:43
@@ -2970,7 +2970,7 @@ msgstr "Dans la plupart des pays, ces échantillonnages ont lieu une fois toutes
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:52
 msgid "There are quality control measures in place: every reported record is flagged \"Pending approval\".  Record status is only changed to \"Approved\" after verification by a designated taxonomic expert.  Species spotted out of their regular season or distribution area are flagged for additional verification."
-msgstr ""
+msgstr "Il y a des mesures de contrôle de la qualité en place : chaque enregistrement signalé est marqué \"En attente d'approbation\". Le statut de l'enregistrement n'est changé en « Approuvé » qu'après vérification par un expert taxonomique désigné. Les espèces repérées hors de leur saison régulière ou de leur zone de distribution sont signalées pour vérification supplémentaire."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:58
@@ -2981,30 +2981,30 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:59
 #, no-wrap
 msgid "Analogue data capture example"
-msgstr ""
+msgstr "Exemple de capture de données analogiques"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:61
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-analogue.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-analogue.png"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:68
 msgid "Some national offices use groups of volunteers to digitize the paper logs and produce digital spreadsheets.  The spreadsheets are very simple and include three datasheets.  One captures the information linked to the sampling efforts, the second the weather conditions and the third the species encountered and the number of individuals observed by the amateur."
-msgstr ""
+msgstr "Certains bureaux nationaux utilisent des groupes de bénévoles pour numériser les archives papier et produire des tableurs numériques. Les tableurs sont très simples et comprennent trois fiches de données. La première capture les informations liées aux efforts d'échantillonnage, la seconde les conditions météorologiques et la troisième les espèces rencontrées et le nombre d'individus observés par l'amateur."
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:69
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-digital-1.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-digital-1.png"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:70
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-digital-2.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-digital-2.png"
 
 #. type: Title ===
 #: use-case-lepidoptera-sampling.en.adoc:72
@@ -3015,12 +3015,12 @@ msgstr "Feuille d'exercice Lepidoptera"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "Télécharger le lien:../course-docs/UC3-DL-exercise-sheet_FR.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:110
 msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible."
-msgstr ""
+msgstr "Attribuer des rôles pour maximiser l'efficacité du traitement et de la transformation des données, afin de produire des données de la meilleure qualité aussi efficacement que possible."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:129
@@ -3082,7 +3082,7 @@ msgstr "Le cas pratique III sera noté."
 #: use-case-birds-from-literature.en.adoc:11
 #, no-wrap
 msgid "*Data Mobilization Project from Literature “Birds fallen at Danish Lighthouses, 1883–1939”*\n"
-msgstr ""
+msgstr "*Projet de mobilisation de données de littérature « Oiseaux découverts dans les phares danois, 1883-1939 »*\n"
 
 #. type: Block title
 #: use-case-birds-from-literature.en.adoc:13
@@ -3124,7 +3124,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:37
 msgid "The IT services required are provided by the Technology Unit of the University of Copenhagen, as for all museum digital projects."
-msgstr ""
+msgstr "Les services informatiques requis sont fournis par l'Unité Technologique de l'Université de Copenhague, comme pour tous les projets numériques de musées."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:39
@@ -3149,18 +3149,18 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:49
 msgid "The DanBIF Node Manager will ensure that the institution is adequately registered in GBIF as a data publisher and that the deputy director and the ornithology curator have the proper credentials and access to DanBIF’s IPT instance to upload and publish the data."
-msgstr ""
+msgstr "Le gestionnaire du Nœud DanBIF s’assurera que l’institution est correctement enregistrée dans GBIF en tant que publieur de données et que le directeur adjoint et le conservateur de l’ornithologie disposent des références appropriées et d’un accès à l’instance IPT de DanBIF pour télécharger et publier les données."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:50
 #, no-wrap
 msgid "Original data collection"
-msgstr ""
+msgstr "Collection de données originale"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:57
 msgid "In the period 1883-1939, there were 45 lighthouses and lightships functioning in Denmark.  These lighthouses were used by several species of birds during the nights of the bird migration period from the years 1886 through 1939.  The presence and activities of these birds were recorded, especially by the keepers of these lighthouses who also collected specimens that were sent to the museum in Copenhagen.  These birds were carefully preserved and catalogued by collection managers at the museum and the specimens can still be found there today.  Observations of weather conditions during the nights when birds were observed by the keepers were also documented."
-msgstr ""
+msgstr "Dans la période 1883-1939, 45 phares et bateaux-phares étaient actifs au Danemark. Ces phares ont été utilisés par plusieurs espèces d'oiseaux durant la période de migration des oiseaux entre 1886 et 1939. La présence et les activités de ces oiseaux ont été enregistrées, surtout par les gardiens de ces phares qui ont aussi recueilli des spécimens qui ont été envoyés au musée à Copenhague. Ces oiseaux ont été soigneusement préservés et catalogués par les responsables de collections du musée et les spécimens y sont encore présents aujourd’hui. Des observations sur les conditions météorologiques durant les nuits où les oiseaux ont été observés par les gardiens ont également été documentées."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:58
@@ -3177,7 +3177,7 @@ msgstr "Ceci est un exemple de description d'une série d'observations d'espèce
 #: use-case-birds-from-literature.en.adoc:62
 #, no-wrap
 msgid "img/web/use-case-3-analogue.png"
-msgstr ""
+msgstr "img/web/use-case-3-analogue.png"
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:64
@@ -3194,7 +3194,7 @@ msgstr "Ceci est un exemple de la sortie numérisée et traduite à partir de l'
 #: use-case-birds-from-literature.en.adoc:68
 #, no-wrap
 msgid "img/web/use-case-3-scanned.png"
-msgstr ""
+msgstr "img/web/use-case-3-scanned.png"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:74
@@ -3260,12 +3260,12 @@ msgstr "Télécharger le lien:../course-docs/UC3-DL-exercise-sheet_FR.docx[fiche
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
 msgid "The team needs to develop a sustainable workflow to digitize literature resources, extract any valuable biodiversity information on them and publish it online via GBIF.  They need to develop a plan that can be sustained in the future once the funding from the national library association is over."
-msgstr ""
+msgstr "L’équipe doit développer un flux de travail durable pour numériser les ressources littéraires, extraire toute information précieuse sur la biodiversité et la publier en ligne via GBIF. Ils doivent élaborer un plan qui pourra être maintenu à l'avenir une fois que le financement de l'association nationale des bibliothèques sera terminé."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:98
 msgid "The <<scenario-4,scenario>> section of this use case includes a brief description of the workflow conceived by the deputy director.  Based on the workflow and the accompanying text complete the following:"
-msgstr ""
+msgstr "La section <<scenario-4,scenario>> de ce cas d'utilisation comprend une brève description du flux de travail conçu par le directeur adjoint.  Sur la base du flux de travail et du texte d'accompagnement, complétez ce qui suit :"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:100
@@ -3275,12 +3275,12 @@ msgstr "Identifier les différentes parties prenantes participant à ce projet"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:101
 msgid "Identify their affiliation and assign each of them to a stakeholder group"
-msgstr ""
+msgstr "Identifiez leur affiliation et attribuez chacun d'eux à un groupe d'intervenants"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:102
 msgid "Identify the roles associated to them and assign the tasks for which they are currently responsible"
-msgstr ""
+msgstr "Identifier les rôles qui leur sont associés et assigner les tâches pour lesquelles ils sont actuellement responsables"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:103
@@ -3290,12 +3290,12 @@ msgstr "Effectuer une analyse critique du flux de travail, identifier les risque
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:111
 msgid "The scans and character recognition (OCR) of the books have been completed.  Occurrence data must now be extracted from those sources and compiled in a spreadsheet format."
-msgstr ""
+msgstr "Les scans et la reconnaissance de caractères (OCR) des livres sont terminés.  Les données sur les occurrences doivent maintenant être extraites de ces sources et compilées dans un format de feuille de calcul."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:113
 msgid "The original data was in German and, to make it more widely usable when published online, the project manager would like to make it available in English."
-msgstr ""
+msgstr "Les données originales étaient en allemand et, afin de les rendre plus largement utilisables lors de leur publication en ligne, le responsable du projet souhaite les rendre disponibles en anglais."
 
 #. Do not translate this block
 #. type: delimited block *
@@ -3327,12 +3327,12 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:132
 msgid "Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences.  The occurrences will need unique numbers assigned to them."
-msgstr ""
+msgstr "Jouez le rôle d'un volontaire chargé de transformer le texte traduit en occurrences individuelles dans une feuille de calcul.  Des numéros uniques devront être attribués à ces occurrences."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:133
 msgid "Create a spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken."
-msgstr ""
+msgstr "Créez une feuille de calcul en utilisant les champs de données énumérés dans la <<birds-digital-data-description>> en utilisant les données trouvées dans l'exemple ci-dessus et enregistrées par : Chr. Fr. Lütken."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:136
@@ -3342,12 +3342,12 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:143
 msgid "Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society.  Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset."
-msgstr ""
+msgstr "Les données ont maintenant été compilées dans un format de feuille de calcul par les bénévoles de la Société ornithologique de Copenhague.  En tant que conservateur de l'ornithologie au département des oiseaux, vous êtes responsable de la qualité des données du jeu de données."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:149
 msgid "Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography.  Since all the observations were made in Denmark, continent and country can easily be added.  Additionally, only the scientific name was provided.  Higher taxonomy can be derived utilizing software tools such as OpenRefine.  You are also aware that there are typographic errors that were made by the digitizers."
-msgstr ""
+msgstr "Grâce au géoréférencement rétrospectif, des coordonnées ont été ajoutées au jeu de données ainsi que la localité, mais aucune autre géographie à échelle supérieure. Étant donné que toutes les observations ont été faites au Danemark, le continent et le pays peuvent facilement être ajoutés. De plus, seul le nom scientifique a été fourni. Une taxonomie supérieure peut être dérivée en utilisant des outils logiciels tels qu'OpenRefine. Vous savez aussi qu'il y a des erreurs typographiques qui ont été faites par les digitaliseurs."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
@@ -3357,7 +3357,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
 msgid "Identify and correct any invalid years."
-msgstr ""
+msgstr "Identifier et corriger toutes les années non valides."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:153
@@ -3372,7 +3372,7 @@ msgstr "Vérifier que les coordonnées sont correctes pour les deux localités d
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:157
 msgid "Add any data for missing elements that can be derived using the available data"
-msgstr ""
+msgstr "Ajouter des données pour les éléments manquants qui peuvent être dérivés en utilisant les données disponibles"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:158
@@ -3387,7 +3387,7 @@ msgstr "jeu de données ne doit contenir que des années 1883-1939"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:169
 msgid "For this exercise, you will take the role of the person responsible for publishing the cleaned data online via the GBIF network.  You have been supplied with a multimedia file and an identification history file that should be published along with the observations.  The staff member in charge of data quality has provided cleaned datasets for you to publish."
-msgstr ""
+msgstr "Pour cet exercice, vous assumerez le rôle de la personne responsable de la publication des données nettoyées en ligne via le réseau GBIF. Vous avez reçu un fichier multimédia et un fichier d’historique d’identification qui devrait être publié en même temps que les observations. Le membre du personnel responsable de la qualité des données vous a fourni des jeux de données nettoyés pour que vous puissiez les publier."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:171
@@ -3398,12 +3398,12 @@ msgstr ""
 #: assignments.en.adoc:1
 #, no-wrap
 msgid "Final assignments"
-msgstr ""
+msgstr "Tâches finales"
 
 #. type: Plain text
 #: assignments.en.adoc:5
 msgid "For your final activities, you will complete and submit Use Case II and Use Case III for evaluation."
-msgstr ""
+msgstr "Pour vos activités finales, vous devrez compléter et soumettre le Cas Pratique II et le Cas Pratique III pour évaluation."
 
 #. type: Title ===
 #: assignments.en.adoc:6
@@ -3440,7 +3440,7 @@ msgstr "jeu de données nettoyé/standardisé (MS Excel, csv, txt ou similaire e
 #: assignments.en.adoc:16
 #, no-wrap
 msgid "USE CASE III"
-msgstr ""
+msgstr "CAS PRATIQUE III"
 
 #. type: Plain text
 #: assignments.en.adoc:18
@@ -3478,18 +3478,18 @@ msgstr ""
 #: course-evaluation.en.adoc:1
 #, no-wrap
 msgid "Course evaluation"
-msgstr ""
+msgstr "Évaluation du cours"
 
 #. type: Plain text
 #: course-evaluation.en.adoc:5
 msgid "Complete the course evaluation"
-msgstr ""
+msgstr "Complétez l'évaluation du cours"
 
 #. type: Title ==
 #: keydocs.en.adoc:2
 #, no-wrap
 msgid "Key documentation"
-msgstr ""
+msgstr "Documents clés"
 
 #. type: Plain text
 #: keydocs.en.adoc:7
@@ -3955,7 +3955,7 @@ msgstr "Glossaire"
 #: glossary.en.adoc:7
 #, no-wrap
 msgid "[[ALA]]ALA"
-msgstr ""
+msgstr "[[ALA]]ALA"
 
 #. type: Plain text
 #: glossary.en.adoc:9
