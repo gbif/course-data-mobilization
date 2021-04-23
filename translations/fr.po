@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-23 18:55\n"
+"PO-Revision-Date: 2021-04-23 19:52\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3030,42 +3030,42 @@ msgstr "Imaginez que vous êtes un des bénévoles à numériser les archives pa
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:131
 msgid "Download logs 1 and 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
-msgstr ""
+msgstr "Télécharger les journaux 1 et 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:132
 msgid "What data structure would you use to reflect the data in these logs?"
-msgstr ""
+msgstr "Quelle structure de données utiliseriez-vous pour refléter les données dans ces journaux ?"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:133
 msgid "Create a spreadsheet using this structure and the data from the logs."
-msgstr ""
+msgstr "Créez une feuille de calcul en utilisant cette structure et les données des journaux."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:142
 msgid "Taking the role of one of the volunteers with advanced computer skills, imagine you have been assigned the responsibility for data quality issues.  Your main task is to reduce the amount of data that is currently discarded (around a 15%) before processing due to errors and inconsistencies.  You have received a dataset as the raw product of the digitization effort."
-msgstr ""
+msgstr "En assumant le rôle de l'un des bénévoles possédant des compétences informatiques avancées, imaginez qu’il vous a été assigné la responsabilité des questions de qualité des données. Votre tâche principale est de réduire la quantité de données actuellement rejetées (environ 15 %) avant traitement en raison d'erreurs et d'incohérences. Vous avez reçu un jeu de données en tant que produit brut de l'effort de numérisation."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:144
 msgid "Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
-msgstr ""
+msgstr "Télécharger link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:146
 msgid "Identify possible ways to correct those issues, and perform those corrections for as many of the errors present as you can."
-msgstr ""
+msgstr "Identifiez différentes façons de corriger ces problèmes, et effectuez ces corrections pour autant d'erreurs présentes que possible."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:155
 msgid "For this exercise, you will take the role of the taxonomic expert collaborating with IBAN at their headquarters.  Some of your previous responsibilities (writing the annual report, and producing the base distribution maps) have been handed over to the volunteers, and you have now been given a new responsibility: publishing the cleaned data online through the GBIF network.  The volunteer in charge of data quality has provided a dataset to be published."
-msgstr ""
+msgstr "Pour cet exercice, vous prendrez le rôle de l’expert taxonomique qui collabore avec l’IBAN à son siège. Certaines de vos responsabilités précédentes (rédaction du rapport annuel, et production des cartes de distribution de base) ont été transmises aux volontaires, et une nouvelle responsabilité vous a été confiée : publier les données nettoyées en ligne via le réseau GBIF. Le volontaire responsable de la qualité des données a fourni un jeu de données à publier."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:157
 msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
-msgstr ""
+msgstr "Télécharger link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
 
 #. type: Title ==
 #: use-case-birds-from-literature.en.adoc:3
@@ -3088,13 +3088,13 @@ msgstr "*Projet de mobilisation de données de littérature « Oiseaux découver
 #: use-case-birds-from-literature.en.adoc:13
 #, no-wrap
 msgid "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG[High resolution scanner] for book digitization project by Heiko Hornig (licensed under https://creativecommons.org/licenses/by-sa/2.5/deed.en[CC BY-SA 2.5])"
-msgstr ""
+msgstr "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG[Scanner haute résolution] pour le projet de numérisation de livres par Heiko Hornig (sous licence https://creativecommons.org/licenses/by-sa/2.5/deed.en[CC BY-SA 2.5])"
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:14
 #, no-wrap
 msgid "img/web/use-case-3-scanner.png"
-msgstr ""
+msgstr "img/web/use-case-3-scanner.png"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:18
@@ -3114,12 +3114,12 @@ msgstr "Le Musée d'Histoire Naturelle du Danemark (NHM-DK) est un centre de rec
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:31
 msgid "After a short consultation with their regular partners, NHM-DK received a suggestion from the Head of the management office of the Nordjylland National Park.  They would like the contents of a particular classic literature compilation digitized for a project they are running: ‘Birds at the Danish Lighthouses, 1883–1939’ (In Danish, ‘Fuglene ved de danske Fyr, 1883–1939’).  They want to use any occurrence data recorded in those books from two lighthouses (Lodbjerg Fyr and Hanstholm Fyr) for an on-site exhibition project."
-msgstr ""
+msgstr "Après une courte consultation avec leurs partenaires réguliers, NHM-DK a reçu une suggestion du chef du bureau de gestion du Parc national du Nordjylland. Ils aimeraient que le contenu d'une compilation littéraire classique particulière soit numérisé pour un projet qu'ils exécutent : \"Oiseaux aux phares danois, 1883-1939 (En danois, « Fuglene ved de danske Fyr, 1883-1939 »). Ils veulent utiliser toutes les données d'occurrence enregistrées dans ces livres à partir de deux phares (Lodbjerg Fyr et Hanstholm Fyr) pour un projet d'exposition sur place."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:35
 msgid "The NHM-DK has started discussions with their national GBIF node, DanBIF, about the mobilization of the information contained in these volumes, namely to preserve their contents for the future and provide online access for everyone.  With the involvement of DanBIF, there is intent to publish and register the resulting extracted data with GBIF.  As GBIF requires a license be applied with all published data, the museum has decided to publish the data with a Creative Commons license allowing use of data with attribution (CC-BY)."
-msgstr ""
+msgstr "Le NHM-DK a entamé des discussions avec leur nœud national GBIF, DanBIF, au sujet de la mobilisation des informations contenues dans ces volumes, à savoir préserver leur contenu pour le futur et fournir un accès en ligne à tout le monde. Avec la participation de DanBIF, il y a l'intention de publier et d'enregistrer les données extraites avec le GBIF. Comme le GBIF nécessite une licence pour toutes les données publiées, le musée a décidé de publier les données avec une licence Creative Commons permettant l'utilisation des données avec attribution (CC-BY)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:37
