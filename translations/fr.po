@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-23 10:17\n"
+"PO-Revision-Date: 2021-04-23 11:33\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2955,17 +2955,17 @@ msgstr ""
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:43
 msgid "The recommended protocol —Pollard walks— is based on transects that range between 300 and 600 m in length, divided into 50 m sections.  Each transect should cover a single habitat type."
-msgstr ""
+msgstr "Le protocole recommandé – les marches Pollard – est basé sur des transects de 300 à 600 m de longueur, divisées en sections de 50 m. Chaque transect doit couvrir un seul type d'habitat."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:46
 msgid "In each visit, transect-walkers have to count all species of Lepidoptera that can be seen within 5 m of the transect line.  Special behaviours (egg laying or nectaring), as well as developmental stage (e.g., larvae or eggs), should be recorded as well."
-msgstr ""
+msgstr "Lors de chaque visite, les opérateurs doivent compter toutes les espèces de lépidoptères qui peuvent être observées à moins de 5 m du transect. Les comportements particuliers (ponte d'œufs ou butinage), ainsi que le stade de développement (par exemple, des larves ou des œufs), devraient également être enregistrés."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:48
 msgid "For most countries, these sampling efforts happen once every two weeks from the beginning of October to the end of June."
-msgstr ""
+msgstr "Dans la plupart des pays, ces échantillonnages ont lieu une fois toutes les deux semaines, de début octobre à fin juin."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:52
@@ -3071,12 +3071,12 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:3
 #, no-wrap
 msgid "Use Case III - Birds from literature"
-msgstr ""
+msgstr "Cas pratique III - Oiseaux de la littérature"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:8
 msgid "Use Case III will be graded."
-msgstr ""
+msgstr "Le cas pratique III sera noté."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:11
@@ -3183,12 +3183,12 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:64
 #, no-wrap
 msgid "Scanned and translated data description"
-msgstr ""
+msgstr "Description des données analysées et traduites"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:67
 msgid "This is an example of the scanned and translated output from the analogue example above."
-msgstr ""
+msgstr "Ceci est un exemple de la sortie numérisée et traduite à partir de l'exemple analogique ci-dessus."
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:68
@@ -3204,17 +3204,17 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:76
 msgid "Scientific name as appearing in the book"
-msgstr ""
+msgstr "Nom scientifique tel qu'il apparaît dans le livre"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:77
 msgid "Common name(s) in Danish as appearing in the book"
-msgstr ""
+msgstr "Nom(s) commun(s) en danois comme apparaissant dans le livre"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:78
 msgid "Locality"
-msgstr ""
+msgstr "Localité"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:79
@@ -3250,7 +3250,7 @@ msgstr "URL de la page numérisée du livre dont l'occurrence provient"
 #: use-case-birds-from-literature.en.adoc:85
 #, no-wrap
 msgid "Birds from literature exercise sheet"
-msgstr ""
+msgstr "Feuille d'exercices sur les oiseaux de la littérature"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
@@ -3270,7 +3270,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:100
 msgid "Identify the different stakeholders participating in this project"
-msgstr ""
+msgstr "Identifier les différentes parties prenantes participant à ce projet"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:101
@@ -3285,7 +3285,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:103
 msgid "Perform a critical analysis of the workflow, identify potential risks and gaps, and suggest ways to improve the workflow, maximize the efficiency of the digitization project and produce data of the highest quality possible."
-msgstr ""
+msgstr "Effectuer une analyse critique du flux de travail, identifier les risques et les lacunes potentiels, et proposer des moyens d'améliorer le flux de travail, de maximiser l'efficacité du projet de numérisation et de produire des données de la plus haute qualité possible."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:111
@@ -3362,12 +3362,12 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:153
 msgid "Verify and correct taxonomy."
-msgstr ""
+msgstr "Vérifier et corriger la taxonomie."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:156
 msgid "Verify coordinates are correct for the two given localities.  Correct any that are not.  Coordinates should be in decimal format."
-msgstr ""
+msgstr "Vérifier que les coordonnées sont correctes pour les deux localités données. Corrigez celles qui ne le sont pas. Les coordonnées doivent être au format décimal."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:157
@@ -3377,12 +3377,12 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:158
 msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
-msgstr ""
+msgstr "N'oubliez pas de conserver les informations originales fournies et de documenter vos modifications et assomptions au niveau des enregistrements individuels et des métadonnées."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:161
 msgid "dataset should contain only years 1883-1939"
-msgstr ""
+msgstr "jeu de données ne doit contenir que des années 1883-1939"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:169
@@ -3409,7 +3409,7 @@ msgstr ""
 #: assignments.en.adoc:6
 #, no-wrap
 msgid "USE CASE II"
-msgstr ""
+msgstr "CAS PRATIQUE II"
 
 #. type: Plain text
 #: assignments.en.adoc:9
@@ -3419,7 +3419,7 @@ msgstr ""
 #. type: Plain text
 #: assignments.en.adoc:11 assignments.en.adoc:20
 msgid "Required files for submission:"
-msgstr ""
+msgstr "Fichiers requis pour la soumission:"
 
 #. type: Plain text
 #: assignments.en.adoc:13 assignments.en.adoc:22
@@ -3429,12 +3429,12 @@ msgstr ""
 #. type: Plain text
 #: assignments.en.adoc:14 assignments.en.adoc:23
 msgid "data capture spreadsheet (MS Excel, csv, txt or similar is acceptable)"
-msgstr ""
+msgstr "feuille de calcul de capture de données (MS Excel, csv, txt ou similaire est acceptable)"
 
 #. type: Plain text
 #: assignments.en.adoc:15 assignments.en.adoc:24
 msgid "cleaned/standardized dataset (MS Excel, csv, txt or similar is acceptable)"
-msgstr ""
+msgstr "jeu de données nettoyé/standardisé (MS Excel, csv, txt ou similaire est acceptable)"
 
 #. type: Title ===
 #: assignments.en.adoc:16
@@ -3834,7 +3834,7 @@ msgstr ""
 #: keydocs.en.adoc:112
 #, no-wrap
 msgid "Planning/Collaboration"
-msgstr ""
+msgstr "Planification/Collaboration"
 
 #. type: Plain text
 #: keydocs.en.adoc:115
@@ -3912,7 +3912,7 @@ msgstr ""
 #: keydocs.en.adoc:137
 #, no-wrap
 msgid "Taxonomy"
-msgstr ""
+msgstr "Taxonomie"
 
 #. type: Plain text
 #: keydocs.en.adoc:140
@@ -3948,7 +3948,7 @@ msgstr ""
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr ""
+msgstr "Glossaire"
 
 #. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
@@ -3966,7 +3966,7 @@ msgstr ""
 #: glossary.en.adoc:10
 #, no-wrap
 msgid "[[API]]API"
-msgstr ""
+msgstr "[[API]]API"
 
 #. type: Plain text
 #: glossary.en.adoc:12
@@ -3982,18 +3982,18 @@ msgstr ""
 #. type: Plain text
 #: glossary.en.adoc:15
 msgid "Biodiversity Information for Development.  An EU funded project co-ordinated by GBIF whose aim is to increase data mobilization capacity in the Africa, Caribbean and Pacific regions."
-msgstr ""
+msgstr "Information sur la biodiversité pour le développement. Un projet financé par l'UE et coordonné par le GBIF, dont le but est d'accroître la capacité de mobilisation des données dans les régions d'Afrique, des Caraïbes et du Pacifique."
 
 #. type: Labeled list
 #: glossary.en.adoc:16
 #, no-wrap
 msgid "[[BIFA]]BIFA"
-msgstr ""
+msgstr "[[BIFA]]BIFA"
 
 #. type: Plain text
 #: glossary.en.adoc:17
 msgid "Biodiversity Fund for Asia."
-msgstr ""
+msgstr "Fonds pour la biodiversité en Asie."
 
 #. type: Labeled list
 #: glossary.en.adoc:18
@@ -4074,13 +4074,13 @@ msgstr ""
 #. type: Plain text
 #: glossary.en.adoc:43
 msgid "Globally Unique IDentifier"
-msgstr ""
+msgstr "Identificateur Unique Global"
 
 #. type: Labeled list
 #: glossary.en.adoc:44
 #, no-wrap
 msgid "[[IPT]]IPT"
-msgstr ""
+msgstr "[[IPT]]IPT"
 
 #. type: Plain text
 #: glossary.en.adoc:48
@@ -4173,12 +4173,12 @@ msgstr ""
 #: solutions.en.adoc:2
 #, no-wrap
 msgid "Appendix: Solutions"
-msgstr ""
+msgstr "Annexe : Solutions"
 
 #. type: Plain text
 #: solutions.en.adoc:6
 msgid "This appendix contains the answers and additional information to all of the review quizzes.  Additionally, this section contains a suggested solution to USE CASE I."
-msgstr ""
+msgstr "Cette annexe contient les réponses et des informations complémentaires à tous les questionnaires de révision. Cette section contient également une solution suggérée pour le CAS PRATIQUE I."
 
 #. type: Title ===
 #: solutions.en.adoc:7
@@ -4190,28 +4190,28 @@ msgstr ""
 #: solutions.en.adoc:10
 #, no-wrap
 msgid "*For the given statement, input the correct term (database, database language, database program)*\n"
-msgstr ""
+msgstr "*Pour l'énoncé donné, entrez le terme correct (base de données, langage de base de données, programme de base de données)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:13
 msgid "combines and presents functions and features for manipulating data, together in a unified interface + *database program* +"
-msgstr ""
+msgstr "regroupe et propose des fonctions et des caractéristiques permettant de manipuler des données, le tout dans une interface unifiée + *programme de base de données* +"
 
 #. type: Plain text
 #: solutions.en.adoc:15
 msgid "structured and organized collection of data and/or information held on a computer + *database* +"
-msgstr ""
+msgstr "collection structurée et organisée de données et/ou d'informations conservées sur un ordinateur + *base de données* +"
 
 #. type: Plain text
 #: solutions.en.adoc:17
 msgid "the way by which a human communicates with a computer + *database language* +"
-msgstr ""
+msgstr "le moyen par lequel un humain communique avec un ordinateur + *langage de base de données* +"
 
 #. type: Plain text
 #: solutions.en.adoc:19
 #, no-wrap
 msgid "*If you open a data file and see the following, what would you suspect is the issue?*\n"
-msgstr ""
+msgstr "*Si vous ouvrez un fichier de données et voyez ce qui suit, que soupçonnez-vous d'être le problème* \n"
 
 #. type: Plain text
 #: solutions.en.adoc:23
@@ -4369,22 +4369,22 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:82
 msgid "High accuracy, low precision + *C*"
-msgstr ""
+msgstr "Haute exactitude, faible précision + *C*"
 
 #. type: Plain text
 #: solutions.en.adoc:84
 msgid "Low accuracy, high precision + *B*"
-msgstr ""
+msgstr "Faible exactitude, haute précision + *B*"
 
 #. type: Plain text
 #: solutions.en.adoc:86
 msgid "High accuracy, high precision + *D*"
-msgstr ""
+msgstr "Haute exactitude, haute précision + *D*"
 
 #. type: Plain text
 #: solutions.en.adoc:88
 msgid "Low accuracy, low precision + *A*"
-msgstr ""
+msgstr "Faible exactitude, faible précision + *A*"
 
 #. type: Plain text
 #: solutions.en.adoc:90
@@ -4736,7 +4736,7 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:16
 msgid "Alberto González-Talaván*"
-msgstr ""
+msgstr "Alberto González-Talaván*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:17
@@ -4851,7 +4851,7 @@ msgstr ""
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Suggestion de citation"
 
 #. type: Plain text
 #: colophon.en.adoc:6
@@ -5158,7 +5158,7 @@ msgstr ""
 #: scripts/data-capture.en.txt:90
 #, no-wrap
 msgid "Keep in mind that descriptive information are often incomplete due to a whole array of factors.\n"
-msgstr ""
+msgstr "Gardez à l'esprit que les informations descriptives sont souvent incomplètes en raison d'une panoplie de facteurs.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:92
@@ -5247,25 +5247,25 @@ msgstr ""
 #: scripts/data-management.en.txt:13
 #, no-wrap
 msgid "What is data cleaning?\n"
-msgstr ""
+msgstr "Qu'est-ce que le nettoyage des données ?\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:15
 #, no-wrap
 msgid "Data Cleaning was defined by Arthur Chapman in 2005 as:\n"
-msgstr ""
+msgstr "Le nettoyage des données a été défini par Arthur Chapman en 2005 comme :\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:17
 #, no-wrap
 msgid "“A process used to determine inaccurate, incomplete, or unreasonable data and then improving the quality through correction of detected errors and omissions.”\n"
-msgstr ""
+msgstr "\"Un processus utilisé pour déterminer des données inexactes, incomplètes ou déraisonnables, puis en améliorer la qualité par la correction des erreurs et des omissions détectées.\"\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:19
 #, no-wrap
 msgid "The process of cleaning might include checks on formatting, completeness and reasonableness, the identification of outliers, review by content experts, and validation against accepted standards, rules, and conventions.\n"
-msgstr ""
+msgstr "Le processus de nettoyage peut inclure des vérifications sur le formatage, l'exhaustivité et le caractère raisonnable, l'identification des aberrations, l'examen par des experts sur le contenu et la validation par rapport aux standards, règles et conventions acceptées.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:21 scripts/data-types.en.txt:17
@@ -5275,7 +5275,7 @@ msgstr ""
 #: scripts/structures.en.txt:16
 #, no-wrap
 msgid "// Slide 4\n"
-msgstr ""
+msgstr "// Diapositive 4\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:23
@@ -5343,13 +5343,13 @@ msgstr ""
 #: scripts/data-management.en.txt:49
 #, no-wrap
 msgid "// Slide 7: Plan and Organize\n"
-msgstr ""
+msgstr "// Diapositive 7: Planifier et organiser\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:51
 #, no-wrap
 msgid "The first two principles in data cleaning are planning and organization.\n"
-msgstr ""
+msgstr "Les deux premiers principes du nettoyage des données sont la planification et l'organisation.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:56
