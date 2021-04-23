@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-23 09:14\n"
+"PO-Revision-Date: 2021-04-23 10:17\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2637,18 +2637,18 @@ msgstr "L'école doctorale de l'Université d'Hawaï à Maui (UHM) organise un c
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:47
 msgid "Students from each high school organized a series of day-long community surveys in their local neighbourhoods.  Participants, guided by local ISC Early Detection Technicians and Student Mentors, visited various locations where they were given photo guides and assigned a route to follow during collection events.  Along each route, they were tasked with identifying the target species and taking 1-3 photos of them using GPS-enabled mobile phones."
-msgstr ""
+msgstr "Des élèves de chaque lycée ont organisé une série d'enquêtes sur une journée dans leur quartier. Les participants, guidés par les techniciens locaux de l'ISC et les mentors des étudiants, ont visité différents endroits où des guides photo leur ont été donnés et où un itinéraire à suivre pour la collecte de données leur a été attribué. Le long de chaque itinéraire, ils ont été chargés d'identifier les espèces cibles et de prendre 1 à 3 photos à l'aide de téléphones portables équipés d'un GPS."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:51
 msgid "Details, describing every observation of the 21 invasive species of interest, were recorded using a digital data collection form during each community collection event.  Participants uploaded the images captured on mobile phones and were encouraged to click their locations using a Google map, embedded in the form, to assign latitude and longitude to each observation.  The form’s design was based on the HISC pest reporting form."
-msgstr ""
+msgstr "Les informations, décrivant les observations de chacune des 21 espèces invasives ciblées, ont été enregistrés à l’aide d’un formulaire numérique de collecte de données au cours de chaque collecte. Les participants ont mis en ligne les images capturées via leurs téléphones portables et ont été encouragés à cliquer sur leur localisation en utilisant une carte Google, incorporée dans le formulaire, pour attribuer une latitude et une longitude à chaque observation. La conception du formulaire était basée sur le formulaire de déclaration des ravageurs du HISC."
 
 #. type: Target for macro image
 #: use-case-invasive-species.en.adoc:52
 #, no-wrap
 msgid "img/web/use-case-2-invasives-data-collection.png"
-msgstr ""
+msgstr "img/web/use-case-2-invasives-data-collection.png"
 
 #. type: Title ====
 #: use-case-invasive-species.en.adoc:54
@@ -2656,23 +2656,23 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:71
 #, no-wrap
 msgid "Digital data description"
-msgstr ""
+msgstr "Description numérique des données"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:59
 msgid "A database, created and hosted by the Computing Department at UHM, holds the imagery and data from the online form, but these data are not accessible publicly.  Data were exported as comma separated value (.csv) files and given to the four UHM graduate students for taxonomic validation using the images and descriptions submitted.  The BIISC GIS Analyst used the Google Maps coordinates and image EXIF data to check observations for quality and to add any missing georeferences.  Student mentors renamed all image files to match the observation number for cross referencing later at BIISC."
-msgstr ""
+msgstr "Une base de données, créée et hébergée par le service informatique de UHM, contient les images et les données du formulaire en ligne, mais ces données ne sont pas accessibles publiquement. Les données ont été exportées en tant que fichiers aux valeurs séparées par des virgules (.csv), et envoyées aux quatre étudiants diplômés de l'UHM pour validation taxonomique à l'aide des images et des descriptions soumises. L'analyste SIG du BIISC a utilisé les coordonnées de Google Maps et les données d'image EXIF pour vérifier la qualité des observations et ajouter les coordonnées géographiques manquantes. Les mentors étudiants ont renommé tous les fichiers image pour qu'ils correspondent au numéro d'observation, afin de faciliter le référencement croisé ultérieur par le BIISC."
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:60
 #, no-wrap
 msgid "Invasives exercise sheet"
-msgstr ""
+msgstr "Feuille d'exercice des espèces envahissantes"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
 msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "Télécharger le lien:../course-docs/UC3-DL-exercise-sheet_FR.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:64
@@ -2686,7 +2686,7 @@ msgstr "Exercice 1"
 #: use-case-invasive-species.en.adoc:71
 #: use-case-lepidoptera-sampling.en.adoc:83
 msgid "You are the local ISC Manager and, because of the success of the lesson plans and community surveys, 10 more schools on your island would like to set up their own projects the following year.  You would like to accommodate them, but your ISC funding will expire at the end of this year.  HISC has indicated that they will look favourably on a small grant application to expand your programs in the following year and BIISC has offered support."
-msgstr ""
+msgstr "Vous êtes le gestionnaire local de l'ISC et, en raison du succès des cours et des enquêtes auprès du grand public, 10 écoles de plus sur votre île aimeraient mettre en place leurs propres projets l'année suivante. Vous aimeriez les y accompagner, mais le financement de votre ISC expirera à la fin de cette année. Le HISC a indiqué qu’il se montrera favorable à une demande de subvention réduite pour étendre vos programmes au cours de l’année suivante, et le BIISC a offert de l’aide."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:75
@@ -2699,7 +2699,7 @@ msgstr "*Analyser les implications financières d'augementer le nombre d'écoles
 #: use-case-invasive-species.en.adoc:78
 #: use-case-lepidoptera-sampling.en.adoc:90
 msgid "Evaluate the following options to expand the number of participating schools.  You can only select TWO of these options, so you need to choose wisely."
-msgstr ""
+msgstr "Évaluez les options suivantes pour augmenter le nombre d'écoles participantes. Vous ne pouvez sélectionner que DEUX de ces options, donc vous devez choisir judicieusement."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:79 use-case-invasive-species.en.adoc:99
@@ -2707,7 +2707,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:111
 #: use-case-birds-from-literature.en.adoc:104
 msgid "Use the exercise sheet to provide your answers."
-msgstr ""
+msgstr "Utilisez le fichier d'exercices pour fournir vos réponses."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:81
@@ -2720,37 +2720,37 @@ msgstr "*Options*\n"
 #: use-case-invasive-species.en.adoc:83
 #: use-case-lepidoptera-sampling.en.adoc:95
 msgid "Pay extra summer interns to work at the local ISC to coordinate surveys ."
-msgstr ""
+msgstr "Payer des stagiaires d'été supplémentaires pour travailler au comité ISC local afin de coordonner les enquêtes ."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:84
 #: use-case-lepidoptera-sampling.en.adoc:96
 msgid "Offer financial support to BIISC to set up websites for each new school."
-msgstr ""
+msgstr "Offrir un soutien financier au BIISC pour mettre en place des sites Web pour chaque nouvelle école."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:86
 #: use-case-lepidoptera-sampling.en.adoc:98
 msgid "Offer financial compensation to the graduate students.  You will not be able to pay all four of them the equivalent of a regular salary, but could cover the costs of part time positions for two of them."
-msgstr ""
+msgstr "Offrir une rémunération financière aux étudiants diplômés. Vous ne serez pas en mesure de leur verser à tous les quatre l'équivalent d'un salaire régulier, mais pourrez couvrir les coûts de postes à temps partiel pour deux d'entre eux."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:88
 #: use-case-lepidoptera-sampling.en.adoc:100
 msgid "Contract a software company to build a database that can automatically ingest data directly from the online form.  The system will include an admin interface to allow data manipulation and csv exports."
-msgstr ""
+msgstr "Etablir un contrat avec une société d'informatique pour construire une base de données pouvant ingérer les données automatiquement à partir du formulaire en ligne. Le système inclura une interface d'administration pour permettre la manipulation de données et les exportations de fichiers csv."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:89
 #: use-case-lepidoptera-sampling.en.adoc:101
 msgid "Fund four public outreach activities (e.g., a BioBlitz) to promote awareness in the communities and increase volunteer participation."
-msgstr ""
+msgstr "Financer quatre activités de sensibilisation du public (par exemple un inventaire éclair ou BioBlitz) pour promouvoir la sensibilisation du grand public et accroître la participation des bénévoles."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:90
 #: use-case-lepidoptera-sampling.en.adoc:102
 msgid "Prepare and carry out a reusable training a course for the teachers at the schools to teach them how to prepare data for submission to BIISC."
-msgstr ""
+msgstr "Préparer et effectuer une formation réutilisable pour les enseignants des écoles afin de leur enseigner comment préparer les données à soumettre au BIISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:94
@@ -2763,12 +2763,12 @@ msgstr "*Assigner des rôles*\n"
 #: use-case-invasive-species.en.adoc:96
 #: use-case-lepidoptera-sampling.en.adoc:108
 msgid "The new project has the following people available for data processing and mobilization."
-msgstr ""
+msgstr "Les personnes suivantes sont disponibles dans le nouveau projet pour le traitement et la mobilisation des données."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:98
 msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible?"
-msgstr ""
+msgstr "Attribuer des rôles pour maximiser l'efficacité du traitement et de la transformation des données, afin de produire des données de la meilleure qualité aussi efficacement que possible ?"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:101
@@ -2781,70 +2781,70 @@ msgstr "*Rôles*\n"
 #: use-case-invasive-species.en.adoc:103
 #: use-case-lepidoptera-sampling.en.adoc:115
 msgid "BIISC GIS Analyst: Advanced computer use, GIS and data analysis tools."
-msgstr ""
+msgstr "Analyste SIG du BIISC : capacité avancée d'utilisation des ordinateurs, SIG et des outils d'analyse des données."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:104
 #: use-case-lepidoptera-sampling.en.adoc:116
 msgid "ISC Manager: Good computer skills."
-msgstr ""
+msgstr "Gestionnaire ISC : de bonnes compétences en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:105
 #: use-case-lepidoptera-sampling.en.adoc:117
 msgid "ISC Outreach Associate: Good field identification skills; Basic computer use. Social media expert."
-msgstr ""
+msgstr "Responsable de la communication de l'ISC : de bonnes compétences d’identification sur le terrain, compétences de base en informatique. Expert en réseaux sociaux."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:106
 #: use-case-lepidoptera-sampling.en.adoc:118
 msgid "Student Mentor 1: Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "Mentor étudiant 1 : Connaissances taxonomiques de base. Compétences de base en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:107
 #: use-case-lepidoptera-sampling.en.adoc:119
 msgid "Student Mentor 2: Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "Mentor étudiant 2 : Connaissances taxonomiques de base. Compétences de base en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:108
 #: use-case-lepidoptera-sampling.en.adoc:120
 msgid "Botany Student 1: Advanced taxonomic knowledge. Programming skills."
-msgstr ""
+msgstr "Etudiant en botanique 1 : connaissances taxonomiques avancées, compétences en programmation."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:109
 #: use-case-lepidoptera-sampling.en.adoc:121
 msgid "Botany Student 2: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "Étudiant en botanique 2 : connaissances taxonomiques avancées."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:110
 #: use-case-lepidoptera-sampling.en.adoc:122
 msgid "Botany Student 3: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "Étudiant en botanique 3 : connaissances taxonomiques avancées."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:111
 #: use-case-lepidoptera-sampling.en.adoc:123
 msgid "Botany student 4: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "Étudiant en botanique 4 : connaissances taxonomiques avancées."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:120
 msgid "The BIISC is now planning to make all of the data from the project publicly available by publishing datasets to GBIF.  As the BIISC’s Outreach Assistant, you must identify the relevant Darwin Core fields to accommodate the data from the online form.  You’ve noticed that additional data describing species and locations have been added to the data form by the graduate students performing validations.  To accommodate this data, you need to extend the data structure to aggregate the data from the online form with the added taxonomy and georeferences."
-msgstr ""
+msgstr "Le BIISC prévoit maintenant de rendre accessibles et publiques toutes les données du projet en publiant des jeux de données sur le GBIF. En tant qu’assistant de sensibilisation du BIISC, vous devez identifier les champs pertinents de Darwin Core correspondant le mieux aux données du formulaire en ligne. Vous avez remarqué que des données supplémentaires décrivant les espèces et les lieux ont été ajoutées au formulaire de données par les étudiants diplômés qui ont procédé à leur validation. Vous devez étendre la structure de données afin d'intégrer ces informations à partir du formulaire en ligne, avec les données taxonomiques et géographiques supplémentaires."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
 msgid "Download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
-msgstr ""
+msgstr "Lien de téléchargement :../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
 msgid "Using the downloaded dataset, produce a spreadsheet as example of the extended data structure and the fields you’ve identified as relevant for Darwin Core."
-msgstr ""
+msgstr "En utilisant le jeu de données téléchargé, produisez une feuille de calcul comme exemple de la structure de données étendue et des champs que vous avez identifiés comme étant pertinents pour la correspondance avec le Darwin Core."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
@@ -2853,7 +2853,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:134
 #: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
-msgstr ""
+msgstr "Utilisez la feuille d'exercice pour fournir vos réponses et soumettre la feuille de calcul."
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:125
@@ -2866,53 +2866,53 @@ msgstr "Exercice 3"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:131
 msgid "Over the summer, interns at the HISC main office created checklists from the original occurrence data that were collected and augmented from the online form.  Taking the role of the HSC Project Leader, you must now carry out final quality checks prior to publication."
-msgstr ""
+msgstr "Au cours de l’été, les stagiaires du bureau principal du HISC ont créé des listes de référence taxonomique à partir des données d’occurrence originales recueillies et complétées à partir du formulaire en ligne. En assumant le rôle de chef de projet HSC, vous devez maintenant effectuer les contrôles de qualité finaux avant la publication."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:133
 msgid "Download link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
-msgstr ""
+msgstr "Lien de téléchargement :../exercise-data/UC3-IS-3-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (156 MB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:134
 #: use-case-lepidoptera-sampling.en.adoc:145
 msgid "Evaluate the dataset and identify which types of errors are present."
-msgstr ""
+msgstr "Évaluez le jeu de données et identifiez quels types d'erreurs il contient."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:135
 msgid "Identify possible ways to correct those issues and perform those corrections for as many of the errors as you can."
-msgstr ""
+msgstr "Identifiez différentes façons de corriger ces problèmes et effectuez ces corrections pour autant d'erreurs que possible."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:144
 msgid "The HISC is now ready to publish the checklist data and associated occurrences to GBIF.  For this exercise, you will take the role of the Project Leader.  Your responsibility: publishing the cleaned checklist data and associated occurrences online through the GBIF network."
-msgstr ""
+msgstr "Le HISC est maintenant prêt à publier les données de la liste de référence taxonomique et les occurrences associées sur le GBIF. Pour cet exercice, vous assumerez le rôle de responsable du projet. Votre responsabilité: publier les données de la liste de référence nettoyée et les occurrences associées en ligne via le réseau GBIF."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:146
 msgid "Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
-msgstr ""
+msgstr "Lien de téléchargement :../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
 #: use-case-lepidoptera-sampling.en.adoc:158
 #: use-case-birds-from-literature.en.adoc:172
 msgid "Use the previously provided IPT installation to publish the given dataset."
-msgstr ""
+msgstr "Utilisez l'installation IPT indiquée précédemment pour publier le jeu de données fourni."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
 #: use-case-lepidoptera-sampling.en.adoc:158
 #: use-case-birds-from-literature.en.adoc:172
 msgid "Use the exercise sheet to provide your answers and link to the published dataset."
-msgstr ""
+msgstr "Utilisez la feuille d'exercice pour fournir vos réponses, ainsi qu'un lien vers le jeu de données publié."
 
 #. type: Title ==
 #: use-case-lepidoptera-sampling.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Lepidoptera sightings"
-msgstr ""
+msgstr "Cas d'utilisation II - Observations de Lépidoptères"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:16
@@ -3166,12 +3166,12 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:58
 #, no-wrap
 msgid "Analogue data description"
-msgstr ""
+msgstr "Description des données analogiques"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:61
 msgid "This is an example of the description of a series of species observations from one of the books (in German, except the common name for the species which is provided in Danish)."
-msgstr ""
+msgstr "Ceci est un exemple de description d'une série d'observations d'espèces provenant d'un livre (en allemand, à l'exception du nom commun de l'espèce qui est fournie en danois)."
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:62
