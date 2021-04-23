@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-22 15:35\n"
+"PO-Revision-Date: 2021-04-23 13:57\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -423,82 +423,82 @@ msgstr "*Garantia de Qualidade/ Controle de Qualidade*\n"
 #. type: delimited block _
 #: foundations.en.adoc:98
 msgid "The difference between quality control and quality assurance is not always clear.  Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met.  She defines Quality Control as a judgement of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgement of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality."
-msgstr ""
+msgstr "A diferença entre controlo de qualidade e garantia de qualidade nem sempre é clara. Taulbee (1996) faz a distinção entre controlo de Qualidade e Garantia de Qualidade e sublinha que uma não pode existir sem a outra, se quisermos que os objectivos de qualidade sejam cumpridos. Ela define o controlo de qualidade como um juízo de qualidade com base em normas internas, processos e procedimentos estabelecidos para controlar e monitorizar a qualidade; e a garantia da qualidade como uma avaliação da qualidade com base em normas externas ao processo e é a revisão das actividades e dos processos de controlo de qualidade para garantir que os produtos finais cumprem padrões de qualidade pré-determinados."
 
 #. type: delimited block _
 #: foundations.en.adoc:100
 msgid "In a more business-oriented approach, Redman (2001) defines Quality Assurance as “those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”."
-msgstr ""
+msgstr "Numa abordagem mais orientada para as empresas, Redman (2001) define a Garantia de Qualidade como “as atividades que são concebidas para produção de produtos de informação isentos de defeito para atender às necessidades mais importantes dos clientes, pelo menor custo possível”."
 
 #. type: delimited block _
 #: foundations.en.adoc:102
 msgid "How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management."
-msgstr ""
+msgstr "Como estes termos devem ser aplicados na prática não é claro, e na maioria dos casos, os termos parecem ser em grande medida utilizados como sinónimo para descrever a prática global da gestão da qualidade dos dados."
 
 #. type: delimited block _
 #: foundations.en.adoc:104
 #, no-wrap
 msgid "*Uncertainty*\n"
-msgstr ""
+msgstr "*Incerteza*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:109
 msgid "Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).  Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.  There is always uncertainty in data; the difficulty is in recording, understanding and visualizing that uncertainty so that others can also understand it.  Uncertainty is a key term in understanding risk and risk assessment."
-msgstr ""
+msgstr "A incerteza pode ser considerada como uma \"medida da ineficácia do conhecimento ou informação sobre uma quantidade desconhecida cujo verdadeiro valor poderia ser estabelecido se um dispositivo de medição perfeito estivesse disponível\" (Cullen e Frey 1999). A incerteza é uma propriedade da compreensão dos dados por parte do observador e tem mais a ver com o observador do que com os dados em si. Há sempre incerteza nos dados; a dificuldade é registar, compreender e visualizar essa incerteza para que os outros também a possam entender. A incerteza é um termo fundamental na compreensão dos riscos e na avaliação de riscos."
 
 #. type: delimited block _
 #: foundations.en.adoc:111
 #, no-wrap
 msgid "*Error*\n"
-msgstr ""
+msgstr "*Erro*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:118
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
-msgstr ""
+msgstr "Erro engloba tanto a imprecisão dos dados quanto sua acurácia. Há muitos fatores que contribuem para o erro. O erro é geralmente visto como aleatório ou sistemático. Um erro aleatório tende a se referir ao desvio do verdadeiro estado de forma aleatória. O erro sistemático ou o viés advém de uma mudança uniforme nos valores e, por vezes, é descrito como tendo uma \"acurácia relativa\" no mundo cartográfico (Chrisman 1991). Ao determinar \"aptidão para o uso\", o erro sistemático pode ser aceitável para algumas aplicações, e inaptas para outras."
 
 #. type: delimited block _
 #: foundations.en.adoc:121
 msgid "An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.  Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code."
-msgstr ""
+msgstr "Um exemplo pode ser a utilização de um datum1 geodésico diferente – onde, se utilizado ao longo da análise, não pode causar quaisquer maiores problemas. Os problemas surgirão no entanto onde uma análise utiliza dados de diferentes fontes e com diferentes tendências – por exemplo, fontes de dados que usam diferentes datum geodésico, ou onde as identificações podem ter sido realizadas usando uma versão anterior de um código nomenclatural."
 
 #. type: delimited block _
 #: foundations.en.adoc:125
 msgid "“Because error is inescapable, it should be recognized as a fundamental dimension of data” (Chrisman 1991).  Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.  Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented."
-msgstr ""
+msgstr "\"Porque o erro é inevitável, ele deve ser reconhecido como uma dimensão fundamental dos dados\" (Chrisman 1991). Somente quando um erro é incluído em uma representação dos dados é possível responder a perguntas sobre limitações dos dados, e até mesmo limitações do conhecimento atual. Os erros conhecidos nas três dimensões do espaço, atributo e tempo têm de ser medidos, calculados, registados e documentados."
 
 #. type: delimited block _
 #: foundations.en.adoc:127
 #, no-wrap
 msgid "*Validation and Cleaning*\n"
-msgstr ""
+msgstr "*Validação e Limpeza*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:133
 msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
-msgstr ""
+msgstr "Validação é um processo usado para determinar se os dados são incompletos, não razoáveis ou não acurados. O processo pode incluir verificações de formato, verificações de integridade, verificações de razoabilidade, verificações de limite, revisão dos dados para identificar \"outliers\" (geográficos, estatísticos, temporais ou ambientais) ou outros erros e avaliação de dados por especialistas em áreas temáticas (e.g. especialistas taxonómicos). Estes processos resultam geralmente em sinalizadores, documentação e subsequente verificação de registos suspeitos. As validações podem também envolver o controlo da conformidade com padrões, regras e convenções aplicáveis. Uma etapa chave na validação e limpeza de dados é identificar as causas dos erros detectados e concentrar-se em impedir que esses erros ocorram novamente (Redman 2001)."
 
 #. type: delimited block _
 #: foundations.en.adoc:138
 msgid "Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.  The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.  It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.  It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered."
-msgstr ""
+msgstr "Limpeza de dados refere-se ao processo de “reparação” de erros nos dados que foram identificados durante o processo de validação. O termo é sinónimo de \"limpeza de dados\", embora alguns usem a limpeza de dados para englobar a validação de dados e a limpeza de dados. No processo de limpeza de dados, é importante que os dados não se percam inadvertidamente e que as alterações à informação existente sejam efectuadas com muito cuidado. Muitas vezes é melhor manter ambos os antigos (dados originais) e os novos (dados corrigidos) lado a lado na base de dados, para que, caso sejam cometidos erros no processo de limpeza, as informações originais possam ser recuperadas."
 
 #. type: Title ===
 #: foundations.en.adoc:141
 #, no-wrap
 msgid "Documentation"
-msgstr ""
+msgstr "Documentação"
 
 #. type: delimited block *
 #: foundations.en.adoc:146
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr ""
+msgstr "Neste vídeo (09:47), daremos uma visão geral da importância da documentação no que se refere à gestão e publicação de dados. Você aprenderá sobre mapeamento de dados, relações e metadados. Se não puder assistir o vídeo embutido do Vimeo, poderá utilizar o link:../videos/Foundations_Documentation.mp4[download^,opts=download] localmente. (MP4 - 29.2 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:149
 #, no-wrap
 msgid "Digitization Workflows"
-msgstr ""
+msgstr "Processos de Digitalização"
 
 #. type: delimited block *
 #: foundations.en.adoc:153
