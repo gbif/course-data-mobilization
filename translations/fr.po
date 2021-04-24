@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-24 11:13\n"
+"PO-Revision-Date: 2021-04-24 12:12\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -4624,7 +4624,7 @@ msgstr "occurrence + Bien que ces données puissent être partagées comme de si
 #. type: Plain text
 #: solutions.en.adoc:178
 msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr ""
+msgstr "événement d'échantillonnage + Pièges d'insectes (ainsi que d'autres pièges comme les pièges à fosses, les pièges à malaise…) sont généralement utilisés dans les programmes de surveillance pour vérifier la présence (ou l’absence) de certaines espèces et/ou évaluer leur abondance spécifique. L'utilisation du champ « eventID » pour identifier chaque piège permet aux utilisateurs de récupérer tous les spécimens dans chaque piège. La même logique s'applique aux autres protocoles de terrain tels que les transects, les tracés, les caméras à distance, etc.: en utilisant le Event Core au lieu du Occurrence core, vous serez en mesure de partager beaucoup plus d'informations sur le contexte de la collecte de données, et permettre aux utilisateurs de mieux comprendre (et même de répliquer) votre travail."
 
 #. type: Plain text
 #: solutions.en.adoc:180
@@ -4635,12 +4635,12 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour des données de
 #. type: Plain text
 #: solutions.en.adoc:183
 msgid "occurrence + record individuals of species"
-msgstr ""
+msgstr "occurrence + enregistrement des individus des espèces"
 
 #. type: Plain text
 #: solutions.en.adoc:185
 msgid "checklist + It is important to know how many species are present in the park/reserve perimeter and their conservation status."
-msgstr ""
+msgstr "checklist + Il est important de savoir combien d'espèces sont présentes dans le périmètre du parc/réserve et leur état de conservation."
 
 #. type: Plain text
 #: solutions.en.adoc:187
