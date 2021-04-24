@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-24 10:09\n"
+"PO-Revision-Date: 2021-04-24 11:13\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3937,12 +3937,12 @@ msgstr "http://resolver.globalnames.org/[Global Names Resolver^]"
 #. type: Plain text
 #: keydocs.en.adoc:144
 msgid "https://obis.org/manual/namematching/[Marine Name Matching Strategy for taxonomic quality control^]"
-msgstr ""
+msgstr "https://obis.org/manual/namematching/[Stratégie de correspondance de nom d’espèces marines pour le contrôle de qualité taxonomique^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:144
 msgid "http://match.taibif.tw/index.html[Nomenmatch^]"
-msgstr ""
+msgstr "http://match.taibif.tw/index.html[Nomenmatch^]"
 
 #. type: Title ==
 #: glossary.en.adoc:2
@@ -3960,7 +3960,7 @@ msgstr "[[ALA]]ALA"
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "Atlas of Living Australia.  The Australian node of GBIF, who developed an open source data portal now widely used within the GBIF community & partners for biodiversity national portals."
-msgstr ""
+msgstr "Atlas des vivants d’Australie. Le nœud australien du GBIF, qui a développé un portail de données open source maintenant largement utilisé au sein de la communauté GBIF et partenaires pour les portails nationaux sur la biodiversité."
 
 #. type: Labeled list
 #: glossary.en.adoc:10
@@ -3971,13 +3971,13 @@ msgstr "[[API]]API"
 #. type: Plain text
 #: glossary.en.adoc:12
 msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
-msgstr ""
+msgstr "Interface de programmation d'applications. Un ensemble de méthodes de communication clairement définies entre différents composants logiciels."
 
 #. type: Labeled list
 #: glossary.en.adoc:13
 #, no-wrap
 msgid "[[BID]]BID"
-msgstr ""
+msgstr "[[BID]]BID"
 
 #. type: Plain text
 #: glossary.en.adoc:15
@@ -3999,34 +3999,34 @@ msgstr "Fonds pour la biodiversité en Asie."
 #: glossary.en.adoc:18
 #, no-wrap
 msgid "[[CC]]CC Licences"
-msgstr ""
+msgstr "[[CC]]Licences CC"
 
 #. type: Plain text
 #: glossary.en.adoc:21
 msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools.  Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC."
-msgstr ""
+msgstr "Creative Commons. Il s'agit d'une série de licences mises en place par l'organisation Creative Commons qui permettent le partage et la réutilisation de la créativité et du savoir par la fourniture d'outils juridiques libres. Trois d'entre eux peuvent être assignés à des jeux de données partagés par GBIF : CC0, CC BY et CC BY-NC."
 
 #. type: Labeled list
 #: glossary.en.adoc:22
 #, no-wrap
 msgid "[[vocab]]Controlled Vocabulary"
-msgstr ""
+msgstr "[[vocab]]Vocabulaire contrôlé"
 
 #. type: Plain text
 #: glossary.en.adoc:26
 msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
-msgstr ""
+msgstr "Il s'agit d'un ensemble restreint de termes qui sont utilisés comme valeurs possibles pour un champ donné. On peut voir cela comme une liste de recherche ou une liste déroulante pour un champ particulier. Par exemple, le champ basisOfRecord DwC ne devrait contenir qu'une de ces valeurs : \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\". Nous dirons que la liste des valeurs est un vocabulaire contrôlé pour ce champ."
 
 #. type: Labeled list
 #: glossary.en.adoc:27
 #, no-wrap
 msgid "[[DwC]]DwC"
-msgstr ""
+msgstr "[[DwC]]DwC"
 
 #. type: Plain text
 #: glossary.en.adoc:29
 msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
-msgstr ""
+msgstr "Darwin Core est un standard de données sur la biodiversité, maintenue par TDWG et largement utilisée au sein de la communauté et des partenaires du GBIF. Il s'agit d'un ensemble de termes normalisés (ou noms de champs) et de leurs définitions, qui sont utilisés pour partager des informations sur la biodiversité."
 
 #. type: Labeled list
 #: glossary.en.adoc:30
@@ -4037,39 +4037,39 @@ msgstr "[[DOI]]DOI"
 #. type: Plain text
 #: glossary.en.adoc:32
 msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
-msgstr ""
+msgstr "Identificateur d'objets numériques. Un identifiant ou une poignée persistante utilisée pour identifier de manière unique les objets. Les DOI sont principalement utilisés pour identifier les informations académiques, professionnelles et gouvernementales, telles que les articles de revues, les rapports de recherche et les ensembles de données, et les publications officielles."
 
 #. type: Labeled list
 #: glossary.en.adoc:33
 #, no-wrap
 msgid "[[DwC-A]]DwC-A"
-msgstr ""
+msgstr "[[DwC-A]]DwC-A"
 
 #. type: Plain text
 #: glossary.en.adoc:36
 msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
-msgstr ""
+msgstr "Archive Darwin Core. Un fichier compressé (zippé) contenant toutes les informations nécessaires pour partager avec GBIF, pour une ressource particulière. Chaque zip contient trois types de fichiers :"
 
 #. type: Plain text
 #: glossary.en.adoc:37
 msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
-msgstr ""
+msgstr "les données réelles, dans un ou plusieurs fichiers texte : occurrence.txt/event.txt/measurmentoffact.txt etc"
 
 #. type: Plain text
 #: glossary.en.adoc:38
 msgid "a mapping file: rtf.xml"
-msgstr ""
+msgstr "un fichier de mappage: rtf.xml"
 
 #. type: Plain text
 #: glossary.en.adoc:41
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr ""
+msgstr "un fichier de métadonnées (EML) : eml.xml Lorsque vous publiez avec l'IPT, il crée une archive Darwin Core qui est partagée avec GBIF. En outre, lorsque vous téléchargez des données à partir du site Web du GBIF, vous pouvez également choisir un format DwC-A."
 
 #. type: Labeled list
 #: glossary.en.adoc:42
 #, no-wrap
 msgid "[[GUID]]GUID"
-msgstr ""
+msgstr "[[GUID]]GUID"
 
 #. type: Plain text
 #: glossary.en.adoc:43
@@ -4085,84 +4085,84 @@ msgstr "[[IPT]]IPT"
 #. type: Plain text
 #: glossary.en.adoc:48
 msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
-msgstr ""
+msgstr "Integrated Publishing Toolkit est une application web libre et open source (logiciels) pour la publication des données sur la biodiversité. Le logiciel lui-même est hébergé sur un serveur (que ce soit dans votre institution ou ailleurs) qui doit avoir accès à Internet 24/7. Il est utilisé pour créer et gérer des fichiers archives Darwin Core qui peuvent être partagés et utilisés par toute personne inclus dans le GBIF."
 
 #. type: Labeled list
 #: glossary.en.adoc:49
 #, no-wrap
 msgid "[[loan]]Loan"
-msgstr ""
+msgstr "[[loan]]Prêt"
 
 #. type: Plain text
 #: glossary.en.adoc:50
 msgid "In the context of natural history collections, this is the procedure of lending specimens between institutions."
-msgstr ""
+msgstr "Dans le contexte des collections d'histoire naturelle, il s'agit de la procédure de prêt de spécimens entre institutions."
 
 #. type: Labeled list
 #: glossary.en.adoc:51
 #, no-wrap
 msgid "[[LSID]]LSID"
-msgstr ""
+msgstr "[[LSID]]LSID"
 
 #. type: Plain text
 #: glossary.en.adoc:53
 msgid "Life Sciences Identifier.  They are persistent, globally unique identifiers for biological objects."
-msgstr ""
+msgstr "Identificateur des sciences de la vie. Ils sont des identifiants persistants et uniques au niveau mondial pour les objets biologiques."
 
 #. type: Labeled list
 #: glossary.en.adoc:54
 #, no-wrap
 msgid "[[DP]]Data Publishing"
-msgstr ""
+msgstr "[[DP]]Publication des données"
 
 #. type: Plain text
 #: glossary.en.adoc:56
 msgid "With regards to GBIF we have a very specific definition of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
-msgstr ""
+msgstr "En ce qui concerne le GBIF, nous avons une définition très spécifique de la publication des données. Il s'agit de rendre les jeux de données sur la biodiversité accessibles au public et découvrables, sous une forme normalisée, via un point d'accès, généralement une adresse web (une URL)."
 
 #. type: Labeled list
 #: glossary.en.adoc:57
 #, no-wrap
 msgid "[[resource]]Resource"
-msgstr ""
+msgstr "[[resource]]Ressource"
 
 #. type: Plain text
 #: glossary.en.adoc:58
 msgid "A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance."
-msgstr ""
+msgstr "Une ressource est le terme collectif utilisé pour désigner un jeu de données particulier et ses métadonnées une fois qu'il a été téléchargé dans une instance IPT."
 
 #. type: Labeled list
 #: glossary.en.adoc:59
 #, no-wrap
 msgid "[[TDWG]]TDWG"
-msgstr ""
+msgstr "[[TDWG]]TDWG"
 
 #. type: Plain text
 #: glossary.en.adoc:60
 msgid "Taxonomic Databases Working Group, now renamed Biodiversity Information Standards."
-msgstr ""
+msgstr "Groupe de travail sur les bases de données taxonomiques, maintenant renommé Standards d'information sur la biodiversité."
 
 #. type: Labeled list
 #: glossary.en.adoc:61
 #, no-wrap
 msgid "[[URN]]URN"
-msgstr ""
+msgstr "[[URN]]URN"
 
 #. type: Plain text
 #: glossary.en.adoc:62
 msgid "Uniform Resource Number"
-msgstr ""
+msgstr "Nombre de Ressources Uniformes"
 
 #. type: Labeled list
 #: glossary.en.adoc:63
 #, no-wrap
 msgid "[[UUID]]UUID"
-msgstr ""
+msgstr "[[UUID]]UUID"
 
 #. type: Plain text
 #: glossary.en.adoc:64
 msgid "Universally Unique Identifier"
-msgstr ""
+msgstr "Identifiant universel unique"
 
 #. type: Plain text
 #: glossary.en.adoc:65
@@ -4184,7 +4184,7 @@ msgstr "Cette annexe contient les réponses et des informations complémentaires
 #: solutions.en.adoc:7
 #, no-wrap
 msgid "Foundations review solutions"
-msgstr ""
+msgstr "Solutions de révision des fondations"
 
 #. type: Plain text
 #: solutions.en.adoc:10
@@ -4258,22 +4258,22 @@ msgstr "1236975 + *entier long*"
 #. type: Plain text
 #: solutions.en.adoc:41
 msgid "01101111 + *binary*"
-msgstr ""
+msgstr "01101111 + *binaire*"
 
 #. type: Plain text
 #: solutions.en.adoc:43
 msgid "We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. + *unstructured text*"
-msgstr ""
+msgstr "Nous avons marché à 5 milles sur la route vers l'ouest depuis le bureau de poste au centre de la ville. Nous sommes ensuite allés à 2 milles au nord sur un chemin de terre vers la rivière. Puis nous avons continué vers l'ouest le long de la rivière pendant encore 5 miles. + *texte non structuré*"
 
 #. type: Plain text
 #: solutions.en.adoc:45
 msgid "1024 + *integer*"
-msgstr ""
+msgstr "1024 + *integer*"
 
 #. type: Plain text
 #: solutions.en.adoc:47
 msgid "29.0 + *float*"
-msgstr ""
+msgstr "29.0 + *flottant*"
 
 #. type: Plain text
 #: solutions.en.adoc:49
@@ -4283,7 +4283,7 @@ msgstr "Oui/Non + *booléen*"
 #. type: Plain text
 #: solutions.en.adoc:51
 msgid "6 rabbits were observed + *text*"
-msgstr ""
+msgstr "6 lapins ont été observés + *texte*"
 
 #. type: Plain text
 #: solutions.en.adoc:53
@@ -4352,7 +4352,7 @@ msgstr "Les attributs d'un enregistrement de données restent TOUJOURS ensemble.
 #: solutions.en.adoc:74
 #, no-wrap
 msgid "*Who determines the fitness for use of your data?*\n"
-msgstr ""
+msgstr "*Qui détermine l’aptitude à l’usage de vos données?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:76
@@ -4364,7 +4364,8 @@ msgstr "Les utilisateurs des données pour la recherche ou l'éducation"
 #, no-wrap
 msgid "*For the given statements, input the matching image. (A, B, C, D)*\n"
 "image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr "*Pour les assertions données, entrez l'image correspondante. (A, B, C, D)*\n"
+"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #. type: Plain text
 #: solutions.en.adoc:82
@@ -4458,18 +4459,18 @@ msgstr "Initier, planifier, exécuter, surveiller et contrôler, clôturer"
 #. type: Plain text
 #: solutions.en.adoc:116
 msgid "Learn More: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
-msgstr ""
+msgstr "En savoir plus: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
 
 #. type: Plain text
 #: solutions.en.adoc:118
 #, no-wrap
 msgid "*What are the types of deliverable?*\n"
-msgstr ""
+msgstr "*Quels sont les types de livrables?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:120
 msgid "Stated - YES"
-msgstr ""
+msgstr "Déclaré - OUI"
 
 #. type: Plain text
 #: solutions.en.adoc:121
@@ -4548,77 +4549,77 @@ msgstr "Sensibilisation accrue du public - NON, il s'agit d'un objectif implicit
 #: solutions.en.adoc:140
 #, no-wrap
 msgid "Data capture review solutions"
-msgstr ""
+msgstr "Solutions de vérification de la saisie des données"
 
 #. type: Plain text
 #: solutions.en.adoc:143
 #, no-wrap
 msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
-msgstr ""
+msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour une collection d’ichtyologie?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:148
 msgid "occurrence + Most of the time, specimens from collection databases are shared as occurrence data.  Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.  Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID."
-msgstr ""
+msgstr "occurrence + La plupart du temps, les spécimens des bases de données de collection sont partagés en tant que données d'occurrence. Chaque occurrence (spécimen ou groupe de spécimens) a son propre identifiant unique (parfois dérivé de son numéro de catalogue dans la collection source) et les champs Darwin Core utilisés pour les partager au sein du GBIF décrivent chaque spécimen : nom scientifique, la date à laquelle elle a été collectée sur le terrain, qui l'a collectée et/ou identifiée, où, etc. Chaque collection peut avoir plus d'un spécimen d'une même espèce, à condition que chaque spécimen soit identifié par un ID unique."
 
 #. type: Plain text
 #: solutions.en.adoc:150
 msgid "checklist + It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr ""
+msgstr "checklist + Il est également possible de créer et de partager une checklist taxonomique dérivée d'une base de données de collection ; dans ce cas, il est recommandé de partager la liste de contrôle en tant que jeu de données taxonomiques, avec la liste des occurrences (spécimens) associées à elle en utilisant le Occurrence core comme extension du taxon Core sur l'IPT du GBIF."
 
 #. type: Plain text
 #: solutions.en.adoc:152
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a list of invasive species?*\n"
-msgstr ""
+msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour une liste d'espèces envahissantes?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:155
 msgid "occurrence + Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
-msgstr ""
+msgstr "occurrence + Certains éditeurs de données partageront des ensembles de données d'occurrence provenant d'études ou de programmes de suivi de spécimens provenant de certaines espèces envahissantes spécifiques ; lorsque les données se concentrent sur les individus au lieu de l'espèce envahissante, en général, elles peuvent être partagées en tant que données d'occurrence."
 
 #. type: Plain text
 #: solutions.en.adoc:157
 msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr ""
+msgstr "checklist + Les espèces envahissantes peuvent être suivies et surveillées à différentes échelles (régionales, nationales, thématiques…); car ce type de jeu de données se concentre davantage sur les espèces et leur distribution sur une portée géographique donnée, ils sont principalement partagés en tant que jeux de données taxonomiques au sein du GBIF (https://www. bif.org/dataset/search?project_id=GRIIS[voir les résultats de recherche GRIIS])."
 
 #. type: Plain text
 #: solutions.en.adoc:159
 #, no-wrap
 msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
-msgstr ""
+msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour la flore et la faune d'une étude d'impact environnementale?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:162
 msgid "occurrence + Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
-msgstr ""
+msgstr "occurrence + Les données sont enregistrées par les naturalistes sur le terrain et peuvent être partagées en tant que simples jeux de données d'occurrence."
 
 #. type: Plain text
 #: solutions.en.adoc:164
 msgid "sampling event + They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr ""
+msgstr "événement d'échantillonnage + Ils peuvent également être partagés en tant que jeux de données d'événements si des protocoles standardisés (comme des placeaux de végétation, les transects, les pièges…) sont utilisés pour collecter les données."
 
 #. type: Plain text
 #: solutions.en.adoc:166
 #, no-wrap
 msgid "*What dataset type(s) would you choose for bird tracking data?*\n"
-msgstr ""
+msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour des données de suivi des oiseaux?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:169
 msgid "occurrence + These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
-msgstr ""
+msgstr "occurrence + Ces données sont partagées comme des jeux de données d'occurrences: idéalement, chaque oiseau est identifié avec son organismID et chaque occurrence (GPS ping) a son propre occurrenceID, qui est utile pour suivre les différents emplacements GPS du même oiseau dans le cadre du programme ou du projet de suivi. (Voir https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
 
 #. type: Plain text
 #: solutions.en.adoc:171
 #, no-wrap
 msgid "*What dataset type(s) would you choose for insect trap data?*\n"
-msgstr ""
+msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour des données de pièges à insectes?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:174
 msgid "occurrence + Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
-msgstr ""
+msgstr "occurrence + Bien que ces données puissent être partagées comme de simples ensembles de données d'occurrence, il est préférable qu'elles soient partagées comme des ensembles de données d'événement, où l'emplacement, l'identifiant et le contenu de chaque piège peuvent être mieux détaillés."
 
 #. type: Plain text
 #: solutions.en.adoc:178
