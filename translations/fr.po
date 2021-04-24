@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-24 00:11\n"
+"PO-Revision-Date: 2021-04-24 01:17\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5416,14 +5416,18 @@ msgid "As Arthur Chapman says “Prevention is better than cure.” \n"
 "At the end of the day is always easier and less expensive to prevent an error than it is seek one out and correct it.\n"
 "The more planning you do in advance, even all the way back to the moment that data is recorded in the field, the fewer errors you are likely to find.\n"
 "Standardized vocabularies and clear procedures for data capture and data entry are only a few of the many tools you can use to prevent possible errors.\n"
-msgstr ""
+msgstr "Comme le dit Arthur Chapman, « mieux vaut prévenir que guérir. \n"
+"En fin de compte, il est toujours plus facile et moins coûteux de prévenir une erreur que de la chercher et de la corriger.\n"
+"Plus vous planifiez à l'avance, même à partir du moment où les données sont enregistrées dans le champ, moins serons les erreurs que vous êtes susceptible de trouver.\n"
+"Les vocabulaires standardisés et les procédures claires pour la capture et la saisie de données ne sont que quelques-uns des nombreux outils que vous pouvez utiliser pour prévenir d'éventuelles erreurs.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:71
 #, no-wrap
 msgid "Be sure that everyone in your organization understands that data quality is everyone’s responsibility.\n"
 "Of course, the primary responsibility lies with the people who maintain the data, but everyone, from field technicians to students performing data entry to emeritus curators have a responsibility to treat the data with care and to communicate any errors or inconsistencies they might discover.\n"
-msgstr ""
+msgstr "Assurez-vous que tous les membres de votre organisation comprennent que la qualité des données relève de la responsabilité de tout un chacun.\n"
+"Bien sûr, la responsabilité principale incombe aux personnes qui maintiennent les données, or tout le monde, à partir des techniciens du terrain aux étudiants qui effectuent la saisie de données, aux conservateur émérite, ont tous la responsabilité de traiter les données avec soin et de communiquer toute erreur ou incohérence qu'ils pourraient découvrir.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:77
@@ -5431,7 +5435,9 @@ msgstr ""
 msgid "Data maintenance is only as effective as the expertise that support the process and no single individual can be expected to know everything about everything.\n"
 "Developing partnerships with data users and content experts can help to make the data quality process more successful.\n"
 "Reach out to your user community, both inside and outside of your institution, and work with them to help maintain your data at the highest quality.\n"
-msgstr ""
+msgstr "La maintenance des données est seulement aussi efficace que l'expertise qui soutient le processus et aucune personne ne peut être tenue de tout savoir.\n"
+"Le développement de partenariats avec les utilisateurs de données et les experts en contenu peut aider à améliorer le processus de qualité des données.\n"
+"Contactez votre communauté d'utilisateurs, tant à l'intérieur qu'à l'extérieur de votre institution, et de travailler avec eux pour aider à maintenir vos données à la plus haute qualité.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:82
@@ -5440,7 +5446,10 @@ msgid "Prioritize your cleaning to take advantage of the resources and knowledge
 "For example, you may choose to review all of the data recorded by collectors who are still alive so that important data is not lost later.\n"
 "If you maintain a large dataset you might choose to prioritize data that can be cleaned at the lowest cost using automated processes and then prioritize the more difficult errors that require individual attention.\n"
 "Ultimately, you should prioritize the data that is of the greatest value to the work of your institution and then move through the data in a logical and orderly manner.\n"
-msgstr ""
+msgstr "Priorisez votre nettoyage pour tirer parti des ressources et des connaissances que votre institution possède.\n"
+"Par exemple, vous pouvez choisir de consulter toutes les données enregistrées par les collecteurs qui sont toujours en vie afin que les données importantes ne soient pas perdues plus tard.\n"
+"Si vous maintenez un jeu de données volumineux, vous pourriez choisir de prioriser les données qui peuvent être nettoyées au moindre coût en utilisant des processus automatisés, puis de prioriser les erreurs plus difficiles qui nécessitent une attention individuelle.\n"
+"En fin de compte, vous devriez prioriser les données qui sont de la plus grande valeur pour le travail de votre institution et ensuite passer à travers les données de manière logique et ordonnée.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:84 scripts/data-types.en.txt:52
@@ -5458,26 +5467,29 @@ msgstr "// Diapositive 10\n"
 msgid "Some times it can be an effective strategy to set some measures of performance before the cleaning process begins.\n"
 "One performance measure might be to complete the cleaning of 500 records every week.\n"
 "Another measure might be to provide a statistical report of the accuracy of the corrections being made, such as:\n"
-msgstr ""
+msgstr "Parfois, fixer certaines mesures de performance avant le début du processus de nettoyage peut s'avérer comme une stratégie efficace.\n"
+"Une mesure de performance pourrait être de terminer le nettoyage de 500 dossiers par semaine.\n"
+"Une autre mesure pourrait être de fournir un rapport statistique de la précision des corrections effectuées, telles que:\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:90
 #, no-wrap
 msgid "“95% of all georeferences corrected this week now have an uncertainty in meters of less than 1000 meters.”\n"
-msgstr ""
+msgstr "« 95 % de toutes les géoréférences corrigées cette semaine ont maintenant une incertitude en mètres de moins de 1000 mètres.»\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:92
 #, no-wrap
 msgid "These kinds of measures can give direction and guidance to the people performing the cleaning, as well as, to serve as a means to report on successes and areas in need of improvement.\n"
-msgstr ""
+msgstr "Ce type de mesures peut donner des directives et des conseils aux personnes qui effectuent le nettoyage, ainsi qu'à servir de moyen de rendre compte des réussites et des domaines à améliorer.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:95
 #, no-wrap
 msgid "In an ideal world, you will have developed a data maintenance plan that has been optimized to be as efficient and effective as possible.\n"
 "Optimization can be achieved in many different ways including taking advantage of your institution’s strengths, setting clear objectives and measure of success, and regular adjustment of your priorities based on available resources.\n"
-msgstr ""
+msgstr "Dans un monde idéal, vous aurez développé un plan de maintenance des données qui a été optimisé pour être aussi efficace que possible.\n"
+"L'optimisation peut être acquis de différentes manières, y compris en profitant des points forts de votre institution, en définissant des objectifs claires et en mesurant le succès, et en ajustant régulièrement vos priorités en fonction des ressources disponibles.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:103
@@ -5487,7 +5499,11 @@ msgid "One of the best ways to learn how successful your data cleaning and data 
 "Once such way is to review the way that GBIF presents your data.\n"
 "You can view the comparison between the verbatim data published to GBIF and the interpreted data that GBIF might have corrected or updated.\n"
 "These comparisons can help you to optimize your data cleaning process, but you can also help GBIF to improve its data quality processes, too, when you provide expert feedback back to them.\n"
-msgstr ""
+msgstr "L'une des meilleures façons d'apprendre la réussite de vos processus de nettoyage et de maintenance des données est de demander et recolter les commentaires des utilisateurs de données dans votre communauté.\n"
+"Ceci peut être accompli par les partenariats dont nous avons discuté précédemment, mais vous pouvez également obtenir des commentaires d'autres façons.\n"
+"L'une de ces manière est de revoir la façon dont le GBIF présente vos données.\n"
+"Vous pouvez consulter la comparaison entre les données in extenso publiées sur le GBIF et les données interprétées que le GBIF pourrait avoir corrigées ou mises à jour.\n"
+"Ces comparaisons peuvent vous aider à optimiser votre processus de nettoyage des données, mais vous pouvez également aider le GBIF à améliorer ses processus de qualité des données lorsque vous leur fournissez des commentaires expertés.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:107
@@ -5495,14 +5511,17 @@ msgstr ""
 msgid "One of the best ways to achieve success with data cleaning is to provide training and education to everyone who works with your data.\n"
 "These may be trainings that you organize yourself, local or regional trainings in partnership with, or presented by, other institutions in your area, or workshops and courses provided by other groups, such as GBIF.\n"
 "If you need training, please check the GBIF web site regularly or contact GBIF’s Community Mentors or GBIF’s Biodiversity Open Data Ambassadors who also can be good resources for training and education opportunities.\n"
-msgstr ""
+msgstr "L'une des meilleures façons de réussir avec le nettoyage des données est de fournir une formation et une formation à tous ceux qui travaillent avec vos données.\n"
+"Il peut s'agir de formations que vous organisez vous-même, locales ou régionales en partenariat avec, ou présenté par d'autres institutions de votre région, ou par d'autres ateliers et cours fournis par d'autres groupes, tels que le GBIF.\n"
+"Si vous avez besoin de formation, veuillez consulter le site Web du GBIF régulièrement ou contacter la Communautaires des Mentors du GBIF ou les Ambassadeurs Open Data du GBIF qui peuvent également être de bonnes ressources pour des opportunités de formation et d’éducation.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:112
 #, no-wrap
 msgid "Documentation is one of the most important principles of data cleaning.\n"
 "This is true in two key ways.\n"
-msgstr ""
+msgstr "La documentation est l'un des principes les plus importants du nettoyage des données.\n"
+"C'est vrai en deux manières clés.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:117
@@ -5511,7 +5530,10 @@ msgid "First, whatever processes you use to maintain your data, it is important 
 "This transparency can be truly successful when the data cleaning process is well documented.\n"
 "Without clear and accessible documentation, you run the risk of losing best practices, building redundant processes and losing optimization.\n"
 "Good documentation will help you to avoid recurring errors.\n"
-msgstr ""
+msgstr "Tout d'abord, quels que soient les processus que vous utilisez pour conserver vos données, il est important d'être transparent sur la façon dont les erreurs sont découvertes et corrigées.\n"
+"Cette transparence peut être réellement réussie lorsque le processus de nettoyage des données est bien documenté.\n"
+"Sans documentation claire et accessible, vous risquez de perdre les meilleures pratiques, de construire des processus redondants et de perdre l'optimisation.\n"
+"Une bonne documentation vous aidera à éviter les erreurs récurrentes.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:122
