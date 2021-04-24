@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-23 23:13\n"
+"PO-Revision-Date: 2021-04-24 00:11\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5017,7 +5017,10 @@ msgid "Once the data workflow is in place, the data capture itself can begin.\n"
 "In the following slides, we will explore the different types of information that can be captured from specimens or field observations, and see what are the most common mistakes that should be avoided when dealing with each kind of information.\n"
 "The main topics will be as follows: taxonomic information, spatial information, collection information, descriptive information.\n"
 "Please note that each occurrence (each row in your database or spreadsheet) should have information linked to these 4 main topics in order to be shared and reused accordingly.\n"
-msgstr ""
+msgstr "Une fois le flux de travail des données en place, la saisie des données peut commencer.\n"
+"Dans les diapositives suivantes, nous explorerons les différents types d'informations qui peuvent être capturés à partir de spécimens ou d'observations de champ, et voir quelles sont les erreurs les plus courantes qui devraient être évitées lorsque l'on traite chaque type d'information.\n"
+"Les principaux sujets seront les suivants : informations taxonomiques, informations spatiales, informations de collecte, informations descriptives.\n"
+"Veuillez noter que chaque occurrence (chaque ligne de votre base de données ou feuille de calcul) doit avoir des informations liées à ces 4 sujets principaux afin d'être partagées et réutilisées en conséquence.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:38
@@ -5031,7 +5034,9 @@ msgstr "// Diapositive 7\n"
 msgid "Taxonomic information is an essential part of the data capture process.\n"
 "Without it, a digitized specimen is useless and cannot be properly interpreted or reused.\n"
 "Note that the species name is not the only type of taxonomic information that can be exploited in the data capture process: sometimes the specimen hasn’t been identified to the species, and higher taxonomic levels such as the genus or family are still useful for data managers and users.\n"
-msgstr ""
+msgstr "Les informations taxinomiques sont un élément essentiel du processus de saisie des données.\n"
+"Sans elle, un spécimen numérisé est inutile et ne peut pas être correctement interprété ou réutilisé.\n"
+"Notez que le nom de l'espèce n'est pas le seul type d'informations taxinomiques qui peuvent être exploitées dans le processus de saisie de données : parfois le spécimen n'a pas été identifié à l'espèce, et des niveaux taxonomiques plus élevés tels que le genre ou la famille sont toujours utiles pour les gestionnaires de données et les utilisateurs.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:44 scripts/data-management.en.txt:63
@@ -5047,7 +5052,8 @@ msgstr "// Diapositive 8\n"
 #, no-wrap
 msgid "Most of the time, the scientific name is the main way of retrieving data in a database, portal, website, browser… Any error in the spelling or authority can lead to wrong or null queries, thus impeding the management and potential reuse of the data.\n"
 "This is why it’s very important to check all categories of scientific names to fix errors and/or omissions.\n"
-msgstr ""
+msgstr "La plupart du temps, le nom scientifique est le principal moyen de récupérer des données dans une base de données, un portail, un site web navigateur… Toute erreur dans l'orthographe ou l'autorité peut conduire à des requêtes erronées ou nulles, ce qui entrave la gestion et la réutilisation potentielle des données.\n"
+"C'est pourquoi il est très important de vérifier toutes les catégories de noms scientifiques pour corriger les erreurs et/ou les omissions.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:49 scripts/data-management.en.txt:73
@@ -5066,7 +5072,9 @@ msgid "The most common issues occurring with taxon information are missing or in
 "Always check the definitions and examples of taxonomic Darwin Core terms to avoid nomenclatural mistakes: http://rs.tdwg.org/dwc/terms/index.htm\n"
 " \n"
 "// Slide 10\n"
-msgstr ""
+msgstr "Les problèmes les plus courants qui se posent avec les informations sur les taxons sont des informations manquantes ou incohérentes, des valeurs incorrectes ou non atomiques, des doublons et des incertitudes.\n"
+"Vérifiez toujours les définitions et les exemples de termes taxonomiques Darwin Core pour éviter les erreurs nomenclaturales : http://rs. dwg.org/dwc/terms/index.htm\n\n"
+"// Diapositive 10\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:60
@@ -5076,7 +5084,11 @@ msgid "Geographic information proves to be valuable in a lot of data re-use cont
 "Coordinates should be recorded directly on the field when possible, along with the uncertainty and the geodetic datum used.\n"
 "Otherwise use relevant and verified sources to geolocate your data.\n"
 "You should note that coordinates or other geographic information can be generalized or not even shared at all in some contexts, such as with the conservation of sensitive species.\n"
-msgstr ""
+msgstr "Les informations géographiques se révèlent précieuses dans de nombreux contextes de réutilisation des données, comme la modélisation des créneaux ou les études sur la répartition des espèces.\n"
+"Alors que les anciennes collections ou spécimens peuvent être difficiles à comprendre, voire impossibles, pour géolocaliser avec précision, il est recommandé de partager des coordonnées précises ou des informations textuelles si possible.\n"
+"Les coordonnées doivent être enregistrées directement sur le champ lorsque cela est possible, avec l'incertitude et le datum géodésique utilisé.\n"
+"Sinon, utilisez des sources pertinentes et vérifiées pour géolocaliser vos données.\n"
+"Vous devez noter que les coordonnées ou autres informations géographiques peuvent être généralisées ou même pas partagées du tout dans certains contextes, par exemple pour la conservation des espèces sensibles.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:62 scripts/data-management.en.txt:97
@@ -5094,7 +5106,8 @@ msgstr "// Diapositive 11\n"
 #, no-wrap
 msgid "Spatial information can be found in numerous formats, not only geographic coordinates: examples include (but are not limited to) grid data, point+radius, or polygons.\n"
 "Each of them is useful to share in order to check the consistency of the geographical elements (eg coordinates vs country code, or to ensure a given locality is consistent with a collector’s travels)\n"
-msgstr ""
+msgstr "Les informations spatiales peuvent être trouvées dans de nombreux formats, pas seulement les coordonnées géographiques: les exemples incluent (mais ne sont pas limitées) les données de la grille, point+rayon, ou polygones.\n"
+"Chacun d'eux est utile à partager afin de vérifier la cohérence des éléments géographiques (par exemple, coordonnées vs code pays, ou pour s'assurer qu'une localité donnée est compatible avec les voyages d'un collectionneur)\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:67 scripts/data-management.en.txt:124
@@ -5110,7 +5123,8 @@ msgstr "// Diapositive 12\n"
 #, no-wrap
 msgid "Within GBIF, it is recommended to share the geodetic Datum that was used to derive the coordinates (decimal latitude and longitude) shared.\n"
 "In the absence of a specific geodetic datum, GBIF will infer WGS84 as default.\n"
-msgstr ""
+msgstr "Au sein du GBIF, il est recommandé de partager le Datum géodésique qui a été utilisé pour dériver les coordonnées (latitude décimale et longitude) partagées.\n"
+"En l'absence d'une donnée géodétique spécifique, le GBIF va inférer WGS84 par défaut.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:72 scripts/data-types.en.txt:69
@@ -5127,7 +5141,9 @@ msgstr "// Diapositive 13\n"
 msgid "This slide shows an old GBIF map with different types of geographical issues: the most obvious one is a mirror effect between the USA and China (reversed coordinates), and you can also notice an artificial line along the Greenwich meridian where ‘0’ values were put in the ‘decimalLongitude’ field, as well as another one on the Equator where ‘0’ values were put in the ‘decimalLatitude’ field.\n"
 "GBIF indexing now includes automatic geographical checks between the coordinates and countryCode shared within the dataset.\n"
 "Coordinates can be automatically reversed to match the country. \n"
-msgstr ""
+msgstr "Ce diaporama montre une ancienne carte GBIF avec différents types de problèmes géographiques: la plus évidente est un effet miroir entre les États-Unis et la Chine (coordonnées inversées), et vous pouvez également remarquer une ligne artificielle le long du méridien de Greenwich où les valeurs '0' ont été placées dans le champ 'decimalLongitude', ainsi qu'un autre sur l'équateur où les valeurs '0' ont été placées dans le champ 'decimalLatitude'.\n"
+"L'indexation du GBIF comprend désormais des vérifications géographiques automatiques entre les coordonnées et le countryCode partagé dans le jeu de données.\n"
+"Les coordonnées peuvent être automatiquement inversées pour correspondre au pays\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:78 scripts/data-types.en.txt:74
@@ -5153,7 +5169,10 @@ msgid "// Slide 15\n"
 "Data quality factors regarding collection information are mainly along the lines of exactitude like the correct collector name, consistency for example using the same vocabulary for describing soils, habitats, and completeness as in providing all existing information about the description of a given species including the  flowering period, colour of the leaves, and medicinal uses.\n"
 "Within the Darwin Core and within the IPT you can find recommended controlled vocabularies for some fields such as the ‘lifeStage’.\n"
 "The TDWG vocabularies task group works to promote and make better the ease of use across vocabularies.\n"
-msgstr ""
+msgstr "// Diapositive 15\n"
+"Les facteurs de qualité des données concernant les informations de collecte sont principalement dans le sens de l'exactitude comme le nom du collecteur correct, cohérence par exemple en utilisant le même vocabulaire pour décrire les sols, habitats et complétude comme en fournissant toutes les informations existantes sur la description d'une espèce donnée, y compris la période de floraison, couleur des feuilles, et utilisations médicinales.\n"
+"Dans le Darwin Core et au sein de l'IPT, vous pouvez trouver des vocabulaires contrôlés recommandés pour certains champs tels que le « lifeStage ».\n"
+"Le groupe de tâches des vocabulaires TDWG travaille à promouvoir et à améliorer la facilité d'utilisation entre les vocabulaires.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:88 scripts/data-types.en.txt:83
@@ -5162,7 +5181,7 @@ msgstr ""
 #: scripts/structures.en.txt:100
 #, no-wrap
 msgid "// Slide 16\n"
-msgstr ""
+msgstr "// Diapositive 16\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:90
@@ -5174,19 +5193,19 @@ msgstr "Gardez à l'esprit que les informations descriptives sont souvent incomp
 #: scripts/data-capture.en.txt:92
 #, no-wrap
 msgid "Depending on the collection state, some labels can be incomplete or lacking crucial information; \n"
-msgstr ""
+msgstr "Selon l'état de la collection, certaines étiquettes peuvent être incomplètes ou manquer d'informations cruciales ; \n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:94
 #, no-wrap
 msgid "Completeness (for example of a species description) is often impossible to achieve with a single individual; \n"
-msgstr ""
+msgstr "La complétude (par exemple la description d'une espèce) est souvent impossible à atteindre avec un seul individu ; \n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:96
 #, no-wrap
 msgid "and you should always check for consistency in your database or spreadsheet, for example in the terms used for describing colours, in order to avoid redundant information.\n"
-msgstr ""
+msgstr "et vous devriez toujours vérifier la cohérence de votre base de données ou de votre tableur, par exemple dans les termes utilisés pour décrire les couleurs, afin d'éviter toute redondance.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:98 scripts/data-types.en.txt:88
@@ -5195,7 +5214,7 @@ msgstr ""
 #: scripts/structures.en.txt:104
 #, no-wrap
 msgid "// Slide 17\n"
-msgstr ""
+msgstr "// Diapositive 17\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:102
@@ -5203,7 +5222,9 @@ msgstr ""
 msgid "This presentation has focused on the topic of data quality applied to data capture; indeed, these are the steps where it is crucial to ensure that all information related to each record is correctly and completely captured, in order for the data to be as clear and understandable as possible for future users.\n"
 "This can only be done if consistent decisions are made at the institutional level in order to create a solid workflow for data capture and data management.\n"
 "The chain of responsibility regarding data quality is then split between the persons involved at each step of the process, but keep in mind that data can always be improved and fixed if errors or omissions are detected at later stages.\n"
-msgstr ""
+msgstr "Cette présentation s'est concentrée sur le thème de la qualité des données appliquée à la saisie des données; en effet, ce sont les étapes où il est crucial de s'assurer que toutes les informations relatives à chaque enregistrement sont correctement et complètement saisies, afin que les données soient aussi claires et compréhensibles que possible pour les futurs utilisateurs.\n"
+"Ceci ne peut être fait que si des décisions cohérentes sont prises au niveau institutionnel afin de créer un flux de travail solide pour la saisie et la gestion des données\n"
+"La chaîne de responsabilité concernant la qualité des données est ensuite divisée entre les personnes impliquées à chaque étape du processus, mais gardez à l'esprit que les données peuvent toujours être améliorées et corrigées si des erreurs ou des omissions sont détectées à des étapes ultérieures.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:104 scripts/data-types.en.txt:92
@@ -5211,7 +5232,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:183 scripts/structures.en.txt:111
 #, no-wrap
 msgid "// Slide 18\n"
-msgstr ""
+msgstr "// Diapositive 18\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:106 scripts/data-management.en.txt:126
@@ -5220,38 +5241,39 @@ msgstr ""
 #: scripts/publishing-concepts.en.txt:194 scripts/standards.en.txt:291
 #, no-wrap
 msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
-msgstr ""
+msgstr "Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la plateforme e-Learning.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:108 scripts/data-types.en.txt:139
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
-msgstr ""
+msgstr "Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données de la biodiversité GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:110 scripts/data-types.en.txt:141
 #, no-wrap
 msgid "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du Programme de Développement de l'information sur la biodiversité, financé par l'Union européenne.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:111
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by Laura Russell, BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Cette présentation a été créée et narrée par Sophie Pamerlon avec des contributions supplémentaires de Laura Russell, des coach du BID et du BIFA, Mentors et Étudiants.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:4
 #, no-wrap
 msgid "In this presentation, we are going to explore the key principles and processes important to effective data management.\n"
-msgstr ""
+msgstr "Dans cette présentation, nous allons explorer les principes clés et processus importants pour une gestion efficace des données.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:9
 #, no-wrap
 msgid "The concept of data management includes a wide range of topics, from metadata formats to database organization.\n"
 "In this presentation we are going to discuss an important set of principles necessary to improve data through the processes of data cleaning.\n"
-msgstr ""
+msgstr "Le concept de gestion des données comprend une énorme gamme de sujets, de formats de métadonnées à l'organisation de la base de données.\n"
+"Dans cette présentation, nous allons discuter d'un ensemble de principes important qui sont nécessaires pour améliorer les données à travers les processus de nettoyage des données.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:13
@@ -5291,49 +5313,49 @@ msgstr "// Diapositive 4\n"
 #: scripts/data-management.en.txt:23
 #, no-wrap
 msgid "Although there are many methods that can be applied while cleaning data, we view the process of cleaning in five general steps:\n"
-msgstr ""
+msgstr "Bien qu'il y ait beaucoup de méthodes qui peuvent être appliquées lors du nettoyage des données, nous voyons le processus de nettoyage en cinq étapes générales :\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:25
 #, no-wrap
 msgid "First, we seek to determine and define the types of errors that are most likely present in our data.\n"
-msgstr ""
+msgstr "Tout d'abord, nous cherchons à déterminer et à définir les types d'erreurs qui sont les plus susceptibles d'être présentes dans nos données.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:27
 #, no-wrap
 msgid "Next, we conduct a search to identify the instances where those error have occurred.\n"
-msgstr ""
+msgstr "Ensuite, nous effectuons une recherche pour identifier les instances où ces erreurs se sont produites.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:29
 #, no-wrap
 msgid "Then, we will correct those errors, whenever possible.\n"
-msgstr ""
+msgstr "Puis, nous corrigerons ces erreurs, dès que possible.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:31
 #, no-wrap
 msgid "When we decide on the best means to make corrections, we want to document both the types of errors we find, as well as the solutions we have applied to them.\n"
-msgstr ""
+msgstr "Lorsque nous décidons des meilleurs moyens de rectification, nous voulons documenter à la fois les types d'erreurs que nous trouvons, ainsi que les solutions que nous leur avons appliquées.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:33
 #, no-wrap
 msgid "Finally, we want to modify how data entry is practiced to reduce future errors of the same type. (Maletic & Marcus, 2000)\n"
-msgstr ""
+msgstr "Enfin, nous voulons modifier la manière dont la saisie des données est pratiquée pour réduire les erreurs futures du même type. (Maletic & Marcus, 2000)\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:37
 #, no-wrap
 msgid "One thing is certain: Errors are common and we can always expect to find them in the data we maintain.\n"
-msgstr ""
+msgstr "Une chose est certaine : les erreurs sont fréquentes et nous pouvons toujours nous attendre à les trouver dans les données que nous maintenons.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:39
 #, no-wrap
 msgid "Our goal is to apply the best practices, including principles, processes, and tools, to make the data as fit for use as possible, even if we don’t know how data users will use the data.\n"
-msgstr ""
+msgstr "Notre but est d'appliquer les meilleures pratiques, y compris les principes, les processus et les outils, pour rendre les données aussi appropriées que possible même si nous ne savons pas comment les utilisateurs utiliseront les données.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:45
@@ -5341,13 +5363,15 @@ msgstr ""
 msgid "Let’s take a look at several of the recommended principles of data cleaning.\n"
 "These principles are presented for your consideration so that you can develop and improve upon your own data quality workflow.\n"
 "The workflow that you create should represent the most efficient and effective process to achieve the highest data quality given your institution’s resources and expertise.\n"
-msgstr ""
+msgstr "Examinons plusieurs des principes recommandés de nettoyage des données.\n"
+"Ces principes sont présentés pour votre considération afin que vous puissiez développer et améliorer votre propre flux de travail sur la qualité de vos données.\n"
+"Le flux de travail que vous créez doit représenter le processus le plus efficace pour obtenir la meilleure qualité de données, compte tenu des ressources et de l'expertise de votre institution.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:47
 #, no-wrap
 msgid "Talk to your colleagues to learn about their workflows, but ultimately you should strive to create a workflow that will help you to achieve your data quality goals.\n"
-msgstr ""
+msgstr "Parlez à vos collègues pour en savoir plus sur leurs flux de travail, mais en fin de compte, vous devriez vous efforcer à créer un flux de travail qui vous aidera à atteindre vos objectifs de qualité des données.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:49
@@ -5368,7 +5392,10 @@ msgid "Plan how you want the cleaning process to go.\n"
 "A scattered or random approach is not likely to produce consistent results.\n"
 "Develop and implement a strategy that fits with your institution’s resources and expertise.\n"
 "A solid plan will improve both your data and the reputation of your institution among data users.\n"
-msgstr ""
+msgstr "Planifiez comment vous voulez que le processus de nettoyage fonctionne.\n"
+"Une approche éparse ou aléatoire n'est pas susceptible de produire des résultats cohérents.\n"
+"Élaborer et mettrez en œuvre une stratégie adaptée aux ressources et à l’expertise de votre institution.\n"
+"Un plan solide améliorera vos données et la réputation de votre institution parmi les utilisateurs de données.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:61
@@ -5377,7 +5404,10 @@ msgid "One of the first steps of your plan should be to organize the data.\n"
 "For example, you could organize your data by taxon and then send the appropriate subset of data to individuals with the knowledge or resources to clean based on names.\n"
 "This can be done by geography or basis of record, or even in specifically sized packages of data in numeric order.\n"
 "Work to the strengths of your institution.\n"
-msgstr ""
+msgstr "Une des premières étapes de votre plan devrait être d'organiser les données.\n"
+"Par exemple, vous pouvez organiser vos données par taxon et ensuite envoyer le sous-ensemble approprié de données aux personnes ayant la connaissance ou les ressources à nettoyer en fonction des noms.\n"
+"Cela peut être fait par géographie ou base d'enregistrement, ou même dans des paquets de données de taille spécifique dans l'ordre numérique.\n"
+"Travaillez aux points forts de votre institution.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:68
