@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-24 22:24\n"
+"PO-Revision-Date: 2021-04-24 23:19\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5780,7 +5780,9 @@ msgstr "Quelle est la précision de vos données ? \n"
 msgid "How Timely are they? \n"
 "When will the data be made available? \n"
 "How often are they updated? \n"
-msgstr ""
+msgstr "À quel point sont-elles opportunes ? \n"
+"Quand les données seront-elles disponibles ? \n"
+"Combien de fois sont-elles mises à jour ? \n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:84
@@ -5788,7 +5790,9 @@ msgstr ""
 msgid "How Complete or Comprehensive are the data? \n"
 "Which parts of your dataset are documented fully? \n"
 "How well do the data cover a particular time, place, or domain?\n"
-msgstr ""
+msgstr "Dans quelle mesure les données sont-elles complètes ou globales? \n"
+"Quelles parties de votre jeu de données sont entièrement documentées ? \n"
+"Dans quelle mesure les données couvrent-elles particulièrement une période, lieu ou domaine ?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:88
@@ -5796,14 +5800,17 @@ msgstr ""
 msgid "How Consistent are they? \n"
 "Is the data in each field always of the same type? \n"
 "Was the data collected using the same documented protocols?\n"
-msgstr ""
+msgstr "A quel point sont elles cohérentes ? \n"
+"Les données dans chaque champ sont-elles toujours du même type? \n"
+"Les données ont-elles été collectées en utilisant les mêmes protocoles documentés ?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:91
 #, no-wrap
 msgid "How Relevant are they? \n"
 "How similar is this dataset to others that have been used successfully for the same purpose?\n"
-msgstr ""
+msgstr "À quel point sont-elles pertinentes ? \n"
+"À quel point ce jeu de données est-il similaire à d'autres qui ont été utilisés avec succès dans le même but ?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:95
@@ -5811,7 +5818,9 @@ msgstr ""
 msgid "How Detailed are the data? \n"
 "How much resolution is there in your data? \n"
 "At what scale can they be used for mapping?\n"
-msgstr ""
+msgstr "Dans quelle mesure les données sont-elles détaillées ? \n"
+"Quelle est la résolution de vos données ? \n"
+"À quelle échelle peuvent-elles être utilisées pour la cartographie ?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:99
@@ -5819,101 +5828,107 @@ msgstr ""
 msgid "Is the data Easy to interpret? \n"
 "Is the dataset documented in a clear and concise way? \n"
 "If your documents are handwritten, are they legible?\n"
-msgstr ""
+msgstr "Les données sont-elles faciles à interpréter ? \n"
+"Le jeu de données est-il documenté de manière claire et concise ? \n"
+"Si vos documents sont manuscrits, sont-ils lisibles ?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:101
 #, no-wrap
 msgid "// SLIDE 11\n"
-msgstr ""
+msgstr "// DIAPO 11\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:103
 #, no-wrap
 msgid "While Fitness for Use is subjective, measures of data quality are much less so.\n"
-msgstr ""
+msgstr "Bien que l’Aptitude à l’emploi soit subjectif, les mesures de la qualité des données le sont beaucoup moins.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:106
 #, no-wrap
 msgid "Chapman states that: \"All data include error – there is no escaping it! \n"
 "It is knowing what the error is that is important, and knowing if the error is within acceptable limits for the purpose to which the data are to be put.”\n"
-msgstr ""
+msgstr "Chapman dit que : \"Toutes les données contiennent de l'erreur – il n'y a pas moyen d'en échapper! \n"
+"C'est de savoir quelle est l’importance de cette erreur, et si l'erreur est dans les limites acceptables pour la finalité à laquelle les données sont destinées.\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:108
 #, no-wrap
 msgid "// SLIDE 12\n"
-msgstr ""
+msgstr "// DIAPO 12\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:110
 #, no-wrap
 msgid "We can use two measures of quality, Correctness and Consistency, to help us to document these inherent errors in data.\n"
-msgstr ""
+msgstr "Nous pouvons utiliser deux mesures de qualité, de précision et de cohérence pour nous aider à documenter ces erreurs inhérentes dans les données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:112
 #, no-wrap
 msgid "Correctness, sometimes called accuracy, is “How close the recorded value is to the actual, real-world value”.\n"
-msgstr ""
+msgstr "L’exactitude, parfois appelée précision, est « Comment la valeur enregistrée se rapproche de la valeur réelle ».\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:114
 #, no-wrap
 msgid "In this diagram accuracy is how close a given dot is to the centre of the target.\n"
-msgstr ""
+msgstr "Dans ce diagramme, la précision est la distance à laquelle se trouve un point donné du centre de la cible.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:116
 #, no-wrap
 msgid "Consistency, sometimes called precision, is “How often you get it right”\n"
-msgstr ""
+msgstr "La cohérence, parfois appelée précision, est « Combien de fois avez-vous raison »\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:118
 #, no-wrap
 msgid "In this diagram, precision is how close the dots are together irrespective of how close they are to the centre of the target.\n"
-msgstr ""
+msgstr "Dans ce diagramme, la précision est de savoir à quel point les points sont proches les uns des autres indépendamment de la distance à laquelle ils sont du centre de la cible.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:121
 #, no-wrap
 msgid "These are measures of how well the data gatherer was able to capture the true value being investigated.\n"
 "Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.\n"
-msgstr ""
+msgstr "Ce sont des mesures qui montrent à quel point le collecteur de données a été en mesure de saisir la véritable valeur étudiée.\n"
+"Connaître ces propriétés de vos données vous aidera à comprendre comment vous pouvez et ne pouvez pas nettoyer, valider et traiter les données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
 #, no-wrap
 msgid "// SLIDE 13\n"
-msgstr ""
+msgstr "// DIAPO 13\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:126
 #, no-wrap
 msgid "This image provides a clear set of illustrations of accuracy and precision.\n"
 "This may be a good image to keep with you when you have to explain these concepts to others.\n"
-msgstr ""
+msgstr "Cette image fournit un ensemble clair d'illustrations d’exactitude et de précision.\n"
+"Ceci peut être une bonne image à garder avec vous quand vous devez expliquer ces concepts à autrui.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:128
 #, no-wrap
 msgid "// SLIDE 14\n"
-msgstr ""
+msgstr "// DIAPO 14\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:131
 #, no-wrap
 msgid "Let’s look at some examples of Correctness, or accuracy, and how it can help us think about the practicalities of data cleaning.\n"
 "Remember that Correctness is how close you are to the center of a target.\n"
-msgstr ""
+msgstr "Examinons quelques exemples d’exactitude, ou de précision, et comment cela peut nous aider à réfléchir sur les aspects pratiques du nettoyage des données.\n"
+"Rappelez-vous que l’exactitude est à quel point vous êtes proche du centre d'une cible.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:133
 #, no-wrap
 msgid "Let’s look at an example.\n"
-msgstr ""
+msgstr "Prenons un exemple.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:135
