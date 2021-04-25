@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-25 12:19\n"
+"PO-Revision-Date: 2021-04-25 13:20\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6207,31 +6207,32 @@ msgstr "Comme vous pouvez le voir sur cette diapositive, Le GBIF prend actuellem
 #, no-wrap
 msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
 "In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
-msgstr ""
+msgstr "Le premier type de jeu de données qui peut être publié dans le GBIF est la checklist, aka une liste d'espèces ou des taxons supérieurs.\n"
+"Dans une checklist, l'unité principale est le taxon, pas l'occurrence (individu).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:19
 #, no-wrap
 msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
-msgstr ""
+msgstr "Les checklist, et plus généralement, les jeux de données taxonomiques peuvent varier dans la portée : \n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:21
 #, no-wrap
 msgid "a list of species present in a protected area is a checklist.\n"
-msgstr ""
+msgstr "une liste d'espèces présentes dans une zone protégée est une checklist.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:23
 #, no-wrap
 msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
-msgstr ""
+msgstr "une liste nationale ou thématique de taxons (ex. Papillons du Laos, ou la flore de la Malaisie), qui fournissent parfois plus d'informations sur la distribution, la hiérarchie taxonomique et les synonymes des taxons sont une checklist.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:25
 #, no-wrap
 msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
-msgstr ""
+msgstr "Les listes rouges de l'UICN (à l'échelle internationale, les niveaux nationaux ou régionaux) sont également des checklist et peuvent donner plus d'informations sur l'état de vulnérabilité des taxons répertoriés.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:31
@@ -6239,7 +6240,9 @@ msgstr ""
 msgid "GBIF provides data publishers with templates for each class of dataset.\n"
 "The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
 "In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
-msgstr ""
+msgstr "Le GBIF fournit aux éditeurs de données des modèles pour chaque classe de jeu de données.\n"
+"Le modèle du GBIF pour les checklist (données de taxon) vous permet de partager des informations liées à chaque espèce ou taxon : son ID, le nom complet et l’auteur, la relation avec d’autres taxons, les détails géographiques, etc.\n"
+"Dans ce modèle, une ligne représente un taxon et un taxon ne peut apparaître qu'une seule fois dans le jeu de données (sinon ça créera un doublon).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:36
