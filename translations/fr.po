@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-24 23:19\n"
+"PO-Revision-Date: 2021-04-25 11:19\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5934,38 +5934,39 @@ msgstr "Prenons un exemple.\n"
 #: scripts/data-quality.en.txt:135
 #, no-wrap
 msgid "// SLIDE 15\n"
-msgstr ""
+msgstr "// DIAPO 15\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:138
 #, no-wrap
 msgid "For this example, let’s imagine your dataset contains records of fossil bird specimens from the Early Triassic Period.\n"
 "The taxonomic name for a number of specimens in your dataset is recorded as Thismia.\n"
-msgstr ""
+msgstr "Pour cet exemple, imaginons que votre jeu de données contienne des enregistrements de spécimens d'oiseaux fossiles de la période du Triassique Antique.\n"
+"Le nom taxonomique pour un nombre de spécimens dans votre jeu de données est enregistré comme Thismia.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:140
 #, no-wrap
 msgid "Do you know if Thismia is a taxon of ancient birds?\n"
-msgstr ""
+msgstr "Savez-vous si Thismia est un taxon d'oiseaux anciens ?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:143
 #, no-wrap
 msgid "// SLIDE 16\n"
-msgstr ""
+msgstr "// DIAPO 16\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:145
 #, no-wrap
 msgid "In this case, the answer is no! \n"
-msgstr ""
+msgstr "Dans ce cas, la réponse est non! \n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:147
 #, no-wrap
 msgid "Thismia is a very rare plant from the State of Illinois in the United States.\n"
-msgstr ""
+msgstr "La thismie est une plante très rare de l'État de l'Illinois aux Etats-Unis.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:151
@@ -5973,56 +5974,59 @@ msgstr ""
 msgid "As a result, the correctness, or accuracy, of the taxonomic name is low.\n"
 "Perhaps because the data entry technician was not a paleontologist.\n"
 "As a result, all of the names in the dataset might need to be checked and corrected by an expert before the data could be used.\n"
-msgstr ""
+msgstr "En conséquence, la précision, ou l'exactitude, du nom taxonomique est faible.\n"
+"Peut-être parce que le technicien de saisie de données n'était pas un paléontologue.\n"
+"Résultat, tous les noms dans le jeu de données peuvent avoir besoin d'être vérifiés et corrigés par un expert avant que les données puissent être utilisées.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:153
 #, no-wrap
 msgid "// SLIDE 17\n"
-msgstr ""
+msgstr "// DIAPO 17\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:156
 #, no-wrap
 msgid "Let’s look at another example.\n"
 "Here, your dataset contains specimens collected in a place called Kalamazoo by a scientist named Richard Spruce.\n"
-msgstr ""
+msgstr "Regardons un autre exemple.\n"
+"Ici, votre jeu de données contient des spécimens collectés dans un endroit appelé Kalamazoo par un scientifique nommé Richard Spruce.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:158
 #, no-wrap
 msgid "We must ask ourselves:\n"
-msgstr ""
+msgstr "Nous devons nous poser la question suivante:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:160
 #, no-wrap
 msgid "Is 49007 the right postal code for Kalamazoo?\n"
-msgstr ""
+msgstr "Le 49007 est-il le bon code postal pour Kalamazoo ?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:162
 #, no-wrap
 msgid "Did Richard Spruce collect in Michigan?\n"
-msgstr ""
+msgstr "Richard Spruce a-t-il collecté au Michigan?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:164
 #, no-wrap
 msgid "// SLIDE 18\n"
-msgstr ""
+msgstr "// DIAPO 18\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:166
 #, no-wrap
 msgid "In this case, the answer is yes to our first question, 49007 is a postal code for Kalamazoo, so the accuracy of the locality is good, but what about the collector, Richard Spruce?\n"
-msgstr ""
+msgstr "Dans ce cas, la réponse est oui à notre première question, 49007 est un code postal pour Kalamazoo, donc la précision de la localité est bonne, mais qu'en est-il du collecteur, Richard Spruce?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:168
 #, no-wrap
 msgid "// SLIDE 19\n"
-msgstr ""
+msgstr "// DIAPO 19\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:172
@@ -6030,7 +6034,9 @@ msgstr ""
 msgid "There is, in fact, a famous botanist named Richard Spruce.\n"
 "He was born in 1817 and died in 1893, but he conducted his collecting in the Amazon Basin and Andes mountains in South America.\n"
 "Something is not quite right, so we need to find out more about the collector before we can be confident in the correctness of these data.\n"
-msgstr ""
+msgstr "Il y a en effet un botaniste célèbre nommé Richard Spruce.\n"
+"Né en 1817 et décédé en 1893, il dirigea sa collection dans le bassin amazonien et les montagnes des Andes en Amérique du Sud.\n"
+"Quelque chose n'est pas tout à fait juste, donc nous devons en savoir plus sur le collecteur avant d’avoir confiance à l’exactitude de ces données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:174
