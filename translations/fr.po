@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-25 11:19\n"
+"PO-Revision-Date: 2021-04-25 12:19\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6042,19 +6042,19 @@ msgstr "Il y a en effet un botaniste célèbre nommé Richard Spruce.\n"
 #: scripts/data-quality.en.txt:174
 #, no-wrap
 msgid "// SLIDE 20\n"
-msgstr ""
+msgstr "// DIAPO 20\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:176
 #, no-wrap
 msgid "Let’s take a look now at what Consistency, or precision, means to data.\n"
-msgstr ""
+msgstr "Regardons maintenant ce que la cohérence, ou la précision, signifie pour les données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:178
 #, no-wrap
 msgid "Consistency represents how many times you get the same answer, regardless of where the center of the target lies.\n"
-msgstr ""
+msgstr "La cohérence représente le nombre de fois où vous obtenez la même réponse, peu importe où se trouve le centre de la cible.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:182
@@ -6062,38 +6062,41 @@ msgstr ""
 msgid "For example, your dataset contains botanical occurrences including a field, or column, named “Full Name”.\n"
 "This field contains the name of the specimen collector.\n"
 "As you can see there are five different names, but how many unique collectors are there? Can you tell just by looking at the names?\n"
-msgstr ""
+msgstr "Par exemple, votre jeu de données contient des occurrences botaniques incluant un champ, ou une colonne, nommé « Full Name ».\n"
+"Ce champ contient le nom du collecteur du spécimen.\n"
+"Comme vous pouvez le voir, il y a cinq noms différents, mais combien de collecteurs uniques y a-t-il ? Peux-tu dire simplement en regardant les noms ?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:184
 #, no-wrap
 msgid "// SLIDE 21\n"
-msgstr ""
+msgstr "// DIAPO 21\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:186
 #, no-wrap
 msgid "Sometimes, if you are familiar with the dataset, you might know how many collectors are represented just by looking at the data, but if you don’t know these data well, you might need to do some research, ask some questions or look at the original field notes.\n"
-msgstr ""
+msgstr "Parfois, si vous êtes familier avec le jeu de données, vous pouvez savoir combien de collecteurs sont représentés simplement en regardant les données, mais si vous ne connaissez pas bien ces données, vous devrez peut-être faire des recherches, poser des questions ou regarder les notes de terrain originales.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:188
 #, no-wrap
 msgid "In this example, if you guessed that these five names represent two or three unique collectors, you would be right.\n"
-msgstr ""
+msgstr "Dans cet exemple, si vous devinez que ces cinq noms représentent deux ou trois collecteurs uniques, vous auriez raison.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:191
 #, no-wrap
 msgid "In blue, Joseph Dalton Hooker AND Hook.f.\n"
 "are the same person.\n"
-msgstr ""
+msgstr "En bleu, Joseph Dalton Hooker ET Hook.f.\n"
+"sont la même personne.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:193
 #, no-wrap
 msgid "Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).\n"
-msgstr ""
+msgstr "La période est l'abréviation utilisée pour Joseph Dalton Hooker (1817-1911).\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:197
@@ -6101,7 +6104,9 @@ msgstr ""
 msgid "In green, W.J. Hooker and Hook. are the same person.\n"
 "Period is the abbreviation for William Jackson Hooker (1785-1865).\n"
 "William was actually Joseph’s father.\n"
-msgstr ""
+msgstr "En vert, W.J. Hooker et Hook. sont la même personne.\n"
+"La période est l'abréviation de William Jackson Hooker (1785-1865).\n"
+"William était en fait le père de Joseph.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:201
@@ -6109,85 +6114,93 @@ msgstr ""
 msgid "Finally, in the red, there is “Hooker, J.” \n"
 "This entry could be an error or typo of either Joseph or William Hooker, OR it could be a third person with a similar name.\n"
 "Thus, more research would be needed to clarify these data.\n"
-msgstr ""
+msgstr "Enfin, dans le rouge, il y a “Hooker, J. \n"
+"Cette entrée peut être une erreur ou une faute de Joseph ou William Hooker, OU elle pourrait être une troisième personne avec un nom similaire.\n"
+"Ainsi, plus de recherche serait nécessaire pour clarifier ces données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:203
 #, no-wrap
 msgid "// SLIDE 22\n"
-msgstr ""
+msgstr "// DIAPO 22\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:206
 #, no-wrap
 msgid "We have just discussed several simple illustrations of two measures of data quality.\n"
 "These examples should give you a basic understanding about how to identify the inaccuracies and imprecisions in data.\n"
-msgstr ""
+msgstr "Nous venons de discuter de plusieurs exemples simples de deux mesures de qualité des données.\n"
+"Ces exemples doivent vous donner une compréhension de base sur la façon d'identifier les inexactitudes et les imprécisions dans les données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:208
 #, no-wrap
 msgid "How we document and fix these issues or errors is a process that we call data cleaning.\n"
-msgstr ""
+msgstr "La façon dont nous documentons et corrigeons ces problèmes ou erreurs est un processus que nous appelons le nettoyage des données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:210
 #, no-wrap
 msgid "More specifically:\n"
-msgstr ""
+msgstr "Plus spécifiquement:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:213
 #, no-wrap
 msgid "Data cleaning is the process of correcting or removing dirty data caused by contradictions, disparities, keying mistakes, missing bits, and more.\n"
 "It also includes validation of the changes made, and may require normalization.\n"
-msgstr ""
+msgstr "Le nettoyage des données est le processus de correction ou de suppression des données sales causées par des contradictions, des disparités, des erreurs de saisie, des bits manquants, et plus encore.\n"
+"Il comprend aussi la validation des modifications faites, et peut nécessiter la normalisation.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:215
 #, no-wrap
 msgid "Our data cleaning, or lack thereof, will affect how data users perceive your data’s fitness for use.\n"
-msgstr ""
+msgstr "Le nettoyage des données, ou son absence, affectera la manière dont les utilisateurs perçoivent l’aptitude à l’emploi de vos données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:217
 #, no-wrap
 msgid "It is not necessary for you to do all the data cleaning yourself, in fact, a common misconception is that all errors MUST be fixed before you can share your data.\n"
-msgstr ""
+msgstr "Il n'est pas nécessaire que vous fassiez tout le nettoyage de vos données vous-même, en fait, une idée erronée commune est que toutes les erreurs DOIVENT être corrigées avant de pouvoir partager vos données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:220
 #, no-wrap
 msgid "The truth is that you can only clean as much data as your time, knowledge, and resources permit.\n"
 "As a result, it is essential to document what you know and what you do not know about your data so that when you do share them, data users will know the level of the quality of your data.\n"
-msgstr ""
+msgstr "La vérité est que vous ne pouvez nettoyer autant de données que votre temps, vos connaissances et vos ressources le permettent.\n"
+"En conséquence, il est essentiel de documenter ce que vous savez et ce que vous ne savez pas de vos données afin que lorsque vous les partagerez, les utilisateurs connaissent le niveau de qualité de vos données.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:222
 #, no-wrap
 msgid "// SLIDE 23\n"
-msgstr ""
+msgstr "// DIAPO 23\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:229
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant with additional contributions by Dag Endresen, David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "Cette présentation a été créée à l'origine par Sharon Grant avec des contributions supplémentaires de Dag Endresen, David Bloom, les formateurs du BID et du BIFA, les Mentors et les Étudiants.\n"
+"Cette présentation a été narrée par David Bloom.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:5
 #, no-wrap
 msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
 "These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
-msgstr ""
+msgstr "Dans cette présentation, nous allons examiner les différents types de données qui peuvent être appelés « données primaires de la biodiversité » et partagées au sein du GBIF.\n"
+"Ces données peuvent être complexes et avoir des origines différentes ; nous verrons comment elles peuvent être structurées en une des trois classes de données acceptées par GBIF, basé sur le standard de partage de données Darwin Core utilisée au sein de la communauté GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:10
 #, no-wrap
 msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
 "I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
-msgstr ""
+msgstr "Comme vous pouvez le voir sur cette diapositive, Le GBIF prend actuellement en charge quatre types de jeux de données : les jeux de données de ressources (ex. jeux de données pour les métadonnées uniquement), checklist des espèces, jeux de données Occurrence et jeux de données pour les évènements d’échantillonnage.\n"
+"Je ne discuterai pas des jeux de données Ressources dans cette présentation car les jeux de données contenant uniquement des métadonnées ne sont pas pris en compte par les programmes financés par le GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:15
