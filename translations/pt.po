@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-26 14:14\n"
+"PO-Revision-Date: 2021-04-26 15:17\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -704,12 +704,12 @@ msgstr "https://openrefine.org/[OpenRefine^] é uma ferramenta com um conjunto d
 #. type: delimited block *
 #: foundations.en.adoc:230
 msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
-msgstr ""
+msgstr "Utilizaremos o OpenRefine durante a parte de mobilização de dados do curso, especialmente durante os exercícios práticos. Será necessário instalar o OpenRefine no seu portátil. Se é um utilizador qualificado de computador, pode seguir estas etapas para instalar o software no seu computador. Se não é confiante, por favor peça ajuda. Consulte https://openrefine.org/download.html[OpenRefine download page^] para obter mais detalhes."
 
 #. type: delimited block *
 #: foundations.en.adoc:232
 msgid "Administrative passwords may be required to install software."
-msgstr ""
+msgstr "Palavras-passe administrativas podem ser necessárias para instalar o software."
 
 #. type: Title ====
 #: foundations.en.adoc:233
@@ -720,81 +720,81 @@ msgstr "Requisitos de Instalação"
 #. type: delimited block *
 #: foundations.en.adoc:236
 msgid "Java JRE installed."
-msgstr ""
+msgstr "Java JRE instalado."
 
 #. type: delimited block *
 #: foundations.en.adoc:237
 msgid "Google Chrome or Mozilla Firefox installed, avoid using Internet Explorer."
-msgstr ""
+msgstr "Google Chrome ou Mozilla Firefox instalados, evite usar o Internet Explorer."
 
 #. type: delimited block *
 #: foundations.en.adoc:239
 msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
-msgstr ""
+msgstr "A última versão estável é o OpenRefine 3.4.1, lançado em 24 de setembro de 2020. Instruções detalhadas de instalação estão disponíveis em https://docs.openrefine.org/manual/installing/[^]."
 
 #. type: Title ====
 #: foundations.en.adoc:240
 #, no-wrap
 msgid "Installation on MS Windows"
-msgstr ""
+msgstr "Instalação no MS Windows"
 
 #. type: delimited block *
 #: foundations.en.adoc:243
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[Windows kit] or https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit with embedded Java]."
-msgstr ""
+msgstr "Descarregue o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[kit do Windows] ou https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[kit do Windows com Java embutido."
 
 #. type: delimited block *
 #: foundations.en.adoc:244
 msgid "Unzip, and double-click on openrefine.exe or refine.bat if the former does not work.."
-msgstr ""
+msgstr "Descomprima e faça duplo clique no openrefine.exe ou refine.bat se o primeiro não funcionar."
 
 #. type: delimited block *
 #: foundations.en.adoc:245
 msgid "A command window will appear (don't close it) and immediately after a new web browser window will show the application."
-msgstr ""
+msgstr "Uma janela de comando aparecerá (não feche-a) e imediatamente após uma nova janela do navegador web irá mostrar a aplicação."
 
 #. type: Title ====
 #: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on Mac"
-msgstr ""
+msgstr "Instalação no Mac"
 
 #. type: delimited block *
 #: foundations.en.adoc:249
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit.]"
-msgstr ""
+msgstr "Descarregue o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit.]"
 
 #. type: delimited block *
 #: foundations.en.adoc:251
 msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
-msgstr ""
+msgstr "Descarregue, abra, arraste o ícone para a pasta Aplicações. Não precisa instalar o Java separadamente."
 
 #. type: delimited block *
 #: foundations.en.adoc:252
 msgid "Double click on it and a new web browser window will show the application."
-msgstr ""
+msgstr "Clique duas vezes nele e uma nova janela do navegador da Web exibirá a aplicação."
 
 #. type: Title ====
 #: foundations.en.adoc:253
 #, no-wrap
 msgid "Installation on Linux"
-msgstr ""
+msgstr "Instalação no Linux"
 
 #. type: delimited block *
 #: foundations.en.adoc:256
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit.]"
-msgstr ""
+msgstr "Descarregue o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit.]"
 
 #. type: delimited block *
 #: foundations.en.adoc:258
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
-msgstr ""
+msgstr "Descarregue, extraia, em seguida digite ./refine para iniciar. Este requer que o Java esteja instalado no seu computador."
 
 #. type: Title ===
 #: foundations.en.adoc:259
 #, no-wrap
 msgid "Foundations review"
-msgstr ""
+msgstr "Revisão das fundações"
 
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
@@ -898,13 +898,26 @@ msgid "* 1236975 +\n"
 "  __boolean__\n"
 "* 6 rabbits were observed +\n"
 "  __text__\n"
-msgstr ""
+msgstr "* 1236975 +\n"
+"  __integração longa__\n"
+"* 01101111 +\n"
+"  __binário__\n"
+"* Caminhamos 5 milhas pela estrada a oeste do correio, no centro da cidade. Depois seguimos 2 milhas a norte em um caminho de terra até o rio. Então continuámos a oeste ao longo do rio por mais 5 milhas. +\n"
+"  __texto não estruturado__\n"
+"* 1024 +\n"
+"  __integrado__\n"
+"* 29. +\n"
+"  __float__\n"
+"* Sim/Não +\n"
+"  __booleano__\n"
+"* 6 coelhos foram observados +\n"
+"  __texto__\n"
 
 #.  Question 5
 #. type: Plain text
 #: foundations.en.adoc:328
 msgid "Which of these terms describes a \"field/column name\"?"
-msgstr ""
+msgstr "Qual destes termos descreve um nome de \"campo/coluna\"?"
 
 #. type: delimited block .
 #: foundations.en.adoc:337
@@ -915,13 +928,18 @@ msgid "- [x] Assigned\n"
 "- [ ] Readable\n"
 "- [x] Unique\n"
 "- [ ] User-interface\n"
-msgstr ""
+msgstr "- [x] Atribuído\n"
+"- [ ] Descritivo\n"
+"- [x] Identificador\n"
+"- [ ] Legível\n"
+"- [x] Único\n"
+"- [ ] Interface de utilizador\n"
 
 #.  Question 6
 #. type: Plain text
 #: foundations.en.adoc:340
 msgid "Which of these terms describes a \"field label\"?"
-msgstr ""
+msgstr "Quais destes termos descreve uma \"etiqueta de campo\"?"
 
 #. type: delimited block .
 #: foundations.en.adoc:349
@@ -932,13 +950,18 @@ msgid "- [ ] Assigned\n"
 "- [x] Readable\n"
 "- [ ] Unique\n"
 "- [x] User-interface\n"
-msgstr ""
+msgstr "- [x] Atribuído\n"
+"- [ ] Descritivo\n"
+"- [x] Identificador\n"
+"- [ ] Legível\n"
+"- [x] Único\n"
+"- [ ] Interface de utilizador\n"
 
 #.  Question 7
 #. type: Plain text
 #: foundations.en.adoc:352
 msgid "For each statement, input the correct structure (row, column, table)"
-msgstr ""
+msgstr "Para cada afirmação, insira a estrutura correta (linha, coluna, tabela)"
 
 #. type: delimited block .
 #: foundations.en.adoc:361
@@ -949,7 +972,12 @@ msgid "* All data refers to a SINGLE concept. +\n"
 "  __column__\n"
 "* Attributes of a record ALWAYS stay together. +\n"
 "  __row__\n"
-msgstr ""
+msgstr "* Todos os dados se referem a um conceito SINGLE. +\n"
+"  __tabela__\n"
+"* Um atributo tem o tipo de campo/dado de cada registo. +\n"
+"  __coluna__\n"
+"* Atributos de um registo permanentemente. +\n"
+"  __linha__\n"
 
 #.  Question 8
 #. type: Plain text
@@ -1000,7 +1028,7 @@ msgstr "* Alta acurácia, baixa precisão +\n"
 #. type: Plain text
 #: foundations.en.adoc:389
 msgid "Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are used."
-msgstr ""
+msgstr "Identifique as relações de dados em que o Dataset B precisa ser mesclado ao conjunto de dados A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Nem todas as relações são utilizadas."
 
 #. type: delimited block .
 #: foundations.en.adoc:404
@@ -1017,13 +1045,24 @@ msgid "* Collector field exists in both dataset A and B +\n"
 "  __1:0__\n"
 "* Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +\n"
 "  __1:∞__\n"
-msgstr ""
+msgstr "* O campo de coletor de dados existe em ambos os conjuntos de dados A e B +\n"
+"  __1:1__\n"
+"* O campo País só existe no conjunto de dados B +\n"
+"  __0:1__\n"
+"* O campo Nome existe no conjunto de dados A, mas o dataset B contém campos de Primeiro Nome e Sobrenome +\n"
+"  __1:__\n"
+"* campo de ID existe nos conjuntos de dados A e B +\n"
+"  __1:1__\n"
+"* Elevação existe no conjunto de dados A, mas não no conjunto de dados B +\n"
+"  __1:0__\n"
+"* Data existe no conjunto de dados A, mas Dia, Mês e Ano são campos separados no conjunto de dados B +\n"
+"  __1:__\n"
 
 #.  Question 11
 #. type: Plain text
 #: foundations.en.adoc:407
 msgid "Metadata is important because (select the TRUE statements):"
-msgstr ""
+msgstr "Metadados são importantes porque (selecione as declarações VERDADEIRAS):"
 
 #. type: delimited block .
 #: foundations.en.adoc:415
@@ -1033,25 +1072,29 @@ msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [x] it allows you to know under which legal terms the reuse of data is permitted.\n"
 "- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
 "- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
-msgstr ""
+msgstr "- [x] permite que os utilizadores determinem se um conjunto de dados é adequado para o seu uso.\n"
+"- [ ] permite que você compartilhe coordenadas exatas para cada ocorrência.\n"
+"- [x] permite que você saiba sob quais termos legais a reutilização de dados é permitida.\n"
+"- [ ] isto também se aplica a todos os materiais suplementares e associados, incluindo imagens, vídeos e outras mídias.\n"
+"- [ ] permite que você saiba sobre a próxima exposição/horário de funcionamento da instituição.\n"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:3
 #, no-wrap
 msgid "Use Case I - Herbarium Specimens"
-msgstr ""
+msgstr "Use Case I - Espécime de Herbário"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-species.en.adoc:6
 #: use-case-lepidoptera-sampling.en.adoc:6
 #: use-case-birds-from-literature.en.adoc:6
 msgid "Familiarize yourself with the use case scenario."
-msgstr ""
+msgstr "Familiarize-se com o cenário do caso."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr ""
+msgstr "O caso I, é um caso prático para o planeamento, captura de dados, gestão de dados e módulos de publicação de dados. É recomendável que você desacarregue o link:../course-docs/UC1-Herbarium-Exercise_EN. ocx[folha de exercícios, opts=download] (MS Word 345 KB) para que possa fazer anotações conforme trabalha nos exercícios. Uma solução sugerida será fornecida no apêndice da solução. O caso I não é avaliado."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1059,30 +1102,30 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:9
 #, no-wrap
 msgid "Scenario"
-msgstr ""
+msgstr "Cenário"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:14
 #, no-wrap
 msgid "*A Data Mobilization Project in a Regional Herbarium*\n"
-msgstr ""
+msgstr "*Um Projecto de Mobilização de Dados em um Herbário Regional*\n"
 
 #. type: Block title
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] coletado na Guatemala por Coleção de Referência Rápida (RRC) Express Museum of Natural History - Keller Action Science Center (licenciado sob http://creativecommons. rg/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
 #, no-wrap
 msgid "img/web/use-case-1-Eriocaulon_bilobatum-cropped.png"
-msgstr ""
+msgstr "img/web/use-case-1-Eriocaulon_bilobatum-cropped.png"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:20
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. The data are from a real dataset, but have been modified for the purposes of these exercises. It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr ""
+msgstr "Esta narrativa foi desenvolvida como base para exercícios práticos no curso de mobilização de dados para a biodiversidade e o conceito e conteúdo do exercício foi desenvolvido por Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. Os dados são de um conjunto de dados real, mas foram modificados para os fins desses exercícios. É um cenário fictício e destina-se apenas a fins instrutivos."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:21 use-case-invasive-species.en.adoc:27
@@ -1090,67 +1133,67 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:22
 #, no-wrap
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:25
 msgid "The University of White Plains is a well recognized tertiary education institution in Guatemala and a national reference for biodiversity research.  The Plant Biology Department keeps a medium-size herbarium containing approximately 80,000 specimens collected in and around the local region and dating from the mid-20th century to the present.  The collection includes important specimens including types and endemics."
-msgstr ""
+msgstr "A Universidade de Planícies Brancas é uma instituição de ensino superior bem reconhecida na Guatemala e uma referência nacional à investigação sobre biodiversidade. O Departamento de Biologia de Plantas mantém herbário de médio tamanho contendo aproximadamente 80,000 espécimes colhidos dentro e em torno da região local e datam de meados do século Xx até o presente. A coleção inclui espécimes importantes como tipos e endémicos."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:29
 msgid "Currently, the care of the collection is assigned to the Professor of Plant Systematics, who performs curatorial tasks as well as their regular research and teaching work.  The Departmental Admin is responsible for day-to-day administrative tasks for the herbarium such as purchasing consumables including paper and labels.  Faculty staff and students collaborating within the department occasionally work on and update the identifications on the specimens and there are two retired botanists who regularly volunteer in the collection assisting the Professor to prepare loans."
-msgstr ""
+msgstr "Actualmente, os cuidados da coleção são atribuídos ao professor de Sistemática de Plantas, que realiza tarefas de curadoria, bem como seus trabalhos regulares de investigação e ensino. O Departamento Administrativo é responsável pelas tarefas administrativas do dia-a-dia do herbário, tais como a compra de materiais, incluindo papel e etiquetas. Os docentes e os alunos que colaboram no departamento trabalham ocasionalmente e actualizam as identificações sobre os espécimes e há dois botânicos aposentados que regularmente se voluntariam na coleção ajudando o professor a preparar os empréstimos."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:32
 msgid "The University already has an online search for its library collections which is maintained by the University’s central web-team on externally hosted servers.  No natural history specimens are currently served via this platform."
-msgstr ""
+msgstr "A Universidade já tem uma busca on-line em suas coleções de bibliotecas mantidas pela equipa central da Universidade, em servidores hospedados externamente. Nenhum espécime de história natural é actualmente integrado a esta plataforma."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:35
 msgid "The Head of the Plant Biology Department has recently secured a 50,000USD, two year grant to image and publish the botanical collections information online.  The team wants to use this opportunity to establish a permanent digitization and publishing protocol that will give higher visibility to the herbarium and continue attracting funding."
-msgstr ""
+msgstr "O Director do Departamento de Biologia de Plantas garantiu recentemente 50.000USD, dois anos de financiamento à captura de imagem e publicação online das informações de coleções botânicas. A equipa quer aproveitar esta oportunidade para estabelecer um protocolo  de digitalização e publicação permanentes, que dará maior visibilidade ao herbário e continuará a atrair financiamento."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:36 use-case-invasive-species.en.adoc:42
 #: use-case-lepidoptera-sampling.en.adoc:39
 #, no-wrap
 msgid "Data collection"
-msgstr ""
+msgstr "Recolha de dados"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:38
 #, no-wrap
 msgid "img/web/use-case-1-short-mountain-park.png"
-msgstr ""
+msgstr "img/web/use-case-1-short-mountain-park.png"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:44
 msgid "The herbarium comprises approximately 80,000 specimens collected from 1960 to 2015 concentrated mainly in the biodiversity hot spot -- Short Mountain National Park.  The collection is still growing as a result of exchanges, donations and several active research projects.  For each specimen, information about collector, time, date, location and taxonomy are documented.  So far no quality control measures have been carried out on the data and there has been no systematic imaging of specimens."
-msgstr ""
+msgstr "O herbário é composto por aproximadamente 80 mil espécimes coletados de 1960 a 2015, concentrados principalmente no hotspot de biodiversidade -- o Parque Nacional de Montanhas Curtas. A coleção continua a aumentar em resultado de intercâmbios, doações e vários projectos de investigação activos. Para cada espécime, informações sobre coletor, hora, data, local e taxonomia estão documentadas. Até à data, não foram tomadas quaisquer medidas de controlo de qualidade sobre os dados e não houve nenhuma captura de imagens de espécimes sistemática."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:45
 #, no-wrap
 msgid "Dataset description"
-msgstr ""
+msgstr "Descrição dos dados"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:48
 msgid "The professor has a simple non-relational database on his computer which serves as an index of many but not all specimens.  Any images of the specimens that exist are held locally by the individual researchers that took them."
-msgstr ""
+msgstr "O professor tem uma base de dados simples e não-relacional em seu computador, que serve como um índice de muitos, mas não de todos os espécimes. Quaisquer imagens dos espécimes existentes são mantidas localmente pelos investigadores individuais que as tiraram."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:49
 #, no-wrap
 msgid "Exercises"
-msgstr ""
+msgstr "Exercícios"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:52
 msgid "The individual exercises for this use case are located in the corresponding modules."
-msgstr ""
+msgstr "Os exercícios individuais para este caso de uso estão localizados nos módulos correspondentes."
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
