@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-26 11:58\n"
+"PO-Revision-Date: 2021-04-26 13:09\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6345,13 +6345,14 @@ msgstr ""
 #, no-wrap
 msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
 "Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
-msgstr ""
+msgstr "Ces autres sources comprennent des outils de télédétection, des cartes et des données satellitaires, et d'autres supports d'information tels que des images, des enregistrements audio et vidéo de la faune sauvage.\n"
+"La plupart du temps, les informations récupérées de cette façon sont complémentaires aux données existantes, mais peuvent fournir des informations précieuses sur les individus et leur emplacement, habitat, routes migratoires, etc.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:90
 #, no-wrap
 msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
-msgstr ""
+msgstr "Dans les diapositives suivantes, nous verrons comment le standard Darwin Core fonctionne avec différents types de données, et comment choisir la classe de jeu de données qui correspond le mieux à un jeu de données particulier.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:96
@@ -6375,7 +6376,9 @@ msgstr "// Diapositive 19\n"
 msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
 "The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
 "The data are then searchable and downloadable via GBIF.org.\n"
-msgstr ""
+msgstr "Une fois que les données ont été standardisées en utilisant la norme Darwin Core, chaque classe de jeu de données (métadonnées seulement, jeux de données d'événements d'échantillonnage, taxonomiques ou d'occurrences) peut être publiée sur GBIF.org en utilisant l'un des outils présentés sur cette figure.\n"
+"L'outil le plus fréquemment utilisé au sein de la communauté GBIF est le kit intégré de publication (IPT), développé par GBIF, et qui transforme les données sources en archives Darwin Core qui sont ensuite récoltées et indexées par GBIF.\n"
+"Les données sont ensuite interrogeables et téléchargeables via GBIF.org.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:104 scripts/definitions.en.txt:201
@@ -6390,13 +6393,14 @@ msgstr "// Diapositive 20\n"
 #, no-wrap
 msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
 "The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
-msgstr ""
+msgstr "Choisir une classe de jeu de données peut prendre du temps, surtout si vous êtes nouveau dans la publication de données sur le GBIF.\n"
+"L'équipe Helpdesk du GBIF a créé ce diagramme utile qui peut être trouvé sur le GBIF Data Blog : \n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:109
 #, no-wrap
 msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
-msgstr ""
+msgstr "Si vos données ne sont pas encore saisies dans une base de données ou tableau, ou si elles ne sont pas assez complètes pour être partagées, vous pouvez publier une description de vos données en tant que jeu de données « metadata-only » (veuillez noter que cette option n'est pas autorisée dans le contexte des programmes BID et BIFA).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:111
