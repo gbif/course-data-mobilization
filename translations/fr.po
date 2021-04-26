@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-26 07:51\n"
+"PO-Revision-Date: 2021-04-26 08:56\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6249,7 +6249,8 @@ msgstr "Le GBIF fournit aux éditeurs de données des modèles pour chaque class
 #, no-wrap
 msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
 "Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
-msgstr ""
+msgstr "Le deuxième type de données qui peuvent être publiées dans le GBIF sont des données issues du domaine de l'histoire naturelle ou de collections scientifiques, également connues sous le nom de spécimens.\n"
+"Contrairement aux listes de vérification, l'unité principale dans une collection de spécimens sera le spécimen (un seul organisme ou groupe d'organismes), et vous pouvez avoir plusieurs spécimens provenant de la même espèce ou du même groupe de taxons.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:38 scripts/definitions.en.txt:44
@@ -6265,13 +6266,14 @@ msgstr "// Diapositive 7\n"
 #, no-wrap
 msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
 "However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
-msgstr ""
+msgstr "Les collections et les spécimens varient considérablement en terme de nombres, de la taille et des méthodes de conservation.\n"
+"Cependant, tout type de collection qui contient des organismes vivants préservés peut être saisi et partagé au sein du GBIF ; les collections d'herbiers ou zoologiques (y compris les fossiles), par exemple, mais les collections de géologie ou d'artefacts humains ne font pas partis du cardre du GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:45
 #, no-wrap
 msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
-msgstr ""
+msgstr "Les données sur la biodiversité peuvent également être trouvées dans la littérature technique et scientifique : il est possible de compiler et de partager ce type de données au sein du GBIF, mais vous devriez être extrêmement prudent de ne pas partager des données en double (par exemple, un spécimen décrit dans un article scientifique pourrait déjà être présent au GBIF.org dans le jeu de données de sa collection)\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:50
@@ -6304,14 +6306,18 @@ msgid "Occurrence data represents the GBIF class of datasets with the largest nu
 "Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
 "In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
 "Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
-msgstr ""
+msgstr "Les données d'occurrence représentent la classe de jeux de données GBIF avec le plus grand nombre d'enregistrements sur GBIF.org.\n"
+"La collection (alias les spécimens), la littérature et les données de travail sur le terrain peuvent être partagées au sein du GBIF à l'aide de ce modèle, qui se concentre sur les spécimens individuels observés ou collectés.\n"
+"Dans ce type de jeux de données, plusieurs individus ou spécimens peuvent être enregistrés pour un seul taxon, aussi longtemps qu'ils ont chacun un identifiant unique.\n"
+"Les autres champs pour les données d'occurrence incluent où, quand, comment et par qui chaque occurence a été observée et/ou collectée sur le terrain.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:72
 #, no-wrap
 msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
 "They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
-msgstr ""
+msgstr "Les données d'événements d’échantillonnage sont une classe de jeux de données qui a été ajoutée sur GBIF.org en 2015.\n"
+"Ils permettent aux éditeurs de données de partager plus d'informations sur le contexte de l'observation ou de la collection de spécimens, et les groupes d'occurrences liées à un même événement.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:77
