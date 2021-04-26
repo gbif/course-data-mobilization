@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-26 10:59\n"
+"PO-Revision-Date: 2021-04-26 11:58\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6629,19 +6629,19 @@ msgstr ""
 #: scripts/definitions.en.txt:66
 #, no-wrap
 msgid "Examples that you may come across are:\n"
-msgstr ""
+msgstr "Les exemples que vous pouvez rencontrer sont:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:68
 #, no-wrap
 msgid "Microsoft Access, FilemakerPro and Oracle\n"
-msgstr ""
+msgstr "Microsoft Access, FilemakerPro et Oracle\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:70
 #, no-wrap
 msgid "So, database programs or software are grouped utilities which allow a user, via a database language, to store, manage, query and report data held in the system.\n"
-msgstr ""
+msgstr "Ainsi, les programmes ou logiciels de base de données sont des services regroupés qui permettent à un utilisateur, via un langage de base de données, de stocker, gérer, interroger et rapporter les données conservées dans le système.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:74
@@ -6671,43 +6671,43 @@ msgstr ""
 #: scripts/definitions.en.txt:82
 #, no-wrap
 msgid "A data cleaning tool should assist the user in the discovery and repair of messy data in order to increase quality.\n"
-msgstr ""
+msgstr "Un outil de nettoyage des données devrait aider l'utilisateur à découvrir et à corriger des données confuses afin d'en améliorer la qualité.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:86
 #, no-wrap
 msgid "Continuing on with some more terms that you should be familiar with we will look at the differences between the terms Field, Label and List.\n"
-msgstr ""
+msgstr "En poursuivant avec d'autres termes avec lesquels vous devriez être familier, nous examinerons les différences entre les termes Champ, Étiquette et Liste.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:90
 #, no-wrap
 msgid "You will often hear reference made to field or column names and field labels or headings. \n"
-msgstr ""
+msgstr "Vous entendrez souvent parler de noms de champs ou de colonnes et d'étiquettes ou d'en-têtes. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:92
 #, no-wrap
 msgid "Often they will be used interchangeably, however they are different things. \n"
-msgstr ""
+msgstr "Ils sont souvent utilisés de manière synonyme, mais il s'agit de choses différentes.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:94
 #, no-wrap
 msgid "Field or column names refer to the actual column in the database table. \n"
-msgstr ""
+msgstr "Les noms de champs ou de colonnes font référence à la colonne même dans la table de la base de données. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:96
 #, no-wrap
 msgid "They are a often short, not always in plain language, sometimes computer generated; but in a properly formed database they are ALWAYS unique. \n"
-msgstr ""
+msgstr "Elles sont souvent courtes, pas toujours en langage clair, parfois générées par un ordinateur ; mais dans une base de données correctement formée, elles sont TOUJOURS uniques. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:98
 #, no-wrap
 msgid "Field names are almost always used by database languages, because the avoid ambiguity.\n"
-msgstr ""
+msgstr "Les noms de champs sont presque toujours utilisés par les langages de base de données, car ils évitent les ambiguïtés.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:100
@@ -6719,13 +6719,13 @@ msgstr ""
 #: scripts/definitions.en.txt:102
 #, no-wrap
 msgid "Most often you will see these in the graphical user interface of your software and on exports and reports. \n"
-msgstr ""
+msgstr "Le plus souvent, vous les verrez dans l'interface graphique d'utilisateur de votre logiciel ainsi que sur les exportations et les rapports. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:104
 #, no-wrap
 msgid "In some software you can in fact have different labels to the same field on a user by user or group basis!\n"
-msgstr ""
+msgstr "Dans certains logiciels, vous pouvez en fait avoir des étiquettes différentes pour le même champ en fonction de l'utilisateur ou du groupe d'utilisateurs!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:108
@@ -6749,7 +6749,7 @@ msgstr ""
 #: scripts/definitions.en.txt:114
 #, no-wrap
 msgid "It allows to you select a value from a predefined set of options. \n"
-msgstr ""
+msgstr "Il vous permet de sélectionner une valeur à partir d'un ensemble d'options prédéfinies. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:116
@@ -6761,7 +6761,7 @@ msgstr ""
 #: scripts/definitions.en.txt:118
 #, no-wrap
 msgid "A controlled vocabulary on the other hand, is a very strictly defined, domain specific set of values that should be applied to a particular field. \n"
-msgstr ""
+msgstr "D'autre part, un vocabulaire contrôlé est un ensemble strictement défini de valeurs spécifiques à un domaine, qui doivent être appliquées à un champ particulier. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:120
@@ -6815,13 +6815,13 @@ msgstr ""
 #: scripts/definitions.en.txt:140
 #, no-wrap
 msgid "The “character encoding”\n"
-msgstr ""
+msgstr "L'\"encodage des caractères\"\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:142
 #, no-wrap
 msgid "Each symbol or glyph is assigned a numeric value and that number is then converted to binary.\n"
-msgstr ""
+msgstr "Chaque symbole ou glyphe est assigné à une valeur numérique et ce nombre est ensuite converti en binaire.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:146
