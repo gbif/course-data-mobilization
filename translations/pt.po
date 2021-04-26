@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-26 13:09\n"
+"PO-Revision-Date: 2021-04-26 14:14\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -634,68 +634,72 @@ msgstr "*Funcionalidade*: Você precisa ter clareza sobre o que espera que o sof
 #, no-wrap
 msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
 "It will also make more likely to be updated and ported to more modern operating systems.\n"
-msgstr ""
+msgstr "*Estabilidade*: Algumas soluções estão há muito tempo no mercado e são apoiadas por instituições ou empresas sólidas e têm maior probabilidade de não apresentarem \"bugs\" e de terem sistemas bons para resolver quaisquer problemas que surjam.\n"
+"Isto também tornará mais provável que seja actualizado e portabilizado para sistemas operacionais mais modernos.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:209
 #, no-wrap
 msgid "*Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.\n"
 "Check the opinions of other users online.\n"
-msgstr ""
+msgstr "*Escalabilidade*: Alguns softwares tem boa performance quando trabalham fora da caixa, mas o desempenho diminui após algum tempo ou ao utilizá-los com maiores quantidades de dados ou quando vários utilizadores acedem-nos, simultaneamente.\n"
+"Verifique as opiniões de outros utilizadores on-line.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:211
 #, no-wrap
 msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
 "Data transformation is a time consuming task.\n"
-msgstr ""
+msgstr "*Integração*: Certifique-se de que o software aceita e produz os formatos de dados que você utiliza e precisa.\n"
+"Transformação de dados é uma tarefa demorada.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:212
 #, no-wrap
 msgid "*Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.\n"
-msgstr ""
+msgstr "*Suporte a idioma*: É essencial que todos que usam o software possam compreender a sua interface, e a documentação que tornará possível o seu uso.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:214
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
-msgstr ""
+msgstr "*Documentação e suporte técnico*: Certifique-se de explorar a documentação existente e os mecanismos de suporte.\n"
+"Você pode ter certeza que em algum momento vai precisar.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:215
 #, no-wrap
 msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learned while using them, supported by in-line help systems.\n"
-msgstr ""
+msgstr "*Curva de aprendizagem*: Alguns softwares podem necessitar de treinamento específico para aprender a usá-los, enquanto outros são mais intuitivos e podem ser aprendidos enquanto os usam, apoiados por sistemas de ajuda in-line.\n"
 
 #. type: Title ===
 #: foundations.en.adoc:216
 #, no-wrap
 msgid "Install OpenRefine"
-msgstr ""
+msgstr "Instalar OpenRefine"
 
 #. type: delimited block *
 #: foundations.en.adoc:219
 msgid "Install software required for activities later in the course"
-msgstr ""
+msgstr "Instalar software necessário para actividades mais tarde no curso"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: foundations.en.adoc:220
 #, no-wrap
 msgid "Open Refine Logo"
-msgstr ""
+msgstr "OpenRefine Logo"
 
 #. type: Target for macro image
 #: foundations.en.adoc:220
 #, no-wrap
 msgid "img/logos/open-refine-logo.png"
-msgstr ""
+msgstr "img/logos/open-refine-logo.png"
 
 #. type: delimited block *
 #: foundations.en.adoc:225
 msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^] é uma ferramenta com um conjunto de recursos para trabalhar com dados tabulares que melhora a qualidade geral de um conjunto de dados. É uma aplicação que é executada no seu próprio computador, como um pequeno servidor web, e para usá-lo seu navegador web deve apontar para esse servidor web. Portanto, pense no OpenRefine como uma aplicação web pessoal e privada."
 
 #. type: delimited block *
 #: foundations.en.adoc:230
@@ -711,7 +715,7 @@ msgstr ""
 #: foundations.en.adoc:233
 #, no-wrap
 msgid "Installation Requirements"
-msgstr ""
+msgstr "Requisitos de Instalação"
 
 #. type: delimited block *
 #: foundations.en.adoc:236
@@ -795,7 +799,7 @@ msgstr ""
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr ""
+msgstr "Faça um \"quiz\" sobre os conceitos aprendidos nesta secção."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -804,7 +808,7 @@ msgstr ""
 #. type: Plain text
 #: foundations.en.adoc:270
 msgid "For the given statement, input the correct term (database, database language, database program)"
-msgstr ""
+msgstr "Para a afirmação fornecida, insira o termo correto (banco de dados, língua da base de dados, programa da base de dados)"
 
 #. type: delimited block .
 #: foundations.en.adoc:279
@@ -815,18 +819,23 @@ msgid "* combines and presents functions and features for manipulating data, tog
 "  __database__\n"
 "* the way by which a human communicates with a computer +\n"
 "  __database language__\n"
-msgstr ""
+msgstr "* Combina e apresenta funções e recursos para manipular dados, em conjunto em uma interface unificada +\n"
+"  __programa de base de dados__\n"
+"* coleção estruturada e organizada de dados e/ou informações seguradas em um computador +\n"
+"  __base de dados__\n"
+"* a forma pela qual um humano se comunica com um computador +\n"
+"  __língua da base de dados__\n"
 
 #.  Question 2
 #. type: Plain text
 #: foundations.en.adoc:282
 msgid "If you open a data file and see the following, what would you suspect is the issue? +"
-msgstr ""
+msgstr "Se você abrir um ficheiro de dados e ver o seguinte, de qual problema suspeitaria? +"
 
 #. type: Plain text
 #: foundations.en.adoc:284 solutions.en.adoc:21
 msgid "`�tre, ou ne pas �tre, c�est l� la question.`"
-msgstr ""
+msgstr "`�tre, ou ne pas �tre, c�est l� la question.`"
 
 #. type: delimited block .
 #: foundations.en.adoc:291
@@ -835,13 +844,16 @@ msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
 "- [x] The wrong encoding was used to open the file\n"
 "- [ ] The sender used a weird font\n"
-msgstr ""
+msgstr "- [ ] Nenhuma das opções\n"
+"- [ ] Está corrompido\n"
+"- [x] A codificação errada foi utilizada para abrir o ficheiro\n"
+"- [ ] O remetente usou uma fonte estranha\n"
 
 #.  Question 3
 #. type: Plain text
 #: foundations.en.adoc:294
 msgid "For the given software, input the type of software (data capture, data management, data cleaning, data publishing)."
-msgstr ""
+msgstr "Para o software fornecido, insira o tipo de software (captura de dados, gestão de dados, limpeza de dados, publicação de dados)."
 
 #. type: delimited block .
 #: foundations.en.adoc:305
@@ -854,13 +866,20 @@ msgid "* Integrated Publishing Toolkit (IPT) +\n"
 "  __data capture__\n"
 "* OpenRefine +\n"
 "  __data cleaning__\n"
-msgstr ""
+msgstr "* Integrado Publishing Toolkit (IPT) +\n"
+"  __publicação de dados__\n"
+"* Especificar +\n"
+"  __captura de dados__ E __gestão de dados__\n"
+"* iNaturalist +\n"
+"  __captura de dados__\n"
+"* OpenRefine +\n"
+"  __limpeza de dados__\n"
 
 #.  Question 4
 #. type: Plain text
 #: foundations.en.adoc:308
 msgid "For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)"
-msgstr ""
+msgstr "Para o exemplo dado, insira o tipo de dados correcto (binário, booleano, float, inteiro, inteiro longo, texto, texto não estruturado)"
 
 #. type: delimited block .
 #: foundations.en.adoc:325
@@ -936,7 +955,7 @@ msgstr ""
 #. type: Plain text
 #: foundations.en.adoc:364
 msgid "Who determines the fitness for use of your data?"
-msgstr ""
+msgstr "Quem determina a aptidão para o uso de seus dados?"
 
 #. type: delimited block .
 #: foundations.en.adoc:371
@@ -945,13 +964,17 @@ msgid "- [ ] The museum or department director\n"
 "- [x] The users of the data for research or education\n"
 "- [ ] The collector of the data in the field\n"
 "- [ ] The person entering the data into the database\n"
-msgstr ""
+msgstr "- [ ] O director do museu ou do departamento\n"
+"- [x] Os utilizadores dos dados para investigação ou educação\n"
+"- [ ] O coletor de dados no campo\n"
+"- [ ] A pessoa inserindo os dados na base de dados\n"
 
 #.  Question 9
 #. type: Plain text
 #: foundations.en.adoc:375
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]"
-msgstr ""
+msgstr "Para as afirmações fornecidas, insira a imagem correspondente. (A, B,C,D)\n"
+"imagem:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]"
 
 #. type: delimited block .
 #: foundations.en.adoc:386
@@ -964,7 +987,14 @@ msgid "* High accuracy, low precision +\n"
 "  __D__\n"
 "* Low accuracy, low precision +\n"
 "  __A__\n"
-msgstr ""
+msgstr "* Alta acurácia, baixa precisão +\n"
+"  __C__\n"
+"* Baixa acurácia, alta precisão +\n"
+"  __B__\n"
+"* Alta acurácia, alta precisão +\n"
+"  __D__\n"
+"* Baixa acurácia, baixa precisão +\n"
+"  __A__\n"
 
 #.  Question 10
 #. type: Plain text
@@ -1126,263 +1156,263 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
 #, no-wrap
 msgid "Planning"
-msgstr ""
+msgstr "Planificação"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:56
 msgid "<<Exercise 1a-c>>"
-msgstr ""
+msgstr "<<Exercício 1a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:60
 msgid "<<Exercise 2>>"
-msgstr ""
+msgstr "<<Exercício 2>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:64
 msgid "<<Exercise 3a-c>>"
-msgstr ""
+msgstr "<<Exercício 3a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:68
 msgid "<<Exercise 4>>"
-msgstr ""
+msgstr "<<Exercício 4>>"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:69
 #, no-wrap
 msgid "Exercise sheet"
-msgstr ""
+msgstr "Folhas de exercício"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
 msgid "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
-msgstr ""
+msgstr "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
 
 #. type: Plain text
 #: planning.en.adoc:7
 msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on USE CASE I.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
-msgstr ""
+msgstr "No módulo de planificação, você analisará as principais etapas de planejamento do projecto e aprenderá a criar um fluxo de trabalho viável. Além disso, você criará um plano/fluxo de trabalho de projecto idealizado com base no CASO de ESTUDO I. Você identificará objectivos, tarefas, principais stakeholders, funções e atribuirá tarefas específicas às etapas."
 
 #. type: Title ===
 #: planning.en.adoc:8
 #, no-wrap
 msgid "Resourcing"
-msgstr ""
+msgstr "Recursos"
 
 #. type: Plain text
 #: planning.en.adoc:12
 msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Planning_Resourcing.mp4[download^,opts=download] it locally. (MP4 - 25.1 MB)"
-msgstr ""
+msgstr "Neste vídeo (15:09), você aprenderá como definir os elementos que terão impacto em um projeto e analisará as interações entre os elementos. Se não conseguir assistir o vídeo incorporado no Vimeo, pode utilizar o link:../videos/Planning_Resourcing.mp4[download^,opts=download] localmente. (MP4 - 25.1 MB)"
 
 #. type: Title ===
 #: planning.en.adoc:15
 #, no-wrap
 msgid "Organizing"
-msgstr ""
+msgstr "Organizador"
 
 #. type: Plain text
 #: planning.en.adoc:19
 msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
-msgstr ""
+msgstr "Este vídeo (15:52) concentra-se em tarefas e nas formas como elas podem ser organizadas a fim de preparar planos de trabalho práticos e documentação clara. Se não puder assistir o vídeo embutido do Vimeo, utilize o link:../videos/Planning_Organizing.mp4[download^,opts=download] localmente. (MP4 - 26,2 MB)"
 
 #. type: Title ===
 #: planning.en.adoc:22
 #, no-wrap
 msgid "Exercise 1a-c"
-msgstr ""
+msgstr "Exercício 1a-c"
 
 #. type: Plain text
 #: planning.en.adoc:26
 msgid "For this activity, you will be using a virtual tabletop platform.  Review the exercise instructions below."
-msgstr ""
+msgstr "Para esta actividade, você usará uma plataforma de tabletop virtual. Confira as instruções do exercício abaixo."
 
 #. type: Plain text
 #: planning.en.adoc:28
 #, no-wrap
 msgid "*References*\n"
-msgstr ""
+msgstr "*Referências*\n"
 
 #. type: Plain text
 #: planning.en.adoc:30
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role definitions^]"
-msgstr ""
+msgstr "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Definição de papeis^]"
 
 #. type: Plain text
 #: planning.en.adoc:31
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage definitions^]"
-msgstr ""
+msgstr "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Definições de estágios^]"
 
 #. type: Plain text
 #: planning.en.adoc:33
 msgid "To help you to work through the planning exercises for all use cases, we have made available five virtual playing card tables."
-msgstr ""
+msgstr "Para ajudá-lo a trabalhar nos exercícios de planeamento para todos os casos, disponibilizamos cinco mesas virtuais de cartas de jogos."
 
 #. type: Plain text
 #: planning.en.adoc:35
 msgid "Because these are shared spaces, we ask that you follow these rules so that everyone who wants to use them can:"
-msgstr ""
+msgstr "Porque estes são espaços partilhados, nós pedimos que siga essas regras para que todos que queiram utilizá-las possam:"
 
 #. type: Plain text
 #: planning.en.adoc:40
 msgid "Clean up after yourself.  If you use a card table, please be sure to return it to it's clean and original state when you are done.  This means putting all of the cards away and removing/deleting any new cards that you have added to the deck.  You can do this by clicking the recall buttons below each deck of cards."
-msgstr ""
+msgstr "Limpar quando terminar. Se você utilizar uma tabela de cartão, certifique-se de devolvê-la para seu estado limpo e original quando terminar. Isso significa deitar todas as cartas fora e remover/excluir quaisquer novas cartas que tenha adicionado ao baralho. Pode fazer isso clicando nos botões de retorno abaixo de cada baralho de cartas."
 
 #. type: Plain text
 #: planning.en.adoc:43
 msgid "If it's busy, try another table.  If you see that a card table is in use, please use one of the other card table links.  If you are unable to find an empty card table, alert us at training@gbif.org so that we can check the tables to be sure that any tables were not left unattended (or if we need to create an additional table for you)."
-msgstr ""
+msgstr "Se estiver ocupada, tente outra mesa. Caso veja que uma mesa de cartas está em uso, utilize um dos outros links de mesas de cartas. Se não for possível encontrar uma vazia, avise-nos em training@gbif.org para que possamos verificar as mesas para ter certeza de que quaisquer mesas não foram deixadas sem participação (ou se precisarmos criar uma mesa adicional para você)."
 
 #. type: Plain text
 #: planning.en.adoc:47
 msgid "Don't leave a table unattended.  Please do not leave your work on a table sitting out for long periods of time.  If you need to step away for an hour or two, that is acceptable, but please do not leave the cards unattended for more than 4 hours.  If you need to leave your set up for an extended period of time, please use the eLearning platform to notify the group and trainers which link you are using, why you need to leave your cards, and when you will return to complete your work."
-msgstr ""
+msgstr "Não deixe uma mesa sem vigilância. Por favor, não deixe seu trabalho em uma mesa por longos períodos de tempo. Se tiver de se afastar durante uma ou duas horas, isso é aceitável, mas por favor não deixe as cartas sem vigilância por mais de 4 horas. Se precisar sair da sua configuração por um longo período de tempo, por favor use a plataforma eLearning para notificar o grupo e os treinadores do link que está usando, por que você precisa deixar suas cartas e quando voltará para concluir seu trabalho."
 
 #. type: Plain text
 #: planning.en.adoc:51
 msgid "Take screen captures often.  We cannot guarantee that your cards will not be reset accidentally by someone from the workshop or by someone from your own project.  You cannot reset the cards once they have been recalled and reset.  If you want to submit a screenshot with your exercise please do."
-msgstr ""
+msgstr "Tire capturas de tela com frequência. Não podemos garantir que as cartas não serão redefinidas acidentalmente por alguém do workshop ou por alguém do seu próprio projecto. Você não pode redefinir as cartas uma vez que elas tenham sido redefinidas. Se quiser enviar uma captura de tela com seu exercício, por favor faça."
 
 #. type: Plain text
 #: planning.en.adoc:53
 msgid "The trainers reserve the right to reset the card tables.  If we observe that one or more tables contain cards that have not been put away and have not been used for more than four hours without any notifications in the Forum on the eLearning platform, we will clear and reset the table for others to use."
-msgstr ""
+msgstr "Os treinadores reservam-se o direito de redefinir as mesas de cartas. Se observarmos que uma ou mais mesas contém cartas que não foram guardadas e que não foram utilizados por mais de quatro horas sem quaisquer notificações no Fórum da plataforma eLearning, vamos limpar e redefinir a mesa para outros usarem."
 
 #. type: Plain text
 #: planning.en.adoc:55
 msgid "Gameroom links (each table will open in a new window/tab):"
-msgstr ""
+msgstr "Links para Sala de Jogos (cada mesa será aberta em uma nova janela/aba):"
 
 #. type: Plain text
 #: planning.en.adoc:57
 msgid "RED: https://playingcards.io/vbtkgd[^]"
-msgstr ""
+msgstr "VERMELHA: https://playingcards.io/vbtkgd[^]"
 
 #. type: Plain text
 #: planning.en.adoc:59
 msgid "GREEN: https://playingcards.io/m53by6[^]"
-msgstr ""
+msgstr "VERDE: https://playingcards.io/m53by6[^]"
 
 #. type: Plain text
 #: planning.en.adoc:61
 msgid "YELLOW: https://playingcards.io/kpen5h[^]"
-msgstr ""
+msgstr "AMARELA: https://playingcards.io/kpen5h[^]"
 
 #. type: Plain text
 #: planning.en.adoc:63
 msgid "BLUE: https://playingcards.io/8dwg98[^]"
-msgstr ""
+msgstr "AZUL: https://playingcards.io/8dwg98[^]"
 
 #. type: Plain text
 #: planning.en.adoc:65
 msgid "PURPLE: https://playingcards.io/fah8an[^]"
-msgstr ""
+msgstr "ROXA: https://playingcards.io/fah8an[^]"
 
 #. type: Plain text
 #: planning.en.adoc:67
 msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
-msgstr ""
+msgstr "Muito apreço e agradecimento à Jwalant Patel e a Eric Ma por terem encontrado e ajudado a criar as mesas de jogos on-line para este exercício e à Kate Webbink pela competência artística. A plataforma online é fornecida por https://playingcards.io/."
 
 #. type: Title ====
 #: planning.en.adoc:68 use-case-invasive-species.en.adoc:72
 #: use-case-lepidoptera-sampling.en.adoc:84
 #, no-wrap
 msgid "Exercise 1a"
-msgstr ""
+msgstr "Exercício 1a"
 
 #. type: Plain text
 #: planning.en.adoc:70 capture.en.adoc:44 management.en.adoc:26
 #: publishing.en.adoc:43
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
-msgstr ""
+msgstr "Leia <<scenario,USE CASE I>> (se ainda não tiver lido)."
 
 #. type: Plain text
 #: planning.en.adoc:74
 msgid "Using the cards select the goals that mostly closely match those the project outlines and then choose the tasks that would need to be carried out to complete them.  Next, identify the people/resources that the project has available to it and assign role cards to them as appropriate.  Lastly, assign these to their stakeholder groups and affiliations."
-msgstr ""
+msgstr "Utilize os cartões e selecione os objectivos que mais se assemelham aos esboços do projecto e em seguida, escolha as tarefas que precisariam ser executadas para os completar. Depois, identifique as pessoas/recursos que o projecto tem disponível e atribua cartas para elas conforme apropriado. Por último, atribua-os aos stakeholders e afiliações."
 
 #. type: Plain text
 #: planning.en.adoc:76
 msgid "Review the GOALS cards with the group, select and lay out the ones that fit the use case."
-msgstr ""
+msgstr "Revise as cartas GOALS com o grupo, selecione e exponha os que atendem ao caso de uso."
 
 #. type: Plain text
 #: planning.en.adoc:77
 msgid "Review the TASK cards with the group."
-msgstr ""
+msgstr "Revise as cartas de TAREFA com o grupo."
 
 #. type: Plain text
 #: planning.en.adoc:78
 msgid "Assign the TASK cards to each of the GOAL cards selected from the use case description."
-msgstr ""
+msgstr "Atribua as cartas de TAREFA a cada uma das cartas GOAL selecionados a partir da descrição do caso."
 
 #. type: Plain text
 #: planning.en.adoc:79
 msgid "Identify the institutions and people mentioned in the use case text and make note of them."
-msgstr ""
+msgstr "Identifique as instituições e as pessoas mencionadas no texto de caso e tome nota das mesmas."
 
 #. type: Plain text
 #: planning.en.adoc:80
 msgid "Lay out the AFFILIATIONS cards on the table."
-msgstr ""
+msgstr "Exponha as cartas de AFFILIATIONS na mesa."
 
 #. type: Plain text
 #: planning.en.adoc:81
 msgid "Review the STAKEHOLDER cards, identify any mentioned in the use case and then decide which AFFILIATION they belong to."
-msgstr ""
+msgstr "Revise as cartas STAKEHOLDER, identifique qualquer mencionado no caso de uso e depois decida a que AFFILIATION pertencem."
 
 #. type: Plain text
 #: planning.en.adoc:82
 msgid "Review the ROLE cards, identify any mentioned in the use case and decide which STAKEHOLDER group they belong to."
-msgstr ""
+msgstr "Revise as cartas ROLE, identifique qualquer uma mencionada no caso de uso e decida a que grupo STAKEHOLDER pertencem."
 
 #. type: Plain text
 #: planning.en.adoc:83
 msgid "Make notes to cards as appropriate."
-msgstr ""
+msgstr "Crie notas as cartas, conforme apropriado."
 
 #. type: Plain text
 #: planning.en.adoc:84
 msgid "Once the cards are assigned take pictures/screenshots."
-msgstr ""
+msgstr "Uma vez que as cartas estejam atribuídas, tire fotos/capturas de tela."
 
 #. type: Plain text
 #: planning.en.adoc:85
 msgid "Use the <exercise-sheet, exercise sheet>> to provide your answers."
-msgstr ""
+msgstr "Use o <exercise-sheet, exercise sheet>> para fornecer suas respostas."
 
 #. type: delimited block *
 #: planning.en.adoc:88
 #, no-wrap
 msgid "*Question*\n"
-msgstr ""
+msgstr "*Questão*\n"
 
 #. type: delimited block *
 #: planning.en.adoc:90
 msgid "Are there resources or goals missing from the cards that you feel are critical to the successful completion of the project? Note these on the answer sheet."
-msgstr ""
+msgstr "Há recursos ou objectivos faltando nas cartas que você considera essenciais para a conclusão bem sucedida do projecto? Aponte-os na folha de resposta."
 
 #. type: Title ====
 #: planning.en.adoc:92 use-case-invasive-species.en.adoc:91
 #: use-case-lepidoptera-sampling.en.adoc:103
 #, no-wrap
 msgid "Exercise 1b"
-msgstr ""
+msgstr "Exercício 1b"
 
 #. type: Plain text
 #: planning.en.adoc:95
 msgid "Using the stakeholder and goal analysis from exercise 1a, develop a workflow using the STAGE cards."
-msgstr ""
+msgstr "Utilize a análise de stakeholders e goals do exercício 1a e desenvolva um fluxo de trabalho usando as cartas STAGE."
 
 #. type: Plain text
 #: planning.en.adoc:97
 msgid "Re-read the use case introduction, if necessary."
-msgstr ""
+msgstr "Re-leia a introdução do caso de uso, se necessário."
 
 #. type: Plain text
 #: planning.en.adoc:98
 msgid "Decide which TASKS for which each ROLE will be responsible."
-msgstr ""
+msgstr "Decida quais TASKS pelas quais cada ROLE será responsável."
 
 #. type: Plain text
 #: planning.en.adoc:99
@@ -1697,13 +1727,13 @@ msgstr ""
 #. type: Plain text
 #: capture.en.adoc:109
 msgid "What dataset type(s) would you choose for bird tracking data?"
-msgstr ""
+msgstr "Qual(is) tipo(s) de conjunto de dados você escolheria para dados de rastreamento de pássaros?"
 
 #. type: delimited block .
 #: capture.en.adoc:113
 #, no-wrap
 msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
-msgstr ""
+msgstr "Dados de rastreamento de pássaros são obtidos com dispositivos específicos, como GPS inseridos em aves vivas, permitindo aos cientistas poderem rastrear rotas migratórias ou os locais de reprodução.\n"
 
 #. type: delimited block .
 #: capture.en.adoc:117
@@ -1711,7 +1741,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
 "image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observado na Reserva Natural de Gamla de Gamla por ichar├├├├-MinoZig (CC0) \n"
+"image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:121
@@ -1719,13 +1751,15 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [x] ocorrência\n"
+"- [ ] checklist\n"
+"- [ ] evento de amostragem\n"
 
 #.  Question 5
 #. type: Plain text
 #: capture.en.adoc:124
 msgid "What dataset type(s) would you choose for insect trap data?"
-msgstr ""
+msgstr "Qual(is) tipo(s) de conjunto de dados você escolheria para dados de armadilhas de insectos?"
 
 #. type: delimited block .
 #: capture.en.adoc:130
@@ -1733,19 +1767,21 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
 "image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.flickr.com/photos/miheco/215305679/[Armadilha de inseto] por miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #.  Question 6
 #. type: Plain text
 #: capture.en.adoc:137
 msgid "What dataset type(s) would you choose for national park management data?"
-msgstr ""
+msgstr "Que tipo(s) de conjunto de dados você escolheria para gestão dados um de parque nacional?"
 
 #. type: delimited block .
 #: capture.en.adoc:141
 #, no-wrap
 msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
-msgstr ""
+msgstr "Os dados adquiridos no contexto da gestão de áreas protegidas (como parques nacionais, mas também reservas naturais mais pequenas) podem ser diversos e ter diferentes origens: investigação botânica, rastreio de animais marcados, observações de guardas, e até dados de ciência-cidadã ou dados inferidos de imagens partilhadas nas redes sociais.\n"
 
 #. type: delimited block .
 #: capture.en.adoc:145
