@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-26 13:09\n"
+"PO-Revision-Date: 2021-04-26 14:14\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6406,7 +6406,7 @@ msgstr "Si vos données ne sont pas encore saisies dans une base de données ou 
 #: scripts/data-types.en.txt:111
 #, no-wrap
 msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
-msgstr ""
+msgstr "Si votre jeu de données contient une liste de noms scientifiques qui ne font pas référence à des organismes ou spécimens observés et/ou collectés, vous pouvez le publier comme une ressource taxonomique, ou une liste d'espèces.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:113
@@ -6418,7 +6418,7 @@ msgstr ""
 #: scripts/data-types.en.txt:115
 #, no-wrap
 msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
-msgstr ""
+msgstr "Enfin, si des informations sur les protocoles utilisés sur le terrain sont disponibles, vous pouvez choisir de partager votre jeu de données en tant que jeu de données d’événements d'échantillonnage.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:117 scripts/definitions.en.txt:210
@@ -6433,7 +6433,9 @@ msgstr "// Diapositive 21\n"
 msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
 "Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
 "You can find these requirements on GBIF.org from the How-to menu.\n"
-msgstr ""
+msgstr "Chaque classe de jeu de données partagée au sein du GBIF doit répondre à ses propres exigences de qualité des données.\n"
+"Certaines exigences sont obligatoires (telles que l'occurrenceID, le taxonID ou le eventID, selon le type de jeu de données), d'autres sont optionnelles mais fortement recommandées (comme les coordonnées en degrés décimaux).\n"
+"Vous pouvez trouver ces exigences sur GBIF.org dans le menu 'How-to'.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:123 scripts/organizing.en.txt:191
@@ -6446,7 +6448,7 @@ msgstr "// Diapositive 22\n"
 #: scripts/data-types.en.txt:125
 #, no-wrap
 msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
-msgstr ""
+msgstr "Pour pouvoir publier des données sur GBIF, il est important de comprendre les différences entre les classes de jeux de données dès les premiers stades du processus de saisie et de gestion des données.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:127
@@ -6470,7 +6472,7 @@ msgstr "Avec quel type de données travaillez-vous?\n"
 #: scripts/data-types.en.txt:133
 #, no-wrap
 msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
-msgstr ""
+msgstr "Comment les publieriez-vous sur GBIF? (à l'aide de quel classe et/ou extension ?)\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:135 scripts/organizing.en.txt:203
@@ -6483,19 +6485,19 @@ msgstr "// Diapositive 23\n"
 #: scripts/data-types.en.txt:142
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Cette présentation a été créée et narrée par Sophie Pamerlon avec des contributions supplémentaires des Coachs, Mentors et Étudiants du BID et du BIFA.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:4
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section.\n"
-msgstr ""
+msgstr "Cette session est un travail de fond et fait partie de la section Terminologie.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:6
 #, no-wrap
 msgid "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
+msgstr "Nous vous présenterons le langage, la terminologie et les définitions de certains des concepts, fonctions et processus de base que vous allez mettre en pratique pendant le reste de la formation.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:10
@@ -6507,19 +6509,19 @@ msgstr "Commençons par revoir la structure de cette session.\n"
 #: scripts/definitions.en.txt:12
 #, no-wrap
 msgid "In the section on DEFINITIONS we will first try to clarify the use of the word “Data”.\n"
-msgstr ""
+msgstr "Dans la section sur les DEFINITIONS nous allons d'abord essayer de clarifier l'utilisation du mot \"Données\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:14
 #, no-wrap
 msgid "We will then look at the terminology surrounding Fields, Labels and Lists.\n"
-msgstr ""
+msgstr "Nous examinerons ensuite la terminologie entourant Champs, Étiquettes et Listes.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:16
 #, no-wrap
 msgid "And lastly, we will straighten out some concepts around characters and their mappings that will help prevent unwanted data messes.\n"
-msgstr ""
+msgstr "Enfin, nous allons clarifier certains concepts relatifs aux caractères et à leurs conversions, ce qui permettra d'éviter les erreurs de données indésirables.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:20
@@ -6531,7 +6533,7 @@ msgstr "Premières définitions.\n"
 #: scripts/definitions.en.txt:22
 #, no-wrap
 msgid "In this section we will look at some of the many different terms and phrases that exist within the world of data and information management. \n"
-msgstr ""
+msgstr "Dans cette section, nous allons examiner quelques-uns des nombreux termes et expressions qui existent dans le monde de la gestion des données et de l'information. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:24
@@ -6543,7 +6545,7 @@ msgstr "Nous les utiliserons tout au long du cours et il est important que vous 
 #: scripts/definitions.en.txt:28
 #, no-wrap
 msgid "Let’s focus for a moment on some common words and phrases that contain the word data.\n"
-msgstr ""
+msgstr "Nous allons nous concentrer un instant sur quelques expressions communes qui contiennent le mot donnée.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:32
@@ -6561,7 +6563,7 @@ msgstr "Alors, qu’est-ce qu’une “base de données”?\n"
 #: scripts/definitions.en.txt:38
 #, no-wrap
 msgid "There are many definitions, but what they all have in common is the theme that a database is a structured and organized collection of data and/or information held on a computer.\n"
-msgstr ""
+msgstr "Il y a de nombreuses définitions, mais ce qu'ils ont tous en commun est le fait qu'une base de données est une collection structurée et organisée de données et/ou d'informations détenues sur un ordinateur.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:40
@@ -6585,7 +6587,7 @@ msgstr "Examinons l'expression \"langage de base de données\".\n"
 #: scripts/definitions.en.txt:48
 #, no-wrap
 msgid "According to the Oxford English dictionary “language” is the method of human communication, […], consisting of the use of words [or symbols] in a structured and conventional way.\n"
-msgstr ""
+msgstr "Selon le dictionnaire anglais d'Oxford, « langage » est la méthode de communication humaine, […], consistant en l'utilisation de mots [ou de symboles] d'une manière structurée et conventionnelle.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:50
@@ -6597,31 +6599,31 @@ msgstr ""
 #: scripts/definitions.en.txt:52
 #, no-wrap
 msgid "Examples that you may have come across are:\n"
-msgstr ""
+msgstr "Les exemples que vous pouvez rencontrer sont:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:54
 #, no-wrap
 msgid "Java, SPARQL, SQL and Python\n"
-msgstr ""
+msgstr "Java, SPARQL, SQL et Python\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:56
 #, no-wrap
 msgid "They are simply methods used to define and create tables, views and queries and also allow users to access, update, store and move data around.\n"
-msgstr ""
+msgstr "Ce sont simplement des méthodes utilisées pour définir et créer des tables, des vues et des requêtes, et permettre aussi aux utilisateurs d’accéder, de mettre à jour, de stocker et de déplacer des données.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:60
 #, no-wrap
 msgid "Now let’s look at the phrase “database program or software”.\n"
-msgstr ""
+msgstr "Voyons maintenant l'expression « programme ou logiciel de base de données ».\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:62
 #, no-wrap
 msgid "Again going to the Oxford English dictionary a “program/programme” is a set of related measures or activities with a particular long-term aim.\n"
-msgstr ""
+msgstr "Une fois de plus, dans le dictionnaire anglais d'Oxford, un \"programme\" est un ensemble de mesures ou d'activités connexes avec un objectif particulier à long terme.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:64
@@ -6735,19 +6737,19 @@ msgstr "Dans certains logiciels, vous pouvez en fait avoir des étiquettes diff�
 #: scripts/definitions.en.txt:108
 #, no-wrap
 msgid "As you work with your data you will come across the phrases “drop-down list” and “controlled vocabulary” and on the surface they can appear to be the same. \n"
-msgstr ""
+msgstr "Au fur et à mesure que vous travaillez avec vos données, vous rencontrerez les expressions « liste déroulante » et « vocabulaire contrôlé » et, à première vue, elles peuvent paraître identiques. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:110
 #, no-wrap
 msgid "Indeed they are both powerful tools to help you keep your data clean, but they are different.\n"
-msgstr ""
+msgstr "En effet, ce sont deux outils puissants pour vous aider à garder vos données propres, mais ils sont différents.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:112
 #, no-wrap
 msgid "A drop-down list, also sometimes called a lookup table is a data entry element that is created in your database software. \n"
-msgstr ""
+msgstr "Une liste déroulante, parfois appelée table de recherche, est un élément d'entrée de données qui est créé dans votre logiciel de base de données. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:114
@@ -6759,7 +6761,7 @@ msgstr "Il vous permet de sélectionner une valeur à partir d'un ensemble d'opt
 #: scripts/definitions.en.txt:116
 #, no-wrap
 msgid "They can also be generated from the data itself on the fly.\n"
-msgstr ""
+msgstr "Elles peuvent également être générées à la volée à partir des données elles-mêmes.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:118
@@ -6771,49 +6773,49 @@ msgstr "D'autre part, un vocabulaire contrôlé est un ensemble strictement déf
 #: scripts/definitions.en.txt:120
 #, no-wrap
 msgid "They are an integral part of a well defined standard. \n"
-msgstr ""
+msgstr "Ils font partie intégrante d'un standard bien défini. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:122
 #, no-wrap
 msgid "Such values can be used in a drop-down list as mentioned previously.\n"
-msgstr ""
+msgstr "De telles valeurs peuvent être utilisées dans une liste déroulante comme mentionné précédemment.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:126
 #, no-wrap
 msgid "In this section we will look at what the term character means in relation to data and computers.\n"
-msgstr ""
+msgstr "Dans cette section, nous examinerons ce que le terme caractère signifie par rapport aux données et aux ordinateurs.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:130
 #, no-wrap
 msgid "As a reminder computers “see” in binary. Everything that you type in, is held in memory as a series of ones and zeros. \n"
-msgstr ""
+msgstr "Pour rappel, les ordinateurs \"voient\" en binaire. Tout ce que vous tapez est conservé en mémoire sous la forme d'une série de uns et de zéros. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:132
 #, no-wrap
 msgid "The computer does not “see” the repertoire of letters and symbols on your keyboard.\n"
-msgstr ""
+msgstr "L'ordinateur ne \"voit\" pas le répertoire des lettres et des symboles sur votre clavier.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:134
 #, no-wrap
 msgid "It needs a map to translate the character set that you would write or type, into its binary language and then back again to show it to you on the screen or a printer. \n"
-msgstr ""
+msgstr "Il a besoin d'une carte pour traduire le jeu de caractères que vous voulez écrire ou saisir, dans son langage binaire, puis de nouveau pour vous le montrer à l'écran ou une imprimante. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:136
 #, no-wrap
 msgid "This map is made up of two parts:\n"
-msgstr ""
+msgstr "Cette carte est composée de deux parties :\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:138
 #, no-wrap
 msgid "The “coded character set” and \n"
-msgstr ""
+msgstr "Le \"jeu de caractères codé\" et \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:140
@@ -6831,13 +6833,13 @@ msgstr "Chaque symbole ou glyphe est assigné à une valeur numérique et ce nom
 #: scripts/definitions.en.txt:146
 #, no-wrap
 msgid "In this example we see how character encoding is used to map the capital letter A in the western alphabet.\n"
-msgstr ""
+msgstr "Dans cet exemple, nous voyons comment l'encodage des caractères est utilisé pour mettre en correspondance la lettre majuscule A dans l'alphabet occidental.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:148
 #, no-wrap
 msgid "The ASCII value for the capital letter A is the decimal number 65 \n"
-msgstr ""
+msgstr "La valeur ASCII de la lettre majuscule A est le nombre décimal 65\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:150
@@ -6849,7 +6851,7 @@ msgstr ""
 #: scripts/definitions.en.txt:152
 #, no-wrap
 msgid "and in BINARY 01000001\n"
-msgstr ""
+msgstr "et en BINAIRE 01000001\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:154
@@ -7214,13 +7216,13 @@ msgstr ""
 #, no-wrap
 msgid " \n"
 "// Slide 8\n"
-msgstr ""
+msgstr "// Diapositive 8\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:103
 #, no-wrap
 msgid "Each of the relationship types has its own nuances as to how you are going to have to handle them.\n"
-msgstr ""
+msgstr "Chacun des types de relation a ses propres nuances quant à la façon dont vous allez avoir à les utiliser.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:107
@@ -7228,7 +7230,9 @@ msgstr ""
 msgid "one-to-one (1:1) - Beware your field types. \n"
 "If they are the not the same. \n"
 "You will need to do some manipulation.\n"
-msgstr ""
+msgstr "un à un (1:1) - Méfiez-vous de vos types de champs. \n"
+"S'ils ne sont pas les mêmes. \n"
+"Vous devrez faire une manipulation.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:109
@@ -7269,7 +7273,7 @@ msgstr ""
 #: scripts/documentation.en.txt:124
 #, no-wrap
 msgid "// Slide 9 \n"
-msgstr ""
+msgstr "// Diapositive 9\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:127
@@ -7314,7 +7318,8 @@ msgstr ""
 #, no-wrap
 msgid "A narrative – Should describe the rationale for the creation of the dataset.\n"
 "It should include at least general information about spatial, temporal and taxonomic coverage and give the potential user a broad picture of uses that may be appropriate for the data without further transformation.\n"
-msgstr ""
+msgstr "Un récit – Décrivez la raison de la création du jeu de données.\n"
+"Il devrait inclure au moins des informations générales sur la couverture géographique, temporelle et taxonomique et donner à l'utilisateur potentiel une image large des utilisations qui peuvent être appropriées pour les données sans autre transformation.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:148
@@ -7423,13 +7428,13 @@ msgstr ""
 #: scripts/organizing.en.txt:23
 #, no-wrap
 msgid "Groups\n"
-msgstr ""
+msgstr "Groupes\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:25
 #, no-wrap
 msgid "Similarity\n"
-msgstr ""
+msgstr "Similitude\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:27
@@ -7477,7 +7482,7 @@ msgstr ""
 #: scripts/organizing.en.txt:46
 #, no-wrap
 msgid "In this example:\n"
-msgstr ""
+msgstr "Dans cet exemple:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:48
