@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-26 08:56\n"
+"PO-Revision-Date: 2021-04-26 09:59\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6533,7 +6533,7 @@ msgstr ""
 #: scripts/definitions.en.txt:24
 #, no-wrap
 msgid "We will be using these throughout the course and it is important that you be familiar with, when and how to use them.\n"
-msgstr ""
+msgstr "Nous les utiliserons tout au long du cours et il est important que vous soyez familier avec, et sachiez quand et comment les utiliser.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:28
@@ -9802,14 +9802,18 @@ msgid "When you organize cells into rows and columns, obviously, what you get is
 "This is looks very much like a spreadsheet right? \n"
 "Well, yes. \n"
 "The difference however between a spreadsheet grid and a table are the strength of the ties that hold the rows and columns together.\n"
-msgstr ""
+msgstr "Lorsque vous organisez des cellules en rangées et en colonnes, évidemment, ce que vous obtenez est une grille !\n"
+"Ceci ressemble beaucoup à une feuille de calcul ? \n"
+"Eh bien, oui. \n"
+"La différence entre une grille de calcul et une table est la force des relations qui lient les rangées et les colonnes.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:114
 #, no-wrap
 msgid "So let us now talk about those connections. \n"
 "What the implications for the integrity and security of your data of loose unenforced relationships between rows and columns?\n"
-msgstr ""
+msgstr "Parlons donc de ces liens. \n"
+"Quelles sont les implications, pour l'intégrité et la sécurité de vos données, de relations peu solides entre les lignes et les colonnes ?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:124
@@ -9821,7 +9825,13 @@ msgid "What actually makes a table useful are the connections that we create to 
 "It is easy for the attributes between the rows to get jumbled up or for the values get changed and then the meaning is lost.\n"
 "`\n"
 "// Slide 20\n"
-msgstr ""
+msgstr "Ce qui rend un tableau utile sont les connexions que nous créons pour donner un sens aux données de la structure. \n"
+"Nous créons intrinsèquement des types d'attributs qui transforment les données en informations. \n"
+"Les lignes deviennent des enregistrements et les colonnes deviennent des attributs. \n"
+"Dans une feuille de calcul cependant, les connexions entre les cellules sont idiomatiques, lâches et peu solides. \n"
+"Les attributs peuvent facilement être décalés, ou leurs valeurs être modifiées, ce qui en fait perdre le sens.\n"
+"`\n"
+"// Diapositive 20\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:130
@@ -9831,7 +9841,11 @@ msgid "This lack of enforced connections makes a spreadsheet easy to use but the
 "Spreadsheets are not built to scale either in terms of size or numbers of users -- So can be slow, crashy and easily corruptible. \n"
 "Spreadsheets are easy to copy and email -- So they are hard to version and keep track of.\n"
 "The question is what is the solution?\n"
-msgstr ""
+msgstr "Ce manque de connexions solides rend un tableur facile à utiliser, mais ces mêmes qualités causent également des problèmes. \n"
+"Les erreurs sont faciles à faire et difficiles à rattraper -- Les connexions et les relations ne sont pas faciles à documenter et sont donc sujettes à interprétation et à modification. \n"
+"Les feuilles de calcul ne sont souvent pas adaptées en termes de taille ou de nombre d'utilisateurs -- Elles peuvent être lentes à charger, planter et être facilement corruptibles. \n"
+"Les feuilles de calcul sont faciles à copier et à envoyer par courriel. Elles sont donc difficiles à versionner, et il peut être difficile de suivre quelle est la dernière version en date.\n"
+"La question est de savoir quelle est la solution à ces problèmes ?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:141
@@ -9844,7 +9858,14 @@ msgid "Let us look back, at the connections in a bit more detail. \n"
 "For example you may want find the mean weight of all the Kenyan bats. \n"
 "So ideally we want to use a system to store our data that: 1) always holds the rows together; 2)does not mix data types; 3) and segregates data in each table to a single concept or theme. \n"
 "These are functions of a database!\n"
-msgstr ""
+msgstr "Examinons les liaisons d'un peu plus en détail. \n"
+"Nous comprenons généralement que les données dans chaque ligne d'une table signifient quelque chose. \n"
+"Par exemple, chaque ligne peut représenter un spécimen ou un taxon qui a été trouvé à un endroit particulier, à un moment particulier, par une personne en particulier. \n"
+"Il serait étrange d'avoir une ligne dans une table qui représente un spécimen, suivie d'une ligne qui représente un site de collection. \n"
+"Nous voulons aussi souvent analyser, trier et comparer les valeurs d'attributs particuliers entre chaque ligne. \n"
+"Par exemple, vous pouvez vouloir trouver le poids moyen de toutes les chauves-souris kényanes. \n"
+"En théorie, nous voulons utiliser un système pour stocker nos données qui  : 1) maintient les lignes ensemble ; 2) ne mélange pas les types de données ; 3) et sépare les données dans chaque tableau selon des concepts ou thèmes. \n"
+"Ce sont les fonctionnalités d'une base de données !\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:148
