@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-25 13:20\n"
+"PO-Revision-Date: 2021-04-26 07:51\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6258,7 +6258,7 @@ msgstr ""
 #: scripts/standards.en.txt:93 scripts/structures.en.txt:41
 #, no-wrap
 msgid "// Slide 7\n"
-msgstr ""
+msgstr "// Diapositive 7\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:41
@@ -6278,21 +6278,24 @@ msgstr ""
 #, no-wrap
 msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
 "ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
-msgstr ""
+msgstr "En l'absence d'ensembles de données numérisés, les données sur la biodiversité peuvent être extraites et compilées à partir d'articles scientifiques, de thèses de doctorat ou de master, de rapports et d'autres documents.\n"
+"Contactez TOUJOURS le propriétaire de données d'abord lors de la compilation de données littéraires pour demander l'autorisation de les publier sur GBIF !\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:55
 #, no-wrap
 msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
 "These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
-msgstr ""
+msgstr "Une grande majorité des données disponibles sur GBIF.org provient maintenant des observations de terrain.\n"
+"Ces données peuvent être observées et/ou collectées à l'aide de différents protocoles de terrain, par des scientifiques, des naturalistes ou des scientifiques amateurs, via des programmes et des applications.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:60
 #, no-wrap
 msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
 "They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
-msgstr ""
+msgstr "Ces données de terrain peuvent être compilées dans des rapports d'enquête, des études d'impact sur l'environnement, des notes de terrain et d'autres registres.\n"
+"Elles peuvent être liées à d'autres types de données, telles que des listes de contrôle, qui complètent les données d'occurrence observées ou collectées dans la nature.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:67
@@ -6323,7 +6326,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:151 scripts/structures.en.txt:95
 #, no-wrap
 msgid "// Slide 15\n"
-msgstr ""
+msgstr "// Diapositive 15\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:81
@@ -6358,7 +6361,7 @@ msgstr ""
 #: scripts/structures.en.txt:116
 #, no-wrap
 msgid "// Slide 19\n"
-msgstr ""
+msgstr "// Diapositive 19\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:102
@@ -6374,7 +6377,7 @@ msgstr ""
 #: scripts/standards.en.txt:287
 #, no-wrap
 msgid "// Slide 20\n"
-msgstr ""
+msgstr "// Diapositive 20\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:107
@@ -6412,7 +6415,7 @@ msgstr ""
 #: scripts/organizing.en.txt:182 scripts/structures.en.txt:132
 #, no-wrap
 msgid "// Slide 21\n"
-msgstr ""
+msgstr "// Diapositive 21\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:121
@@ -6427,7 +6430,7 @@ msgstr ""
 #: scripts/structures.en.txt:143
 #, no-wrap
 msgid "// Slide 22\n"
-msgstr ""
+msgstr "// Diapositive 22\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:125
@@ -6439,19 +6442,19 @@ msgstr ""
 #: scripts/data-types.en.txt:127
 #, no-wrap
 msgid "You can reflect on this topic with the following questions:\n"
-msgstr ""
+msgstr "Vous pouvez réfléchir sur ce sujet avec les questions suivantes :\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:129
 #, no-wrap
 msgid "Is your data type different than you originally thought?\n"
-msgstr ""
+msgstr "Votre type de données est-il différent de ce que vous pensiez initialement?\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:131
 #, no-wrap
 msgid "With what kind of data do you work?\n"
-msgstr ""
+msgstr "Avec quel type de données travaillez-vous?\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:133
@@ -6464,7 +6467,7 @@ msgstr ""
 #: scripts/structures.en.txt:150
 #, no-wrap
 msgid "// Slide 23\n"
-msgstr ""
+msgstr "// Diapositive 23\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:142
@@ -6488,7 +6491,7 @@ msgstr ""
 #: scripts/definitions.en.txt:10
 #, no-wrap
 msgid "First let’s review the structure of this session.\n"
-msgstr ""
+msgstr "Commençons par revoir la structure de cette session.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:12
@@ -6512,7 +6515,7 @@ msgstr ""
 #: scripts/definitions.en.txt:20
 #, no-wrap
 msgid "First definitions.\n"
-msgstr ""
+msgstr "Premières définitions.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:22
@@ -6542,7 +6545,7 @@ msgstr ""
 #: scripts/definitions.en.txt:36
 #, no-wrap
 msgid "So, what is a “Database”?\n"
-msgstr ""
+msgstr "Alors, qu’est-ce qu’une “base de données”?\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:38
@@ -6560,13 +6563,13 @@ msgstr ""
 #: scripts/definitions.en.txt:42
 #, no-wrap
 msgid "Let’s dig a little deeper then into those other terms.\n"
-msgstr ""
+msgstr "Approfondissons donc un peu ces autres termes.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:46
 #, no-wrap
 msgid "Let us take a look at the phrase “database language”.\n"
-msgstr ""
+msgstr "Examinons l'expression \"langage de base de données\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:48
