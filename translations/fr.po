@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-27 09:43\n"
+"PO-Revision-Date: 2021-04-27 10:39\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -7231,13 +7231,13 @@ msgstr "Certains champs peuvent ne pas exister encore de zéro à un (0:1), ce q
 #: scripts/documentation.en.txt:96
 #, no-wrap
 msgid "Some fields might not have a place to go one-to-zero (1:0), meaning that some information present in dataset A does not match any existing field on dataset B\n"
-msgstr ""
+msgstr "Certains champs peuvent ne pas avoir de place pour aller de un-à-zéro (1:0), ce qui signifie que certaines informations présentes dans le jeu de données A ne correspondent à aucun champ existant dans le jeu de données B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:98
 #, no-wrap
 msgid "Some fields will map many-to-many (∞ : ∞), meaning that information in dataset A is scattered in different fields, which do not match exactly existing ones in dataset B\n"
-msgstr ""
+msgstr "Certains champs vont mapper plusieurs-à-plusieurs (∞ : ∞), ce qui signifie que les informations dans le jeu de données A sont dispersées dans différents champs, qui ne correspondent pas exactement à celles existantes dans le jeu de données B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:101 scripts/publishing-concepts.en.txt:113
@@ -7267,13 +7267,13 @@ msgstr "un à un (1:1) - Méfiez-vous de vos types de champs. \n"
 #: scripts/documentation.en.txt:109
 #, no-wrap
 msgid "many-to-one (∞:1) - These fields will need to joined together to go into the field.\n"
-msgstr ""
+msgstr "plusieurs-à-un (∞ :1) - Ces champs devront être mis ensemble pour entrer dans le champ.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:111
 #, no-wrap
 msgid "one-to-many (1:∞) - These fields will need to be split apart and put in to different fields\n"
-msgstr ""
+msgstr "un-à-plusieurs (1:∞) - Ces champs devront être séparés et placés dans des champs différents\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:115
@@ -7354,7 +7354,7 @@ msgstr "Un récit – Décrivez la raison de la création du jeu de données.\n"
 #: scripts/documentation.en.txt:148
 #, no-wrap
 msgid "Source information – If you did not collect or measure the data yourself, where or who did you get if from?\n"
-msgstr ""
+msgstr "Informations sur la source – Si vous n'avez pas recueilli ou mesuré les données vous-même, d'où, ou de qui, les avez-vous obtenues ?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:151
@@ -7622,19 +7622,20 @@ msgstr "Les tâches effectuées durant la phase d'exécution sont celles qui acc
 #, no-wrap
 msgid "The monitoring phase is an overarching and overlapping phase.\n"
 "The tasks assigned to it serve the function of watchdog over the planning and executing phases, ensuring that performance is on track.\n"
-msgstr ""
+msgstr "La phase de suivi est une phase globale et chevauchante.\n"
+"Les tâches qui lui sont assignées servent de fonction de chien de garde sur les phases de planification et d'exécution, en s'assurant que les performances sont sur la bonne voie.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:103
 #, no-wrap
 msgid "Tasks in the closing phase indicate that goals and milestones have been achieved and the project (or part of the project in question) have finished.\n"
-msgstr ""
+msgstr "Les tâches de la phase de clôture indiquent que les objectifs et les jalons ont été atteints et que le projet (ou une partie du projet en question) est terminé.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:107
 #, no-wrap
 msgid "This diagram shows the continuous flow and cyclical nature of the five PMBoK phases.\n"
-msgstr ""
+msgstr "Ce schéma montre le flux continu et la nature cyclique des cinq phases PMBoK.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:113
@@ -7642,80 +7643,83 @@ msgstr ""
 msgid "Task clusters are a defined set of digitization task groups.\n"
 "The term was coined by the iDigBio team in their 2012 paper “Five task clusters that enable efficient and effective digitization of biological collections”.\n"
 "In the paper the authors identify 5 major groups of tasks that are most often found in successful natural history digitization projects. They are:\n"
-msgstr ""
+msgstr "Les groupes de tâches sont un ensemble défini de groupes de tâches de numérisation.\n"
+"Le terme a été inventé par l’équipe iDigBio dans son article de 2012 intitulé « Cinq groupes de tâches qui permettent la numérisation efficiente et efficace des collections biologiques ».\n"
+"Dans le document les auteurs ont identifié 5 grands groupes de tâches qui sont le plus souvent trouvés dans des projets de numérisation d'histoire naturelle réussis.  Ce sont:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:115
 #, no-wrap
 msgid "pre-digitization curation and staging\n"
-msgstr ""
+msgstr "curation pré-numérisation et mise en scène\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:117
 #, no-wrap
 msgid "specimen image capture\n"
-msgstr ""
+msgstr "capture d'image de spécimen\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:119
 #, no-wrap
 msgid "specimen image processing\n"
-msgstr ""
+msgstr "traitement des images de spécimen\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:121
 #, no-wrap
 msgid "electronic data capture and\n"
-msgstr ""
+msgstr "saisie électronique des données et\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:123
 #, no-wrap
 msgid "georeferencing locality descriptions\n"
-msgstr ""
+msgstr "géoréférencement des descriptions de localité\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:125
 #, no-wrap
 msgid "Clustering as general concept, is an extremely useful way to organize the detail of the tasks which must be carried out during any particular project stage and divides them up into manageable and trackable chunks.\n"
-msgstr ""
+msgstr "Le clustering en tant que concept général, est un moyen extrêmement utile d'organiser les détails des tâches qui doivent être réalisées pendant chaque étape particulière de projet et les divise en parties gérables et traçables.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:129
 #, no-wrap
 msgid "In this diagram of the digitization task clusters you can see some of the checking and monitoring feedback loops seen in the PMBoK method.\n"
-msgstr ""
+msgstr "Dans ce diagramme des groupes de tâches de numérisation, vous pouvez remarquer certaines boucles de vérification et de contrôle retroactif vus dans la méthode PMBoK.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:133
 #, no-wrap
 msgid "The next examples of clustering that we will look at are generally termed “Workflows”.\n"
-msgstr ""
+msgstr "Les exemples suivants de clustering que nous allons examiner sont généralement appelés « Flux de travail ».\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:136
 #, no-wrap
 msgid "Workflows are defined as “the sequence of processes through which a piece of work passes from initiation to completion.”\n"
 "There are three general categories: \n"
-msgstr ""
+msgstr "Les flux de travail sont définis comme « la séquence des processus à travers lesquels un travail passe de l’initiation à l’achèvement ».\n"
+"Il y a trois catégories générales : \n"
 
 #. type: Bullet: '1) '
 #: scripts/organizing.en.txt:138
 #, markdown-text, no-wrap
 msgid "Sequential\n"
-msgstr ""
+msgstr "Séquentiel\n"
 
 #. type: Bullet: '2) '
 #: scripts/organizing.en.txt:140
 #, markdown-text, no-wrap
 msgid "Rules Driven \n"
-msgstr ""
+msgstr "Guidé par des règles \n"
 
 #. type: Bullet: '3) '
 #: scripts/organizing.en.txt:142
 #, markdown-text, no-wrap
 msgid "State Machine\n"
-msgstr ""
+msgstr "Machine d'état\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:145
