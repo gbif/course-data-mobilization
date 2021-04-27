@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-27 15:02\n"
+"POT-Creation-Date: 2021-04-27 15:17+0000\n"
+"PO-Revision-Date: 2021-04-27 15:58\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -7347,7 +7347,7 @@ msgstr "Un titre – Ce qui doit être descriptif, mémorable et si possible uni
 #: scripts/documentation.en.txt:143
 #, no-wrap
 msgid "Dates are good to include in a dataset name for example to allow you to track versions.\n"
-msgstr ""
+msgstr "Il est bien d'inclure une date dans un nom de jeu de données par exemple pour vous permettre de suivre les versions.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:146
@@ -7456,7 +7456,8 @@ msgstr "La réussite de la mise en œuvre de votre projet dépend en grande part
 #, no-wrap
 msgid "In this section we will look at three methodologies for clustering the timing and ordering of the tasks and components identified as critical to the goals of the project\n"
 "We will then see how good planning is supported by continuous documentation.\n"
-msgstr ""
+msgstr "Dans cette section, nous examinerons trois méthodologies pour regrouper le calendrier et l'ordre des tâches et des composants identifiés comme essentiels aux objectifs du projet.\n"
+"Nous verrons ensuite comment une bonne planification est soutenue par une documentation continue.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:19
@@ -7790,7 +7791,7 @@ msgstr "Puis SAISIE DES DONNÉES\n"
 #: scripts/organizing.en.txt:162
 #, no-wrap
 msgid "And finally PROOFREADING\n"
-msgstr ""
+msgstr "Et finallement la relecture\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:167
@@ -7820,14 +7821,17 @@ msgstr "S'il y a un problème avec l'image, elle est rejetée et le spécimen re
 msgid "Machine State workflows are the next most complex form.\n"
 "Here, the steps within each task cluster can happen asynchronously i.e they are not necessarily performed one after another, but instead can be triggered by actions and states in previous steps.\n"
 "One state is assigned as the start state, and then, based on an event, a transition is made to another state and so on.\n"
-msgstr ""
+msgstr "L'ordonnance des tâches d'état de la machine sont la forme la plus complexe.\n"
+"Ici, les étapes de chaque groupes de tâches peuvent se produire de manière asynchrone. elles ne sont pas nécessairement exécutées les unes après les autres, mais peuvent être déclenchées par des actions et des états dans les étapes précédentes.\n"
+"Un état est assigné comme état de départ, et puis, sur la base d'un événement, une transition est faite à un autre état, etc.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:185
 #, no-wrap
 msgid "If we take this example from Allard 2012.\n"
 "Let’s say that the photography lab is only allowed to hold 60 herbarium sheets at any one time.\n"
-msgstr ""
+msgstr "Si nous prenons cet exemple à partir de Allard 2012.\n"
+"On dit que le laboratoire de photographie n'est autorisé qu'à contenir que 60 planches d'herbier à aucun moment.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:187
@@ -8067,7 +8071,7 @@ msgstr "// Diapositive 29\n"
 #: scripts/organizing.en.txt:270
 #, no-wrap
 msgid "To review, the sections, “Clustering the Components” and “Elements of a Good Plan” we looked at three ways to arrange tasks together into feasible workflows:\n"
-msgstr ""
+msgstr "Pour vérifier, les sections, « Clustering the Components » et « Elements of a Good Plan » nous avons examiné trois façons d'organiser les tâches ensemble dans des ordonnances des tâches réalisables :\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:273
@@ -8087,7 +8091,7 @@ msgstr "Groupes de tâches – ont été utilisés pour décrire l'un des ensemb
 #: scripts/organizing.en.txt:277
 #, no-wrap
 msgid "While Workflows – where explained as ways for you to connect tasks and task clusters into logical sequences with criteria and logic to describe the actualities of day-2-day project working.\n"
-msgstr ""
+msgstr "Tandis que les flux de tâches– où vous avez expliqué comment relier des tâches et des groupes de tâches en séquences logiques avec des critères et une logique pour décrire les actualités au jour le jour de travail sur le projet.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:280
@@ -8121,7 +8125,9 @@ msgstr "Au chapitre 4 de l'Hobbit, Bilbo et les malheureux nains sont capturés 
 msgid "This may indeed be your first reaction to starting out on your practical plan, but remember that being physically clustered together made it easier for the dwarves to stay together and they escaped.\n"
 "It was by getting detached that Bilbo was lost.\n"
 "Of course he found the ring as result, but that’s another story for another time.\n"
-msgstr ""
+msgstr "Cela pourrait bien être votre première réaction à propos de votre plan pratique, mais rappelez-vous que le regroupement physique a permis aux nains de rester plus facilement ensemble et qu'ils se sont échappés.\n"
+"C'est en se détachant que Bilbo a été perdu.\n"
+"Bien sûr, il a trouvé l’anneau comme résultat, mais c’est une autre histoire pour un autre temps.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:292
@@ -9058,7 +9064,7 @@ msgstr "Donc, une définition très brève.\n"
 #. type: Plain text
 #: scripts/software.en.txt:24
 #, no-wrap
-msgid "In the realm of data capture software, there is often no need to go ìbigî when capturing information initially, especially in the field. \n"
+msgid "In the realm of data capture software, there is often no need to go \"big\" when capturing information initially, especially in the field. \n"
 "You can capture information from collection specimens or live observations in a simple spreadsheet such as Excel, OpenOffice, LibreOffice or Google Sheets. \n"
 "There may even not be a need to create your own system at all. \n"
 "Apps such as iNaturalist, or eBird are stable, robust and have simple intuitive interfaces. \n"
