@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-27 09:43\n"
+"PO-Revision-Date: 2021-04-27 10:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -142,7 +142,7 @@ msgstr "Um bom comando de Inglês. Apesar dos esforços realizados para prover m
 #: description.en.adoc:36
 #, no-wrap
 msgid "Learning objectives"
-msgstr "Objectivos de aprendizado"
+msgstr "Objetivos de aprendizagem"
 
 #. type: Plain text
 #: description.en.adoc:39
@@ -1768,7 +1768,7 @@ msgstr "Que tipo(s) de conjunto de dados escolheria para a flora e fauna de um e
 #: capture.en.adoc:98
 #, no-wrap
 msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
-msgstr ""
+msgstr "Os estudos de avaliação do impacto ambiental são realizados por peritos para avaliar a biodiversidade e os biótopos de uma determinada zona. antes, durante e depois de ser afectada por actividades humanas (obras rodoviárias, turbinas eólicas, mineração, construção civil, etc.).\n"
 
 #. type: delimited block .
 #: capture.en.adoc:102
@@ -1894,13 +1894,15 @@ msgstr "Os dados de cada participante são capturados e adicionados à ferrament
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
 "image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Observando aves com os guardas do parque] por US National Park Service (reutilização aotorizada através de google image search)\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #.  Question 8
 #. type: Plain text
 #: capture.en.adoc:169
 msgid "What dataset type(s) would you choose for a regional species list?"
-msgstr ""
+msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para lista regional de espécies?"
 
 #. type: delimited block .
 #: capture.en.adoc:175
@@ -1908,7 +1910,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
 "image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Rinoceronte negro] observado no Magdeburg Zoo, Alemanha por Mani300\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:179
@@ -1916,186 +1920,188 @@ msgstr ""
 msgid "- [ ] occurrence\n"
 "- [x] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [ ] ocorrência\n"
+"- [x] checklist\n"
+"- [ ] evento de amostragem\n"
 
 #. type: Plain text
 #: management.en.adoc:6
 msgid "In this module, you will review the main concepts, related tools and best practices for data management, particularly, data cleaning and standardization."
-msgstr ""
+msgstr "Neste módulo, irá analisar os principais conceitos, ferramentas relacionadas e melhores práticas para a gestão de dados, particularmente, a limpeza e normalização de dados."
 
 #. type: Title ===
 #: management.en.adoc:7
 #, no-wrap
 msgid "Principles of data management"
-msgstr ""
+msgstr "Princípios da gestão de dados"
 
 #. type: Plain text
 #: management.en.adoc:11
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr ""
+msgstr "Neste vídeo (09:49), irá analisar um conjunto importante de princípios necessários para melhorar os dados através dos processos de limpeza de dados. Se não conseguir assistir ao vídeo incorporado no Vimeo, pode carregar no link para:../videos/Data_Management.mp4[descarregar^,opts=download] localmente. (MP4 - 16.6 MB)"
 
 #. type: Title ===
 #: management.en.adoc:14
 #, no-wrap
 msgid "Data management tools"
-msgstr ""
+msgstr "Ferramentas de gestão de dados"
 
 #. type: Plain text
 #: management.en.adoc:18
 msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr ""
+msgstr "Neste vídeo (??:??), irá aprender mais sobre várias ferramentas que podem ser usadas para melhorar a qualidade dos seus dados. Se não puder assistir ao vídeo integrado no Vimeo, poderá descarregá-lo localmente. (MP4 - ??.?? MB)"
 
 #. type: Title ===
 #: management.en.adoc:21
 #, no-wrap
 msgid "Exercise 3a-c"
-msgstr ""
+msgstr "Exercício 3a-c"
 
 #. type: Plain text
 #: management.en.adoc:24
 msgid "For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use https://openrefine.org/[OpenRefine^]."
-msgstr ""
+msgstr "Para esses exercícios, irá executar verificações de validação técnicas e consistentes, melhorará os dados com diferentes ferramentas e aprenderá como usar https://openrefine.org/[OpenRefine^]."
 
 #. type: Plain text
 #: management.en.adoc:30
 msgid "Your institution is part of the “Global Poales Association (GPA)”.  This association has secured funding to publish an up-to-date flora on the group and has requested your herbarium to participate and provide any high quality records you may have on this order of plants.  The order is well represented in your collection so you think you could contribute substantially to this effort."
-msgstr ""
+msgstr "A sua instituição faz parte da “Associação Global de Poales (GPA)”. Esta associação garantiu financiamento para a publicação de uma flora atualizada para o grupo e solicitou ao seu herbário que participasse e fornecesse todos os registos de alta qualidade que possa ter para esta ordem de plantas. A ordem está bem representada na sua coleção, pelo que poderá contribuir substancialmente para este esforço."
 
 #. type: Title ====
 #: management.en.adoc:31
 #, no-wrap
 msgid "Exercise 3a"
-msgstr ""
+msgstr "Exercício 3a"
 
 #. type: Plain text
 #: management.en.adoc:34
 #, no-wrap
 msgid "*Validation checks*\n"
-msgstr ""
+msgstr "*Verificações de validação*\n"
 
 #. type: Plain text
 #: management.en.adoc:37
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
-msgstr ""
+msgstr "Neste exercício, vamo-nos concentrar em erros técnicos e realizar uma verificação de validação básica para identificar erros técnicos. Consulte <<Validation checks>> para obter informações sobre os tipos de erros."
 
 #. type: Plain text
 #: management.en.adoc:39
 msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Link de download:../exercício-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:40
 msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
-msgstr ""
+msgstr "Importe o arquivo CSV para o Excel usando o assistente do Excel. Consulte o link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) para obter instruções de importação para o seu sistema operativo (Windows, Mac, Linux)."
 
 #. type: Plain text
 #: management.en.adoc:41
 msgid "Find and correct the errors manually."
-msgstr ""
+msgstr "Localizar e corrigir os erros manualmente."
 
 #. type: Title ====
 #: management.en.adoc:43
 #, no-wrap
 msgid "Exercise 3b"
-msgstr ""
+msgstr "Exercício 3b"
 
 #. type: Plain text
 #: management.en.adoc:46
 #, no-wrap
 msgid "*Other data management tools*\n"
-msgstr ""
+msgstr "*Outras ferramentas de gestão de dados*\n"
 
 #. type: Plain text
 #: management.en.adoc:48
 msgid "The GPA association has given you a checklist of data quality elements to verify:"
-msgstr ""
+msgstr "A associação GPA forneceu-lhe uma lista de elementos de qualidade de dados para verificar:"
 
 #. type: Plain text
 #: management.en.adoc:50
 msgid "All plant names (full name) are correctly spelled"
-msgstr ""
+msgstr "Todos os nomes das plantas (nome completo) estão escritos corretamente"
 
 #. type: Plain text
 #: management.en.adoc:51
 msgid "All plant names belong to the order"
-msgstr ""
+msgstr "Todos os nomes das plantas pertencem à ordem"
 
 #. type: Plain text
 #: management.en.adoc:52
 msgid "All records have coordinates"
-msgstr ""
+msgstr "Todos os registos têm coordenadas"
 
 #. type: Plain text
 #: management.en.adoc:53
 msgid "All coordinates are inside the country stated and converted to decimal format"
-msgstr ""
+msgstr "Todas as coordenadas estão dentro do país declarado e convertidas em formato decimal"
 
 #. type: Plain text
 #: management.en.adoc:54
 msgid "All dates are in the proper column and in the format YYYY-MM-DD"
-msgstr ""
+msgstr "Todas as datas estão na coluna correta e no formato YYYY-MM-DD"
 
 #. type: Plain text
 #: management.en.adoc:56
 msgid "The three categories of errors are:"
-msgstr ""
+msgstr "As três categorias de erros são:"
 
 #. type: Plain text
 #: management.en.adoc:58
 msgid "Nomenclatural errors"
-msgstr ""
+msgstr "Erros nomenclaturais"
 
 #. type: Plain text
 #: management.en.adoc:59
 msgid "Format errors"
-msgstr ""
+msgstr "Erros de formatação"
 
 #. type: Plain text
 #: management.en.adoc:60
 msgid "Geographic errors / outliers"
-msgstr ""
+msgstr "Erros geográficos / outliers"
 
 #. type: Plain text
 #: management.en.adoc:63
 msgid "Refer to <<Helpful tools>> in order to complete the exercise.  You are not limited to these tools, you may use any tools you like."
-msgstr ""
+msgstr "Consulte <<Helpful tools>> para completar o exercício. Não está limitado a essas ferramentas, pode usar qualquer ferramenta que quiser."
 
 #. type: Plain text
 #: management.en.adoc:64
 msgid "Use the same file from the previous exercise."
-msgstr ""
+msgstr "Use o mesmo arquivo do exercício anterior."
 
 #. type: Plain text
 #: management.en.adoc:65
 msgid "Make the correction ONLY for the Eriocaulaceae family (so you may want to filter the data)"
-msgstr ""
+msgstr "Faça a correção APENAS para a família Eriocaulaceae (possivelmente, quererá filtrar os dados)"
 
 #. type: Plain text
 #: management.en.adoc:66
 msgid "Correct the errors found in the dataset used in exercise 3a (previous exercise), using the tools of your choice, and document the changes you perform in the exercise sheet."
-msgstr ""
+msgstr "Corrija os erros encontrados no conjunto de dados usado no exercício 3a (exercício anterior), usando as ferramentas à sua escolha e documente as alterações que realizar na folha de exercícios."
 
 #. type: Plain text
 #: management.en.adoc:67
 msgid "Correct the entire file if you have time."
-msgstr ""
+msgstr "Corrija todo o arquivo se tiver tempo."
 
 #. type: Title ====
 #: management.en.adoc:69
 #, no-wrap
 msgid "Exercise 3c"
-msgstr ""
+msgstr "Exercício 3c"
 
 #. type: Plain text
 #: management.en.adoc:73
 msgid "In this video (??:??), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr ""
+msgstr "Neste vídeo (??:??), irá aprender sobre https://openrefine.org/[OpenRefine^]. Pode usar o OpenRefine para padronizar e melhorar a qualidade dos seus dados. Se não puder assistir o vídeo integrado no Vimeo, poderá descarregá-lo localmente. (MP4 - ??.?? MB)"
 
 #. type: Plain text
 #: management.en.adoc:77
 #, no-wrap
 msgid "*OpenRefine*\n"
-msgstr ""
+msgstr "*OpenRefine*\n"
 
 #. type: Plain text
 #: management.en.adoc:79
@@ -2253,95 +2259,95 @@ msgstr ""
 #: management.en.adoc:136
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
-msgstr ""
+msgstr "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 
 #. type: Plain text
 #: management.en.adoc:137
 #, no-wrap
 msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
-msgstr ""
+msgstr "*Conversão de coordenadas Canadensys*: http://data.canadensys.net/tools/coordinates\n"
 
 #. type: Plain text
 #: management.en.adoc:138
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
-msgstr ""
+msgstr "*Análise de datas do Canadensys*: http://data.canadensys.net/tools/dates\n"
 
 #. type: Plain text
 #: management.en.adoc:139
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
-msgstr ""
+msgstr "*Google Maps*: https://maps.google.com/\n"
 
 #. type: Plain text
 #: management.en.adoc:140
 #, no-wrap
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
-msgstr ""
+msgstr "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
 
 #. type: Plain text
 #: publishing.en.adoc:6
 msgid "In this module, you will learn about data publishing concepts, including the IPT, cores and extensions, and the importance of licenses, metadata, mandatory fields and hosting of datasets."
-msgstr ""
+msgstr "Neste módulo, irá aprender sobre conceitos de publicação de dados, incluindo o IPT, núcleos e extensões, e a importância das licenças, metadados, campos obrigatórios e alojamentos de conjuntos de dados."
 
 #. type: Title ===
 #: publishing.en.adoc:7
 #, no-wrap
 msgid "Data publishing concepts"
-msgstr ""
+msgstr "Conceitos de publicação de dados"
 
 #. type: Plain text
 #: publishing.en.adoc:11
 msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr ""
+msgstr "Neste vídeo (11:45), irá aprender sobre os conceitos de publicação de dados e receberá uma introdução ao Integrado Publishing Toolkit (https://www.gbif.org/ipt[IPT^]). Se não puder assistir o vídeo integrado no Vimeo, poderá fazer link:../videos/Data_publishing_concepts.mp4[download^,opts=download] localmente. (MP4 - 20 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:14
 #, no-wrap
 msgid "IPT overview"
-msgstr ""
+msgstr "Introdução geral ao IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:18
 msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr ""
+msgstr "Neste vídeo (??:??), você terá uma introdução geral à interface de publicação de dados do IPT. Se não puder assistir o vídeo integrado no Vimeo, poderá descarregá-lo localmente. (MP4 - ??.?? MB)"
 
 #. type: Title ====
 #: publishing.en.adoc:21
 #, no-wrap
 msgid "Training IPT installations"
-msgstr ""
+msgstr "Instalações IPT para treino"
 
 #. type: Plain text
 #: publishing.en.adoc:24
 msgid "If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
-msgstr ""
+msgstr "Se ainda não recebeu um login, entre em contato com training@gbif.org e ser-lhe-á fornecido um login e senha para o IPT do curso."
 
 #. type: Plain text
 #: publishing.en.adoc:26
 msgid "https://training-ipt-a.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-a.gbif.org/[^]"
 
 #. type: Plain text
 #: publishing.en.adoc:28
 msgid "https://training-ipt-b.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-b.gbif.org/[^]"
 
 #. type: Plain text
 #: publishing.en.adoc:30
 msgid "https://training-ipt-c.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-c.gbif.org/[^]"
 
 #. type: Title ===
 #: publishing.en.adoc:31
 #, no-wrap
 msgid "IPT demonstration"
-msgstr ""
+msgstr "Demonstração do IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:35
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded Vimeo video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr ""
+msgstr "Neste vídeo (24:16), irá aprender como publicar um conjunto de dados de ocorrência usando um IPT. Se não conseguir assistir ao vídeo integrado no Vimeo, você pode fazer link:../videos/IPT_demo.mp4[download^,opts=download] localmente. (MP4 - 52.6 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:38 use-case-invasive-species.en.adoc:137
@@ -2349,12 +2355,12 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:162
 #, no-wrap
 msgid "Exercise 4"
-msgstr ""
+msgstr "Exercício 4"
 
 #. type: Plain text
 #: publishing.en.adoc:41
 msgid "In this exercise, you will publish an occurrence dataset using the IPT."
-msgstr ""
+msgstr "Neste exercício, irá publicar um conjunto de dados de ocorrência usando o IPT."
 
 #. type: Plain text
 #: publishing.en.adoc:45 assessments-certification.en.adoc:148
@@ -2363,7 +2369,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:165
 #, no-wrap
 msgid "*Data publishing*\n"
-msgstr ""
+msgstr "*Publicação de dados*\n"
 
 #. type: Plain text
 #: publishing.en.adoc:47
@@ -2413,7 +2419,7 @@ msgstr ""
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr ""
+msgstr "Os participantes devem submeter o Caso de Uso II (escolha entre duas opções) e usar o Caso de Uso III e cada caso de uso será classificado conforme as rubricas educacionais do curso. As rubricas definem os níveis de habilidade e desempenho em que os objetivos de aprendizagem do curso são construídos."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
@@ -2432,7 +2438,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:92
 #, no-wrap
 msgid "*Planning*\n"
-msgstr ""
+msgstr "*Planeamento*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:61 assessments-certification.en.adoc:102
@@ -5155,7 +5161,7 @@ msgstr ""
 #: scripts/publishing-concepts.en.txt:194 scripts/standards.en.txt:291
 #, no-wrap
 msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
-msgstr ""
+msgstr "Se tiver perguntas sobre esta apresentação, use o fórum fornecido na plataforma de e-Learning.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:108 scripts/data-types.en.txt:139
@@ -7871,7 +7877,10 @@ msgid "If you have questions on this presentation, please use the provided forum
 " \n"
 "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "Se tiver dúvidas sobre esta apresentação, use o fórum fornecido na plataforma de e-Learning.\n"
+" \n"
+"Este vídeo faz parte de uma série de apresentações usadas no curso de Mobilização de Dados de Biodiversidade do GBIF.\n"
+"O currículo de mobilização de dados de biodiversidade foi originalmente desenvolvido como parte do Programa de Desenvolvimento de Informação sobre Biodiversidade financiado pela União Europeia.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:5
@@ -8252,7 +8261,8 @@ msgstr ""
 #, no-wrap
 msgid "As we finish up this presentation, we’d like for you to begin exploring the IPT.\n"
 "In the e-Learning platform, you will find your login information and the location of the test IPT.\n"
-msgstr ""
+msgstr "À medida que terminamos essa apresentação, gostaríamos que começasse a explorar o IPT.\n"
+"Na plataforma de e-learning, encontrará as suas informações de login e o local do IPT de teste.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:188
@@ -8329,7 +8339,10 @@ msgid "Specific hardware choices are unfortunately, outside of the scope of this
 "Don’t be shy to ask your mentors and colleagues who have done similar projects for help.\n"
 "In general though, which hardware you need, depends on both the type of digitization being carried out (for example herbarium sheets or pinned insects etc) as well as the combination of people who will do the digitization and publication.\n"
 "Do NOT fall into the trap of buying equipment before identifying the people. \n"
-msgstr ""
+msgstr "Infelizmente, as escolhas específicas de hardware estão fora do âmbito desta apresentação, mas há referências aos recursos existentes na plataforma de e-Learning, que podem ser úteis.\n"
+"Não hesite em pedir ajuda aos seus mentores e colegas que fizeram projetos semelhantes.\n"
+"Em geral, porém, a identificação do hardware que precisa depende tanto do tipo de digitalização (por exemplo, folhas de herbário ou insetos alfinetados, etc.) como da combinação de pessoas que farão a digitalização e a publicação.\n"
+"NÃO caia na armadilha de comprar equipamento antes de identificar as pessoas. \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:39
@@ -8493,7 +8506,8 @@ msgstr ""
 #, no-wrap
 msgid "Remember that whilst there is no perfect ”one size fits all”, digitization activities most have been tried at least once by someone else! \n"
 "There are many existing repositories of digitization protocols available online, and many are included in the course resources in the eLearning platform.\n"
-msgstr ""
+msgstr "Lembre-se de que, embora não haja nenhum \"tamanho único para todos\", a maioria das atividades de digitalização foram testadas por alguém ao menos uma vez! \n"
+"Existem vários repositórios de protocolos de digitalização online e muitos são incluídos nos recursos do curso, na plataforma de e-Learning.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:121
@@ -8711,7 +8725,10 @@ msgid "If you have questions on this presentation, please use the provided forum
 " \n"
 "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "Se tiver dúvidas sobre esta apresentação, use o fórum fornecido na plataforma de e-Learning.\n"
+" \n"
+"Este vídeo faz parte de uma série de apresentações usadas no curso de Mobilização de Dados de Biodiversidade do GBIF. \n"
+"O currículo de mobilização de dados de biodiversidade foi originalmente desenvolvido como parte do Programa de Desenvolvimento de Informação sobre Biodiversidade financiado pela União Europeia.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:5
@@ -8806,7 +8823,10 @@ msgid "If you have questions on this presentation, please use the provided forum
 "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
 "This presentation was originally created by Sophie Pamerlon and is narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Se você tiver dúvidas sobre esta apresentação, use o fórum fornecido na plataforma de e-Learning. \n"
+"Este vídeo faz parte de uma série de apresentações usadas no curso de Mobilização de Dados de Biodiversidade do GBIF. \n"
+"O currículo de mobilização de dados sobre biodiversidade foi originalmente desenvolvido como parte do Programa de Desenvolvimento para a Informação sobre Biodiversidade financiado pela União Europeia. \n"
+"Esta apresentação foi originalmente criada por Sophie Pamerlon e é narrada por Sharon Grant com contribuições adicionais por BID e Formadores BIFA, Mentores e Alunos.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:5
@@ -9026,7 +9046,8 @@ msgstr ""
 #, no-wrap
 msgid "During this course, you will be learning how to share your data. \n"
 "As such, you will encounter standards for transferring data.\n"
-msgstr ""
+msgstr "Durante este curso, irá aprender a partilhar os seus dados. \n"
+"Como tal, encontrará padrões para a transferência de dados.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:100
@@ -9653,5 +9674,8 @@ msgid "If you have questions on this presentation, please use the provided forum
 "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
 "This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Se tiver dúvidas sobre esta apresentação, use o fórum fornecido na plataforma de e-Learning. \n"
+"Este vídeo faz parte de uma série de apresentações usadas no curso de Mobilização de Dados de Biodiversidade do GBIF. \n"
+"O currículo de mobilização de dados sobre biodiversidade foi originalmente desenvolvido como parte do Programa de Desenvolvimento para a Informação sobre Biodiversidade financiado pela União Europeia. \n"
+"Esta apresentação foi originalmente criada e narrada por Sharon Grant com contribuições adicionais por BID e Formadores BIFA, Mentores e Alunos.\n"
 
