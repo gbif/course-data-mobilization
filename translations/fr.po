@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-27 15:17+0000\n"
-"PO-Revision-Date: 2021-04-27 18:48\n"
+"PO-Revision-Date: 2021-04-27 20:00\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -8187,13 +8187,16 @@ msgid "Most organizations within the GBIF Network, otherwise known as publishers
 "These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities.\n"
 "This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet.\n"
 "Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.\n"
-msgstr ""
+msgstr "La plupart des organisations du réseau GBIF, autrement connu sous le nom d'éditeurs, utilisent un IPT, l’outil de publication intégré, pour publier leurs données.\n"
+"Ces éditeurs peuvent choisir d'héberger leur propre installation d'un IPT comme le Field Museum, mais préfèrent généralement trouver un hôte approprié pour leurs activités de publication de données.\n"
+"Cela pourrait se faire par le biais d'un noeud participant GBIF établi comme GBIF France ou par le biais d'un groupe thématique établi comme VertNet.\n"
+"Ou, une autre option pourrait être d'utiliser l'un des IPT hébergés par GBIF comme le BID, la BIFA ou les IPT régionales.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:26
 #, no-wrap
 msgid "If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF.\n"
-msgstr ""
+msgstr "Si vous faites partie de groupes comme Symbiota ou les communautés d'Atlas Vivants, ils ont d'autres moyens de vous aider à publier vos données sur le GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:31
@@ -8215,7 +8218,9 @@ msgstr "Afin de documenter le niveau d’ouverture d’un jeu de données, le GB
 msgid "CC0, a waiver for data made available for any use without any restrictions\n"
 "CC BY, a license for data made available for any use with appropriate attribution\n"
 "CC BY-NC, a license for data made available for any non-commercial use with appropriate attribution.\n"
-msgstr ""
+msgstr "CC0, une dérogation pour les données mises à disposition pour toute utilisation sans aucune restriction\n"
+"CC BY, une licence pour les données mises à disposition pour toute utilisation avec l'attribution appropriée\n"
+"CC BY-NC, une licence pour les données mises à disposition pour toute utilisation non commerciale avec une attribution appropriée.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:39
@@ -8228,7 +8233,8 @@ msgstr "Notez que les licences CC-BY-NC ont un effet significatif sur la réutil
 #, no-wrap
 msgid "GBIF encourages data publishers to choose the most open option they can wherever possible.\n"
 "Projects supported through GBIF-led funding must use either the CC0 or CC BY options.\n"
-msgstr ""
+msgstr "Le GBIF encourage les éditeurs de données à choisir l'option la plus ouverte dans la mesure du possible.\n"
+"Les projets pris en charge par les financements menés par GBIF doivent utiliser soit les options CC0 ou CC BY.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:49
@@ -8237,13 +8243,16 @@ msgid "The Integrated Publishing Toolkit (IPT) is a free, open source software t
 "The first version of IPT was released in 2009.\n"
 "It was redesigned and rereleased in 2011.\n"
 "Since that time, the IPT has been updated periodically with new features, bug fixes and security improvements.\n"
-msgstr ""
+msgstr "La boîte à outils de publication intégrée (IPT) est gratuite, outil logiciel open source écrit en Java qui est utilisé pour publier et partager des jeux de données sur la biodiversité à travers le réseau du GBIF.\n"
+"La première version de l'IPT a été publiée en 2009.\n"
+"Il a été redessiné et republié en 2011.\n"
+"Depuis, l'IPT a été mis à jour périodiquement avec de nouvelles fonctionnalités, des corrections de bugs et des améliorations de sécurité.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:51
 #, no-wrap
 msgid "While the IPT is maintained at GBIF, the community of biodiversity informatics developers are able to contribute to its development.\n"
-msgstr ""
+msgstr "Tandis que l'IPT est maintenue au GBIF, la communauté des développeurs de la biodiversité informatique est en mesure de contribuer à son développement.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:53
@@ -8419,21 +8428,25 @@ msgstr "La prochaine option est le cœur Taxon.\n"
 msgid "The last option is the Event core.\n"
 "As a reminder, sampling event datasets allow data publishers to provide greater detail, not only offering evidence that a species occurred at a given location and date, but also making it possible to assess community composition for broader taxonomic groups or even the abundance of species at multiple times and places.\n"
 "By indicating the methods, events and relative abundance of species recorded in a sample, these datasets improve comparisons with data collected using the same protocols at different times and places—in some cases, even leading researchers to infer the absence of particular species from particular sites.\n"
-msgstr ""
+msgstr "La dernière option est le noyau événement.\n"
+"En guise de rappel, les jeux de données d'échantillonnage permettent aux éditeurs de données de fournir plus de détails, non seulement en fournissant des preuves qu'une espèce est présente à un endroit et à une date donnés, mais aussi permettre d'évaluer la composition de la communauté pour des groupes taxinomiques plus larges ou même l'abondance d'espèces à plusieurs reprises et endroits.\n"
+"En indiquant les méthodes, les événements et l'abondance relative des espèces enregistrées dans un échantillon, ces jeux de données améliorent les comparaisons avec les données collectées en utilisant les mêmes protocoles à des moments et des endroits différents — dans certains cas, menant même les chercheurs à déduire l'absence d'espèces particulières sur des sites particuliers.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:127
 #, no-wrap
 msgid "Each row will have an EventID.\n"
 "Each event must be unique.\n"
-msgstr ""
+msgstr "Chaque ligne aura un EventID.\n"
+"Chaque événement doit être unique.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:132
 #, no-wrap
 msgid "This is a good point to review all of the fields required by GBIF.\n"
 "If required fields are not supplied, GBIF will have difficult indexing your dataset.\n"
-msgstr ""
+msgstr "C'est un bon point pour revoir tous les champs requis par le GBIF.\n"
+"Si les champs requis ne sont pas fournis, le GBIF aura des difficultés à indexer votre jeu de données.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:135
@@ -8466,7 +8479,12 @@ msgid "Extensions were introduced in the Standards presentation.\n"
 "The approved extensions can be enabled by an IPT administrator on a Production IPT.\n"
 "Draft extensions can be enabled by an IPT administrator on a Test IPT.\n"
 "If you know you have data that cannot be shared with Simple Darwin Core, it is worth reviewing the list of available extensions.\n"
-msgstr ""
+msgstr "Des extensions ont été introduites dans la présentation des standards.\n"
+"La publication d'un jeu de données est maintenant l'endroit où vous les utiliserez.\n"
+"Comme mentionné précédemment, le GBIF maintient la liste des extensions approuvées et brouillons sur son sous-site d’outils.\n"
+"Les extensions approuvées peuvent être activées par un administrateur IPT sur un IPT de production.\n"
+"Les extensions brouillons peuvent être activées par un administrateur IPT sur un test IPT.\n"
+"Si vous savez que vous avez des données qui ne peuvent pas être partagées avec Simple Darwin Core, il vaut la peine d'examiner la liste des extensions disponibles.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:152
@@ -8486,7 +8504,7 @@ msgstr "De plus, dans la présentation des standards, vous avez été présenté
 #: scripts/publishing-concepts.en.txt:158
 #, no-wrap
 msgid "This is an example of a Darwin Core archive with extensions.\n"
-msgstr ""
+msgstr "Ceci est un exemple d'archive Darwin Core avec des extensions.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:160
@@ -8541,7 +8559,9 @@ msgid "In this example the third and fourth taxons in the core file, do not have
 "(1:0 relationship).\n"
 " \n"
 "// Slide 14\n"
-msgstr ""
+msgstr "Dans cet exemple, les troisième et quatrième taxons du fichier core, n'ont pas de correspondance dans le fichier d'extension.\n"
+"(relation 1:0).\n\n"
+"// Diapositive 14\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:185
