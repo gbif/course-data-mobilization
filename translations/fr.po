@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-27 10:39\n"
+"PO-Revision-Date: 2021-04-27 11:49\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -7322,13 +7322,13 @@ msgstr ""
 #: scripts/documentation.en.txt:135
 #, no-wrap
 msgid "As we mention in the section on data quality your ”Metadata must be rich enough to allow data (re)use by a third party without them having to refer to the data source.”\n"
-msgstr ""
+msgstr "Comme nous le mentionnons dans la section sur la qualité des données, vos \"métadonnées doivent être suffisamment riches pour permettre une (ré)utilisation des données par un tiers sans qu'il aie à se référer à la source de données.\"\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:139
 #, no-wrap
 msgid "We will discuss this in more detail in later sessions but as a quick guide good documentation should include:\n"
-msgstr ""
+msgstr "Nous discuterons de cela plus en détail dans les sessions ultérieures, mais en deux mots, une bonne documentation devrait inclure:\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:141
@@ -7367,7 +7367,7 @@ msgstr ""
 #: scripts/documentation.en.txt:153
 #, no-wrap
 msgid "Statement of accuracy – Using the concepts of accuracy, precision, errors and uncertainty that we discussed previously, are there any issues with the dataset that should be known to a user?\n"
-msgstr ""
+msgstr "Énoncé de certitude – En utilisant les concepts de certitude, de précision, d'erreurs et d'incertitude dont nous avons discuté précédemment, Y a-t-il des problèmes avec le jeu de données qui devraient être connus par l'utilisateur ?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:157
@@ -7375,7 +7375,9 @@ msgstr ""
 msgid "Dates and life expectancy – When will the dataset be available? \n"
 "How long is it valid for? \n"
 "When if ever will it be updated?\n"
-msgstr ""
+msgstr "Dates et durée de vie – Quand le jeu de données sera-t-il disponible ? \n"
+"Combien de temps sera-t-il valide ? \n"
+"Quand va-t-il être mis à jour ?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:161
@@ -7383,40 +7385,45 @@ msgstr ""
 msgid "Field Definitions – Describing the format of fields and what kind of data each contains.\n"
 "Was any cleaning or transformation down to the original data? \n"
 "This is important for you to know if you are mapping it to a standard such as Darwin Core.\n"
-msgstr ""
+msgstr "Définitions des champs – Décrivant le format des champs et le type de données qu'ils contiennent.\n"
+"Est-ce que le nettoyage ou la transformation des données d'origine ont été effectués ? \n"
+"Ceci est important à savoir si vous mappez vers un standard tel que Darwin Core.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:164
 #, no-wrap
 msgid "Collection methodology – How was the data collected? \n"
 "Where there protocols used which will affect its fitness for use?\n"
-msgstr ""
+msgstr "Méthodologie de collecte – Comment les données ont-elles été collectées ? \n"
+"Il y t'il des protocoles utilisés qui affecteront leur aptitude à être utilisées ?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:166
 #, no-wrap
 msgid "Statement of completeness – What is missing from the data and why?\n"
-msgstr ""
+msgstr "Déclaration de complétude – Qu'est-ce qui manque dans les données et pourquoi?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:169
 #, no-wrap
 msgid "Conditions of use and constraints – Where and how can you use the data? \n"
 "For most portals and GBIF in particular data must use very open licensing, so understanding the requirements of data owners and their institutions is very important.\n"
-msgstr ""
+msgstr "Conditions d'utilisation et contraintes – Où et comment pouvez-vous utiliser les données ? \n"
+"Pour la plupart des portails, GBIF en particulier, les données doivent utiliser une licence très ouverte, donc il est très important de comprendre les exigences des propriétaires de données et de leurs institutions.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:172
 #, no-wrap
 msgid "Custodianship/Contact information  – This should be the institution responsible for the dataset as presented to you, as well as (if possible) the individual who created the dataset.\n"
 "There should also be a technical contact who is responsible for the publication of the dataset.\n"
-msgstr ""
+msgstr "Informations sur la garde/le contact - Il doit s'agir de l'institution responsable de l'ensemble de données telle qu'on vous l'a présentée, ainsi que (si possible) de la personne qui a créé l'ensemble de données.\n"
+"Il doit également y avoir un contact technique qui est responsable de la publication de l'ensemble de données.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:180
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant and has been narrated by Sophie Pamerlon.\n"
-msgstr ""
+msgstr "Cette présentation a été créée à l'origine par Sharon Grant et a été racontée par Sophie Pamerlon.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:6
@@ -7424,14 +7431,17 @@ msgstr ""
 msgid "This session is part of the planning section. \n"
 "We will be introducing some concepts and methodologies that will help you to focus on the organization of your mobilization project at a number of levels. \n"
 "The focus in this session will be on tasks and the ways in which they can be organized in order to prepare practical, workable plans and clear documentation. \n"
-msgstr ""
+msgstr "Cette session fait partie de la section de planification. \n"
+"Nous allons introduire quelques concepts et méthodologies qui vous aideront à vous concentrer sur l'organisation de votre projet de mobilisation à plusieurs niveaux. \n"
+"L'accent de cette session sera mis sur les tâches et sur la manière dont elles peuvent être organisées afin de préparer des travaux pratiques, des plans réalisables et une documentation claire. \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:11
 #, no-wrap
 msgid "The successful implementation of your project is dependent in large part on the development of realistic, efficient and streamlined processes and documentation\n"
 "This, combined with constant assessment of changes to the landscape within which your project exists, will increase drastically the likelihood of success.\n"
-msgstr ""
+msgstr "La réussite de la mise en œuvre de votre projet dépend en grande partie du développement de processus et de documentation réalistes, efficaces et rationalisés\n"
+"Ceci, combiné à une évaluation constante des changements du contexte dans lequel votre projet s'inscrit, augmentera considérablement la probabilité de succès.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:14
@@ -7445,13 +7455,14 @@ msgstr ""
 #, no-wrap
 msgid "Let’s take a quick look at the definition of the noun cluster.\n"
 "It is defined as “A group of similar things or people positioned or occurring closely together”. \n"
-msgstr ""
+msgstr "Jetons un coup d'œil rapide à la définition du terme \"cluster\".\n"
+"Il est défini comme \"Un groupe de choses ou de personnes similaires positionnées ou se trouvant étroitement ensembles\".\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:21
 #, no-wrap
 msgid "The three important parts of the definition for us:\n"
-msgstr ""
+msgstr "Les trois parties importantes de la définition pour nous :\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:23
@@ -7469,43 +7480,43 @@ msgstr "Similitude\n"
 #: scripts/organizing.en.txt:27
 #, no-wrap
 msgid "Things\n"
-msgstr ""
+msgstr "Choses\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:29
 #, no-wrap
 msgid "What we will see is that in order to successfully achieve your mobilization goals, you need to be able to identify groups and arrangements of similar tasks, cluster them together and then string those clusters together in a logical flow. \n"
-msgstr ""
+msgstr "Ce que nous verrons est que pour atteindre vos objectifs de mobilisation, vous devez être en mesure d'identifier des groupes et des arrangements de tâches similaires, les regrouper et ensuite les regrouper dans un flux logique.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:31
 #, no-wrap
 msgid "In plain terms we will now be looking at the When and the How of your project\n"
-msgstr ""
+msgstr "En termes clairs, nous allons maintenant examiner le Quand et le Comment de votre projet\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:35
 #, no-wrap
 msgid "Let’s look first at GROUPINGS.\n"
-msgstr ""
+msgstr "Regardons d'abord les GROUPEMENTS.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:37
 #, no-wrap
 msgid "Probably the most simplest grouping to be able to identify in your project are Stages relative to a fixed point in time.\n"
-msgstr ""
+msgstr "Probablement, le groupement le plus simple à identifier dans votre projet sont les étapes relatives à un point fixe dans le temps.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:39
 #, no-wrap
 msgid "What we mean here is, at what time during the project should any particular task (or group of tasks) occur? \n"
-msgstr ""
+msgstr "Ce que nous voulons dire ici est, à quel moment pendant le projet une tâche particulière (ou un groupe de tâches) doit-elle se produire?\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:41
 #, no-wrap
 msgid "The simplest but by no means the only way of stage-grouping, uses digitization as its reference point\n"
-msgstr ""
+msgstr "Le plus simple, mais en aucun cas le seul moyen de regroupement des étapes, utilise la numérisation comme point de référence\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:46
@@ -7517,19 +7528,19 @@ msgstr "Dans cet exemple:\n"
 #: scripts/organizing.en.txt:48
 #, no-wrap
 msgid "Before - refers to any time before the start of the digitization effort itself ie the imaging and transcription;\n"
-msgstr ""
+msgstr "Avant - fait référence à n'importe quel moment avant le début de l'effort de numérisation elle-même, c'est à dire l'imagerie et la transcription;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:50
 #, no-wrap
 msgid "During - relates specifically to the period of active digitization; and \n"
-msgstr ""
+msgstr "Pendant - concerne spécifiquement la période de numérisation active ; et \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:52
 #, no-wrap
 msgid "After - is the period after the digitization effort has ended. \n"
-msgstr ""
+msgstr "Après - est la période après la fin de l'effort de numérisation.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:56
@@ -7537,77 +7548,83 @@ msgstr ""
 msgid "Another common reference point is the start and end of funding. \n"
 "You can use anything that makes sense and even use different reference points for different stakeholders and groups of tasks, that run concurrently.\n"
 "These points are often also good places to insert milestones with metrics into your project.\n"
-msgstr ""
+msgstr "Un autre point de référence commun est le début et la fin du financement.\n"
+"Vous pouvez utiliser tout ce qui a du sens et même utiliser des points de référence différents pour les différentes parties prenantes et groupes de tâches, qui s'exécutent simultanément.\n"
+"Ces points sont souvent aussi de bons endroits pour insérer des jalons avec des métriques dans votre projet.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:61
 #, no-wrap
 msgid "The next set of groupings is PMBoK.\n"
 "PMBoK stands for Project Management Body of Knowledge and it is the entire collection of processes, best practices, terminologies, and guidelines that are accepted as standards within the project management industry\n"
-msgstr ""
+msgstr "Le prochain ensemble de regroupements est PMBoK.\n"
+"PMBoK signifie Project Management Body of Knowledge et c'est toute l'ensemble des processus, des meilleures pratiques, des terminologies, et des lignes directrices qui sont acceptées comme normes dans le secteur de la gestion de projet\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:64
 #, no-wrap
 msgid "It is overseen by the Project Management Institute (PMI), which is a global not-for-profit member association of Project Managers.\n"
 "The first edition of the PMBOK Guide was published in 1996 and it is now on its fifth edition, which was published in 2013\n"
-msgstr ""
+msgstr "Il est supervisé par le Project Management Institute (PMI), qui est une association mondiale sans but lucratif de gestionnaires de projets.\n"
+"La première édition du Guide PMBOK a été publiée en 1996 et est maintenant sur sa cinquième édition, qui a été publié en 2013\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:66
 #, no-wrap
 msgid "As a very high level synopsis, the methodology uses iterative and repeatable groupings to cluster tasks together\n"
-msgstr ""
+msgstr "En tant que synopsis de très haut niveau, la méthodologie utilise des regroupements itératifs et répétitifs pour regrouper les tâches ensemble\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:69
 #, no-wrap
 msgid "The stages are:\n"
-msgstr ""
+msgstr "Les étapes sont :\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:71
 #, no-wrap
 msgid "INITIATING\n"
-msgstr ""
+msgstr "INITIATION\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:73
 #, no-wrap
 msgid "PLANNING\n"
-msgstr ""
+msgstr "PLANNIFICATION\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:75
 #, no-wrap
 msgid "EXECUTING\n"
-msgstr ""
+msgstr "EXECUTION\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:77
 #, no-wrap
 msgid "MONITORING and\n"
-msgstr ""
+msgstr "SUIVI et\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:79
 #, no-wrap
 msgid "CLOSING\n"
-msgstr ""
+msgstr "FIN\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:84
 #, no-wrap
 msgid "Tasks carried out during the initiating phase should define the new project or the part of the project being tracked.\n"
 "For example obtaining collection permits or MOUs before going into the field to collect.\n"
-msgstr ""
+msgstr "Les tâches effectuées durant la phase d'initiation doivent définir le nouveau projet ou la partie du projet ciblée.\n"
+"Par exemple obtenir des permis de collecte ou des MOU avant d'aller collecter sur le terrain.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:89
 #, no-wrap
 msgid "Tasks carried out during the planning phase are required to establish the scope of the project.\n"
 "For example assessing the physical state of a collection before pulling specimens for imaging.\n"
-msgstr ""
+msgstr "Les tâches réalisées durant la phase de planification sont nécessaires pour déterminer l'étendue du projet.\n"
+"Par exemple évaluer l'état physique d'une collection avant de prendre des spécimens pour l'imagerie.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:94
@@ -7726,32 +7743,34 @@ msgstr "Machine d'état\n"
 #, no-wrap
 msgid "In simple terms they are just another way that you join tasks and task clusters together and apply rules and logic to increase efficiency.\n"
 "We will look at the three workflows by describing in increasing detail, a common digitization workflow.\n"
-msgstr ""
+msgstr "En termes simples, ils ne sont qu'une autre façon de regrouper les tâches et les groupes de tâches et d'appliquer des règles et une logique pour augmenter l'efficacité.\n"
+"Nous examinerons les trois flux de travail en décrivant de manière de plus en plus détaillée un flux de travail de numérisation commun.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:150
 #, no-wrap
 msgid "Sequential workflows are simple and represent a unidirectional series of steps with a single start and end point. \n"
 "The important point being that each task MUST be completed before the next one can start.\n"
-msgstr ""
+msgstr "Les flux de travail séquentiels sont simples et représentent une série d'étapes unidirectionnelle avec un point de départ et de fin unique. \n"
+"Le point important étant que chaque tâche DOIT être accomplie avant que la prochaine puisse commencer.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:154
 #, no-wrap
 msgid "In this example the sequence is:\n"
-msgstr ""
+msgstr "Dans cet exemple, la séquence est :\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:156
 #, no-wrap
 msgid "NAME CHECKING\n"
-msgstr ""
+msgstr "VÉRIFICATION DES NOMS\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:158
 #, no-wrap
 msgid "Followed by PHOTOGRAPHY\n"
-msgstr ""
+msgstr "Suivi de la PHOTOGRAPHIE\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:160
@@ -7822,214 +7841,217 @@ msgstr ""
 #: scripts/organizing.en.txt:195
 #, no-wrap
 msgid "highlight the benefits of good documentation;\n"
-msgstr ""
+msgstr "mettre en valeur les avantages d'une bonne documentation;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:197
 #, no-wrap
 msgid "make connections between the proposal, planning and implementation documents;\n"
-msgstr ""
+msgstr "établir des liens entre les documents de proposition, de planification et de mise en œuvre;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:199
 #, no-wrap
 msgid "and show how the elements of each build together, thereby reducing the agony of the last \n"
-msgstr ""
+msgstr "et montrer comment les éléments de chacun d'entre eux s'assemblent, réduisant ainsi l'agonie du dernier \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:201
 #, no-wrap
 msgid "minute end of project report.\n"
-msgstr ""
+msgstr "minute de fin du rapport du projet.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:205
 #, no-wrap
 msgid "The definition of a plan is a detailed proposal for doing or achieving something.\n"
-msgstr ""
+msgstr "La définition d'un plan est une proposition détaillée pour faire ou réaliser quelque chose.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:207
 #, no-wrap
 msgid "Documentation of your project should describe not only what you planned to do but also what you actually did.\n"
-msgstr ""
+msgstr "La documentation de votre projet devrait décrire non seulement ce que vous aviez prévu de faire, mais aussi ce que vous avez réellement fait.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:209
 #, no-wrap
 msgid "Its primary purpose is to communicate with all stakeholders in order to provide an exact account of expectations, responsibilities and achievements.\n"
-msgstr ""
+msgstr "Son objectif premier est de communiquer avec toutes les parties prenantes afin de fournir un compte rendu exact des attentes, des responsabilités et des réalisations.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:211 scripts/structures.en.txt:155
 #, no-wrap
 msgid "// Slide 24\n"
-msgstr ""
+msgstr "// Diapositive 24\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:213
 #, no-wrap
 msgid "Thorough documentation has many benefits.\n"
-msgstr ""
+msgstr "Une documentation approfondie a de nombreux avantages.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:215
 #, no-wrap
 msgid "It provides accountability - everyone should know what they are responsible for and also what others are responsible for.\n"
-msgstr ""
+msgstr "Il fournit une responsabilisation - tout le monde devrait savoir de quoi il est responsable, et aussi de quoi les autres sont responsables.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:217
 #, no-wrap
 msgid "It ensures integrity - do what you say you will do, especially where sensitive data is concerned.\n"
-msgstr ""
+msgstr "Il garantit l'intégrité - faites ce que vous dites que vous ferez, en particulier en ce qui concerne les données sensibles.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:219
 #, no-wrap
 msgid "It provides protection - a good plan helps you avoid scope creep and unexpected requests.\n"
-msgstr ""
+msgstr "Il fournit une protection - un bon plan vous aide à éviter la dérive des objectifs et les besoins inattendus.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:221
 #, no-wrap
 msgid "It provides proof of compliance - allows you to show that you have followed the standards that you said you would\n"
-msgstr ""
+msgstr "Il fournit une preuve de conformité - vous permet de montrer que vous avez respecté les standards dans lesquels vous vous êtes engagés\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:223
 #, no-wrap
 msgid "It enhances availability - your plan should be available, there shouldn't be anything hidden at this stage. \n"
-msgstr ""
+msgstr "Cela améliore la disponibilité - votre plan devrait être disponible, il ne devrait rien y avoir de caché à ce stade.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:225
 #, no-wrap
 msgid "It documents retention - How long will the data created by this project remain \"fresh\", what needs to happen to keep it up to date. \n"
-msgstr ""
+msgstr "Il documente la rétention - Combien de temps les données créées par ce projet resteront-elles \"fraîches\", ce qui est nécessaire pour les maintenir à jour.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:227
 #, no-wrap
 msgid "It documents disposition - What is the ownership of the data created by the project? Who will be responsible for it after the end of the project.\n"
-msgstr ""
+msgstr "Il documente la disposition - Quelle est la propriété des données créées par le projet? Qui en sera responsable après la fin du projet.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:229
 #, no-wrap
 msgid "It encourages transparency - openly shared practical project plans feed back into the community and allow others to learn from your successes and failures.\n"
-msgstr ""
+msgstr "Il encourage la transparence - des plans de projet pratiques et ouvertement partagés bénéficient à la communauté et permettent aux autres d'apprendre de vos succès et de vos échecs.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:231
 #, no-wrap
 msgid "And it promotes teamwork - All stakeholders benefit from knowing how they fit into the bigger picture and the more of a sense of ownership that they, have the more likely your project is to succeed.\n"
-msgstr ""
+msgstr "Et il promeut le travail d'équipe - Toutes les parties prenantes profitent de savoir comment ils s'intègrent dans le contexte plus général et plus ils se l'approprient, plus votre projet est susceptible de réussir.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:233 scripts/structures.en.txt:161
 #, no-wrap
 msgid "// Slide 25\n"
-msgstr ""
+msgstr "// Diapositive 25\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:235
 #, no-wrap
 msgid "All of the resource elements that we have discussed in the previous section come together in the project documentation.\n"
-msgstr ""
+msgstr "Toutes les ressources dont nous avons discuté dans la section précédente sont réunies dans la documentation du projet.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:237
 #, no-wrap
 msgid "The elements of your documentation overlap, let’s have a look at where in the documentation cycle each element appears.\n"
-msgstr ""
+msgstr "Les éléments de votre documentation se chevauchent, voyons où chaque élément apparaît dans le cycle de documentation.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:239
 #, no-wrap
 msgid "// Slide 26\n"
-msgstr ""
+msgstr "// Diapositive 26\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:241
 #, no-wrap
 msgid "We won’t cover much about the detail of creating a proposal, except to say that if it got you funding then you did a good job.\n"
-msgstr ""
+msgstr "Nous ne couvrirons pas grand-chose sur les détails de la création d'une proposition, sauf pour dire que si vous avez obtenu un financement, alors vous avez fait du bon travail.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:243
 #, no-wrap
 msgid "The proposal will contain the high-level description of purpose and rationale and a good faith description of a workplan as achievable at the time of writing.\n"
-msgstr ""
+msgstr "La proposition contiendra une description de haut niveau de l'objectif et de la motivation, et une description de bonne foi d'un plan de travail réalisable au moment de la rédaction.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:246
 #, no-wrap
 msgid "The planning document or implementation plan on the other hand should give everyone involved at the start of the project a complete guide to how the project will actually get done.\n"
 "This is where you should include the practicalities, \n"
-msgstr ""
+msgstr "D'autre part, le document de planification ou le plan de mise en œuvre devraient donner à toutes les personnes impliquées au début du projet un guide complet sur la manière dont le projet sera réellement réalisé.\n"
+"C'est là que vous devez inclure les aspects pratiques, \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:248
 #, no-wrap
 msgid "workflows for specific goals\n"
-msgstr ""
+msgstr "flux de travail pour des objectifs spécifiques\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:250
 #, no-wrap
 msgid "resource allocations to tasks\n"
-msgstr ""
+msgstr "attributions de ressources aux tâches\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:252
 #, no-wrap
 msgid "milestones and targets\n"
-msgstr ""
+msgstr "jalons et objectifs\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:254
 #, no-wrap
 msgid "// Slide 27\n"
-msgstr ""
+msgstr "// Diapositive 27\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:256
 #, no-wrap
 msgid "The planning document should be a living entity that the project manager revisits regularly as they keep track of milestones and approach checkpoints.\n"
-msgstr ""
+msgstr "Le document de planification devrait être une entité vivante que le chef de projet revisite régulièrement en suivant les jalons et les points de contrôle d'approche.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:258
 #, no-wrap
 msgid "Workflows should be adjusted and re-documented as the landscape changes, to make sure that interim goals are kept on track.\n"
-msgstr ""
+msgstr "Les flux de travail doivent être ajustés et redocumentés au fur et à mesure que le contexte change, pour s'assurer que les objectifs intermédiaires sont maintenus sur la bonne voie.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:261
 #, no-wrap
 msgid "If this is done, then Progress reports which occur at checkpoints throughout the project are easy to compile.\n"
 "Metrics can be reported and any changes in the project landscape highlighted for risk mitigation.\n"
-msgstr ""
+msgstr "Si cela est fait, alors les rapports d'avancement qui occurrent aux points de contrôle tout au long du projet sont faciles à compiler.\n"
+"On peut rapporter des mesures et mettre en évidence tout changement dans le contexte du projet pour atténuer les risques.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:263
 #, no-wrap
 msgid "// Slide 28\n"
-msgstr ""
+msgstr "// Diapositive 28\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:266
 #, no-wrap
 msgid "The compilation of the final report then becomes the less daunting task of summarizing the previous progress reports and the planning document.\n"
 "In a circular fashion your planning document now can be used in your next project proposal and has the benefit of being a tried and tested successful plan.\n"
-msgstr ""
+msgstr "La compilation du rapport final devient alors la tâche la moins ardue de résumer les rapports d'avancement précédents et le document de planification.\n"
+"De façon circulaire, votre document de planification peut maintenant être utilisé dans votre prochaine proposition de projet et a l'avantage d'être un plan éprouvé et testé avec succès.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:268
 #, no-wrap
 msgid "// Slide 29\n"
-msgstr ""
+msgstr "// Diapositive 29\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:270
@@ -8042,13 +8064,14 @@ msgstr ""
 #, no-wrap
 msgid "Groupings –are ways to divide a project into manageable stages based on specific criteria, for example time.\n"
 "They are helpful ways to determine milestones in planning documents and mark progress for interim reports.\n"
-msgstr ""
+msgstr "Les regroupements – sont des moyens de diviser un projet en étapes gérables en fonction de critères spécifiques, par exemple le temps.\n"
+"Ce sont des moyens utiles pour déterminer les jalons dans les documents de planification et marquer les progrès pour les rapports intermédiaires.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:275
 #, no-wrap
 msgid "Task Clusters – were used to describe one of the most common sets of natural history digitization tasks and their ordering.\n"
-msgstr ""
+msgstr "Groupes de tâches – ont été utilisés pour décrire l'un des ensembles les plus courants de tâches de numérisation d'histoire naturelle et leur ordre.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:277
@@ -8061,25 +8084,26 @@ msgstr ""
 #, no-wrap
 msgid "Lastly we looked at how project documentation is a continuous process that begins with the proposal and should be considered task in its own right.\n"
 "Continuous refinement of your documentation is essential to the successful communication of your project at all stages and will help you and your team know what they should be doing at any particular time.\n"
-msgstr ""
+msgstr "Enfin, nous avons examiné comment la documentation du projet est un processus continu qui commence par la proposition et devrait être considéré comme une tâche en soi.\n"
+"Le perfectionnement continu de votre documentation est essentiel à la communication réussie de votre projet à toutes les étapes et vous aidera ainsi que votre équipe à savoir ce qu'ils doivent faire à un moment donné.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:282
 #, no-wrap
 msgid "You will learn more about documentation of our actual data in further session in this course.\n"
-msgstr ""
+msgstr "Vous en apprendrez plus sur la documentation de nos données lors de la prochaine session de ce cours.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:284
 #, no-wrap
 msgid "// Slide 30\n"
-msgstr ""
+msgstr "// Diapositive 30\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:286
 #, no-wrap
 msgid "In chapter 4 of the Hobbit, Bilbo and the unfortunate Dwarves are captured by goblins, chained together in the dark and led deep into the caverns and tunnels of the Misty Mountains. \n"
-msgstr ""
+msgstr "Au chapitre 4 de l'Hobbit, Bilbo et les malheureux nains sont capturés par des gobelins, enchaînés ensembles dans l'obscurité et conduits profondément dans les cavernes et les tunnels des Montagnes de Brume.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:290
@@ -8093,7 +8117,7 @@ msgstr ""
 #: scripts/organizing.en.txt:292
 #, no-wrap
 msgid "// Slide 31\n"
-msgstr ""
+msgstr "// Diapositive 31\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:297
@@ -8102,14 +8126,17 @@ msgid "If you have questions on this presentation, please use the provided forum
 " \n"
 "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "Si vous avez des questions sur cette présentation, veuillez utiliser le forum intégré à la plateforme de e-Learning. \n\n"
+"Cette vidéo fait partie d'une série de présentations utilisées dans le cours GBIF de mobilisation des données de biodiversité. \n"
+"Le programme de mobilisation des données de biodiversité a été développé à l'origine dans le cadre du Programme de Développement de l'Information sur la Biodiversité, financé par l'Union Européenne.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:5
 #, no-wrap
 msgid "In this presentation, we will introduce you to the concept of Data Publishing.\n"
 "We will also introduce you to GBIF’s Integrated Publishing Toolkit.\n"
-msgstr ""
+msgstr "Dans cette présentation, nous vous présenterons le concept de la publication de données.\n"
+"Nous vous présenterons également le kit intégré publication GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:11
@@ -8117,21 +8144,25 @@ msgstr ""
 msgid "At this point in the course, you have moved through all the sections of mobilization project.\n"
 "Now you are ready to share your data.\n"
 "You’ve produced a cleaned and standardized dataset and you want to share and see that data on the GBIF data portal.\n"
-msgstr ""
+msgstr "À ce stade du cours, vous avez parcouru toutes les sections du projet de mobilisation.\n"
+"Maintenant vous êtes prêt à partager vos données.\n"
+"Vous avez produit un jeu de données nettoyé et standardisé et vous voulez partager et voir ces données sur le portail de données GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:16
 #, no-wrap
 msgid "But there is more to it than simply handing over a spreadsheet or a text file to GBIF.\n"
 "You must publish the data.\n"
-msgstr ""
+msgstr "Mais il y a plus à cela que de simplement remettre une feuille de calcul ou un fichier texte au GBIF.\n"
+"Vous devez publier les données.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:19
 #, no-wrap
 msgid "Data publishing is the act of making biodiversity datasets publicly accessible and discoverable, in a standardized form (ie Darwin Core), via an access point.\n"
 "This access point is a URL – a web address.\n"
-msgstr ""
+msgstr "La publication des données est l'acte de rendre les ensembles de données sur la biodiversité accessibles au public et découvrables, sous une forme normalisée (c.-à-d. Darwin Core), via un point d'accès.\n"
+"Ce point d'accès est une URL - une adresse web.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:24
@@ -8496,7 +8527,7 @@ msgstr ""
 #: scripts/publishing-concepts.en.txt:192 scripts/standards.en.txt:289
 #, no-wrap
 msgid "Thank you.\n"
-msgstr ""
+msgstr "Merci.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:199
