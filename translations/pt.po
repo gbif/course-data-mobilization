@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-27 10:40\n"
+"PO-Revision-Date: 2021-04-27 12:57\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -2106,29 +2106,29 @@ msgstr "*OpenRefine*\n"
 #. type: Plain text
 #: management.en.adoc:79
 msgid "In this exercise we use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
-msgstr ""
+msgstr "Neste exercício, utilizamos o OpenRefine para melhorar a qualidade de um conjunto de dados usando os recursos padrão, serviços web existentes e expressões regulares."
 
 #. type: Plain text
 #: management.en.adoc:81
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Link de download:../exercício-data/UC1-3ab-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:83
 msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)  Also available in link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download]."
-msgstr ""
+msgstr "Descarregue e complete os exercícios pelo link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB) Também disponível no link:../course-docs/OpenRefine-Exercise3c-FR.pdf[Francês, opts=download] e link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Espanhol,opts=download]."
 
 #. type: Title ===
 #: management.en.adoc:85
 #, no-wrap
 msgid "Exercise tips"
-msgstr ""
+msgstr "Dicas do exercício"
 
 #. type: Title ====
 #: management.en.adoc:87
 #, no-wrap
 msgid "Validation checks"
-msgstr ""
+msgstr "Verificações da validação"
 
 #. type: Plain text
 #: management.en.adoc:92
@@ -2136,60 +2136,68 @@ msgstr ""
 msgid "*Technical errors*\n"
 "Relatively simple, often able to be automated, *checks against the integrity of the data*. \n"
 "These may indicate incorrect exports, data mapping, field slippage (e.g. moving 1 column to the right) or data missing at the source.\n"
-msgstr ""
+msgstr "*Erros técnicos*\n"
+"Relativamente simples, muitas vezes capaz de ser automatizado, *verifica a integridade dos dados*. \n"
+"Isso pode indicar exportações incorretas, mapeamento de dados, deslizamento de campo (e.g. moveu 1 coluna para a direita) ou dados em falta na fonte.\n"
 
 #. type: Plain text
 #: management.en.adoc:95
 #, no-wrap
 msgid "*Completeness*: \n"
 "Whether all the data and metadata is available – are all fields present, are all fields filled out?\n"
-msgstr ""
+msgstr "*Integridade*: \n"
+"Se todos os dados e metadados estão disponíveis - todos os campos estão presentes, todos os campos estão preenchidos?\n"
 
 #. type: Plain text
 #: management.en.adoc:97
 #, no-wrap
 msgid "*Bounds*: \n"
 "For example, are days given in the range 1-31 (depending on month)\n"
-msgstr ""
+msgstr "*Limites*: \n"
+"Por exemplo, os dias foram dados no intervalo de 1-31 (dependendo do mês)\n"
 
 #. type: Plain text
 #: management.en.adoc:99
 #, no-wrap
 msgid "*Data type*: \n"
 "For example, does the Date field contain a date or a number?\n"
-msgstr ""
+msgstr "*Tipo de dados*: \n"
+"Por exemplo, o campo Data contém uma data ou um número?\n"
 
 #. type: Plain text
 #: management.en.adoc:101
 #, no-wrap
 msgid "*Data format*: \n"
 "For example, are Dates provided as 01/01/2010 or 01/Jan/10?\n"
-msgstr ""
+msgstr "*Formato de dados*: \n"
+"Por exemplo, as datas são fornecidas como 01/01/2010 ou 01/Jan/10?\n"
 
 #. type: Plain text
 #: management.en.adoc:103
 #, no-wrap
 msgid "*Consistency errors*\n"
-msgstr ""
+msgstr "*Erros de consistência*\n"
 
 #. type: Plain text
 #: management.en.adoc:109
 msgid "Application of real-world rules to the data.  These may indicate incorrect data entry from older records, transcription errors or post processing.  Some are complex to implement and *require reference data sets to check against*.  E.g. a list of known collectors and collecting habits.  These rules can be gathered from data users and analysts."
-msgstr ""
+msgstr "Aplicação de regras do mundo real aos dados. Isso pode indicar informações incorretas de registos antigos, erros de transcrição ou de pós-processamento. Alguns são complexos para implementar e *requerem conjuntos de dados de referência para nova verificação*. E.g. uma lista de coletores e hábitos de coleta conhecidos. Estas regras podem ser recolhidas através de utilizadores e analistas de dados."
 
 #. type: Plain text
 #: management.en.adoc:112
 #, no-wrap
 msgid "*Taxonomic*: \n"
 "For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?\n"
-msgstr ""
+msgstr "*Taxonomia*: \n"
+"Por exemplo, se identificado ao nível de espécies, foram fornecidos o nome científico binómio e entradas nos campos de gênero e espécie?\n"
 
 #. type: Plain text
 #: management.en.adoc:114
 #, no-wrap
 msgid "*Currency*: \n"
 "Are dates of collection, identification, update and digitization consistent?\n"
-msgstr ""
+msgstr "*Moeda*: \n"
+"As datas de coleção, identificação, actualização e digitalização são consistentes?\n"
 
 #. type: Plain text
 #: management.en.adoc:117
@@ -2197,7 +2205,9 @@ msgstr ""
 msgid "*Outliers*: \n"
 "Detect outliers, but remember that not all outliers are necessarily errors. \n"
 "For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).\n"
-msgstr ""
+msgstr "*Outliers*: \n"
+"Detectar outliers, mas lembre-se de que nem todos os outliers são necessariamente erros. \n"
+"Por exemplo, compare contra uma extensão de espécies conhecidas ou um intervalo ambiental conhecido (mas lembre-se que outliers podem ser identificações erradas, ao invés de coordenadas incorretas).\n"
 
 #. type: Plain text
 #: management.en.adoc:120
@@ -2205,7 +2215,9 @@ msgstr ""
 msgid "*Geographic*: \n"
 "Are the coordinates within the identified locality or region? \n"
 "For example, are there any terrestrial occurrences in the sea or marine occurrences on land?\n"
-msgstr ""
+msgstr "*Geografia*: \n"
+"As coordenadas estão dentro da localidade ou região identificadas? \n"
+"Por exemplo, há alguma ocorrência terrestre no mar ou ocorrências marinhas em terra?\n"
 
 #. type: Plain text
 #: management.en.adoc:124
@@ -2214,14 +2226,18 @@ msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
 "Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
 "For example, are any mammal records attributed to a bird watching group?\n"
-msgstr ""
+msgstr "*Padrões de amostragem*: \n"
+"O detalhe da ocorrência corresponde aos padrões de colheita conhecidos da organização ou coletor?\n"
+"Algum registo parece ter sido criado após a morte de um coletor (poderia ser um coletor diferente com um nome similar)?\n"
+"Por exemplo, algum registo de mamíferos está atribuído a um grupo de observação de pássaros?\n"
 
 #. type: Plain text
 #: management.en.adoc:126
 #, no-wrap
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
-msgstr ""
+msgstr "*Acurácia e precisão*: \n"
+"Por exemplo, quaisquer registos geo-referenciados indicando uma precisão ou acurácia muito alta de um período de colheita pré-GPS (ou pré-acurácia do GPS)?\n"
 
 #. type: Plain text
 #: management.en.adoc:129
@@ -2229,31 +2245,33 @@ msgstr ""
 msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
 "Are the records consistent with the method provided?\n"
-msgstr ""
+msgstr "*Métodos de colheita*: \n"
+"Diferentes métodos de pesquisa (por exemplo, transects e buscas de área) têm características específicas. \n"
+"Os registos são consistentes com o método fornecido?\n"
 
 #. type: Title ====
 #: management.en.adoc:130
 #, no-wrap
 msgid "Helpful tools"
-msgstr ""
+msgstr "Ferramentas úteis"
 
 #. type: Plain text
 #: management.en.adoc:133
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
-msgstr ""
+msgstr "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 
 #. type: Plain text
 #: management.en.adoc:134
 #, no-wrap
 msgid "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
-msgstr ""
+msgstr "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
 
 #. type: Plain text
 #: management.en.adoc:135
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
-msgstr ""
+msgstr "*Global Names Resolver*: http://resolver.globalnames.org\n"
 
 #. type: Plain text
 #: management.en.adoc:136
@@ -2374,38 +2392,38 @@ msgstr "*Publicação de dados*\n"
 #. type: Plain text
 #: publishing.en.adoc:47
 msgid "After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset."
-msgstr ""
+msgstr "Depois de limpar os dados no conjunto de dados de Poales, a equipa considera que a publicação dos dados on-line através da rede GBIF pode ser uma boa maneira de tornar este esforço visível. Foi solicitado que você liderasse esse trabalho de publicação, com base no conjunto de dados."
 
 #. type: Plain text
 #: publishing.en.adoc:50
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
-msgstr ""
+msgstr "Neste momento, você precisa de uma conta em uma das <<Training IPT installations,course IPTs>>. Se você ainda não recebeu um login, entre em contato com training@gbif.org e será fornecido um login e senha em um dos IPT do curso."
 
 #. type: Plain text
 #: publishing.en.adoc:51
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
-msgstr ""
+msgstr "Link para descarregar:../exercício-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 
 #. type: Plain text
 #: publishing.en.adoc:52
 msgid "Use the assigned IPT installation and publish this file."
-msgstr ""
+msgstr "Utilize a instalação do IPT atribuído e publique este ficheiro."
 
 #. type: Title ==
 #: assessments-certification.en.adoc:3
 #, no-wrap
 msgid "Assessment and certification"
-msgstr ""
+msgstr "Avaliação e certificação"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:6
 msgid "In this module, you will review the criteria to be used to assess assignments and to achieve certification."
-msgstr ""
+msgstr "Neste módulo, você irá rever os critérios a serem usados para avaliar as atribuições e para realizar a certificação."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:8
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge]."
-msgstr ""
+msgstr "Após a conclusão bem sucedida do curso e avaliação bem sucedida das recomendações (por treinadores e mentores), os participantes têm a oportunidade de receber uma certificação oficial sob a forma de https://openbadges. rg/[Open Badge]."
 
 #. type: Table
 #: assessments-certification.en.adoc:16
@@ -2414,7 +2432,10 @@ msgid "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=\"center\"
 "|An overall score of 2.5-2.9 earns a BASIC Biodiversity Data Mobilization badge\n\n"
 "|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=\"center\", width=\"75\", height=\"75\"]\n"
 "|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
-msgstr ""
+msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=\"center\", width=\"75\", height=\"75\"]\n"
+"|An overall score of 2.5-2.9 earns a BASIC Biodiversity Data Mobilization badge\n\n"
+"|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=\"center\", width=\"75\", height=\"75\"]\n"
+"|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:19
@@ -2424,13 +2445,13 @@ msgstr "Os participantes devem submeter o Caso de Uso II (escolha entre duas op�
 #. type: Plain text
 #: assessments-certification.en.adoc:21
 msgid "Review the rubrics to ensure understanding of the skills that will be assessed for certification."
-msgstr ""
+msgstr "Revise as rubricas para garantir a compreensão das habilidades que serão avaliadas para a certificação."
 
 #. type: Title ===
 #: assessments-certification.en.adoc:22
 #, no-wrap
 msgid "Planning rubric"
-msgstr ""
+msgstr "Rubrica de planeamento"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:25 use-case-invasive-species.en.adoc:67
@@ -2473,13 +2494,41 @@ msgid "|Skills\n"
 "|Item\n"
 "|Item\n"
 "|Item\n"
-msgstr ""
+msgstr "|Skills\n"
+"|Beginning performance\n"
+"1\n"
+"|Developing performance\n"
+"2\n"
+"|Accomplished performance\n"
+"3\n"
+"|Outstanding performance\n"
+"4\n\n"
+"|A\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+"|Item\n\n"
+"|B\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+"|Item\n\n"
+"|C\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+"|Item\n\n"
+"|D\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
+"|Item\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:63
 #, no-wrap
 msgid "Data capture rubric"
-msgstr ""
+msgstr "Rubrica de captura de dados"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:66 use-case-invasive-species.en.adoc:115
@@ -2487,13 +2536,13 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:108
 #, no-wrap
 msgid "*Data capture*\n"
-msgstr ""
+msgstr "*Captura de dados*\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:104
 #, no-wrap
 msgid "Data management rubric"
-msgstr ""
+msgstr "Rubrica de gestão de dados"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:107 use-case-invasive-species.en.adoc:128
@@ -2501,75 +2550,75 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:140
 #, no-wrap
 msgid "*Data management*\n"
-msgstr ""
+msgstr "*Gestão de dados*\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:145
 #, no-wrap
 msgid "Data publishing rubric"
-msgstr ""
+msgstr "Rubrica de publicação de dados"
 
 #. type: Title ==
 #: use-case-invasive-species.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Invasive species"
-msgstr ""
+msgstr "Use o caso II - Espécie invasora"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:8 use-case-lepidoptera-sampling.en.adoc:8
 msgid "You have a choice for Use Case II between two scenarios:"
-msgstr ""
+msgstr "Você tem uma escolha para o Use Case II entre dois cenários:"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:10
 #: use-case-lepidoptera-sampling.en.adoc:10
 msgid "Invasive species checklist"
-msgstr ""
+msgstr "Checklist de espécies invasoras"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:11
 #: use-case-lepidoptera-sampling.en.adoc:11
 msgid "Lepidoptera sampling"
-msgstr ""
+msgstr "Amostragem de Lepidoptera"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:13
 #: use-case-lepidoptera-sampling.en.adoc:13
 msgid "Your choice for Use Case II will be graded."
-msgstr ""
+msgstr "Sua escolha para Use Case II será avaliada."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:16
 #, no-wrap
 msgid "*Tracking invasive species*\n"
-msgstr ""
+msgstr "*Rastreamento de espécies invasoras*\n"
 
 #. type: Block title
 #: use-case-invasive-species.en.adoc:18
 #, no-wrap
 msgid "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam.) de Wit] observed in Hawaii by Sharon Grant (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam.) de Wit] observed in Hawaii by Sharon Grant (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-invasive-species.en.adoc:19
 #, no-wrap
 msgid "img/web/use-case-2-invasive-hawaii.png"
-msgstr ""
+msgstr "img/web/use-case-2-invasive-hawaii.png"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:22
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Sharon Grant, John Wieczorek, David Bloom and Laura Anne Russell."
-msgstr ""
+msgstr "Esta narrativa foi desenvolvida como base para exercícios práticos no curso de mobilização de dados para a biodiversidade, e o conceito e o conteúdo do exercício foi desenvolvido por Sharon Grant, John Wieczorek, David Bloom e Laura Anne Russell."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
 msgid "It is a fictionalized scenario based on a real dataset and is meant only for instructional purposes.  The original dataset is attributed to Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
-msgstr ""
+msgstr "É um cenário fictício baseado em um conjunto de dados real e destinado apenas para fins instrutivos. O conjunto de dados original é atribuído a Simpson A (2016). Comitê de Espécies Invasoras da Ilha Big Island - Pest Reports- 2005-2010. Versão 4.1. United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] acessada via GBIF.org em 2017-07-13."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:31
 msgid "The Hawaii Invasive Species Council (HISC) received a federal grant to collaborate with high schools as part of Hawaii’s statewide curriculum on Invasive Species to increase local knowledge about invasive species, increase data collection and produce annotated checklists for under reported areas.  A full-time Project Manager is employed to oversee the project.  All funds and allocations are managed by the HISC Fiscal Associate."
-msgstr ""
+msgstr "O Conselho de Espécies Invasoras (HISC) recebeu um subsídio federal para colaborar com escolas de ensino médio como parte do currículo de toda a zona do Havaí em Espécies Invasoras, para aumentar o conhecimento local sobre essas espécies, aumentar a colheita de dados e produzir checklists para áreas com lacunas de dados. Um Gestor de Projecto em tempo integral é empregado para supervisionar o projecto. Todos os fundos e alocações são geridos pelo Tesoureiro do HISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:35
@@ -2876,18 +2925,18 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:18
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/3039469018[Papilio machaon Linnaeus, 1758] observed in Israel by עומר וינר (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/3039469018[Papilio machaon Linnaeus, 1758] observed in Israel by עומר וינר (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:19
 #, no-wrap
 msgid "img/web/use-case-2-Papilio_machaon.jpeg"
-msgstr ""
+msgstr "img/web/use-case-2-Papilio_machaon.jpeg"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:23
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, based on previous work by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé.  It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr ""
+msgstr "Esta narrativa foi desenvolvida como base para exercícios práticos do curso de mobilização de dados para a biodiversidade e o conceito e conteúdo do exercício foram desenvolvido por Alberto González-Talaván, com base no trabalho de Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond e Nicolas Noé. É um cenário fictício e destina-se apenas a fins instrutivos."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:29
