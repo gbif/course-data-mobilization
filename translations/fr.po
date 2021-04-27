@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-27 08:48\n"
+"PO-Revision-Date: 2021-04-27 09:43\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6632,7 +6632,7 @@ msgstr "Une fois de plus, dans le dictionnaire anglais d'Oxford, un \"programme\
 #: scripts/definitions.en.txt:64
 #, no-wrap
 msgid "In this context, a “database program or software” combines and presents functions and features for manipulating data, together is a unified interface. \n"
-msgstr ""
+msgstr "Dans ce contexte, un \"programme de base de données ou logiciel\" combine et présente des fonctions et des fonctionnalités pour manipuler les données, ensemble est une interface unifiée. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:66
@@ -6668,13 +6668,13 @@ msgstr "Les outils de nettoyage de données sont des systèmes dont les utilitai
 #: scripts/definitions.en.txt:78
 #, no-wrap
 msgid "Examples that you may be familiar or will learn about during the course are:\n"
-msgstr ""
+msgstr "Des exemples que vous connaissez peut-être ou que vous apprendrez au cours de la formation sont:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:80
 #, no-wrap
 msgid "OpenRefine, MatLab  and spreadsheets\n"
-msgstr ""
+msgstr "OpenRefine, MatLab et les feuilles de calcul\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:82
@@ -6722,7 +6722,7 @@ msgstr "Les noms de champs sont presque toujours utilisés par les langages de b
 #: scripts/definitions.en.txt:100
 #, no-wrap
 msgid "Labels and headers on the other hand, refer to the human readable versions of the field names. \n"
-msgstr ""
+msgstr "Par contre, les étiquettes et les en-têtes font référence aux versions des noms de champs lisibles par l'homme. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:102
@@ -6848,7 +6848,7 @@ msgstr "La valeur ASCII de la lettre majuscule A est le nombre décimal 65\n"
 #: scripts/definitions.en.txt:150
 #, no-wrap
 msgid "which in HEXIDECIMAL is 041 \n"
-msgstr ""
+msgstr "qui en HEXADECIMAL est 041 \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:152
@@ -6860,55 +6860,55 @@ msgstr "et en BINAIRE 01000001\n"
 #: scripts/definitions.en.txt:154
 #, no-wrap
 msgid "Try mapping your own name to Binary using the link at the bottom of the screen.\n"
-msgstr ""
+msgstr "Essayez de mapper votre propre nom au binaire en utilisant le lien en bas de l'écran.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:158
 #, no-wrap
 msgid "In effect what is happening is that when you type into a keyboard and save a file the software that you are using will select an encoding to save with it. \n"
-msgstr ""
+msgstr "En effet, ce qui se passe est que lorsque vous tapez dans un clavier et que vous enregistrez un fichier, le logiciel que vous utilisez sélectionnera un encodage à sauvegarder avec. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:160
 #, no-wrap
 msgid "When you open that file again the software needs to know which encoding (map) to use to redisplay the information back to you correctly.\n"
-msgstr ""
+msgstr "Lorsque vous ouvrez à nouveau ce fichier, le logiciel doit savoir quel encodage (carte) utiliser pour réafficher les informations correctement.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:164
 #, no-wrap
 msgid "So why is this important to you as a data custodian?\n"
-msgstr ""
+msgstr "Alors pourquoi est-ce important pour vous en tant que dépositaire de données ?\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:166
 #, no-wrap
 msgid "Let’s say that you translate the start of Hamlet’s soliloquy\n"
-msgstr ""
+msgstr "Disons que vous traduisez le début du soliloque d'Hamlet\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:168
 #, no-wrap
 msgid " ”To be or not to be, that is the question”\n"
-msgstr ""
+msgstr " \"Être ou ne pas être, c'est la question\"\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:170
 #, no-wrap
 msgid "into French and then save the file with a text editor that uses the encoding Latin-1\n"
-msgstr ""
+msgstr "en français puis enregistrez le fichier avec un éditeur de texte qui utilise l'encodage Latin-1\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:172
 #, no-wrap
 msgid "Then you send it to a colleague to check the translation. Voila!\n"
-msgstr ""
+msgstr "Puis vous l'envoyez à un collègue pour vérifier la traduction. Voila!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:176
 #, no-wrap
 msgid "When they open the file in MicroSoft Word this is what they see…\n"
-msgstr ""
+msgstr "Quand ils ouvrent le fichier dans MicroSoft Word c'est ce qu'ils voient…\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:178
@@ -6989,41 +6989,45 @@ msgstr "“..La première étape de la sagesse est de connaître les choses en e
 #, no-wrap
 msgid "We often take for granted that there is a whole language associated with biodiversity informatics that is not commonplace and has to be learned. \n"
 "There is no shame in going back to basics and getting to grips with the vocabulary,  grammar and syntax just like with any new language.\n"
-msgstr ""
+msgstr "Nous considérons souvent comme acquis qu'il existe toute une langue associée à l'informatique de la biodiversité qui n'est pas courante et qui doit être apprise. \n"
+"Il n'y a pas de honte à revenir aux bases et à maîtriser le vocabulaire, grammaire et syntaxe comme dans n'importe quel nouveau langage.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:215 scripts/standards.en.txt:294
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
-msgstr ""
+msgstr "Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données de la biodiversité du GBIF.\n"
+"Le programme de mobilisation des données sur la biodiversité a été initialement développé dans le cadre du programme Biodiversity Information Development financé par l'Union européenne. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:216 scripts/organizing.en.txt:298
 #: scripts/resourcing.en.txt:220
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Cette présentation a été initialement créée et narrée par Sharon Grant avec des contributions supplémentaires des formateurs du BID et du BIFA, les Mentors et Étudiants.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:5
 #, no-wrap
 msgid "In this presentation, we will provide an overview of the importance of documentation as it relates to data management and data publishing.\n"
 "You will learn about data mapping, data relationships and metadata .\n"
-msgstr ""
+msgstr "Dans cette présentation, nous donnerons un aperçu de l’importance de la documentation en ce qui concerne la gestion des données et la publication des données.\n"
+"Vous apprendrez sur le mappage de données, les relations de données et les métadonnées.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:10
 #, no-wrap
 msgid "In the previous Foundations presentations, we looked at the individual elements that make up both your data and the containers that hold it.\n"
 "Now we’ll look at ways to document those data and what you want to do with it.\n"
-msgstr ""
+msgstr "Dans les présentations précédentes des Fondations, nous avons examiné les éléments individuels qui composent à la fois vos données et les conteneurs qui les contiennent.\n"
+"Maintenant nous allons examiner les moyens de documenter ces données et ce que vous voulez en faire.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:12
 #, no-wrap
 msgid "According to the director Steven Spielberg,\n"
-msgstr ""
+msgstr "Selon le réalisateur Steven Spielberg,\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:16
@@ -7031,7 +7035,9 @@ msgstr ""
 msgid "“People have forgotten how to tell a story.\n"
 "Stories don’t have a middle or an end any more.\n"
 "They usually have a beginning that never stops beginning.”\n"
-msgstr ""
+msgstr "« Les gens ont oublié comment raconter une histoire.\n"
+"Les histoires n'ont plus de milieu ni de fin.\n"
+"Elles ont généralement un début qui n'arrête jamais de commencer.\"\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:19
@@ -7045,21 +7051,23 @@ msgstr "La documentation est l'histoire de votre projet ou de votre jeu de donn�
 #: scripts/documentation.en.txt:21
 #, no-wrap
 msgid "In essence you should be able to answer certain questions at specific points:\n"
-msgstr ""
+msgstr "En essence, vous devriez être en mesure de répondre à certaines questions à des points spécifiques :\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:24
 #, no-wrap
 msgid "At the beginning: What did our project aim to do? \n"
 "What was the purpose of creating the dataset?\n"
-msgstr ""
+msgstr "Au début : Que visait notre projet ? \n"
+"Quel était le but de la création du jeu de données ?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:27
 #, no-wrap
 msgid "In the middle:  What did we actually do? \n"
 "What did we achieve? \n"
-msgstr ""
+msgstr "Au milieu: qu'avons-nous réellement fait? \n"
+"Qu'avons-nous réalisé? \n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:31
@@ -7067,13 +7075,15 @@ msgstr ""
 msgid "At the end: What didn’t we achieve? \n"
 "Why? \n"
 "What should happen next?\n"
-msgstr ""
+msgstr "À la fin : Qu'est-ce que nous n'avons pas réalisé? \n"
+"Pourquoi? \n"
+"Que doit-il se passer ensuite?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:35
 #, no-wrap
 msgid "In order to document your data and render them as fit for use as possible for yourself and future users, you need to follow these three essential steps :\n"
-msgstr ""
+msgstr "Afin de documenter vos données et de les rendre aussi appropriées que possible pour vous-même et les futurs utilisateurs, vous devez suivre ces trois étapes essentielles :\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:39
@@ -7081,37 +7091,39 @@ msgstr ""
 msgid "Mapping your data to existing formats and standards if necessary\n"
 "Planning your data moves\n"
 "Create useful metadata describing your data\n"
-msgstr ""
+msgstr "Mappage de vos données aux formats et standards existants si nécessaire\n"
+"Planifier vos déplacements de données\n"
+"Créer des métadonnées utiles décrivant vos données\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:44
 #, no-wrap
 msgid "We will begin by looking at ways to describe your data, then we will show how to map your data from one data structure to another and finally talk about how to record metadata about your data.\n"
-msgstr ""
+msgstr "Nous allons commencer par chercher des moyens de décrire vos données, puis nous allons montrer comment mapper vos données d'une structure de données à une autre et enfin parler de la façon d'enregistrer les métadonnées à propos de vos données.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:46
 #, no-wrap
 msgid "First is mapping data.\n"
-msgstr ""
+msgstr "Le premier est le mappage des données.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:48
 #, no-wrap
 msgid "This is the process that you will use to describe how the attributes in your dataset can be transformed into attributes in a different one.\n"
-msgstr ""
+msgstr "C'est le processus que vous allez utiliser pour décrire comment les attributs de votre jeu de données peuvent être transformés en attributs dans un autre.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:50
 #, no-wrap
 msgid "Mapping data is the “Process of Identifying the start field(s) within dataset A, and its (their) corresponding field(s) in dataset B.”\n"
-msgstr ""
+msgstr "Le mappage des données est le « Processus d'identification du ou des champ(s) de départ dans le jeu de données A et son (leurs) champ(s) correspondants dans le jeu de données B. »\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:52
 #, no-wrap
 msgid "In this example Dataset A has 10 columns.\n"
-msgstr ""
+msgstr "Dans cet exemple, le jeu de données A a 10 colonnes.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:54
@@ -7129,19 +7141,24 @@ msgid "some integer fields represented by the purple squares, \n"
 "and some complex fields\n"
 " \n"
 "// Slide 5\n"
-msgstr ""
+msgstr "certains champs entiers représentés par les carrés violets, \n"
+"quelques champs booléens représentés par les triangles rouges\n"
+"Quelques champs de date représentés par des pentagons bleus \n"
+"Quelques champs de texte, par 8 étoiles vertes pointues\n"
+"et quelques champs complexes\n\n"
+"// Diapositive 5\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:64
 #, no-wrap
 msgid "Dataset B has a different set of fields, 15 in total.\n"
-msgstr ""
+msgstr "Le jeu de données B a un ensemble de champs différent, 15 au total.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:66
 #, no-wrap
 msgid "What we need to do is identify which fields in Dataset A match which fields in Dataset B\n"
-msgstr ""
+msgstr "Ce que nous devons faire, c'est identifier quels champs dans le jeu de données A correspondent aux champs dans le jeu de données B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:73
@@ -7150,14 +7167,18 @@ msgid "We do that by describing the relationships.\n"
 "For example Dataset A has an ID field and so does Dataset B.\n"
 "We can draw a line directly between the two.\n"
 "This is called a one to one match.\n"
-msgstr ""
+msgstr "Nous le faisons en décrivant les relations.\n"
+"Par exemple, le jeu de données A a un champ ID et le jeu de données B aussi.\n"
+"Nous pouvons tracer une ligne directement entre les deux.\n"
+"C'est ce qu'on appelle une correspondance un à un.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:76
 #, no-wrap
 msgid "Question: Can you see any other one to one matches? \n"
 "Answer: State, Exp?, Pink Elephant!\n"
-msgstr ""
+msgstr "Question : Pouvez-vous voir d'autres correspondances un à un? \n"
+"Réponse: État, Exp?, Éléphant rose !\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:80
@@ -7165,7 +7186,9 @@ msgstr ""
 msgid "Another type of relationship is is a one to many.\n"
 "In these cases there is a single field in dataset A that maps to 2 or more fields in Dataset B.\n"
 "Date is an example.\n"
-msgstr ""
+msgstr "Un autre type de relation est un à plusieurs.\n"
+"Dans ces cas, il y a un champ unique dans le jeu de données A qui correspond à 2 champs ou plus dans le jeu de données B.\n"
+"La date est un exemple.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:85
@@ -7174,32 +7197,35 @@ msgid "You many also find cases where a more than one field in Dataset A contain
 "Notes fields are often guilty of this.\n"
 " \n"
 "// Slide 7\n"
-msgstr ""
+msgstr "Vous trouverez aussi de nombreux cas où plus d'un champ dans le jeu de données A contient des données pour plus d'un champ dans le jeu de données B.\n"
+"C'est souvent le cas pour les champs de Notes.\n\n"
+"// Diapositive 7\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:88
 #, no-wrap
 msgid "In fact there are six relationships:\n"
 "Some fields will map one-to-one (1:1), meaning that the original column in dataset A exactly matches another one in dataset B\n"
-msgstr ""
+msgstr "En fait, il y a six relations :\n"
+"Certains champs vont cartographier un à un (1:1), ce qui signifie que la colonne originale dans le jeu de données A correspond exactement à une autre colonne dans le jeu de données B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:90
 #, no-wrap
 msgid "Some fields will map many-to-one (∞:1), meaning that some columns in dataset A can be merged (or concatenated) to match a single one in dataset B\n"
-msgstr ""
+msgstr "Certains champs vont mapper plusieurs à un (∞ : 1), ce qui signifie que certaines colonnes du jeu de données A peuvent être fusionnées (ou concaténées) pour correspondre à une seule colonne dans le jeu de données B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:92
 #, no-wrap
 msgid "Some fields will map one-to-many (1:∞), meaning that one column in dataset A will have to be split into two or more fields in order to match the fields in dataset B\n"
-msgstr ""
+msgstr "Certains champs vont mapper un à plusieurs (1:∞), ce qui signifie qu'une colonne dans le jeu de données A devra être divisée en deux ou plusieurs champs afin de correspondre aux champs dans le jeu de données B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:94
 #, no-wrap
 msgid "Some fields might not exist yet zero-to-one (0:1), meaning that some information are not present in dataset A and need to be added in a new column to match an existing field in dataset B\n"
-msgstr ""
+msgstr "Certains champs peuvent ne pas exister encore de zéro à un (0:1), ce qui signifie que certaines informations ne sont pas présentes dans le jeu de données A et doivent être ajoutées dans une nouvelle colonne pour correspondre à un champ existant dans le jeu de données B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:96
@@ -7588,7 +7614,8 @@ msgstr ""
 #, no-wrap
 msgid "Tasks carried out during the executing phase are those that accomplish the project’s stated deliverables.\n"
 "For example the transcription of label data.\n"
-msgstr ""
+msgstr "Les tâches effectuées durant la phase d'exécution sont celles qui accomplissent les livrables déclarés du projet.\n"
+"Par exemple la transcription des données d'étiquette.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:99
