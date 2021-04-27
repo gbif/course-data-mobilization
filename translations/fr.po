@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-26 14:14\n"
+"PO-Revision-Date: 2021-04-27 08:48\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6324,7 +6324,8 @@ msgstr "Les données d'événements d’échantillonnage sont une classe de jeux
 #, no-wrap
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
-msgstr ""
+msgstr "Le modèle du GBIF pour les données d'événement permet aux éditeurs de données de partager plus d'informations sur le contexte d'un événement de collecte/d'enregistrement de données sur la biodiversité tel que les pièges photographiques, pièges entomologiques, relevés botaniques, sites d'observation d'oiseaux et ainsi de suite.\n"
+"Sa structure est un peu plus complexe que les jeux de données taxonomiques et les jeux de données Occurrence car il implique deux fichiers (par ex. deux onglets dans une feuille de calcul) : un pour décrire les « événements » (p. ex. chaque piège) et l'autre pour décrire les spécimens ou les occurrences liés à chaque événement.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -6338,7 +6339,7 @@ msgstr "// Diapositive 15\n"
 #: scripts/data-types.en.txt:81
 #, no-wrap
 msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
-msgstr ""
+msgstr "Parfois, des informations ou des données supplémentaires peuvent être trouvées en utilisant d'autres sources que celles mentionnées précédemment dans cette vidéo.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:86
@@ -6360,7 +6361,9 @@ msgstr "Dans les diapositives suivantes, nous verrons comment le standard Darwin
 msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
 "Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
 "In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
-msgstr ""
+msgstr "Comme vous l'avez appris dans les Fondations - Présentation sur Darwin Core, Darwin Core est un standard de partage de données développée par l'organisation des standards d'information sur la biodiversité (TDWG), et est largement utilisé pour publier des données au sein de la communauté étendue du GBIF.\n"
+"Selon le type de jeu de données avec lequel vous travaillez, vous devrez choisir l'un de ses trois noyaux (Occurrence, Taxon ou Noyau d'événement), qui peuvent être reliés à une ou plusieurs extensions pour partager plus d'informations (comme les liens multimédias, les variables, l'historique d'identification...).\n"
+"Dans certains cas, un noyau peut être utilisé comme une extension liée à un autre noyau : c'est le cas lors de la publication des données d'événement, où on peut utiliser le Noyau Évènement pour décrire les zones échantillonnées, puis utiliser le Noyau Occurrence comme une extension pour partager les spécimens ou les individus enregistrés.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:98 scripts/definitions.en.txt:189
@@ -6412,7 +6415,7 @@ msgstr "Si votre jeu de données contient une liste de noms scientifiques qui ne
 #: scripts/data-types.en.txt:113
 #, no-wrap
 msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
-msgstr ""
+msgstr "Si votre jeu de données comprend des noms scientifiques liés à des spécimens observés et/ou collectés, ainsi que les dates et les lieux, vous pouvez les partager sous la forme d'un jeu de données d'occurrence.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:115
@@ -6551,7 +6554,7 @@ msgstr "Nous allons nous concentrer un instant sur quelques expressions communes
 #: scripts/definitions.en.txt:32
 #, no-wrap
 msgid "All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  \n"
-msgstr ""
+msgstr "Toutes les phrases ici incluent le mot donnée, mais sont-elles toutes les mêmes, et si ce n'est pas le cas, alors quelle est la différence?  \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:36
@@ -6569,7 +6572,7 @@ msgstr "Il y a de nombreuses définitions, mais ce qu'ils ont tous en commun est
 #: scripts/definitions.en.txt:40
 #, no-wrap
 msgid "Everything else in the list is just a way to help you achieve this data nirvana! \n"
-msgstr ""
+msgstr "Tout le reste de la liste est juste un moyen de vous aider à réaliser ce nirvana de données! \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:42
@@ -6593,7 +6596,7 @@ msgstr "Selon le dictionnaire anglais d'Oxford, « langage » est la méthode de
 #: scripts/definitions.en.txt:50
 #, no-wrap
 msgid "For our purposes, database languages and their close allies the array languages are the way by which a human communicates with a computer to manipulate and move around data. \n"
-msgstr ""
+msgstr "Pour nos besoins, les langages de la base de données et leurs alliés proches, les langage des tableaux sont la façon par laquelle un humain communique avec un ordinateur pour manipuler et déplacer les données. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:52
