@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-27 15:17+0000\n"
-"PO-Revision-Date: 2021-04-27 15:58\n"
+"PO-Revision-Date: 2021-04-27 18:48\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -9069,7 +9069,11 @@ msgid "In the realm of data capture software, there is often no need to go \"big
 "There may even not be a need to create your own system at all. \n"
 "Apps such as iNaturalist, or eBird are stable, robust and have simple intuitive interfaces. \n"
 "Whichever the choice, it is important to think about the long term preservation of the data that you collect.\n"
-msgstr ""
+msgstr "Dans le domaine des logiciels de capture de données, il n'est souvent pas nécessaire d'aller \"grand\" au début de la saisie des informations initialement, en particulier sur le terrain. \n"
+"Vous pouvez saisir des informations à partir de spécimens de collection ou d'observations directes dans une feuille de calcul simple comme Excel, OpenOffice, LibreOffice ou Feuilles Google. \n"
+"Il peut même ne pas être du tout nécessaire de créer votre propre système. \n"
+"Les applications comme iNaturalist, ou eBird sont stables, robustes et ont des interfaces intuitives simples. \n"
+"Quel que soit le choix, il est important de penser à la préservation à long terme des données que vous collectez.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:32
