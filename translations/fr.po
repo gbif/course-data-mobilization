@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-27 14:04\n"
+"PO-Revision-Date: 2021-04-27 15:02\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6324,8 +6324,8 @@ msgstr "Les données d'événements d’échantillonnage sont une classe de jeux
 #, no-wrap
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
-msgstr "Le modèle du GBIF pour les données d'événement permet aux éditeurs de données de partager plus d'informations sur le contexte d'un événement de collecte/d'enregistrement de données sur la biodiversité tel que les pièges photographiques, pièges entomologiques, relevés botaniques, sites d'observation d'oiseaux et ainsi de suite.\n"
-"Sa structure est un peu plus complexe que les jeux de données taxonomiques et les jeux de données Occurrence car il implique deux fichiers (par ex. deux onglets dans une feuille de calcul) : un pour décrire les « événements » (p. ex. chaque piège) et l'autre pour décrire les spécimens ou les occurrences liés à chaque événement.\n"
+msgstr "Le modèle GBIF pour les données d'événement permet aux éditeurs de données de partager plus d'informations sur le contexte d'un événement de collecte et d'enregistrement de données sur la biodiversité tel que les pièges photographiques, pièges d'insectes, relevés botaniques, sites de comptage d'oiseaux et ainsi de suite.\n"
+"Sa structure est un peu plus complexe que les jeux de données taxonomiques et les jeux de données d'occurrence car elle implique deux fichiers (par ex. deux onglets dans une feuille de calcul : un pour décrire les « événements » (p. ex. chaque piège) et l'autre pour décrire les spécimens ou les occurrences liés à chaque événement.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -7291,14 +7291,17 @@ msgstr "zéro-à-un (0:1) - Découvrez comment (ou si) vous pouvez même les rem
 msgid "one-to-zero (1:0) - Either throw away the data or add a field.\n"
 "You might not even have a home in the other dataset.\n"
 "Do/Can you create a new field?\n"
-msgstr ""
+msgstr "one-to-zero (1:0) - Soit jeter les données soit ajouter un champ.\n"
+"I se peut que vous n'ayez même pas une référence de base dans l'autre jeu de données.\n"
+"Devez-vous/Pouvez-vous créer un nouveau champ ?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:122
 #, no-wrap
 msgid "many-to-many (∞ : ∞) -  “for the love of a higher being!” \n"
 "This usually means that your incoming data is very messy and will take time to clean before you can map it.\n"
-msgstr ""
+msgstr "plusieurs à plusieurs (<unk> : <unk> ) - «pour l'amour d'un être supérieur! \n"
+"Cela signifie généralement que vos données entrantes sont très désordonnées et que cela prendra du temps de les nettoyer avant de pouvoir les associer.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:124
@@ -7311,14 +7314,16 @@ msgstr "// Diapositive 9\n"
 #, no-wrap
 msgid "This is an example of what a mapping document looks like.\n"
 "Notice that not only do we document the relationships we also articulate (to the best of our knowledge) what should be done to the data.\n"
-msgstr ""
+msgstr "Voici un exemple de ce à quoi ressemble un document de correspondances de champs.\n"
+"Notez que non seulement nous documentons les relations que nous avons, mais aussi articulons (dans les limites notre connaissance) ce qui doit être fait avec les données.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:133
 #, no-wrap
 msgid "We’ve talked a lot about documenting the structures that hold your data but you must also document the information that gives context.\n"
 "This is called metadata and is data about your data!\n"
-msgstr ""
+msgstr "Nous avons beaucoup parlé de documenter les structures qui détiennent vos données, mais vous devez aussi documenter les informations qui donnent un contexte.\n"
+"Il s'agit de métadonnées et de données à propos de vos données !\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:135
@@ -7336,7 +7341,7 @@ msgstr "Nous discuterons de cela plus en détail dans les sessions ultérieures,
 #: scripts/documentation.en.txt:141
 #, no-wrap
 msgid "A title – Which should be descriptive, memorable and if possible unique.\n"
-msgstr ""
+msgstr "Un titre – Ce qui doit être descriptif, mémorable et si possible unique.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:143
@@ -7363,7 +7368,8 @@ msgstr "Informations sur la source – Si vous n'avez pas recueilli ou mesuré l
 #, no-wrap
 msgid "Lineage – Does the dataset have a history? \n"
 "Have any of the fields been transformed in any way from the original?\n"
-msgstr ""
+msgstr "Historique - L'ensemble de données a-t-il un historique ? \n"
+"L'un des champs a-t-il été transformé d'une manière ou d'une autre par rapport à l'original ?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:153
@@ -7805,7 +7811,8 @@ msgstr "Dans cet exemple, dans le coin inférieur droit du groupement de tâches
 #, no-wrap
 msgid "If there is a problem with the image it is discarded and the specimen goes back to be photographed again.\n"
 "Only when the quality check has been passed can the workflow continue.\n"
-msgstr ""
+msgstr "S'il y a un problème avec l'image, elle est rejetée et le spécimen retourne pour être photographié à nouveau.\n"
+"On ne peut continuer le flux de travail que lorsque la vérification de qualité a été passée.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:180
@@ -7826,7 +7833,7 @@ msgstr ""
 #: scripts/organizing.en.txt:187
 #, no-wrap
 msgid "The NAME CHECKING task cluster can continue to prep specimens but there is a check that means: Specimens cannot pass to the PHOTOGRAPHY task cluster until there is space again.\n"
-msgstr ""
+msgstr "Le groupement de tâches VÉRIFICATION DES NOMS peut continuer à préparer des spécimens mais il y a une vérification, ce qui signifie que: les spécimens ne peuvent pas passer au groupe de tâches PHOTOGRAPHIE tant qu'il n'y a pas d'espace.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:189
@@ -7838,7 +7845,7 @@ msgstr "Entre-temps, les autres amas peuvent également continuer tant qu'ils on
 #: scripts/organizing.en.txt:193
 #, no-wrap
 msgid "In this next short section, ELEMENTS OF A GOOD PLAN we will look at how good documentation aids good planning. we will:\n"
-msgstr ""
+msgstr "Dans cette prochaine section, ÉLÉMENTS D'UN BON PLAN, nous allons examiner comment une bonne documentation aide à la bonne planification. Nous allons:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:195
@@ -8711,7 +8718,12 @@ msgid "Each stakeholder group is made up of one or more Roles.\n"
 "It is important to understand how these roles are distributed across the different stakeholder groups.\n"
 "Be aware that a named role at your institution may not be in the same stakeholder group somewhere else.\n"
 "In some case even though the name of the role may be the same they may have different responsibilities.\n"
-msgstr ""
+msgstr "Chaque groupe d'intervenants est composé d'un ou de plusieurs rôles.\n"
+"Les rôles dans ce contexte représentent des emplois ou des postes avec un titre qu'une personne peut avoir.\n"
+"Chacun de ces rôles est assumé par une personne réelle qui aura au moins un rôle.\n"
+"Il est important de comprendre comment ces rôles sont répartis entre les différents groupes d'intervenants.\n"
+"Sachez qu'un rôle nommé dans votre institution peut ne pas faire partie du même groupe d'intervenants ailleurs.\n"
+"Dans certains cas, même si le nom du rôle peut être le même, ils peuvent avoir des responsabilités différentes.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:86
