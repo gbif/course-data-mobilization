@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-21 16:45+0000\n"
-"PO-Revision-Date: 2021-04-27 12:57\n"
+"PO-Revision-Date: 2021-04-27 14:04\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -7281,7 +7281,9 @@ msgstr "un-à-plusieurs (1:∞) - Ces champs devront être séparés et placés 
 msgid "zero-to-one (0:1) - Work out how (or if) you can even fill these in.\n"
 "Is the data mixed into a notes field? \n"
 "If so how do you get it out?\n"
-msgstr ""
+msgstr "zéro-à-un (0:1) - Découvrez comment (ou si) vous pouvez même les remplir.\n"
+"Les données sont-elles mélangées dans un champ de notes ? \n"
+"Si oui, comment allez-vous les obtenir ?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:119
@@ -8792,7 +8794,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:121
 #, no-wrap
 msgid "The third and final element of the definition is the outcome or outcomes.\n"
-msgstr ""
+msgstr "Le troisième et dernier élément de la définition est le résultat ou les résultats.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:127
@@ -8802,19 +8804,23 @@ msgid "GOALS are the “WHAT are you going to do” of the project, and will hav
 "Clearly re-articulating the stated deliverables of a project and when they are due is the critical first step in creating a successful implementation plan.\n"
 "Time should also be spent documenting any implied goals.\n"
 "Whilst these are often more difficult to metricize, they often speak directly to the sustainability of the project and its impact outside of its target audience.\n"
-msgstr ""
+msgstr "Les OBJECTIFS sont le \"vous allez faire QUOI\" du projet et ils auront été établis dans la proposition initiale du projet.\n"
+"En fait, c'est en fait l'endroit où commencer.\n"
+"Réarticuler clairement les produits à livrer d'un projet et quand ils sont attendus est la première étape critique dans la création d'un plan de mise en œuvre réussi.\n"
+"Du temps doit également être passé à documenter tous les objectifs implicites.\n"
+"Bien que ceux-ci soient souvent plus difficiles à mesurer, ils parlent souvent directement de la durabilité du projet et de son impact en dehors de son public cible.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:131
 #, no-wrap
 msgid "Examples of explicit stated data mobilization goals are: \n"
-msgstr ""
+msgstr "Exemples d'énoncés d'objectifs explicites de mobilisation des données: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:133
 #, no-wrap
 msgid "Publishing Data to GBIF and doing it regularly; \n"
-msgstr ""
+msgstr "Publier des données sur GBIF et le faire régulièrement; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:135
@@ -8844,13 +8850,13 @@ msgstr ""
 #: scripts/resourcing.en.txt:143
 #, no-wrap
 msgid "More implied but equally important goals include: \n"
-msgstr ""
+msgstr "Parmi les objectifs plus implicites mais tout aussi importants figurent : \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:145
 #, no-wrap
 msgid "Increased public awareness of local issues.\n"
-msgstr ""
+msgstr "Sensibilisation accrue du public aux problèmes locaux.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:147
@@ -8899,20 +8905,22 @@ msgstr ""
 #, no-wrap
 msgid "One way to do this is take your list of existing stakeholders, associate roles to them and then assign to each role the tasks that you have decided they will need to carry out.\n"
 "If any stakeholder or role seems to have too many tasks then this is likely to become a bottleneck in your project.\n"
-msgstr ""
+msgstr "Une façon de le faire est de prendre votre liste des parties prenantes existantes, leur associer des rôles et attribuez ensuite à chaque rôle les tâches que vous avez décidé qu'ils devront accomplir.\n"
+"Si une partie prenante ou un rôle semble avoir trop de tâches, cela risque de devenir un goulot d'étranglement dans votre projet.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:169
 #, no-wrap
 msgid "A task with no assigned role indicates a a gap. \n"
 "Effective early assessment of resources should mitigate capacity and practical barriers whilst identifying competing goals and conflicting affiliation will help to avoid cultural and institutional barriers.\n"
-msgstr ""
+msgstr "Une tâche sans rôle assigné indique un trou.\n"
+"Une évaluation précoce efficace des ressources devrait atténuer et les obstacles pratiques et de capacité tout en identifiant les objectifs en concurrence et l'affiliation conflictuelle aidera à éviter les obstacles culturels et institutionnels.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:171
 #, no-wrap
 msgid "You will see more on this process in the online planning exercises.\n"
-msgstr ""
+msgstr "Vous en verrez plus sur ce processus dans les exercices en ligne de planification.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:175
@@ -8930,7 +8938,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:179
 #, no-wrap
 msgid "We then briefly discussed the need to identify the practical tasks that will need to be accomplished.\n"
-msgstr ""
+msgstr "Nous avons ensuite brièvement discuté de la nécessité d'identifier les tâches pratiques qui devront être accomplies.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:181
@@ -8966,7 +8974,10 @@ msgid "Lastly review available resources.\n"
 "Start with the people.\n"
 "Who do have to help you? \n"
 "Only then see what equipment is already available and what you need to buy?\n"
-msgstr ""
+msgstr "Examiner finalement les ressources disponibles.\n"
+"Commencez avec les personnes.\n"
+"De l'aide de qui avez-vous besoin? \n"
+"Seulement alors voyez quel équipement est déjà disponible et ce que vous avez besoin d'acheter?\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:203
@@ -8974,7 +8985,9 @@ msgstr ""
 msgid "Hopefully, the proposal project design, and the landscape in which is was scoped are still valid at implementation time.\n"
 "This should however, never be taken for granted.\n"
 "Things change.\n"
-msgstr ""
+msgstr "En espérant que la conception du projet de proposition et le contexte dans lequel elle a été inscrite soient toujours valables au moment de la mise en œuvre.\n"
+"Ceci ne doit jamais être pris pour acquis.\n"
+"Les choses changent.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:207
@@ -9026,7 +9039,9 @@ msgstr ""
 msgid "So very briefly, a definition. \n"
 "We are making a distinction here between all software and those applications which have been created for an end-user to carry out a task. \n"
 "We will take a look at software that can be used for: Data Capture, Data Management, Data Cleaning and Data Publishing.\n"
-msgstr ""
+msgstr "Donc, une définition très brève.\n"
+"Nous faisons ici une distinction entre tous les logiciels et les applications qui ont été créées pour un utilisateur final pour accomplir une tâche. \n"
+"Nous allons jeter un coup d'œil au logiciel qui peut être utilisé pour : la capture de données, la gestion des données, le nettoyage des données et la publication des données.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:24
@@ -9145,7 +9160,7 @@ msgstr ""
 #: scripts/standards.en.txt:24
 #, no-wrap
 msgid "At its simplest, it is:\n"
-msgstr ""
+msgstr "À son niveau le plus simple, c'est:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:26
