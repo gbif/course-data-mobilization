@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-27 15:17+0000\n"
-"PO-Revision-Date: 2021-04-28 07:58\n"
+"PO-Revision-Date: 2021-04-28 08:58\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -8879,7 +8879,7 @@ msgstr "Publier des données sur GBIF et le faire régulièrement; \n"
 #: scripts/resourcing.en.txt:135
 #, no-wrap
 msgid "Inclusion of additional supporting metadata over and above the basic fields if available; \n"
-msgstr ""
+msgstr "Inclusion de métadonnées supplémentaires en plus des champs de base, si disponibles; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:137
@@ -9199,20 +9199,24 @@ msgid "If you have questions on this presentation, please use the provided forum
 "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
 "This presentation was originally created by Sophie Pamerlon and is narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Si vous avez des questions sur cette présentation, veuillez utiliser le forum intégré à la plateforme de e-Learning.\n"
+"Cette vidéo fait partie d'une série de présentations utilisées dans le cours mobilisation des données de la biodiversité de GBIF.\n"
+"Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du Programme de Développement de l'Information sur la Biodiversité financé par l'Union Européenne.\n"
+"Cette présentation a été initialement créée par Sophie Pamerlon et présentée par Sharon Grant avec des contributions supplémentaires des formateurs, mentors et participants aux formations BID et BIFA.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:5
 #, no-wrap
 msgid "In this presentation, we will introduce you to data standards as they relate to biodiversity data. \n"
 "In particular, we will focus on the Darwin Core standard.\n"
-msgstr ""
+msgstr "Dans cette présentation, nous vous présenterons les standards en matière de données relatives à la biodiversité. \n"
+"En particulier, nous allons nous concentrer sur le standard Darwin Core.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:9
 #, no-wrap
 msgid "The engineer and industrialist W. Edwards Deming said:\n"
-msgstr ""
+msgstr "L'ingénieur et industriel W. Edwards Deming a dit:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:12
@@ -9226,7 +9230,8 @@ msgstr ""
 #, no-wrap
 msgid "What he was trying to say is that using standardization does not prevent us from being creative. \n"
 "He was also showing us that we already live with standards all around us.\n"
-msgstr ""
+msgstr "Ce qu'il a essayé de dire, c'est que le recours à la standardisation ne nous empêche pas d'être créatifs. \n"
+"Il nous montrait aussi que nous vivons déjà avec des normes tout autour de nous.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:18
@@ -9322,7 +9327,7 @@ msgstr "Le Code Morse\n"
 #: scripts/standards.en.txt:51
 #, no-wrap
 msgid "Barcoding\n"
-msgstr ""
+msgstr "Le système de codes-barres\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:56
@@ -9522,21 +9527,22 @@ msgstr ""
 #: scripts/standards.en.txt:142
 #, no-wrap
 msgid "So in short, Darwin Core is a “List of fields and their definitions, as they relate to biodiversity data.”\n"
-msgstr ""
+msgstr "En bref, le Darwin Core est une \"liste de champs et de leurs définitions, tous étant relatifs aux données sur la biodiversité\".\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:145
 #, no-wrap
 msgid " \n"
 "// Slide 10\n"
-msgstr ""
+msgstr "// Diapositive 10\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:148
 #, no-wrap
 msgid "As we dive deeper into Darwin Core or as it is abbreviated, DwC, you’ll learn it is more than JUST a list of fields. \n"
 "We will use Simple Darwin Core which is a predefined subset of the terms that have common use across a wide variety of biodiversity applications.\n"
-msgstr ""
+msgstr "Au fur et à mesure que nous nous plongerons dans le Darwin Core ou, en abrégé, le DwC, vous apprendrez qu'il s'agit plus que d'une simple liste de champs. \n"
+"Nous utiliserons le Simple Darwin Core qui est un sous-ensemble prédéfini de termes utilisés couramment dans une grande variété d'applications de biodiversité.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:150
@@ -9608,19 +9614,19 @@ msgstr ""
 #: scripts/standards.en.txt:172
 #, no-wrap
 msgid "ResourceRelationship\n"
-msgstr ""
+msgstr "ResourceRelationship\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:174
 #, no-wrap
 msgid "MeasurementOrFact\n"
-msgstr ""
+msgstr "MesurementOrFact\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:176
 #, no-wrap
 msgid "From the Simple Darwin Core User Guide, “Simple Darwin Core is simple in that it assumes (and allows) no structure beyond the concept of rows and columns, which might be thought of as attributes and their values, or fields and records.”\n"
-msgstr ""
+msgstr "D'après le guide de l'utilisateur du Simple Darwin Core, \"Le Simple Darwin Core est simple dans le sens qu'il ne repose (et n'autorise) sur aucune structure au-delà du concept de lignes et de colonnes, qui peuvent être considérées comme des attributs et leurs valeurs, ou des champs et des enregistrements\".\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:182
@@ -9628,14 +9634,16 @@ msgstr ""
 msgid "The DwC Quick Reference Guide will soon become your go to resource. \n"
 "This page provides a list of all currently recommended terms of the Darwin Core standard. \n"
 "Categories such as Occurrence or Event correspond to Darwin Core classes which group other terms.\n"
-msgstr ""
+msgstr "Le guide de référence rapide du DwC deviendra bientôt votre point de repère. \n"
+"Cette page fournit une liste de tous les termes actuellement recommandés dans le standard Darwin Core. \n"
+"Les catégories telles que Occurrence ou Événement correspondent aux classes Darwin Core qui regroupent d'autres termes.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:185
 #, no-wrap
 msgid " \n"
 "// Slide 12\n"
-msgstr ""
+msgstr "// Diapositive 12\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:189
@@ -9643,7 +9651,9 @@ msgstr ""
 msgid "We now will look at some examples of Darwin Core terms. \n"
 "The quick reference guide, consistently displays each term with the identifier name, definition, comments and examples. \n"
 "The first terms we’ll review are Country and CountryCode within the Location category.\n"
-msgstr ""
+msgstr "Nous allons maintenant examiner quelques exemples de termes Darwin Core. \n"
+"Le guide de référence rapide affiche systématiquement chaque terme avec le nom de l'identifiant, la définition, les commentaires et les exemples. \n"
+"Les premiers termes que nous examinerons sont Country et CountryCode, dans la catégorie Location.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:195
@@ -9653,27 +9663,33 @@ msgid "Generally, data holders have a field for country within their source data
 "However, it is one of the most easily standardized pieces of data. \n"
 "As noted in the comments, the recommended best practice is to use a controlled vocabulary such as the Getty Thesaurus of Geographic Names. \n"
 "A controlled vocabulary places restriction on the values that should be used for that term.\n"
-msgstr ""
+msgstr "En général, les détenteurs de données disposent d'un champ pour le pays dans leurs données sources. \n"
+"Mais souvent, ces données peuvent être assez désordonnées avec des fautes d'orthographe, des abréviations et des noms historiques. \n"
+"Cependant, il s'agit de l'un des éléments de données les plus faciles à standardiser. \n"
+"Comme indiqué dans les commentaires, la meilleure pratique recommandée est d'utiliser un vocabulaire contrôlé tel que le Getty Thesaurus of Geographic Names. \n"
+"Un vocabulaire contrôlé impose des restrictions sur les valeurs qui doivent être utilisées pour ce terme.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:198
 #, no-wrap
 msgid "CountryCode is a term that is generally not present in holder data. \n"
 "But again, it is another field that can easily be supplied with data due to the recommendation in the comments to use an ISO 3166-1-alpha-2 country code.\n"
-msgstr ""
+msgstr "CountryCode est un terme qui n'est généralement pas présent dans les données du détenteur. \n"
+"Mais là encore, il s'agit d'un autre champ qui peut facilement être renseigné grâce à la recommandation formulée dans les commentaires d'utiliser un code pays ISO 3166-1-alpha-2.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:201
 #, no-wrap
 msgid "GBIF strongly recommends the sharing of CountryCode within occurrence datasets. \n"
 "Sharing of Country is also encouraged.\n"
-msgstr ""
+msgstr "Le GBIF recommande fortement le partage du CountryCode dans les jeux de données d'occurrences. \n"
+"Le partage de Country est également encouragé.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:203
 #, no-wrap
 msgid "You will learn more about the GBIF requirements and recommendations in later sessions.\n"
-msgstr ""
+msgstr "Vous en apprendrez plus sur les exigences et recommandations du GBIF dans les prochaines sessions.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:211
@@ -9683,7 +9699,11 @@ msgid "The next term is basisOfRecord. \n"
 "BasisOfRecord follows a controlled vocabulary. \n"
 "You can choose from PreservedSpecimen, FossilSpecimen, LivingSpecimen, MaterialSample, Event, HumanObservation, MachineObservation, Taxon, or Occurrence. \n"
 "GBIF requires basisOfRecord with published occurrence datasets.\n"
-msgstr ""
+msgstr "Le prochain terme est basisOfRecord. \n"
+"basisOfRecord définit la nature de chaque enregistrement dans un jeu de données. \n"
+"BasisOfRecord suit un vocabulaire contrôlé. \n"
+"Vous pouvez choisir parmi PreservedSpecimen, FossilSpecimen, LivingSpecimen, MaterialSample, Event, HumanObservation, MachineObservation, Taxon ou Occurrence. \n"
+"Le GBIF exige un basisOfRecord pour les ensembles de données d'occurrences publiés.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:225
@@ -9699,7 +9719,17 @@ msgid "The last term we will review is occurrenceID. \n"
 "If you use this method, these GUIDs should become a permanent field within your source data identifying each record. \n"
 "For the work done in this course, you will create a triplet. \n"
 "The format will follow the third example here highlighted in red.\n"
-msgstr ""
+msgstr "Le dernier terme que nous allons examiner est occurrenceID. \n"
+"Lors de la publication d'occurrences, le GBIF exige un occurrenceID. \n"
+"Un occurrenceID est un identifiant pour l'occurrence elle-même, et non pour l'enregistrement numérique de l'occurrence. \n"
+"La meilleure pratique recommandée est d'utiliser un identifiant globalement unique, connu sous le nom de GUID. \n"
+"En l'absence d'un GUID, un identifiant unique peut être composé d'autres identifiants dans l'ensemble de données. \n"
+"Par exemple, institutionCode, collectionCode et catalogNumber. \n"
+"Nous appelons cela un triplet. \n"
+"Il existe des outils sur Internet qui peuvent vous aider à générer des GUIDs pour vos enregistrements. \n"
+"Si vous utilisez cette méthode, ces GUIDs devraient devenir un champ permanent dans vos données sources, identifiant chaque enregistrement. \n"
+"Pour le travail effectué dans ce cours, vous allez créer un triplet. \n"
+"Le format suivra le troisième exemple ici surligné en rouge.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:228
@@ -9735,7 +9765,8 @@ msgstr ""
 #, no-wrap
 msgid "There are many more extensions. \n"
 "GBIF maintains a list of all approved and draft extensions on its tools subsite.\n"
-msgstr ""
+msgstr "Il y a beaucoup plus d'extensions. \n"
+"Le GBIF maintient une liste de toutes les extensions approuvées et en construction dans son onglet outils.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:248
@@ -9762,25 +9793,25 @@ msgstr ""
 #: scripts/standards.en.txt:259
 #, no-wrap
 msgid "In this example, these three files are: \n"
-msgstr ""
+msgstr "Dans cet exemple, ces trois fichiers sont: \n"
 
 #. type: Bullet: '1.	'
 #: scripts/standards.en.txt:261
 #, markdown-text, no-wrap
 msgid "A data file (occurrence.txt) conforming to the SIMPLEDWC in a CSV format where the first row includes Darwin Core standard term names.\n"
-msgstr ""
+msgstr "Un fichier de données (occurrence.txt) conforme au SIMPLE DWC dans un format CSV où la première ligne inclut des noms de termes du standard Darwin Core.\n"
 
 #. type: Bullet: '2.	'
 #: scripts/standards.en.txt:263
 #, markdown-text, no-wrap
 msgid "A meta file (meta.xml) in XML format containing technical details to instruct a computer in how to use the data file.\n"
-msgstr ""
+msgstr "Un fichier méta (meta.xml) au format XML contenant des détails techniques pour indiquer à un ordinateur comment utiliser le fichier de données.\n"
 
 #. type: Bullet: '3.	'
 #: scripts/standards.en.txt:265
 #, markdown-text, no-wrap
 msgid "A meta file (eml.xml) in an XML format containing explanatory details about the records contained within the data file to instruct a user if the data will be fit for their use.\n"
-msgstr ""
+msgstr "Un fichier méta (eml.xml) dans un format XML contenant des détails explicatifs sur les enregistrements contenus dans le fichier de données pour indiquer à l'utilisateur si les données sont adaptées à l'utilisation qu'il veut en faire.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:269
@@ -9788,14 +9819,16 @@ msgstr ""
 msgid "A more complex structure can be obtained by sharing multiple related csv files to extend the data. \n"
 "They are related to the core file by way of a unique id. \n"
 "In an occurrence dataset, these related csv files are related by the occurrenceID.\n"
-msgstr ""
+msgstr "Une structure plus complexe peut être obtenue en partageant plusieurs fichiers csv connectés pour étendre les données. \n"
+"Ils sont liés au fichier central par un identifiant unique. \n"
+"Dans un jeu de données d'occurrences, ces fichiers csv connexes sont liés par l'occurrenceID.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:272
 #, no-wrap
 msgid " \n"
 "// Slide 18\n"
-msgstr ""
+msgstr "// Diapositive 18\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:274
@@ -9966,7 +9999,10 @@ msgid "Structured Text fields are less common but mentioned here for completenes
 "They are fields which can be either made up of combinations of the simple data types or even be defined by the data itself. \n"
 "Most often these are used in programming languages to allow flexibility and handling of complex concepts. \n"
 "An example is the factor field used in the R programming language, which is defined as a type vector containing a set of numeric codes with character-valued levels.\n"
-msgstr ""
+msgstr "Les champs de texte structuré sont moins courants, mais mentionnés ici pour être complets. \n"
+"Ce sont des champs qui peuvent être soit composés de combinaisons des types de données simples, soit définis par les données elles-mêmes. \n"
+"Le plus souvent ils sont utilisés dans les langages de programmation pour permettre la flexibilité et la gestion de concepts complexes. \n"
+"Un exemple est le champ de facteur utilisé dans le langage de programmation R, qui est défini comme un vecteur de type contenant un ensemble de codes numériques avec des niveaux de valeur de caractère.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:82
@@ -9979,7 +10015,8 @@ msgstr ""
 #, no-wrap
 msgid "First is the cell. \n"
 "This is the smallest data structure, it holds a single value and has a single data type associated with it.\n"
-msgstr ""
+msgstr "La première est la cellule. \n"
+"Ceci est la plus petite structure de données, elle contient une valeur unique et un seul type de données lui est associé.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:93
@@ -10000,7 +10037,7 @@ msgstr ""
 #: scripts/structures.en.txt:102
 #, no-wrap
 msgid "And columns.\n"
-msgstr ""
+msgstr "Et les colonnes.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:109
