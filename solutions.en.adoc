@@ -247,7 +247,49 @@ All kinds of tools can be used to clean your data, but you should identify which
 
 === Data publishing review solutions
 
+*What does data publishing mean in the context of GBIF?*
 
+* Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format
+
+Data publishing within GBIF means making your biodiversity dataset(s) publicly accessible in a standardized format (most of the time, Darwin Core), so that it can be discovered and reused by other people.
+
+*What is an IPT?*
+
+* a tool that helps you publish your data to GBIF
+* a tool that helps you produce a Data paper
+
+The IPT (Integrated Publishing Toolkit) is a Java-coded software that allows you to upload and publish data to GBIF. 
+It is not to be used as a data management or data cleaning tool.
+
+The IPT can also help you with the process of writing and submitting a data paper, thanks to the EML file it generates automatically when you fill in the metadata for your data resource.
+
+*Which Creative Commons licences and waivers are recommended by GBIF for data publication?*
+
+* CC0, CC-BY and CC-BY-NC
+
+The Creative Commons licences and waivers recommended to publish your dataset(s) to GBIF are CC0, CC-BY and CC-BY-NC. 
+They are widely recognized licenses and/or waivers that align with international open-data requirements for data sharing and re-use.
+
+Please note that you should only choose CC0 or CC-BY waiver/license for your BID-related dataset(s).
+
+*What are the three Cores from which you can choose for an IPT resource?*
+
+* Occurrence Core, Taxon Core, Event Core
+
+You can choose one of the three following Cores for each of your IPT resources: Occurrence, Taxon or Event Core. 
+
+The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact. 
+
+The metadata are filled in a separate section of the IPT and are shared using the EML standard, not the Darwin Core (which is used for data only).
+
+*How many Extensions files can a dataset have?*
+
+* as many as needed
+
+Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it. 
+You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it.
+
+Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core.
 
 === Use Case I suggested solution
 
