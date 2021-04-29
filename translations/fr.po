@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-04-29 15:51\n"
+"PO-Revision-Date: 2021-04-29 16:47\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -256,7 +256,7 @@ msgstr "Données des exercices"
 #. type: Plain text
 #: downloads.en.adoc:14
 msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
-msgstr ""
+msgstr "Ce lien:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contient les données des exercices pour les cas pratiques."
 
 #. type: Title ===
 #: downloads.en.adoc:15
@@ -267,7 +267,7 @@ msgstr "Feuilles d'exercice"
 #. type: Plain text
 #: downloads.en.adoc:17
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr ""
+msgstr "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -2619,7 +2619,7 @@ msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=\"center\
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr ""
+msgstr "Les participants doivent soumettre (en anglais) le Cas Pratique II et le Cas Pratique III (choix entre deux options). Chaque cas Pratique est évalué en fonction des rubriques pédagogiques du cours. Ces rubriques définissent les compétences et les niveaux de performance sur lesquels reposent les objectifs d'apprentissage du cours."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
@@ -2773,7 +2773,45 @@ msgid "|Skills\n"
 "|Describes changes made most of the time. Doesn’t describe changes consistently or fully (e.g. describes the change, but not the author).\n"
 "|Always remembers to describe changes made. Always describes changes consistently, so that all edits of the same type can be easily identified.\n"
 "|Can accurately and consistently describe changes made in a repeatable way.\n"
-msgstr ""
+msgstr "|Compétences\n"
+"|Performance de départ\n"
+"1\n"
+"|Développement de la performance\n"
+"2\n"
+"|Performance atteinte\n"
+"3\n"
+"|Performance exceptionnelle\n"
+"4\n\n"
+"|A. Capacité à évaluer la qualité (c'est-à-dire à identifier les problèmes et leurs types) d'un ensemble de données sur la biodiversité.\n"
+"|L'analyse de la qualité ne s'appuie que sur des contrôles visuels. Ne peut pas différencier les types d'erreurs. Peut détecter les valeurs manquantes dans les champs obligatoires et des incohérences graves des données.\n"
+"|Peut détecter les valeurs manquantes dans les champs obligatoires et les incohérences graves dans les données. Peut détecter des incohérences entre les noms des champs et leur contenu. Peut identifier de manière cohérente les erreurs techniques, mais seulement les erreurs de cohérence les plus typiques d'un ensemble de données.\n"
+"|Peut utiliser des outils et des techniques spécifiques pour évaluer la qualité. Reconnaît le niveau minimal de désagrégation/normalisation nécessaire pour une utilisation et une publication classiques. Peut identifier de manière cohérente les erreurs techniques et la plupart des erreurs de cohérence dans un ensemble de données.\n"
+"|Utilise une approche systématique de l'analyse des ensembles de données couvrant tous leurs principaux aspects. Peut identifier de manière cohérente les erreurs techniques et les erreurs de cohérence dans un ensemble de données. Peut utiliser d'autres sources de données (par exemple des métadonnées ou d'autres ensembles de données) pour identifier ou déduire des erreurs de cohérence dans un ensemble de données.\n\n"
+"|B. Capacité à effectuer la correction du format des données.\n"
+"|Capable d'effectuer des corrections uniquement manuellement dans les tableaux. Montre des connaissances générales sur l'utilisation des types de format des données numériques (par exemple, dates, chaînes de caractères, nombres).\n"
+"|Peut identifier au moins un outil spécifique pour corriger automatiquement les erreurs de format, mais ne peut l'utiliser que dans des cas spécifiques. Sinon, utilise des mécanismes simples (par exemple, \" rechercher et remplacer \") pour résoudre les problèmes.\n"
+"|Peut utiliser au moins un outil pour corriger automatiquement les erreurs de format.\n"
+"|Peut utiliser les fonctions avancées de plus d'un outil pour corriger les erreurs de format.\n\n"
+"|C. Capacité à effectuer la correction des données de nomenclature.\n"
+"|Capable d'effectuer des corrections uniquement manuellement dans les tableaux. N'utilise que ses connaissances personnelles des groupes taxonomiques connus.\n"
+"|Peut identifier au moins un outil spécifique pour corriger automatiquement les erreurs de nomenclature, mais ne peut l'utiliser que dans des cas spécifiques. Sinon, il utilise des mécanismes simples (par exemple, \"find & replace\") pour résoudre les problèmes.\n"
+"|Peut utiliser au moins un outil pour corriger automatiquement les erreurs de nomenclature. Peut trouver et utiliser des informations  de références nomenclaturales appropriées pour les groupes taxonomiques avec lesquels il travaille habituellement.\n"
+"|Peut utiliser plus d'un outil pour corriger les erreurs de nomenclature. Il peut trouver et utiliser des informations de références nomenclaturales appropriées pour les groupes taxonomiques qui ne font pas partie de ses domaines d'expertise.\n\n"
+"|D. Capacité à effectuer des corrections de données géographiques.\n"
+"|Capable d'effectuer des corrections uniquement manuellement dans les tableaux. N'utilise que ses connaissances personnelles des zones géographiques connues.\n"
+"|Peut identifier au moins un outil spécifique pour cartographier et/ou corriger automatiquement les erreurs dans les informations géographiques, mais ne peut l'utiliser que dans des cas spécifiques. Sinon, il utilise des mécanismes simples (par exemple 'rechercher et remplacer3') pour résoudre les problèmes.\n"
+"|Peut utiliser au moins un outil pour cartographier et/ou corriger automatiquement les erreurs d'information géographique. Peut trouver et utiliser des informations géographiques de référence dans un format approprié pour les aires dans lesquels il travaille habituellement.\n"
+"|Peut utiliser plus d'un outil pour cartographier et/ou corriger automatiquement des erreurs d'information géographique. Peut trouver et utiliser des informations géographiques de référence dans un format approprié pour des aires qui ne relèvent pas de son champ d'expertise.\n\n"
+"|E. Capacité à utiliser des logiciels spécifiques (par exemple OpenRefine) comme outils de nettoyage de données.\n"
+"|Peut identifier au moins un outil de nettoyage de données. Peut identifier les principales fonctionnalités d'un outil de nettoyage de données (par ex. OpenRefine).\n"
+"|Peut identifier plusieurs outils de nettoyage des données. Peut utiliser une ou plusieurs des fonctions de base d'un logiciel de nettoyage de données pour nettoyer un ensemble de données (par exemple, créer un projet OpenRefine, utiliser les facettes, le filtrage, le regroupement ou la réconciliation).\n"
+"|Peut utiliser toutes les fonctions de base d'un logiciel de nettoyage de données pour nettoyer un ensemble de données (par exemple, dans OpenRefine : facettes, filtrage, regroupement, réconciliation).\n"
+"|Peut utiliser les fonctions avancées d'un ou plusieurs logiciels de nettoyage de données pour nettoyer des ensembles de données (par exemple, dans OpenRefine : utilisation de l'API, des expressions régulières, du langage d'expression de Google Refine).\n\n"
+"|F. Capacité à documenter les procédures de transformation des données.\n"
+"|Décrit rarement les changements effectués lors du nettoyage, du formatage ou de la transformation des données.\n"
+"|Décrit les changements effectués la plupart du temps. Ne décrit pas les changements de manière cohérente ou complète (par exemple, décrit le changement, mais pas l'auteur).\n"
+"|Décrit toujours les changements apportés. Décrit toujours les modifications de manière cohérente, de sorte que toutes les modifications du même type peuvent être facilement identifiées.\n"
+"|Peut décrire avec précision et de manière cohérente les modifications apportées, de façon répétable.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:151
@@ -5146,43 +5184,43 @@ msgstr "*Quels sont les trois \"Cores\" que vous pouvez choisir pour une ressour
 #. type: Plain text
 #: solutions.en.adoc:278
 msgid "Occurrence Core, Taxon Core, Event Core"
-msgstr ""
+msgstr "Occurrence Core, Taxon Core, Event Core"
 
 #. type: Plain text
 #: solutions.en.adoc:280
 msgid "You can choose one of the three following Cores for each of your IPT resources: Occurrence, Taxon or Event Core."
-msgstr ""
+msgstr "Vous pouvez choisir l'un des trois \"Cores\" suivants pour chacune de vos ressources IPT : Occurrence, Taxon ou Event."
 
 #. type: Plain text
 #: solutions.en.adoc:282
 msgid "The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact."
-msgstr ""
+msgstr "Le standard Darwin Core vous permet également de lier des extensions au \"Core\" de votre choix, comme SimpleMultimedia ou MeasurementOrFact."
 
 #. type: Plain text
 #: solutions.en.adoc:284
 msgid "The metadata are filled in a separate section of the IPT and are shared using the EML standard, not the Darwin Core (which is used for data only)."
-msgstr ""
+msgstr "Les métadonnées sont remplies dans une section séparée de l'IPT et sont partagées en utilisant le standard EML, pas le Darwin Core (qui n'est utilisé que pour les données)."
 
 #. type: Plain text
 #: solutions.en.adoc:286
 #, no-wrap
 msgid "*How many Extensions files can a dataset have?*\n"
-msgstr ""
+msgstr "*Combien de fichiers d'extensions un jeu de données peut-il avoir ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:288
 msgid "as many as needed"
-msgstr ""
+msgstr "autant de fois qu'il le faut"
 
 #. type: Plain text
 #: solutions.en.adoc:291
 msgid "Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it.  You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it."
-msgstr ""
+msgstr "Une fois que vous avez choisi un \"Core\" pour votre ressource IPT, vous pouvez y ajouter des extensions Darwin Core. Vous pouvez n'ajouter qu'une ou plusieurs extensions, selon le type de Core que vous avez choisi, et les extensions qui sont compatibles avec celui-ci."
 
 #. type: Plain text
 #: solutions.en.adoc:293
 msgid "Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core."
-msgstr ""
+msgstr "Les extensions ne sont pas obligatoires (vous pouvez publier un jeu de données sans aucune extension) mais peuvent être utiles si vous voulez partager des informations supplémentaires que vous ne pouvez pas associer avec le \"Core\" de votre choix."
 
 #. type: Title ===
 #: solutions.en.adoc:294
@@ -5210,7 +5248,7 @@ msgstr "Conception du cours et instruction"
 #. type: Plain text
 #: acknowledgements.en.adoc:8
 msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
-msgstr ""
+msgstr "Le succès de ce cours dépend fortement du soutien apporté aux participants par le réseau des mentors GBIF pour le renforcement des capacités.  Visitez la page du GBIF sur https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers [mentoring pour le renforcement des capacités^] pour en savoir plus sur ces personnes et leurs contributions."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:10
@@ -5349,48 +5387,48 @@ msgstr "Portugais"
 #. type: Plain text
 #: acknowledgements.en.adoc:42
 msgid "Rui Figueira"
-msgstr ""
+msgstr "Rui Figueira"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:43
 msgid "Clara Baringo Fonseca"
-msgstr ""
+msgstr "Clara Baringo Fonseca"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:44
 msgid "Keila Elizabeth Macfadem Juarez"
-msgstr ""
+msgstr "Keila Elizabeth Macfadem Juarez"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:45
 msgid "Tainan Messina"
-msgstr ""
+msgstr "Tainan Messina"
 
 #. type: Title ====
 #: acknowledgements.en.adoc:46
 #, no-wrap
 msgid "Spanish"
-msgstr ""
+msgstr "Espagnol"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:48
 msgid "Victor Chocho"
-msgstr ""
+msgstr "Victor Chocho"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:49
 msgid "Anabela Plos"
-msgstr ""
+msgstr "Anabela Plos"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:50
 msgid "Miguel Vega Ruiz"
-msgstr ""
+msgstr "Miguel Vega Ruiz"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:51
 msgid "Cristina Villaverde"
-msgstr ""
+msgstr "Cristina Villaverde"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:53
@@ -5401,22 +5439,22 @@ msgstr "Ressources"
 #. type: Plain text
 #: acknowledgements.en.adoc:56
 msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
-msgstr ""
+msgstr "La plateforme de tables de jeu en ligne est fournie par https://playingcards.io/ [PlayingCards.io^]. Nous tenons à remercier Jwalant Patel et Eric Ma pour avoir trouvé et aidé à créer les tables de jeu en ligne, ainsi que Kate Webbink pour son expertise artistique."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:57
 msgid "Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]"
-msgstr ""
+msgstr "Les icônes utilisées dans ce cours sont faites par Freepik à partir de https://www.flaticon.com/[www.flaticon.com^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:58
 msgid "https://openrefine.org/[OpenRefine^]"
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:59
 msgid "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
-msgstr ""
+msgstr "https://www.gbif.org/ipt[Kit de publication intégré^]"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:60
@@ -5427,32 +5465,32 @@ msgstr "Support des ressources"
 #. type: Plain text
 #: acknowledgements.en.adoc:63
 msgid "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
-msgstr ""
+msgstr "https://www.biodiversity.be/[Plateforme Belge pour la Biodiversité^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:64
 msgid "http://www.gbif.fr/[GBIF France^]"
-msgstr ""
+msgstr "http://www.gbif.fr/[GBIF France^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:65
 msgid "https://www.gbif.es/[GBIF Spain^]"
-msgstr ""
+msgstr "https://www.gbif.es/[GBIF Espagne^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:66
 msgid "https://sibcolombia.net/[SiB Colombia^]"
-msgstr ""
+msgstr "https://sibcolombia.net/[SiB Colombie^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:67
 msgid "https://www.fieldmuseum.org/[The Field Museum^]"
-msgstr ""
+msgstr "https://www.fieldmuseum.org/[The Field Museum^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:67
 msgid "http://vertnet.org/[VertNet^]"
-msgstr ""
+msgstr "http://vertnet.org/[VertNet^]"
 
 #. type: Title ==
 #: colophon.en.adoc:1
@@ -5513,7 +5551,7 @@ msgstr "Contrôle de document"
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "12th edition, May 2021"
-msgstr ""
+msgstr "12ème édition, Mai 2021"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:2 scripts/data-management.en.txt:2
