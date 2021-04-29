@@ -139,3 +139,71 @@ Are the records consistent with the method provided?
 * *Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html
 
 === Review
+
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
+****
+// Question 1
+. Why is it best to clean your data?
++
+[question, mc]
+....
+
+- [x] to make them as fit for use as possible
+- [x] to achieve your data quality goals
+- [ ] data should be cleaned by the users, not the providers
+....
+
+// Question 2
+. How should you organize your data cleaning workflow?
++
+[question, mc]
+....
+
+- [ ] work alone, you know your data best
+- [x] ask your colleagues for expertise
+- [x] work at an institutional level to harmonize data quality workflows
+....
+
+// Question 3
+. Which is best:
++
+[question, mc]
+....
+
+- [x] prevent errors from occurring
+- [x] correct errors as soon as you find them in your database or spreadsheet
+- [ ] not cleaning errors but documenting them as you go, so people who reuse your data know where they are
+....
+
+// Question 4
+. Whose responsibility is data quality?
++
+[question, mc]
+....
+
+- [ ] The person(s) who record data on the field
+- [ ] The data transcribers
+- [ ] The database manager
+- [x] Everyone involved in the management of data
+- [ ] The people who use your data
+- [ ] GBIF
+....
+
+// Question 5
+. Which tools can be used to clean your data ?
++
+[question, mc]
+....
+
+- [x] Excel & other spreadsheets management tools
+- [x] OpenRefine
+- [x] Your database software
+- [x] Online tools such as Scientific Names Resolver or Google Maps
+....
+****
