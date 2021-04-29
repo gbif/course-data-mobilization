@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-29 14:02+0000\n"
+"POT-Creation-Date: 2021-04-29 14:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5195,8 +5195,8 @@ msgid ""
 "guide^]"
 msgstr ""
 
-#. type: Title ===
-#: keydocs.en.adoc:90
+#. type: Plain text
+#: keydocs.en.adoc:90 solutions.en.adoc:243
 #, no-wrap
 msgid "OpenRefine"
 msgstr ""
@@ -6284,16 +6284,177 @@ msgstr ""
 msgid "Data management review solutions"
 msgstr ""
 
+#. type: Plain text
+#: solutions.en.adoc:204
+#, no-wrap
+msgid "*Why is it best to clean your data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:206
+msgid "to make them as fit for use as possible"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:207
+msgid "to achieve your data quality goals"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:210
+msgid ""
+"You should always aim to manage and publish data with the highest possible "
+"quality.  This will improve your day-to-day work (it is easier to work with "
+"organized and clean data), as well as the work of potential re-users of your "
+"data, who need to understand them and trust their source before using them."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:212
+#, no-wrap
+msgid "*How should you organize your data cleaning workflow?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:214
+msgid "ask your colleagues for expertise"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:215
+msgid "work at an institutional level to harmonize data quality workflows"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:217
+msgid ""
+"Nobody is expected to know everything about biodiversity data; you should "
+"seek help and advice from your colleagues or other knowledgeable people, and "
+"ensure that you're applying the good practices recommended by your "
+"institution as you clean your data."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:219
+#, no-wrap
+msgid "*Which is best:*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:221
+msgid "prevent errors from occurring"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:222
+msgid "correct errors as soon as you find them in your database or spreadsheet"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:224
+msgid ""
+"The best way to avoid spreading errors in your data is to prevent them from "
+"occurring at the start of the data collecting/recording process."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:226
+msgid ""
+"Of course, mistakes are unavoidable so you should also clean them as soon as "
+"you find them, and document the cleaning process."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:228
+msgid ""
+"If you don't have the time or resources to properly clean your data, it is "
+"best to wait before you can do so instead of publishing erroneous data that "
+"might confuse people."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:230
+#, no-wrap
+msgid "*Whose responsibility is data quality?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:232
+msgid "Everyone involved in the management of data"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:234
+msgid ""
+"Every person involved in your data management workflow is at least partly "
+"responsible for their quality, from the field technicians to the database "
+"manager(s)."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:236
+msgid ""
+"People who might later use your data can inform you of any remaining error "
+"in your data, and should use them responsibly for their own research, but "
+"the initial data quality is not their responsibility."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:238
+msgid ""
+"GBIF can perform automatic checks on your data (e.g. detection of missing "
+"values, geographic outliers, unknown scientific names) but should not be "
+"held responsible for errors that occurred earlier in the data management "
+"process."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:240
+#, no-wrap
+msgid "*Which tools can be used to clean your data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:242
+msgid "Excel & other spreadsheets management tools"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:244
+msgid "Your database software"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:245
+msgid "Online tools such as Scientific Names Resolver or Google Maps"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:247
+msgid ""
+"All kinds of tools can be used to clean your data, but you should identify "
+"which ones will answer your needs in terms of taxonomic resolving, "
+"georeferencing, deleting duplicates, and so on. You can find <<helpful "
+"tools>> listed in the data management section."
+msgstr ""
+
 #. type: Title ===
-#: solutions.en.adoc:203
+#: solutions.en.adoc:248
 #, no-wrap
 msgid "Data publishing review solutions"
 msgstr ""
 
 #. type: Title ===
-#: solutions.en.adoc:205
+#: solutions.en.adoc:252
 #, no-wrap
 msgid "Use Case I suggested solution"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:254
+msgid ""
+"link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested "
+"solution^,opts=download] (PDF 144 KB)"
 msgstr ""
 
 #. type: Title ==
