@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-29 14:42+0000\n"
-"PO-Revision-Date: 2021-04-29 14:54\n"
+"POT-Creation-Date: 2021-04-29 15:03+0000\n"
+"PO-Revision-Date: 2021-04-29 15:51\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -796,7 +796,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
-#: management.en.adoc:145
+#: management.en.adoc:145 publishing.en.adoc:58
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -2356,6 +2356,79 @@ msgstr ""
 #. type: Plain text
 #: publishing.en.adoc:52
 msgid "Use the assigned IPT installation and publish this file."
+msgstr ""
+
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: publishing.en.adoc:66
+msgid "What does data publishing mean in the context of GBIF?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:73
+#, no-wrap
+msgid "- [ ] Exporting a csv file of your cleaned data that you can share with your colleagues\n"
+"- [ ] Writing an article describing your data, and the protocol(s) you used to collect, capture and clean them\n"
+"- [x] Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: publishing.en.adoc:76
+msgid "What is an IPT?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:83
+#, no-wrap
+msgid "- [ ] a tool that helps you manage & correct your data\n"
+"- [x] a tool that helps you publish your data to GBIF\n"
+"- [x] a tool that helps you produce a Data paper\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: publishing.en.adoc:86
+msgid "Which Creative Commons licences and waivers are recommended by GBIF for data publication?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:93
+#, no-wrap
+msgid "- [ ] CC-BY, CC-BY-SA and CC-BY-ND\n"
+"- [x] CC0, CC-BY and CC-BY-NC\n"
+"- [ ] CC0, CC-BY and CC-BY-SA\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: publishing.en.adoc:96
+msgid "What are the three Cores from which you can choose for an IPT resource?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:103
+#, no-wrap
+msgid "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
+"- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
+"- [x] Occurrence Core, Taxon Core, Event Core\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: publishing.en.adoc:106
+msgid "How many Extensions files can a dataset have?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:113
+#, no-wrap
+msgid "- [ ] zero\n"
+"- [ ] one\n"
+"- [x] as many as needed\n"
 msgstr ""
 
 #. type: Title ==
@@ -4839,14 +4912,124 @@ msgstr ""
 msgid "Data publishing review solutions"
 msgstr ""
 
+#. type: Plain text
+#: solutions.en.adoc:251
+#, no-wrap
+msgid "*What does data publishing mean in the context of GBIF?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:253
+msgid "Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:255
+msgid "Data publishing within GBIF means making your biodiversity dataset(s) publicly accessible in a standardized format (most of the time, Darwin Core), so that it can be discovered and reused by other people."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:257
+#, no-wrap
+msgid "*What is an IPT?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:259
+msgid "a tool that helps you publish your data to GBIF"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:260
+msgid "a tool that helps you produce a Data paper"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:263
+msgid "The IPT (Integrated Publishing Toolkit) is a Java-coded software that allows you to upload and publish data to GBIF.  It is not to be used as a data management or data cleaning tool."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:265
+msgid "The IPT can also help you with the process of writing and submitting a data paper, thanks to the EML file it generates automatically when you fill in the metadata for your data resource."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:267
+#, no-wrap
+msgid "*Which Creative Commons licences and waivers are recommended by GBIF for data publication?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:269
+msgid "CC0, CC-BY and CC-BY-NC"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:272
+msgid "The Creative Commons licences and waivers recommended to publish your dataset(s) to GBIF are CC0, CC-BY and CC-BY-NC.  They are widely recognized licenses and/or waivers that align with international open-data requirements for data sharing and re-use."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:274
+msgid "Please note that you should only choose CC0 or CC-BY waiver/license for your BID-related dataset(s)."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:276
+#, no-wrap
+msgid "*What are the three Cores from which you can choose for an IPT resource?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:278
+msgid "Occurrence Core, Taxon Core, Event Core"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:280
+msgid "You can choose one of the three following Cores for each of your IPT resources: Occurrence, Taxon or Event Core."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:282
+msgid "The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:284
+msgid "The metadata are filled in a separate section of the IPT and are shared using the EML standard, not the Darwin Core (which is used for data only)."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:286
+#, no-wrap
+msgid "*How many Extensions files can a dataset have?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:288
+msgid "as many as needed"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:291
+msgid "Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it.  You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:293
+msgid "Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core."
+msgstr ""
+
 #. type: Title ===
-#: solutions.en.adoc:252
+#: solutions.en.adoc:294
 #, no-wrap
 msgid "Use Case I suggested solution"
 msgstr ""
 
 #. type: Plain text
-#: solutions.en.adoc:254
+#: solutions.en.adoc:296
 msgid "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested solution^,opts=download] (PDF 144 KB)"
 msgstr ""
 
