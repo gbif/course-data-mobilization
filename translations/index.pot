@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-29 11:16+0000\n"
+"POT-Creation-Date: 2021-04-29 13:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1157,6 +1157,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
+#: management.en.adoc:145
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -2897,6 +2898,90 @@ msgstr ""
 msgid ""
 "*Georeferencing Calculator*: "
 "http://georeferencing.org/georefcalculator/gc.html\n"
+msgstr ""
+
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: management.en.adoc:153
+msgid "Why is it best to clean your data?"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:160
+#, no-wrap
+msgid ""
+"- [x] to make them as fit for use as possible\n"
+"- [x] to achieve your data quality goals\n"
+"- [ ] data should be cleaned by the users, not the providers\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: management.en.adoc:163
+msgid "How should you organize your data cleaning workflow?"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:170
+#, no-wrap
+msgid ""
+"- [ ] work alone, you know your data best\n"
+"- [x] ask your colleagues for expertise\n"
+"- [x] work at an institutional level to harmonize data quality workflows\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: management.en.adoc:173
+msgid "Which is best:"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:180
+#, no-wrap
+msgid ""
+"- [x] prevent errors from occurring\n"
+"- [x] correct errors as soon as you find them in your database or "
+"spreadsheet\n"
+"- [ ] not cleaning errors but documenting them as you go, so people who "
+"reuse your data know where they are\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: management.en.adoc:183
+msgid "Whose responsibility is data quality?"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:193
+#, no-wrap
+msgid ""
+"- [ ] The person(s) who record data on the field\n"
+"- [ ] The data transcribers\n"
+"- [ ] The database manager\n"
+"- [x] Everyone involved in the management of data\n"
+"- [ ] The people who use your data\n"
+"- [ ] GBIF\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: management.en.adoc:196
+msgid "Which tools can be used to clean your data ?"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:204
+#, no-wrap
+msgid ""
+"- [x] Excel & other spreadsheets management tools\n"
+"- [x] OpenRefine\n"
+"- [x] Your database software\n"
+"- [x] Online tools such as Scientific Names Resolver or Google Maps\n"
 msgstr ""
 
 #. type: Plain text
