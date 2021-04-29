@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-27 15:17+0000\n"
-"PO-Revision-Date: 2021-04-27 15:58\n"
+"POT-Creation-Date: 2021-04-29 10:43+0000\n"
+"PO-Revision-Date: 2021-04-29 10:52\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -253,6 +253,11 @@ msgstr "Os vídeos são narrados em inglês. As legendas estão disponíveis em 
 msgid "Exercise data"
 msgstr "Dados do exercício"
 
+#. type: Plain text
+#: downloads.en.adoc:14
+msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
+msgstr "Este link:../exercise-data/UseCaseExerciseData.zip[ficheiro comprimido, opts=download] (ZIP 37.7 MB) contém os dados de exercício para todos os casos de uso."
+
 #. type: Title ===
 #: downloads.en.adoc:15
 #, no-wrap
@@ -261,8 +266,8 @@ msgstr "Folhas de exercício"
 
 #. type: Plain text
 #: downloads.en.adoc:17
-msgid "This compressed file contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr "Este ficheiro compactado contém as folhas de exercícios para todos os casos de uso. As folhas de exercícios são escritas em inglês e devem ser concluídas em inglês."
+msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
+msgstr "Este link:../course-docs/ExerciseSheets.zip[arquivo compactado, opts=download] (ZIP 1.4 MB) contém as folhas de exercício para todos os casos de uso. As folhas de exercícios estão escritas em inglês e devem ser completadas em inglês."
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -2623,33 +2628,33 @@ msgstr "O Conselho de Espécies Invasoras (HISC) recebeu um subsídio federal pa
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:35
 msgid "The Manager of each island’s Invasive Species Committee (ISC) received a sub-award to set up local education programs and collect data.  The programs trained high school students to become Student Mentors and to facilitate image and data collection by members of the local community.  The Big Island Invasive Species Committee (BIISC) received a further sub-award to extend their central database to accommodate each ISC’s data, provide participating schools with their own websites, and maintain a single, searchable data portal to serve government, public, and scholarly research efforts."
-msgstr ""
+msgstr "O Gestor do Comité de Espécies Invasoras de cada ilha (ISC) recebeu uma sub-prémio para criar programas locais de educação e colher dados. Os programas treinaram estudantes do liceu para tornarem-se mentores de alunos e para facilitar a colheita de imagens e de dados, por membros da comunidade local. O Comité de Espécies Invasoras da Grande Ilha (BIISC) recebeu mais um sub-prémio para estender sua base de dados central, para receber os dados de cada ISC, fornecer as escolas participantes os seus próprios portais, e manter um portal de dados único e com ferramenta de busca, para servir esforços de investigação governamentais, públicas e acadêmicas."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:38
 msgid "Two schools on each island were selected because they were located in areas where knowledge and documentation of invasive species assessment was poor or non-existent.  Teachers worked with their local Invasive Species Council (ISC) Outreach Associate to create teaching materials detailing 21 important invasive plant species, including how to identify each species’ life stages and the most effective control methods."
-msgstr ""
+msgstr "Foram seleccionadas duas escolas em cada ilha, porque estavam localizadas em zonas onde os conhecimentos e a documentação de avaliação de espécies invasoras eram escassos ou inexistentes. Professores trabalharam com seu Conselho de Espécies Invasoras (ISC) local para a criação de materiais de ensino detalhando 21 espécies importantes de plantas invasoras, incluindo a forma de identificar as fases de vida de cada espécie e os métodos de controlo mais eficazes."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:41
 msgid "The Graduate School of the University of Hawaii in Maui (UHM) runs a course in community outreach.  Four botany students from the University, as a part of their final course assessment, are validating the identifications from the images and descriptions submitted by each high school to their local ISC."
-msgstr ""
+msgstr "A Universidade do Havaí em Maui (UHM) tem um curso sobre engajamento da comunidade. Como parte da avaliação final do curso, quatro alunos da Universidade estão validando as identificações das imagens e descrições enviadas por cada escola para seu ISC local."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:47
 msgid "Students from each high school organized a series of day-long community surveys in their local neighbourhoods.  Participants, guided by local ISC Early Detection Technicians and Student Mentors, visited various locations where they were given photo guides and assigned a route to follow during collection events.  Along each route, they were tasked with identifying the target species and taking 1-3 photos of them using GPS-enabled mobile phones."
-msgstr ""
+msgstr "Os alunos de cada escola organizaram uma série de pesquisas comunitárias diárias em suas freguesias. Participantes, guiados por Técnicos de Detecção Antecipada do ISC e Mentores de Estudantes, visitaram vários locais onde receberam guias de fotos e atribuíram uma rota para acompanhar durante os eventos de amostragem. Ao longo de cada rota, eles tinham a tarefa de identificar as espécies-alvo e de tirar 1 a 3 fotos delas usando telemóveis com GPS."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:51
 msgid "Details, describing every observation of the 21 invasive species of interest, were recorded using a digital data collection form during each community collection event.  Participants uploaded the images captured on mobile phones and were encouraged to click their locations using a Google map, embedded in the form, to assign latitude and longitude to each observation.  The form’s design was based on the HISC pest reporting form."
-msgstr ""
+msgstr "Detalhes, descrevendo cada observação das 21 espécies de interesse, foram gravados usando um formulário de colheita de dados digital, durante cada evento de amostragem de dados da comunidade. Os participantes carregaram as imagens capturadas em telemóveis e foram encorajados a clicar seus locais usando um mapa do Google, embutido no formulário, para atribuir latitude e longitude a cada observação. O formulário foi baseado no formulário de relatório de pragas HISC."
 
 #. type: Target for macro image
 #: use-case-invasive-species.en.adoc:52
 #, no-wrap
 msgid "img/web/use-case-2-invasives-data-collection.png"
-msgstr ""
+msgstr "img/web/use-case-2-invasives-data-collection.png"
 
 #. type: Title ====
 #: use-case-invasive-species.en.adoc:54
@@ -2657,7 +2662,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:71
 #, no-wrap
 msgid "Digital data description"
-msgstr ""
+msgstr "Descrição dos dados digitais"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:59
@@ -3775,8 +3780,8 @@ msgstr ""
 msgid "http://vertnet.org/resources/datalicensingguide.html[VertNet data licensing guide^]"
 msgstr ""
 
-#. type: Plain text
-#: keydocs.en.adoc:90 acknowledgements.en.adoc:34
+#. type: Title ===
+#: keydocs.en.adoc:90
 #, no-wrap
 msgid "OpenRefine"
 msgstr ""
@@ -4705,7 +4710,7 @@ msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:8
-msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on capacity enhancement mentoring to read more about these individuals and their contributions."
+msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
 msgstr ""
 
 #. type: Plain text
@@ -4774,7 +4779,7 @@ msgid "John Wieczorek"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:24
+#: acknowledgements.en.adoc:24 acknowledgements.en.adoc:52
 msgid "Paula Zermoglio"
 msgstr ""
 
@@ -4792,53 +4797,162 @@ msgstr ""
 #. type: Title ===
 #: acknowledgements.en.adoc:29
 #, no-wrap
-msgid "Resources"
+msgid "Translators"
 msgstr ""
 
-#. type: Plain text
-#: acknowledgements.en.adoc:32
-msgid "The online tabletop platform is provided by PlayingCards.io. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
+#. type: Title ====
+#: acknowledgements.en.adoc:31
+#, no-wrap
+msgid "French"
 msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:33
-msgid "Icons used in this course are made by Freepik from www.flaticon.com"
+msgid "Maxime Coupremanne"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:34
+msgid "Jaures Gbètoho"
 msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:35
-msgid "Integrated Publishing Toolkit"
+msgid "Marie Grosjean"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:36
+msgid "Patricia Mergen"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:37
+msgid "Sophie PAMERLON"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:38
+msgid "Andry Jean Marc Rakotomanjaka"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:39
+msgid "Y. Sabastian Wirsiy"
+msgstr ""
+
+#. type: Title ====
+#: acknowledgements.en.adoc:40
+#, no-wrap
+msgid "Portuguese"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:42
+msgid "Rui Figueira"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:43
+msgid "Clara Baringo Fonseca"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:44
+msgid "Keila Elizabeth Macfadem Juarez"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:45
+msgid "Tainan Messina"
+msgstr ""
+
+#. type: Title ====
+#: acknowledgements.en.adoc:46
+#, no-wrap
+msgid "Spanish"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:48
+msgid "Victor Chocho"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:49
+msgid "Anabela Plos"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:50
+msgid "Miguel Vega Ruiz"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:51
+msgid "Cristina Villaverde"
 msgstr ""
 
 #. type: Title ===
-#: acknowledgements.en.adoc:36
+#: acknowledgements.en.adoc:53
+#, no-wrap
+msgid "Resources"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:56
+msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:57
+msgid "Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:58
+msgid "https://openrefine.org/[OpenRefine^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:59
+msgid "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
+msgstr ""
+
+#. type: Title ===
+#: acknowledgements.en.adoc:60
 #, no-wrap
 msgid "Resource support"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:39
-msgid "Belgium Biodiversity Platform"
+#: acknowledgements.en.adoc:63
+msgid "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:40
-msgid "GBIF France"
+#: acknowledgements.en.adoc:64
+msgid "http://www.gbif.fr/[GBIF France^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:41
-msgid "GBIF Spain"
+#: acknowledgements.en.adoc:65
+msgid "https://www.gbif.es/[GBIF Spain^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:42
-msgid "The Field Museum"
+#: acknowledgements.en.adoc:66
+msgid "https://sibcolombia.net/[SiB Colombia^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:42
-msgid "VertNet"
+#: acknowledgements.en.adoc:67
+msgid "https://www.fieldmuseum.org/[The Field Museum^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:67
+msgid "http://vertnet.org/[VertNet^]"
 msgstr ""
 
 #. type: Title ==
