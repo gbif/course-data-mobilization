@@ -200,6 +200,55 @@ Regional species lists can give a useful insight into a region’s biodiversity 
 
 === Data management review solutions
 
+*Why is it best to clean your data?*
+
+* to make them as fit for use as possible
+* to achieve your data quality goals
+
+You should always aim to manage and publish data with the highest possible quality. 
+This will improve your day-to-day work (it is easier to work with organized and clean data), as well as the work of potential re-users of your data, who need to understand them and trust their source before using them.
+
+*How should you organize your data cleaning workflow?*
+
+* ask your colleagues for expertise
+* work at an institutional level to harmonize data quality workflows
+
+Nobody is expected to know everything about biodiversity data; you should seek help and advice from your colleagues or other knowledgeable people, and ensure that you're applying the good practices recommended by your institution as you clean your data.
+
+*Which is best:*
+
+* prevent errors from occurring
+* correct errors as soon as you find them in your database or spreadsheet
+
+The best way to avoid spreading errors in your data is to prevent them from occurring at the start of the data collecting/recording process. 
+
+Of course, mistakes are unavoidable so you should also clean them as soon as you find them, and document the cleaning process.
+
+If you don't have the time or resources to properly clean your data, it is best to wait before you can do so instead of publishing erroneous data that might confuse people.
+
+*Whose responsibility is data quality?*
+
+* Everyone involved in the management of data
+
+Every person involved in your data management workflow is at least partly responsible for their quality, from the field technicians to the database manager(s). 
+
+People who might later use your data can inform you of any remaining error in your data, and should use them responsibly for their own research, but the initial data quality is not their responsibility.
+
+GBIF can perform automatic checks on your data (e.g. detection of missing values, geographic outliers, unknown scientific names) but should not be held responsible for errors that occurred earlier in the data management process.
+
+*Which tools can be used to clean your data?*
+
+* Excel & other spreadsheets management tools
+* OpenRefine
+* Your database software
+* Online tools such as Scientific Names Resolver or Google Maps
+
+All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful tools>> listed in the data management section.
+
 === Data publishing review solutions
 
+
+
 === Use Case I suggested solution
+
+link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested solution^,opts=download] (PDF 144 KB)
