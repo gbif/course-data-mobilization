@@ -52,3 +52,63 @@ If you have not already been provided a login, please contact training@gbif.org 
 . Use the previously downloaded exercise sheet to provide your answers.
 
 === Review
+
+[NOTE.quiz]
+Quiz yourself on the concepts learned in this section.
+
+// Note the lack of empty lines between the end of the question (....) and the start of the next question
+// (. What…) is required, so I have added // comments to help separate them.
+// The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+
+****
+// Question 1
+. What does data publishing mean in the context of GBIF?
++
+[question, mc]
+....
+
+- [ ] Exporting a csv file of your cleaned data that you can share with your colleagues
+- [ ] Writing an article describing your data, and the protocol(s) you used to collect, capture and clean them
+- [x] Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format
+....
+// Question 2
+. What is an IPT?
++
+[question, mc]
+....
+
+- [ ] a tool that helps you manage & correct your data
+- [x] a tool that helps you publish your data to GBIF
+- [x] a tool that helps you produce a Data paper
+....
+// Question 3
+. Which Creative Commons licences and waivers are recommended by GBIF for data publication?
++
+[question, mc]
+....
+
+- [ ] CC-BY, CC-BY-SA and CC-BY-ND
+- [x] CC0, CC-BY and CC-BY-NC
+- [ ] CC0, CC-BY and CC-BY-SA
+....
+// Question 4
+. What are the three Cores from which you can choose for an IPT resource?
++
+[question, mc]
+....
+
+- [ ] Metadata Core, Occurrence Core, Multimedia Core
+- [ ] Taxon Core, Collection Core, MeasurementOrFact Core
+- [x] Occurrence Core, Taxon Core, Event Core
+....
+// Question 5
+. How many Extensions files can a dataset have?
++
+[question, mc]
+....
+
+- [ ] zero
+- [ ] one
+- [x] as many as needed
+....
+****
