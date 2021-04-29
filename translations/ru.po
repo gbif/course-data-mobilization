@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-27 15:17+0000\n"
-"PO-Revision-Date: 2021-04-27 15:58\n"
+"POT-Creation-Date: 2021-04-29 10:43+0000\n"
+"PO-Revision-Date: 2021-04-29 10:52\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -253,6 +253,11 @@ msgstr ""
 msgid "Exercise data"
 msgstr ""
 
+#. type: Plain text
+#: downloads.en.adoc:14
+msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
+msgstr ""
+
 #. type: Title ===
 #: downloads.en.adoc:15
 #, no-wrap
@@ -261,7 +266,7 @@ msgstr ""
 
 #. type: Plain text
 #: downloads.en.adoc:17
-msgid "This compressed file contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
+msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
 msgstr ""
 
 #. type: Title ==
@@ -3610,8 +3615,8 @@ msgstr ""
 msgid "http://vertnet.org/resources/datalicensingguide.html[VertNet data licensing guide^]"
 msgstr ""
 
-#. type: Plain text
-#: keydocs.en.adoc:90 acknowledgements.en.adoc:34
+#. type: Title ===
+#: keydocs.en.adoc:90
 #, no-wrap
 msgid "OpenRefine"
 msgstr ""
@@ -4540,7 +4545,7 @@ msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:8
-msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on capacity enhancement mentoring to read more about these individuals and their contributions."
+msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
 msgstr ""
 
 #. type: Plain text
@@ -4609,7 +4614,7 @@ msgid "John Wieczorek"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:24
+#: acknowledgements.en.adoc:24 acknowledgements.en.adoc:52
 msgid "Paula Zermoglio"
 msgstr ""
 
@@ -4627,53 +4632,162 @@ msgstr ""
 #. type: Title ===
 #: acknowledgements.en.adoc:29
 #, no-wrap
-msgid "Resources"
+msgid "Translators"
 msgstr ""
 
-#. type: Plain text
-#: acknowledgements.en.adoc:32
-msgid "The online tabletop platform is provided by PlayingCards.io. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
+#. type: Title ====
+#: acknowledgements.en.adoc:31
+#, no-wrap
+msgid "French"
 msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:33
-msgid "Icons used in this course are made by Freepik from www.flaticon.com"
+msgid "Maxime Coupremanne"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:34
+msgid "Jaures Gbètoho"
 msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:35
-msgid "Integrated Publishing Toolkit"
+msgid "Marie Grosjean"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:36
+msgid "Patricia Mergen"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:37
+msgid "Sophie PAMERLON"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:38
+msgid "Andry Jean Marc Rakotomanjaka"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:39
+msgid "Y. Sabastian Wirsiy"
+msgstr ""
+
+#. type: Title ====
+#: acknowledgements.en.adoc:40
+#, no-wrap
+msgid "Portuguese"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:42
+msgid "Rui Figueira"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:43
+msgid "Clara Baringo Fonseca"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:44
+msgid "Keila Elizabeth Macfadem Juarez"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:45
+msgid "Tainan Messina"
+msgstr ""
+
+#. type: Title ====
+#: acknowledgements.en.adoc:46
+#, no-wrap
+msgid "Spanish"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:48
+msgid "Victor Chocho"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:49
+msgid "Anabela Plos"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:50
+msgid "Miguel Vega Ruiz"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:51
+msgid "Cristina Villaverde"
 msgstr ""
 
 #. type: Title ===
-#: acknowledgements.en.adoc:36
+#: acknowledgements.en.adoc:53
+#, no-wrap
+msgid "Resources"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:56
+msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:57
+msgid "Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:58
+msgid "https://openrefine.org/[OpenRefine^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:59
+msgid "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
+msgstr ""
+
+#. type: Title ===
+#: acknowledgements.en.adoc:60
 #, no-wrap
 msgid "Resource support"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:39
-msgid "Belgium Biodiversity Platform"
+#: acknowledgements.en.adoc:63
+msgid "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:40
-msgid "GBIF France"
+#: acknowledgements.en.adoc:64
+msgid "http://www.gbif.fr/[GBIF France^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:41
-msgid "GBIF Spain"
+#: acknowledgements.en.adoc:65
+msgid "https://www.gbif.es/[GBIF Spain^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:42
-msgid "The Field Museum"
+#: acknowledgements.en.adoc:66
+msgid "https://sibcolombia.net/[SiB Colombia^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:42
-msgid "VertNet"
+#: acknowledgements.en.adoc:67
+msgid "https://www.fieldmuseum.org/[The Field Museum^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:67
+msgid "http://vertnet.org/[VertNet^]"
 msgstr ""
 
 #. type: Title ==
