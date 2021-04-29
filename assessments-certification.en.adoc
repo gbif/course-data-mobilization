@@ -15,7 +15,7 @@ Upon successful completion of the course and successful assessment of assignment
 |An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge
 |===
 
-Participants are required to submit Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built.
+Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built.
 
 Review the rubrics to ensure understanding of the skills that will be assessed for certification.
 
@@ -35,29 +35,29 @@ Review the rubrics to ensure understanding of the skills that will be assessed f
 |Outstanding performance
 4
 
-|A
-|Item
-|Item
-|Item
-|Item
+|A. Knowledge of the different elements that are part of a biodiversity data mobilization plan
+|Shows understanding of a few roles and tasks required in a solid mobilization plan, but is not able to differentiate who performs each task in the plan or mixes up the roles.
+|Understands many of the roles and tasks needed in a mobilization plan, but still misses links and interactions between them.
+|Understands the key tasks and roles needed in a mobilization plan and how they interact.
+|Can identify additional roles and task that may be needed for specific situations
 
-|B
-|Item
-|Item
-|Item
-|Item
+|B. Capacity to apply the different elements of a biodiversity data mobilization plan to a given institutional context (e.g. their own)
+|Can see how a few of the tasks and roles relate to a given institutional context, but has difficulties when the context changes even slightly from the generic references used.
+|Can see how most of the tasks and roles can be applied to a given institutional context, but still has gaps when the situation is different to the generic references used.
+|Can identify all relevant tasks and roles and how they can be translated to a given institutional context, even if the situation is not identical to the one in the generic references used.
+|Can apply the different elements of a mobilization plan creatively, incorporating new elements not found in the generic references used.
 
-|C
-|Item
-|Item
-|Item
-|Item
+|C. Ability to write/compose a clear planning document
+|Can gather raw material that would be the basis for a plan (e.g. as bullet points), but has difficulties translating this into a narrative.
+|Can construct a basic work plan, but lacks coherence between its elements.
+|Can write a coherent and well articulated document which includes all relevant elements of a work plan.
+|Can write concise plans, with effective summaries and increasing levels of detail
 
-|D
-|Item
-|Item
-|Item
-|Item
+|D. Capacity to evaluate a biodiversity data mobilization plan
+|Can identify a few elements of a generic mobilization plan in a given example, but has difficulties matching them to tasks and roles.
+|Can identify most elements of a mobilization plan and match them to tasks and roles when they are identical to references used. Has difficulties assessing the feasibility of some elements of the plan.
+|Can recognize all existing elements in a mobilization plan, and can identify gaps, duplicated efforts, and inconsistencies. Can evaluate the quality of the individual components. Can evaluate potential points of success and weak points of the plan as a whole.
+|Can suggest solutions to fix issues identified in the plan evaluated.
 |===
 
 === Data capture rubric
@@ -76,29 +76,23 @@ Review the rubrics to ensure understanding of the skills that will be assessed f
 |Outstanding performance
 4
 
-|A
-|Item
-|Item
-|Item
-|Item
+|A. Ability to identify the type of digital data that can be extracted from a source of biodiversity data (i.e. that can be published using the GBIF network)
+|Can identify only the most evident data types from common sources of biodiversity data (e.g. occurrences from natural history collection specimens).  Shows little understanding of potential for online publishing using GBIF.
+|Can frequently identify correctly, at least one digital data type that can be extracted of common sources of data. Has difficulty identifying which ones can be currently published using GBIF.
+|Can always identify one (or more) types of digital data that can be extracted from common sources of data. Can identify which one of those types can be currently published using GBIF. 
+|Can always identify one or more types of digital data that can be extracted from common and uncommon sources of data. Can identify which one of those types can be currently published using GBIF and which ones are under discussion. Can identify data cores and extensions used for publishing those data types.
 
-|B
-|Item
-|Item
-|Item
-|Item
+|B. Capacity to extract relevant information from a source of biodiversity data into simple data structures (e.g. spreadsheets) that follows international standards
+|Can only extract large pieces of obvious information (e.g. all geographic information as a single unit) which are evident in the data source. Shows little knowledge of current standards for  recording biodiversity data.
+|Can retrieve several information items from the data source (but not all) and can disaggregate them into meaningful pieces. Shows some basic knowledge of the most common standards (e.g. DwC) and the most used data fields in those standards.
+|Can identify all valuable information in a data source, and extract the  mandatory elements in a standard data structure (e.g. a spreadsheet based on Simple DwC). Can identify missing information and infer  from existing information (e.g. derive a country name from a province). 
+|Can identify all valuable information in a complex data source, and divide it into meaningful pieces which then translate directly into international standards. Can identify critical information missing in the source and infer it from the existing data or from additional information about the source (metadata).
 
-|C
-|Item
-|Item
-|Item
-|Item
-
-|D
-|Item
-|Item
-|Item
-|Item
+|C. Ability to understand and apply basic principles of data quality to the data capture process
+|Shows limited understanding of how applying simple data quality principles can have a large impact on the final product, preventing additional required cleaning afterwards.
+|Knows some of most generic principles of data quality (e.g. avoid misspellings) but shows limited knowledge on how to apply more specific principles to the data capture process.
+|Knows all the basic principles of data quality and how to apply these in simple ways to the data capture process. Uses formats consistently during the data capture process (e.g. in dates, country names). Documents all procedures and changes connected to data quality in a simple manner.
+|Shows good knowledge of all common principles of data quality and how to use them to improve the data capture process. Uses data formats consistently and can use gazetteers, reference lists, or software-specific features to improve quality from the original. Documents clearly all changes and decisions taken in connection to data quality.
 |===
 
 === Data management rubric
@@ -117,29 +111,41 @@ Review the rubrics to ensure understanding of the skills that will be assessed f
 |Outstanding performance
 4
 
-|A
-|Item
-|Item
-|Item
-|Item
+|A. Capacity to assess the quality (i.e. identify issues and their types) of a biodiversity dataset.
+|Only uses visual checks to analyze quality. Cannot differentiate between types of errors. Can detect missing values in required fields and severe data inconsistencies.
+|Can only use very basic techniques (e.g. sorting) to analyze data quality. Can detect mismatches between field names and content. Can consistently identify technical errors, but only the most typical consistency errors in a dataset.
+|Can use specific tools and techniques  to assess quality. Recognizes the minimum level of disaggregation/normalization needed for common use and publishing. Can consistently identify technical errors and most of the consistency errors in a dataset.
+|Uses a systematic approach to dataset analysis covering all major data domains. Can consistently identify both technical and consistency errors in a dataset. Can use other sources of data (e.g. metadata or other datasets) to identify or infer consistency errors in a dataset.
 
-|B
-|Item
-|Item
-|Item
-|Item
+|B. Capacity to perform data format correction.
+|Can only make corrections manually in the tables. Shows generic knowledge about use of format types in digital data (e.g. dates, strings, numbers)
+|Can identify at least one specific tool to automatically correct format errors, but can only use it in specific cases. Otherwise, uses simple mechanisms (e.g. ‘find & replace’) to solve issues.
+|Can use at least one tool to automatically correct format errors.
+|Can use advanced features of more than one tool to correct format errors.
 
-|C
-|Item
-|Item
-|Item
-|Item
+|C. Capacity to perform nomenclatural data correction.
+|Can only make corrections manually in the tables. Only uses personal knowledge of known taxonomic groups.
+|Can identify at least one specific tool to automatically correct nomenclatural errors, but can only use it in specific cases. Otherwise, uses simple mechanisms (e.g. ‘find & replace’) to solve issues.
+|Can use at least one tool to automatically correct nomenclatural errors. Can find and use suitable reference nomenclatural information for the taxonomic groups with which (s)he usually works.
+|Can use more than one tool to correct nomenclatural errors. Can find and use suitable reference nomenclatural information for taxonomic groups outside of his/her areas of expertise.
 
-|D
-|Item
-|Item
-|Item
-|Item
+|D. Capacity to perform geographical data correction.
+|Can only make corrections manually in the tables. Only uses personal knowledge of known geographical areas.
+|Can identify at least one specific tool to map and/or automatically correct errors in geographical information, but can only use it in specific cases. Otherwise, uses simple mechanisms (e.g. ‘find & replace3’) to solve issues.
+|Can use at least one tool to map and/or automatically correct errors in geographical information. Can find and use suitable reference geographical information in a suitable format for the areas with which (s)he usually works.
+|Can use more than one tool to map and/or automatically correct errors in geographical information. Can find and use reference geographical information in a suitable format for areas outside of his/her areas of expertise.
+
+|E. Capacity to use specific software (e.g. OpenRefine) as tools for data cleaning.
+|Can identify at least one data cleaning tool. Can identify the main features of a data cleaning tool (e.g. OpenRefine).
+|Can identify multiple data cleaning tools. Can use one or a few of the basic features of data cleaning software to clean a dataset (e.g. create an OpenRefine project, use faceting, filtering, clustering or reconciling).
+|Can use all the basic features of a data cleaning software to clean a dataset (e.g. in OpenRefine: faceting, filtering, clustering, reconciling).
+|Can use the advanced features of one or more data cleaning software packages to clean datasets (e.g. in OpenRefine: use API, regular expressions, Google Refine Expression Language).
+
+|F. Capacity to document data transformation procedures.
+|Seldom describes any changes made while curating, formatting, or transforming data.
+|Describes changes made most of the time. Doesn’t describe changes consistently or fully (e.g. describes the change, but not the author).
+|Always remembers to describe changes made. Always describes changes consistently, so that all edits of the same type can be easily identified.
+|Can accurately and consistently describe changes made in a repeatable way.
 |===
 
 === Data publishing rubric
@@ -158,27 +164,33 @@ Review the rubrics to ensure understanding of the skills that will be assessed f
 |Outstanding performance
 4
 
-|A
-|Item
-|Item
-|Item
-|Item
+|A. Knowledge about biodiversity information (BDI) data standards.
+|Shows limited or no knowledge about BDI data standards and which of those data standards are accepted by GBIF.
+|Can identify BDI standards and knows which ones are accepted by GBIF, but does not know where to find information on how to use them. Cannot identify which terms are mandatory.
+|Knows the BDI standards accepted by GBIF. Can find a list of the accepted data cores and extensions. Publishes datasets according to the required and/or recommended GBIF standards for data and metadata terms and knows how to find the definitions of the terms.
+|Shows understanding about the characteristics and limitations of the various BDI standards.
 
-|B
-|Item
-|Item
-|Item
-|Item
+|B. Capacity to analyze the suitability of a biodiversity dataset for publishing through GBIF.
+|Shows limited or no knowledge of the formal criteria that a dataset needs to meet to be publishable through GBIF.
+|Knows the formal criteria that a dataset needs to meet to be publishable through GBIF, but cannot assess if a given dataset meets them.
+|Can correctly assess if a dataset can be currently published through GBIF. Can assign at least one valid data type (=core) to a dataset based on the description provided by the data holder and after having analyzed the dataset.
+|Can identify more than one publishing option for a dataset (where possible).
 
-|C
-|Item
-|Item
-|Item
-|Item
+|C. IPT use: capacity to produce/analyze high quality metadata.
+|Shows limited or no knowledge about the characteristics of good metadata.
+|Knows the characteristics of good metadata, but has difficulties recognizing them.
+|Knows the characteristics of good metadata and how to recognize them. Can produce recommendations on how to improve existing metadata.
+|Knows the characteristics of high-quality metadata and how to produce them.
 
-|D
-|Item
-|Item
-|Item
-|Item
+|D. IPT use: capacity to upload/connect data and map it to existing cores & extensions.
+|Can upload single-file datasets into IPT, but does not succeed to map them to any core.
+|Can only upload single-file datasets into IPT and map to a single type of core with no extensions.
+|Can upload multiple files into an IPT as part of a single dataset and map them correctly to a core and at least one extension. Can use the IPT constant value feature.
+|Can upload multiple files into an IPT as part of a single dataset and map them correctly to a core and multiple extensions. Can use the IPT data translation feature.
+
+|E. IPT use: capacity to use the tool to publish and register datasets.
+|Can view a published dataset and associated metadata on an IPT. Can download a DwC-A file from an IPT. Can navigate a registered dataset from the IPT to the GBIF portal. 
+|Can update an existing, published dataset by uploading a new source file. Can republish the file, error free.
+|Can successfully publish and register a new dataset. Can understand and act upon publishing error messages in IPT.
+|Shows understanding of dataset versioning in IPT.
 |===
