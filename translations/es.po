@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-04-27 15:17+0000\n"
-"PO-Revision-Date: 2021-04-27 15:58\n"
+"POT-Creation-Date: 2021-04-29 15:03+0000\n"
+"PO-Revision-Date: 2021-04-29 15:51\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -253,6 +253,11 @@ msgstr "Los videos están narrados en inglés, los subtítulos están disponible
 msgid "Exercise data"
 msgstr "Datos del ejercicio"
 
+#. type: Plain text
+#: downloads.en.adoc:14
+msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
+msgstr ""
+
 #. type: Title ===
 #: downloads.en.adoc:15
 #, no-wrap
@@ -261,8 +266,8 @@ msgstr "Hojas de ejercicio"
 
 #. type: Plain text
 #: downloads.en.adoc:17
-msgid "This compressed file contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr "Este archivo comprimido contiene las hojas de ejercicio para todos los casos de uso. Las hojas de ejercicios están escritas en inglés y deben completarse en inglés."
+msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
+msgstr ""
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -791,6 +796,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
+#: management.en.adoc:145 publishing.en.adoc:58
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -2169,6 +2175,83 @@ msgstr ""
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
 msgstr ""
 
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: management.en.adoc:153
+msgid "Why is it best to clean your data?"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:160
+#, no-wrap
+msgid "- [x] to make them as fit for use as possible\n"
+"- [x] to achieve your data quality goals\n"
+"- [ ] data should be cleaned by the users, not the providers\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: management.en.adoc:163
+msgid "How should you organize your data cleaning workflow?"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:170
+#, no-wrap
+msgid "- [ ] work alone, you know your data best\n"
+"- [x] ask your colleagues for expertise\n"
+"- [x] work at an institutional level to harmonize data quality workflows\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: management.en.adoc:173
+msgid "Which is best:"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:180
+#, no-wrap
+msgid "- [x] prevent errors from occurring\n"
+"- [x] correct errors as soon as you find them in your database or spreadsheet\n"
+"- [ ] not cleaning errors but documenting them as you go, so people who reuse your data know where they are\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: management.en.adoc:183
+msgid "Whose responsibility is data quality?"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:193
+#, no-wrap
+msgid "- [ ] The person(s) who record data on the field\n"
+"- [ ] The data transcribers\n"
+"- [ ] The database manager\n"
+"- [x] Everyone involved in the management of data\n"
+"- [ ] The people who use your data\n"
+"- [ ] GBIF\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: management.en.adoc:196
+msgid "Which tools can be used to clean your data ?"
+msgstr ""
+
+#. type: delimited block .
+#: management.en.adoc:204
+#, no-wrap
+msgid "- [x] Excel & other spreadsheets management tools\n"
+"- [x] OpenRefine\n"
+"- [x] Your database software\n"
+"- [x] Online tools such as Scientific Names Resolver or Google Maps\n"
+msgstr ""
+
 #. type: Plain text
 #: publishing.en.adoc:6
 msgid "In this module, you will learn about data publishing concepts, including the IPT, cores and extensions, and the importance of licenses, metadata, mandatory fields and hosting of datasets."
@@ -2247,7 +2330,7 @@ msgid "In this exercise, you will publish an occurrence dataset using the IPT."
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:45 assessments-certification.en.adoc:148
+#: publishing.en.adoc:45 assessments-certification.en.adoc:154
 #: use-case-invasive-species.en.adoc:140
 #: use-case-lepidoptera-sampling.en.adoc:151
 #: use-case-birds-from-literature.en.adoc:165
@@ -2273,6 +2356,79 @@ msgstr ""
 #. type: Plain text
 #: publishing.en.adoc:52
 msgid "Use the assigned IPT installation and publish this file."
+msgstr ""
+
+#.  Note the lack of empty lines between the end of the question (....) and the start of the next question
+#.  (. What…) is required, so I have added // comments to help separate them.
+#.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
+#.  Question 1
+#. type: delimited block *
+#: publishing.en.adoc:66
+msgid "What does data publishing mean in the context of GBIF?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:73
+#, no-wrap
+msgid "- [ ] Exporting a csv file of your cleaned data that you can share with your colleagues\n"
+"- [ ] Writing an article describing your data, and the protocol(s) you used to collect, capture and clean them\n"
+"- [x] Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format\n"
+msgstr ""
+
+#.  Question 2
+#. type: Plain text
+#: publishing.en.adoc:76
+msgid "What is an IPT?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:83
+#, no-wrap
+msgid "- [ ] a tool that helps you manage & correct your data\n"
+"- [x] a tool that helps you publish your data to GBIF\n"
+"- [x] a tool that helps you produce a Data paper\n"
+msgstr ""
+
+#.  Question 3
+#. type: Plain text
+#: publishing.en.adoc:86
+msgid "Which Creative Commons licences and waivers are recommended by GBIF for data publication?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:93
+#, no-wrap
+msgid "- [ ] CC-BY, CC-BY-SA and CC-BY-ND\n"
+"- [x] CC0, CC-BY and CC-BY-NC\n"
+"- [ ] CC0, CC-BY and CC-BY-SA\n"
+msgstr ""
+
+#.  Question 4
+#. type: Plain text
+#: publishing.en.adoc:96
+msgid "What are the three Cores from which you can choose for an IPT resource?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:103
+#, no-wrap
+msgid "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
+"- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
+"- [x] Occurrence Core, Taxon Core, Event Core\n"
+msgstr ""
+
+#.  Question 5
+#. type: Plain text
+#: publishing.en.adoc:106
+msgid "How many Extensions files can a dataset have?"
+msgstr ""
+
+#. type: delimited block .
+#: publishing.en.adoc:113
+#, no-wrap
+msgid "- [ ] zero\n"
+"- [ ] one\n"
+"- [x] as many as needed\n"
 msgstr ""
 
 #. type: Title ==
@@ -2302,7 +2458,7 @@ msgstr ""
 
 #. type: Plain text
 #: assessments-certification.en.adoc:19
-msgid "Participants are required to submit Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
+msgid "Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
 msgstr ""
 
 #. type: Plain text
@@ -2325,8 +2481,7 @@ msgid "*Planning*\n"
 msgstr ""
 
 #. type: Table
-#: assessments-certification.en.adoc:61 assessments-certification.en.adoc:102
-#: assessments-certification.en.adoc:143 assessments-certification.en.adoc:184
+#: assessments-certification.en.adoc:61
 #, no-wrap
 msgid "|Skills\n"
 "|Beginning performance\n"
@@ -2337,26 +2492,26 @@ msgid "|Skills\n"
 "3\n"
 "|Outstanding performance\n"
 "4\n\n"
-"|A\n"
-"|Item\n"
-"|Item\n"
-"|Item\n"
-"|Item\n\n"
-"|B\n"
-"|Item\n"
-"|Item\n"
-"|Item\n"
-"|Item\n\n"
-"|C\n"
-"|Item\n"
-"|Item\n"
-"|Item\n"
-"|Item\n\n"
-"|D\n"
-"|Item\n"
-"|Item\n"
-"|Item\n"
-"|Item\n"
+"|A. Knowledge of the different elements that are part of a biodiversity data mobilization plan\n"
+"|Shows understanding of a few roles and tasks required in a solid mobilization plan, but is not able to differentiate who performs each task in the plan or mixes up the roles.\n"
+"|Understands many of the roles and tasks needed in a mobilization plan, but still misses links and interactions between them.\n"
+"|Understands the key tasks and roles needed in a mobilization plan and how they interact.\n"
+"|Can identify additional roles and task that may be needed for specific situations\n\n"
+"|B. Capacity to apply the different elements of a biodiversity data mobilization plan to a given institutional context (e.g. their own)\n"
+"|Can see how a few of the tasks and roles relate to a given institutional context, but has difficulties when the context changes even slightly from the generic references used.\n"
+"|Can see how most of the tasks and roles can be applied to a given institutional context, but still has gaps when the situation is different to the generic references used.\n"
+"|Can identify all relevant tasks and roles and how they can be translated to a given institutional context, even if the situation is not identical to the one in the generic references used.\n"
+"|Can apply the different elements of a mobilization plan creatively, incorporating new elements not found in the generic references used.\n\n"
+"|C. Ability to write/compose a clear planning document\n"
+"|Can gather raw material that would be the basis for a plan (e.g. as bullet points), but has difficulties translating this into a narrative.\n"
+"|Can construct a basic work plan, but lacks coherence between its elements.\n"
+"|Can write a coherent and well articulated document which includes all relevant elements of a work plan.\n"
+"|Can write concise plans, with effective summaries and increasing levels of detail\n\n"
+"|D. Capacity to evaluate a biodiversity data mobilization plan\n"
+"|Can identify a few elements of a generic mobilization plan in a given example, but has difficulties matching them to tasks and roles.\n"
+"|Can identify most elements of a mobilization plan and match them to tasks and roles when they are identical to references used. Has difficulties assessing the feasibility of some elements of the plan.\n"
+"|Can recognize all existing elements in a mobilization plan, and can identify gaps, duplicated efforts, and inconsistencies. Can evaluate the quality of the individual components. Can evaluate potential points of success and weak points of the plan as a whole.\n"
+"|Can suggest solutions to fix issues identified in the plan evaluated.\n"
 msgstr ""
 
 #. type: Title ===
@@ -2373,24 +2528,136 @@ msgstr ""
 msgid "*Data capture*\n"
 msgstr ""
 
+#. type: Table
+#: assessments-certification.en.adoc:96
+#, no-wrap
+msgid "|Skills\n"
+"|Beginning performance\n"
+"1\n"
+"|Developing performance\n"
+"2\n"
+"|Accomplished performance\n"
+"3\n"
+"|Outstanding performance\n"
+"4\n\n"
+"|A. Ability to identify the type of digital data that can be extracted from a source of biodiversity data (i.e. that can be published using the GBIF network)\n"
+"|Can identify only the most evident data types from common sources of biodiversity data (e.g. occurrences from natural history collection specimens).  Shows little understanding of potential for online publishing using GBIF.\n"
+"|Can frequently identify correctly, at least one digital data type that can be extracted of common sources of data. Has difficulty identifying which ones can be currently published using GBIF.\n"
+"|Can always identify one (or more) types of digital data that can be extracted from common sources of data. Can identify which one of those types can be currently published using GBIF. \n"
+"|Can always identify one or more types of digital data that can be extracted from common and uncommon sources of data. Can identify which one of those types can be currently published using GBIF and which ones are under discussion. Can identify data cores and extensions used for publishing those data types.\n\n"
+"|B. Capacity to extract relevant information from a source of biodiversity data into simple data structures (e.g. spreadsheets) that follows international standards\n"
+"|Can only extract large pieces of obvious information (e.g. all geographic information as a single unit) which are evident in the data source. Shows little knowledge of current standards for  recording biodiversity data.\n"
+"|Can retrieve several information items from the data source (but not all) and can disaggregate them into meaningful pieces. Shows some basic knowledge of the most common standards (e.g. DwC) and the most used data fields in those standards.\n"
+"|Can identify all valuable information in a data source, and extract the  mandatory elements in a standard data structure (e.g. a spreadsheet based on Simple DwC). Can identify missing information and infer  from existing information (e.g. derive a country name from a province). \n"
+"|Can identify all valuable information in a complex data source, and divide it into meaningful pieces which then translate directly into international standards. Can identify critical information missing in the source and infer it from the existing data or from additional information about the source (metadata).\n\n"
+"|C. Ability to understand and apply basic principles of data quality to the data capture process\n"
+"|Shows limited understanding of how applying simple data quality principles can have a large impact on the final product, preventing additional required cleaning afterwards.\n"
+"|Knows some of most generic principles of data quality (e.g. avoid misspellings) but shows limited knowledge on how to apply more specific principles to the data capture process.\n"
+"|Knows all the basic principles of data quality and how to apply these in simple ways to the data capture process. Uses formats consistently during the data capture process (e.g. in dates, country names). Documents all procedures and changes connected to data quality in a simple manner.\n"
+"|Shows good knowledge of all common principles of data quality and how to use them to improve the data capture process. Uses data formats consistently and can use gazetteers, reference lists, or software-specific features to improve quality from the original. Documents clearly all changes and decisions taken in connection to data quality.\n"
+msgstr ""
+
 #. type: Title ===
-#: assessments-certification.en.adoc:104
+#: assessments-certification.en.adoc:98
 #, no-wrap
 msgid "Data management rubric"
 msgstr ""
 
 #. type: Plain text
-#: assessments-certification.en.adoc:107 use-case-invasive-species.en.adoc:128
+#: assessments-certification.en.adoc:101 use-case-invasive-species.en.adoc:128
 #: use-case-lepidoptera-sampling.en.adoc:138
 #: use-case-birds-from-literature.en.adoc:140
 #, no-wrap
 msgid "*Data management*\n"
 msgstr ""
 
+#. type: Table
+#: assessments-certification.en.adoc:149
+#, no-wrap
+msgid "|Skills\n"
+"|Beginning performance\n"
+"1\n"
+"|Developing performance\n"
+"2\n"
+"|Accomplished performance\n"
+"3\n"
+"|Outstanding performance\n"
+"4\n\n"
+"|A. Capacity to assess the quality (i.e. identify issues and their types) of a biodiversity dataset.\n"
+"|Only uses visual checks to analyze quality. Cannot differentiate between types of errors. Can detect missing values in required fields and severe data inconsistencies.\n"
+"|Can only use very basic techniques (e.g. sorting) to analyze data quality. Can detect mismatches between field names and content. Can consistently identify technical errors, but only the most typical consistency errors in a dataset.\n"
+"|Can use specific tools and techniques  to assess quality. Recognizes the minimum level of disaggregation/normalization needed for common use and publishing. Can consistently identify technical errors and most of the consistency errors in a dataset.\n"
+"|Uses a systematic approach to dataset analysis covering all major data domains. Can consistently identify both technical and consistency errors in a dataset. Can use other sources of data (e.g. metadata or other datasets) to identify or infer consistency errors in a dataset.\n\n"
+"|B. Capacity to perform data format correction.\n"
+"|Can only make corrections manually in the tables. Shows generic knowledge about use of format types in digital data (e.g. dates, strings, numbers)\n"
+"|Can identify at least one specific tool to automatically correct format errors, but can only use it in specific cases. Otherwise, uses simple mechanisms (e.g. ‘find & replace’) to solve issues.\n"
+"|Can use at least one tool to automatically correct format errors.\n"
+"|Can use advanced features of more than one tool to correct format errors.\n\n"
+"|C. Capacity to perform nomenclatural data correction.\n"
+"|Can only make corrections manually in the tables. Only uses personal knowledge of known taxonomic groups.\n"
+"|Can identify at least one specific tool to automatically correct nomenclatural errors, but can only use it in specific cases. Otherwise, uses simple mechanisms (e.g. ‘find & replace’) to solve issues.\n"
+"|Can use at least one tool to automatically correct nomenclatural errors. Can find and use suitable reference nomenclatural information for the taxonomic groups with which (s)he usually works.\n"
+"|Can use more than one tool to correct nomenclatural errors. Can find and use suitable reference nomenclatural information for taxonomic groups outside of his/her areas of expertise.\n\n"
+"|D. Capacity to perform geographical data correction.\n"
+"|Can only make corrections manually in the tables. Only uses personal knowledge of known geographical areas.\n"
+"|Can identify at least one specific tool to map and/or automatically correct errors in geographical information, but can only use it in specific cases. Otherwise, uses simple mechanisms (e.g. ‘find & replace3’) to solve issues.\n"
+"|Can use at least one tool to map and/or automatically correct errors in geographical information. Can find and use suitable reference geographical information in a suitable format for the areas with which (s)he usually works.\n"
+"|Can use more than one tool to map and/or automatically correct errors in geographical information. Can find and use reference geographical information in a suitable format for areas outside of his/her areas of expertise.\n\n"
+"|E. Capacity to use specific software (e.g. OpenRefine) as tools for data cleaning.\n"
+"|Can identify at least one data cleaning tool. Can identify the main features of a data cleaning tool (e.g. OpenRefine).\n"
+"|Can identify multiple data cleaning tools. Can use one or a few of the basic features of data cleaning software to clean a dataset (e.g. create an OpenRefine project, use faceting, filtering, clustering or reconciling).\n"
+"|Can use all the basic features of a data cleaning software to clean a dataset (e.g. in OpenRefine: faceting, filtering, clustering, reconciling).\n"
+"|Can use the advanced features of one or more data cleaning software packages to clean datasets (e.g. in OpenRefine: use API, regular expressions, Google Refine Expression Language).\n\n"
+"|F. Capacity to document data transformation procedures.\n"
+"|Seldom describes any changes made while curating, formatting, or transforming data.\n"
+"|Describes changes made most of the time. Doesn’t describe changes consistently or fully (e.g. describes the change, but not the author).\n"
+"|Always remembers to describe changes made. Always describes changes consistently, so that all edits of the same type can be easily identified.\n"
+"|Can accurately and consistently describe changes made in a repeatable way.\n"
+msgstr ""
+
 #. type: Title ===
-#: assessments-certification.en.adoc:145
+#: assessments-certification.en.adoc:151
 #, no-wrap
 msgid "Data publishing rubric"
+msgstr ""
+
+#. type: Table
+#: assessments-certification.en.adoc:196
+#, no-wrap
+msgid "|Skills\n"
+"|Beginning performance\n"
+"1\n"
+"|Developing performance\n"
+"2\n"
+"|Accomplished performance\n"
+"3\n"
+"|Outstanding performance\n"
+"4\n\n"
+"|A. Knowledge about biodiversity information (BDI) data standards.\n"
+"|Shows limited or no knowledge about BDI data standards and which of those data standards are accepted by GBIF.\n"
+"|Can identify BDI standards and knows which ones are accepted by GBIF, but does not know where to find information on how to use them. Cannot identify which terms are mandatory.\n"
+"|Knows the BDI standards accepted by GBIF. Can find a list of the accepted data cores and extensions. Publishes datasets according to the required and/or recommended GBIF standards for data and metadata terms and knows how to find the definitions of the terms.\n"
+"|Shows understanding about the characteristics and limitations of the various BDI standards.\n\n"
+"|B. Capacity to analyze the suitability of a biodiversity dataset for publishing through GBIF.\n"
+"|Shows limited or no knowledge of the formal criteria that a dataset needs to meet to be publishable through GBIF.\n"
+"|Knows the formal criteria that a dataset needs to meet to be publishable through GBIF, but cannot assess if a given dataset meets them.\n"
+"|Can correctly assess if a dataset can be currently published through GBIF. Can assign at least one valid data type (=core) to a dataset based on the description provided by the data holder and after having analyzed the dataset.\n"
+"|Can identify more than one publishing option for a dataset (where possible).\n\n"
+"|C. IPT use: capacity to produce/analyze high quality metadata.\n"
+"|Shows limited or no knowledge about the characteristics of good metadata.\n"
+"|Knows the characteristics of good metadata, but has difficulties recognizing them.\n"
+"|Knows the characteristics of good metadata and how to recognize them. Can produce recommendations on how to improve existing metadata.\n"
+"|Knows the characteristics of high-quality metadata and how to produce them.\n\n"
+"|D. IPT use: capacity to upload/connect data and map it to existing cores & extensions.\n"
+"|Can upload single-file datasets into IPT, but does not succeed to map them to any core.\n"
+"|Can only upload single-file datasets into IPT and map to a single type of core with no extensions.\n"
+"|Can upload multiple files into an IPT as part of a single dataset and map them correctly to a core and at least one extension. Can use the IPT constant value feature.\n"
+"|Can upload multiple files into an IPT as part of a single dataset and map them correctly to a core and multiple extensions. Can use the IPT data translation feature.\n\n"
+"|E. IPT use: capacity to use the tool to publish and register datasets.\n"
+"|Can view a published dataset and associated metadata on an IPT. Can download a DwC-A file from an IPT. Can navigate a registered dataset from the IPT to the GBIF portal. \n"
+"|Can update an existing, published dataset by uploading a new source file. Can republish the file, error free.\n"
+"|Can successfully publish and register a new dataset. Can understand and act upon publishing error messages in IPT.\n"
+"|Shows understanding of dataset versioning in IPT.\n"
 msgstr ""
 
 #. type: Title ==
@@ -3611,7 +3878,7 @@ msgid "http://vertnet.org/resources/datalicensingguide.html[VertNet data licensi
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:90 acknowledgements.en.adoc:34
+#: keydocs.en.adoc:90 solutions.en.adoc:243
 #, no-wrap
 msgid "OpenRefine"
 msgstr ""
@@ -4514,16 +4781,256 @@ msgstr ""
 msgid "Data management review solutions"
 msgstr ""
 
+#. type: Plain text
+#: solutions.en.adoc:204
+#, no-wrap
+msgid "*Why is it best to clean your data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:206
+msgid "to make them as fit for use as possible"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:207
+msgid "to achieve your data quality goals"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:210
+msgid "You should always aim to manage and publish data with the highest possible quality.  This will improve your day-to-day work (it is easier to work with organized and clean data), as well as the work of potential re-users of your data, who need to understand them and trust their source before using them."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:212
+#, no-wrap
+msgid "*How should you organize your data cleaning workflow?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:214
+msgid "ask your colleagues for expertise"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:215
+msgid "work at an institutional level to harmonize data quality workflows"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:217
+msgid "Nobody is expected to know everything about biodiversity data; you should seek help and advice from your colleagues or other knowledgeable people, and ensure that you're applying the good practices recommended by your institution as you clean your data."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:219
+#, no-wrap
+msgid "*Which is best:*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:221
+msgid "prevent errors from occurring"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:222
+msgid "correct errors as soon as you find them in your database or spreadsheet"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:224
+msgid "The best way to avoid spreading errors in your data is to prevent them from occurring at the start of the data collecting/recording process."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:226
+msgid "Of course, mistakes are unavoidable so you should also clean them as soon as you find them, and document the cleaning process."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:228
+msgid "If you don't have the time or resources to properly clean your data, it is best to wait before you can do so instead of publishing erroneous data that might confuse people."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:230
+#, no-wrap
+msgid "*Whose responsibility is data quality?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:232
+msgid "Everyone involved in the management of data"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:234
+msgid "Every person involved in your data management workflow is at least partly responsible for their quality, from the field technicians to the database manager(s)."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:236
+msgid "People who might later use your data can inform you of any remaining error in your data, and should use them responsibly for their own research, but the initial data quality is not their responsibility."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:238
+msgid "GBIF can perform automatic checks on your data (e.g. detection of missing values, geographic outliers, unknown scientific names) but should not be held responsible for errors that occurred earlier in the data management process."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:240
+#, no-wrap
+msgid "*Which tools can be used to clean your data?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:242
+msgid "Excel & other spreadsheets management tools"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:244
+msgid "Your database software"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:245
+msgid "Online tools such as Scientific Names Resolver or Google Maps"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:247
+msgid "All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful tools>> listed in the data management section."
+msgstr ""
+
 #. type: Title ===
-#: solutions.en.adoc:203
+#: solutions.en.adoc:248
 #, no-wrap
 msgid "Data publishing review solutions"
 msgstr ""
 
+#. type: Plain text
+#: solutions.en.adoc:251
+#, no-wrap
+msgid "*What does data publishing mean in the context of GBIF?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:253
+msgid "Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:255
+msgid "Data publishing within GBIF means making your biodiversity dataset(s) publicly accessible in a standardized format (most of the time, Darwin Core), so that it can be discovered and reused by other people."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:257
+#, no-wrap
+msgid "*What is an IPT?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:259
+msgid "a tool that helps you publish your data to GBIF"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:260
+msgid "a tool that helps you produce a Data paper"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:263
+msgid "The IPT (Integrated Publishing Toolkit) is a Java-coded software that allows you to upload and publish data to GBIF.  It is not to be used as a data management or data cleaning tool."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:265
+msgid "The IPT can also help you with the process of writing and submitting a data paper, thanks to the EML file it generates automatically when you fill in the metadata for your data resource."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:267
+#, no-wrap
+msgid "*Which Creative Commons licences and waivers are recommended by GBIF for data publication?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:269
+msgid "CC0, CC-BY and CC-BY-NC"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:272
+msgid "The Creative Commons licences and waivers recommended to publish your dataset(s) to GBIF are CC0, CC-BY and CC-BY-NC.  They are widely recognized licenses and/or waivers that align with international open-data requirements for data sharing and re-use."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:274
+msgid "Please note that you should only choose CC0 or CC-BY waiver/license for your BID-related dataset(s)."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:276
+#, no-wrap
+msgid "*What are the three Cores from which you can choose for an IPT resource?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:278
+msgid "Occurrence Core, Taxon Core, Event Core"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:280
+msgid "You can choose one of the three following Cores for each of your IPT resources: Occurrence, Taxon or Event Core."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:282
+msgid "The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:284
+msgid "The metadata are filled in a separate section of the IPT and are shared using the EML standard, not the Darwin Core (which is used for data only)."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:286
+#, no-wrap
+msgid "*How many Extensions files can a dataset have?*\n"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:288
+msgid "as many as needed"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:291
+msgid "Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it.  You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it."
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:293
+msgid "Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core."
+msgstr ""
+
 #. type: Title ===
-#: solutions.en.adoc:205
+#: solutions.en.adoc:294
 #, no-wrap
 msgid "Use Case I suggested solution"
+msgstr ""
+
+#. type: Plain text
+#: solutions.en.adoc:296
+msgid "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested solution^,opts=download] (PDF 144 KB)"
 msgstr ""
 
 #. type: Title ==
@@ -4540,7 +5047,7 @@ msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:8
-msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on capacity enhancement mentoring to read more about these individuals and their contributions."
+msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
 msgstr ""
 
 #. type: Plain text
@@ -4609,7 +5116,7 @@ msgid "John Wieczorek"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:24
+#: acknowledgements.en.adoc:24 acknowledgements.en.adoc:52
 msgid "Paula Zermoglio"
 msgstr ""
 
@@ -4627,53 +5134,162 @@ msgstr ""
 #. type: Title ===
 #: acknowledgements.en.adoc:29
 #, no-wrap
-msgid "Resources"
+msgid "Translators"
 msgstr ""
 
-#. type: Plain text
-#: acknowledgements.en.adoc:32
-msgid "The online tabletop platform is provided by PlayingCards.io. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
+#. type: Title ====
+#: acknowledgements.en.adoc:31
+#, no-wrap
+msgid "French"
 msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:33
-msgid "Icons used in this course are made by Freepik from www.flaticon.com"
+msgid "Maxime Coupremanne"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:34
+msgid "Jaures Gbètoho"
 msgstr ""
 
 #. type: Plain text
 #: acknowledgements.en.adoc:35
-msgid "Integrated Publishing Toolkit"
+msgid "Marie Grosjean"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:36
+msgid "Patricia Mergen"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:37
+msgid "Sophie PAMERLON"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:38
+msgid "Andry Jean Marc Rakotomanjaka"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:39
+msgid "Y. Sabastian Wirsiy"
+msgstr ""
+
+#. type: Title ====
+#: acknowledgements.en.adoc:40
+#, no-wrap
+msgid "Portuguese"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:42
+msgid "Rui Figueira"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:43
+msgid "Clara Baringo Fonseca"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:44
+msgid "Keila Elizabeth Macfadem Juarez"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:45
+msgid "Tainan Messina"
+msgstr ""
+
+#. type: Title ====
+#: acknowledgements.en.adoc:46
+#, no-wrap
+msgid "Spanish"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:48
+msgid "Victor Chocho"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:49
+msgid "Anabela Plos"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:50
+msgid "Miguel Vega Ruiz"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:51
+msgid "Cristina Villaverde"
 msgstr ""
 
 #. type: Title ===
-#: acknowledgements.en.adoc:36
+#: acknowledgements.en.adoc:53
+#, no-wrap
+msgid "Resources"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:56
+msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:57
+msgid "Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:58
+msgid "https://openrefine.org/[OpenRefine^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:59
+msgid "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
+msgstr ""
+
+#. type: Title ===
+#: acknowledgements.en.adoc:60
 #, no-wrap
 msgid "Resource support"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:39
-msgid "Belgium Biodiversity Platform"
+#: acknowledgements.en.adoc:63
+msgid "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:40
-msgid "GBIF France"
+#: acknowledgements.en.adoc:64
+msgid "http://www.gbif.fr/[GBIF France^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:41
-msgid "GBIF Spain"
+#: acknowledgements.en.adoc:65
+msgid "https://www.gbif.es/[GBIF Spain^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:42
-msgid "The Field Museum"
+#: acknowledgements.en.adoc:66
+msgid "https://sibcolombia.net/[SiB Colombia^]"
 msgstr ""
 
 #. type: Plain text
-#: acknowledgements.en.adoc:42
-msgid "VertNet"
+#: acknowledgements.en.adoc:67
+msgid "https://www.fieldmuseum.org/[The Field Museum^]"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:67
+msgid "http://vertnet.org/[VertNet^]"
 msgstr ""
 
 #. type: Title ==
@@ -4734,7 +5350,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:21
-msgid "11th edition, Feb 2021"
+msgid "12th edition, May 2021"
 msgstr ""
 
 #. type: Plain text
