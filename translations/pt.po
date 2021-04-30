@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-04-29 15:51\n"
+"PO-Revision-Date: 2021-04-30 13:10\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -2316,7 +2316,7 @@ msgstr "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/
 #. type: delimited block *
 #: management.en.adoc:153
 msgid "Why is it best to clean your data?"
-msgstr ""
+msgstr "Por que é melhor limpar seus dados?"
 
 #. type: delimited block .
 #: management.en.adoc:160
@@ -2324,13 +2324,15 @@ msgstr ""
 msgid "- [x] to make them as fit for use as possible\n"
 "- [x] to achieve your data quality goals\n"
 "- [ ] data should be cleaned by the users, not the providers\n"
-msgstr ""
+msgstr "- [x] para torná-los o mais adequados para uso possível\n"
+"- [x] para atingir seus objetivos de qualidade de dados\n"
+"- [ ] os dados devem ser limpos pelos utilizadores, não pelos detentores\n"
 
 #.  Question 2
 #. type: Plain text
 #: management.en.adoc:163
 msgid "How should you organize your data cleaning workflow?"
-msgstr ""
+msgstr "Como você deve organizar seu fluxo de trabalho de limpeza de dados?"
 
 #. type: delimited block .
 #: management.en.adoc:170
@@ -2338,13 +2340,15 @@ msgstr ""
 msgid "- [ ] work alone, you know your data best\n"
 "- [x] ask your colleagues for expertise\n"
 "- [x] work at an institutional level to harmonize data quality workflows\n"
-msgstr ""
+msgstr "- [ ] trabalhe sozinho, você conhece seus dados melhor\n"
+"- [x] peça a seus colegas por experiência\n"
+"- [x] trabalhe a nível institucional para harmonizar fluxos de trabalho de qualidade de dados\n"
 
 #.  Question 3
 #. type: Plain text
 #: management.en.adoc:173
 msgid "Which is best:"
-msgstr ""
+msgstr "Qual é melhor:"
 
 #. type: delimited block .
 #: management.en.adoc:180
@@ -2352,13 +2356,15 @@ msgstr ""
 msgid "- [x] prevent errors from occurring\n"
 "- [x] correct errors as soon as you find them in your database or spreadsheet\n"
 "- [ ] not cleaning errors but documenting them as you go, so people who reuse your data know where they are\n"
-msgstr ""
+msgstr "- [x] previnir erros de ocorrer\n"
+"- [x] corrigir os erros assim que você os encontrar em seu banco de dados ou folha de cálculo\n"
+"- [ ] não limpar erros, mas documentá-los durante o processo, para que as pessoas que reutilizam seus dados saibam onde estão\n"
 
 #.  Question 4
 #. type: Plain text
 #: management.en.adoc:183
 msgid "Whose responsibility is data quality?"
-msgstr ""
+msgstr "A responsabilidade da qualidade dos dados é de quem?"
 
 #. type: delimited block .
 #: management.en.adoc:193
@@ -2369,13 +2375,18 @@ msgid "- [ ] The person(s) who record data on the field\n"
 "- [x] Everyone involved in the management of data\n"
 "- [ ] The people who use your data\n"
 "- [ ] GBIF\n"
-msgstr ""
+msgstr "- [ ] Da(s) pessoa(s) que registam os dados no campo\n"
+"- [ ] De quem transcreve os dados\n"
+"- [ ] Do gestor da base de dados\n"
+"- [x] De todos os envolvidos na gestão de dados\n"
+"- [ ] Das pessoas que usam seus dados\n"
+"- [ ] GBIF\n"
 
 #.  Question 5
 #. type: Plain text
 #: management.en.adoc:196
 msgid "Which tools can be used to clean your data ?"
-msgstr ""
+msgstr "Quais ferramentas podem ser utilizadas para limpar seus dados?"
 
 #. type: delimited block .
 #: management.en.adoc:204
@@ -2384,7 +2395,10 @@ msgid "- [x] Excel & other spreadsheets management tools\n"
 "- [x] OpenRefine\n"
 "- [x] Your database software\n"
 "- [x] Online tools such as Scientific Names Resolver or Google Maps\n"
-msgstr ""
+msgstr "- [x] Excel e outras ferramentas de gestão de ficheiros\n"
+"- [x] OpenRefine\n"
+"- [x] Seu software de base de dados\n"
+"- [x] Ferramentas online, como o Scientific Names Resolver ou o Google Maps\n"
 
 #. type: Plain text
 #: publishing.en.adoc:6
