@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-05-02 19:29\n"
+"PO-Revision-Date: 2021-05-02 20:25\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -3421,106 +3421,106 @@ msgstr "Descarregue os registos 1 e 2 link:../exercise-data/UC2-LS-2-ForCapture.
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:132
 msgid "What data structure would you use to reflect the data in these logs?"
-msgstr ""
+msgstr "Que estrutura de dados usaria que seja adequada aos dados nesses registos?"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:133
 msgid "Create a spreadsheet using this structure and the data from the logs."
-msgstr ""
+msgstr "Criar uma tabela usando esta estrutura e os dados dos registos."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:142
 msgid "Taking the role of one of the volunteers with advanced computer skills, imagine you have been assigned the responsibility for data quality issues.  Your main task is to reduce the amount of data that is currently discarded (around a 15%) before processing due to errors and inconsistencies.  You have received a dataset as the raw product of the digitization effort."
-msgstr ""
+msgstr "Assumindo o papel de um dos voluntários com competências informáticas avançadas, imagine que lhe foi atribuída a responsabilidade pelas questões de qualidade dos dados. A sua tarefa principal é reduzir a quantidade de dados que atualmente são descartados (cerca de 15%) antes do processamento devido a erros e inconsistências. Recebeu um conjunto de dados como o produto bruto do esforço de digitalização."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:144
 msgid "Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
-msgstr ""
+msgstr "Link para download:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:146
 msgid "Identify possible ways to correct those issues, and perform those corrections for as many of the errors present as you can."
-msgstr ""
+msgstr "Identifique as formas possíveis de corrigir esses problemas e faça essas correções para o maior número possível de erros."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:155
 msgid "For this exercise, you will take the role of the taxonomic expert collaborating with IBAN at their headquarters.  Some of your previous responsibilities (writing the annual report, and producing the base distribution maps) have been handed over to the volunteers, and you have now been given a new responsibility: publishing the cleaned data online through the GBIF network.  The volunteer in charge of data quality has provided a dataset to be published."
-msgstr ""
+msgstr "Para este exercício, você assumirá o papel do especialista taxonómico colaborando com a sede do IBAN. Algumas das suas responsabilidades anteriores (escrever o relatório anual e produzir os mapas de distribuição base) foram entregues aos voluntários, e agora recebeu uma nova responsabilidade: publicar online os dados limpos através da rede GBIF. O voluntário responsável pela qualidade dos dados forneceu um conjunto de dados para ser publicado."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:157
 msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
-msgstr ""
+msgstr "Link para download:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
 
 #. type: Title ==
 #: use-case-birds-from-literature.en.adoc:3
 #, no-wrap
 msgid "Use Case III - Birds from literature"
-msgstr ""
+msgstr "Caso de Uso III - Aves a partir de literatura"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:8
 msgid "Use Case III will be graded."
-msgstr ""
+msgstr "O Caso de Uso III será classificado."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:11
 #, no-wrap
 msgid "*Data Mobilization Project from Literature “Birds fallen at Danish Lighthouses, 1883–1939”*\n"
-msgstr ""
+msgstr "*Projeto de Mobilização de Dados a partir da Literatura “Aves caídas nos Faróis Dinamarqueses, 1883–1939”*\n"
 
 #. type: Block title
 #: use-case-birds-from-literature.en.adoc:13
 #, no-wrap
 msgid "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG[High resolution scanner] for book digitization project by Heiko Hornig (licensed under https://creativecommons.org/licenses/by-sa/2.5/deed.en[CC BY-SA 2.5])"
-msgstr ""
+msgstr "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG[Scanner de alta resolução] para o projeto de digitalização de livros de Heiko Hornig (licenciado sob https://creativecommons.org/licenses/by-sa/2.5/deed.en[CC BY-SA 2.5])"
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:14
 #, no-wrap
 msgid "img/web/use-case-3-scanner.png"
-msgstr ""
+msgstr "img/web/use-case-3-scanner.png"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:18
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Andrea Hahn, Laura Russell and Sharon Grant.  It is based upon a previous adaptation by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé."
-msgstr ""
+msgstr "Esta narrativa foi desenvolvida como base para os exercícios práticos no curso de mobilização de dados sobre biodiversidade, e o conceito e conteúdo do exercício foi desenvolvido por Alberto Gonzaz-Talavaėn, Andrea Hahn, Laura Russell e Sharon Grant. O exercício baseia-se numa adaptação anterior feita por Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond e Nicolas Noé."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:21
 msgid "It is a fictionalized scenario based on a real project and dataset and is meant only for instructional purposes.  The https://danbif.dk/se-eksempler/fyrfaldne-fugle/[original project] and the https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[original dataset] are attributed to the Danish GBIF Node, https://danbif.dk/[DanBIF]."
-msgstr ""
+msgstr "Trata-se de um cenário fictício baseado num projecto real e num conjunto de dados e destina-se apenas a fins instrutivos. https://danbif.dk/se-eksempler/fyrfaldne-fugle/[projeto original] e https://www. bif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[dataset original] são atribuídos ao nó dinamarquês GBIF, https://danbif.dk/[DanBIF]."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:27
 msgid "The Natural History Museum of Denmark (NHM-DK) is a research centre associated with the University of Copenhagen.  Their library is a member of the national library association who recently received state funding to make available online the resources held by its members.  The NHM-DK would like to begin digitization of the field notebooks, journal publications and books held in their library, some of which have significant historic value."
-msgstr ""
+msgstr "O Museu da História Natural da Dinamarca (NHM-DK) é um centro de investigação associado à Universidade de Copenhaga. A sua biblioteca é um membro da associação de bibliotecas nacionais que recebeu recentemente financiamento estatal para disponibilizar online os recursos mantidos pelos seus membros. O NHM-DK gostaria de começar a digitalização dos cadernos de campo, publicações em revistas científicas e livros detidos na sua biblioteca, alguns dos quais têm um valor histórico significativo."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:31
 msgid "After a short consultation with their regular partners, NHM-DK received a suggestion from the Head of the management office of the Nordjylland National Park.  They would like the contents of a particular classic literature compilation digitized for a project they are running: ‘Birds at the Danish Lighthouses, 1883–1939’ (In Danish, ‘Fuglene ved de danske Fyr, 1883–1939’).  They want to use any occurrence data recorded in those books from two lighthouses (Lodbjerg Fyr and Hanstholm Fyr) for an on-site exhibition project."
-msgstr ""
+msgstr "Após uma breve consulta com os seus parceiros regulares, a NHM-DK recebeu uma sugestão do chefe do gabinete de gestão do Parque Nacional de Nordjylland. Estes gostariam que o conteúdo de uma literatura clássica fosse digitalizado para um projecto em execução: \"Aves nos Faróis Dinamarquesa, 1883-1939\" (Em dinamarquês, “Fuglene ved de danske Fyr, 1883–1939”). Querem usar quaisquer dados de ocorrência registrados nesses livros de dois faróis (Lodbjerg Fyr e Hanstholm Fyr) para um projeto de uma exposição no local."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:35
 msgid "The NHM-DK has started discussions with their national GBIF node, DanBIF, about the mobilization of the information contained in these volumes, namely to preserve their contents for the future and provide online access for everyone.  With the involvement of DanBIF, there is intent to publish and register the resulting extracted data with GBIF.  As GBIF requires a license be applied with all published data, the museum has decided to publish the data with a Creative Commons license allowing use of data with attribution (CC-BY)."
-msgstr ""
+msgstr "O NHM-DK iniciou discussões com o seu nó nacional GBIF, DanBIF, sobre a mobilização das informações contidas nestes volumes, ou seja, preservar seu conteúdo para o futuro e proporcionar acesso online para todos. Com a participação do DanBIF, existe a intenção de publicar e registar os dados extraídos com o GBIF. Uma vez que o GBIF requer que uma licença seja aplicada com todos os dados publicados. o museu decidiu publicar os dados com uma licença Creative Commons que permite o uso de dados com atribuição (CC-BY)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:37
 msgid "The IT services required are provided by the Technology Unit of the University of Copenhagen, as for all museum digital projects."
-msgstr ""
+msgstr "Os serviços de TI necessários são fornecidos pela Unidade Tecnológica da Universidade de Copenhaga, assim como por todos os projectos digitais de museus."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:39
 msgid "The HHM-DK deputy director, who is coordinating this piece of work has developed a general outline for the work:"
-msgstr ""
+msgstr "O director adjunto do HHM-DK, que é quem está coordenar esta tarefa, desenvolveu um esboço geral para o trabalho:"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:42
 msgid "The museum will carry out the digitization of the literature using two library staff members trained in the use of the library scanner to scan delicate volumes.  They will also extract text from the scans through OCR (Optical Character Recognition) software."
-msgstr ""
+msgstr "O museu executará a digitalização da literatura usando dois funcionários da biblioteca treinados no uso do scanner de bibliotecas para digitalizar volumes delicados. Eles também extrairão o texto com software de digitalização através de OCR (Reconhecimento de Caracteres)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:44
