@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-05-02 17:22\n"
+"PO-Revision-Date: 2021-05-02 18:32\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -2521,13 +2521,15 @@ msgstr "O que significa publicação de dados no contexto do GBIF?"
 msgid "- [ ] Exporting a csv file of your cleaned data that you can share with your colleagues\n"
 "- [ ] Writing an article describing your data, and the protocol(s) you used to collect, capture and clean them\n"
 "- [x] Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format\n"
-msgstr ""
+msgstr "- [ ] Significa exportar um ficheiro csv dos seus dados limpos que que podem ser partilhados com os seus colegas\n"
+"- [ ] Escrever um artigo com a descriçãodos seus dados, e o(s) protocolo(s) que usou para obtê-los, capturá-los e limpá-los\n"
+"- [x] Tornar os seus conjuntos de dados de biodiversidade publicamente acessíveis e detectáveis num formato padronizado\n"
 
 #.  Question 2
 #. type: Plain text
 #: publishing.en.adoc:76
 msgid "What is an IPT?"
-msgstr ""
+msgstr "O que é um IPT?"
 
 #. type: delimited block .
 #: publishing.en.adoc:83
@@ -2535,13 +2537,15 @@ msgstr ""
 msgid "- [ ] a tool that helps you manage & correct your data\n"
 "- [x] a tool that helps you publish your data to GBIF\n"
 "- [x] a tool that helps you produce a Data paper\n"
-msgstr ""
+msgstr "- [ ] uma ferramenta que o ajuda a gerir e corrigir os seus dados\n"
+"- [x] uma ferramenta que o ajuda a publicar os seus dados através do GBIF\n"
+"- [x] uma ferramenta que o ajuda a produzir um Artigo de Dados\n"
 
 #.  Question 3
 #. type: Plain text
 #: publishing.en.adoc:86
 msgid "Which Creative Commons licences and waivers are recommended by GBIF for data publication?"
-msgstr ""
+msgstr "Quais as licenças e dispensas Creative Commons recomendadas pelo GBIF para a publicação de dados?"
 
 #. type: delimited block .
 #: publishing.en.adoc:93
@@ -2549,13 +2553,15 @@ msgstr ""
 msgid "- [ ] CC-BY, CC-BY-SA and CC-BY-ND\n"
 "- [x] CC0, CC-BY and CC-BY-NC\n"
 "- [ ] CC0, CC-BY and CC-BY-SA\n"
-msgstr ""
+msgstr "- [ ] CC-BY, CC-BY-SA e CC-BY-ND\n"
+"- [x] CC0, CC-BY e CC-BY-NC\n"
+"- [ ] CC0, CC-BY e CC-BY-SA\n"
 
 #.  Question 4
 #. type: Plain text
 #: publishing.en.adoc:96
 msgid "What are the three Cores from which you can choose for an IPT resource?"
-msgstr ""
+msgstr "Quais são os três Núcleos (Cores) que pode escolher para um recurso IPT?"
 
 #. type: delimited block .
 #: publishing.en.adoc:103
@@ -2563,13 +2569,15 @@ msgstr ""
 msgid "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
 "- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
 "- [x] Occurrence Core, Taxon Core, Event Core\n"
-msgstr ""
+msgstr "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
+"- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
+"- [x] Occurrence Core, Taxon Core, Event Core\n"
 
 #.  Question 5
 #. type: Plain text
 #: publishing.en.adoc:106
 msgid "How many Extensions files can a dataset have?"
-msgstr ""
+msgstr "Quantas ficheiros de Extensão pode um conjunto de dados ter?"
 
 #. type: delimited block .
 #: publishing.en.adoc:113
@@ -2577,7 +2585,9 @@ msgstr ""
 msgid "- [ ] zero\n"
 "- [ ] one\n"
 "- [x] as many as needed\n"
-msgstr ""
+msgstr "- [ ] zero\n"
+"- [ ] um\n"
+"- [x] tantos quanto necessário\n"
 
 #. type: Title ==
 #: assessments-certification.en.adoc:3
@@ -2663,7 +2673,35 @@ msgid "|Skills\n"
 "|Can identify most elements of a mobilization plan and match them to tasks and roles when they are identical to references used. Has difficulties assessing the feasibility of some elements of the plan.\n"
 "|Can recognize all existing elements in a mobilization plan, and can identify gaps, duplicated efforts, and inconsistencies. Can evaluate the quality of the individual components. Can evaluate potential points of success and weak points of the plan as a whole.\n"
 "|Can suggest solutions to fix issues identified in the plan evaluated.\n"
-msgstr ""
+msgstr "Aptidões\n"
+"| Desempenho iniciado\n"
+"1\n"
+"Desempenho em desenvolvimento\n"
+"2\n"
+"| Desempenho pleno\n"
+"3\n"
+"| Desempenho de excelência\n"
+"4\n\n"
+"| A. Conhecimento sobre os diferentes elementos que fazem parte de um plano de mobilização de dados de biodiversidade\n"
+"| Mostra compreensão sobre algumas funções e tarefas exigidas num plano de mobilização sólido, mas não é capaz de diferenciar quem executa cada tarefa no plano ou confunde as funções.\n"
+"| Compreende muitas das funções e tarefas necessárias num plano de mobilização, mas ainda perde as ligações e as interações entre elas.\n"
+"| Compreende as principais tarefas e funções necessárias num plano de mobilização e como elas interagem.\n"
+"| Pode identificar funções e tarefas adicionais que podem ser necessárias para situações específicas\n\n"
+"| B. Capacidade de aplicar os diferentes elementos dum plano de mobilização de dados de biodiversidade a um determinado contexto institucional (por exemplo, o seu próprio)\n"
+"| Pode ver como algumas das tarefas e papéis se relacionam com um determinado contexto institucional, mas tem dificuldades quando o contexto muda, mesmo que ligeiramente, em relação às referências genéricas usadas.\n"
+"| Pode ver como a maioria das tarefas e funções podem ser aplicadas a um determinado contexto institucional, mas ainda tem lacunas quando a situação é diferente das referências genéricas usadas.\n"
+"| É capaz de identificar todas as tarefas e funções relevantes e como podem ser traduzidas para um determinado contexto institucional, mesmo que a situação não seja idêntica à das referências genéricas utilizadas.\n"
+"| Pode aplicar os diferentes elementos de um plano de mobilização de forma criativa, incorporando novos elementos não encontrados nas referências genéricas utilizadas.\n\n"
+"| C. Capacidade de escrever / redigir um documento de planeamento claro\n"
+"| Consegue reunir matéria-prima que seria a base de um plano (por exemplo, como itens), mas tem dificuldade em traduzir isso numa narrativa.\n"
+"| Consegue construir um plano básico de trabalho, mas carece de coerência entre os seus elementos.\n"
+"| Consegue escrever um documento coerente e bem articulado que inclua todos os elementos relevantes dum plano de trabalho.\n"
+"| Consegue escrever planos concisos, com resumos eficazes e níveis crescentes de detalhe\n\n"
+"| D. Capacidade para avaliar um plano de mobilização de dados de biodiversidade\n"
+"| Pode identificar alguns elementos dum plano de mobilização genérico num determinado exemplo, mas tem dificuldade em combiná-los com as tarefas e funções.\n"
+"| Pode identificar a maioria dos elementos de um plano de mobilização e combiná-los com tarefas e funções quando eles são idênticos às referências usadas. Tem dificuldade em avaliar a viabilidade de alguns elementos do plano.\n"
+"| Pode reconhecer todos os elementos existentes num plano de mobilização e pode identificar lacunas, esforços duplicados e inconsistências. Pode avaliar a qualidade dos componentes individuais. Pode avaliar os pontos potenciais de sucesso e os pontos fracos do plano como um todo.\n"
+"| Pode sugerir soluções para corrigir problemas identificados no plano avaliado.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:63
@@ -2706,7 +2744,30 @@ msgid "|Skills\n"
 "|Knows some of most generic principles of data quality (e.g. avoid misspellings) but shows limited knowledge on how to apply more specific principles to the data capture process.\n"
 "|Knows all the basic principles of data quality and how to apply these in simple ways to the data capture process. Uses formats consistently during the data capture process (e.g. in dates, country names). Documents all procedures and changes connected to data quality in a simple manner.\n"
 "|Shows good knowledge of all common principles of data quality and how to use them to improve the data capture process. Uses data formats consistently and can use gazetteers, reference lists, or software-specific features to improve quality from the original. Documents clearly all changes and decisions taken in connection to data quality.\n"
-msgstr ""
+msgstr "Aptidões\n"
+"| Desempenho iniciado\n"
+"1\n"
+"Desempenho em desenvolvimento\n"
+"2\n"
+"| Desempenho pleno\n"
+"3\n"
+"| Desempenho de excelência\n"
+"4\n\n"
+"| A. Capacidade de identificar o tipo de dados digitais que podem ser extraídos de uma fonte de dados de biodiversidade (ou seja, que podem ser publicados usando a rede GBIF)\n"
+"| Pode identificar apenas os tipos de dados mais evidentes de fontes comuns de dados de biodiversidade (por exemplo, ocorrências de espécimes de coleção de história natural). Mostra pouca compreensão do potencial de publicação online usando o GBIF.\n"
+"| Frequentemente, pode identificar corretamente, pelo menos um tipo de dados digital que pode ser extraído de fontes de dados comuns. Tem dificuldade em identificar quais podem ser publicados atualmente usando o GBIF.\n"
+"| Consegue sempre identificar um (ou mais) tipos de dados digitais que podem ser extraídos de fontes de dados comuns. Pode identificar qual desses tipos pode ser publicado atualmente usando o GBIF.\n"
+"| Consegue sempre identificar um ou mais tipos de dados digitais que podem ser extraídos de fontes de dados comuns e incomuns. Pode identificar qual desses tipos pode ser publicado atualmente usando o GBIF e quais estão em avaliação. Pode identificar núcleos e extensões de dados usados ​​para publicar esses tipos de dados.\n\n"
+"| B. Capacidade de extrair informações relevantes de uma fonte de dados de biodiversidade em estruturas de dados simples (por exemplo, folhas de cálculo) que seguem os padrões internacionais\n"
+"| Só pode extrair grandes blocos de informações óbvias (por exemplo, todas as informações geográficas como uma única unidade) que são evidentes na fonte de dados. Mostra pouco conhecimento dos padrões atuais para registro de dados de biodiversidade.\n"
+"| Pode recuperar vários itens de informação da fonte de dados (mas não todos) e pode desagregá-los em partes significativas. Mostra algum conhecimento básico dos padrões mais comuns (por exemplo, DwC) e os campos de dados mais usados ​​nesses padrões.\n"
+"| Pode identificar todas as informações valiosas numa fonte de dados e extrair os elementos obrigatórios numa estrutura de dados padrão (por exemplo, uma tabela baseada em DwC Simples). Pode identificar informações ausentes e inferir a partir de informações existentes (por exemplo, derivar o nome de um país a partir de uma província).\n"
+"| Pode identificar todas as informações valiosas em uma fonte de dados complexa e dividi-las em partes significativas que se traduzem diretamente em padrões internacionais. Pode identificar informações críticas ausentes na fonte e inferir a partir dos dados existentes ou de informações adicionais sobre a fonte (metadados).\n\n"
+"| C. Capacidade de compreender e aplicar princípios básicos de qualidade de dados ao processo de captura de dados\n"
+"| Mostra uma compreensão limitada de como a aplicação de princípios simples de qualidade de dados pode ter um grande impacto no produto final, evitando a posterior necessidade de limpeza adicional.\n"
+"| Conhece alguns dos princípios mais genéricos de qualidade de dados (por exemplo, evitar erros de ortografia), mas mostra conhecimento limitado sobre como aplicar princípios mais específicos ao processo de captura de dados.\n"
+"| Conhece todos os princípios básicos da qualidade de dados e como aplicá-los de maneiras simples ao processo de captura de dados. Usa formatos de forma consistente durante o processo de captura de dados (por exemplo, em datas, nomes de países). Documenta todos os procedimentos e alterações relacionadas à qualidade dos dados de maneira simples.\n"
+"| Mostra bom conhecimento de todos os princípios comuns de qualidade de dados e como usá-los para melhorar o processo de captura de dados. Usa formatos de dados de forma consistente e pode usar dicionários geográficos, listas de referência ou recursos específicos de software para melhorar a qualidade do original. Documenta claramente todas as mudanças e decisões tomadas em relação à qualidade dos dados.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:98
@@ -2764,7 +2825,45 @@ msgid "|Skills\n"
 "|Describes changes made most of the time. Doesn’t describe changes consistently or fully (e.g. describes the change, but not the author).\n"
 "|Always remembers to describe changes made. Always describes changes consistently, so that all edits of the same type can be easily identified.\n"
 "|Can accurately and consistently describe changes made in a repeatable way.\n"
-msgstr ""
+msgstr "Aptidões\n"
+"| Desempenho iniciado\n"
+"1\n"
+"Desempenho em desenvolvimento\n"
+"2\n"
+"| Desempenho pleno\n"
+"3\n"
+"| Desempenho de excelência\n"
+"4\n\n"
+"| A. Capacidade de avaliar a qualidade (ou seja, identificar problemas e os seus tipos) de um conjunto de dados de biodiversidade.\n"
+"| Só usa verificações visuais para analisar a qualidade. Não consegue diferenciar entre os tipos de erros. Pode detectar valores ausentes em campos obrigatórios e inconsistências de dados graves.\n"
+"| Só consegue usar técnicas muito básicas (por exemplo, classificação) para analisar a qualidade dos dados. Pode detectar incompatibilidades entre nomes de campo e conteúdo. Pode identificar erros técnicos de forma consistente, mas apenas os erros de consistência mais comuns num conjunto de dados.\n"
+"| Consegue ferramentas e técnicas específicas para avaliar a qualidade. Reconhece o nível mínimo de desagregação / normalização necessário para uso comum e publicação. Consegue identificar consistentemente erros técnicos e a maioria dos erros de consistência num conjunto de dados.\n"
+"| Usa uma abordagem sistemática para análise de conjunto de dados cobrindo todos os principais domínios de dados. Consegue identificar consistentemente erros técnicos e de consistência num conjunto de dados. Consegue usar outras fontes de dados (por exemplo, metadados ou outros conjuntos de dados) para identificar ou inferir erros de consistência num conjunto de dados.\n\n"
+"| B. Capacidade de realizar correção de formato de dados.\n"
+"| Só consegue fazer correções manualmente nas tabelas. Mostra conhecimento genérico sobre o uso de tipos de formato em dados digitais (por exemplo, datas, texto, números)\n"
+"| Pode identificar pelo menos uma ferramenta específica para corrigir automaticamente os erros de formato, mas só consegue usá-la em casos específicos. Caso contrário, usa mecanismos simples (por exemplo, ‘localizar e substituir’) para resolver problemas.\n"
+"| Consegue usar pelo menos uma ferramenta para corrigir automaticamente os erros de formato.\n"
+"| Consegue usar recursos avançados de mais de uma ferramenta para corrigir erros de formato.\n\n"
+"| C. Capacidade de realizar correção de dados nomenclaturais.\n"
+"| Só consegue fazer correções manualmente nas tabelas. Só usa conhecimento pessoal de grupos taxonómicos conhecidos.\n"
+"| Consegue identificar pelo menos uma ferramenta específica para corrigir automaticamente erros nomenclaturais, mas só consegue usá-la em casos específicos. Caso contrário, usa mecanismos simples (por exemplo, ‘localizar e substituir’) para resolver problemas.\n"
+"| Consegue usar pelo menos uma ferramenta para corrigir automaticamente os erros nomenclaturais. É capaz de encontrar e usar informações nomenclaturais de referência adequadas para os grupos taxonómicos com os quais costuma trabalhar.\n"
+"| Consegue usar mais de uma ferramenta para corrigir erros nomenclaturais. É capaz de encontrar e usar informações nomenclaturais de referência adequadas para grupos taxonómicos fora de suas áreas de especialização.\n\n"
+"| D. Capacidade de realizar correção de dados geográficos.\n"
+"| Só consegue fazer correções manualmente nas tabelas. Só usa conhecimento pessoal de áreas geográficas conhecidas.\n"
+"| Consegue identificar pelo menos uma ferramenta específica para mapear e / ou corrigir automaticamente erros nas informações geográficas, mas só consegue usá-la em casos específicos. Caso contrário, usa mecanismos simples (por exemplo, ‘localizar e substituir’) para resolver problemas.\n"
+"| Consegue usar pelo menos uma ferramenta para mapear e / ou corrigir automaticamente erros nas informações geográficas. É capaz de encontrar e usar informações geográficas de referência adequadas num formato adequado para as áreas com as quais trabalha normalmente.\n"
+"| Consegue usar mais de uma ferramenta para mapear e / ou corrigir automaticamente os erros nas informações geográficas. É capaz de encontrar e usar informações geográficas de referência num formato adequado para áreas fora de sua área de especialização.\n\n"
+"| E. Capacidade de usar softwares específicos (por exemplo, OpenRefine) como ferramentas para limpeza de dados.\n"
+"| Consegue identificar pelo menos uma ferramenta de limpeza de dados. Pode identificar os principais recursos de uma ferramenta de limpeza de dados (por exemplo, OpenRefine).\n"
+"| Consegue identificar várias ferramentas de limpeza de dados. Pode usar um ou alguns dos recursos básicos do software de limpeza de dados para limpar um conjunto de dados (por exemplo, criar um projeto OpenRefine, usar facetas, filtragem, agrupamento ou reconciliação).\n"
+"| Consegue usar todos os recursos básicos de um software de limpeza de dados para limpar um conjunto de dados (por exemplo, em OpenRefine: facetas, filtragem, agrupamento, reconciliação).\n"
+"| Consegue usar os recursos avançados de um ou mais pacotes de software de limpeza de dados para limpar conjuntos de dados (por exemplo, em OpenRefine: usar API, expressões regulares, Google Refine Expression Language).\n\n"
+"| F. Capacidade de documentar procedimentos de transformação de dados.\n"
+"| Raramente descreve as alterações feitas durante a curadoria, formatação ou transformação de dados.\n"
+"| Descreve as alterações feitas na maioria das vezes. Não descreve as mudanças de forma consistente ou completa (por exemplo, descreve a mudança, mas não o autor).\n"
+"| Lembra-se sempre de descrever as alterações feitas. Descreve sempre as alterações de forma consistente, para que todas as edições do mesmo tipo possam ser facilmente identificadas.\n"
+"| Pode descrever com precisão e consistência as alterações feitas de forma repetível.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:151
@@ -2809,7 +2908,40 @@ msgid "|Skills\n"
 "|Can update an existing, published dataset by uploading a new source file. Can republish the file, error free.\n"
 "|Can successfully publish and register a new dataset. Can understand and act upon publishing error messages in IPT.\n"
 "|Shows understanding of dataset versioning in IPT.\n"
-msgstr ""
+msgstr "Aptidões\n"
+"| Desempenho iniciado\n"
+"1\n"
+"Desempenho em desenvolvimento\n"
+"2\n"
+"| Desempenho pleno\n"
+"3\n"
+"| Desempenho de excelência\n"
+"4\n\n"
+"| A. Conhecimento sobre padrões de dados de informações sobre biodiversidade (BDI).\n"
+"| Mostra conhecimento limitado ou nenhum conhecimento sobre os padrões de dados BDI e quais desses padrões de dados são aceitos pelo GBIF.\n"
+"| Consegue identificar padrões BDI e sabe quais são aceitos pelo GBIF, mas não sabe onde localizar informações sobre como usá-los. Não consegue identificar quais os termos que são obrigatórios.\n"
+"| Conhece os padrões BDI aceitos pelo GBIF. Consegue encontrar uma lista de extensões e núcleos de dados aceitos. Publica conjuntos de dados de acordo com os padrões GBIF exigidos e / ou recomendados para termos de dados e metadados e sabe como encontrar as definições dos termos.\n"
+"| Mostra compreensão sobre as características e limitações dos vários padrões de BDI.\n\n"
+"| B. Capacidade de analisar a adequação de um conjunto de dados de biodiversidade para publicação através do GBIF.\n"
+"| Mostra conhecimento limitado ou nenhum conhecimento dos critérios formais que um conjunto de dados precisa cumprir para ser publicável através do GBIF.\n"
+"| Conhece os critérios formais que um conjunto de dados precisa cumprir para ser publicável através do GBIF, mas não consegue avaliar se um determinado conjunto de dados os cumpre.\n"
+"| Consegue avaliar corretamente se um conjunto de dados pode ser publicado atualmente através do GBIF. Consegue atribuir pelo menos um tipo de dados válido (= núcleo) a um conjunto de dados com base na descrição fornecida pelo detentor dis dados e após ter analisado o conjunto de dados.\n"
+"| Consegue identificar mais de uma opção de publicação para um conjunto de dados (quando possível).\n\n"
+"| C. Uso do IPT: capacidade de produzir / analisar metadados de alta qualidade.\n"
+"| Mostra conhecimento limitado ou nenhum conhecimento sobre as características de bons metadados.\n"
+"| Conhece as características de bons metadados, mas tem dificuldade em reconhecê-los.\n"
+"| Conhece as características de bons metadados e como reconhecê-los. Pode produzir recomendações sobre como melhorar os metadados existentes.\n"
+"| Conhece as características dos metadados de alta qualidade e como produzi-los.\n\n"
+"| D. Uso de IPT: capacidade de carregar / associar dados e mapeá-los para núcleos e extensões existentes.\n"
+"| Consegue carregar conjuntos de dados com um único ficheiro no IPT, mas não consegue mapeá-los para nenhum núcleo.\n"
+"| Só consegue carregar conjuntos de dados com um único ficheiro no IPT e mapear para um único tipo de núcleo sem extensões.\n"
+"| Consegue carregar vários arquivos num IPT como parte de um único conjunto de dados e mapeá-los corretamente para um núcleo e pelo menos uma extensão. Consegue usar o recurso de valor constante do IPT.\n"
+"| Consegue carregar vários arquivos num IPT como parte de um único conjunto de dados e mapeá-los corretamente para um núcleo e várias extensões. Consegue usar o recurso de tradução de dados do IPT.\n\n"
+"| E. Uso do IPT: capacidade de usar a ferramenta para publicar e registrar conjuntos de dados.\n"
+"| Consegue visualizar um conjunto de dados publicado e metadados associados em um IPT. Consegue descarregar um ficheiro DwC-A de um IPT. Consegue navegar de um conjunto de dados registrado no IPT para o portal GBIF.\n"
+"| Consegue atualizar um conjunto de dados publicado existente carregando um novo arquivo de origem. Consegue republicar o arquivo, sem erros.\n"
+"| Consegue publicar e registrar com êxito um novo conjunto de dados. É capaz de compreender e agir na publicação de mensagens de erro no IPT.\n"
+"| Mostra compreensão do controle de versão do conjunto de dados no IPT.\n"
 
 #. type: Title ==
 #: use-case-invasive-species.en.adoc:3
@@ -2998,26 +3130,26 @@ msgstr "Contratar  uma empresa de software para construir uma base de dados faç
 #: use-case-invasive-species.en.adoc:89
 #: use-case-lepidoptera-sampling.en.adoc:101
 msgid "Fund four public outreach activities (e.g., a BioBlitz) to promote awareness in the communities and increase volunteer participation."
-msgstr ""
+msgstr "Financie quatro atividades de divulgação (por exemplo, um BioBlitz) para promover a sensibilização nas comunidades e aumentar a participação voluntária."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:90
 #: use-case-lepidoptera-sampling.en.adoc:102
 msgid "Prepare and carry out a reusable training a course for the teachers at the schools to teach them how to prepare data for submission to BIISC."
-msgstr ""
+msgstr "Prepare e realize uma formação reutilizável para que os professores das escolas ensinem a preparar os dados para submissão ao BIISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:94
 #: use-case-lepidoptera-sampling.en.adoc:106
 #, no-wrap
 msgid "*Assign roles*\n"
-msgstr ""
+msgstr "*Atribuir funções*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:96
 #: use-case-lepidoptera-sampling.en.adoc:108
 msgid "The new project has the following people available for data processing and mobilization."
-msgstr ""
+msgstr "O novo projeto tem as seguintes pessoas disponíveis para processamento e mobilização de dados."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:98
