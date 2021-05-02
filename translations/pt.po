@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-05-02 20:25\n"
+"PO-Revision-Date: 2021-05-02 21:35\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -343,7 +343,7 @@ msgstr "Abaixo encontrará uma leitura selecionada do guia do Arthur Chapman: �
 #. type: delimited block _
 #: foundations.en.adoc:49
 msgid "Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described.  These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data."
-msgstr "Antes que uma discussão detalhada sobre a qualidade dos dados e a sua aplicação a dados de ocorrência de espécies possa ser iniciada, há vários conceitos que precisam ser definidos e descritos. Estes, incluem o termo \"qualidade de dados\" em si, os termos \"precisão\" e \"acurácia\", que são comumente mal aplicados, e o que queremos dizer com dados de espécies primárias e dados de ocorrência de espécies."
+msgstr "Antes que uma discussão detalhada sobre a qualidade dos dados e a sua aplicação a dados de ocorrência de espécies possa ser iniciada, há vários conceitos que precisam ser definidos e descritos. Estes, incluem o próprio termo \"qualidade de dados\", os termos \"exatidão\" e \"precisão\", que são comumente mal aplicados, e o que queremos dizer com dados de espécies primárias e dados de ocorrência de espécies."
 
 #. type: delimited block _
 #: foundations.en.adoc:51
@@ -376,27 +376,27 @@ msgstr "\"Dados de espécies primárias\" é usado para descrever dados e dados 
 #: foundations.en.adoc:65
 #, no-wrap
 msgid "*Accuracy and Precision*\n"
-msgstr "*Acurácia e precisão*\n"
+msgstr "*Exatidão e precisão*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:67
 msgid "Accuracy and precision are regularly confused and the differences are not generally understood."
-msgstr "A acurácia e a precisão são regularmente confundidas e as diferenças não são geralmente compreendidas."
+msgstr "A exatidão e a precisão são regularmente confundidas e as diferenças não são geralmente compreendidas."
 
 #. type: delimited block _
 #: foundations.en.adoc:69
 msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
-msgstr "A acurácia refere-se à proximidade de valores medidos, observações ou estimativas para o valor real ou verdadeiro (ou para um valor que é aceito como sendo verdadeiro – por exemplo, as coordenadas de um ponto de controle da pesquisa)."
+msgstr "A exatidão refere-se à proximidade de valores medidos, observações ou estimativas para o valor real ou verdadeiro (ou para um valor que é aceito como sendo verdadeiro – por exemplo, as coordenadas de um ponto de controle da pesquisa)."
 
 #. type: delimited block _
 #: foundations.en.adoc:76
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
-msgstr "A precisão (ou Resolução) pode ser dividida em dois tipos principais. A precisão estatística é a proximidade com que repetidas observações se relacionam a si mesmas. Eles não têm nada a ver com a sua relação com o verdadeiro valor e podem ter uma grande precisão, mas uma baixa acurácia. Precisão numérica é o número de algarismos significativos em que uma observação é registada e tornou-se muito mais evidente com o advento dos computadores. Por exemplo, uma base de dados pode produzir um registro decimal de latitude/longitude em 10 casas decimais – i.e. ca. 1 mm quando na realidade, o registo tem uma resolução não superior a 10-100 m (3-4 casas decimais). Isto conduz frequentemente a uma falsa impressão tanto da precisão como da acurácia."
+msgstr "A precisão (ou Resolução) pode ser dividida em dois tipos principais. A precisão estatística é a proximidade com que repetidas observações se relacionam a si mesmas. Eles não têm nada a ver com a sua relação com o verdadeiro valor e podem ter uma grande precisão, mas uma baixa exatidão. Precisão numérica é o número de algarismos significativos em que uma observação é registada e tornou-se muito mais evidente com o advento dos computadores. Por exemplo, uma base de dados pode produzir um registro decimal de latitude/longitude em 10 casas decimais – i.e. ca. 1 mm quando na realidade, o registo tem uma resolução não superior a 10-100 m (3-4 casas decimais). Isto conduz frequentemente a uma falsa impressão tanto da precisão como da exatidão."
 
 #. type: delimited block _
 #: foundations.en.adoc:79
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
-msgstr "Estes termos – precisão e acurácia – também podem ser aplicados aos dados não espaciais, bem como aos dados espaciais. Por exemplo, uma coleção pode ter uma identificação para o nível de subespécie (i.e. tem alta precisão), mas seja o táxon errado (ou seja, tenha baixa acurácia), ou ser identificado apenas para o nível de Família (alta acurácia, mas baixa precisão)."
+msgstr "Estes termos – exatidão e precisão – também podem ser aplicados aos dados não espaciais, bem como aos dados espaciais. Por exemplo, uma coleção pode ter uma identificação para o nível de subespécie (i.e. tem alta precisão), mas seja o táxon errado (ou seja, tenha baixa exatidão), ou ser identificado apenas para o nível de Família (alta exatidão, mas baixa precisão)."
 
 #. type: delimited block _
 #: foundations.en.adoc:81
@@ -460,7 +460,7 @@ msgstr "*Erro*\n"
 #. type: delimited block _
 #: foundations.en.adoc:118
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
-msgstr "Erro engloba tanto a imprecisão dos dados quanto sua acurácia. Há muitos fatores que contribuem para o erro. O erro é geralmente visto como aleatório ou sistemático. Um erro aleatório tende a se referir ao desvio do verdadeiro estado de forma aleatória. O erro sistemático ou o viés advém de uma mudança uniforme nos valores e, por vezes, é descrito como tendo uma \"acurácia relativa\" no mundo cartográfico (Chrisman 1991). Ao determinar \"aptidão para o uso\", o erro sistemático pode ser aceitável para algumas aplicações, e inaptas para outras."
+msgstr "Erro engloba tanto a imprecisão dos dados quanto sua inexatidão. Há muitos fatores que contribuem para o erro. O erro é geralmente visto como aleatório ou sistemático. Um erro aleatório tende a se referir ao desvio do verdadeiro estado de forma aleatória. O erro sistemático ou enviezamento advém de uma mudança uniforme nos valores e, por vezes, é descrito como tendo uma \"exatidão relativa\" no mundo cartográfico (Chrisman 1991). Ao determinar \"aptidão para o uso\", o erro sistemático pode ser aceitável para algumas aplicações, e inaptas para outras."
 
 #. type: delimited block _
 #: foundations.en.adoc:121
@@ -1021,13 +1021,13 @@ msgid "* High accuracy, low precision +\n"
 "  __D__\n"
 "* Low accuracy, low precision +\n"
 "  __A__\n"
-msgstr "* Alta acurácia, baixa precisão +\n"
+msgstr "* Alta exatidão, baixa precisão +\n"
 "  __C__\n"
-"* Baixa acurácia, alta precisão +\n"
+"* Baixa exatidão, alta precisão +\n"
 "  __B__\n"
-"* Alta acurácia, alta precisão +\n"
+"* Alta exatidão, alta precisão +\n"
 "  __D__\n"
-"* Baixa acurácia, baixa precisão +\n"
+"* Baixa exatidão, baixa precisão +\n"
 "  __A__\n"
 
 #.  Question 10
@@ -2242,8 +2242,8 @@ msgstr "*Padrões de amostragem*: \n"
 #, no-wrap
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
-msgstr "*Acurácia e precisão*: \n"
-"Por exemplo, quaisquer registos geo-referenciados indicando uma precisão ou acurácia muito alta de um período de colheita pré-GPS (ou pré-acurácia do GPS)?\n"
+msgstr "*Exatidão e precisão*: \n"
+"Por exemplo, quaisquer registos geo-referenciados indicando uma precisão ou exatidão muito alta de um período de colheita pré-GPS (ou pré-acurácia do GPS)?\n"
 
 #. type: Plain text
 #: management.en.adoc:129
@@ -3525,62 +3525,62 @@ msgstr "O museu executará a digitalização da literatura usando dois funcioná
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:44
 msgid "Three volunteers from the Copenhagen Ornithological Society (COS) who regularly collaborate with the museum and are familiar with the birds of the region have been enlisted to assist and will complete the transfer of data from the scanned PDFs into spreadsheet format.  They will need to go to the museum and use the computers available in the library to gain access to the files stored in the museum intranet (private network)."
-msgstr ""
+msgstr "Três voluntários da Sociedade Ornitológica de Copenhaga (COS) que colaboram regularmente com o museu e estão familiarizados com as aves da região foram associados para ajudar e completarão a transferência de dados dos PDFs digitalizados para formato de folha de cálculo. Eles terão de ir ao museu e usar os computadores disponíveis na biblioteca para ter acesso aos arquivos armazenados na intranet do museu (rede privada)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:48
 msgid "The Ornithology Curator in the Bird Department will lead the team responsible for taxonomic checking, data curation, cleaning, format and transformation, and will oversee the entry of metadata for the published dataset.  The team includes a collaborating researcher from Sweden, and two postdoctoral students.  They have been selected for this task because they are used to working with digital biodiversity data.  They will all use their own work computers."
-msgstr ""
+msgstr "O Curador de Ornitologia no Departamento de Aves irá liderar a equipa responsável pela verificação taxonómica, curadoria de dados, limpeza, formato e transformação e irá supervisionar a entrada de metadados para o conjunto de dados publicado. Essa equipa inclui um investigador colaborativo da Suécia e dois alunos do pós-doutoramento. Foram seleccionados para esta tarefa porque estão habituados a trabalhar com os dados digitais de biodiversidade. Todos eles utilizarão os seus próprios computadores de trabalho."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:49
 msgid "The DanBIF Node Manager will ensure that the institution is adequately registered in GBIF as a data publisher and that the deputy director and the ornithology curator have the proper credentials and access to DanBIF’s IPT instance to upload and publish the data."
-msgstr ""
+msgstr "O Coodenador do Nó DanBIF garantirá que a instituição está adequadamente registada no GBIF como um publicador de dados e que o director adjunto e o curador da ornitologia têm credenciais e acesso adequados à instância do IPT do DanBIF para carregar e publicar os dados."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:50
 #, no-wrap
 msgid "Original data collection"
-msgstr ""
+msgstr "Colheita de dados originais"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:57
 msgid "In the period 1883-1939, there were 45 lighthouses and lightships functioning in Denmark.  These lighthouses were used by several species of birds during the nights of the bird migration period from the years 1886 through 1939.  The presence and activities of these birds were recorded, especially by the keepers of these lighthouses who also collected specimens that were sent to the museum in Copenhagen.  These birds were carefully preserved and catalogued by collection managers at the museum and the specimens can still be found there today.  Observations of weather conditions during the nights when birds were observed by the keepers were also documented."
-msgstr ""
+msgstr "No período de 1883-1939, estiveram em funcionamento na Dinamarca 45 faróis e faróis flutuantes. Estes faróis foram utilizados por várias espécies de aves durante as noites do período de migração de aves entre os anos de 1886 e 1939. A presença e as actividades dessas aves foram registadas, especialmente pelos responsáveis desses faróis que recolheram também espécimes enviados para o museu em Copenhaga. Estes pássaros foram cuidadosamente preservados e catalogados por gestores de colecção no museu e ainda hoje é possível encontrar ali espécimes. Foram também documentadas observações sobre as condições meteorológicas durante a noite em que as aves eram observadas pelos faroleiros."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:58
 #, no-wrap
 msgid "Analogue data description"
-msgstr ""
+msgstr "Descrição dos dados analógicos"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:61
 msgid "This is an example of the description of a series of species observations from one of the books (in German, except the common name for the species which is provided in Danish)."
-msgstr ""
+msgstr "Este é um exemplo da descrição de uma série de observações de espécies de um dos livros (em alemão, exceto o nome comum para a espécie que é fornecido em Danish)."
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:62
 #, no-wrap
 msgid "img/web/use-case-3-analogue.png"
-msgstr ""
+msgstr "img/web/use-case-3-analogue.png"
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:64
 #, no-wrap
 msgid "Scanned and translated data description"
-msgstr ""
+msgstr "Descrição de dados digitalizados e traduzidos"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:67
 msgid "This is an example of the scanned and translated output from the analogue example above."
-msgstr ""
+msgstr "Este é um exemplo da saída digitalizada e traduzida do exemplo analógico acima."
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:68
 #, no-wrap
 msgid "img/web/use-case-3-scanned.png"
-msgstr ""
+msgstr "img/web/use-case-3-scanned.png"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:74
@@ -4755,22 +4755,22 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:82
 msgid "High accuracy, low precision + *C*"
-msgstr ""
+msgstr "Alta exatidão, baixa precisão + *C*"
 
 #. type: Plain text
 #: solutions.en.adoc:84
 msgid "Low accuracy, high precision + *B*"
-msgstr ""
+msgstr "Baixa exatidão, alta precisão + *B*"
 
 #. type: Plain text
 #: solutions.en.adoc:86
 msgid "High accuracy, high precision + *D*"
-msgstr ""
+msgstr "Alta exatidão, alta precisão + *D*"
 
 #. type: Plain text
 #: solutions.en.adoc:88
 msgid "Low accuracy, low precision + *A*"
-msgstr ""
+msgstr "Baixa exatidão, baixa precisão + *A*"
 
 #. type: Plain text
 #: solutions.en.adoc:90
