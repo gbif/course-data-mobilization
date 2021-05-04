@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-05-04 09:21\n"
+"PO-Revision-Date: 2021-05-04 10:42\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -4423,223 +4423,223 @@ msgstr "[[DOI]]DOI"
 #. type: Plain text
 #: glossary.en.adoc:32
 msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
-msgstr ""
+msgstr "Identificador Digital de Objecto. Um identificador persistente ou utilizado para identificar unicamente objectos. Os DOIs são amplamente usados principalmente para identificar informações acadêmicas, profissionais e governamentais, como artigos de periódicos, relatórios de pesquisa e conjuntos de dados e publicações oficiais."
 
 #. type: Labeled list
 #: glossary.en.adoc:33
 #, no-wrap
 msgid "[[DwC-A]]DwC-A"
-msgstr ""
+msgstr "[[DwC-A]]DwC-A"
 
 #. type: Plain text
 #: glossary.en.adoc:36
 msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
-msgstr ""
+msgstr "Darwin Core Archive. Um ficheiro comprimido (compactado) contendo todas as informações necessárias para partilhar com o GBIF, para um determinado recurso. Cada ficheiro contém três tipos de ficheiros:"
 
 #. type: Plain text
 #: glossary.en.adoc:37
 msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
-msgstr ""
+msgstr "os dados actuais, em um ou mais fucheiros de texto: occurrence.txt/event.txt/measurmentoffact.txt etc"
 
 #. type: Plain text
 #: glossary.en.adoc:38
 msgid "a mapping file: rtf.xml"
-msgstr ""
+msgstr "um ficheiro de mapeamento: rtf.xml"
 
 #. type: Plain text
 #: glossary.en.adoc:41
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr ""
+msgstr "um ficheiro de metadados (EML): eml.xml Quando você publica usando o IPT, cria um ficheiro Darwin Core, que é partilhado com GBIF. Além disso, quando descarregar dados do portal GBIF, também poderá escolher um formato DwC-A."
 
 #. type: Labeled list
 #: glossary.en.adoc:42
 #, no-wrap
 msgid "[[GUID]]GUID"
-msgstr ""
+msgstr "[[GUID]]GUID"
 
 #. type: Plain text
 #: glossary.en.adoc:43
 msgid "Globally Unique IDentifier"
-msgstr ""
+msgstr "IDentificador globalmente único"
 
 #. type: Labeled list
 #: glossary.en.adoc:44
 #, no-wrap
 msgid "[[IPT]]IPT"
-msgstr ""
+msgstr "[[IPT]]IPT"
 
 #. type: Plain text
 #: glossary.en.adoc:48
 msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
-msgstr ""
+msgstr "Integrated Publishing Toolkit. É uma aplicação web de código aberto e livre (software) para publicação de dados de biodiversidade. O próprio software vive em um servidor (seja na sua instituição ou em qualquer outro lugar) que deve ter acesso à internet 24/7. É usado para criar e lidar com ficheiros do Darwin Core Archive que podem ser partilhados e usados por qualquer pessoa, incluindo o GBIF."
 
 #. type: Labeled list
 #: glossary.en.adoc:49
 #, no-wrap
 msgid "[[loan]]Loan"
-msgstr ""
+msgstr "[[loan]]Empréstimo"
 
 #. type: Plain text
 #: glossary.en.adoc:50
 msgid "In the context of natural history collections, this is the procedure of lending specimens between institutions."
-msgstr ""
+msgstr "No contexto das colecções de história natural, este é o procedimento de concessão de empréstimos de espécimes entre instituições."
 
 #. type: Labeled list
 #: glossary.en.adoc:51
 #, no-wrap
 msgid "[[LSID]]LSID"
-msgstr ""
+msgstr "[[LSID]]LSID"
 
 #. type: Plain text
 #: glossary.en.adoc:53
 msgid "Life Sciences Identifier.  They are persistent, globally unique identifiers for biological objects."
-msgstr ""
+msgstr "Identificador de Ciências da Vida. São identificadores persistentes e exclusivos para objetos biológicos."
 
 #. type: Labeled list
 #: glossary.en.adoc:54
 #, no-wrap
 msgid "[[DP]]Data Publishing"
-msgstr ""
+msgstr "[[DP]]Publicação de Dados"
 
 #. type: Plain text
 #: glossary.en.adoc:56
 msgid "With regards to GBIF we have a very specific definition of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
-msgstr ""
+msgstr "No que se refere ao GBIF, dispomos de uma definição muito específica de publicação de dados. Refere-se a tornar os conjuntos de dados de biodiversidade acessíveis ao público e detectáveis, de forma padronizada, através de um ponto de acesso, tipicamente um endereço da Web (uma URL)."
 
 #. type: Labeled list
 #: glossary.en.adoc:57
 #, no-wrap
 msgid "[[resource]]Resource"
-msgstr ""
+msgstr "[[resource]]Recurso"
 
 #. type: Plain text
 #: glossary.en.adoc:58
 msgid "A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance."
-msgstr ""
+msgstr "Um Recurso é o termo coletivo usado para referir a um conjunto de dados específico e seus metadados uma vez que tenha sido carregado para uma instância do IPT."
 
 #. type: Labeled list
 #: glossary.en.adoc:59
 #, no-wrap
 msgid "[[TDWG]]TDWG"
-msgstr ""
+msgstr "[[TDWG]]TDWG"
 
 #. type: Plain text
 #: glossary.en.adoc:60
 msgid "Taxonomic Databases Working Group, now renamed Biodiversity Information Standards."
-msgstr ""
+msgstr "Grupo de Trabalho de Bases de Dados Taxonómicos, agora renomeado Padrões de Informações de Biodiversidade."
 
 #. type: Labeled list
 #: glossary.en.adoc:61
 #, no-wrap
 msgid "[[URN]]URN"
-msgstr ""
+msgstr "[[URN]]URN"
 
 #. type: Plain text
 #: glossary.en.adoc:62
 msgid "Uniform Resource Number"
-msgstr ""
+msgstr "Número Uniforme de Recursos"
 
 #. type: Labeled list
 #: glossary.en.adoc:63
 #, no-wrap
 msgid "[[UUID]]UUID"
-msgstr ""
+msgstr "[[UUID]]UUID"
 
 #. type: Plain text
 #: glossary.en.adoc:64
 msgid "Universally Unique Identifier"
-msgstr ""
+msgstr "Identificador Universal Único"
 
 #. type: Plain text
 #: glossary.en.adoc:65
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: solutions.en.adoc:2
 #, no-wrap
 msgid "Appendix: Solutions"
-msgstr ""
+msgstr "Apêndice: Soluções"
 
 #. type: Plain text
 #: solutions.en.adoc:6
 msgid "This appendix contains the answers and additional information to all of the review quizzes.  Additionally, this section contains a suggested solution to USE CASE I."
-msgstr ""
+msgstr "Este apêndice contém as respostas e informações adicionais para todos os questionários de revisão. Além disso, esta secção contém uma solução sugerida para o USE CASE I."
 
 #. type: Title ===
 #: solutions.en.adoc:7
 #, no-wrap
 msgid "Foundations review solutions"
-msgstr ""
+msgstr "Soluções de revisão de fundações"
 
 #. type: Plain text
 #: solutions.en.adoc:10
 #, no-wrap
 msgid "*For the given statement, input the correct term (database, database language, database program)*\n"
-msgstr ""
+msgstr "Para a afirmação fornecida, insira o termo correcto (base de dados, língua da base de dados, programa da base de dados)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:13
 msgid "combines and presents functions and features for manipulating data, together in a unified interface + *database program* +"
-msgstr ""
+msgstr "combina e apresenta funções e recursos para manipular dados, juntos em uma interface unificada + *programa de base de dados* +"
 
 #. type: Plain text
 #: solutions.en.adoc:15
 msgid "structured and organized collection of data and/or information held on a computer + *database* +"
-msgstr ""
+msgstr "coleção de dados estruturada e organizada e/ou informações armazenadas em um computador + *base de dados* +"
 
 #. type: Plain text
 #: solutions.en.adoc:17
 msgid "the way by which a human communicates with a computer + *database language* +"
-msgstr ""
+msgstr "a maneira pela qual um humano se comunica com um computador + *linguagem de base de dados* +"
 
 #. type: Plain text
 #: solutions.en.adoc:19
 #, no-wrap
 msgid "*If you open a data file and see the following, what would you suspect is the issue?*\n"
-msgstr ""
+msgstr "Se abrir um ficheiro de dados e vir o seguinte, de qual problema suspeitaria? +\n"
 
 #. type: Plain text
 #: solutions.en.adoc:23
 msgid "The wrong encoding was used to open the file"
-msgstr ""
+msgstr "A codificação incorreta foi utilizada para abrir o ficheiro"
 
 #. type: Plain text
 #: solutions.en.adoc:25
 #, no-wrap
 msgid "*For the given software, input the type of software (data capture, data management, data cleaning, data publishing).*\n"
-msgstr ""
+msgstr "*Para o software fornecido, insira o tipo de software (captura de dados, gestão de dados, limpeza de dados, publicação de dados).*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:28
 msgid "Integrated Publishing Toolkit (IPT) + *data publishing*"
-msgstr ""
+msgstr "Integrated Publishing Toolkit (IPT) + *publicação de dados*"
 
 #. type: Plain text
 #: solutions.en.adoc:30
 msgid "Specify + *data capture* AND *data management*"
-msgstr ""
+msgstr "Specify + *captura de dados* E *gestão de dados*"
 
 #. type: Plain text
 #: solutions.en.adoc:32
 msgid "iNaturalist + *data capture*"
-msgstr ""
+msgstr "iNaturalist + *captura de dados*"
 
 #. type: Plain text
 #: solutions.en.adoc:34
 msgid "OpenRefine + *data cleaning*"
-msgstr ""
+msgstr "OpenRefine + *limpeza de dados*"
 
 #. type: Plain text
 #: solutions.en.adoc:36
 #, no-wrap
 msgid "*For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)*\n"
-msgstr ""
+msgstr "*Para o exemplo dado, insira o tipo de dados correcto (binário, booleano, float, inteiro, inteiro longo, texto, texto não estruturado)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:39
 msgid "1236975 + *long integer*"
-msgstr ""
+msgstr "1236975 + *inteiro longo*"
 
 #. type: Plain text
 #: solutions.en.adoc:41
@@ -4669,88 +4669,89 @@ msgstr "Sim/Não + *booleano*"
 #. type: Plain text
 #: solutions.en.adoc:51
 msgid "6 rabbits were observed + *text*"
-msgstr ""
+msgstr "6 coelhos foram observados + *texto*"
 
 #. type: Plain text
 #: solutions.en.adoc:53
 #, no-wrap
 msgid "*Which of these terms describes a \"field/column name\"?*\n"
-msgstr ""
+msgstr "Qual destes termos descreve um nome de \"campo/coluna\"\n"
 
 #. type: Plain text
 #: solutions.en.adoc:55
 msgid "Assigned"
-msgstr ""
+msgstr "Atribuído"
 
 #. type: Plain text
 #: solutions.en.adoc:56
 msgid "Identifying"
-msgstr ""
+msgstr "Identificando"
 
 #. type: Plain text
 #: solutions.en.adoc:57
 msgid "Unique"
-msgstr ""
+msgstr "Único"
 
 #. type: Plain text
 #: solutions.en.adoc:59
 #, no-wrap
 msgid "*Which of these terms describes a \"field label\"?*\n"
-msgstr ""
+msgstr "Quais destes termos descreve uma \"etiqueta de campo\"\n"
 
 #. type: Plain text
 #: solutions.en.adoc:61
 msgid "Descriptive"
-msgstr ""
+msgstr "Descrição"
 
 #. type: Plain text
 #: solutions.en.adoc:62
 msgid "Readable"
-msgstr ""
+msgstr "Legível"
 
 #. type: Plain text
 #: solutions.en.adoc:63
 msgid "User-interface"
-msgstr ""
+msgstr "Interface do utilizador"
 
 #. type: Plain text
 #: solutions.en.adoc:65
 #, no-wrap
 msgid "*For each statement, input the correct structure (row, column, table)*\n"
-msgstr ""
+msgstr "Para cada afirmação, insira a estrutura correta (linha, coluna, tabela)\n"
 
 #. type: Plain text
 #: solutions.en.adoc:68
 msgid "All data refers to a SINGLE concept. + *table*"
-msgstr ""
+msgstr "Todos os dados se referem a um conceito SINGLE. + *tabela*"
 
 #. type: Plain text
 #: solutions.en.adoc:70
 msgid "An attribute has the SAME field/data type for every record. + *column*"
-msgstr ""
+msgstr "Um atributo tem o mesmo tipo de campo/dado para cada registo. + *coluna*"
 
 #. type: Plain text
 #: solutions.en.adoc:72
 msgid "Attributes of a record ALWAYS stay together. + *row*"
-msgstr ""
+msgstr "Atributos de um registo SEMPRE permanecem juntos. + *linha*"
 
 #. type: Plain text
 #: solutions.en.adoc:74
 #, no-wrap
 msgid "*Who determines the fitness for use of your data?*\n"
-msgstr ""
+msgstr "Quem determina a aptidão para o uso de seus dados\n"
 
 #. type: Plain text
 #: solutions.en.adoc:76
 msgid "The users of the data for research or education"
-msgstr ""
+msgstr "Os utilizadores dos dados para investigação ou educação"
 
 #. type: Plain text
 #: solutions.en.adoc:79
 #, no-wrap
 msgid "*For the given statements, input the matching image. (A, B, C, D)*\n"
 "image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ""
+msgstr "*Para as afirmações fornecidas, insira a imagem correspondente. (A, B,C,D)*\n"
+"imagem:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #. type: Plain text
 #: solutions.en.adoc:82
@@ -4776,43 +4777,43 @@ msgstr "Baixa exatidão, baixa precisão + *A*"
 #: solutions.en.adoc:90
 #, no-wrap
 msgid "*Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.*\n"
-msgstr ""
+msgstr "Identifique as relações de dados em que o conjunto de dados B precisa ser mesclado ao conjunto de dados A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Nem todas as relações são utilizadas\n"
 
 #. type: Plain text
 #: solutions.en.adoc:93
 msgid "Collector field exists in both dataset A and B + *1:1*"
-msgstr ""
+msgstr "O campo de coletor existe em ambos os conjuntos de dados A e B + *1:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:95
 msgid "Country field only exists in dataset B + *0:1*"
-msgstr ""
+msgstr "O campo país só existe no conjunto de dados B + *0:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:97
 msgid "Name field exists in dataset A, but dataset B contains First Name and Last Name fields + *1:∞*"
-msgstr ""
+msgstr "O campo nome existe no conjunto de dados A, mas o conjunto de dados B contém os campos Primeiro Nome e Sobrenome + *1:∞*"
 
 #. type: Plain text
 #: solutions.en.adoc:99
 msgid "ID field exists in both dataset A and B + *1:1*"
-msgstr ""
+msgstr "Campo de ID existe em ambos os conjuntos de dados A e B + *1:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:101
 msgid "Elevation exists in dataset A, but not in dataset B + *1:0*"
-msgstr ""
+msgstr "Elevação existe no conjunto de dados A, mas não no conjunto de dados B + *1:0*"
 
 #. type: Plain text
 #: solutions.en.adoc:103
 msgid "Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B + *1:∞*"
-msgstr ""
+msgstr "A data existe no conjunto de dados A, mas o Dia, o Mês e o Ano são campos separados no conjunto de dados B + *1:∞*"
 
 #. type: Plain text
 #: solutions.en.adoc:105
 #, no-wrap
 msgid "*Metadata is important because (select the TRUE statements)*\n"
-msgstr ""
+msgstr "*Metadados são importantes porque (selecione as declarações VERDADEIRAS)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:107
