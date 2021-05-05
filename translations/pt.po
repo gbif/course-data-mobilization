@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-05-05 07:56\n"
+"PO-Revision-Date: 2021-05-05 09:10\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -4950,136 +4950,136 @@ msgstr "ocorrência + A maioria das vezes, espécimes de bases de dados de colhe
 #. type: Plain text
 #: solutions.en.adoc:150
 msgid "checklist + It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr ""
+msgstr "checklist + Também é possível criar e partilhar uma checklist taxonómica derivada de uma base de dados de coleção; neste caso, é recomendado partilhar a checklist como um conjunto de dados taxonómicos, com a lista de ocorrências (espécimes) associada, usando o Occurrence core como uma extensão do Taxon Core no GBIF IPT."
 
 #. type: Plain text
 #: solutions.en.adoc:152
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a list of invasive species?*\n"
-msgstr ""
+msgstr "*Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma lista de espécies invasovas?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:155
 msgid "occurrence + Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
-msgstr ""
+msgstr "ocorrência + Alguns publicadores de dados partilharão conjuntos de dados de ocorrência provenientes de estudos ou de programas de acompanhamento de espécimes de alguma espécie invasora; quando os dados se concentram em indivíduos, em vez das espécies invasoras, em geral, podem ser partilhados como dados de ocorrência."
 
 #. type: Plain text
 #: solutions.en.adoc:157
 msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr ""
+msgstr "checklist + Espécies invasovas podem ser rastreadas e monitorizadas a diferentes escalas (regional, nacional, temático…); uma vez que este tipo de conjunto de dados se concentra mais na espécie e sua distribuição num determinado âmbito geográfico, eles são partilhados principalmente como conjuntos de dados taxonómicos através do GBIF (https://www. bif.org/dataset/search?project_id=GRIIS[ver resultados de pesquisa GRIIS])."
 
 #. type: Plain text
 #: solutions.en.adoc:159
 #, no-wrap
 msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
-msgstr ""
+msgstr "*Qual(ais) o(s) tipo(s) de conjuntos de dados que escolheria para a flora e fauna de um estudo de impacto ambiental?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:162
 msgid "occurrence + Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
-msgstr ""
+msgstr "ocorrência + Os dados são registados pelos naturalistas no campo e podem ser partilhados como conjuntos de dados de ocorrência simples."
 
 #. type: Plain text
 #: solutions.en.adoc:164
 msgid "sampling event + They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr ""
+msgstr "evento de amostragem + Eles também podem ser partilhados como conjuntos de dados de eventos se houver protocolos padronizados (como pontos de vegetação, transectos, armadilhas…) para colher os dados."
 
 #. type: Plain text
 #: solutions.en.adoc:166
 #, no-wrap
 msgid "*What dataset type(s) would you choose for bird tracking data?*\n"
-msgstr ""
+msgstr "*Qual(ais) o(s) tipo(s) de conjuntos de dados que escolheria para os dados de rastreio de pássaros?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:169
 msgid "occurrence + These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
-msgstr ""
+msgstr "ocorrência + Estes dados são partilhados como conjuntos de dados de ocorrência: idealmente, cada pássaro é identificado com o seu organismID, e cada ocorrência (GPS ping) tem a sua própria ocorrência, que é útil para rastrear os diferentes locais GPS do mesmo pássaro no âmbito do programa de rastreamento ou projeto. (Veja https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
 
 #. type: Plain text
 #: solutions.en.adoc:171
 #, no-wrap
 msgid "*What dataset type(s) would you choose for insect trap data?*\n"
-msgstr ""
+msgstr "*Qual(ais) o(s) tipo(s) de conjuntos de dados que escolheria para dados de armadilhas de insetos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:174
 msgid "occurrence + Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
-msgstr ""
+msgstr "ocorrência + Embora tais dados possam ser partilhados como conjuntos de dados de ocorrências simples, é melhor se forem partilhados como conjuntos de dados de eventos, onde a localização, identificador e conteúdo de cada armadilha podem ser melhor detalhados."
 
 #. type: Plain text
 #: solutions.en.adoc:178
 msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr ""
+msgstr "evento de amostragem + Armadilhas de insectos (bem como outras armadilhas, tais como armadilhas pitfall, armadilhas malaise…) são normalmente usadas em programas de monitorização para verificar a presença (ou ausência) de algumas espécies e/ou avaliar a sua abundância específica. Usar o campo \"eventID\" para identificar cada armadilha permite aos utilizadores obter todos os espécimes colhidos dentro de cada armadilha. A mesma lógica aplica-se a outros protocolos de campo, como transectos, pontos, câmaras remotas, etc. usando o núcleo do Evento (Event core) em vez do núcleo de Ocorrência (Occurrence core), poderá partilhar muito mais informações sobre o contexto da colheita de dados, e permitir que os utilizadores compreendam melhor (e possam até replicar) o seu trabalho."
 
 #. type: Plain text
 #: solutions.en.adoc:180
 #, no-wrap
 msgid "*What dataset type(s) would you choose for national park management data?*\n"
-msgstr ""
+msgstr "*Qual(ais) o(s) tipo(s) de base de dados você escolheria para a gestão de dados do parque nacional?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:183
 msgid "occurrence + record individuals of species"
-msgstr ""
+msgstr "ocorrência + registo de indivíduos de espécies"
 
 #. type: Plain text
 #: solutions.en.adoc:185
 msgid "checklist + It is important to know how many species are present in the park/reserve perimeter and their conservation status."
-msgstr ""
+msgstr "checklist + É importante saber quantas espécies estão presentes no perímetro do parque/reserva e o seu estado de conservação."
 
 #. type: Plain text
 #: solutions.en.adoc:187
 msgid "sampling event + check and track the populations"
-msgstr ""
+msgstr "evento de amostragem + verifique e rastreie as populações"
 
 #. type: Plain text
 #: solutions.en.adoc:189
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a citizen science bioblitz?*\n"
-msgstr ""
+msgstr "*Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para um bioblitz de ciência cidadã?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:192
 msgid "occurrence + Bioblitz datasets are mainly shared as occurrence datasets."
-msgstr ""
+msgstr "ocorrência + conjuntos de dados de Bioblitz são partilhados principalmente como conjuntos de dados de ocorrência."
 
 #. type: Plain text
 #: solutions.en.adoc:194
 msgid "sampling event + Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
-msgstr ""
+msgstr "evento de amostragem + Dependendo do programa de ciência cidadã, podem ser usados protocolos de amostragem específicos por voluntários, e neste caso, os dados podem ser partilhados como um conjunto de dados do eventos."
 
 #. type: Plain text
 #: solutions.en.adoc:196
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a regional species list?*\n"
-msgstr ""
+msgstr "*Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma lista regional de espécies?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:200
 msgid "checklist + Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
-msgstr ""
+msgstr "checklist + Listas de espécies geográficas ou temáticas são frequentemente usadas para partilhar informações sobre as espécies presentes numa determinada área; na maior parte das vezes, essas listas também mencionam a distribuição de cada espécie, bem como o seu estado de conservação nesta área. As listas regionais de espécies podem proporcionar uma visão útil da biodiversidade e dos habitats de uma região, e precisa ser partilhado como conjuntos de dados taxonómicos, com ou sem ocorrências associadas."
 
 #. type: Title ===
 #: solutions.en.adoc:201
 #, no-wrap
 msgid "Data management review solutions"
-msgstr ""
+msgstr "Soluções de revisão da gestão de dados"
 
 #. type: Plain text
 #: solutions.en.adoc:204
 #, no-wrap
 msgid "*Why is it best to clean your data?*\n"
-msgstr ""
+msgstr "*Por que é melhor limpar os seus dados?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:206
 msgid "to make them as fit for use as possible"
-msgstr ""
+msgstr "para torná-los o mais possível adequados ao uso"
 
 #. type: Plain text
 #: solutions.en.adoc:207
 msgid "to achieve your data quality goals"
-msgstr ""
+msgstr "para atingir as suas metas de qualidade de dados"
 
 #. type: Plain text
 #: solutions.en.adoc:210
