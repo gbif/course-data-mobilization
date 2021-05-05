@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-05 11:53+0000\n"
-"PO-Revision-Date: 2021-05-05 12:22\n"
+"PO-Revision-Date: 2021-05-05 19:01\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2824,7 +2824,45 @@ msgid "|Skills\n"
 "|Describes changes made most of the time. Doesn’t describe changes consistently or fully (e.g. describes the change, but not the author).\n"
 "|Always remembers to describe changes made. Always describes changes consistently, so that all edits of the same type can be easily identified.\n"
 "|Can accurately and consistently describe changes made in a repeatable way.\n"
-msgstr ""
+msgstr "|Compétences\n"
+"|Performance de début\n"
+"1\n"
+"|Développement de la performance\n"
+"2\n"
+"|Performance accomplie\n"
+"3\n"
+"|Performance exceptionnelle\n"
+"4\n\n"
+"|A. Capacité à évaluer la qualité (c.-à-d. Identifier les problèmes et leurs types) d'un jeu de données sur la biodiversité.\n"
+"|Utilise seulement des contrôles visuels pour analyser la qualité. Incapable de différencier les types d'erreurs. Peut détecter les valeurs manquantes dans les champs obligatoires et les incohérences graves des données.\n"
+"|Ne peut utiliser que des techniques très basiques (par exemple le tri) pour analyser la qualité des données. Peut détecter les incohérences entre les noms de champs et le contenu. Peut identifier de manière cohérente les erreurs techniques, mais uniquement les erreurs de cohérence les plus courantes dans un jeu de données.\n"
+"|Peut utiliser des outils et des techniques spécifiques pour évaluer la qualité. Reconnaît le niveau minimum de désagrégation/normalisation nécessaire pour une utilisation et une publication courantes. Peut identifier de manière cohérente les erreurs techniques et la plupart des erreurs de cohérence dans un jeu de données.\n"
+"|Utilise une approche systématique de l'analyse des jeux de données couvrant tous les principaux domaines de données. Peut identifier de manière cohérente les erreurs techniques et de cohérence dans un jeu de données. Peut utiliser d'autres sources de données (par exemple des métadonnées ou d'autres jeux de données) pour identifier ou déduire des erreurs de cohérence dans un jeu de données.\n\n"
+"|B. Capacité à effectuer la correction du format des données.\n"
+"|Ne peut apporter des corrections que manuellement dans les tableaux. Montre des connaissances génériques sur l'utilisation des types de format dans les données numériques (par exemple, dates, chaînes, nombres)\n"
+"|Peut identifier au moins un outil spécifique pour corriger automatiquement les erreurs de format, mais ne peut l'utiliser que dans des cas spécifiques. Sinon, utilise des mécanismes simples (par exemple, «rechercher et remplacer») pour résoudre les problèmes.\n"
+"|Peut utiliser au moins un outil pour corriger automatiquement les erreurs de format.\n"
+"|Peut utiliser les fonctionnalités avancées de plusieurs outils pour corriger les erreurs de format.\n\n"
+"|C. Capacité à effectuer des corrections de données nomenclaturales.\n"
+"|Ne peut apporter des corrections que manuellement dans les tableaux. Utilise uniquement les connaissances personnelles des groupes taxonomiques connus.\n"
+"|Peut identifier au moins un outil spécifique pour corriger automatiquement les erreurs de nomenclature, mais ne peut l'utiliser que dans des cas spécifiques. Sinon, utilise des mécanismes simples (par exemple, «rechercher et remplacer») pour résoudre les problèmes.\n"
+"|Peut utiliser au moins un outil pour corriger automatiquement les erreurs de nomenclature. Peut trouver et utiliser des informations nomenclaturales de référence appropriées pour les groupes taxonomiques avec lesquels il travaille habituellement.\n"
+"|Peut utiliser plusieurs outils pour corriger les erreurs de nomenclature. Peut trouver et utiliser des informations nomenclaturales de référence appropriées pour des groupes taxonomiques en dehors de ses domaines d'expertise.\n\n"
+"|D. Capacité à effectuer la correction des données géographiques.\n"
+"|Ne peut apporter des corrections que manuellement dans les tableaux. N'utilise que la connaissance personnelle des zones géographiques connues.\n"
+"|Peut identifier au moins un outil spécifique pour cartographier et/ou corriger automatiquement les erreurs dans les informations géographiques, mais ne peut l'utiliser que dans des cas spécifiques. Sinon, utilise des mécanismes simples (par exemple, «rechercher et remplacer») pour résoudre les problèmes.\n"
+"|Peut utiliser au moins un outil pour cartographier et/ou corriger automatiquement les erreurs dans les informations géographiques. Peut trouver et utiliser des informations géographiques de référence appropriées dans un format adapté aux zones avec lesquelles il travaille habituellement.\n"
+"|Peut utiliser plusieurs outils pour cartographier et/ou corriger automatiquement les erreurs dans les informations géographiques. Peut trouver et utiliser des informations géographiques de référence dans un format approprié pour des domaines en dehors de ses domaines d'expertise.\n\n"
+"|E. Capacité à utiliser des logiciels spécifiques (par exemple OpenRefine) comme outils de nettoyage des données.\n"
+"|Peut identifier au moins un outil de nettoyage de données. Peut identifier les principales fonctionnalités d'un outil de nettoyage de données (par exemple OpenRefine).\n"
+"|Peut identifier plusieurs outils de nettoyage de données. Peut utiliser une ou quelques-unes des fonctionnalités de base d'un logiciel de nettoyage de données pour nettoyer un ensemble de données (par exemple, créer un projet OpenRefine, utiliser la facette, le filtrage, le regroupement ou la réconciliation).\n"
+"|Peut utiliser toutes les fonctionnalités de base d'un logiciel de nettoyage de données pour nettoyer un ensemble de données (par exemple dans OpenRefine: facettage, filtrage, regroupement, réconciliation).\n"
+"|Peut utiliser les fonctionnalités avancées d'un ou plusieurs logiciels de nettoyage de données pour nettoyer les ensembles de données (par exemple dans OpenRefine: utiliser l'API, les expressions régulières, Langue d'Expression de Google Refine).\n\n"
+"|F. Capacité à documenter les procédures de transformation des données.\n"
+"|Décrit rarement les modifications apportées lors de la conservation, du formatage ou de la transformation des données.\n"
+"|Décrit les modifications effectuées la plupart du temps. Ne décrit pas les changements de manière cohérente ou complète (par exemple, décrit le changement, mais pas l'auteur).\n"
+"|Se souvient toujours de décrire les modifications apportées. Décrit toujours les modifications de manière cohérente, de sorte que toutes les modifications du même type puissent être facilement identifiées.\n"
+"|Peut décrire avec précision et cohérence les modifications apportées de manière répétable.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:151
@@ -2869,7 +2907,40 @@ msgid "|Skills\n"
 "|Can update an existing, published dataset by uploading a new source file. Can republish the file, error free.\n"
 "|Can successfully publish and register a new dataset. Can understand and act upon publishing error messages in IPT.\n"
 "|Shows understanding of dataset versioning in IPT.\n"
-msgstr ""
+msgstr "|Compétences\n"
+"|Performance de début\n"
+"1\n"
+"|Développement de la Performance\n"
+"2\n"
+"|Performance accomplie\n"
+"3\n"
+"|Performance exceptionnelle\n"
+"4\n\n"
+"|A. Connaissance des standards de données d'information sur la biodiversité (BDI).\n"
+"|Montre une connaissance limitée ou inexistante des standards de données BDI et des standards de données acceptées par le GBIF.\n"
+"|Peut identifier les standards BDI et sait lesquelles sont acceptées par le GBIF, mais ne sait pas où trouver des informations sur la façon de les utiliser. Impossible d'identifier les termes obligatoires.\n"
+"|Connaît les normes BDI acceptées par le GBIF. Peut trouver une liste des cœurs de données et des extensions acceptés. Publie des jeux de données selon les standards GBIF requis et/ou recommandés pour les termes de données et de métadonnées et sait comment trouver les définitions des termes.\n"
+"|Montre une compréhension des caractéristiques et des limites des différentes standards BDI.\n\n"
+"|B. Capacité d'analyser la pertinence d'un jeu de données sur la biodiversité pour la publication via le GBIF.\n"
+"|Montre une connaissance limitée ou inexistante des critères formels auxquels un jeu de données doit répondre pour être publiable via le GBIF.\n"
+"|Connaît les critères formels auxquels un jeu de données doit répondre pour être publiable via le GBIF, mais ne peut pas évaluer si un jeu de données donné les satisfait.\n"
+"|Peut évaluer correctement si un ensemble de données peut être actuellement publié via le GBIF. Peut attribuer au moins un type de données valide (= coeur) à un ensemble de données en fonction de la description fournie par le détenteur des données et après avoir analysé l'ensemble de données.\n"
+"|Peut identifier plusieurs options de publication pour un ensemble de données (si possible).\n\n"
+"|C. Utilisation de l'IPT: capacité à produire / analyser des métadonnées de haute qualité.\n"
+"|Montre une connaissance limitée ou inexistante des caractéristiques des bonnes métadonnées.\n"
+"|Connaît les caractéristiques de bonnes métadonnées, mais a du mal à les reconnaître.\n"
+"|Connaît les caractéristiques des bonnes métadonnées et comment les reconnaître. Peut produire des recommandations sur la façon d'améliorer les métadonnées existantes.\n"
+"|Connaît les caractéristiques des métadonnées de haute qualité et comment les produire.\n\n"
+"|D. IPT use: capacity to upload/connect data and map it to existing cores & extensions.\n"
+"|Utilisation de l'IPT: capacité à télécharger / connecter des données et à les mapper aux cœurs et extensions existants.\n"
+"|Peut uniquement télécharger des ensembles de données à un seul fichier dans IPT et mapper vers un seul type de coeur sans extensions.\n"
+"|Peut télécharger plusieurs fichiers dans un IPT dans le cadre d'un seul jeu de données et les mapper correctement à un coeur et au moins une extension. Peut utiliser la fonction de valeur constante IPT.\n"
+"|Peut télécharger plusieurs fichiers dans un IPT dans le cadre d'un seul jeu de données et les mapper correctement à un coeur et à plusieurs extensions. Peut utiliser la fonction de traduction de données IPT.\n\n"
+"|E. Utilisation de l'IPT: capacité à utiliser l'outil pour publier et enregistrer des jeux de données.\n"
+"|Peut afficher un ensemble de données publié et les métadonnées associées sur un IPT. Peut télécharger un fichier DwC-A à partir d'un IPT. Peut naviguer dans un ensemble de données enregistré de l'IPT vers le portail GBIF. \n"
+"|Peut mettre à jour un ensemble de données publié existant en téléchargeant un nouveau fichier source. Peut republier le fichier, sans erreur.\n"
+"|Peut publier et enregistrer avec succès un nouveau jeu de données. Peut comprendre et agir sur des messages d'erreur dans l’IPT.\n"
+"|Montre une compréhension de la gestion des versions des jeux de données dans l’IPT.\n"
 
 #. type: Title ==
 #: use-case-invasive-species.en.adoc:3
@@ -4487,49 +4558,49 @@ msgstr "<<<"
 #: data-papers.en.adoc:3
 #, no-wrap
 msgid "Appendix: Data papers"
-msgstr ""
+msgstr "Annexe : Articles sur les données (data papers)"
 
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr ""
+msgstr "Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans un journal révisé par les pairs. Cela demande des efforts pour préparer, curer et de décrire les données. Toutefois, nous ne couvrons pas la manière de créer des data papers dans ce cours, comme activité optionnelle, vous pouvez regarder cette vidéo (51:51) présentée par Lizanne Roxburgh. Dans cette vidéo, vous en apprendrez plus sur la publication de data papers. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:. /videos/Webinar_data_papers.mp4[télécharger,opts=download] localement (MP4 - 99.2 MB)"
 
 #. type: Plain text
 #: data-papers.en.adoc:16
 msgid "You can read more about data papers on GBIF.org."
-msgstr ""
+msgstr "Vous pouvez en savoir plus sur les data papers sur GBIF.org."
 
 #. type: Target for macro image
 #: data-papers.en.adoc:17
 #, no-wrap
 msgid "img/web/datapapers.png"
-msgstr ""
+msgstr "img/web/datapapers.png"
 
 #. type: Target for macro image
 #: data-papers.en.adoc:19
 #, no-wrap
 msgid "img/web/datapapersIPT.png"
-msgstr ""
+msgstr "img/web/datapapersIPT.png"
 
 #. type: delimited block =
 #: data-papers.en.adoc:23
 msgid "View the links below to see a data paper as it appears on the IPT, on GBIF.org and in the Journal. Each are cross-linked."
-msgstr ""
+msgstr "Consultez les liens ci-dessous pour voir un data paper tel qu'il apparaît sur l'IPT, sur GBIF.org et dans le Journal. Ils sont inter-connectés."
 
 #. type: delimited block =
 #: data-papers.en.adoc:25
 msgid "Journal: https://doi.org/10.3897/BDJ.2.e4244"
-msgstr ""
+msgstr "Journal: https://doi.org/10.3897/BDJ.2.e4244"
 
 #. type: delimited block =
 #: data-papers.en.adoc:26
 msgid "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
-msgstr ""
+msgstr "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
 
 #. type: delimited block =
 #: data-papers.en.adoc:27
 msgid "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
-msgstr ""
+msgstr "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
 
 #. type: Title ==
 #: solutions.en.adoc:2
