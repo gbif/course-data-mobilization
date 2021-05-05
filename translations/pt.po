@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-05-05 10:07\n"
+"PO-Revision-Date: 2021-05-05 11:14\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -5084,7 +5084,7 @@ msgstr "para atingir as suas metas de qualidade de dados"
 #. type: Plain text
 #: solutions.en.adoc:210
 msgid "You should always aim to manage and publish data with the highest possible quality.  This will improve your day-to-day work (it is easier to work with organized and clean data), as well as the work of potential re-users of your data, who need to understand them and trust their source before using them."
-msgstr ""
+msgstr "Deve sempre procurar gerir e publicar dados com a maior qualidade possível. Isto irá melhorar o seu trabalho diário (é mais fácil de trabalhar com dados organizados e limpos), assim como o trabalho de potenciais reutilizadores dos seus dados, que precisam de compreendê-los e confiar na sua fonte antes de usá-los."
 
 #. type: Plain text
 #: solutions.en.adoc:212
@@ -5111,7 +5111,7 @@ msgstr ""
 #: solutions.en.adoc:219
 #, no-wrap
 msgid "*Which is best:*\n"
-msgstr ""
+msgstr "*Qual é o melhor:*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:221
@@ -6031,37 +6031,37 @@ msgstr "Primeiro, procuramos determinar e definir os tipos de erros que provavel
 #: scripts/data-management.en.txt:27
 #, no-wrap
 msgid "Next, we conduct a search to identify the instances where those error have occurred.\n"
-msgstr ""
+msgstr "Em seguida, vamos realizar uma busca para identificar os casos onde esses erros ocorreram.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:29
 #, no-wrap
 msgid "Then, we will correct those errors, whenever possible.\n"
-msgstr ""
+msgstr "Seguidamente, vamos corrigir esses erros, sempre que possível.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:31
 #, no-wrap
 msgid "When we decide on the best means to make corrections, we want to document both the types of errors we find, as well as the solutions we have applied to them.\n"
-msgstr ""
+msgstr "Quando decidirmos sobre os melhores meios para fazer as correções, devemos documentar tanto os tipos de erros que encontramos, como as soluções que lhes aplicámos.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:33
 #, no-wrap
 msgid "Finally, we want to modify how data entry is practiced to reduce future errors of the same type. (Maletic & Marcus, 2000)\n"
-msgstr ""
+msgstr "Finalmente, devemos modificar como a entrada de dados é praticada para reduzir futuros erros do mesmo tipo. (Maletic & Marcus, 2000)\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:37
 #, no-wrap
 msgid "One thing is certain: Errors are common and we can always expect to find them in the data we maintain.\n"
-msgstr ""
+msgstr "Uma coisa é certa: os erros são comuns e podemos esperar encontrá-los nos dados que mantemos.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:39
 #, no-wrap
 msgid "Our goal is to apply the best practices, including principles, processes, and tools, to make the data as fit for use as possible, even if we don’t know how data users will use the data.\n"
-msgstr ""
+msgstr "O nosso objetivo é aplicar as melhores práticas, incluindo princípios, processos e ferramentas, para tornar os dados mais adequados ao uso quanto possível, mesmo se não soubermos como serão usados os dados pelos seus utilizadores.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:45
@@ -6069,25 +6069,27 @@ msgstr ""
 msgid "Let’s take a look at several of the recommended principles of data cleaning.\n"
 "These principles are presented for your consideration so that you can develop and improve upon your own data quality workflow.\n"
 "The workflow that you create should represent the most efficient and effective process to achieve the highest data quality given your institution’s resources and expertise.\n"
-msgstr ""
+msgstr "Vamos analisar vários dos princípios recomendados de limpeza de dados.\n"
+"Esses princípios são apresentados para a sua consideração, para que possa desenvolver e melhorar o seu próprio fluxo de trabalho de qualidade de dados.\n"
+"O fluxo de trabalho que irá cria deve representar o processo mais eficiente e eficaz para alcançar a maior qualidade de dados, dados os recursos e conhecimentos da sua instituição.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:47
 #, no-wrap
 msgid "Talk to your colleagues to learn about their workflows, but ultimately you should strive to create a workflow that will help you to achieve your data quality goals.\n"
-msgstr ""
+msgstr "Fale com os seus colegas para saber mais sobre os fluxos de trabalho, mas em última análise, deve esforçar-se para criar um fluxo de trabalho que irá ajudá-lo a alcançar os seus objetivos de qualidade de dados.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:49
 #, no-wrap
 msgid "// Slide 7: Plan and Organize\n"
-msgstr ""
+msgstr "// Slide 7: Planear e Organizar\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:51
 #, no-wrap
 msgid "The first two principles in data cleaning are planning and organization.\n"
-msgstr ""
+msgstr "Os dois primeiros princípios na limpeza de dados são o planeamento e a organização.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:56
@@ -6096,7 +6098,10 @@ msgid "Plan how you want the cleaning process to go.\n"
 "A scattered or random approach is not likely to produce consistent results.\n"
 "Develop and implement a strategy that fits with your institution’s resources and expertise.\n"
 "A solid plan will improve both your data and the reputation of your institution among data users.\n"
-msgstr ""
+msgstr "Planeie como deseja que o processo de limpeza será realizado.\n"
+"Uma abordagem dispersa ou aleatória não produzirá resultados consistentes.\n"
+"Desenvolva e implemente uma estratégia que se encaixe nos recursos e conhecimentos da sua instituição.\n"
+"Um plano sólido melhorará tanto os seus dados quanto a reputação da sua instituição entre os utilizadores de dados.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:61
@@ -6105,7 +6110,10 @@ msgid "One of the first steps of your plan should be to organize the data.\n"
 "For example, you could organize your data by taxon and then send the appropriate subset of data to individuals with the knowledge or resources to clean based on names.\n"
 "This can be done by geography or basis of record, or even in specifically sized packages of data in numeric order.\n"
 "Work to the strengths of your institution.\n"
-msgstr ""
+msgstr "Uma das primeiras etapas do seu plano deve ser a organização dos dados.\n"
+"Por exemplo, pode organizar os seus dados por taxon e então enviar o subconjunto apropriado de dados para as pessoas com o conhecimento ou recursos para limpar com base em nomes.\n"
+"Isso pode ser feito pela geografia ou base do registo, ou até mesmo em pacotes especificamente de tamanho de dados em ordem numérica.\n"
+"Trabalhe nos pontos fortes de sua instituição.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:68
@@ -6114,14 +6122,18 @@ msgid "As Arthur Chapman says “Prevention is better than cure.” \n"
 "At the end of the day is always easier and less expensive to prevent an error than it is seek one out and correct it.\n"
 "The more planning you do in advance, even all the way back to the moment that data is recorded in the field, the fewer errors you are likely to find.\n"
 "Standardized vocabularies and clear procedures for data capture and data entry are only a few of the many tools you can use to prevent possible errors.\n"
-msgstr ""
+msgstr "Como diz Arthur Chapman, “Mais vale prevenir do que remediar. \n"
+"Afinal de contas, é sempre mais fácil e menos caro evitar um erro do que procurá-lo e corrigi-lo.\n"
+"Quanto mais planeamento fizer com antecedência, mesmo regressando ao momento em que os dados são registados no campo, menos erros irá provavelmente encontrar.\n"
+"Os vocabulários padronizados e procedimentos claros para a entrada de dados e captura de dados são apenas algumas das muitas ferramentas que pode usar para evitar possíveis erros.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:71
 #, no-wrap
 msgid "Be sure that everyone in your organization understands that data quality is everyone’s responsibility.\n"
 "Of course, the primary responsibility lies with the people who maintain the data, but everyone, from field technicians to students performing data entry to emeritus curators have a responsibility to treat the data with care and to communicate any errors or inconsistencies they might discover.\n"
-msgstr ""
+msgstr "Certifique-se de que todos os membros da sua organização entendem que a qualidade dos dados é da responsabilidade de todos.\n"
+"Como é claro, a principal responsabilidade é das pessoas que mantêm os dados, mas todos, de técnicos de campo a estudantes que realizam entradas de dados, a curadores esmeritus, todos têm a responsabilidade de tratar os dados com cuidado e comunicar quaisquer erros ou inconsistências que possam descobrir.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:77
@@ -6129,7 +6141,9 @@ msgstr ""
 msgid "Data maintenance is only as effective as the expertise that support the process and no single individual can be expected to know everything about everything.\n"
 "Developing partnerships with data users and content experts can help to make the data quality process more successful.\n"
 "Reach out to your user community, both inside and outside of your institution, and work with them to help maintain your data at the highest quality.\n"
-msgstr ""
+msgstr "A manutenção de dados é tão eficaz como o conhecimento especializado que apoia o processo e não se pode esperar que nenhum indivíduo saiba tudo sobre tudo.\n"
+"O desenvolvimento de parcerias com utilizadores de dados e especialistas em conteúdo pode ajudar a tornar o processo de qualidade de dados mais bem-sucedido.\n"
+"Entre em contato com sua comunidade de utilizadores, dentro e fora da sua instituição, e trabalhe com eles para manter os seus dados na mais alta qualidade.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:82
@@ -6138,7 +6152,10 @@ msgid "Prioritize your cleaning to take advantage of the resources and knowledge
 "For example, you may choose to review all of the data recorded by collectors who are still alive so that important data is not lost later.\n"
 "If you maintain a large dataset you might choose to prioritize data that can be cleaned at the lowest cost using automated processes and then prioritize the more difficult errors that require individual attention.\n"
 "Ultimately, you should prioritize the data that is of the greatest value to the work of your institution and then move through the data in a logical and orderly manner.\n"
-msgstr ""
+msgstr "Priorize a limpeza para tirar proveito dos recursos e do conhecimento que a sua instituição possui.\n"
+"Por exemplo, pode optar por rever todos os dados registados pelos coletores que ainda estão vivos para que os dados importantes não sejam perdidos mais tarde.\n"
+"Se mantiver um grande conjunto de dados, pode optar por priorizar dados que podem ser limpos com menor custo usando processos automatizados e só depois priorizar os erros mais difíceis que requerem atenção individual.\n"
+"Em última análise, deve dar prioridade aos dados que mais valorizam o trabalho da sua instituição e depois passar pelos dados de uma forma lógica e ordenada.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:84 scripts/data-types.en.txt:52
@@ -6148,7 +6165,7 @@ msgstr ""
 #: scripts/structures.en.txt:66
 #, no-wrap
 msgid "// Slide 10\n"
-msgstr ""
+msgstr "// Slide 10\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:88
@@ -6838,19 +6855,19 @@ msgstr ""
 #: scripts/data-types.en.txt:21
 #, no-wrap
 msgid "a list of species present in a protected area is a checklist.\n"
-msgstr ""
+msgstr "uma lista de espécies presentes numa área protegida é uma checklist.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:23
 #, no-wrap
 msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
-msgstr ""
+msgstr "uma lista nacional ou temática de taxa (por exemplo, Borboletas do Laos, ou a Flora da Malásia), que às vezes fornecem mais informação sobre a distribuição, hierarquia taxonómica e sinónimos dos taxa é uma checklist.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:25
 #, no-wrap
 msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
-msgstr ""
+msgstr "Listas vermelhas da IUCN (ao nível internacional, nacional ou regional) também são checklists e podem fornecer mais informações sobre o estado de vulnerabilidade dos taxa listados.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:31
@@ -6858,14 +6875,17 @@ msgstr ""
 msgid "GBIF provides data publishers with templates for each class of dataset.\n"
 "The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
 "In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
-msgstr ""
+msgstr "O GBIF fornece aos publicadores de dados modelos para cada classe de conjunto de dados.\n"
+"O modelo do GBIF para checklists (dados de taxon) permite que partilhe informações ligadas a cada espécie ou taxa: o seu ID, nome completo e autor, relação com outros taxa, detalhes geográficos e assim por diante.\n"
+"Neste modelo, uma linha representa um taxon e um taxon só pode aparecer uma vez no conjunto de dados (caso contrário criará uma duplicação).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:36
 #, no-wrap
 msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
 "Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
-msgstr ""
+msgstr "O segundo tipo de dados que podem ser publicados através GBIF são dados provenientes da história natural ou de coleções científicas, também conhecidos como espécimes.\n"
+"Ao contrário das checklists, a unidade principal de uma coleção de espécimes será os espécimes (um único organismo ou grupo de organismos), e pode ter vários espécimes do mesmo grupo de espécies ou taxon.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:38 scripts/definitions.en.txt:44
@@ -6874,14 +6894,15 @@ msgstr ""
 #: scripts/standards.en.txt:93 scripts/structures.en.txt:41
 #, no-wrap
 msgid "// Slide 7\n"
-msgstr ""
+msgstr "// Slide 7\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:41
 #, no-wrap
 msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
 "However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
-msgstr ""
+msgstr "Coleções e espécimes diferem muito em números, tamanhos e métodos de preservação.\n"
+"No entanto, qualquer tipo de coleção que tenha organismos vivos preservados pode ser capturada e partilhada através do GBIF; por exemplo, as coleções de herbário ou zoológicas (incluindo os fósseis); no entanto, as coleções de geologia ou artefatos humanos não se enquadram no âmbito do GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:45
@@ -6939,7 +6960,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:151 scripts/structures.en.txt:95
 #, no-wrap
 msgid "// Slide 15\n"
-msgstr ""
+msgstr "// Slide 15\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:81
