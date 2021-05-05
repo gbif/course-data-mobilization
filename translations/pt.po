@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-04-29 15:03+0000\n"
-"PO-Revision-Date: 2021-05-04 17:21\n"
+"PO-Revision-Date: 2021-05-05 07:56\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -147,7 +147,7 @@ msgstr "Objetivos de aprendizagem"
 #. type: Plain text
 #: description.en.adoc:39
 msgid "Learn key concepts (foundations) of biodiversity informatics, particular to biodiversity digital data management."
-msgstr "Aprenda conceitos-chave (fundações) de informação sobre biodiversidade, especialmente para a gestão de dados digitais de biodiversidade."
+msgstr "Aprenda conceitos-chave (fundamentos) de informação sobre biodiversidade, especialmente para a gestão de dados digitais de biodiversidade."
 
 #. type: Plain text
 #: description.en.adoc:40
@@ -273,7 +273,7 @@ msgstr "Este link:../course-docs/ExerciseSheets.zip[arquivo compactado, opts=dow
 #: foundations.en.adoc:2
 #, no-wrap
 msgid "Foundations "
-msgstr "Fundações "
+msgstr "Fundamentos "
 
 #. type: Plain text
 #: foundations.en.adoc:9
@@ -799,7 +799,7 @@ msgstr "Descarregue, extraia, em seguida digite ./refine para iniciar. Este requ
 #: foundations.en.adoc:259
 #, no-wrap
 msgid "Foundations review"
-msgstr "Revisão das fundações"
+msgstr "Revisão dos fundamentos"
 
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
@@ -4570,7 +4570,7 @@ msgstr "Este apêndice contém as respostas e informações adicionais para todo
 #: solutions.en.adoc:7
 #, no-wrap
 msgid "Foundations review solutions"
-msgstr "Soluções de revisão de fundações"
+msgstr "Soluções da revisão dos fundamentos"
 
 #. type: Plain text
 #: solutions.en.adoc:10
@@ -4934,18 +4934,18 @@ msgstr "Maior consciencialização pública - NÃO, esse é um objetivo implíci
 #: solutions.en.adoc:140
 #, no-wrap
 msgid "Data capture review solutions"
-msgstr ""
+msgstr "Soluções de revisão dos dados de captura"
 
 #. type: Plain text
 #: solutions.en.adoc:143
 #, no-wrap
 msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
-msgstr ""
+msgstr "*Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma coleção de ictiologia?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:148
 msgid "occurrence + Most of the time, specimens from collection databases are shared as occurrence data.  Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.  Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID."
-msgstr ""
+msgstr "ocorrência + A maioria das vezes, espécimes de bases de dados de colheita são partilhados como dados de ocorrência. Cada ocorrência (espécime ou grupo de espécimes) tem o seu próprio identificador único (às vezes derivado do seu número de catálogo na coleção fonte) e os campos Darwin Core usados para partilhá-los através do GBIF descrevem cada espécime: nome científico, a data em que foi recolhido no campo, quem o recolheu e/ou identificou, onde, etc. Cada coleção pode ter mais do que um espécime de uma mesma espécie, desde que cada espécime seja identificado por um identificador único."
 
 #. type: Plain text
 #: solutions.en.adoc:150
