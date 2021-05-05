@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-29 15:03+0000\n"
+"POT-Creation-Date: 2021-05-05 11:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5762,6 +5762,67 @@ msgstr ""
 #. type: Plain text
 #: glossary.en.adoc:65
 msgid "<<<"
+msgstr ""
+
+#. type: Title ==
+#: data-papers.en.adoc:3
+#, no-wrap
+msgid "Appendix: Data papers"
+msgstr ""
+
+#. type: Plain text
+#: data-papers.en.adoc:12
+msgid ""
+"A data paper is a peer reviewed document describing a dataset, published in "
+"a peer reviewed journal.  It takes effort to prepare, curate and describe "
+"data.  Data papers provide recognition for this effort by means of a "
+"scholarly article.  We do not cover how to create data papers in this "
+"course, however, as an optional activity, you can watch this video (51:51) "
+"presented by Lizanne Roxburgh.  In this video, you will learn more about "
+"publishing data papers.  If you are unable to watch the embeded Vimeo video, "
+"you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it "
+"locally. (MP4 - 99.2 MB)"
+msgstr ""
+
+#. type: Plain text
+#: data-papers.en.adoc:16
+msgid "You can read more about data papers on GBIF.org."
+msgstr ""
+
+#. type: Target for macro image
+#: data-papers.en.adoc:17
+#, no-wrap
+msgid "img/web/datapapers.png"
+msgstr ""
+
+#. type: Target for macro image
+#: data-papers.en.adoc:19
+#, no-wrap
+msgid "img/web/datapapersIPT.png"
+msgstr ""
+
+#. type: delimited block =
+#: data-papers.en.adoc:23
+msgid ""
+"View the links below to see a data paper as it appears on the IPT, on "
+"GBIF.org and in the Journal. Each are cross-linked."
+msgstr ""
+
+#. type: delimited block =
+#: data-papers.en.adoc:25
+msgid "Journal: https://doi.org/10.3897/BDJ.2.e4244"
+msgstr ""
+
+#. type: delimited block =
+#: data-papers.en.adoc:26
+msgid "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
+msgstr ""
+
+#. type: delimited block =
+#: data-papers.en.adoc:27
+msgid ""
+"IPT: "
+"http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
 msgstr ""
 
 #. type: Title ==
