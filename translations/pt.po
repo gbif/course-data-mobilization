@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-06 15:16\n"
+"PO-Revision-Date: 2021-05-06 17:14\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -311,7 +311,7 @@ msgstr "Neste vídeo (05:58), revisará exemplos dos diferentes tipos de aplica�
 #. type: Plain text
 #: foundations.en.adoc:25
 msgid "video::434713189[vimeo,height=540,width=960,align=center]"
-msgstr ""
+msgstr "video::434713189[vimeo,height=540,width=960,align=center]"
 
 #. type: Title ====
 #: foundations.en.adoc:26
@@ -1007,7 +1007,7 @@ msgstr "- [ ] O director do museu ou do departamento\n"
 #. type: Plain text
 #: foundations.en.adoc:375
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]"
-msgstr ""
+msgstr "Para as instruções fornecidas, insira a imagem correspondente. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]"
 
 #. type: delimited block .
 #: foundations.en.adoc:386
@@ -1733,7 +1733,9 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma cole
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
 "image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
+"image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:78 capture.en.adoc:91
