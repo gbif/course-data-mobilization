@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-05 11:53+0000\n"
-"PO-Revision-Date: 2021-05-05 19:01\n"
+"POT-Creation-Date: 2021-05-06 14:32+0000\n"
+"PO-Revision-Date: 2021-05-06 15:15\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -310,8 +310,8 @@ msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des diff�
 
 #. type: Plain text
 #: foundations.en.adoc:25
-msgid "video::434713189[vimeo, height=480, width=640, align=center]"
-msgstr "video::434713189[vimeo, height=480, width=640, align=center]"
+msgid "video::434713189[vimeo,height=540,width=960,align=center]"
+msgstr ""
 
 #. type: Title ====
 #: foundations.en.adoc:26
@@ -1006,8 +1006,8 @@ msgstr "- [ ] Le directeur du musée ou de département\n"
 #.  Question 9
 #. type: Plain text
 #: foundations.en.adoc:375
-msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]"
-msgstr "Pour les assertions données, entrez l'image correspondante. (A, B, C, D) image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]"
+msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]"
+msgstr ""
 
 #. type: delimited block .
 #: foundations.en.adoc:386
@@ -1732,10 +1732,8 @@ msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour une collection i
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
-"image::img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
-"image::img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:78 capture.en.adoc:91
@@ -1758,10 +1756,8 @@ msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour une liste d'esp�
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
-"image::img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".Jacinthe d'eau (Eichhornia crassipes) observée à Bourail, Nouvelle-Calédonie, où il s'agit d'une espèce introduite et envahissante par GRIIS. Photo par Gérard (2016) sous licence CC BY-SA 2.0\n"
-"image::img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-plant.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #.  Question 3
 #. type: Plain text
@@ -1780,10 +1776,8 @@ msgstr "Les études d'impact sur l'environnement sont réalisées par des expert
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
-"image::img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologiste capturant des papillons] par Matthieu Gauvain (CC-BY-SA)\n"
-"image::img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-field.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:106 capture.en.adoc:134 capture.en.adoc:166
@@ -1812,10 +1806,8 @@ msgstr "Les données de suivi des oiseaux sont enregistrées à l'aide d'apparei
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
-"image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observé à la Réserve Naturelle de Gamla par מינוזיג - MinoZig (CC0) \n"
-"image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-tracking.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:121
@@ -1838,10 +1830,8 @@ msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour des données de 
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
-"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://www.flickr.com/photos/miheco/215305679/[Piège à insectes] par miheco (CC-BY-SA)\n"
-"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #.  Question 6
 #. type: Plain text
@@ -1860,10 +1850,8 @@ msgstr "Les données acquises dans le cadre de la gestion des aires protégées 
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
-"image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[éléphants sri-lankais] observés par pen_ash.\n"
-"image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-Observations.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:149
@@ -1898,10 +1886,8 @@ msgstr "Les données de chaque participant sont saisies et agrégées dans l’o
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
-"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[À la recherche d'oiseaux avec le personnel du parc] par le US National Park Service (réutilisation autorisée sur Google Image search)\n"
-"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #.  Question 8
 #. type: Plain text
@@ -1914,10 +1900,8 @@ msgstr "Quel(s) type(s) de jeu de données choisiriez-vous pour une liste d'esp�
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
-"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Rhinocéros noir] observé au Zoo de Magdebourg en Allemagne par Mani300\n"
-"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:179
@@ -4796,9 +4780,8 @@ msgstr "Les utilisateurs des données pour la recherche ou l'éducation"
 #: solutions.en.adoc:79
 #, no-wrap
 msgid "*For the given statements, input the matching image. (A, B, C, D)*\n"
-"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr "*Pour les assertions données, entrez l'image correspondante. (A, B, C, D)*\n"
-"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:82
