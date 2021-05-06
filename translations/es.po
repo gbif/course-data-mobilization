@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-06 15:15\n"
+"PO-Revision-Date: 2021-05-06 16:17\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -256,7 +256,7 @@ msgstr "Datos del ejercicio"
 #. type: Plain text
 #: downloads.en.adoc:14
 msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
-msgstr ""
+msgstr "Este enlace:../exercise-data/UseCaseExerciseData.zip[archivo comprimido,opts=download] (ZIP 37.7 MB) contiene los datos del ejercicio para todos los casos de uso."
 
 #. type: Title ===
 #: downloads.en.adoc:15
@@ -267,7 +267,7 @@ msgstr "Hojas de ejercicio"
 #. type: Plain text
 #: downloads.en.adoc:17
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr ""
+msgstr "Este enlace:../course-docs/ExerciseSheets.zip[archivo comprimido,opts=download] (ZIP 1.4 MB) contiene las hojas de ejercicio para todos los casos de uso. Las hojas de ejercicios están escritas en inglés y deben completarse en inglés."
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -311,7 +311,7 @@ msgstr "En este vídeo (05:58), se repasan ejemplos de los diferentes tipos de a
 #. type: Plain text
 #: foundations.en.adoc:25
 msgid "video::434713189[vimeo,height=540,width=960,align=center]"
-msgstr ""
+msgstr "video::434713189[vimeo,height=540,width=960,align=center]"
 
 #. type: Title ====
 #: foundations.en.adoc:26
@@ -455,7 +455,7 @@ msgstr ""
 #: foundations.en.adoc:111
 #, no-wrap
 msgid "*Error*\n"
-msgstr ""
+msgstr "*Error*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:118
@@ -476,7 +476,7 @@ msgstr ""
 #: foundations.en.adoc:127
 #, no-wrap
 msgid "*Validation and Cleaning*\n"
-msgstr ""
+msgstr "*Validación y Limpieza*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:133
