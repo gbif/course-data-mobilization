@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-07 21:32\n"
+"PO-Revision-Date: 2021-05-07 22:31\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -6400,7 +6400,7 @@ msgstr "// SLIDE 4\n"
 #: scripts/data-quality.en.txt:20
 #, no-wrap
 msgid "Stepping back into the domain of biodiversity informatics, the classic definition of data quality was coined in 2005 by Arthur Chapman.\n"
-msgstr ""
+msgstr "Voltando ao domínio da informação sobre biodiversidade, a definição clássica de qualidade de dados foi cunhada em 2005 por Arthur Chapman.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:24
@@ -6408,33 +6408,37 @@ msgstr ""
 msgid "He wrote: “Data quality is related to use and cannot be assessed independently of the user.\n"
 "In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized when someone uses the data to do something useful.\n"
 "Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).”\n"
-msgstr ""
+msgstr "Escreveu: “A qualidade dos dados está relacionada com o seu uso e não pode ser avaliada independentemente do utilizador.\n"
+"Numa base de dados, os dados não têm verdadeira qualidade ou valor (Dalcin 2004); só têm valor potencial que é realizado quando alguém usa os dados para fazer algo útil.\n"
+"A qualidade da informação está relacionada à sua capacidade de satisfazer seus clientes e atender às necessidades dos clientes (English 1999)\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:27
 #, no-wrap
 msgid "And so, for us, as individuals who are responsible for maintaining data, we want the data we publish to be as satisfying to all of our potential users as possible.\n"
 "To do this, we seek to provide the highest quality data.\n"
-msgstr ""
+msgstr "E assim, para nós, como indivíduos que são responsáveis pela manutenção dos dados, queremos que os dados que publicamos sejam o mais satisfatórios possível para todos os nossos potenciais utilizadores.\n"
+"Para fazer isso, procuraremos fornecer os dados de mais alta qualidade.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:29
 #, no-wrap
 msgid "// SLIDE 5\n"
-msgstr ""
+msgstr "// SLIDE 5\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:32
 #, no-wrap
 msgid "To help you to accomplish this task, we will explore Fitness for Use.\n"
 "We will also explore the Measures of Quality, specifically, Correctness and Consistency.\n"
-msgstr ""
+msgstr "Para ajudá-lo a cumprir esta tarefa, exploraremos o Ajuste para o Uso.\n"
+"Também exploraremos as Medidas de Qualidade, especificamente, Correção e Consistência.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:34
 #, no-wrap
 msgid "These are important concepts that you will need to know and be able to articulate about your own data or data that you maintain.\n"
-msgstr ""
+msgstr "Estes são conceitos importantes que precisará saber e ser capaz de articular sobre os seus próprios dados ou dados que mantenha.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:36
@@ -6447,37 +6451,38 @@ msgstr "// SLIDE 6\n"
 #, no-wrap
 msgid "Let’s begin with an example of Fitness for Use.\n"
 "A shoemaker creates a pair of clogs for the purpose of covering a person’s feet, just like those at the top of this image.\n"
-msgstr ""
+msgstr "Vamos começar com um exemplo de Ajuste para o Uso.\n"
+"Um sapateiro cria um par de tamancos com a finalidade de cobrir os pés de uma pessoa, como os que estão no topo desta imagem.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:41
 #, no-wrap
 msgid "// SLIDE 7\n"
-msgstr ""
+msgstr "// SLIDE 7\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:43
 #, no-wrap
 msgid "When the shoemaker made these shoes, did he know that this girl would use them for dancing?\n"
-msgstr ""
+msgstr "Quando o sapateiro fez estes sapatos, ele sabia que essa menina os usaria para dançar?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:45
 #, no-wrap
 msgid "Maybe.\n"
-msgstr ""
+msgstr "Talvez.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:47
 #, no-wrap
 msgid "// SLIDE 8\n"
-msgstr ""
+msgstr "// SLIDE 8\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:49
 #, no-wrap
 msgid "Do you think that the same shoemaker knew that a gardener might one day use the shoes as plant pots?\n"
-msgstr ""
+msgstr "Você acha que o mesmo sapateiro sabia que um jardineiro pode um dia usar os sapatos como vasos para plantas?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:53
@@ -6485,46 +6490,50 @@ msgstr ""
 msgid "Maybe not.\n"
 " \n"
 "// SLIDE 9\n"
-msgstr ""
+msgstr "Talvez não.\n\n"
+"// SLIDE 9\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:56
 #, no-wrap
 msgid "We often hear people talk about data’s Fitness for Use in the ecological sciences, but what we need to remember is that data is not inherently good or bad.\n"
 "Rather it is the user of the data who gives data its value.\n"
-msgstr ""
+msgstr "Muitas vezes ouvimos as pessoas falar sobre o Ajuste para o Uso dos dados para serem usados nas ciências ecológicas, mas o que temos de recordar é que os dados não são inerentemente bons nem maus.\n"
+"Em vez disso, é o utilizador dos dados que fornece o seu valor.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:59
 #, no-wrap
 msgid "For example, for one person, data identified to the level of Genus may be sufficient to run predictive models of ecological niches.\n"
 "For a person studying a particular taxon, that same genus-level data will be much less useful than more detailed occurrences with subspecies information.\n"
-msgstr ""
+msgstr "Por exemplo, para uma pessoa, os dados identificados ao nível do género podem ser suficientes para correr modelos preditivos de nichos ecológicos.\n"
+"Para uma pessoa que estuda um determinado taxon, esses mesmos dados ao nível do género serão muito menos úteis do que ocorrências mais detalhadas com informações de subespécies.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:61
 #, no-wrap
 msgid "// SLIDE 10\n"
-msgstr ""
+msgstr "// SLIDE 10\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:63
 #, no-wrap
 msgid "So, what is Fitness for Use and how does it relate to data?\n"
-msgstr ""
+msgstr "Então, o que é o Ajuste para o Uso e como ele se relaciona com dados?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:65
 #, no-wrap
 msgid "When Chapman discusses Fitness for Use, he says that once a dataset has been created and shared there are two primary perspectives on how those data might be used; the perspective of the creator and the perspective of the user.\n"
-msgstr ""
+msgstr "Quando o Chapman discute o Ajuste para o Uso, afirma que, uma vez um conjunto de dados criado e partilhado, há duas perspectivas primárias sobre a forma como esses dados podem ser utilizados; a perspectiva do criador e a perspectiva do utilizador.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:68
 #, no-wrap
 msgid "To help somebody to decide if your data is trustworthy or useful enough for them to use, you have to understand your data and how to convey those data to the potential user.\n"
 "These are some of the important questions about the metadata, or characteristics of your data, that you should be able to answer and share with others:\n"
-msgstr ""
+msgstr "Ajudar alguém a decidir se os seus dados são confiáveis ou úteis o suficiente para eles usarem, precisa compreender os seus dados e como transmitir esses dados ao potencial utilizador.\n"
+"Estas são algumas das questões importantes sobre os metadados, ou características dos seus dados, que deve ser capaz de responder e partilhar com outros:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:72
@@ -6532,7 +6541,9 @@ msgstr ""
 msgid "How Accessible are your data? \n"
 "How easily can someone access your data? \n"
 "People can’t use the data if they can’t find the data.\n"
-msgstr ""
+msgstr "Qual o nível de acesso dos seus dados? \n"
+"Com que facilidade alguém pode aceder aos seus dados? \n"
+"As pessoas não podem usar os dados se não os conseguirem encontrar.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:76
@@ -6869,65 +6880,70 @@ msgstr ""
 #, no-wrap
 msgid "We have just discussed several simple illustrations of two measures of data quality.\n"
 "These examples should give you a basic understanding about how to identify the inaccuracies and imprecisions in data.\n"
-msgstr ""
+msgstr "Acabámos de discutir vários exemplos simples de duas medidas de qualidade de dados.\n"
+"Esses exemplos devem dar-lhe um entendimento básico sobre como identificar inexactidões e imprecisões nos dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:208
 #, no-wrap
 msgid "How we document and fix these issues or errors is a process that we call data cleaning.\n"
-msgstr ""
+msgstr "Como documentamos e corrigimos esses problemas ou erros é um processo que chamamos de limpeza de dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:210
 #, no-wrap
 msgid "More specifically:\n"
-msgstr ""
+msgstr "Mais especificamente:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:213
 #, no-wrap
 msgid "Data cleaning is the process of correcting or removing dirty data caused by contradictions, disparities, keying mistakes, missing bits, and more.\n"
 "It also includes validation of the changes made, and may require normalization.\n"
-msgstr ""
+msgstr "A limpeza de dados é o processo de correcção ou remoção de dados errados causados por contradições, disparidades, erros de chave, partes perdidas e mais.\n"
+"Também inclui a validação das alterações feitas, e pode exigir normalização.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:215
 #, no-wrap
 msgid "Our data cleaning, or lack thereof, will affect how data users perceive your data’s fitness for use.\n"
-msgstr ""
+msgstr "A nossa limpeza de dados, ou falta dela, afetará a forma como os utilizadores percebem o ajuste para o uso dos seus dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:217
 #, no-wrap
 msgid "It is not necessary for you to do all the data cleaning yourself, in fact, a common misconception is that all errors MUST be fixed before you can share your data.\n"
-msgstr ""
+msgstr "Não é necessário que façavocê mesmo toda a limpeza, de fato, um erro comum é que todos os erros DEVEM ser corrigidos antes que você possa partilhar os seus dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:220
 #, no-wrap
 msgid "The truth is that you can only clean as much data as your time, knowledge, and resources permit.\n"
 "As a result, it is essential to document what you know and what you do not know about your data so that when you do share them, data users will know the level of the quality of your data.\n"
-msgstr ""
+msgstr "A verdade é que só é possível limpar a quantidade de dados que o seu tempo, conhecimento e recursos permitem.\n"
+"Como resultado, é essencial documentar o que você sabe e o que você não sabe sobre seus dados, para que quando os partilhe, os utilizadores saibam o nível de qualidade dos seus dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:222
 #, no-wrap
 msgid "// SLIDE 23\n"
-msgstr ""
+msgstr "// SLIDE 23\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:229
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant with additional contributions by Dag Endresen, David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Sharon Grant com contribuições adicionais por Dag Endresen, David Bloom, Formadores BID e BIFA, Mentores e Estudantes.\n"
+"Esta apresentação foi narrada por David Bloom.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:5
 #, no-wrap
 msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
 "These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
-msgstr ""
+msgstr "Nesta apresentação, vamos dar uma olhada nos diferentes tipos de dados que podem ser chamados de \"dados primários de biodiversidade\" e partilhados através do GBIF.\n"
+"Estes dados podem ser complexos e ter origens diferentes; veremos como eles podem ser estruturados numa das três classes de dados aceites pelo GBIF, baseado no padrão de partilha de dados Darwin Core que é usado na comunidade GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:10
