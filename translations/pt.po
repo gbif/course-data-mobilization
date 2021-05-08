@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-07 22:31\n"
+"PO-Revision-Date: 2021-05-08 12:46\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -6551,7 +6551,9 @@ msgstr "Qual o nível de acesso dos seus dados? \n"
 msgid "How Accurate are your data? \n"
 "Can your data be trusted? \n"
 "For example, are your identifications current and were they made by known experts?\n"
-msgstr ""
+msgstr "Quão exatos são os seus dados? \n"
+"Podem os seus dados ser confiáveis? \n"
+"Por exemplo, as suas identificações são atuais e foram feitas por especialistas conhecidos?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:80
@@ -6559,7 +6561,9 @@ msgstr ""
 msgid "How Timely are they? \n"
 "When will the data be made available? \n"
 "How often are they updated? \n"
-msgstr ""
+msgstr "Quão atuais são eles? \n"
+"Quando serão os dados disponibilizados? \n"
+"Com que frequência são atualizados? \n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:84
@@ -6567,7 +6571,9 @@ msgstr ""
 msgid "How Complete or Comprehensive are the data? \n"
 "Which parts of your dataset are documented fully? \n"
 "How well do the data cover a particular time, place, or domain?\n"
-msgstr ""
+msgstr "Quão completos ou abrangentes são os dados? \n"
+"Que partes do seu conjunto de dados estão documentadas? \n"
+"Quão bem cobrem os dados um determinado período, lugar ou domínio?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:88
@@ -6575,14 +6581,17 @@ msgstr ""
 msgid "How Consistent are they? \n"
 "Is the data in each field always of the same type? \n"
 "Was the data collected using the same documented protocols?\n"
-msgstr ""
+msgstr "Qual a consistência deles? \n"
+"Os dados em cada campo são sempre do mesmo tipo? \n"
+"Foram os dados colhidos usando os mesmos protocolos documentados?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:91
 #, no-wrap
 msgid "How Relevant are they? \n"
 "How similar is this dataset to others that have been used successfully for the same purpose?\n"
-msgstr ""
+msgstr "Quanto relevantes são eles? \n"
+"Quão similar é este conjunto de dados a outros que foram usados com éxito para a mesma finalidade?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:95
@@ -6590,7 +6599,9 @@ msgstr ""
 msgid "How Detailed are the data? \n"
 "How much resolution is there in your data? \n"
 "At what scale can they be used for mapping?\n"
-msgstr ""
+msgstr "Qual é o detalhe dos dados? \n"
+"Que resolução existe nos seus dados? \n"
+"Em que escala podem ser usados para mapeamento?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:99
@@ -6598,19 +6609,21 @@ msgstr ""
 msgid "Is the data Easy to interpret? \n"
 "Is the dataset documented in a clear and concise way? \n"
 "If your documents are handwritten, are they legible?\n"
-msgstr ""
+msgstr "Os dados são fáceis de interpretar? \n"
+"O conjunto de dados é documentado de uma forma clara e concisa? \n"
+"Se os seus documentos são escritos à mão, eles são legíveis?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:101
 #, no-wrap
 msgid "// SLIDE 11\n"
-msgstr ""
+msgstr "// SLIDE 11\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:103
 #, no-wrap
 msgid "While Fitness for Use is subjective, measures of data quality are much less so.\n"
-msgstr ""
+msgstr "Apesar o Ajuste para o Uso seja subjetivo, as medidas de qualidade de dados são muito menos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:106
