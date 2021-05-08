@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-08 16:00\n"
+"PO-Revision-Date: 2021-05-08 16:59\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -7142,7 +7142,7 @@ msgstr "Nos seguintes slides, veremos como o padrão Darwin Core funciona com di
 msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
 "Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
 "In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
-msgstr "Como aprendeu nos Fundamentos - Apresentação do Darwin Core, Darwin Core é um padrão de partilha de dados desenvolvido pela organização Biodiversity Information Standards (TDWG), e é amplamente utilizado para publicar dados no ambito de uma comunidade alargada do GBIF.\n"
+msgstr "Conforme aprendeu na apresentação Fundamentos - Darwin Core, o Darwin Core é um padrão de partilha de dados desenvolvido pela organização Biodiversity Information Standards (TDWG), e é amplamente utilizado para publicar dados no ambito de uma comunidade alargada do GBIF.\n"
 "Dependendo do tipo de conjunto de dados com o qual trabalha, terá que escolher um dos seus três núcleos (Núcleo de Ocorrência, Taxon ou Evento), que podem ser ligadas a uma ou mais extensões para partilhar mais informações (como links multimédia, variáveis, histórico de identificação e assim por diante).\n"
 "Nalguns casos, um núcleo pode ser usado como uma extensão vinculada a outro núcleo: esse é o caso ao publicar dados do Evento, onde se pode usar o Núcleo de Evento para descrever as áreas amostradas e, em seguida, usar o Núcleo Ocorrência como uma extensão para partilhar os espécimes ou indivíduos registados.\n"
 
@@ -10178,43 +10178,43 @@ msgstr ""
 #: scripts/standards.en.txt:164
 #, no-wrap
 msgid "Geological Context\n"
-msgstr ""
+msgstr "Contexto geológico\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:166
 #, no-wrap
 msgid "Identification\n"
-msgstr ""
+msgstr "Identificação\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:168
 #, no-wrap
 msgid "Taxon\n"
-msgstr ""
+msgstr "Taxon\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:170
 #, no-wrap
 msgid "Additionally, there are two auxiliary classes called:\n"
-msgstr ""
+msgstr "Além disso, existem duas classes auxiliares chamadas:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:172
 #, no-wrap
 msgid "ResourceRelationship\n"
-msgstr ""
+msgstr "ResourceRelationship\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:174
 #, no-wrap
 msgid "MeasurementOrFact\n"
-msgstr ""
+msgstr "MesurementOrFact\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:176
 #, no-wrap
 msgid "From the Simple Darwin Core User Guide, “Simple Darwin Core is simple in that it assumes (and allows) no structure beyond the concept of rows and columns, which might be thought of as attributes and their values, or fields and records.”\n"
-msgstr ""
+msgstr "Conforme o Simple Darwin Core User Guide, “Simple Darwin Core é simples porque ele assume (e permite) que não existe mais nenhuma estrutura além do conceito de linhas e colunas, que pode ser visto como atributos e seus valores, ou campos e registoos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:182
@@ -10222,14 +10222,17 @@ msgstr ""
 msgid "The DwC Quick Reference Guide will soon become your go to resource. \n"
 "This page provides a list of all currently recommended terms of the Darwin Core standard. \n"
 "Categories such as Occurrence or Event correspond to Darwin Core classes which group other terms.\n"
-msgstr ""
+msgstr "O Guia de Referência Rápida do DwC em breve tornará-se-á o seu recurso para uso recorrente. \n"
+"Esta página fornece uma lista de todos os termos atualmente recomendados do padrão Darwin Core. \n"
+"As categorias como Ocorrência ou Evento correspondem a classes do Darwin Core que agrupam outros termos.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:185
 #, no-wrap
 msgid " \n"
 "// Slide 12\n"
-msgstr ""
+msgstr " \n"
+"// Slide 12\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:189
@@ -10237,7 +10240,9 @@ msgstr ""
 msgid "We now will look at some examples of Darwin Core terms. \n"
 "The quick reference guide, consistently displays each term with the identifier name, definition, comments and examples. \n"
 "The first terms we’ll review are Country and CountryCode within the Location category.\n"
-msgstr ""
+msgstr "Veremos agora alguns exemplos de termos Darwin Core. \n"
+"O guia de referência rápida, exibe consistentemente cada termo com o nome de identificação do termo, definição, comentários e exemplos. \n"
+"Os primeiros termos que vamos rever são Country e CountryCode, dentro da categoria Location.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:195
@@ -10247,27 +10252,33 @@ msgid "Generally, data holders have a field for country within their source data
 "However, it is one of the most easily standardized pieces of data. \n"
 "As noted in the comments, the recommended best practice is to use a controlled vocabulary such as the Getty Thesaurus of Geographic Names. \n"
 "A controlled vocabulary places restriction on the values that should be used for that term.\n"
-msgstr ""
+msgstr "Geralmente, os detentores dos dados têm um campo para o país dentro de seus dados de origem. \n"
+"Mas muitas vezes esses dados podem ser muito confusos com erros ortográficos, abreviaturas e nomes históricos. \n"
+"No entanto, este é uma das peças dos dados mais facilmente padronizadas. \n"
+"Como observado nos comentários, a melhor prática recomendada é usar um vocabulário controlado, como o Getty Thesaurus of Geographic Names. \n"
+"Um vocabulário controlado coloca restrições sobre os valores que devem ser usados para esse termo.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:198
 #, no-wrap
 msgid "CountryCode is a term that is generally not present in holder data. \n"
 "But again, it is another field that can easily be supplied with data due to the recommendation in the comments to use an ISO 3166-1-alpha-2 country code.\n"
-msgstr ""
+msgstr "CountryCode é um termo que geralmente não está presente nos dados originais. \n"
+"Mas, de novo, é outro campo que pode ser facilmente preenchido com dados conforme a recomendação nos comentários para usar um código de país ISO 3166-1-alpha-2.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:201
 #, no-wrap
 msgid "GBIF strongly recommends the sharing of CountryCode within occurrence datasets. \n"
 "Sharing of Country is also encouraged.\n"
-msgstr ""
+msgstr "O GBIF recomenda fortemente a partilha do CountryCode dentro de conjuntos de dados de ocorrência. \n"
+"Também é recomendado a partilha do País.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:203
 #, no-wrap
 msgid "You will learn more about the GBIF requirements and recommendations in later sessions.\n"
-msgstr ""
+msgstr "Vai aprender mais sobre os requisitos e recomendações do GBIF em sessões posteriores.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:211
@@ -10277,7 +10288,11 @@ msgid "The next term is basisOfRecord. \n"
 "BasisOfRecord follows a controlled vocabulary. \n"
 "You can choose from PreservedSpecimen, FossilSpecimen, LivingSpecimen, MaterialSample, Event, HumanObservation, MachineObservation, Taxon, or Occurrence. \n"
 "GBIF requires basisOfRecord with published occurrence datasets.\n"
-msgstr ""
+msgstr "O próximo termo é basisOfRecord. \n"
+"basisOfRecord define a natureza de cada registro num conjunto de dados. \n"
+"BasisOfRecord segue um vocabulário controlado. \n"
+"Pode escolher entre PreservedSpecimen, FossilSpecimen, MaterialSpecimen, MaterialSample, Event, HumanObservation, MachineObservation, Taxon ou Occurrence. \n"
+"O GBIF requer o preenchimento do basisOfRecord nos conjuntos de dados de ocorrência publicados.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:225
@@ -10293,14 +10308,25 @@ msgid "The last term we will review is occurrenceID. \n"
 "If you use this method, these GUIDs should become a permanent field within your source data identifying each record. \n"
 "For the work done in this course, you will create a triplet. \n"
 "The format will follow the third example here highlighted in red.\n"
-msgstr ""
+msgstr "O último termo que iremos rever é o occurrenceID. \n"
+"Quando publicar registos de ocorrência, o GBIF requer um occurrenceID. \n"
+"Um occurrenceID é um identificador para a própria ocorrência, e não para o registo digital da ocorrência. \n"
+"A melhor prática recomendada é usar um identificador único global também conhecido como GUID. \n"
+"Na ausência de um GUID, um identificador único pode ser composto por outros identificadores dentro do conjunto de dados. \n"
+"Por exemplo, institutionCode, collectionCode e número do catálogo. \n"
+"Chamamos isto de triplet. \n"
+"Existem ferramentas na internet que podem ajudá-lo a gerar GUIDs para seus registos. \n"
+"Se usar este método, esses GUIDs devem tornar-se um campo permanente dentro dos seus dados de origem identificando cada registo. \n"
+"Para o trabalho realizado neste curso irá criar um triplet. \n"
+"O formato seguirá o terceiro exemplo aqui destacado a vermelho.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:228
 #, no-wrap
 msgid " \n"
 "// Slide 15\n"
-msgstr ""
+msgstr " \n"
+"// Slide 15\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:234
@@ -10310,39 +10336,45 @@ msgid "In using Simple Darwin Core, you may discover that you have more data to 
 "Or even detailed historical information on the identification of a taxon. \n"
 "When this occurs, you will look to Darwin Core extensions so that you can extend the base data by providing additional files that correspond to the base data. \n"
 "Extensions that would meet your needs in these three examples are:\n"
-msgstr ""
+msgstr "Ao usar o Simple Darwin Core, pode descobrir que tem mais dados para partilhar, mas não pode não conseguir encontrar os termos correspondentes em DwC. \n"
+"Estes dados podem ser imagens ou arquivos de som ou talvez seja responsável por uma coleção de vértebras e tem dados extensos compilados sobre os pesos e o tamanho dos espécimes. \n"
+"Ou até informações históricas detalhadas sobre a identificação de um taxon. \n"
+"Quando isso ocorrer, irá procurar nas extensões Darwin Core para que possa estender os dados base fornecendo ficheiros adicionais que correspondem aos dados base. \n"
+"As extensões que correspondem às suas necessidades nestes três exemplos são:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:238
 #, no-wrap
 msgid "Measurements or Facts\n"
-msgstr ""
+msgstr "Measurements or Facts\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:240
 #, no-wrap
 msgid "Identification History\n"
-msgstr ""
+msgstr "Identification History\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:243
 #, no-wrap
 msgid "There are many more extensions. \n"
 "GBIF maintains a list of all approved and draft extensions on its tools subsite.\n"
-msgstr ""
+msgstr "Existem muitas outras extensões. \n"
+"O GBIF mantém uma lista de todas as extensões aprovadas e rascunhos de extensões no seu subsite de ferramentas.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:248
 #, no-wrap
 msgid "There are many layers in our biodiversity informatics community. \n"
 "The image here shows the relationships between these layers and where they intersect with the Darwin Core and where extensions maybe necessary in order to fully share data.\n"
-msgstr ""
+msgstr "Há muitas camadas na nossa comunidade de informáticos para a biodiversidade. \n"
+"A imagem mostra as relações entre essas camadas e onde elas se cruzam com o Darwin Core e onde extensões talvez sejam necessárias para partilhar completamente os dados.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:252
 #, no-wrap
 msgid "Data shared to GBIF is submitted via a Darwin Core Archive or DwCA\n"
-msgstr ""
+msgstr "Os dados partilhados através do GBIF são submetidos através de um Darwin Core Archive ou DwCA\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:256
@@ -10350,31 +10382,33 @@ msgstr ""
 msgid "A DwCA is an expression of the Darwin Core text guide. \n"
 "It is a compressed file containing a minimum of three files. \n"
 "It is encoded as UTF-8. \n"
-msgstr ""
+msgstr "Um DwCA é uma expressão do guia de texto Darwin Core. \n"
+"É um ficheiro compactado que contém um mínimo de três ficheiros. \n"
+"É codificado como UTF-8. \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:259
 #, no-wrap
 msgid "In this example, these three files are: \n"
-msgstr ""
+msgstr "Neste exemplo, estes três ficheiros são: \n"
 
 #. type: Bullet: '1.	'
 #: scripts/standards.en.txt:261
 #, markdown-text, no-wrap
 msgid "A data file (occurrence.txt) conforming to the SIMPLEDWC in a CSV format where the first row includes Darwin Core standard term names.\n"
-msgstr ""
+msgstr "Um ficheiro de dados (occurrence.txt) de acordo com o SIMPLEDWC em formato CSV onde a primeira linha inclui os termos do padrão Darwin Core.\n"
 
 #. type: Bullet: '2.	'
 #: scripts/standards.en.txt:263
 #, markdown-text, no-wrap
 msgid "A meta file (meta.xml) in XML format containing technical details to instruct a computer in how to use the data file.\n"
-msgstr ""
+msgstr "Um meta ficheiro (meta.xml) no formato XML que contém detalhes técnicos para instruir um computador sobre como usar o ficheiro de dados.\n"
 
 #. type: Bullet: '3.	'
 #: scripts/standards.en.txt:265
 #, markdown-text, no-wrap
 msgid "A meta file (eml.xml) in an XML format containing explanatory details about the records contained within the data file to instruct a user if the data will be fit for their use.\n"
-msgstr ""
+msgstr "Um meta ficheiro (eml.xml) em formato XML contendo detalhes explicativos sobre os registos contidos no ficheiro de dados para instruir um utilizador sobre se os dados serão adequados ao seu uso.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:269
@@ -10382,26 +10416,29 @@ msgstr ""
 msgid "A more complex structure can be obtained by sharing multiple related csv files to extend the data. \n"
 "They are related to the core file by way of a unique id. \n"
 "In an occurrence dataset, these related csv files are related by the occurrenceID.\n"
-msgstr ""
+msgstr "Uma estrutura mais complexa pode ser obtida partilhando vários ficheiros csv relacionados para estender os dados. \n"
+"Eles estão relacionados ao ficheiro do núcleo através de um id único. \n"
+"Num conjunto de dados de ocorrência, esses ficheiros csv associados são relacionados através do occurrenceID.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:272
 #, no-wrap
 msgid " \n"
 "// Slide 18\n"
-msgstr ""
+msgstr " \n"
+"// Slide 18\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:274
 #, no-wrap
 msgid "We’ve covered What Darwin Core Is and hopefully you’ve started to develop a sense of why you should use it.\n"
-msgstr ""
+msgstr "Nós cobrimos o que é o Darwin Core e esperamos que comece a desenvolver uma sensibilidade sobre a razão pela qual dever usá-lo.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:276
 #, no-wrap
 msgid "It is a standard and standards are good! Standards provide us with the rules and protocols we need to share our data with others.\n"
-msgstr ""
+msgstr "É um padrão e os padrões são bons! Os padrões fornecem-nos as regras e protocolos que precisamos para partilhar os nossos dados com outras pessoas.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:281
@@ -10410,7 +10447,10 @@ msgid "Darwin Core also provides us with a common language. \n"
 "As we saw in the Foundations – Documentation presentation, source data can be tricky when trying to compare datasets. \n"
 "The fields in your source data might be different than the fields in another institutions data source. \n"
 "When we all use Darwin Core to share our data, we understand that data has been shared with a common language.\n"
-msgstr ""
+msgstr "O Darwin Core também nos fornece uma linguagem comum. \n"
+"Como vimos na apresentação Fundamentos – Documentação, os dados de origem podem ser complicados ao tentar comparar conjuntos de dados. \n"
+"Os campos dos seus dados de origem podem ser diferentes dos campos nas fontes de dados de outras instituições. \n"
+"Quando todos usamos o Darwin Core para partilhar os nossos dados, nós ficamos a saber que os dados foram partilhados com uma linguagem comum.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:285
@@ -10418,20 +10458,23 @@ msgstr ""
 msgid "// Slide 19\n"
 "And it’s not only the data holders that understand this common language, the data users do as well. \n"
 "And after all, what could be better than a user finding a data set that is fit for their use, shared in a common language, that allows them to do better science.\n"
-msgstr ""
+msgstr "// Slide 19\n"
+"E não são apenas os detentores de dados que entendem esta linguagem comum, os utilizadores de dados também. \n"
+"E, afinal, o que pode ser melhor do que o utilizador encontrar um conjunto de dados adequado ao seu uso partilhado em uma língua comum, que lhes permite fazer uma ciência melhor.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:296
 #, no-wrap
 msgid "This presentation was originally created by Paula Zermoglio and John Wieczorek with additional contributions by Sharon Grant, Sophie Pamerlon, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students. \n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Paula Zermoglio e John Wieczorek com contribuições adicionais por Sharon Grant, Sophie Pamerlon, Laura Anne Russell e Dag Endresen, BID e Formadores, Mentors e alunos BIFA. \n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:5
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section. \n"
 "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
+msgstr "Esta sessão é o trabalho de base e faz parte da secção de Terminologia. \n"
+"Iremos introduzi-lo sobre a linguagem, terminologia e definições de alguns dos conceitos básicos, funções e processos que vai colocar em uso durante o resto do curso.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:10
@@ -10658,7 +10701,9 @@ msgstr "Em suma, analisámos os 6 tipos de dados mais comuns, os blocos básicos
 msgid "Remember that: When you realize the difference between the container and the content, you will have knowledge. \n"
 "Using the correct terms to describe both your data and the structures that you create and use to store it; is the most important way to ensure that it remains relevant and useable.\n"
 "Never underestimate how much damage can be done to priceless information by careless descriptions and storage.\n"
-msgstr ""
+msgstr "Lembre-se de que: quando perceber a diferença entre o a estrutura e o conteúdo, terá conhecimento. \n"
+"Usando os termos corretos para descrever tanto os seus dados quanto as estruturas que cria e usa para armazená-los, é a forma mais importante de garantir que estes se mantém relevantes e utilizáveis.\n"
+"Nunca subestime a quantidade de estragos que podem ser feitos a informações valiosas por descrições e armazenamento descuidados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:165
