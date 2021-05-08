@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-08 16:59\n"
+"PO-Revision-Date: 2021-05-08 17:56\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -10481,19 +10481,20 @@ msgstr "Esta sessão é o trabalho de base e faz parte da secção de Terminolog
 #, no-wrap
 msgid "First let us review the structure of this session. \n"
 "In the section on STRUCTURES we will be working on understanding the field and data types that hold data, the structures that help to organize and protect that data and lastly look at what these mean for the integrity and security of your data.\n"
-msgstr ""
+msgstr "Em primeiro lugar, recapitularemos a estrutura desta sessão. \n"
+"Na seção sobre ESTRUTURAS trabalharemos para compreender os campos e os tipos de dados que possuem dados, as estruturas que ajudam a organizar e proteger esses dados e, por último, olhar para o que eles significam para a integridade e a segurança dos seus dados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:14
 #, no-wrap
 msgid "In this section on basic database Structures, we will focus on the different elements that databases, software tools and languages use to handle the data that you enter.\n"
-msgstr ""
+msgstr "Nesta secção em estruturas básicas de bases de dados, vamos concentrar-nos nos diferentes elementos que as bases de dados têm, ferramentas de software e linguagens que são usadas para manipular os dados que digita.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:18
 #, no-wrap
 msgid "First, let us look at field types, also known as data types.\n"
-msgstr ""
+msgstr "Primeiro, vamos ver os tipos de campo, também conhecidos como tipos de dados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:26
@@ -10503,7 +10504,11 @@ msgid "Data Types let the computer know what kind of data is expected in a parti
 "They can be simple and encompass a single concept or combine concepts depending on the software or language you are using. \n"
 "Either way the essential building blocks are the same. \n"
 "So let us look at six that you will come across most frequently.\n"
-msgstr ""
+msgstr "Tipos de Dados permitem que o computador saiba que tipo de dados são esperados num determinado campo. \n"
+"Isto então dita quais funções podem ser realizadas sobre este. \n"
+"Eles podem ser simples e englobam um único conceito ou combinar conceitos dependendo do software ou da linguagem que estiver a usar. \n"
+"De qualquer forma, os blocos de base essenciais são os mesmos. \n"
+"Então, vamos ver seis que encontrará com maior frequência.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:39
@@ -10518,7 +10523,16 @@ msgid "First Numeric fields. \n"
 "The important thing to remember here is that a float always has decimal places so the number 10 will be stored as 10.0. \n"
 "The number of decimal places being an integral element of the type. \n"
 "This has implications when it comes to precision and accuracy.\n"
-msgstr ""
+msgstr "Primeiros os campos numéricos. \n"
+"Este tipo de dados contém números e há 2 tipos: Inteiros e inteiros longos e números naturais. \n"
+"Por exemplo, 1, 2, 3, 99, 2000.\n"
+"O tamanho do número depende do número de bits atribuído ao campo (mais sobre isso depois). \n"
+"Por enquanto basta lembrar que um campo de inteiro longo terá um número maior que um inteiro.\n"
+"Vírgula flutuante (floats), também referidas como dupla precisão (double), retém frações ou partes de números naturais. \n"
+"Por exemplo, 4,5, 19,47. \n"
+"O importante para lembrar aqui é que um float tem sempre casas decimais, de modo que o número 10 será armazenado como 10.0. \n"
+"O número de casas decimais é um elemento integral do tipo. \n"
+"Isso tem implicações quando se trata de precisão e exactidão.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:45
@@ -10526,7 +10540,9 @@ msgstr ""
 msgid "Alphanumeric fields are also referred to as text, character or string fields. \n"
 "They can hold any letter, number or symbol in the coded character set and usually have a defined character limit. \n"
 "Entering more characters than the character limit can often result in truncation and loss of data on save.\n"
-msgstr ""
+msgstr "Campos alfanuméricos também são referidos como campos de texto, caracter ou string. \n"
+"Pode conter qualquer letra, número ou símbolo no conjunto de caracteres codificado e geralmente tem um limite definido de caracteres. \n"
+"Inserindo mais caracteres do que o limite de caracteres pode muitas vezes resultar no truncamento e perda de dados ao gravar.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:52
@@ -10535,7 +10551,10 @@ msgid "Another type of text field that you will come across is the Unstructured 
 "These types of field are used to hold large amounts of unformatted text and unlike alphanumeric fields may not have an obvious character limit. \n"
 "In simple systems, they are generally less flexible in terms of processing; for example sorting and indexing, than their smaller alphanumeric cousins. \n"
 "With decreased storage costs and the rise of NoSQL document-oriented database programs, such as MongoDB however, this is changing.\n"
-msgstr ""
+msgstr "Outro tipo de campo de texto que encontrará é o campo de texto não estruturado, também conhecido como campo de memo, caracter longo ou blob. \n"
+"Esses tipos de campo são usados para armazenar grandes quantidades de texto não formatado e, ao contrário de campos alfanuméricos, pode não ter um limite de caracteres óbvio. \n"
+"Em sistemas simples, eles geralmente são menos flexíveis em termos de processamento; por exemplo, ordenação e indexação, do que os seus primos mais pequenos alfanuméricos. \n"
+"Com a redução dos custos de armazenamento e o aumento dos programas de bases de dados NoSQL orientados a documentos, como o MongoBD, no entanto, isso está mudando.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:64
@@ -10549,7 +10568,15 @@ msgid "System Value fields have a double nature and what you see on the screen i
 "So you can see that the field is actually a float. \n"
 "You should beware because that system value not be the same from software to software.\n"
 "Exports should to checked to make sure the actual date is exported and not the system value.\n"
-msgstr ""
+msgstr "Os campos do Valor do Sistema têm uma natureza double e o que vê no ecrã geralmente não é o valor real que o software está armazenando na memória. \n"
+"Os campos de data e hora são o exemplo mais comum deste tipo de campo. \n"
+"Neste exemplo, você digitou 1 de março de 1971 numa célula no Excel e clique em return. \n"
+"Agora diz 1-Mar-71 na célula E 3/1/1971 na barra de funções.\n"
+"O Excel está aplicando um formato de exibição para a célula, que pode alterar à vontade. \n"
+"NO ENTANTO, se remover o formato pode ver que o que está sendo armazenado no campo é o número 25993.00! \n"
+"Então pode ver que o campo é na verdade um float. \n"
+"Deve ter cuidado porque o valor do sistema não é o mesmo de software para software.\n"
+"As exportações devem ser verificadas para garantir que a data real seja exportada e não o valor do sistema.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:71
@@ -10558,7 +10585,10 @@ msgid "Boolean fields, also known as Binary fields, only contain one of two valu
 "They are a special case of a System Value field as mentioned previously in that whilst the software actually saves a number it often displays values such as: Yes/No, Yes/no, Y/N, True/False.\n"
 "You should take care to find out which way around the system you are using translates. \n"
 "Is a 1 a yes or no?\n"
-msgstr ""
+msgstr "Os campos booleanos, também conhecidos como campos binários, só contêm um dos dois valores que representam um ou zero. \n"
+"Eles são um caso especial do campo de um Valor do Sistema, como mencionado anteriormente, enquanto o software grava um número, geralmente exibe valores tais como: Sim/Não, Sim/não, Y/N, Verdadeiro/Falso.\n"
+"Deve ter o cuidado de descobrir qual como é que o sistema que está a fazer as transformações. \n"
+"É o 1 um sim ou não?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:78
@@ -10567,20 +10597,24 @@ msgid "Structured Text fields are less common but mentioned here for completenes
 "They are fields which can be either made up of combinations of the simple data types or even be defined by the data itself. \n"
 "Most often these are used in programming languages to allow flexibility and handling of complex concepts. \n"
 "An example is the factor field used in the R programming language, which is defined as a type vector containing a set of numeric codes with character-valued levels.\n"
-msgstr ""
+msgstr "Campos de Texto Estruturados são menos comuns, mas aqui mencionados aqui para completar a informação. \n"
+"São campos que podem ser compostos por combinações de tipos simples de dados, ou até mesmo definidos pelos próprios dados. \n"
+"Na maioria das vezes esses são usados em linguagens de programação para permitir a flexibilidade e o tratamento de conceitos complexos. \n"
+"Um exemplo é o campo factor, usado na linguagem de programação R, que é definido como um tipo vector contendo um conjunto de códigos numéricos com níveis do valor de caracteres.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:82
 #, no-wrap
 msgid "Now that you have an understanding of the field types used to represent your data elements let us talk about the containers or structures, that many database programs and software use collate and display your data.\n"
-msgstr ""
+msgstr "Agora que tem o conhecimento dos tipos de campo usados para representar os seus elementos dos dados, vamos falar sobre as estruturas (containers), que muitos programas de base de dados e software usam para agregar e exibem os seus dados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:87
 #, no-wrap
 msgid "First is the cell. \n"
 "This is the smallest data structure, it holds a single value and has a single data type associated with it.\n"
-msgstr ""
+msgstr "Primeiro está a célula. \n"
+"Esta é a menor estrutura de dados, que contém um único valor e tem um único tipo de dado associado.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:93
@@ -10588,14 +10622,17 @@ msgstr ""
 msgid "There is one concept that you should beware of when it comes to cells and that is the empty cell. An empty cell doesn't necessarily mean an empty field.\n"
 "Some software fills an empty field with a System value based on the data type. \n"
 "Examples are NULL N A or even zero!\n"
-msgstr ""
+msgstr "Há um conceito que se deve ter em conta quando se trata de células, e que é a célula vazia. Uma célula vazia não significa necessariamente um campo vazio.\n"
+"Alguns softwares preenchem um campo vazio com um valor de sistema baseado no tipo de dados. \n"
+"São exemplos o NULL N A ou mesmo zero!\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:98
 #, no-wrap
 msgid "As you start to organize cells you begin to build a grid. \n"
 "Grids have implied structure in the form of Rows.\n"
-msgstr ""
+msgstr "À medida que comece a organizar células, irá começar a construir uma grelha. \n"
+"As grelhas têm estrutura implícita na forma de Linhas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:102
