@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-08 15:01\n"
+"PO-Revision-Date: 2021-05-08 16:00\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -6980,20 +6980,22 @@ msgstr "Nesta apresentação, vamos dar uma olhada nos diferentes tipos de dados
 #, no-wrap
 msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
 "I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
-msgstr ""
+msgstr "Como pode ver neste slide, o GBIF atualmente suporta quatro tipos de conjunto de dados: conjuntos de dados de Recursos (e.g. conjuntos de dados somente de metadados), checklists de espécies, conjuntos de dados de ocorrências e conjuntos de dados de eventos de amostragem.\n"
+"Não discutirei os conjuntos de dados de Recursos nesta apresentação, pois os conjuntos de dados de metadados não são suportados pelos programas financiados pelo GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:15
 #, no-wrap
 msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
 "In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
-msgstr ""
+msgstr "O primeiro tipo de conjunto de dados que pode ser publicado através do GBIF é a checklist, também conhecida como lista de espécies ou taxa superiores.\n"
+"Numa checklist, a unidade principal é o taxon, e não a ocorrência (individuo).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:19
 #, no-wrap
 msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
-msgstr ""
+msgstr "Checklists, e de forma mais geral, conjuntos de dados taxonómicos podem variar no âmbito: \n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:21
@@ -7052,28 +7054,31 @@ msgstr "Coleções e espécimes diferem muito em números, tamanhos e métodos d
 #: scripts/data-types.en.txt:45
 #, no-wrap
 msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
-msgstr ""
+msgstr "Os dados da biodiversidade também podem ser encontrados em literatura técnica e científica: é possível compilar e partilhar este tipo de dados através do GBIF, mas deve ser cauteloso para não partilhar dados duplicados (por exemplo, um espécime descrito num artigo científico pode já estar presente no GBIF, no conjunto de dados de sua coleção)\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:50
 #, no-wrap
 msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
 "ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
-msgstr ""
+msgstr "Na ausência de conjuntos de dados digitalizados, os dados da biodiversidade podem ser extraídos e compilados a partir de artigos científicos, teses de mestrado ou doutoramento, relatórios e outros documentos.\n"
+"Primeiro, contactar SEMPRE o proprietário dos dados ao compilar dados literários para pedir permissão para publicá-los através do GBIF!\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:55
 #, no-wrap
 msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
 "These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
-msgstr ""
+msgstr "Uma grande maioria dos dados disponíveis através do GBIF.org agora vêm de registos de trabalho de campo.\n"
+"Esses dados podem ser observados e/ou colhidos usando diferentes protocolos no campo, por cientistas, naturalistas ou cientistas cidadãos amadores através de programas e aplicações.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:60
 #, no-wrap
 msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
 "They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
-msgstr ""
+msgstr "Esses dados de campo podem ser compilados em relatórios de inventários, estudos de avaliação de impacto ambiental, notas de campo e outros registos.\n"
+"Eles podem estar associados a outros tipos de dados, tais como checklists, que são complementares à ocorrência de dados observados ou colhidos na natureza.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:67
@@ -7082,21 +7087,26 @@ msgid "Occurrence data represents the GBIF class of datasets with the largest nu
 "Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
 "In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
 "Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
-msgstr ""
+msgstr "Os dados de ocorrência representam a classe de conjuntos de dados no GBIF com o maior número de registos no GBIF.org.\n"
+"Os dados da coleção (i.e. espécimes), literatura e de campo podem ser partilhados através do GBIF usando este modelo, que se centra nos espécimes observados ou colhidos.\n"
+"Neste tipo de conjunto de dados, vários indivíduos ou espécimes podem ser registados para um único taxon, desde que cada um tenha um identificador único.\n"
+"Outros campos para dados de ocorrência incluem onde, quando, como e por quem foi observado e/ou colhida no campo.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:72
 #, no-wrap
 msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
 "They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
-msgstr ""
+msgstr "Dados do evento são uma classe de conjuntos de dados que foi adicionada ao GBIF.org em 2015.\n"
+"Permitem que os editores de dados partilhem mais informações sobre o contexto da observação ou colheita dos espécimes e para agrupar ocorrências associados ao mesmo evento.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:77
 #, no-wrap
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
-msgstr ""
+msgstr "O modelo GBIF para dados de Eventos permite que os publicadores de dados partilhem mais informações sobre o contexto de um evento de colheita/registo de dados da biodiversidade, como armadilhas de câmara, armadilhas de insetos, relevés botânicos, sítios observação de aves e assim por diante.\n"
+"A sua estrutura é um pouco mais complexa que os conjuntos de dados taxonómicos e conjuntos de dados de ocorrência, já que envolve dois ficheiros (por exemplo, duas folhas em uma folha de cálculo): uma para descrever os 'eventos' (por exemplo, cada armadilha) e o outro para descrever os espécimes ou ocorrências ligadas a cada evento.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -7110,20 +7120,21 @@ msgstr "// Slide 15\n"
 #: scripts/data-types.en.txt:81
 #, no-wrap
 msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
-msgstr ""
+msgstr "Às vezes, podem ser encontradas informações ou dados adicionais usando outros materiais de origem do que os mencionados anteriormente neste vídeo.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:86
 #, no-wrap
 msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
 "Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
-msgstr ""
+msgstr "Estas outras fontes incluem ferramentas de detecção remotas, mapas e dados de satélite, e outras informações de suporte como fotos, gravações de áudio e vídeo da vida selvagem.\n"
+"Na maioria das vezes, as informações obtidas desta forma são suplementares aos dados existentes, mas podem fornecer informações valiosas sobre indivíduos e sua localização, o habitat, rotas migratórias, etc.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:90
 #, no-wrap
 msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
-msgstr ""
+msgstr "Nos seguintes slides, veremos como o padrão Darwin Core funciona com diferentes tipos de dados, e como escolher a classe do conjunto de dados que melhor se ajusta a um determinado conjunto de dados.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:96
@@ -7131,7 +7142,9 @@ msgstr ""
 msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
 "Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
 "In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
-msgstr ""
+msgstr "Como aprendeu nos Fundamentos - Apresentação do Darwin Core, Darwin Core é um padrão de partilha de dados desenvolvido pela organização Biodiversity Information Standards (TDWG), e é amplamente utilizado para publicar dados no ambito de uma comunidade alargada do GBIF.\n"
+"Dependendo do tipo de conjunto de dados com o qual trabalha, terá que escolher um dos seus três núcleos (Núcleo de Ocorrência, Taxon ou Evento), que podem ser ligadas a uma ou mais extensões para partilhar mais informações (como links multimédia, variáveis, histórico de identificação e assim por diante).\n"
+"Nalguns casos, um núcleo pode ser usado como uma extensão vinculada a outro núcleo: esse é o caso ao publicar dados do Evento, onde se pode usar o Núcleo de Evento para descrever as áreas amostradas e, em seguida, usar o Núcleo Ocorrência como uma extensão para partilhar os espécimes ou indivíduos registados.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:98 scripts/definitions.en.txt:189
@@ -7139,7 +7152,7 @@ msgstr ""
 #: scripts/structures.en.txt:116
 #, no-wrap
 msgid "// Slide 19\n"
-msgstr ""
+msgstr "// Slide 19\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:102
@@ -10545,7 +10558,7 @@ msgstr ""
 #: scripts/structures.en.txt:102
 #, no-wrap
 msgid "And columns.\n"
-msgstr ""
+msgstr "E colunas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:109
@@ -10554,14 +10567,18 @@ msgid "When you organize cells into rows and columns, obviously, what you get is
 "This is looks very much like a spreadsheet right? \n"
 "Well, yes. \n"
 "The difference however between a spreadsheet grid and a table are the strength of the ties that hold the rows and columns together.\n"
-msgstr ""
+msgstr "Quando organiza células em linhas e colunas, obviamente, o que obtém é uma grelha!\n"
+"Isso parece-se muito com uma folha de cálculo, não é assim? \n"
+"Bem, sim. \n"
+"No entanto, a diferença entre uma grelha de folha de cálculo e uma tabela é a força dos laços que mantêm as linhas e as colunas juntas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:114
 #, no-wrap
 msgid "So let us now talk about those connections. \n"
 "What the implications for the integrity and security of your data of loose unenforced relationships between rows and columns?\n"
-msgstr ""
+msgstr "Por isso, falemos agora sobre essas ligações. \n"
+"Quais as implicações para a integridade e segurança dos seus dados do relacionamento fraco entre linhas e colunas?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:124
@@ -10573,7 +10590,13 @@ msgid "What actually makes a table useful are the connections that we create to 
 "It is easy for the attributes between the rows to get jumbled up or for the values get changed and then the meaning is lost.\n"
 "`\n"
 "// Slide 20\n"
-msgstr ""
+msgstr "O que realmente torna uma tabela útil são as ligações que criamos para dar aos dados significado à sua estrutura. \n"
+"Nós intrinsecamente fazemos padrões de atributos que transformam os dados em informações. \n"
+"As linhas tornam-se registos e as colunas se tornam atributos. \n"
+"Numa folha de cálculo, no entanto, as ligações entre células são idiomáticas, soltas e fracas. \n"
+"É fácil para os atributos entre as linhas serem trocados ou para os valores serem alterados e nesse o significado é perdido.\n"
+"`\n"
+"// Slide 20\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:130
@@ -10583,7 +10606,11 @@ msgid "This lack of enforced connections makes a spreadsheet easy to use but the
 "Spreadsheets are not built to scale either in terms of size or numbers of users -- So can be slow, crashy and easily corruptible. \n"
 "Spreadsheets are easy to copy and email -- So they are hard to version and keep track of.\n"
 "The question is what is the solution?\n"
-msgstr ""
+msgstr "Esta falta de ligações forçadas facilita a utilização de uma folha de cálculo, mas estas mesmas qualidades também causam problemas. \n"
+"É fácil criar erros, que são difíceis de capturar -- Ligações e relações não são documentáveis e estão sujeitas a interpretação e mutação. \n"
+"As folhas de cálculo não são construídas para suportar aumentos em termos de tamanho ou número de utilizadores -- Podem ser lentas, rebentar e são fáceis de ser corrompidas. \n"
+"As folhas de cálculo são fáceis de copiar e enviar por e-mail -- pelo que são difíceis de criar versões e controlar.\n"
+"A questão é qual é a solução?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:141
@@ -10596,7 +10623,14 @@ msgid "Let us look back, at the connections in a bit more detail. \n"
 "For example you may want find the mean weight of all the Kenyan bats. \n"
 "So ideally we want to use a system to store our data that: 1) always holds the rows together; 2)does not mix data types; 3) and segregates data in each table to a single concept or theme. \n"
 "These are functions of a database!\n"
-msgstr ""
+msgstr "Vamos rever, olhando para as ligações com um pouco mais de pormenor. \n"
+"Geralmente entendemos que os dados em cada linha de uma tabela significam alguma coisa. \n"
+"Por exemplo, cada linha pode representar um espécime ou um taxon que foi encontrado num local em particular, num determinado momento, por uma pessoa em particular. \n"
+"Seria estranho ter uma linha numa tabela que representa um espécime seguido por uma linha que representa um local de colheita. \n"
+"Frequentemente, também queremos analisar, ordenar e comparar valores de atributos específicos entre as linhas. \n"
+"Por exemplo, pode querer encontrar o peso médio de todos os morcegos quenianos. \n"
+"Então idealmente queremos usar um sistema para armazenar os nossos dados que: 1) mantém sempre as linhas juntas; 2) não mistura tipos de dados; 3) e separa dados em tabelas com um único conceito ou tema. \n"
+"Estas são funções de uma base de dados!\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:148
@@ -10605,14 +10639,18 @@ msgid "Functions in a true database inherently bind rows together and columns ma
 "Tables in database are held together by virtual links called keys. \n"
 "These keys are identifiers that match between tables and allow data to be connected efficiently. \n"
 "It is these 2 key concepts that distinguish a spreadsheet from a database.\n"
-msgstr ""
+msgstr "As funções de uma verdadeiro base de dados inerentemente mantém as linhas juntas, e as colunas podem ter apenas um único tipo de dados. \n"
+"As tabelas na base de dados são mantidas juntas por ligações virtuais chamadas chaves. \n"
+"Essas chaves são identificadores que são iguais entre tabelas e permitem que os dados estejam associados de forma eficiente. \n"
+"São esses 2 conceitos-chave que distinguem uma folha de cálculo de uma base de dados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:153
 #, no-wrap
 msgid "In review then, we have looked at the 6 most common data types, the basic building blocks of data structure and distinguished between a spreadsheet grid and database table.\n"
 "Understanding these elements and how they interact with one another will allow you to better determine the best ways to manipulate and document the data that falls under your custodianship.\n"
-msgstr ""
+msgstr "Em suma, analisámos os 6 tipos de dados mais comuns, os blocos básicos da estrutura dos dados e distinção entre uma folha de cálculo e uma tabela de base de dados.\n"
+"Compreender esses elementos e como eles interagem uns com os outros permitirá que determine melhor as melhores maneiras de manipular e documentar os dados que estão sob a sua custódia.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:159
