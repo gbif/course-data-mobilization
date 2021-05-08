@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-08 12:46\n"
+"PO-Revision-Date: 2021-05-08 13:57\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -6630,119 +6630,124 @@ msgstr "Apesar o Ajuste para o Uso seja subjetivo, as medidas de qualidade de da
 #, no-wrap
 msgid "Chapman states that: \"All data include error – there is no escaping it! \n"
 "It is knowing what the error is that is important, and knowing if the error is within acceptable limits for the purpose to which the data are to be put.”\n"
-msgstr ""
+msgstr "Chapman afirma que: \"Todos os dados incluem erro - não há como escapar! \n"
+"Saber o que é o erro é importante assim como o é saber se o erro se encontra dentro de limites aceitáveis para a finalidade que os dados serão aplicados.\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:108
 #, no-wrap
 msgid "// SLIDE 12\n"
-msgstr ""
+msgstr "// SLIDE 12\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:110
 #, no-wrap
 msgid "We can use two measures of quality, Correctness and Consistency, to help us to document these inherent errors in data.\n"
-msgstr ""
+msgstr "Podemos usar duas medidas de qualidade, correcção e consistência, para nos ajudar a documentar esses erros inerentes aos dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:112
 #, no-wrap
 msgid "Correctness, sometimes called accuracy, is “How close the recorded value is to the actual, real-world value”.\n"
-msgstr ""
+msgstr "A correção, às vezes chamada exactidão, é \"Quão próximo está o valor registado do valor real, do mundo real\".\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:114
 #, no-wrap
 msgid "In this diagram accuracy is how close a given dot is to the centre of the target.\n"
-msgstr ""
+msgstr "Neste diagrama, a exactidão é quão próximo um determinado ponto está do centro do alvo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:116
 #, no-wrap
 msgid "Consistency, sometimes called precision, is “How often you get it right”\n"
-msgstr ""
+msgstr "Consistência, às vezes chamado de precisão, é \"Quantas vezes consegue acertar\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:118
 #, no-wrap
 msgid "In this diagram, precision is how close the dots are together irrespective of how close they are to the centre of the target.\n"
-msgstr ""
+msgstr "Neste diagrama, a precisão é quão próximos estão os pontos entre si, independentemente de quão perto estão eles do centro do alvo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:121
 #, no-wrap
 msgid "These are measures of how well the data gatherer was able to capture the true value being investigated.\n"
 "Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.\n"
-msgstr ""
+msgstr "Essas são medidas de quão bem o coletor dos dados conseguiu capturar o verdadeiro valor que estava sendo investigado.\n"
+"Conhecer essas propriedades dos seus dados irá ajudá-lo a entender as maneiras pelas quais você pode ou não pode limpar, validar e processar os dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
 #, no-wrap
 msgid "// SLIDE 13\n"
-msgstr ""
+msgstr "// SLIDE 13\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:126
 #, no-wrap
 msgid "This image provides a clear set of illustrations of accuracy and precision.\n"
 "This may be a good image to keep with you when you have to explain these concepts to others.\n"
-msgstr ""
+msgstr "Esta imagem fornece um conjunto claro de ilustrações de exactidão e precisão.\n"
+"Esta pode ser uma boa imagem para guardar quando precisa explicar esses conceitos a outros.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:128
 #, no-wrap
 msgid "// SLIDE 14\n"
-msgstr ""
+msgstr "// SLIDE 14\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:131
 #, no-wrap
 msgid "Let’s look at some examples of Correctness, or accuracy, and how it can help us think about the practicalities of data cleaning.\n"
 "Remember that Correctness is how close you are to the center of a target.\n"
-msgstr ""
+msgstr "Vamos ver alguns exemplos de correção ou exactidão, e como isso nos pode ajudar a pensar sobre as práticas de limpeza de dados.\n"
+"Lembre-se de que correção é quão próximo está do centro de um alvo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:133
 #, no-wrap
 msgid "Let’s look at an example.\n"
-msgstr ""
+msgstr "Vamos ver um exemplo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:135
 #, no-wrap
 msgid "// SLIDE 15\n"
-msgstr ""
+msgstr "// SLIDE 15\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:138
 #, no-wrap
 msgid "For this example, let’s imagine your dataset contains records of fossil bird specimens from the Early Triassic Period.\n"
 "The taxonomic name for a number of specimens in your dataset is recorded as Thismia.\n"
-msgstr ""
+msgstr "Para este exemplo, vamos imaginar que o seu conjunto de dados contém registos de espécies de pássaros fósseis do início do período Triássico.\n"
+"O nome taxonómico de um número de espécimes do seu conjunto de dados está registado como Thismia.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:140
 #, no-wrap
 msgid "Do you know if Thismia is a taxon of ancient birds?\n"
-msgstr ""
+msgstr "Sabe se Thismia é um taxon de aves antigas?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:143
 #, no-wrap
 msgid "// SLIDE 16\n"
-msgstr ""
+msgstr "// SLIDE 16\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:145
 #, no-wrap
 msgid "In this case, the answer is no! \n"
-msgstr ""
+msgstr "Neste caso, a resposta é não! \n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:147
 #, no-wrap
 msgid "Thismia is a very rare plant from the State of Illinois in the United States.\n"
-msgstr ""
+msgstr "Thismia é uma planta muito rara do Estado do Illinois nos Estados Unidos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:151
@@ -6750,56 +6755,59 @@ msgstr ""
 msgid "As a result, the correctness, or accuracy, of the taxonomic name is low.\n"
 "Perhaps because the data entry technician was not a paleontologist.\n"
 "As a result, all of the names in the dataset might need to be checked and corrected by an expert before the data could be used.\n"
-msgstr ""
+msgstr "Como resultado, a correcção ou a exatidão do nome taxonómico é baixa.\n"
+"Talvez o técnico de inserção de dados não fosse paleontologista.\n"
+"Como resultado, todos os nomes no conjunto de dados podem precisar de ser verificados e corrigidos por um especialista antes que os dados possam ser usados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:153
 #, no-wrap
 msgid "// SLIDE 17\n"
-msgstr ""
+msgstr "// SLIDE 17\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:156
 #, no-wrap
 msgid "Let’s look at another example.\n"
 "Here, your dataset contains specimens collected in a place called Kalamazoo by a scientist named Richard Spruce.\n"
-msgstr ""
+msgstr "Vamos ver outro exemplo.\n"
+"Aqui, o seu conjunto de dados contém espécimes colhidos num lugar chamado Kalamazoo por um cientista chamado Richard Spruce.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:158
 #, no-wrap
 msgid "We must ask ourselves:\n"
-msgstr ""
+msgstr "Devemos perguntar-nos:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:160
 #, no-wrap
 msgid "Is 49007 the right postal code for Kalamazoo?\n"
-msgstr ""
+msgstr "49007 é o código postal certo para Kalamazoo?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:162
 #, no-wrap
 msgid "Did Richard Spruce collect in Michigan?\n"
-msgstr ""
+msgstr "Richard Spruce colheu no Michigan?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:164
 #, no-wrap
 msgid "// SLIDE 18\n"
-msgstr ""
+msgstr "// SLIDE 18\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:166
 #, no-wrap
 msgid "In this case, the answer is yes to our first question, 49007 is a postal code for Kalamazoo, so the accuracy of the locality is good, but what about the collector, Richard Spruce?\n"
-msgstr ""
+msgstr "Neste caso, a resposta é sim à nossa primeira pergunta, 49007 é um código postal para Kalamazoo, então a exactidão da localidade é boa. Mas, e sobre o colecionador Richard Spruce?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:168
 #, no-wrap
 msgid "// SLIDE 19\n"
-msgstr ""
+msgstr "// SLIDE 19\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:172
@@ -6807,25 +6815,27 @@ msgstr ""
 msgid "There is, in fact, a famous botanist named Richard Spruce.\n"
 "He was born in 1817 and died in 1893, but he conducted his collecting in the Amazon Basin and Andes mountains in South America.\n"
 "Something is not quite right, so we need to find out more about the collector before we can be confident in the correctness of these data.\n"
-msgstr ""
+msgstr "Na verdade, há um botânico famoso chamado Richard Spruce.\n"
+"Ele nasceu em 1817 e morreu em 1893, mas realizou a sua colheita na bacia do Amazonas e nas montanhas do Andes na América do Sul.\n"
+"Algo não está certo, por isso, precisamos saber mais sobre o coletor antes de podermos ter confiança na correcção destes dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:174
 #, no-wrap
 msgid "// SLIDE 20\n"
-msgstr ""
+msgstr "// SLIDE 20\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:176
 #, no-wrap
 msgid "Let’s take a look now at what Consistency, or precision, means to data.\n"
-msgstr ""
+msgstr "Vamos dar uma olhada agora no que Consistência, ou precisão, significa para os dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:178
 #, no-wrap
 msgid "Consistency represents how many times you get the same answer, regardless of where the center of the target lies.\n"
-msgstr ""
+msgstr "A consistência representa quantas vezes obtém a mesma resposta, independente de onde está o centro do alvo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:182
@@ -6833,38 +6843,41 @@ msgstr ""
 msgid "For example, your dataset contains botanical occurrences including a field, or column, named “Full Name”.\n"
 "This field contains the name of the specimen collector.\n"
 "As you can see there are five different names, but how many unique collectors are there? Can you tell just by looking at the names?\n"
-msgstr ""
+msgstr "Por exemplo, o seu conjunto de dados contém ocorrências botânicas, incluindo um campo, ou coluna, chamado \"Nome Completo\".\n"
+"Este campo contém o nome do coletor do espécime.\n"
+"Como pode ver, existem cinco nomes diferentes, mas quantos coletores únicos há? Consegue dizer olhando só para os nomes?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:184
 #, no-wrap
 msgid "// SLIDE 21\n"
-msgstr ""
+msgstr "// SLIDE 21\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:186
 #, no-wrap
 msgid "Sometimes, if you are familiar with the dataset, you might know how many collectors are represented just by looking at the data, but if you don’t know these data well, you might need to do some research, ask some questions or look at the original field notes.\n"
-msgstr ""
+msgstr "Às vezes, se estiver familiarizado com o conjunto de dados, pode saber quantos coletores são representados apenas olhando para os dados, mas se não conhecer bem esses dados, pode precisar fazer pesquisas, fazer algumas perguntas ou consultar as notas de campo original.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:188
 #, no-wrap
 msgid "In this example, if you guessed that these five names represent two or three unique collectors, you would be right.\n"
-msgstr ""
+msgstr "Neste exemplo, se adivinhasse que esses cinco nomes representam dois ou três colectores únicos, estaria certo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:191
 #, no-wrap
 msgid "In blue, Joseph Dalton Hooker AND Hook.f.\n"
 "are the same person.\n"
-msgstr ""
+msgstr "A azul, Joseph Dalton Hooker E Hook.f.\n"
+"são a mesma pessoa.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:193
 #, no-wrap
 msgid "Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).\n"
-msgstr ""
+msgstr "O ponto é a abreviatura usada para Joseph Dalton Hooker (1817-1911).\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:197
@@ -6872,7 +6885,9 @@ msgstr ""
 msgid "In green, W.J. Hooker and Hook. are the same person.\n"
 "Period is the abbreviation for William Jackson Hooker (1785-1865).\n"
 "William was actually Joseph’s father.\n"
-msgstr ""
+msgstr "A verde, W.J. Hooker e Hook. são a mesma pessoa.\n"
+"O ponto é a abreviatura de William Jackson Hooker (1785-1865).\n"
+"William era na verdade o pai de Joseph.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:201
@@ -6880,7 +6895,9 @@ msgstr ""
 msgid "Finally, in the red, there is “Hooker, J.” \n"
 "This entry could be an error or typo of either Joseph or William Hooker, OR it could be a third person with a similar name.\n"
 "Thus, more research would be needed to clarify these data.\n"
-msgstr ""
+msgstr "Por último, a vermelho, há “Hooker, J. \n"
+"Esta entrada pode ser um erro de digitação ou tanto Joseph ou William Hooker, OU poderia ser uma terceira pessoa com um nome semelhante.\n"
+"Assim, seria necessária mais pesquisa para esclarecer esses dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:203
