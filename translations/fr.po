@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-10 15:35+0000\n"
-"PO-Revision-Date: 2021-05-10 16:49\n"
+"PO-Revision-Date: 2021-05-10 17:57\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1235,7 +1235,7 @@ msgstr "Feuille d'exercice"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
 msgid "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
-msgstr "link:../course-docs/UC1-Herbarium-Exercise_FR.docx[UC1-Herbarium-Exercise_FR.docx,opts=download] (MS Word 345 Ko)"
+msgstr "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 Ko)"
 
 #. type: Plain text
 #: planning.en.adoc:7
@@ -2121,7 +2121,7 @@ msgstr "Lien de téléchargement link:../exercise-data/UC1-3c-open-refine.csv[UC
 #. type: Plain text
 #: management.en.adoc:83
 msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)  Also available in link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download]."
-msgstr "Téléchargez et complétez les exercices suivants :../course-docs/OpenRefine-Exercise3c-FR.pdf[OpenRefine-Exercise3c-FR.pdf,opts=download]. (PDF, 1,1 MB) Aussi disponibles en link:../course-docs/OpenRefine-Exercise3c-FR.pdf[Français,opts=download] et link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Espagnol,opts=download]."
+msgstr "Téléchargez et complétez les exercices suivants link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1,1 MB) Aussi disponibles en link:../course-docs/OpenRefine-Exercise3c-FR.pdf[Français,opts=download] et link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Espagnol,opts=download]."
 
 #. type: Title ===
 #: management.en.adoc:85
@@ -2611,7 +2611,10 @@ msgid "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,wid
 "|An overall score of 2.5-2.9 earns a BASIC Biodiversity Data Mobilization badge\n\n"
 "|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=center,width=75,height=75]\n"
 "|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
-msgstr ""
+msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,width=75,height=75]\n"
+"|Un score global de 2.5-2.9 gagne un badge BASIC de mobilisation des données sur la biodiversité\n\n"
+"|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=center,width=75,height=75]\n"
+"|Un score global de 3.0-4.0 obtient un badge de mobilisation des données sur la biodiversité AVANCED\n"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:19
@@ -3054,7 +3057,7 @@ msgstr "Feuille d'exercice des espèces envahissantes"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
 msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_FR.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC2-IS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:64
@@ -3397,7 +3400,7 @@ msgstr "Feuille d'exercice Lepidoptera"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_FR.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC2-LS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:110
@@ -3637,7 +3640,7 @@ msgstr "Feuille d'exercices sur les oiseaux de la littérature"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_FR.docx[fiche exercices,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_EN.docx[fiche exercices,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
