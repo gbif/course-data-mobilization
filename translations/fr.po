@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-10 15:35+0000\n"
-"PO-Revision-Date: 2021-05-10 17:57\n"
+"POT-Creation-Date: 2021-05-10 19:50+0000\n"
+"PO-Revision-Date: 2021-05-10 20:05\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -233,8 +233,8 @@ msgstr "Fichiers à télécharger"
 
 #. type: Plain text
 #: downloads.en.adoc:7
-msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from Vimeo.  If you have difficulty accessing Vimeo.com, please download the mp4 files to play them locally on your computer."
-msgstr "Tous les fichiers du cours peuvent être téléchargés à partir de cette page.  Ou si vous préférez, tous les fichiers sont liés individuellement dans le cours au fil de leur apparition dans le programme.  Les fichiers vidéo sont également intégrés dans le cours et peuvent être lus à partir de Vimeo.  Si vous avez des difficultés à accéder  Vimeo.com, veuillez télécharger les fichiers mp4 pour les lire localement sur votre ordinateur."
+msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from YouTube. Subtitles are available when playing from YouTube for most videos.  If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer."
+msgstr ""
 
 #. type: Title ===
 #: downloads.en.adoc:8
@@ -244,28 +244,63 @@ msgstr "Vidéos"
 
 #. type: Plain text
 #: downloads.en.adoc:10
-msgid "The videos are narrated in English. Subtitles are available for French, Spanish and Portuguese."
-msgstr "Les vidéos sont narrées en anglais. Les sous-titres sont disponibles en français, espagnol et portugais."
+msgid "The videos are narrated in English. Subtitles are not available for the downloaded videos."
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:12
+msgid "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:14
+msgid "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:16
+msgid "link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:18
+msgid "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:20
+msgid "Management.zip"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:22
+msgid "Publishing.zip"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:24
+msgid "link:../videos/Appendix-Data-Papers.zip.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
+msgstr ""
 
 #. type: Title ===
-#: downloads.en.adoc:12
+#: downloads.en.adoc:25
 #, no-wrap
 msgid "Exercise data"
 msgstr "Données des exercices"
 
 #. type: Plain text
-#: downloads.en.adoc:14
+#: downloads.en.adoc:27
 msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
 msgstr "Ce lien:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contient les données des exercices pour les cas pratiques."
 
 #. type: Title ===
-#: downloads.en.adoc:15
+#: downloads.en.adoc:28
 #, no-wrap
 msgid "Exercise sheets"
 msgstr "Feuilles d'exercice"
 
 #. type: Plain text
-#: downloads.en.adoc:17
+#: downloads.en.adoc:30
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
 msgstr "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
 
@@ -294,8 +329,8 @@ msgstr "Définitions"
 
 #. type: Plain text
 #: foundations.en.adoc:16
-msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr "Dans cette vidéo (12:02), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Foundations_Definitions.mp4[télécharger^,opts=download] localement. (MP4 - 38.5 Mo)"
+msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
+msgstr ""
 
 #. type: Title ====
 #: foundations.en.adoc:19
@@ -305,8 +340,8 @@ msgstr "Logiciel"
 
 #. type: Plain text
 #: foundations.en.adoc:23
-msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Foundations_Software.mp4[télécharger^,opts=download] localement. (MP4 - 18.9 Mo)"
+msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
+msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:25
@@ -321,8 +356,8 @@ msgstr "Structures"
 
 #. type: Plain text
 #: foundations.en.adoc:30
-msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr "Dans cette vidéo (13:10), vous passerez en revue les types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données et ce que cela signifie pour l'intégrité et la sécurité de vos données. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Foundations_Structures.mp4[télécharger^,opts=download] localement. (MP4 - 38.8 Mo)"
+msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
+msgstr ""
 
 #. type: Title ===
 #: foundations.en.adoc:33
@@ -332,8 +367,8 @@ msgstr "Qualité des données"
 
 #. type: Plain text
 #: foundations.en.adoc:37
-msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Foundations_Data_Quality.mp4[télécharger^,opts=download] localement. (MP4 - 44.5 Mo)"
+msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
+msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:44
@@ -496,8 +531,8 @@ msgstr "Documentation"
 
 #. type: delimited block *
 #: foundations.en.adoc:146
-msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr "Dans cette vidéo (09:47), nous vous donnerons un aperçu de l'importance de la documentation en ce qui concerne la gestion des données et la publication des données. Vous en apprendrez plus sur le mappage des données, les relations de données et les métadonnées. Si vous ne pouvez pas regarder la vidéo intégrée Vimeo, vous pouvez la link:../videos/Foundations_Documentation.mp4[télécharger^,opts=download] localement. (MP4 - 29.2 MB)"
+msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
+msgstr ""
 
 #. type: Title ===
 #: foundations.en.adoc:149
@@ -507,8 +542,8 @@ msgstr "Workflows de numérisation"
 
 #. type: delimited block *
 #: foundations.en.adoc:153
-msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
-msgstr "Cette vidéo (07:20) sur les workflows de numérisation identifie cinq clusters (ou étapes) dans le processus de numérisation des objets de collection d'histoire naturelle à l'aide d'images numériques. Ces étapes peuvent être facilement adaptées à d'autres sources de données sur la biodiversité. Si vous ne pouvez pas regarder la vidéo intégrée Vimeo, vous pouvez la link:../videos/Foundations_Workflows.mp4[télécharger^,opts=download] localement. (MP4 - 26,8 Mo)"
+msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
+msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:157
@@ -1250,8 +1285,8 @@ msgstr "Ressourcement"
 
 #. type: Plain text
 #: planning.en.adoc:12
-msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Planning_Resourcing.mp4[download^,opts=download] it locally. (MP4 - 25.1 MB)"
-msgstr "Dans cette vidéo (15:09), vous apprendrez comment définir les éléments qui auront un impact sur un projet et examinerez les interactions entre les éléments. Si vous ne pouvez pas regarder la vidéo en ligne sur Vimeo, vous pouvez la link:../videos/Planning_Resourcing.mp4[télécharger^,opts=download] localement. (MP4 - 25.1 MB)"
+msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded video, you can link:../videos/Planning_Resourcing.mp4[download^,opts=download] it locally. (MP4 - 25.1 MB)"
+msgstr ""
 
 #. type: Title ===
 #: planning.en.adoc:15
@@ -1261,8 +1296,8 @@ msgstr "Organiser"
 
 #. type: Plain text
 #: planning.en.adoc:19
-msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
-msgstr "Cette vidéo (15:52) se concentre sur les tâches et les moyens de les organiser afin de préparer des plans pratiques réalisables et une documentation claire. Si vous ne pouvez pas regarder la vidéo en ligne sur Vimeo, vous pouvez la link:../videos/Planning_Organizing.mp4[télécharger^,opts=download] localement. (MP4 - 26.2 Mo)"
+msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
+msgstr ""
 
 #. type: Title ===
 #: planning.en.adoc:22
@@ -1639,8 +1674,8 @@ msgstr "Standards et Darwin Core"
 
 #. type: Plain text
 #: capture.en.adoc:13
-msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
-msgstr "Dans cette vidéo (15:37), vous apprendrez comment vous interagirez avec les standards tous les jours. Puis vous serez introduits au https://www.tdwg.org/[Standards de l’information sur la biodiversité^], y compris le https://www.tdwg.org/standards/dwc/[Standard Darwin Core^] que vous continuerez à utiliser tout au long de ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée Vimeo, vous pouvez la link:../videos/Foundations_Standards_Darwin_Core.mp4[télécharger^,opts=download] localement (MP4 - 27 Mo)"
+msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
+msgstr ""
 
 #. type: Title ===
 #: capture.en.adoc:16
@@ -1650,8 +1685,8 @@ msgstr "Origines et types de données"
 
 #. type: Plain text
 #: capture.en.adoc:20
-msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded Vimeo video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "Dans cette vidéo (10:45), vous allez passer en revue https://www.gbif.org/dataset-classes[les données primaires sur la biodiversité^] qui peuvent être partagées au sein du GBIF. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/data_origins_types.mp4[télécharger^,opts=download] localement. (MP4 - 19 Mo)"
+msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
+msgstr ""
 
 #. type: delimited block *
 #: capture.en.adoc:25
@@ -1682,8 +1717,8 @@ msgstr "Saisie, traitement et qualité des données"
 
 #. type: Plain text
 #: capture.en.adoc:35
-msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "Dans cette vidéo (09:11), vous allez explorer les principes de la qualité des données appliqués à la saisie des données, spécifiquement lors de la capture de données à partir des étiquettes de collecte, des cahiers de travail, des feuilles de calcul, etc. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Data_capture_processing_quality.mp4[télécharger^,opts=download] localement. (MP4 - 19 MB)"
+msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
+msgstr ""
 
 #. type: Title ===
 #: capture.en.adoc:38 use-case-invasive-species.en.adoc:112
@@ -1942,8 +1977,8 @@ msgstr "Principes de gestion des données"
 
 #. type: Plain text
 #: management.en.adoc:11
-msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr "Dans cette vidéo (09:49), vous allez passer en revue un ensemble important de principes nécessaires pour améliorer les données à travers les processus de nettoyage des données. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Data_Management.mp4[télécharger^,opts=download] localement. (MP4 - 16,6 Mo)"
+msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
+msgstr ""
 
 #. type: Title ===
 #: management.en.adoc:14
@@ -1953,8 +1988,8 @@ msgstr "Outils de gestion des données"
 
 #. type: Plain text
 #: management.en.adoc:18
-msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Dans cette vidéo (??:??), vous apprendrez une variété d'outils que vous pouvez utiliser pour améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la télécharger localement. (MP4 - ??.?? MB)"
+msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
+msgstr ""
 
 #. type: Title ===
 #: management.en.adoc:21
@@ -2099,8 +2134,8 @@ msgstr "Exercice 3c"
 
 #. type: Plain text
 #: management.en.adoc:73
-msgid "In this video (??:??), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Dans cette vidéo (??:??), vous en apprendrez plus sur https://openrefine.org/[OpenRefine^]. Vous pouvez utiliser OpenRefine pour standardiser et améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la télécharger sur votre ordinateur. (MP4 - ??.?? MB)"
+msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/DataManagement_OpenRefine_narration.mp4[download,opts=download] it locally. (MP4 - 37.1 MB)"
+msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:77
@@ -2412,8 +2447,8 @@ msgstr "Concepts de publication de données"
 
 #. type: Plain text
 #: publishing.en.adoc:11
-msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded Vimeo video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr "Dans cette vidéo (11:45), vous vous familiariserez avec les concepts de publication de données et vous recevrez une introduction à l'IPT (https://www.gbif.org/ipt[IPT^]). Si vous ne parvenez pas à regarder la vidéo intégrée de Vimeo, vous pouvez link:../videos/Data_publishing_concepts.mp4[la télécharger^,opts=download] sur votre ordinateur. (MP4 - 20 Mo)"
+msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
+msgstr ""
 
 #. type: Title ===
 #: publishing.en.adoc:14
@@ -2423,8 +2458,8 @@ msgstr "Présentation générale de l'IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:18
-msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded Vimeo video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Dans cette vidéo (??:??), vous aurez un aperçu de l'interface de publication des données de l'IPT. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la télécharger sur votre ordinateur. (MP4 - ??.?? MB)"
+msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
+msgstr ""
 
 #. type: Title ====
 #: publishing.en.adoc:21
@@ -2460,8 +2495,8 @@ msgstr "Démonstration de l'IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:35
-msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded Vimeo video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr "Dans cette vidéo (24:16), vous allez apprendre comment publier un jeu de donnée en utilisant un IPT. Si vous ne parvenez pas à regarder la vidéo intégrée Vimeo, vous pouvez link:../videos/Data_publishing_concepts.mp4[la télécharger^,opts=download] localement. (MP4 - 52.6 Mo)"
+msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
+msgstr ""
 
 #. type: Title ===
 #: publishing.en.adoc:38 use-case-invasive-species.en.adoc:137
@@ -4562,8 +4597,8 @@ msgstr "Annexe : Articles sur les données (data papers)"
 
 #. type: Plain text
 #: data-papers.en.adoc:12
-msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr "Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans un journal révisé par les pairs. Cela demande des efforts pour préparer, curer et de décrire les données. Toutefois, nous ne couvrons pas la manière de créer des data papers dans ce cours, comme activité optionnelle, vous pouvez regarder cette vidéo (51:51) présentée par Lizanne Roxburgh. Dans cette vidéo, vous en apprendrez plus sur la publication de data papers. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Webinar_data_papers.mp4[télécharger,opts=download] localement (MP4 - 99.2 MB)"
+msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
+msgstr ""
 
 #. type: Plain text
 #: data-papers.en.adoc:16
