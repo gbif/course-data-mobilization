@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-10 15:35+0000\n"
+"POT-Creation-Date: 2021-05-10 19:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -296,9 +296,9 @@ msgid ""
 "All files for the course may be downloaded from this page.  Or if you "
 "prefer, all files are linked individually throughout the course as they "
 "occur in the curriculum.  The video files are embedded throughout the "
-"course, as well, and play from Vimeo.  If you have difficulty accessing "
-"Vimeo.com, please download the mp4 files to play them locally on your "
-"computer."
+"course, as well, and play from YouTube. Subtitles are available when playing "
+"from YouTube for most videos.  If you have difficulty accessing the embedded "
+"videos, please download the mp4 files to play them locally on your computer."
 msgstr ""
 
 #. type: Title ===
@@ -310,18 +310,55 @@ msgstr ""
 #. type: Plain text
 #: downloads.en.adoc:10
 msgid ""
-"The videos are narrated in English. Subtitles are available for French, "
-"Spanish and Portuguese."
+"The videos are narrated in English. Subtitles are not available for the "
+"downloaded videos."
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:12
+msgid "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:14
+msgid "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:16
+msgid "link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:18
+msgid "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:20
+msgid "Management.zip"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:22
+msgid "Publishing.zip"
+msgstr ""
+
+#. type: Plain text
+#: downloads.en.adoc:24
+msgid ""
+"link:../videos/Appendix-Data-Papers.zip.zip[Appendix-Data-Papers.zip,opts=download] "
+"(97.5 MB)"
 msgstr ""
 
 #. type: Title ===
-#: downloads.en.adoc:12
+#: downloads.en.adoc:25
 #, no-wrap
 msgid "Exercise data"
 msgstr ""
 
 #. type: Plain text
-#: downloads.en.adoc:14
+#: downloads.en.adoc:27
 msgid ""
 "This link:../exercise-data/UseCaseExerciseData.zip[compressed "
 "file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use "
@@ -329,13 +366,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: downloads.en.adoc:15
+#: downloads.en.adoc:28
 #, no-wrap
 msgid "Exercise sheets"
 msgstr ""
 
 #. type: Plain text
-#: downloads.en.adoc:17
+#: downloads.en.adoc:30
 msgid ""
 "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] "
 "(ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The "
