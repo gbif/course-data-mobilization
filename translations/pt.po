@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-10 11:04+0000\n"
-"PO-Revision-Date: 2021-05-10 11:42\n"
+"PO-Revision-Date: 2021-05-10 14:32\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1733,7 +1733,9 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma cole
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
 "image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
+"image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:78 capture.en.adoc:91
@@ -1757,7 +1759,9 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados você escolheria para uma li
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
 "image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".Jacinto de água (Eichhornia crassipes) observeada no Bourail, Nova Caledónia, onde é uma espécie introduzida e invasora segundo o GRIIS. Fotografia por gérard (2016) com a licença CC BY-SA 2.0\n"
+"image::img/web/QDataTypes-plant.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #.  Question 3
 #. type: Plain text
@@ -1777,7 +1781,9 @@ msgstr "Os estudos de avaliação do impacto ambiental são realizados por perit
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
 "image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologista colhendo borboletas by Matthieu Gauvain (CC-BY-SA)\n"
+"image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:106 capture.en.adoc:134 capture.en.adoc:166
@@ -1807,7 +1813,9 @@ msgstr "Dados de rastreamento de pássaros são obtidos com dispositivos especí
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
 "image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Abutre-grifo] observado na Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
+"image::img/web/QDataTypes-tracking.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:121
@@ -1831,7 +1839,9 @@ msgstr "Qual(is) tipo(s) de conjunto de dados você escolheria para dados de arm
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
 "image::img/web/QDataTypes-traps.png[align=\"center\",width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.flickr.com/photos/miheco/215305679/[Armadilha de insecto] por miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #.  Question 6
 #. type: Plain text
@@ -1851,7 +1861,9 @@ msgstr "Os dados adquiridos no contexto da gestão de áreas protegidas (como pa
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
 "image::img/web/QDataTypes-Observations.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Elefantes do Sri Lankan] observado por pen_ash.\n"
+"image::img/web/QDataTypes-Observations.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:149
@@ -1887,7 +1899,9 @@ msgstr "Os dados de cada participante são capturados e adicionados à ferrament
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
 "image::img/web/QDataTypes-citizen.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[À procur de pássaros com a equipa do parque ] por US National Park Service (reutilização autorizada na pesquisa de imagens do google)\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #.  Question 8
 #. type: Plain text
@@ -1901,7 +1915,9 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para lista re
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
 "image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Rinoceronte negro] observado no Magdeburg Zoo, Alemanha por Mani300\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:179
@@ -7487,13 +7503,13 @@ msgstr "Os nomes dos campos são usados quase sempre pelas linguagens dos banco 
 #: scripts/definitions.en.txt:100
 #, no-wrap
 msgid "Labels and headers on the other hand, refer to the human readable versions of the field names. \n"
-msgstr ""
+msgstr "Etiquetas e cabeçalhos, por outro lado, correspondem a versões dos nomes do campo legíveis por pessoas. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:102
 #, no-wrap
 msgid "Most often you will see these in the graphical user interface of your software and on exports and reports. \n"
-msgstr ""
+msgstr "Na maioria das vezes verá estes no interface gráfico de utilizador do seu software e em exportações e relatórios. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:104
