@@ -1,0 +1,49 @@
+// Slide 1
+
+In this presentation, we are going to introduce OpenRefine as a tool for data cleaning.
+
+// Slide 2
+
+Previously known as Google Refine;  it is now Open access and open sourced. OpenRefine can be used for data cleaning and standardization. You can find it at openrefine.org.
+
+// Slide 3
+
+OpenRefine is a powerful tool for working with messy data.
+
+OpenRefine supports faceted browsing as a mechanism for seeing a big picture of your data, and filtering down to just the subset of rows that you want to change in bulk.
+
+The clustering feature works by trying to group the choices in the text facet, so that choices that "look similar" get grouped together. 
+
+Reconciliation is a semi-automated process of matching text names to database IDs (keys). You can use OpenRefine to perform reconciliation of names in your data against any database that exposes a web service.
+
+// Slide 4
+
+OpenRefine, however, is not like other tools you’ve used. OpenRefine CANNOT be used for storing or managing data; it is strictly a cleaning and/or standardizing tool.
+
+// Slide 5
+
+As OpenRefine is a different kind of tool, you should consider when it is appropriate to use it versus other tools.
+
+A database provides infrastructure for storage and indexing of data. Generally, it requires programming skills to edit and is absent of easy visualization.
+
+Excel is a spreadsheet application. It is useful for documenting data and performing operations. And while you can manage your data and have limited ability to clean and standardize your data, it is usually restricted to editing cell by cell. Data is not always visible and it lacks powerful visualization tools.
+
+OpenRefine in contrast offers multi-cell editing, easy exploration and transformation and interactive visualization. But as mentioned previously, it is not for storing and managing data.
+
+// Slide 6
+
+So now that you understand the differences, here is a list of useful features that you will find within OpenRefine. You will soon have an opportunity to complete a tutorial to try all the features.
+
+OpenRefine is a software that you install on your computer. It requires the JAVA JRE/JDK to run. It works on Windows, Mac and Linux.
+
+As OpenRefine is free and open source, it is supported by a large community of developers and users. It easy to find tutorials online on how to use the tool.
+
+// Slide 7
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+ 
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. 
+ 
+This presentation was originally created by Nestor Beltran with additional contributions by Sharon Grant, David Bloom, BID and BIFA Trainers, Mentors and Students.
+
+This presentation has been narrated by Laura Anne Russell.
