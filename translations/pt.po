@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-05 11:53+0000\n"
-"PO-Revision-Date: 2021-05-05 14:42\n"
+"POT-Creation-Date: 2021-05-06 14:32+0000\n"
+"PO-Revision-Date: 2021-05-08 17:56\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -310,8 +310,8 @@ msgstr "Neste vídeo (05:58), revisará exemplos dos diferentes tipos de aplica�
 
 #. type: Plain text
 #: foundations.en.adoc:25
-msgid "video::434713189[vimeo, height=480, width=640, align=center]"
-msgstr "video::434713189[vimeo, height=480, largura=640, align=center]"
+msgid "video::434713189[vimeo,height=540,width=960,align=center]"
+msgstr "video::434713189[vimeo,height=540,width=960,align=center]"
 
 #. type: Title ====
 #: foundations.en.adoc:26
@@ -1006,9 +1006,8 @@ msgstr "- [ ] O director do museu ou do departamento\n"
 #.  Question 9
 #. type: Plain text
 #: foundations.en.adoc:375
-msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]"
-msgstr "Para as afirmações fornecidas, insira a imagem correspondente. (A, B,C,D)\n"
-"imagem:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]"
+msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]"
+msgstr "Para as instruções fornecidas, insira a imagem correspondente. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]"
 
 #. type: delimited block .
 #: foundations.en.adoc:386
@@ -1733,10 +1732,10 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma cole
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
-"image::img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
-"image::img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:78 capture.en.adoc:91
@@ -1759,10 +1758,10 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados você escolheria para uma li
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
-"image::img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-plant.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ":figure-caption!:\n"
-".Water hyacinth (Eichhornia crassipes) observada no Bourail, Nova Caledonia, onde é uma espécie introduzida e invasora, conforme o GRIIS. Fotografia por gérard (2016) com licença CC BY-SA 2.0\n"
-"image::img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".Jacinto de água (Eichhornia crassipes) observeada no Bourail, Nova Caledónia, onde é uma espécie introduzida e invasora segundo o GRIIS. Fotografia por gérard (2016) com a licença CC BY-SA 2.0\n"
+"image::img/web/QDataTypes-plant.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #.  Question 3
 #. type: Plain text
@@ -1781,10 +1780,10 @@ msgstr "Os estudos de avaliação do impacto ambiental são realizados por perit
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
-"image::img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-field.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ":figure-caption!:\n"
-".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologista capturando borboletas] por Matthieu Gauvain (CC-BY-SA)\n"
-"image::img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
+"image::img/web/QDataTypes-field.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:106 capture.en.adoc:134 capture.en.adoc:166
@@ -1813,10 +1812,10 @@ msgstr "Dados de rastreamento de pássaros são obtidos com dispositivos especí
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
-"image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-tracking.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ":figure-caption!:\n"
-".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observado na Reserva Natural de Gamla de Gamla por ichar├├├├-MinoZig (CC0) \n"
-"image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Abutre-grifo] observado na Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
+"image::img/web/QDataTypes-tracking.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:121
@@ -1839,10 +1838,10 @@ msgstr "Qual(is) tipo(s) de conjunto de dados você escolheria para dados de arm
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
-"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ":figure-caption!:\n"
-".https://www.flickr.com/photos/miheco/215305679/[Armadilha de inseto] por miheco (CC-BY-SA)\n"
-"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://www.flickr.com/photos/miheco/215305679/[Armadilha de insecto] por miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #.  Question 6
 #. type: Plain text
@@ -1861,10 +1860,10 @@ msgstr "Os dados adquiridos no contexto da gestão de áreas protegidas (como pa
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
-"image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-Observations.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ":figure-caption!:\n"
-".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[elefantes do Sri Lankan] observado por pen_ash.\n"
-"image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Elefantes do Sri Lankan] observado por pen_ash.\n"
+"image::img/web/QDataTypes-Observations.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:149
@@ -1899,10 +1898,10 @@ msgstr "Os dados de cada participante são capturados e adicionados à ferrament
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
-"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ":figure-caption!:\n"
-".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Observando aves com os guardas do parque] por US National Park Service (reutilização aotorizada através de google image search)\n"
-"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[À procur de pássaros com a equipa do parque ] por US National Park Service (reutilização autorizada na pesquisa de imagens do google)\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #.  Question 8
 #. type: Plain text
@@ -1915,10 +1914,10 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para lista re
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
-"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Rinoceronte negro] observado no Magdeburg Zoo, Alemanha por Mani300\n"
-"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:179
@@ -2545,7 +2544,7 @@ msgstr "- [ ] uma ferramenta que o ajuda a gerir e corrigir os seus dados\n"
 #. type: Plain text
 #: publishing.en.adoc:86
 msgid "Which Creative Commons licences and waivers are recommended by GBIF for data publication?"
-msgstr "Quais as licenças e dispensas Creative Commons recomendadas pelo GBIF para a publicação de dados?"
+msgstr "Quais licenças e dispensas Creative Commons que são recomendadas pelo GBIF para publicação de dados?"
 
 #. type: delimited block .
 #: publishing.en.adoc:93
@@ -2825,7 +2824,45 @@ msgid "|Skills\n"
 "|Describes changes made most of the time. Doesn’t describe changes consistently or fully (e.g. describes the change, but not the author).\n"
 "|Always remembers to describe changes made. Always describes changes consistently, so that all edits of the same type can be easily identified.\n"
 "|Can accurately and consistently describe changes made in a repeatable way.\n"
-msgstr ""
+msgstr "Aptidões\n"
+"| Desempenho iniciado\n"
+"1\n"
+"Desempenho em desenvolvimento\n"
+"2\n"
+"| Desempenho pleno\n"
+"3\n"
+"| Desempenho de excelência\n"
+"4\n\n"
+"| A. Capacidade de avaliar a qualidade (ou seja, identificar problemas e seus tipos) de um conjunto de dados de biodiversidade.\n"
+"| Só usa verificações visuais para analisar a qualidade. Não consegue diferenciar entre os tipos de erros. Consegue detectar valores ausentes em campos obrigatórios e inconsistências de dados graves.\n"
+"| Só consegue usar técnicas muito básicas (por exemplo, classificação) para analisar a qualidade dos dados. Consegue detectar incompatibilidades entre nomes de campo e conteúdo. Consegue identificar erros técnicos de forma consistente, mas apenas os erros de consistência mais comuns num conjunto de dados.\n"
+"| Consegue usar ferramentas e técnicas específicas para avaliar a qualidade. Reconhece o nível mínimo de desagregação / normalização necessário para uso comum e publicação. Consegue identificar consistentemente erros técnicos e a maioria dos erros de consistência num conjunto de dados.\n"
+"| Usa uma abordagem sistemática para análise de conjunto de dados cobrindo todos os principais domínios de dados. Consegue identificar consistentemente erros técnicos e de consistência num conjunto de dados. Consegue usar outras fontes de dados (por exemplo, metadados ou outros conjuntos de dados) para identificar ou inferir erros de consistência num conjunto de dados.\n\n"
+"| B. Capacidade de realizar correção de formato de dados.\n"
+"| Só consegue fazer correções manualmente nas tabelas. Mostra conhecimento genérico sobre o uso de tipos de formato em dados digitais (por exemplo, datas, strings, números)\n"
+"| Consegue identificar pelo menos uma ferramenta específica para corrigir automaticamente os erros de formato, mas só consegue usá-la em casos específicos. Em alternativa, usa mecanismos simples (por exemplo, ‘localizar e substituir’) para resolver problemas.\n"
+"| Consegue usar pelo menos uma ferramenta para corrigir automaticamente os erros de formato.\n"
+"| Consegue usar recursos avançados de mais de uma ferramenta para corrigir erros de formato.\n\n"
+"| C. Capacidade de realizar correção de dados nomenclaturais.\n"
+"| Só consegue fazer correções manualmente nas tabelas. Só usa conhecimento pessoal de grupos taxonómicos conhecidos.\n"
+"| Consegue identificar pelo menos uma ferramenta específica para corrigir automaticamente erros nomenclaturais, mas só consegue usá-la em casos específicos. Em alternativa, usa mecanismos simples (por exemplo, ‘localizar e substituir’) para resolver problemas.\n"
+"| Consegue usar pelo menos uma ferramenta para corrigir automaticamente os erros nomenclaturais. É capaz de encontrar e usar informações nomenclaturais de referência adequadas para os grupos taxonómicos com os quais costuma trabalhar.\n"
+"| Consegue usar mais de uma ferramenta para corrigir erros nomenclaturais. É capaz de encontrar e usar informações nomenclaturais de referência adequadas para grupos taxonómicos fora das suas áreas de especialização.\n\n"
+"| D. Capacidade de realizar correção de dados geográficos.\n"
+"| Só consegue fazer correções manualmente nas tabelas. Só usa conhecimento pessoal de áreas geográficas conhecidas.\n"
+"| Consegue identificar pelo menos uma ferramenta específica para mapear e / ou corrigir automaticamente erros nas informações geográficas, mas só consegue usá-la em casos específicos. Em alternativa, usa mecanismos simples (por exemplo, ‘localizar e substituir3’) para resolver problemas.\n"
+"| Consegue usar pelo menos uma ferramenta para mapear e / ou corrigir automaticamente erros nas informações geográficas. É capaz de encontrar e usar informações geográficas de referência adequadas num formato adequado para as áreas com as quais trabalha normalmente.\n"
+"| Consegue usar mais de uma ferramenta para mapear e / ou corrigir automaticamente os erros nas informações geográficas. É capaz de encontrar e usar informações geográficas de referência num formato adequado para áreas fora da sua área de especialização.\n\n"
+"| E. Capacidade de usar softwares específicos (por exemplo, OpenRefine) como ferramentas para limpeza de dados.\n"
+"| Consegue identificar pelo menos uma ferramenta de limpeza de dados. Consegue identificar os principais recursos de uma ferramenta de limpeza de dados (por exemplo, OpenRefine).\n"
+"| Consegue identificar várias ferramentas de limpeza de dados. Consegue usar um ou alguns dos recursos básicos do software de limpeza de dados para limpar um conjunto de dados (por exemplo, criar um projeto OpenRefine, usar facetas, filtragem, clustering ou reconciliação).\n"
+"| Consegue usar todos os recursos básicos de um software de limpeza de dados para limpar um conjunto de dados (por exemplo, em OpenRefine: facetas, filtragem, agrupamento, reconciliação).\n"
+"| Consegue usar os recursos avançados de um ou mais pacotes de software de limpeza de dados para limpar conjuntos de dados (por exemplo, em OpenRefine: usar API, expressões regulares, Google Refine Expression Language).\n\n"
+"| F. Capacidade de documentar procedimentos de transformação de dados.\n"
+"| Raramente descreve as alterações feitas durante a curadoria, formatação ou transformação de dados.\n"
+"| Descreve as alterações feitas na maioria das vezes. Não descreve as mudanças de forma consistente ou completa (por exemplo, descreve a mudança, mas não o autor).\n"
+"| Sempre se lembra de descrever as alterações feitas. Sempre descreve as alterações de forma consistente, para que todas as edições do mesmo tipo possam ser facilmente identificadas.\n"
+"| Consegue descrever com precisão e consistência as alterações feitas de forma repetível.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:151
@@ -2870,7 +2907,40 @@ msgid "|Skills\n"
 "|Can update an existing, published dataset by uploading a new source file. Can republish the file, error free.\n"
 "|Can successfully publish and register a new dataset. Can understand and act upon publishing error messages in IPT.\n"
 "|Shows understanding of dataset versioning in IPT.\n"
-msgstr ""
+msgstr "Aptidões\n"
+"| Desempenho iniciado\n"
+"1\n"
+"Desempenho em desenvolvimento\n"
+"2\n"
+"| Desempenho pleno\n"
+"3\n"
+"| Desempenho de excelência\n"
+"4\n\n"
+"| A. Conhecimento sobre padrões de dados de informações sobre biodiversidade (BDI).\n"
+"| Mostra conhecimento limitado ou nenhum conhecimento sobre os padrões de dados BDI e quais desses padrões de dados são aceitos pelo GBIF.\n"
+"| Consegue identificar padrões BDI e sabe quais são aceites pelo GBIF, mas não sabe onde localizar informações sobre como usá-los. Não consegue identificar quais termos são obrigatórios.\n"
+"| Conhece os padrões BDI aceitos pelo GBIF. Consegue encontrar uma lista de extensões e núcleos de dados aceitos. Publica conjuntos de dados de acordo com os padrões GBIF exigidos e / ou recomendados para termos de dados e metadados e sabe como encontrar as definições dos termos.\n"
+"| Mostra compreensão sobre as características e limitações dos vários padrões de BDI.\n\n"
+"| B. Capacidade de analisar a adequação de um conjunto de dados de biodiversidade para publicação por meio do GBIF.\n"
+"| Mostra conhecimento limitado ou nenhum conhecimento sobre os critérios formais que um conjunto de dados precisa cumprir para ser publicável através do GBIF.\n"
+"| Conhece os critérios formais que um conjunto de dados precisa cumprir para ser publicável através do GBIF, mas não consegue avaliar se um determinado conjunto de dados os cumpre.\n"
+"| Consegue avaliar corretamente se um conjunto de dados pode ser publicado atualmente através do GBIF. Consegue atribuir pelo menos um tipo de dados válido (= núcleo) a um conjunto de dados com base na descrição fornecida pelo portador de dados e após ter analisado o conjunto de dados.\n"
+"| Consegue identificar mais de uma opção de publicação para um conjunto de dados (quando possível).\n\n"
+"| C. Uso do IPT: capacidade de produzir / analisar metadados de alta qualidade.\n"
+"| Mostra conhecimento limitado ou nenhum conhecimento sobre as características de bons metadados.\n"
+"| Conhece as características de bons metadados, mas tem dificuldade em reconhecê-los.\n"
+"| Conhece as características de bons metadados e como reconhecê-los. Consegue produzir recomendações sobre como melhorar os metadados existentes.\n"
+"| Conhece as características dos metadados de alta qualidade e como produzi-los.\n\n"
+"| D. Uso de IPT: capacidade de fazer upload / conectar dados e mapeá-los para núcleos e extensões existentes.\n"
+"| Consegue carregar conjuntos de dados de arquivo único no IPT, mas não consegue mapeá-los para nenhum núcleo.\n"
+"| Só consegue carregar conjuntos de dados de arquivo único no IPT e mapear para um único tipo de núcleo sem extensões.\n"
+"| Consegue carregar vários arquivos em um IPT como parte de um único conjunto de dados e mapeá-los corretamente para um núcleo e pelo menos uma extensão. Consegue usar o recurso de valor constante IPT.\n"
+"| Consegue carregar vários arquivos em um IPT como parte de um único conjunto de dados e mapeá-los corretamente para um núcleo e várias extensões. Consegue usar o recurso de tradução de dados IPT.\n\n"
+"| E. Uso do IPT: capacidade de usar a ferramenta para publicar e registar conjuntos de dados.\n"
+"| Consegue visualizar um conjunto de dados publicado e metadados associados num IPT. Consegue descarregar um arquivo DwC-A de um IPT. Consegue navegar por um conjunto de dados registado do IPT para o portal GBIF.\n"
+"| Consegue atualizar um conjunto de dados publicado existente carregando um novo arquivo de origem. Consegue republicar o arquivo, sem erros.\n"
+"| Consegue publicar e registrar com êxito um novo conjunto de dados. É capaz de compreender e agir na publicação de mensagens de erro no IPT.\n"
+"| Mostra compreensão do controle de versão do conjunto de dados no IPT.\n"
 
 #. type: Title ==
 #: use-case-invasive-species.en.adoc:3
@@ -4488,49 +4558,49 @@ msgstr "<<<"
 #: data-papers.en.adoc:3
 #, no-wrap
 msgid "Appendix: Data papers"
-msgstr ""
+msgstr "Apêndice: Artigos de dados"
 
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr ""
+msgstr "Um artigo de dados é um documento revisto por pares que descreve um conjunto de dados, publicado numa revista científica revista por pares. É preciso esforço para preparar, selecionar e descrever os dados. Os artigos de dados perrmitem o reconhecimento por esse esforço por meio de um artigo científico. Não cobrimos como criar artigos de dados neste curso, no entanto, como uma atividade opcional, pode assistir a este vídeo (51:51) apresentado por Lizanne Roxburgh. Neste vídeo, aprenderá mais sobre como publicar artigos de dados. Se não conseguir assistir ao vídeo incorporado no Vimeo, pode criar no link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
 
 #. type: Plain text
 #: data-papers.en.adoc:16
 msgid "You can read more about data papers on GBIF.org."
-msgstr ""
+msgstr "Pode ler mais sobre artigos de dados no GBIF.org."
 
 #. type: Target for macro image
 #: data-papers.en.adoc:17
 #, no-wrap
 msgid "img/web/datapapers.png"
-msgstr ""
+msgstr "img/web/datapapers.png"
 
 #. type: Target for macro image
 #: data-papers.en.adoc:19
 #, no-wrap
 msgid "img/web/datapapersIPT.png"
-msgstr ""
+msgstr "img/web/datapapersIPT.png"
 
 #. type: delimited block =
 #: data-papers.en.adoc:23
 msgid "View the links below to see a data paper as it appears on the IPT, on GBIF.org and in the Journal. Each are cross-linked."
-msgstr ""
+msgstr "Veja os links abaixo para ver um artigo de dados tal como aparece no IPT, no GBIF.org e na revista cientifica. Qualquer deles está interligado."
 
 #. type: delimited block =
 #: data-papers.en.adoc:25
 msgid "Journal: https://doi.org/10.3897/BDJ.2.e4244"
-msgstr ""
+msgstr "Revista: https://doi.org/10.3897/BDJ.2.e4244"
 
 #. type: delimited block =
 #: data-papers.en.adoc:26
 msgid "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
-msgstr ""
+msgstr "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
 
 #. type: delimited block =
 #: data-papers.en.adoc:27
 msgid "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
-msgstr ""
+msgstr "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
 
 #. type: Title ==
 #: solutions.en.adoc:2
@@ -4726,9 +4796,9 @@ msgstr "Os utilizadores dos dados para investigação ou educação"
 #: solutions.en.adoc:79
 #, no-wrap
 msgid "*For the given statements, input the matching image. (A, B, C, D)*\n"
-"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
-msgstr "*Para as afirmações fornecidas, insira a imagem correspondente. (A, B,C,D)*\n"
-"imagem:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+msgstr "*Para as instruções fornecidas, insira a imagem correspondente. (A, B, C, D)*\n"
+"image:img/web/precisacyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: Plain text
 #: solutions.en.adoc:82
@@ -5067,22 +5137,22 @@ msgstr "Deve sempre procurar gerir e publicar dados com a maior qualidade possí
 #: solutions.en.adoc:212
 #, no-wrap
 msgid "*How should you organize your data cleaning workflow?*\n"
-msgstr ""
+msgstr "*Como deve organizar o seu fluxo de trabalho de limpeza de dados?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:214
 msgid "ask your colleagues for expertise"
-msgstr ""
+msgstr "peça aos seus colegas o conhecimento especializado"
 
 #. type: Plain text
 #: solutions.en.adoc:215
 msgid "work at an institutional level to harmonize data quality workflows"
-msgstr ""
+msgstr "trabalhe ao nível institucional para harmonizar fluxos de trabalho de qualidade de dados"
 
 #. type: Plain text
 #: solutions.en.adoc:217
 msgid "Nobody is expected to know everything about biodiversity data; you should seek help and advice from your colleagues or other knowledgeable people, and ensure that you're applying the good practices recommended by your institution as you clean your data."
-msgstr ""
+msgstr "Ninguém sabe tudo sobre os dados da biodiversidade; deve procurar ajuda e aconselhamento com os seus colegas ou outras pessoas conhecidas. e certifique-se de aplicar as boas práticas recomendadas pela sua instituição enquanto limpa os seus dados."
 
 #. type: Plain text
 #: solutions.en.adoc:219
@@ -5093,185 +5163,185 @@ msgstr "*Qual é o melhor:*\n"
 #. type: Plain text
 #: solutions.en.adoc:221
 msgid "prevent errors from occurring"
-msgstr ""
+msgstr "prevenir a ocorrência de erros"
 
 #. type: Plain text
 #: solutions.en.adoc:222
 msgid "correct errors as soon as you find them in your database or spreadsheet"
-msgstr ""
+msgstr "corrija erros assim que os encontrar na sua base de dados ou tabela"
 
 #. type: Plain text
 #: solutions.en.adoc:224
 msgid "The best way to avoid spreading errors in your data is to prevent them from occurring at the start of the data collecting/recording process."
-msgstr ""
+msgstr "A melhor maneira de evitar a propagação de erros nos seus dados é evitá-los no início do processo de colheita/registo de dados."
 
 #. type: Plain text
 #: solutions.en.adoc:226
 msgid "Of course, mistakes are unavoidable so you should also clean them as soon as you find them, and document the cleaning process."
-msgstr ""
+msgstr "É claro que os erros são inevitáveis, portanto também deve limpá-los assim que os encontrar, e documentar o processo de limpeza."
 
 #. type: Plain text
 #: solutions.en.adoc:228
 msgid "If you don't have the time or resources to properly clean your data, it is best to wait before you can do so instead of publishing erroneous data that might confuse people."
-msgstr ""
+msgstr "Se não tem tempo ou recursos para limpar os seus dados corretamente, é melhor esperar conseguir fazê-lo em vez de publicar dados errados que podem confundir as pessoas."
 
 #. type: Plain text
 #: solutions.en.adoc:230
 #, no-wrap
 msgid "*Whose responsibility is data quality?*\n"
-msgstr ""
+msgstr "*De quem é a responsabilidade da qualidade dos dados?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:232
 msgid "Everyone involved in the management of data"
-msgstr ""
+msgstr "De todos os participantes na gestão dos dados"
 
 #. type: Plain text
 #: solutions.en.adoc:234
 msgid "Every person involved in your data management workflow is at least partly responsible for their quality, from the field technicians to the database manager(s)."
-msgstr ""
+msgstr "Cada pessoa envolvida no seu fluxo de trabalho de gestão de dados é pelo menos parcialmente responsável pela sua qualidade, desde os técnicos de campo até ao(s) gerente(s) da base de dados."
 
 #. type: Plain text
 #: solutions.en.adoc:236
 msgid "People who might later use your data can inform you of any remaining error in your data, and should use them responsibly for their own research, but the initial data quality is not their responsibility."
-msgstr ""
+msgstr "As pessoas que mais tarde possam utilizar os seus dados, podem informá-lo de qualquer erro que permaneca nos seus dados e devem utilizá-los de forma responsável na sua própria investigação, mas a qualidade inicial dos dados não é responsabilidade delas."
 
 #. type: Plain text
 #: solutions.en.adoc:238
 msgid "GBIF can perform automatic checks on your data (e.g. detection of missing values, geographic outliers, unknown scientific names) but should not be held responsible for errors that occurred earlier in the data management process."
-msgstr ""
+msgstr "O GBIF pode realizar verificações automáticas nos seus dados (por exemplo, detecção de valores ausentes, outliers geográficos, nomes científicos desconhecidos), mas não deve ser responsabilizados pelos erros que ocorreram anteriormente no processo de gestão de dados."
 
 #. type: Plain text
 #: solutions.en.adoc:240
 #, no-wrap
 msgid "*Which tools can be used to clean your data?*\n"
-msgstr ""
+msgstr "*Quais as ferramentas que podem ser usadas para limpar os seus dados?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:242
 msgid "Excel & other spreadsheets management tools"
-msgstr ""
+msgstr "Excel e outras ferramentas de gestão de folhas de cálculo"
 
 #. type: Plain text
 #: solutions.en.adoc:244
 msgid "Your database software"
-msgstr ""
+msgstr "O seu software de base de dados"
 
 #. type: Plain text
 #: solutions.en.adoc:245
 msgid "Online tools such as Scientific Names Resolver or Google Maps"
-msgstr ""
+msgstr "Ferramentas on-line como o Scientific Names Resolver ou Google Maps"
 
 #. type: Plain text
 #: solutions.en.adoc:247
 msgid "All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful tools>> listed in the data management section."
-msgstr ""
+msgstr "Todos os tipos de ferramentas podem ser usadas para limpar os seus dados, mas deve identificar quais responderão às suas necessidades em termos de resolução taxonómica, georeferenciação, exclusão de duplicados e assim por diante. Pode encontrar <<helpful tools>> listados na seção de gestão de dados."
 
 #. type: Title ===
 #: solutions.en.adoc:248
 #, no-wrap
 msgid "Data publishing review solutions"
-msgstr ""
+msgstr "Soluções de revisão de dados"
 
 #. type: Plain text
 #: solutions.en.adoc:251
 #, no-wrap
 msgid "*What does data publishing mean in the context of GBIF?*\n"
-msgstr ""
+msgstr "*O que significa publicação de dados no contexto do GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:253
 msgid "Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format"
-msgstr ""
+msgstr "Tornar o(s) seu(s) dado(s) de biodiversidade acessível ao público e detectável em um formato padronizado"
 
 #. type: Plain text
 #: solutions.en.adoc:255
 msgid "Data publishing within GBIF means making your biodiversity dataset(s) publicly accessible in a standardized format (most of the time, Darwin Core), so that it can be discovered and reused by other people."
-msgstr ""
+msgstr "A publicação de dados através do GBIF significa tornar os seus conjuntos de dados de biodiversidade acessíveis ao público num formato padronizado (na maioria das vezes, Darwin Core), para que possa ser descoberto e reutilizado por outras pessoas."
 
 #. type: Plain text
 #: solutions.en.adoc:257
 #, no-wrap
 msgid "*What is an IPT?*\n"
-msgstr ""
+msgstr "*O que é um IPT?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:259
 msgid "a tool that helps you publish your data to GBIF"
-msgstr ""
+msgstr "uma ferramenta que o ajuda a publicar os seus dados através do GBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:260
 msgid "a tool that helps you produce a Data paper"
-msgstr ""
+msgstr "uma ferramenta que ajuda a produzir um Artigo de Dados"
 
 #. type: Plain text
 #: solutions.en.adoc:263
 msgid "The IPT (Integrated Publishing Toolkit) is a Java-coded software that allows you to upload and publish data to GBIF.  It is not to be used as a data management or data cleaning tool."
-msgstr ""
+msgstr "O IPT (Integrated Publishing Toolkit) é um software escrito em Java que permite carregar e publicar dados através do GBIF. Não deve ser utilizado como instrumento de gestão de dados ou de limpeza de dados."
 
 #. type: Plain text
 #: solutions.en.adoc:265
 msgid "The IPT can also help you with the process of writing and submitting a data paper, thanks to the EML file it generates automatically when you fill in the metadata for your data resource."
-msgstr ""
+msgstr "O IPT também pode ajudá-lo no processo de escrever e enviar um artigo de dados, graças ao ficheiro EML ele gera automaticamente quando preenche os metadados do seu recurso de dados."
 
 #. type: Plain text
 #: solutions.en.adoc:267
 #, no-wrap
 msgid "*Which Creative Commons licences and waivers are recommended by GBIF for data publication?*\n"
-msgstr ""
+msgstr "*Quais licenças e dispensas Creative Commons são recomendadas pelo GBIF para publicação de dados?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:269
 msgid "CC0, CC-BY and CC-BY-NC"
-msgstr ""
+msgstr "CC0, CC-BY e CC-BY-NC"
 
 #. type: Plain text
 #: solutions.en.adoc:272
 msgid "The Creative Commons licences and waivers recommended to publish your dataset(s) to GBIF are CC0, CC-BY and CC-BY-NC.  They are widely recognized licenses and/or waivers that align with international open-data requirements for data sharing and re-use."
-msgstr ""
+msgstr "As licenças e dispensas Creative Commons recomendadas para publicar os seu(s) dados(s) no GBIF são CC0, CC-BY e CC-BY-NC. São licenças e/ou dispensas amplamente reconhecidas que se alinham com os requisitos internacionais de dados abertos para partilhamento e reutilização de dados."
 
 #. type: Plain text
 #: solutions.en.adoc:274
 msgid "Please note that you should only choose CC0 or CC-BY waiver/license for your BID-related dataset(s)."
-msgstr ""
+msgstr "Por favor, note que deve escolher apenas a dispensa/licença CC-BY ou CC-BY para o(s) seu(s) dados(s) relacionados com o BID."
 
 #. type: Plain text
 #: solutions.en.adoc:276
 #, no-wrap
 msgid "*What are the three Cores from which you can choose for an IPT resource?*\n"
-msgstr ""
+msgstr "*Quais são os três núcleos (cores) que pode escolher para um recurso IPT?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:278
 msgid "Occurrence Core, Taxon Core, Event Core"
-msgstr ""
+msgstr "Núcleo de Ocorrência, Núcleo de Taxon, Núcleo de Eventos"
 
 #. type: Plain text
 #: solutions.en.adoc:280
 msgid "You can choose one of the three following Cores for each of your IPT resources: Occurrence, Taxon or Event Core."
-msgstr ""
+msgstr "Pode escolher um dos três Núcleos seguintes para cada um dos seus recursos IPT: Núcleo de Ocorrência, de Taxon ou de Evento."
 
 #. type: Plain text
 #: solutions.en.adoc:282
 msgid "The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact."
-msgstr ""
+msgstr "O padrão Darwin Core também permite que associe extensões ao núcleo escolhido, como SimpleMultimedia ou MeasurementOrFact."
 
 #. type: Plain text
 #: solutions.en.adoc:284
 msgid "The metadata are filled in a separate section of the IPT and are shared using the EML standard, not the Darwin Core (which is used for data only)."
-msgstr ""
+msgstr "Os metadados são preenchidos numa secção separada do IPT sendo partilhados usando o padrão EML, e não Darwin Core (que é usado apenas para dados)."
 
 #. type: Plain text
 #: solutions.en.adoc:286
 #, no-wrap
 msgid "*How many Extensions files can a dataset have?*\n"
-msgstr ""
+msgstr "*Quantas extensões pode ter um conjunto de dados?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:288
 msgid "as many as needed"
-msgstr ""
+msgstr "tantas quantas necessárias"
 
 #. type: Plain text
 #: solutions.en.adoc:291
@@ -5811,14 +5881,15 @@ msgstr "As informações geográficas provam ser valiosas em muitos contextos de
 #: scripts/standards.en.txt:178 scripts/structures.en.txt:73
 #, no-wrap
 msgid "// Slide 11\n"
-msgstr ""
+msgstr "// Slide 11\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:65
 #, no-wrap
 msgid "Spatial information can be found in numerous formats, not only geographic coordinates: examples include (but are not limited to) grid data, point+radius, or polygons.\n"
 "Each of them is useful to share in order to check the consistency of the geographical elements (eg coordinates vs country code, or to ensure a given locality is consistent with a collector’s travels)\n"
-msgstr ""
+msgstr "A informação espacial pode ser encontrada em vários formatos, não só nas coordenadas geográficas: os exemplos incluem (mas não se limitam a) dados em grelha, ponto+raio ou polígonos.\n"
+"Cada um deles é útil para partilhar a fim de verificar a consistência dos elementos geográficos (por exemplo, coordenadas vs código do país, ou para garantir que uma determinada localidade é consistente com as viagens de um colector)\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:67 scripts/data-management.en.txt:124
@@ -5827,14 +5898,15 @@ msgstr ""
 #: scripts/resourcing.en.txt:109 scripts/structures.en.txt:80
 #, no-wrap
 msgid "// Slide 12\n"
-msgstr ""
+msgstr "// Slide 12\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:70
 #, no-wrap
 msgid "Within GBIF, it is recommended to share the geodetic Datum that was used to derive the coordinates (decimal latitude and longitude) shared.\n"
 "In the absence of a specific geodetic datum, GBIF will infer WGS84 as default.\n"
-msgstr ""
+msgstr "Dentro do GBIF, é recomendado partilhar o Datum geodésico que foi usado para obter as coordenadas (latitude decimal e longitude) partilhadas.\n"
+"Na ausência de um datum geodésico específico, o GBIF irá inferir WGS84 por defeito.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:72 scripts/data-types.en.txt:69
@@ -5843,7 +5915,7 @@ msgstr ""
 #: scripts/standards.en.txt:205 scripts/structures.en.txt:84
 #, no-wrap
 msgid "// Slide 13\n"
-msgstr ""
+msgstr "// Slide 13\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:76
@@ -5851,7 +5923,9 @@ msgstr ""
 msgid "This slide shows an old GBIF map with different types of geographical issues: the most obvious one is a mirror effect between the USA and China (reversed coordinates), and you can also notice an artificial line along the Greenwich meridian where ‘0’ values were put in the ‘decimalLongitude’ field, as well as another one on the Equator where ‘0’ values were put in the ‘decimalLatitude’ field.\n"
 "GBIF indexing now includes automatic geographical checks between the coordinates and countryCode shared within the dataset.\n"
 "Coordinates can be automatically reversed to match the country. \n"
-msgstr ""
+msgstr "Este slide mostra um antigo mapa do GBIF com diferentes tipos de problemas geográficos: o mais óbvio é um efeito de espelho entre os EUA e a China (coordenadas invertidas), e pode também observar uma linha artificial ao longo do meridiano de Greenwich, onde valores \"0\" foram colocados no campo \"decimalLongitude\", bem como outra sobre o Equador, onde foram colocados valores \"0\" no campo \"decimalLatitude\".\n"
+"A indexação do GBIF agora inclui verificações geográficas automáticas entre as coordenadas e o país partilhado no conjunto de dados.\n"
+"As coordenadas podem ser automaticamente revertidas para corresponder ao país.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:78 scripts/data-types.en.txt:74
@@ -5860,14 +5934,15 @@ msgstr ""
 #: scripts/structures.en.txt:89
 #, no-wrap
 msgid "// Slide 14\n"
-msgstr ""
+msgstr "// Slide 14\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:81
 #, no-wrap
 msgid "Information about the context of the data collection or observation are very useful to share in order to give as much detail as possible regarding each occurrence.\n"
 "Information such as the collector name, collection or observation protocol, habitat and other factors can prove to be important when reusing data for example with ecological niche modelling.\n"
-msgstr ""
+msgstr "Informações sobre o contexto da colheita ou observação dos dados são muito úteis para partilhar, a fim de fornecer o máximo de detalhe possível sobre cada ocorrência.\n"
+"Informações tais como o nome do coletor, o protocolo de colheita ou observação, o habitat e outros factores podem revelar-se importantes na reutilização dos dados, por exemplo, para modelagem do nicho ecológico.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:86
@@ -5876,7 +5951,10 @@ msgid "// Slide 15\n"
 "Data quality factors regarding collection information are mainly along the lines of exactitude like the correct collector name, consistency for example using the same vocabulary for describing soils, habitats, and completeness as in providing all existing information about the description of a given species including the  flowering period, colour of the leaves, and medicinal uses.\n"
 "Within the Darwin Core and within the IPT you can find recommended controlled vocabularies for some fields such as the ‘lifeStage’.\n"
 "The TDWG vocabularies task group works to promote and make better the ease of use across vocabularies.\n"
-msgstr ""
+msgstr "// Slide 15\n"
+"Fatores de qualidade dos dados sobre a informação da colheita estão principalmente ao longo das linhas de exatidão, como o nome correto do coletor, consistência, por exemplo, usando o mesmo vocabulário para descrever solos, habitats e completude como forma de fornecer todas as informações existentes sobre a descrição de uma determinada espécie, incluindo o período florístico. cor das folhas e dos medicamentos.\n"
+"Dentro do Darwin Core e do IPT pode encontrar vocabulários controlados recomendados para alguns campos, como o 'lifeStage' (estado de desenvolvimento).\n"
+"O grupo de trabalho de vocabulários do TDWG trabalha para promover e melhorar a facilidade de uso em todos os vocabulários.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:88 scripts/data-types.en.txt:83
@@ -6171,26 +6249,29 @@ msgstr "// Slide 10\n"
 msgid "Some times it can be an effective strategy to set some measures of performance before the cleaning process begins.\n"
 "One performance measure might be to complete the cleaning of 500 records every week.\n"
 "Another measure might be to provide a statistical report of the accuracy of the corrections being made, such as:\n"
-msgstr ""
+msgstr "Por vezes, pode ser uma estratégia eficaz definir algumas medidas de desempenho antes do início do processo de limpeza.\n"
+"Uma medida de desempenho pode ser completar a limpeza de 500 registros por semana.\n"
+"Outra medida pode ser fornecer um relatório estatístico da precisão das correções feitas, tais como:\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:90
 #, no-wrap
 msgid "“95% of all georeferences corrected this week now have an uncertainty in meters of less than 1000 meters.”\n"
-msgstr ""
+msgstr "“95% de todas as referências geográficas corrigidas esta semana agora têm uma incerteza em metros de menos de 1000 metros.”\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:92
 #, no-wrap
 msgid "These kinds of measures can give direction and guidance to the people performing the cleaning, as well as, to serve as a means to report on successes and areas in need of improvement.\n"
-msgstr ""
+msgstr "Este tipo de medidas pode dar diretrizes e orientações às pessoas que fazem a limpeza, além de servir como meio de informar sobre os sucessos e as áreas que precisam de ser melhoradas.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:95
 #, no-wrap
 msgid "In an ideal world, you will have developed a data maintenance plan that has been optimized to be as efficient and effective as possible.\n"
 "Optimization can be achieved in many different ways including taking advantage of your institution’s strengths, setting clear objectives and measure of success, and regular adjustment of your priorities based on available resources.\n"
-msgstr ""
+msgstr "Num mundo ideal, deverá desenvolver um plano de manutenção de dados otimizado para ser o mais eficiente e eficaz possível.\n"
+"A otimização pode ser alcançada de muitas maneiras diferentes, incluindo tirar proveito dos pontos fortes da sua instituição, definir objectivos claros e medir o sucesso, e ajustar regularmente suas prioridades com base nos recursos disponíveis.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:103
@@ -6200,7 +6281,11 @@ msgid "One of the best ways to learn how successful your data cleaning and data 
 "Once such way is to review the way that GBIF presents your data.\n"
 "You can view the comparison between the verbatim data published to GBIF and the interpreted data that GBIF might have corrected or updated.\n"
 "These comparisons can help you to optimize your data cleaning process, but you can also help GBIF to improve its data quality processes, too, when you provide expert feedback back to them.\n"
-msgstr ""
+msgstr "Uma das melhores maneiras de aprender como os seus processos de limpeza de dados e manutenção de dados é procurar feedback dos utilizadores na sua comunidade.\n"
+"Isso pode ser feito através das parcerias que discutimos anteriormente, mas também pode procurar feedback de outras maneiras.\n"
+"Uma dessas formas é rever o modo como o GBIF apresenta os seus dados.\n"
+"Pode visualizar a comparação entre os dados originais publicados através do GBIF e os dados interpretados de que o GBIF pode ter corrigido ou atualizado.\n"
+"Essas comparações podem ajudá-lo a otimizar o processo de limpeza de dados. mas também pode ajudar o GBIF a melhorar os seus processos de qualidade de dados, quando fornecer feedback como especialista.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:107
@@ -6208,14 +6293,17 @@ msgstr ""
 msgid "One of the best ways to achieve success with data cleaning is to provide training and education to everyone who works with your data.\n"
 "These may be trainings that you organize yourself, local or regional trainings in partnership with, or presented by, other institutions in your area, or workshops and courses provided by other groups, such as GBIF.\n"
 "If you need training, please check the GBIF web site regularly or contact GBIF’s Community Mentors or GBIF’s Biodiversity Open Data Ambassadors who also can be good resources for training and education opportunities.\n"
-msgstr ""
+msgstr "Uma das melhores maneiras de alcançar o sucesso com a limpeza de dados é proporcionar formação e educação a todos os que trabalham com os seus dados.\n"
+"Estes podem ser cursos organizados por si, formações locais ou regionais em parceria com, ou apresentado por, outras instituições da sua região, ou workshops e cursos fornecidos por outros grupos, como o GBIF.\n"
+"Se precisar de formação, por favor, verifique o site do GBIF regularmente ou entre em contato com os mentores da comunidade do GBIF ou com os Embaixadores de Dados Abertos de Biodiversidade do GBIF, que também podem ser um bom recursos para oportunidades de formação e educação.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:112
 #, no-wrap
 msgid "Documentation is one of the most important principles of data cleaning.\n"
 "This is true in two key ways.\n"
-msgstr ""
+msgstr "A documentação é um dos princípios mais importantes para a limpeza de dados.\n"
+"Isto é verdade de duas maneiras principais.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:117
@@ -6224,7 +6312,10 @@ msgid "First, whatever processes you use to maintain your data, it is important 
 "This transparency can be truly successful when the data cleaning process is well documented.\n"
 "Without clear and accessible documentation, you run the risk of losing best practices, building redundant processes and losing optimization.\n"
 "Good documentation will help you to avoid recurring errors.\n"
-msgstr ""
+msgstr "Primeiro, quais os processos que usa para manter os seus dados, é importante ser transparente sobre como os erros são descobertos e corrigidos.\n"
+"Essa transparência pode ser verdadeiramente bem-sucedida quando o processo de limpeza de dados estiver bem documentado.\n"
+"Sem documentação clara e acessível, corre o risco de perder as melhores práticas, construir processos redundantes e perder a otimização.\n"
+"Uma boa documentação ajudará a evitar erros recorrentes.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:122
@@ -6233,7 +6324,10 @@ msgid "Documentation is also key to good data quality.\n"
 "Good documentation, in metadata, for example, allows data users to determine the fitness for use of your data.\n"
 "Your documentation should not only include good metadata, it should also include the best practices, standardized vocabularies, and taxonomic and geographic authorities used.\n"
 "Documenting what data was cleaned by whom will help you to improve your optimization, reach performance measures, and ultimately, tell a more complete story of where your data came from and how it was improved over time.\n"
-msgstr ""
+msgstr "A documentação é também uma chave para uma boa qualidade de dados.\n"
+"Uma boa documentação, por exemplo, nos metadados, permite que os utilizadores de dados determinem o ajuste para o uso dos seus dados.\n"
+"A sua documentação não só deve incluir bons metadados, como também as melhores práticas, vocabulários padronizados e autoridades taxonómicas e geográficas usadas.\n"
+"Documentar quais os dados que foram limpos ajudará a melhorar a sua otimização, alcançar medidas de desempenho, e, em última análise, mostrar uma história mais completa sobre de onde vieram os seus dados e como foram melhorados ao longo do tempo.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:129 scripts/data-quality.en.txt:227
@@ -6241,45 +6335,48 @@ msgstr ""
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "Este vídeo faz parte de uma série de apresentações usadas no curso de Mobilização de Dados de Biodiversidade do GBIF.\n"
+"O currículo de mobilização de dados de biodiversidade foi desenvolvido originalmente como parte do Programa de Informação de Biodiversidade para o Desenvolvimento financiado pela União Europeia.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:131
 #, no-wrap
 msgid "This presentation was originally created by Nestor Beltran with additional contributions by David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Nestor Beltran com contribuições adicionais de David Bloom, BID e Formadores BIFA, Mentors e Estudantes.\n"
+"Esta apresentação foi narrada por David Bloom.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:2
 #, no-wrap
 msgid "// SLIDE 1\n"
-msgstr ""
+msgstr "// SLIDE 1\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:4
 #, no-wrap
 msgid "In this presentation, we are going to introduce some of the concepts that are important to understand basic data quality.\n"
-msgstr ""
+msgstr "Nesta apresentação, vamos introduzir alguns dos conceitos que são importantes para entender a qualidade básica dos dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:6
 #, no-wrap
 msgid "// SLIDE 2\n"
-msgstr ""
+msgstr "// SLIDE 2\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:9
 #, no-wrap
 msgid "The two primary concepts that we will explore are Fitness for Use and Measures of Quality.\n"
 "These two ideas will lay the foundation for more detailed data quality concepts and techniques in the future.\n"
-msgstr ""
+msgstr "Os dois conceitos primários que exploraremos são Ajuste para Uso e Medidas de Qualidade.\n"
+"Essas duas ideias definem as bases para conceitos e técnicas de qualidade de dados mais detalhados no futuro.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:11
 #, no-wrap
 msgid "// SLIDE 3\n"
-msgstr ""
+msgstr "// SLIDE 3\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:16
@@ -6288,19 +6385,22 @@ msgid "Before we begin, I’d like to take a moment to explain why data quality 
 "Cleanliness is next to Godliness is an expression that we sometimes use to describe the importance of data quality.\n"
 "In this case, Godliness can be understood as holiness, and when something is holy it is considered by many to be worthy of our trust.\n"
 "So, in the case of data quality, we are more likely to trust and to use data that has been cleaned and cared for.\n"
-msgstr ""
+msgstr "Antes de começarmos, eu gostaria de explicar por que a qualidade de dados é importante.\n"
+"A limpeza está ao lado da Deusa é uma expressão que às vezes usamos para descrever a importância da qualidade dos dados.\n"
+"Neste caso, a Divindade pode ser entendida como santidade, e quando algo é sagrado, é considerado por muitos como merecedor da nossa confiança.\n"
+"Portanto, no caso da qualidade dos dados, temos mais probabilidade de confiar e usar dados que tenham sido limpos e cuidados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:18
 #, no-wrap
 msgid "// SLIDE 4\n"
-msgstr ""
+msgstr "// SLIDE 4\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:20
 #, no-wrap
 msgid "Stepping back into the domain of biodiversity informatics, the classic definition of data quality was coined in 2005 by Arthur Chapman.\n"
-msgstr ""
+msgstr "Voltando ao domínio da informação sobre biodiversidade, a definição clássica de qualidade de dados foi cunhada em 2005 por Arthur Chapman.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:24
@@ -6308,76 +6408,81 @@ msgstr ""
 msgid "He wrote: “Data quality is related to use and cannot be assessed independently of the user.\n"
 "In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized when someone uses the data to do something useful.\n"
 "Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).”\n"
-msgstr ""
+msgstr "Escreveu: “A qualidade dos dados está relacionada com o seu uso e não pode ser avaliada independentemente do utilizador.\n"
+"Numa base de dados, os dados não têm verdadeira qualidade ou valor (Dalcin 2004); só têm valor potencial que é realizado quando alguém usa os dados para fazer algo útil.\n"
+"A qualidade da informação está relacionada à sua capacidade de satisfazer seus clientes e atender às necessidades dos clientes (English 1999)\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:27
 #, no-wrap
 msgid "And so, for us, as individuals who are responsible for maintaining data, we want the data we publish to be as satisfying to all of our potential users as possible.\n"
 "To do this, we seek to provide the highest quality data.\n"
-msgstr ""
+msgstr "E assim, para nós, como indivíduos que são responsáveis pela manutenção dos dados, queremos que os dados que publicamos sejam o mais satisfatórios possível para todos os nossos potenciais utilizadores.\n"
+"Para fazer isso, procuraremos fornecer os dados de mais alta qualidade.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:29
 #, no-wrap
 msgid "// SLIDE 5\n"
-msgstr ""
+msgstr "// SLIDE 5\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:32
 #, no-wrap
 msgid "To help you to accomplish this task, we will explore Fitness for Use.\n"
 "We will also explore the Measures of Quality, specifically, Correctness and Consistency.\n"
-msgstr ""
+msgstr "Para ajudá-lo a cumprir esta tarefa, exploraremos o Ajuste para o Uso.\n"
+"Também exploraremos as Medidas de Qualidade, especificamente, Correção e Consistência.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:34
 #, no-wrap
 msgid "These are important concepts that you will need to know and be able to articulate about your own data or data that you maintain.\n"
-msgstr ""
+msgstr "Estes são conceitos importantes que precisará saber e ser capaz de articular sobre os seus próprios dados ou dados que mantenha.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:36
 #, no-wrap
 msgid "// SLIDE 6\n"
-msgstr ""
+msgstr "// SLIDE 6\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:39
 #, no-wrap
 msgid "Let’s begin with an example of Fitness for Use.\n"
 "A shoemaker creates a pair of clogs for the purpose of covering a person’s feet, just like those at the top of this image.\n"
-msgstr ""
+msgstr "Vamos começar com um exemplo de Ajuste para o Uso.\n"
+"Um sapateiro cria um par de tamancos com a finalidade de cobrir os pés de uma pessoa, como os que estão no topo desta imagem.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:41
 #, no-wrap
 msgid "// SLIDE 7\n"
-msgstr ""
+msgstr "// SLIDE 7\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:43
 #, no-wrap
 msgid "When the shoemaker made these shoes, did he know that this girl would use them for dancing?\n"
-msgstr ""
+msgstr "Quando o sapateiro fez estes sapatos, ele sabia que essa menina os usaria para dançar?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:45
 #, no-wrap
 msgid "Maybe.\n"
-msgstr ""
+msgstr "Talvez.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:47
 #, no-wrap
 msgid "// SLIDE 8\n"
-msgstr ""
+msgstr "// SLIDE 8\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:49
 #, no-wrap
 msgid "Do you think that the same shoemaker knew that a gardener might one day use the shoes as plant pots?\n"
-msgstr ""
+msgstr "Você acha que o mesmo sapateiro sabia que um jardineiro pode um dia usar os sapatos como vasos para plantas?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:53
@@ -6385,46 +6490,50 @@ msgstr ""
 msgid "Maybe not.\n"
 " \n"
 "// SLIDE 9\n"
-msgstr ""
+msgstr "Talvez não.\n\n"
+"// SLIDE 9\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:56
 #, no-wrap
 msgid "We often hear people talk about data’s Fitness for Use in the ecological sciences, but what we need to remember is that data is not inherently good or bad.\n"
 "Rather it is the user of the data who gives data its value.\n"
-msgstr ""
+msgstr "Muitas vezes ouvimos as pessoas falar sobre o Ajuste para o Uso dos dados para serem usados nas ciências ecológicas, mas o que temos de recordar é que os dados não são inerentemente bons nem maus.\n"
+"Em vez disso, é o utilizador dos dados que fornece o seu valor.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:59
 #, no-wrap
 msgid "For example, for one person, data identified to the level of Genus may be sufficient to run predictive models of ecological niches.\n"
 "For a person studying a particular taxon, that same genus-level data will be much less useful than more detailed occurrences with subspecies information.\n"
-msgstr ""
+msgstr "Por exemplo, para uma pessoa, os dados identificados ao nível do género podem ser suficientes para correr modelos preditivos de nichos ecológicos.\n"
+"Para uma pessoa que estuda um determinado taxon, esses mesmos dados ao nível do género serão muito menos úteis do que ocorrências mais detalhadas com informações de subespécies.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:61
 #, no-wrap
 msgid "// SLIDE 10\n"
-msgstr ""
+msgstr "// SLIDE 10\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:63
 #, no-wrap
 msgid "So, what is Fitness for Use and how does it relate to data?\n"
-msgstr ""
+msgstr "Então, o que é o Ajuste para o Uso e como ele se relaciona com dados?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:65
 #, no-wrap
 msgid "When Chapman discusses Fitness for Use, he says that once a dataset has been created and shared there are two primary perspectives on how those data might be used; the perspective of the creator and the perspective of the user.\n"
-msgstr ""
+msgstr "Quando o Chapman discute o Ajuste para o Uso, afirma que, uma vez um conjunto de dados criado e partilhado, há duas perspectivas primárias sobre a forma como esses dados podem ser utilizados; a perspectiva do criador e a perspectiva do utilizador.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:68
 #, no-wrap
 msgid "To help somebody to decide if your data is trustworthy or useful enough for them to use, you have to understand your data and how to convey those data to the potential user.\n"
 "These are some of the important questions about the metadata, or characteristics of your data, that you should be able to answer and share with others:\n"
-msgstr ""
+msgstr "Ajudar alguém a decidir se os seus dados são confiáveis ou úteis o suficiente para eles usarem, precisa compreender os seus dados e como transmitir esses dados ao potencial utilizador.\n"
+"Estas são algumas das questões importantes sobre os metadados, ou características dos seus dados, que deve ser capaz de responder e partilhar com outros:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:72
@@ -6432,7 +6541,9 @@ msgstr ""
 msgid "How Accessible are your data? \n"
 "How easily can someone access your data? \n"
 "People can’t use the data if they can’t find the data.\n"
-msgstr ""
+msgstr "Qual o nível de acesso dos seus dados? \n"
+"Com que facilidade alguém pode aceder aos seus dados? \n"
+"As pessoas não podem usar os dados se não os conseguirem encontrar.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:76
@@ -6440,7 +6551,9 @@ msgstr ""
 msgid "How Accurate are your data? \n"
 "Can your data be trusted? \n"
 "For example, are your identifications current and were they made by known experts?\n"
-msgstr ""
+msgstr "Quão exatos são os seus dados? \n"
+"Podem os seus dados ser confiáveis? \n"
+"Por exemplo, as suas identificações são atuais e foram feitas por especialistas conhecidos?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:80
@@ -6448,7 +6561,9 @@ msgstr ""
 msgid "How Timely are they? \n"
 "When will the data be made available? \n"
 "How often are they updated? \n"
-msgstr ""
+msgstr "Quão atuais são eles? \n"
+"Quando serão os dados disponibilizados? \n"
+"Com que frequência são atualizados? \n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:84
@@ -6456,7 +6571,9 @@ msgstr ""
 msgid "How Complete or Comprehensive are the data? \n"
 "Which parts of your dataset are documented fully? \n"
 "How well do the data cover a particular time, place, or domain?\n"
-msgstr ""
+msgstr "Quão completos ou abrangentes são os dados? \n"
+"Que partes do seu conjunto de dados estão documentadas? \n"
+"Quão bem cobrem os dados um determinado período, lugar ou domínio?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:88
@@ -6464,14 +6581,17 @@ msgstr ""
 msgid "How Consistent are they? \n"
 "Is the data in each field always of the same type? \n"
 "Was the data collected using the same documented protocols?\n"
-msgstr ""
+msgstr "Qual a consistência deles? \n"
+"Os dados em cada campo são sempre do mesmo tipo? \n"
+"Foram os dados colhidos usando os mesmos protocolos documentados?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:91
 #, no-wrap
 msgid "How Relevant are they? \n"
 "How similar is this dataset to others that have been used successfully for the same purpose?\n"
-msgstr ""
+msgstr "Quanto relevantes são eles? \n"
+"Quão similar é este conjunto de dados a outros que foram usados com éxito para a mesma finalidade?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:95
@@ -6479,7 +6599,9 @@ msgstr ""
 msgid "How Detailed are the data? \n"
 "How much resolution is there in your data? \n"
 "At what scale can they be used for mapping?\n"
-msgstr ""
+msgstr "Qual é o detalhe dos dados? \n"
+"Que resolução existe nos seus dados? \n"
+"Em que escala podem ser usados para mapeamento?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:99
@@ -6487,138 +6609,145 @@ msgstr ""
 msgid "Is the data Easy to interpret? \n"
 "Is the dataset documented in a clear and concise way? \n"
 "If your documents are handwritten, are they legible?\n"
-msgstr ""
+msgstr "Os dados são fáceis de interpretar? \n"
+"O conjunto de dados é documentado de uma forma clara e concisa? \n"
+"Se os seus documentos são escritos à mão, eles são legíveis?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:101
 #, no-wrap
 msgid "// SLIDE 11\n"
-msgstr ""
+msgstr "// SLIDE 11\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:103
 #, no-wrap
 msgid "While Fitness for Use is subjective, measures of data quality are much less so.\n"
-msgstr ""
+msgstr "Apesar o Ajuste para o Uso seja subjetivo, as medidas de qualidade de dados são muito menos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:106
 #, no-wrap
 msgid "Chapman states that: \"All data include error – there is no escaping it! \n"
 "It is knowing what the error is that is important, and knowing if the error is within acceptable limits for the purpose to which the data are to be put.”\n"
-msgstr ""
+msgstr "Chapman afirma que: \"Todos os dados incluem erro - não há como escapar! \n"
+"Saber o que é o erro é importante assim como o é saber se o erro se encontra dentro de limites aceitáveis para a finalidade que os dados serão aplicados.\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:108
 #, no-wrap
 msgid "// SLIDE 12\n"
-msgstr ""
+msgstr "// SLIDE 12\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:110
 #, no-wrap
 msgid "We can use two measures of quality, Correctness and Consistency, to help us to document these inherent errors in data.\n"
-msgstr ""
+msgstr "Podemos usar duas medidas de qualidade, correcção e consistência, para nos ajudar a documentar esses erros inerentes aos dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:112
 #, no-wrap
 msgid "Correctness, sometimes called accuracy, is “How close the recorded value is to the actual, real-world value”.\n"
-msgstr ""
+msgstr "A correção, às vezes chamada exactidão, é \"Quão próximo está o valor registado do valor real, do mundo real\".\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:114
 #, no-wrap
 msgid "In this diagram accuracy is how close a given dot is to the centre of the target.\n"
-msgstr ""
+msgstr "Neste diagrama, a exactidão é quão próximo um determinado ponto está do centro do alvo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:116
 #, no-wrap
 msgid "Consistency, sometimes called precision, is “How often you get it right”\n"
-msgstr ""
+msgstr "Consistência, às vezes chamado de precisão, é \"Quantas vezes consegue acertar\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:118
 #, no-wrap
 msgid "In this diagram, precision is how close the dots are together irrespective of how close they are to the centre of the target.\n"
-msgstr ""
+msgstr "Neste diagrama, a precisão é quão próximos estão os pontos entre si, independentemente de quão perto estão eles do centro do alvo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:121
 #, no-wrap
 msgid "These are measures of how well the data gatherer was able to capture the true value being investigated.\n"
 "Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.\n"
-msgstr ""
+msgstr "Essas são medidas de quão bem o coletor dos dados conseguiu capturar o verdadeiro valor que estava sendo investigado.\n"
+"Conhecer essas propriedades dos seus dados irá ajudá-lo a entender as maneiras pelas quais você pode ou não pode limpar, validar e processar os dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
 #, no-wrap
 msgid "// SLIDE 13\n"
-msgstr ""
+msgstr "// SLIDE 13\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:126
 #, no-wrap
 msgid "This image provides a clear set of illustrations of accuracy and precision.\n"
 "This may be a good image to keep with you when you have to explain these concepts to others.\n"
-msgstr ""
+msgstr "Esta imagem fornece um conjunto claro de ilustrações de exactidão e precisão.\n"
+"Esta pode ser uma boa imagem para guardar quando precisa explicar esses conceitos a outros.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:128
 #, no-wrap
 msgid "// SLIDE 14\n"
-msgstr ""
+msgstr "// SLIDE 14\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:131
 #, no-wrap
 msgid "Let’s look at some examples of Correctness, or accuracy, and how it can help us think about the practicalities of data cleaning.\n"
 "Remember that Correctness is how close you are to the center of a target.\n"
-msgstr ""
+msgstr "Vamos ver alguns exemplos de correção ou exactidão, e como isso nos pode ajudar a pensar sobre as práticas de limpeza de dados.\n"
+"Lembre-se de que correção é quão próximo está do centro de um alvo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:133
 #, no-wrap
 msgid "Let’s look at an example.\n"
-msgstr ""
+msgstr "Vamos ver um exemplo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:135
 #, no-wrap
 msgid "// SLIDE 15\n"
-msgstr ""
+msgstr "// SLIDE 15\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:138
 #, no-wrap
 msgid "For this example, let’s imagine your dataset contains records of fossil bird specimens from the Early Triassic Period.\n"
 "The taxonomic name for a number of specimens in your dataset is recorded as Thismia.\n"
-msgstr ""
+msgstr "Para este exemplo, vamos imaginar que o seu conjunto de dados contém registos de espécies de pássaros fósseis do início do período Triássico.\n"
+"O nome taxonómico de um número de espécimes do seu conjunto de dados está registado como Thismia.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:140
 #, no-wrap
 msgid "Do you know if Thismia is a taxon of ancient birds?\n"
-msgstr ""
+msgstr "Sabe se Thismia é um taxon de aves antigas?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:143
 #, no-wrap
 msgid "// SLIDE 16\n"
-msgstr ""
+msgstr "// SLIDE 16\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:145
 #, no-wrap
 msgid "In this case, the answer is no! \n"
-msgstr ""
+msgstr "Neste caso, a resposta é não! \n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:147
 #, no-wrap
 msgid "Thismia is a very rare plant from the State of Illinois in the United States.\n"
-msgstr ""
+msgstr "Thismia é uma planta muito rara do Estado do Illinois nos Estados Unidos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:151
@@ -6626,56 +6755,59 @@ msgstr ""
 msgid "As a result, the correctness, or accuracy, of the taxonomic name is low.\n"
 "Perhaps because the data entry technician was not a paleontologist.\n"
 "As a result, all of the names in the dataset might need to be checked and corrected by an expert before the data could be used.\n"
-msgstr ""
+msgstr "Como resultado, a correcção ou a exatidão do nome taxonómico é baixa.\n"
+"Talvez o técnico de inserção de dados não fosse paleontologista.\n"
+"Como resultado, todos os nomes no conjunto de dados podem precisar de ser verificados e corrigidos por um especialista antes que os dados possam ser usados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:153
 #, no-wrap
 msgid "// SLIDE 17\n"
-msgstr ""
+msgstr "// SLIDE 17\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:156
 #, no-wrap
 msgid "Let’s look at another example.\n"
 "Here, your dataset contains specimens collected in a place called Kalamazoo by a scientist named Richard Spruce.\n"
-msgstr ""
+msgstr "Vamos ver outro exemplo.\n"
+"Aqui, o seu conjunto de dados contém espécimes colhidos num lugar chamado Kalamazoo por um cientista chamado Richard Spruce.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:158
 #, no-wrap
 msgid "We must ask ourselves:\n"
-msgstr ""
+msgstr "Devemos perguntar-nos:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:160
 #, no-wrap
 msgid "Is 49007 the right postal code for Kalamazoo?\n"
-msgstr ""
+msgstr "49007 é o código postal certo para Kalamazoo?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:162
 #, no-wrap
 msgid "Did Richard Spruce collect in Michigan?\n"
-msgstr ""
+msgstr "Richard Spruce colheu no Michigan?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:164
 #, no-wrap
 msgid "// SLIDE 18\n"
-msgstr ""
+msgstr "// SLIDE 18\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:166
 #, no-wrap
 msgid "In this case, the answer is yes to our first question, 49007 is a postal code for Kalamazoo, so the accuracy of the locality is good, but what about the collector, Richard Spruce?\n"
-msgstr ""
+msgstr "Neste caso, a resposta é sim à nossa primeira pergunta, 49007 é um código postal para Kalamazoo, então a exactidão da localidade é boa. Mas, e sobre o colecionador Richard Spruce?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:168
 #, no-wrap
 msgid "// SLIDE 19\n"
-msgstr ""
+msgstr "// SLIDE 19\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:172
@@ -6683,25 +6815,27 @@ msgstr ""
 msgid "There is, in fact, a famous botanist named Richard Spruce.\n"
 "He was born in 1817 and died in 1893, but he conducted his collecting in the Amazon Basin and Andes mountains in South America.\n"
 "Something is not quite right, so we need to find out more about the collector before we can be confident in the correctness of these data.\n"
-msgstr ""
+msgstr "Na verdade, há um botânico famoso chamado Richard Spruce.\n"
+"Ele nasceu em 1817 e morreu em 1893, mas realizou a sua colheita na bacia do Amazonas e nas montanhas do Andes na América do Sul.\n"
+"Algo não está certo, por isso, precisamos saber mais sobre o coletor antes de podermos ter confiança na correcção destes dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:174
 #, no-wrap
 msgid "// SLIDE 20\n"
-msgstr ""
+msgstr "// SLIDE 20\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:176
 #, no-wrap
 msgid "Let’s take a look now at what Consistency, or precision, means to data.\n"
-msgstr ""
+msgstr "Vamos dar uma olhada agora no que Consistência, ou precisão, significa para os dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:178
 #, no-wrap
 msgid "Consistency represents how many times you get the same answer, regardless of where the center of the target lies.\n"
-msgstr ""
+msgstr "A consistência representa quantas vezes obtém a mesma resposta, independente de onde está o centro do alvo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:182
@@ -6709,38 +6843,41 @@ msgstr ""
 msgid "For example, your dataset contains botanical occurrences including a field, or column, named “Full Name”.\n"
 "This field contains the name of the specimen collector.\n"
 "As you can see there are five different names, but how many unique collectors are there? Can you tell just by looking at the names?\n"
-msgstr ""
+msgstr "Por exemplo, o seu conjunto de dados contém ocorrências botânicas, incluindo um campo, ou coluna, chamado \"Nome Completo\".\n"
+"Este campo contém o nome do coletor do espécime.\n"
+"Como pode ver, existem cinco nomes diferentes, mas quantos coletores únicos há? Consegue dizer olhando só para os nomes?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:184
 #, no-wrap
 msgid "// SLIDE 21\n"
-msgstr ""
+msgstr "// SLIDE 21\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:186
 #, no-wrap
 msgid "Sometimes, if you are familiar with the dataset, you might know how many collectors are represented just by looking at the data, but if you don’t know these data well, you might need to do some research, ask some questions or look at the original field notes.\n"
-msgstr ""
+msgstr "Às vezes, se estiver familiarizado com o conjunto de dados, pode saber quantos coletores são representados apenas olhando para os dados, mas se não conhecer bem esses dados, pode precisar fazer pesquisas, fazer algumas perguntas ou consultar as notas de campo original.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:188
 #, no-wrap
 msgid "In this example, if you guessed that these five names represent two or three unique collectors, you would be right.\n"
-msgstr ""
+msgstr "Neste exemplo, se adivinhasse que esses cinco nomes representam dois ou três colectores únicos, estaria certo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:191
 #, no-wrap
 msgid "In blue, Joseph Dalton Hooker AND Hook.f.\n"
 "are the same person.\n"
-msgstr ""
+msgstr "A azul, Joseph Dalton Hooker E Hook.f.\n"
+"são a mesma pessoa.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:193
 #, no-wrap
 msgid "Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).\n"
-msgstr ""
+msgstr "O ponto é a abreviatura usada para Joseph Dalton Hooker (1817-1911).\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:197
@@ -6748,7 +6885,9 @@ msgstr ""
 msgid "In green, W.J. Hooker and Hook. are the same person.\n"
 "Period is the abbreviation for William Jackson Hooker (1785-1865).\n"
 "William was actually Joseph’s father.\n"
-msgstr ""
+msgstr "A verde, W.J. Hooker e Hook. são a mesma pessoa.\n"
+"O ponto é a abreviatura de William Jackson Hooker (1785-1865).\n"
+"William era na verdade o pai de Joseph.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:201
@@ -6756,98 +6895,107 @@ msgstr ""
 msgid "Finally, in the red, there is “Hooker, J.” \n"
 "This entry could be an error or typo of either Joseph or William Hooker, OR it could be a third person with a similar name.\n"
 "Thus, more research would be needed to clarify these data.\n"
-msgstr ""
+msgstr "Por último, a vermelho, há “Hooker, J. \n"
+"Esta entrada pode ser um erro de digitação ou tanto Joseph ou William Hooker, OU poderia ser uma terceira pessoa com um nome semelhante.\n"
+"Assim, seria necessária mais pesquisa para esclarecer esses dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:203
 #, no-wrap
 msgid "// SLIDE 22\n"
-msgstr ""
+msgstr "// SLIDE 22\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:206
 #, no-wrap
 msgid "We have just discussed several simple illustrations of two measures of data quality.\n"
 "These examples should give you a basic understanding about how to identify the inaccuracies and imprecisions in data.\n"
-msgstr ""
+msgstr "Acabámos de discutir vários exemplos simples de duas medidas de qualidade de dados.\n"
+"Esses exemplos devem dar-lhe um entendimento básico sobre como identificar inexactidões e imprecisões nos dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:208
 #, no-wrap
 msgid "How we document and fix these issues or errors is a process that we call data cleaning.\n"
-msgstr ""
+msgstr "Como documentamos e corrigimos esses problemas ou erros é um processo que chamamos de limpeza de dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:210
 #, no-wrap
 msgid "More specifically:\n"
-msgstr ""
+msgstr "Mais especificamente:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:213
 #, no-wrap
 msgid "Data cleaning is the process of correcting or removing dirty data caused by contradictions, disparities, keying mistakes, missing bits, and more.\n"
 "It also includes validation of the changes made, and may require normalization.\n"
-msgstr ""
+msgstr "A limpeza de dados é o processo de correcção ou remoção de dados errados causados por contradições, disparidades, erros de chave, partes perdidas e mais.\n"
+"Também inclui a validação das alterações feitas, e pode exigir normalização.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:215
 #, no-wrap
 msgid "Our data cleaning, or lack thereof, will affect how data users perceive your data’s fitness for use.\n"
-msgstr ""
+msgstr "A nossa limpeza de dados, ou falta dela, afetará a forma como os utilizadores percebem o ajuste para o uso dos seus dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:217
 #, no-wrap
 msgid "It is not necessary for you to do all the data cleaning yourself, in fact, a common misconception is that all errors MUST be fixed before you can share your data.\n"
-msgstr ""
+msgstr "Não é necessário que façavocê mesmo toda a limpeza, de fato, um erro comum é que todos os erros DEVEM ser corrigidos antes que você possa partilhar os seus dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:220
 #, no-wrap
 msgid "The truth is that you can only clean as much data as your time, knowledge, and resources permit.\n"
 "As a result, it is essential to document what you know and what you do not know about your data so that when you do share them, data users will know the level of the quality of your data.\n"
-msgstr ""
+msgstr "A verdade é que só é possível limpar a quantidade de dados que o seu tempo, conhecimento e recursos permitem.\n"
+"Como resultado, é essencial documentar o que você sabe e o que você não sabe sobre seus dados, para que quando os partilhe, os utilizadores saibam o nível de qualidade dos seus dados.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:222
 #, no-wrap
 msgid "// SLIDE 23\n"
-msgstr ""
+msgstr "// SLIDE 23\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:229
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant with additional contributions by Dag Endresen, David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Sharon Grant com contribuições adicionais por Dag Endresen, David Bloom, Formadores BID e BIFA, Mentores e Estudantes.\n"
+"Esta apresentação foi narrada por David Bloom.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:5
 #, no-wrap
 msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
 "These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
-msgstr ""
+msgstr "Nesta apresentação, vamos dar uma olhada nos diferentes tipos de dados que podem ser chamados de \"dados primários de biodiversidade\" e partilhados através do GBIF.\n"
+"Estes dados podem ser complexos e ter origens diferentes; veremos como eles podem ser estruturados numa das três classes de dados aceites pelo GBIF, baseado no padrão de partilha de dados Darwin Core que é usado na comunidade GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:10
 #, no-wrap
 msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
 "I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
-msgstr ""
+msgstr "Como pode ver neste slide, o GBIF atualmente suporta quatro tipos de conjunto de dados: conjuntos de dados de Recursos (e.g. conjuntos de dados somente de metadados), checklists de espécies, conjuntos de dados de ocorrências e conjuntos de dados de eventos de amostragem.\n"
+"Não discutirei os conjuntos de dados de Recursos nesta apresentação, pois os conjuntos de dados de metadados não são suportados pelos programas financiados pelo GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:15
 #, no-wrap
 msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
 "In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
-msgstr ""
+msgstr "O primeiro tipo de conjunto de dados que pode ser publicado através do GBIF é a checklist, também conhecida como lista de espécies ou taxa superiores.\n"
+"Numa checklist, a unidade principal é o taxon, e não a ocorrência (individuo).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:19
 #, no-wrap
 msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
-msgstr ""
+msgstr "Checklists, e de forma mais geral, conjuntos de dados taxonómicos podem variar no âmbito: \n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:21
@@ -6906,28 +7054,31 @@ msgstr "Coleções e espécimes diferem muito em números, tamanhos e métodos d
 #: scripts/data-types.en.txt:45
 #, no-wrap
 msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
-msgstr ""
+msgstr "Os dados da biodiversidade também podem ser encontrados em literatura técnica e científica: é possível compilar e partilhar este tipo de dados através do GBIF, mas deve ser cauteloso para não partilhar dados duplicados (por exemplo, um espécime descrito num artigo científico pode já estar presente no GBIF, no conjunto de dados de sua coleção)\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:50
 #, no-wrap
 msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
 "ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
-msgstr ""
+msgstr "Na ausência de conjuntos de dados digitalizados, os dados da biodiversidade podem ser extraídos e compilados a partir de artigos científicos, teses de mestrado ou doutoramento, relatórios e outros documentos.\n"
+"Primeiro, contactar SEMPRE o proprietário dos dados ao compilar dados literários para pedir permissão para publicá-los através do GBIF!\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:55
 #, no-wrap
 msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
 "These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
-msgstr ""
+msgstr "Uma grande maioria dos dados disponíveis através do GBIF.org agora vêm de registos de trabalho de campo.\n"
+"Esses dados podem ser observados e/ou colhidos usando diferentes protocolos no campo, por cientistas, naturalistas ou cientistas cidadãos amadores através de programas e aplicações.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:60
 #, no-wrap
 msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
 "They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
-msgstr ""
+msgstr "Esses dados de campo podem ser compilados em relatórios de inventários, estudos de avaliação de impacto ambiental, notas de campo e outros registos.\n"
+"Eles podem estar associados a outros tipos de dados, tais como checklists, que são complementares à ocorrência de dados observados ou colhidos na natureza.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:67
@@ -6936,21 +7087,26 @@ msgid "Occurrence data represents the GBIF class of datasets with the largest nu
 "Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
 "In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
 "Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
-msgstr ""
+msgstr "Os dados de ocorrência representam a classe de conjuntos de dados no GBIF com o maior número de registos no GBIF.org.\n"
+"Os dados da coleção (i.e. espécimes), literatura e de campo podem ser partilhados através do GBIF usando este modelo, que se centra nos espécimes observados ou colhidos.\n"
+"Neste tipo de conjunto de dados, vários indivíduos ou espécimes podem ser registados para um único taxon, desde que cada um tenha um identificador único.\n"
+"Outros campos para dados de ocorrência incluem onde, quando, como e por quem foi observado e/ou colhida no campo.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:72
 #, no-wrap
 msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
 "They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
-msgstr ""
+msgstr "Dados do evento são uma classe de conjuntos de dados que foi adicionada ao GBIF.org em 2015.\n"
+"Permitem que os editores de dados partilhem mais informações sobre o contexto da observação ou colheita dos espécimes e para agrupar ocorrências associados ao mesmo evento.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:77
 #, no-wrap
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
-msgstr ""
+msgstr "O modelo GBIF para dados de Eventos permite que os publicadores de dados partilhem mais informações sobre o contexto de um evento de colheita/registo de dados da biodiversidade, como armadilhas de câmara, armadilhas de insetos, relevés botânicos, sítios observação de aves e assim por diante.\n"
+"A sua estrutura é um pouco mais complexa que os conjuntos de dados taxonómicos e conjuntos de dados de ocorrência, já que envolve dois ficheiros (por exemplo, duas folhas em uma folha de cálculo): uma para descrever os 'eventos' (por exemplo, cada armadilha) e o outro para descrever os espécimes ou ocorrências ligadas a cada evento.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -6964,20 +7120,21 @@ msgstr "// Slide 15\n"
 #: scripts/data-types.en.txt:81
 #, no-wrap
 msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
-msgstr ""
+msgstr "Às vezes, podem ser encontradas informações ou dados adicionais usando outros materiais de origem do que os mencionados anteriormente neste vídeo.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:86
 #, no-wrap
 msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
 "Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
-msgstr ""
+msgstr "Estas outras fontes incluem ferramentas de detecção remotas, mapas e dados de satélite, e outras informações de suporte como fotos, gravações de áudio e vídeo da vida selvagem.\n"
+"Na maioria das vezes, as informações obtidas desta forma são suplementares aos dados existentes, mas podem fornecer informações valiosas sobre indivíduos e sua localização, o habitat, rotas migratórias, etc.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:90
 #, no-wrap
 msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
-msgstr ""
+msgstr "Nos seguintes slides, veremos como o padrão Darwin Core funciona com diferentes tipos de dados, e como escolher a classe do conjunto de dados que melhor se ajusta a um determinado conjunto de dados.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:96
@@ -6985,7 +7142,9 @@ msgstr ""
 msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
 "Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
 "In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
-msgstr ""
+msgstr "Conforme aprendeu na apresentação Fundamentos - Darwin Core, o Darwin Core é um padrão de partilha de dados desenvolvido pela organização Biodiversity Information Standards (TDWG), e é amplamente utilizado para publicar dados no ambito de uma comunidade alargada do GBIF.\n"
+"Dependendo do tipo de conjunto de dados com o qual trabalha, terá que escolher um dos seus três núcleos (Núcleo de Ocorrência, Taxon ou Evento), que podem ser ligadas a uma ou mais extensões para partilhar mais informações (como links multimédia, variáveis, histórico de identificação e assim por diante).\n"
+"Nalguns casos, um núcleo pode ser usado como uma extensão vinculada a outro núcleo: esse é o caso ao publicar dados do Evento, onde se pode usar o Núcleo de Evento para descrever as áreas amostradas e, em seguida, usar o Núcleo Ocorrência como uma extensão para partilhar os espécimes ou indivíduos registados.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:98 scripts/definitions.en.txt:189
@@ -6993,7 +7152,7 @@ msgstr ""
 #: scripts/structures.en.txt:116
 #, no-wrap
 msgid "// Slide 19\n"
-msgstr ""
+msgstr "// Slide 19\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:102
@@ -8737,7 +8896,8 @@ msgstr ""
 #, no-wrap
 msgid "The definition on the previous Slide should probably be updated to include some words about waivers and licenses.\n"
 "The act of not only making the data accessible, but making it as open as possible.\n"
-msgstr ""
+msgstr "A definição sobre o Slide anterior deve ser atualizada para incluir algumas palavras sobre dispensa e licenças.\n"
+"O ato de não apenas tornar os dados acessíveis, mas também torná-los o mais abertos possível.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:33
@@ -8751,7 +8911,9 @@ msgstr ""
 msgid "CC0, a waiver for data made available for any use without any restrictions\n"
 "CC BY, a license for data made available for any use with appropriate attribution\n"
 "CC BY-NC, a license for data made available for any non-commercial use with appropriate attribution.\n"
-msgstr ""
+msgstr "CC0, uma dispensa para tornar os dados dados disponíveis para qualquer uso sem quaisquer restrições\n"
+"CC BY, uma licença para tornar os dados disponíveis para qualquer uso e com atribuição apropriada\n"
+"CC BY-NC, uma licença para tornar os dados disponíveis para qualquer uso não-comercial e com atribuição adequada.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:39
@@ -10016,43 +10178,43 @@ msgstr ""
 #: scripts/standards.en.txt:164
 #, no-wrap
 msgid "Geological Context\n"
-msgstr ""
+msgstr "Contexto geológico\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:166
 #, no-wrap
 msgid "Identification\n"
-msgstr ""
+msgstr "Identificação\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:168
 #, no-wrap
 msgid "Taxon\n"
-msgstr ""
+msgstr "Taxon\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:170
 #, no-wrap
 msgid "Additionally, there are two auxiliary classes called:\n"
-msgstr ""
+msgstr "Além disso, existem duas classes auxiliares chamadas:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:172
 #, no-wrap
 msgid "ResourceRelationship\n"
-msgstr ""
+msgstr "ResourceRelationship\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:174
 #, no-wrap
 msgid "MeasurementOrFact\n"
-msgstr ""
+msgstr "MesurementOrFact\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:176
 #, no-wrap
 msgid "From the Simple Darwin Core User Guide, “Simple Darwin Core is simple in that it assumes (and allows) no structure beyond the concept of rows and columns, which might be thought of as attributes and their values, or fields and records.”\n"
-msgstr ""
+msgstr "Conforme o Simple Darwin Core User Guide, “Simple Darwin Core é simples porque ele assume (e permite) que não existe mais nenhuma estrutura além do conceito de linhas e colunas, que pode ser visto como atributos e seus valores, ou campos e registoos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:182
@@ -10060,14 +10222,17 @@ msgstr ""
 msgid "The DwC Quick Reference Guide will soon become your go to resource. \n"
 "This page provides a list of all currently recommended terms of the Darwin Core standard. \n"
 "Categories such as Occurrence or Event correspond to Darwin Core classes which group other terms.\n"
-msgstr ""
+msgstr "O Guia de Referência Rápida do DwC em breve tornará-se-á o seu recurso para uso recorrente. \n"
+"Esta página fornece uma lista de todos os termos atualmente recomendados do padrão Darwin Core. \n"
+"As categorias como Ocorrência ou Evento correspondem a classes do Darwin Core que agrupam outros termos.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:185
 #, no-wrap
 msgid " \n"
 "// Slide 12\n"
-msgstr ""
+msgstr " \n"
+"// Slide 12\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:189
@@ -10075,7 +10240,9 @@ msgstr ""
 msgid "We now will look at some examples of Darwin Core terms. \n"
 "The quick reference guide, consistently displays each term with the identifier name, definition, comments and examples. \n"
 "The first terms we’ll review are Country and CountryCode within the Location category.\n"
-msgstr ""
+msgstr "Veremos agora alguns exemplos de termos Darwin Core. \n"
+"O guia de referência rápida, exibe consistentemente cada termo com o nome de identificação do termo, definição, comentários e exemplos. \n"
+"Os primeiros termos que vamos rever são Country e CountryCode, dentro da categoria Location.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:195
@@ -10085,27 +10252,33 @@ msgid "Generally, data holders have a field for country within their source data
 "However, it is one of the most easily standardized pieces of data. \n"
 "As noted in the comments, the recommended best practice is to use a controlled vocabulary such as the Getty Thesaurus of Geographic Names. \n"
 "A controlled vocabulary places restriction on the values that should be used for that term.\n"
-msgstr ""
+msgstr "Geralmente, os detentores dos dados têm um campo para o país dentro de seus dados de origem. \n"
+"Mas muitas vezes esses dados podem ser muito confusos com erros ortográficos, abreviaturas e nomes históricos. \n"
+"No entanto, este é uma das peças dos dados mais facilmente padronizadas. \n"
+"Como observado nos comentários, a melhor prática recomendada é usar um vocabulário controlado, como o Getty Thesaurus of Geographic Names. \n"
+"Um vocabulário controlado coloca restrições sobre os valores que devem ser usados para esse termo.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:198
 #, no-wrap
 msgid "CountryCode is a term that is generally not present in holder data. \n"
 "But again, it is another field that can easily be supplied with data due to the recommendation in the comments to use an ISO 3166-1-alpha-2 country code.\n"
-msgstr ""
+msgstr "CountryCode é um termo que geralmente não está presente nos dados originais. \n"
+"Mas, de novo, é outro campo que pode ser facilmente preenchido com dados conforme a recomendação nos comentários para usar um código de país ISO 3166-1-alpha-2.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:201
 #, no-wrap
 msgid "GBIF strongly recommends the sharing of CountryCode within occurrence datasets. \n"
 "Sharing of Country is also encouraged.\n"
-msgstr ""
+msgstr "O GBIF recomenda fortemente a partilha do CountryCode dentro de conjuntos de dados de ocorrência. \n"
+"Também é recomendado a partilha do País.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:203
 #, no-wrap
 msgid "You will learn more about the GBIF requirements and recommendations in later sessions.\n"
-msgstr ""
+msgstr "Vai aprender mais sobre os requisitos e recomendações do GBIF em sessões posteriores.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:211
@@ -10115,7 +10288,11 @@ msgid "The next term is basisOfRecord. \n"
 "BasisOfRecord follows a controlled vocabulary. \n"
 "You can choose from PreservedSpecimen, FossilSpecimen, LivingSpecimen, MaterialSample, Event, HumanObservation, MachineObservation, Taxon, or Occurrence. \n"
 "GBIF requires basisOfRecord with published occurrence datasets.\n"
-msgstr ""
+msgstr "O próximo termo é basisOfRecord. \n"
+"basisOfRecord define a natureza de cada registro num conjunto de dados. \n"
+"BasisOfRecord segue um vocabulário controlado. \n"
+"Pode escolher entre PreservedSpecimen, FossilSpecimen, MaterialSpecimen, MaterialSample, Event, HumanObservation, MachineObservation, Taxon ou Occurrence. \n"
+"O GBIF requer o preenchimento do basisOfRecord nos conjuntos de dados de ocorrência publicados.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:225
@@ -10131,14 +10308,25 @@ msgid "The last term we will review is occurrenceID. \n"
 "If you use this method, these GUIDs should become a permanent field within your source data identifying each record. \n"
 "For the work done in this course, you will create a triplet. \n"
 "The format will follow the third example here highlighted in red.\n"
-msgstr ""
+msgstr "O último termo que iremos rever é o occurrenceID. \n"
+"Quando publicar registos de ocorrência, o GBIF requer um occurrenceID. \n"
+"Um occurrenceID é um identificador para a própria ocorrência, e não para o registo digital da ocorrência. \n"
+"A melhor prática recomendada é usar um identificador único global também conhecido como GUID. \n"
+"Na ausência de um GUID, um identificador único pode ser composto por outros identificadores dentro do conjunto de dados. \n"
+"Por exemplo, institutionCode, collectionCode e número do catálogo. \n"
+"Chamamos isto de triplet. \n"
+"Existem ferramentas na internet que podem ajudá-lo a gerar GUIDs para seus registos. \n"
+"Se usar este método, esses GUIDs devem tornar-se um campo permanente dentro dos seus dados de origem identificando cada registo. \n"
+"Para o trabalho realizado neste curso irá criar um triplet. \n"
+"O formato seguirá o terceiro exemplo aqui destacado a vermelho.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:228
 #, no-wrap
 msgid " \n"
 "// Slide 15\n"
-msgstr ""
+msgstr " \n"
+"// Slide 15\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:234
@@ -10148,39 +10336,45 @@ msgid "In using Simple Darwin Core, you may discover that you have more data to 
 "Or even detailed historical information on the identification of a taxon. \n"
 "When this occurs, you will look to Darwin Core extensions so that you can extend the base data by providing additional files that correspond to the base data. \n"
 "Extensions that would meet your needs in these three examples are:\n"
-msgstr ""
+msgstr "Ao usar o Simple Darwin Core, pode descobrir que tem mais dados para partilhar, mas não pode não conseguir encontrar os termos correspondentes em DwC. \n"
+"Estes dados podem ser imagens ou arquivos de som ou talvez seja responsável por uma coleção de vértebras e tem dados extensos compilados sobre os pesos e o tamanho dos espécimes. \n"
+"Ou até informações históricas detalhadas sobre a identificação de um taxon. \n"
+"Quando isso ocorrer, irá procurar nas extensões Darwin Core para que possa estender os dados base fornecendo ficheiros adicionais que correspondem aos dados base. \n"
+"As extensões que correspondem às suas necessidades nestes três exemplos são:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:238
 #, no-wrap
 msgid "Measurements or Facts\n"
-msgstr ""
+msgstr "Measurements or Facts\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:240
 #, no-wrap
 msgid "Identification History\n"
-msgstr ""
+msgstr "Identification History\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:243
 #, no-wrap
 msgid "There are many more extensions. \n"
 "GBIF maintains a list of all approved and draft extensions on its tools subsite.\n"
-msgstr ""
+msgstr "Existem muitas outras extensões. \n"
+"O GBIF mantém uma lista de todas as extensões aprovadas e rascunhos de extensões no seu subsite de ferramentas.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:248
 #, no-wrap
 msgid "There are many layers in our biodiversity informatics community. \n"
 "The image here shows the relationships between these layers and where they intersect with the Darwin Core and where extensions maybe necessary in order to fully share data.\n"
-msgstr ""
+msgstr "Há muitas camadas na nossa comunidade de informáticos para a biodiversidade. \n"
+"A imagem mostra as relações entre essas camadas e onde elas se cruzam com o Darwin Core e onde extensões talvez sejam necessárias para partilhar completamente os dados.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:252
 #, no-wrap
 msgid "Data shared to GBIF is submitted via a Darwin Core Archive or DwCA\n"
-msgstr ""
+msgstr "Os dados partilhados através do GBIF são submetidos através de um Darwin Core Archive ou DwCA\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:256
@@ -10188,31 +10382,33 @@ msgstr ""
 msgid "A DwCA is an expression of the Darwin Core text guide. \n"
 "It is a compressed file containing a minimum of three files. \n"
 "It is encoded as UTF-8. \n"
-msgstr ""
+msgstr "Um DwCA é uma expressão do guia de texto Darwin Core. \n"
+"É um ficheiro compactado que contém um mínimo de três ficheiros. \n"
+"É codificado como UTF-8. \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:259
 #, no-wrap
 msgid "In this example, these three files are: \n"
-msgstr ""
+msgstr "Neste exemplo, estes três ficheiros são: \n"
 
 #. type: Bullet: '1.	'
 #: scripts/standards.en.txt:261
 #, markdown-text, no-wrap
 msgid "A data file (occurrence.txt) conforming to the SIMPLEDWC in a CSV format where the first row includes Darwin Core standard term names.\n"
-msgstr ""
+msgstr "Um ficheiro de dados (occurrence.txt) de acordo com o SIMPLEDWC em formato CSV onde a primeira linha inclui os termos do padrão Darwin Core.\n"
 
 #. type: Bullet: '2.	'
 #: scripts/standards.en.txt:263
 #, markdown-text, no-wrap
 msgid "A meta file (meta.xml) in XML format containing technical details to instruct a computer in how to use the data file.\n"
-msgstr ""
+msgstr "Um meta ficheiro (meta.xml) no formato XML que contém detalhes técnicos para instruir um computador sobre como usar o ficheiro de dados.\n"
 
 #. type: Bullet: '3.	'
 #: scripts/standards.en.txt:265
 #, markdown-text, no-wrap
 msgid "A meta file (eml.xml) in an XML format containing explanatory details about the records contained within the data file to instruct a user if the data will be fit for their use.\n"
-msgstr ""
+msgstr "Um meta ficheiro (eml.xml) em formato XML contendo detalhes explicativos sobre os registos contidos no ficheiro de dados para instruir um utilizador sobre se os dados serão adequados ao seu uso.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:269
@@ -10220,26 +10416,29 @@ msgstr ""
 msgid "A more complex structure can be obtained by sharing multiple related csv files to extend the data. \n"
 "They are related to the core file by way of a unique id. \n"
 "In an occurrence dataset, these related csv files are related by the occurrenceID.\n"
-msgstr ""
+msgstr "Uma estrutura mais complexa pode ser obtida partilhando vários ficheiros csv relacionados para estender os dados. \n"
+"Eles estão relacionados ao ficheiro do núcleo através de um id único. \n"
+"Num conjunto de dados de ocorrência, esses ficheiros csv associados são relacionados através do occurrenceID.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:272
 #, no-wrap
 msgid " \n"
 "// Slide 18\n"
-msgstr ""
+msgstr " \n"
+"// Slide 18\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:274
 #, no-wrap
 msgid "We’ve covered What Darwin Core Is and hopefully you’ve started to develop a sense of why you should use it.\n"
-msgstr ""
+msgstr "Nós cobrimos o que é o Darwin Core e esperamos que comece a desenvolver uma sensibilidade sobre a razão pela qual dever usá-lo.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:276
 #, no-wrap
 msgid "It is a standard and standards are good! Standards provide us with the rules and protocols we need to share our data with others.\n"
-msgstr ""
+msgstr "É um padrão e os padrões são bons! Os padrões fornecem-nos as regras e protocolos que precisamos para partilhar os nossos dados com outras pessoas.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:281
@@ -10248,7 +10447,10 @@ msgid "Darwin Core also provides us with a common language. \n"
 "As we saw in the Foundations – Documentation presentation, source data can be tricky when trying to compare datasets. \n"
 "The fields in your source data might be different than the fields in another institutions data source. \n"
 "When we all use Darwin Core to share our data, we understand that data has been shared with a common language.\n"
-msgstr ""
+msgstr "O Darwin Core também nos fornece uma linguagem comum. \n"
+"Como vimos na apresentação Fundamentos – Documentação, os dados de origem podem ser complicados ao tentar comparar conjuntos de dados. \n"
+"Os campos dos seus dados de origem podem ser diferentes dos campos nas fontes de dados de outras instituições. \n"
+"Quando todos usamos o Darwin Core para partilhar os nossos dados, nós ficamos a saber que os dados foram partilhados com uma linguagem comum.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:285
@@ -10256,39 +10458,43 @@ msgstr ""
 msgid "// Slide 19\n"
 "And it’s not only the data holders that understand this common language, the data users do as well. \n"
 "And after all, what could be better than a user finding a data set that is fit for their use, shared in a common language, that allows them to do better science.\n"
-msgstr ""
+msgstr "// Slide 19\n"
+"E não são apenas os detentores de dados que entendem esta linguagem comum, os utilizadores de dados também. \n"
+"E, afinal, o que pode ser melhor do que o utilizador encontrar um conjunto de dados adequado ao seu uso partilhado em uma língua comum, que lhes permite fazer uma ciência melhor.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:296
 #, no-wrap
 msgid "This presentation was originally created by Paula Zermoglio and John Wieczorek with additional contributions by Sharon Grant, Sophie Pamerlon, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students. \n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Paula Zermoglio e John Wieczorek com contribuições adicionais por Sharon Grant, Sophie Pamerlon, Laura Anne Russell e Dag Endresen, BID e Formadores, Mentors e alunos BIFA. \n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:5
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section. \n"
 "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
+msgstr "Esta sessão é o trabalho de base e faz parte da secção de Terminologia. \n"
+"Iremos introduzi-lo sobre a linguagem, terminologia e definições de alguns dos conceitos básicos, funções e processos que vai colocar em uso durante o resto do curso.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:10
 #, no-wrap
 msgid "First let us review the structure of this session. \n"
 "In the section on STRUCTURES we will be working on understanding the field and data types that hold data, the structures that help to organize and protect that data and lastly look at what these mean for the integrity and security of your data.\n"
-msgstr ""
+msgstr "Em primeiro lugar, recapitularemos a estrutura desta sessão. \n"
+"Na seção sobre ESTRUTURAS trabalharemos para compreender os campos e os tipos de dados que possuem dados, as estruturas que ajudam a organizar e proteger esses dados e, por último, olhar para o que eles significam para a integridade e a segurança dos seus dados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:14
 #, no-wrap
 msgid "In this section on basic database Structures, we will focus on the different elements that databases, software tools and languages use to handle the data that you enter.\n"
-msgstr ""
+msgstr "Nesta secção em estruturas básicas de bases de dados, vamos concentrar-nos nos diferentes elementos que as bases de dados têm, ferramentas de software e linguagens que são usadas para manipular os dados que digita.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:18
 #, no-wrap
 msgid "First, let us look at field types, also known as data types.\n"
-msgstr ""
+msgstr "Primeiro, vamos ver os tipos de campo, também conhecidos como tipos de dados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:26
@@ -10298,7 +10504,11 @@ msgid "Data Types let the computer know what kind of data is expected in a parti
 "They can be simple and encompass a single concept or combine concepts depending on the software or language you are using. \n"
 "Either way the essential building blocks are the same. \n"
 "So let us look at six that you will come across most frequently.\n"
-msgstr ""
+msgstr "Tipos de Dados permitem que o computador saiba que tipo de dados são esperados num determinado campo. \n"
+"Isto então dita quais funções podem ser realizadas sobre este. \n"
+"Eles podem ser simples e englobam um único conceito ou combinar conceitos dependendo do software ou da linguagem que estiver a usar. \n"
+"De qualquer forma, os blocos de base essenciais são os mesmos. \n"
+"Então, vamos ver seis que encontrará com maior frequência.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:39
@@ -10313,7 +10523,16 @@ msgid "First Numeric fields. \n"
 "The important thing to remember here is that a float always has decimal places so the number 10 will be stored as 10.0. \n"
 "The number of decimal places being an integral element of the type. \n"
 "This has implications when it comes to precision and accuracy.\n"
-msgstr ""
+msgstr "Primeiros os campos numéricos. \n"
+"Este tipo de dados contém números e há 2 tipos: Inteiros e inteiros longos e números naturais. \n"
+"Por exemplo, 1, 2, 3, 99, 2000.\n"
+"O tamanho do número depende do número de bits atribuído ao campo (mais sobre isso depois). \n"
+"Por enquanto basta lembrar que um campo de inteiro longo terá um número maior que um inteiro.\n"
+"Vírgula flutuante (floats), também referidas como dupla precisão (double), retém frações ou partes de números naturais. \n"
+"Por exemplo, 4,5, 19,47. \n"
+"O importante para lembrar aqui é que um float tem sempre casas decimais, de modo que o número 10 será armazenado como 10.0. \n"
+"O número de casas decimais é um elemento integral do tipo. \n"
+"Isso tem implicações quando se trata de precisão e exactidão.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:45
@@ -10321,7 +10540,9 @@ msgstr ""
 msgid "Alphanumeric fields are also referred to as text, character or string fields. \n"
 "They can hold any letter, number or symbol in the coded character set and usually have a defined character limit. \n"
 "Entering more characters than the character limit can often result in truncation and loss of data on save.\n"
-msgstr ""
+msgstr "Campos alfanuméricos também são referidos como campos de texto, caracter ou string. \n"
+"Pode conter qualquer letra, número ou símbolo no conjunto de caracteres codificado e geralmente tem um limite definido de caracteres. \n"
+"Inserindo mais caracteres do que o limite de caracteres pode muitas vezes resultar no truncamento e perda de dados ao gravar.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:52
@@ -10330,7 +10551,10 @@ msgid "Another type of text field that you will come across is the Unstructured 
 "These types of field are used to hold large amounts of unformatted text and unlike alphanumeric fields may not have an obvious character limit. \n"
 "In simple systems, they are generally less flexible in terms of processing; for example sorting and indexing, than their smaller alphanumeric cousins. \n"
 "With decreased storage costs and the rise of NoSQL document-oriented database programs, such as MongoDB however, this is changing.\n"
-msgstr ""
+msgstr "Outro tipo de campo de texto que encontrará é o campo de texto não estruturado, também conhecido como campo de memo, caracter longo ou blob. \n"
+"Esses tipos de campo são usados para armazenar grandes quantidades de texto não formatado e, ao contrário de campos alfanuméricos, pode não ter um limite de caracteres óbvio. \n"
+"Em sistemas simples, eles geralmente são menos flexíveis em termos de processamento; por exemplo, ordenação e indexação, do que os seus primos mais pequenos alfanuméricos. \n"
+"Com a redução dos custos de armazenamento e o aumento dos programas de bases de dados NoSQL orientados a documentos, como o MongoBD, no entanto, isso está mudando.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:64
@@ -10344,7 +10568,15 @@ msgid "System Value fields have a double nature and what you see on the screen i
 "So you can see that the field is actually a float. \n"
 "You should beware because that system value not be the same from software to software.\n"
 "Exports should to checked to make sure the actual date is exported and not the system value.\n"
-msgstr ""
+msgstr "Os campos do Valor do Sistema têm uma natureza double e o que vê no ecrã geralmente não é o valor real que o software está armazenando na memória. \n"
+"Os campos de data e hora são o exemplo mais comum deste tipo de campo. \n"
+"Neste exemplo, você digitou 1 de março de 1971 numa célula no Excel e clique em return. \n"
+"Agora diz 1-Mar-71 na célula E 3/1/1971 na barra de funções.\n"
+"O Excel está aplicando um formato de exibição para a célula, que pode alterar à vontade. \n"
+"NO ENTANTO, se remover o formato pode ver que o que está sendo armazenado no campo é o número 25993.00! \n"
+"Então pode ver que o campo é na verdade um float. \n"
+"Deve ter cuidado porque o valor do sistema não é o mesmo de software para software.\n"
+"As exportações devem ser verificadas para garantir que a data real seja exportada e não o valor do sistema.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:71
@@ -10353,7 +10585,10 @@ msgid "Boolean fields, also known as Binary fields, only contain one of two valu
 "They are a special case of a System Value field as mentioned previously in that whilst the software actually saves a number it often displays values such as: Yes/No, Yes/no, Y/N, True/False.\n"
 "You should take care to find out which way around the system you are using translates. \n"
 "Is a 1 a yes or no?\n"
-msgstr ""
+msgstr "Os campos booleanos, também conhecidos como campos binários, só contêm um dos dois valores que representam um ou zero. \n"
+"Eles são um caso especial do campo de um Valor do Sistema, como mencionado anteriormente, enquanto o software grava um número, geralmente exibe valores tais como: Sim/Não, Sim/não, Y/N, Verdadeiro/Falso.\n"
+"Deve ter o cuidado de descobrir qual como é que o sistema que está a fazer as transformações. \n"
+"É o 1 um sim ou não?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:78
@@ -10362,20 +10597,24 @@ msgid "Structured Text fields are less common but mentioned here for completenes
 "They are fields which can be either made up of combinations of the simple data types or even be defined by the data itself. \n"
 "Most often these are used in programming languages to allow flexibility and handling of complex concepts. \n"
 "An example is the factor field used in the R programming language, which is defined as a type vector containing a set of numeric codes with character-valued levels.\n"
-msgstr ""
+msgstr "Campos de Texto Estruturados são menos comuns, mas aqui mencionados aqui para completar a informação. \n"
+"São campos que podem ser compostos por combinações de tipos simples de dados, ou até mesmo definidos pelos próprios dados. \n"
+"Na maioria das vezes esses são usados em linguagens de programação para permitir a flexibilidade e o tratamento de conceitos complexos. \n"
+"Um exemplo é o campo factor, usado na linguagem de programação R, que é definido como um tipo vector contendo um conjunto de códigos numéricos com níveis do valor de caracteres.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:82
 #, no-wrap
 msgid "Now that you have an understanding of the field types used to represent your data elements let us talk about the containers or structures, that many database programs and software use collate and display your data.\n"
-msgstr ""
+msgstr "Agora que tem o conhecimento dos tipos de campo usados para representar os seus elementos dos dados, vamos falar sobre as estruturas (containers), que muitos programas de base de dados e software usam para agregar e exibem os seus dados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:87
 #, no-wrap
 msgid "First is the cell. \n"
 "This is the smallest data structure, it holds a single value and has a single data type associated with it.\n"
-msgstr ""
+msgstr "Primeiro está a célula. \n"
+"Esta é a menor estrutura de dados, que contém um único valor e tem um único tipo de dado associado.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:93
@@ -10383,20 +10622,23 @@ msgstr ""
 msgid "There is one concept that you should beware of when it comes to cells and that is the empty cell. An empty cell doesn't necessarily mean an empty field.\n"
 "Some software fills an empty field with a System value based on the data type. \n"
 "Examples are NULL N A or even zero!\n"
-msgstr ""
+msgstr "Há um conceito que se deve ter em conta quando se trata de células, e que é a célula vazia. Uma célula vazia não significa necessariamente um campo vazio.\n"
+"Alguns softwares preenchem um campo vazio com um valor de sistema baseado no tipo de dados. \n"
+"São exemplos o NULL N A ou mesmo zero!\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:98
 #, no-wrap
 msgid "As you start to organize cells you begin to build a grid. \n"
 "Grids have implied structure in the form of Rows.\n"
-msgstr ""
+msgstr "À medida que comece a organizar células, irá começar a construir uma grelha. \n"
+"As grelhas têm estrutura implícita na forma de Linhas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:102
 #, no-wrap
 msgid "And columns.\n"
-msgstr ""
+msgstr "E colunas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:109
@@ -10405,14 +10647,18 @@ msgid "When you organize cells into rows and columns, obviously, what you get is
 "This is looks very much like a spreadsheet right? \n"
 "Well, yes. \n"
 "The difference however between a spreadsheet grid and a table are the strength of the ties that hold the rows and columns together.\n"
-msgstr ""
+msgstr "Quando organiza células em linhas e colunas, obviamente, o que obtém é uma grelha!\n"
+"Isso parece-se muito com uma folha de cálculo, não é assim? \n"
+"Bem, sim. \n"
+"No entanto, a diferença entre uma grelha de folha de cálculo e uma tabela é a força dos laços que mantêm as linhas e as colunas juntas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:114
 #, no-wrap
 msgid "So let us now talk about those connections. \n"
 "What the implications for the integrity and security of your data of loose unenforced relationships between rows and columns?\n"
-msgstr ""
+msgstr "Por isso, falemos agora sobre essas ligações. \n"
+"Quais as implicações para a integridade e segurança dos seus dados do relacionamento fraco entre linhas e colunas?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:124
@@ -10424,7 +10670,13 @@ msgid "What actually makes a table useful are the connections that we create to 
 "It is easy for the attributes between the rows to get jumbled up or for the values get changed and then the meaning is lost.\n"
 "`\n"
 "// Slide 20\n"
-msgstr ""
+msgstr "O que realmente torna uma tabela útil são as ligações que criamos para dar aos dados significado à sua estrutura. \n"
+"Nós intrinsecamente fazemos padrões de atributos que transformam os dados em informações. \n"
+"As linhas tornam-se registos e as colunas se tornam atributos. \n"
+"Numa folha de cálculo, no entanto, as ligações entre células são idiomáticas, soltas e fracas. \n"
+"É fácil para os atributos entre as linhas serem trocados ou para os valores serem alterados e nesse o significado é perdido.\n"
+"`\n"
+"// Slide 20\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:130
@@ -10434,7 +10686,11 @@ msgid "This lack of enforced connections makes a spreadsheet easy to use but the
 "Spreadsheets are not built to scale either in terms of size or numbers of users -- So can be slow, crashy and easily corruptible. \n"
 "Spreadsheets are easy to copy and email -- So they are hard to version and keep track of.\n"
 "The question is what is the solution?\n"
-msgstr ""
+msgstr "Esta falta de ligações forçadas facilita a utilização de uma folha de cálculo, mas estas mesmas qualidades também causam problemas. \n"
+"É fácil criar erros, que são difíceis de capturar -- Ligações e relações não são documentáveis e estão sujeitas a interpretação e mutação. \n"
+"As folhas de cálculo não são construídas para suportar aumentos em termos de tamanho ou número de utilizadores -- Podem ser lentas, rebentar e são fáceis de ser corrompidas. \n"
+"As folhas de cálculo são fáceis de copiar e enviar por e-mail -- pelo que são difíceis de criar versões e controlar.\n"
+"A questão é qual é a solução?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:141
@@ -10447,7 +10703,14 @@ msgid "Let us look back, at the connections in a bit more detail. \n"
 "For example you may want find the mean weight of all the Kenyan bats. \n"
 "So ideally we want to use a system to store our data that: 1) always holds the rows together; 2)does not mix data types; 3) and segregates data in each table to a single concept or theme. \n"
 "These are functions of a database!\n"
-msgstr ""
+msgstr "Vamos rever, olhando para as ligações com um pouco mais de pormenor. \n"
+"Geralmente entendemos que os dados em cada linha de uma tabela significam alguma coisa. \n"
+"Por exemplo, cada linha pode representar um espécime ou um taxon que foi encontrado num local em particular, num determinado momento, por uma pessoa em particular. \n"
+"Seria estranho ter uma linha numa tabela que representa um espécime seguido por uma linha que representa um local de colheita. \n"
+"Frequentemente, também queremos analisar, ordenar e comparar valores de atributos específicos entre as linhas. \n"
+"Por exemplo, pode querer encontrar o peso médio de todos os morcegos quenianos. \n"
+"Então idealmente queremos usar um sistema para armazenar os nossos dados que: 1) mantém sempre as linhas juntas; 2) não mistura tipos de dados; 3) e separa dados em tabelas com um único conceito ou tema. \n"
+"Estas são funções de uma base de dados!\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:148
@@ -10456,14 +10719,18 @@ msgid "Functions in a true database inherently bind rows together and columns ma
 "Tables in database are held together by virtual links called keys. \n"
 "These keys are identifiers that match between tables and allow data to be connected efficiently. \n"
 "It is these 2 key concepts that distinguish a spreadsheet from a database.\n"
-msgstr ""
+msgstr "As funções de uma verdadeiro base de dados inerentemente mantém as linhas juntas, e as colunas podem ter apenas um único tipo de dados. \n"
+"As tabelas na base de dados são mantidas juntas por ligações virtuais chamadas chaves. \n"
+"Essas chaves são identificadores que são iguais entre tabelas e permitem que os dados estejam associados de forma eficiente. \n"
+"São esses 2 conceitos-chave que distinguem uma folha de cálculo de uma base de dados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:153
 #, no-wrap
 msgid "In review then, we have looked at the 6 most common data types, the basic building blocks of data structure and distinguished between a spreadsheet grid and database table.\n"
 "Understanding these elements and how they interact with one another will allow you to better determine the best ways to manipulate and document the data that falls under your custodianship.\n"
-msgstr ""
+msgstr "Em suma, analisámos os 6 tipos de dados mais comuns, os blocos básicos da estrutura dos dados e distinção entre uma folha de cálculo e uma tabela de base de dados.\n"
+"Compreender esses elementos e como eles interagem uns com os outros permitirá que determine melhor as melhores maneiras de manipular e documentar os dados que estão sob a sua custódia.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:159
@@ -10471,7 +10738,9 @@ msgstr ""
 msgid "Remember that: When you realize the difference between the container and the content, you will have knowledge. \n"
 "Using the correct terms to describe both your data and the structures that you create and use to store it; is the most important way to ensure that it remains relevant and useable.\n"
 "Never underestimate how much damage can be done to priceless information by careless descriptions and storage.\n"
-msgstr ""
+msgstr "Lembre-se de que: quando perceber a diferença entre o a estrutura e o conteúdo, terá conhecimento. \n"
+"Usando os termos corretos para descrever tanto os seus dados quanto as estruturas que cria e usa para armazená-los, é a forma mais importante de garantir que estes se mantém relevantes e utilizáveis.\n"
+"Nunca subestime a quantidade de estragos que podem ser feitos a informações valiosas por descrições e armazenamento descuidados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:165

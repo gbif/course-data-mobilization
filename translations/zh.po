@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-05 11:53+0000\n"
-"PO-Revision-Date: 2021-05-05 12:22\n"
+"POT-Creation-Date: 2021-05-06 14:32+0000\n"
+"PO-Revision-Date: 2021-05-06 15:16\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -310,7 +310,7 @@ msgstr ""
 
 #. type: Plain text
 #: foundations.en.adoc:25
-msgid "video::434713189[vimeo, height=480, width=640, align=center]"
+msgid "video::434713189[vimeo,height=540,width=960,align=center]"
 msgstr ""
 
 #. type: Title ====
@@ -953,7 +953,7 @@ msgstr ""
 #.  Question 9
 #. type: Plain text
 #: foundations.en.adoc:375
-msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]"
+msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]"
 msgstr ""
 
 #. type: delimited block .
@@ -1643,7 +1643,7 @@ msgstr ""
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
-"image::img/web/QDataTypes-specimen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1665,7 +1665,7 @@ msgstr ""
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
-"image::img/web/QDataTypes-plant.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-plant.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #.  Question 3
@@ -1685,7 +1685,7 @@ msgstr ""
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
-"image::img/web/QDataTypes-field.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-field.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1713,7 +1713,7 @@ msgstr ""
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
-"image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-tracking.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1735,7 +1735,7 @@ msgstr ""
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
-"image::img/web/QDataTypes-traps.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #.  Question 6
@@ -1755,7 +1755,7 @@ msgstr ""
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
-"image::img/web/QDataTypes-Observations.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-Observations.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -1789,7 +1789,7 @@ msgstr ""
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
-"image::img/web/QDataTypes-citizen.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-citizen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #.  Question 8
@@ -1803,7 +1803,7 @@ msgstr ""
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
-"image::img/web/QDataTypes-threatened.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image::img/web/QDataTypes-threatened.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #. type: delimited block .
@@ -4514,7 +4514,7 @@ msgstr ""
 #: solutions.en.adoc:79
 #, no-wrap
 msgid "*For the given statements, input the matching image. (A, B, C, D)*\n"
-"image:img/web/accuracyandprecision.png[align=\"center\", width=\"640\", height=\"360\"]\n"
+"image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr ""
 
 #. type: Plain text
