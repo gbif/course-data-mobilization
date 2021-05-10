@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-10 15:35+0000\n"
-"PO-Revision-Date: 2021-05-10 15:47\n"
+"PO-Revision-Date: 2021-05-10 16:49\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -338,7 +338,7 @@ msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilis
 #. type: Plain text
 #: foundations.en.adoc:44
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
-msgstr "Vous trouverez ci-dessous une sélection de recommandation de lecture du guide d’Arthur Chapman «Principles of data quality». https://www.gbif.org/fr/document/80509/principles-of-data-quality[Full document^], des références et des traductions peuvent être trouvées sur GBIF.org."
+msgstr "Vous trouverez ci-dessous une sélection de recommandation de lecture du guide d’Arthur Chapman “Principles of data quality”. https://www.gbif.org/document/80509/principles-of-data-quality[Document complet^], des références et des traductions peuvent être trouvées sur GBIF.org."
 
 #. type: delimited block _
 #: foundations.en.adoc:49
@@ -616,7 +616,7 @@ msgstr "Lien de téléchargement link:../course-docs/Software-database-EN.xlsx[S
 #. type: delimited block *
 #: foundations.en.adoc:200
 msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^]:"
-msgstr "Lors de l'étude d'un logiciels pour la biodiversité que vous n'avez pas encore utilisé, vous devez réfléchir à la manière dont vous l'adapterez à vos besoins. Vous trouverez ci-dessous une liste avec laquelle vous pouvez commencer votre évaluation. Ils s'inspirent du chapitre « Caractéristiques d'une bonne solution de base de données » du manuel du GBIF https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[« Lancer un projet de numérisation » ^] :"
+msgstr "Lors de l'étude d'un logiciels pour la biodiversité que vous n'avez pas encore utilisé, vous devez réfléchir à la manière dont vous l'adapterez à vos besoins. Vous trouverez ci-dessous une liste avec laquelle vous pouvez commencer votre évaluation. Ils s'inspirent du chapitre “Caractéristiques d'une bonne solution de base de données\" du manuel du GBIF https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Lancer un projet de numérisation“^] :"
 
 #. type: delimited block *
 #: foundations.en.adoc:203
@@ -905,25 +905,25 @@ msgid "* 1236975 +\n"
 "* 6 rabbits were observed +\n"
 "  __text__\n"
 msgstr "* 1236975 +\n"
-"__entier long__ +\n"
-"1101111 +\n"
-"__binaire__ +\n"
-"Nous avons marché 5 miles sur la route à l'ouest du bureau de poste au centre de la ville. Ensuite, nous avons parcouru 2 miles vers le nord, sur un chemin de terre menant à la rivière. Puis nous avons continué vers l'ouest le long de la rivière pendant 5 miles. +\n"
-"__texte non structuré__ +\n"
-"1024 +\n"
-"__entier__ +\n"
-"29. + \n"
-"__flottant__ +\n"
-"Oui/Non +\n"
-"__boléen__ +\n"
-"6 lapins ont été observés +\n"
-"__texte__\n"
+"  __entier long__\n"
+"* 1101111 +\n"
+"  __binaire__\n"
+"* Nous avons marché 5 miles sur la route à l'ouest du bureau de poste au centre de la ville. Ensuite, nous avons parcouru 2 miles vers le nord, sur un chemin de terre menant à la rivière. Puis nous avons continué vers l'ouest le long de la rivière pendant 5 miles. +\n"
+"  __texte non structuré__\n"
+"* 1024 +\n"
+"  __entier__\n"
+"* 29.0 +\n"
+"  __flottant__\n"
+"* Oui/Non +\n"
+"  __boléen__\n"
+"* 6 lapins ont été observés +\n"
+"  __texte__\n"
 
 #.  Question 5
 #. type: Plain text
 #: foundations.en.adoc:328
 msgid "Which of these terms describes a \"field/column name\"?"
-msgstr "Lequel de ces termes décrit un nom de «champ/colonne»?"
+msgstr "Lequel de ces termes décrit un nom de \"champ/colonne\"?"
 
 #. type: delimited block .
 #: foundations.en.adoc:337
@@ -934,7 +934,7 @@ msgid "- [x] Assigned\n"
 "- [ ] Readable\n"
 "- [x] Unique\n"
 "- [ ] User-interface\n"
-msgstr "[x] Assigné\n"
+msgstr "- [x] Assigné\n"
 "- [ ] Descriptif\n"
 "- [x] Identifiant\n"
 "- [ ] Lisible\n"
@@ -1007,7 +1007,7 @@ msgstr "- [ ] Le directeur du musée ou de département\n"
 #. type: Plain text
 #: foundations.en.adoc:375
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
-msgstr ""
+msgstr "Pour les instructions données, entrez l'image correspondante. (A, B, C, D) image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 
 #. type: delimited block .
 #: foundations.en.adoc:386
@@ -1583,7 +1583,7 @@ msgid "- [x] Stated\n"
 "- [x] Direct\n"
 "- [x] Indirect\n"
 "- [ ] Guesses\n"
-msgstr "[x] Déterminé\n"
+msgstr "- [x] Déterminé\n"
 "- [x] implicit \n"
 "- [ ] Estimé\n"
 "- [x] Direct\n"
@@ -1640,7 +1640,7 @@ msgstr "Standards et Darwin Core"
 #. type: Plain text
 #: capture.en.adoc:13
 msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
-msgstr "Dans cette vidéo (15:37), vous apprendrez comment vous interagirez avec les standards tous les jours. Puis vous serez introduits au https://www. dwg.org/[Standards de l’information sur la biodiversité^], y compris le https://www.tdwg. rg/standards/dwc/[Standard Darwin Core^] que vous continuerez à utiliser tout au long de ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée Vimeo, vous pouvez la link:../videos/Foundations_Standards_Darwin_Core.mp4[télécharger^,opts=download] localement (MP4 - 27 Mo)"
+msgstr "Dans cette vidéo (15:37), vous apprendrez comment vous interagirez avec les standards tous les jours. Puis vous serez introduits au https://www.tdwg.org/[Standards de l’information sur la biodiversité^], y compris le https://www.tdwg.org/standards/dwc/[Standard Darwin Core^] que vous continuerez à utiliser tout au long de ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée Vimeo, vous pouvez la link:../videos/Foundations_Standards_Darwin_Core.mp4[télécharger^,opts=download] localement (MP4 - 27 Mo)"
 
 #. type: Title ===
 #: capture.en.adoc:16
@@ -1696,7 +1696,7 @@ msgstr "Exercice 2"
 #. type: Plain text
 #: capture.en.adoc:42
 msgid "For this activity, you will complete an exercise simulating data capture.  You will begin to work with https://dwc.tdwg.org/terms/[Darwin Core terms^] and make decisions on data that is needed for your organization/project and you will consider which of that data will be shared later during publication."
-msgstr "Pour cette activité, vous allez effectuer un exercice simulant une saisie de données. Vous allez commencer à travailler avec https://dwc.tdwg. rg/terms/[les termes Darwin Core^] et choisirez quelles données sont nécessaires pour votre organisation/projet, puis vous examinerez lesquelles de ces données seront partagées plus tard lors de la publication."
+msgstr "Pour cette activité, vous allez effectuer un exercice simulant une saisie de données. Vous allez commencer à travailler avec https://dwc.tdwg.org/terms/[les termes Darwin Core^] et choisirez quelles données sont nécessaires pour votre organisation/projet, puis vous examinerez lesquelles de ces données seront partagées plus tard lors de la publication."
 
 #. type: Plain text
 #: capture.en.adoc:46
@@ -3054,7 +3054,7 @@ msgstr "Feuille d'exercice des espèces envahissantes"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
 msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger le lien:../course-docs/UC3-DL-exercise-sheet_FR.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_FR.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:64
@@ -3397,7 +3397,7 @@ msgstr "Feuille d'exercice Lepidoptera"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger le lien:../course-docs/UC3-DL-exercise-sheet_FR.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_FR.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:110
@@ -3637,7 +3637,7 @@ msgstr "Feuille d'exercices sur les oiseaux de la littérature"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger le lien:../course-docs/UC3-DL-exercise-sheet_FR.docx[fiche exercices,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_FR.docx[fiche exercices,opts=download]. (MS Word, 342 Ko)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
@@ -3848,7 +3848,7 @@ msgstr "Les travaux peuvent être soumis à partir de la version en ligne (HTML)
 #. type: Plain text
 #: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
-msgstr "Veuillez soumettre vos fichiers de travaux en utilisant le formulaire ci-dessous. Si vous ne voyez pas de formulaire, vous pouvez également visiter le https://gbif. pp.box.com/f/1e44182c4bc74d659082c0e952d83e80:[site de dépôt^] dans une nouvelle fenêtre."
+msgstr "Veuillez soumettre vos fichiers de travaux en utilisant le formulaire ci-dessous. Si vous ne voyez pas de formulaire, vous pouvez également visiter le https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80[site de dépôt^] dans une nouvelle fenêtre."
 
 #. type: delimited block +
 #: assignments.en.adoc:38
@@ -3917,7 +3917,7 @@ msgstr "https://github.com/gbif/ipt/wiki/howToPublish[Comment publier des donné
 #. type: Plain text
 #: keydocs.en.adoc:19
 msgid "https://www.gbif.org/become-a-publisher[Become a data publisher with GBIF^]"
-msgstr "https://www.gbif.org/devenez un éditeur de données[Devenir un éditeur de données avec GBIF^]"
+msgstr "https://www.gbif.org/become-a-publisher[Devenir un éditeur de données avec GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:21
@@ -3927,7 +3927,7 @@ msgstr "https://doi.org/10.35035/doc-5xdm-8762[Bonnes pratiques pour publier des
 #. type: Plain text
 #: keydocs.en.adoc:23
 msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
-msgstr "https://doi.org/10. 5035/doc-b8hq-me03[Guide à destination des entreprises privées pour devenir éditeurs de données via le GBIF : modèle de document pour appuyer le processus de validation interne afin de devenir un éditeur de données GBIF^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
+msgstr "https://doi.org/10.35035/doc-b8hq-me03[Guide à destination des entreprises privées pour devenir éditeurs de données via le GBIF : modèle de document pour appuyer le processus de validation interne afin de devenir un éditeur de données GBIF^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:26
@@ -4070,7 +4070,7 @@ msgstr "https://www.gbif.org/strategic-plan[Plan stratégique^]"
 #. type: Plain text
 #: keydocs.en.adoc:60
 msgid "https://www.gbif.org/become-member[Become a member^]"
-msgstr "https://www.gbif.org/devenez membre[Devenir membre^]"
+msgstr "https://www.gbif.org/become-member[Devenir membre^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:61
@@ -4560,7 +4560,7 @@ msgstr "Annexe : Articles sur les données (data papers)"
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded Vimeo video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr "Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans un journal révisé par les pairs. Cela demande des efforts pour préparer, curer et de décrire les données. Toutefois, nous ne couvrons pas la manière de créer des data papers dans ce cours, comme activité optionnelle, vous pouvez regarder cette vidéo (51:51) présentée par Lizanne Roxburgh. Dans cette vidéo, vous en apprendrez plus sur la publication de data papers. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:. /videos/Webinar_data_papers.mp4[télécharger,opts=download] localement (MP4 - 99.2 MB)"
+msgstr "Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans un journal révisé par les pairs. Cela demande des efforts pour préparer, curer et de décrire les données. Toutefois, nous ne couvrons pas la manière de créer des data papers dans ce cours, comme activité optionnelle, vous pouvez regarder cette vidéo (51:51) présentée par Lizanne Roxburgh. Dans cette vidéo, vous en apprendrez plus sur la publication de data papers. Si vous ne pouvez pas regarder la vidéo Vimeo intégrée, vous pouvez la link:../videos/Webinar_data_papers.mp4[télécharger,opts=download] localement (MP4 - 99.2 MB)"
 
 #. type: Plain text
 #: data-papers.en.adoc:16
@@ -5377,7 +5377,7 @@ msgstr "Conception du cours et instruction"
 #. type: Plain text
 #: acknowledgements.en.adoc:8
 msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
-msgstr "Le succès de ce cours dépend fortement du soutien apporté aux participants par le réseau des mentors GBIF pour le renforcement des capacités.  Visitez la page du GBIF sur https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers [mentoring pour le renforcement des capacités^] pour en savoir plus sur ces personnes et leurs contributions."
+msgstr "Le succès de ce cours dépend fortement du soutien apporté aux participants par le réseau des mentors GBIF pour le renforcement des capacités.  Visitez la page du GBIF sur https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[mentoring pour le renforcement des capacités^] pour en savoir plus sur ces personnes et leurs contributions."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:10
@@ -5568,7 +5568,7 @@ msgstr "Ressources"
 #. type: Plain text
 #: acknowledgements.en.adoc:56
 msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
-msgstr "La plateforme de tables de jeu en ligne est fournie par https://playingcards.io/ [PlayingCards.io^]. Nous tenons à remercier Jwalant Patel et Eric Ma pour avoir trouvé et aidé à créer les tables de jeu en ligne, ainsi que Kate Webbink pour son expertise artistique."
+msgstr "La plateforme de tables de jeu en ligne est fournie par https://playingcards.io/[PlayingCards.io^]. Nous tenons à remercier Jwalant Patel et Eric Ma pour avoir trouvé et aidé à créer les tables de jeu en ligne, ainsi que Kate Webbink pour son expertise artistique."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:57
@@ -5853,7 +5853,7 @@ msgid "The most common issues occurring with taxon information are missing or in
 " \n"
 "// Slide 10\n"
 msgstr "Les problèmes les plus courants qui se posent avec les informations sur les taxons sont des informations manquantes ou incohérentes, des valeurs incorrectes ou non atomiques, des doublons et des incertitudes.\n"
-"Vérifiez toujours les définitions et les exemples de termes taxonomiques Darwin Core pour éviter les erreurs nomenclaturales : http://rs. dwg.org/dwc/terms/index.htm\n\n"
+"Vérifiez toujours les définitions et les exemples de termes taxonomiques Darwin Core pour éviter les erreurs nomenclaturales : http://rs.dwg.org/dwc/terms/index.htm\n\n"
 "// Diapositive 10\n"
 
 #. type: Plain text
