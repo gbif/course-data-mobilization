@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-10 09:01+0000\n"
-"PO-Revision-Date: 2021-05-10 10:44\n"
+"POT-Creation-Date: 2021-05-10 11:04+0000\n"
+"PO-Revision-Date: 2021-05-10 11:42\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1732,10 +1732,8 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma cole
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
-"image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
-"image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:78 capture.en.adoc:91
@@ -1758,10 +1756,8 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados você escolheria para uma li
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
-"image::img/web/QDataTypes-plant.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".Jacinto de água (Eichhornia crassipes) observeada no Bourail, Nova Caledónia, onde é uma espécie introduzida e invasora segundo o GRIIS. Fotografia por gérard (2016) com a licença CC BY-SA 2.0\n"
-"image::img/web/QDataTypes-plant.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
+msgstr ""
 
 #.  Question 3
 #. type: Plain text
@@ -1780,10 +1776,8 @@ msgstr "Os estudos de avaliação do impacto ambiental são realizados por perit
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
-"image::img/web/QDataTypes-field.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
-"image::img/web/QDataTypes-field.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:106 capture.en.adoc:134 capture.en.adoc:166
@@ -1812,10 +1806,8 @@ msgstr "Dados de rastreamento de pássaros são obtidos com dispositivos especí
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
-"image::img/web/QDataTypes-tracking.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Abutre-grifo] observado na Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
-"image::img/web/QDataTypes-tracking.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:121
@@ -1838,10 +1830,8 @@ msgstr "Qual(is) tipo(s) de conjunto de dados você escolheria para dados de arm
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
-"image::img/web/QDataTypes-traps.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://www.flickr.com/photos/miheco/215305679/[Armadilha de insecto] por miheco (CC-BY-SA)\n"
-"image::img/web/QDataTypes-traps.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=640,height=360]\n"
+msgstr ""
 
 #.  Question 6
 #. type: Plain text
@@ -1860,10 +1850,8 @@ msgstr "Os dados adquiridos no contexto da gestão de áreas protegidas (como pa
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
-"image::img/web/QDataTypes-Observations.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Elefantes do Sri Lankan] observado por pen_ash.\n"
-"image::img/web/QDataTypes-Observations.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image::img/web/QDataTypes-Observations.png[align=center,width=640,height=360]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:149
@@ -1898,10 +1886,8 @@ msgstr "Os dados de cada participante são capturados e adicionados à ferrament
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
-"image::img/web/QDataTypes-citizen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[À procur de pássaros com a equipa do parque ] por US National Park Service (reutilização autorizada na pesquisa de imagens do google)\n"
-"image::img/web/QDataTypes-citizen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image::img/web/QDataTypes-citizen.png[align=center,width=640,height=360]\n"
+msgstr ""
 
 #.  Question 8
 #. type: Plain text
@@ -1914,10 +1900,8 @@ msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para lista re
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
-"image::img/web/QDataTypes-threatened.png[align=\"center\",width=\"640\",height=\"360\"]\n"
-msgstr ":figure-caption!:\n"
-".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Rinoceronte negro] observado no Magdeburg Zoo, Alemanha por Mani300\n"
-"image::img/web/QDataTypes-threatened.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]\n"
+msgstr ""
 
 #. type: delimited block .
 #: capture.en.adoc:179
@@ -7485,19 +7469,19 @@ msgstr "Muitas vezes eles serão usados de forma intermutável, porém eles são
 #: scripts/definitions.en.txt:94
 #, no-wrap
 msgid "Field or column names refer to the actual column in the database table. \n"
-msgstr ""
+msgstr "Nomes dos campos ou colunas se referem à coluna real na tabela da base de dados. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:96
 #, no-wrap
 msgid "They are a often short, not always in plain language, sometimes computer generated; but in a properly formed database they are ALWAYS unique. \n"
-msgstr ""
+msgstr "Eles são muitas vezes curtos, nem sempre em linguagem simples, às vezes gerados por computador; mas em um banco de dados devidamente formado eles são SEMPRE únicos. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:98
 #, no-wrap
 msgid "Field names are almost always used by database languages, because the avoid ambiguity.\n"
-msgstr ""
+msgstr "Os nomes dos campos são usados quase sempre pelas linguagens dos banco de dados, porque eles evitam ambiguidade.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:100
