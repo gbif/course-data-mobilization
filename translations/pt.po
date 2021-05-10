@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-10 11:04+0000\n"
-"PO-Revision-Date: 2021-05-10 12:38\n"
+"PO-Revision-Date: 2021-05-10 14:32\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1781,7 +1781,9 @@ msgstr "Os estudos de avaliação do impacto ambiental são realizados por perit
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
 "image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologista colhendo borboletas by Matthieu Gauvain (CC-BY-SA)\n"
+"image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:106 capture.en.adoc:134 capture.en.adoc:166
@@ -7501,13 +7503,13 @@ msgstr "Os nomes dos campos são usados quase sempre pelas linguagens dos banco 
 #: scripts/definitions.en.txt:100
 #, no-wrap
 msgid "Labels and headers on the other hand, refer to the human readable versions of the field names. \n"
-msgstr ""
+msgstr "Etiquetas e cabeçalhos, por outro lado, correspondem a versões dos nomes do campo legíveis por pessoas. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:102
 #, no-wrap
 msgid "Most often you will see these in the graphical user interface of your software and on exports and reports. \n"
-msgstr ""
+msgstr "Na maioria das vezes verá estes no interface gráfico de utilizador do seu software e em exportações e relatórios. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:104
