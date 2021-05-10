@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-06 14:32+0000\n"
-"PO-Revision-Date: 2021-05-08 17:56\n"
+"POT-Creation-Date: 2021-05-10 09:01+0000\n"
+"PO-Revision-Date: 2021-05-10 10:44\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -310,8 +310,8 @@ msgstr "Neste vídeo (05:58), revisará exemplos dos diferentes tipos de aplica�
 
 #. type: Plain text
 #: foundations.en.adoc:25
-msgid "video::434713189[vimeo,height=540,width=960,align=center]"
-msgstr "video::434713189[vimeo,height=540,width=960,align=center]"
+msgid "video::vYfDIgBBKXY[youtube,height=540,width=960,align=center]"
+msgstr "video::vYfDIgBBKXY[youtube,height=540,width=960,align=center]"
 
 #. type: Title ====
 #: foundations.en.adoc:26
@@ -7160,7 +7160,9 @@ msgstr "// Slide 19\n"
 msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
 "The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
 "The data are then searchable and downloadable via GBIF.org.\n"
-msgstr ""
+msgstr "Uma vez que os dados são padronizados usando o padrão Darwin Core, cada classe do conjunto de dados (somente metadados), evento de amostragem, conjuntos de dados taxonómicos ou de ocorrência) podem ser publicados no GBIF.org usando uma das ferramentas mencionadas nesta figura.\n"
+"A ferramenta mais usada na comunidade GBIF é o IPT do GBIF, desenvolvido pelo GBIF, que transforma os dados de origem em ficheiros Darwin Core que depois indexados pelo GBIF.\n"
+"Os dados podem ser pesquisados e descarregados via GBIF.org.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:104 scripts/definitions.en.txt:201
@@ -7168,45 +7170,46 @@ msgstr ""
 #: scripts/standards.en.txt:287
 #, no-wrap
 msgid "// Slide 20\n"
-msgstr ""
+msgstr "// Slide 20\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:107
 #, no-wrap
 msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
 "The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
-msgstr ""
+msgstr "Escolher uma classe de conjunto de dados pode levar algum tempo, especialmente se você for novo na publicação de dados no GBIF.\n"
+"A equipa do GBIF helpdesk criou este gráfico útil que pode ser encontrado no Blog de Dados do GBIF: \n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:109
 #, no-wrap
 msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
-msgstr ""
+msgstr "Se seus dados ainda não são capturados em uma base de dados ou tabela, ou se ainda estão muito incompletos para serem partilhados, você pode publicar uma descrição dos seus dados como um conjunto de dados de metadados (note que esta opção não é permitida no contexto dos programas BID e BIFA).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:111
 #, no-wrap
 msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
-msgstr ""
+msgstr "Se o seu conjunto de dados contém uma lista de nomes científicos que não estão se referindo a organismos ou espécimes observados e/ou amostrados, você pode publicá-lo como um recurso taxonómico ou checklist.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:113
 #, no-wrap
 msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
-msgstr ""
+msgstr "Se seu conjunto de dados inclui nomes científicos ligados a espécimes observados e/ou amostrados, assim como datas e localidades, você pode partilhá-lo como um conjunto de dados de ocorrência.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:115
 #, no-wrap
 msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
-msgstr ""
+msgstr "Por último, se as informações sobre os protocolos usados no campo estiverem disponíveis, você pode optar por partilhar seu conjunto de dados como conjunto de dados de eventos de amostragem.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:117 scripts/definitions.en.txt:210
 #: scripts/organizing.en.txt:182 scripts/structures.en.txt:132
 #, no-wrap
 msgid "// Slide 21\n"
-msgstr ""
+msgstr "// Slide 21\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:121
@@ -7214,267 +7217,269 @@ msgstr ""
 msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
 "Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
 "You can find these requirements on GBIF.org from the How-to menu.\n"
-msgstr ""
+msgstr "Cada classe de conjunto de dados partilhado no GBIF deve atender seus próprios requisitos de qualidade de dados.\n"
+"Alguns requisitos são obrigatórios (como occurrenceID, taxonID ou eventID, dependendo do tipo de conjunto de dados), outros são opcionais, mas fortemente recomendados (como coordenadas em graus decimais).\n"
+"Você pode encontrar estes requisitos no GBIF.org através do menu How-to.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:123 scripts/organizing.en.txt:191
 #: scripts/structures.en.txt:143
 #, no-wrap
 msgid "// Slide 22\n"
-msgstr ""
+msgstr "// Slide 22\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:125
 #, no-wrap
 msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
-msgstr ""
+msgstr "Para poder publicar dados no GBIF, é importante compreender as diferenças entre as classes dos conjuntos de dados nos estágios iniciais do processo de captura e gestão de dados.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:127
 #, no-wrap
 msgid "You can reflect on this topic with the following questions:\n"
-msgstr ""
+msgstr "Você pode refletir sobre este tópico com as seguintes perguntas:\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:129
 #, no-wrap
 msgid "Is your data type different than you originally thought?\n"
-msgstr ""
+msgstr "Seu tipo de dado é diferente do que você pensou originalmente?\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:131
 #, no-wrap
 msgid "With what kind of data do you work?\n"
-msgstr ""
+msgstr "Com que tipo de dados você trabalha?\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:133
 #, no-wrap
 msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
-msgstr ""
+msgstr "Como você os publicaria no GBIF? (usando qual core ou extensão?)\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:135 scripts/organizing.en.txt:203
 #: scripts/structures.en.txt:150
 #, no-wrap
 msgid "// Slide 23\n"
-msgstr ""
+msgstr "// Slide 23\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:142
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada e narrada por Sophie Pamerlon com contribuições adicionais de Treinadores BID e BIFA, Mentores e Alunos.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:4
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section.\n"
-msgstr ""
+msgstr "Esta sessão é um trabalho de fundação e faz parte da secção de Terminologia.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:6
 #, no-wrap
 msgid "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
+msgstr "Iremos apresentar-vos a língua, a terminologia e as definições para alguns dos conceitos básicos, funções e processos que você vai colocar em uso durante o resto do curso.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:10
 #, no-wrap
 msgid "First let’s review the structure of this session.\n"
-msgstr ""
+msgstr "Primeiro, vamos rever a estrutura desta sessão.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:12
 #, no-wrap
 msgid "In the section on DEFINITIONS we will first try to clarify the use of the word “Data”.\n"
-msgstr ""
+msgstr "Na secção de DEFINIÇÕES primeiros tentaremos esclarecer a utilização da palavra \"Dados\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:14
 #, no-wrap
 msgid "We will then look at the terminology surrounding Fields, Labels and Lists.\n"
-msgstr ""
+msgstr "A seguir, veremos a terminologia em torno de Campos, Etiquetas e Listas.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:16
 #, no-wrap
 msgid "And lastly, we will straighten out some concepts around characters and their mappings that will help prevent unwanted data messes.\n"
-msgstr ""
+msgstr "E por fim, vamos esclarecer alguns conceitos sobre caracteres e seus mapeamentos que ajudarão a evitar confusões de dados indesejadas.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:20
 #, no-wrap
 msgid "First definitions.\n"
-msgstr ""
+msgstr "Primeiras definições.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:22
 #, no-wrap
 msgid "In this section we will look at some of the many different terms and phrases that exist within the world of data and information management. \n"
-msgstr ""
+msgstr "Nesta secção analisaremos alguns dos muitos termos e frases diferentes que existem no mundo da gestão dos dados e da informação. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:24
 #, no-wrap
 msgid "We will be using these throughout the course and it is important that you be familiar with, when and how to use them.\n"
-msgstr ""
+msgstr "Vamos utilizar esses recursos ao longo do curso e é importante que você esteja familiarizado com quando e como usá-los.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:28
 #, no-wrap
 msgid "Let’s focus for a moment on some common words and phrases that contain the word data.\n"
-msgstr ""
+msgstr "Vamos focar por um momento em algumas palavras e frases comuns que contenham a palavra dados.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:32
 #, no-wrap
 msgid "All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  \n"
-msgstr ""
+msgstr "Todas as frases aqui incluem a palavra dados, mas são todas iguais, e, se não, então qual é a diferença?  \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:36
 #, no-wrap
 msgid "So, what is a “Database”?\n"
-msgstr ""
+msgstr "Então, o que é uma \"base de dados\"?\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:38
 #, no-wrap
 msgid "There are many definitions, but what they all have in common is the theme that a database is a structured and organized collection of data and/or information held on a computer.\n"
-msgstr ""
+msgstr "Existem muitas definições, mas o que todas têm em comum é o tema que uma base de dados é uma colecção estruturada e organizada de dados e/ou informações guardadas em um computador.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:40
 #, no-wrap
 msgid "Everything else in the list is just a way to help you achieve this data nirvana! \n"
-msgstr ""
+msgstr "Tudo o resto da lista é apenas uma maneira de ajudá-lo a alcançar este nirvana de dados!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:42
 #, no-wrap
 msgid "Let’s dig a little deeper then into those other terms.\n"
-msgstr ""
+msgstr "Vamos aprofundar um pouco mais o assunto sobre estes outros termos.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:46
 #, no-wrap
 msgid "Let us take a look at the phrase “database language”.\n"
-msgstr ""
+msgstr "Vamos dar uma olhada na frase \"linguagem da base de dados\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:48
 #, no-wrap
 msgid "According to the Oxford English dictionary “language” is the method of human communication, […], consisting of the use of words [or symbols] in a structured and conventional way.\n"
-msgstr ""
+msgstr "De acordo com o dicionário inglês Oxford “linguagem” é o método da comunicação humana. […], consiste na utilização de palavras [ou símbolos] de uma forma estruturada e convencional.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:50
 #, no-wrap
 msgid "For our purposes, database languages and their close allies the array languages are the way by which a human communicates with a computer to manipulate and move around data. \n"
-msgstr ""
+msgstr "Para nossos propósitos, as linguagens de base de dados e linguagens aliadas mais próximas são a forma pela qual um ser humano se comunica com um computador para manipular e circular em torno de dados. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:52
 #, no-wrap
 msgid "Examples that you may have come across are:\n"
-msgstr ""
+msgstr "Os exemplos que você pode ter encontrado são:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:54
 #, no-wrap
 msgid "Java, SPARQL, SQL and Python\n"
-msgstr ""
+msgstr "Java, SPARQL, SQL e Python\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:56
 #, no-wrap
 msgid "They are simply methods used to define and create tables, views and queries and also allow users to access, update, store and move data around.\n"
-msgstr ""
+msgstr "Eles são simplesmente métodos usados para definir e criar tabelas, visualizações e consultas e também permitem aos utilizadores aceder, actualizar, armazenar e mover dados.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:60
 #, no-wrap
 msgid "Now let’s look at the phrase “database program or software”.\n"
-msgstr ""
+msgstr "Agora vamos dar uma olhada na frase \"programa de base de dados ou software\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:62
 #, no-wrap
 msgid "Again going to the Oxford English dictionary a “program/programme” is a set of related measures or activities with a particular long-term aim.\n"
-msgstr ""
+msgstr "Mais uma vez, de acordo com o dicionário inglês Oxford, um \"programa\" é um conjunto de medidas ou actividades relacionadas com uma finalidade de longo prazo.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:64
 #, no-wrap
 msgid "In this context, a “database program or software” combines and presents functions and features for manipulating data, together is a unified interface. \n"
-msgstr ""
+msgstr "Neste contexto, um \"programa de base de dados ou software\" combina e apresenta funções e recursos para a manipulação de dados, sendo uma interface unificada. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:66
 #, no-wrap
 msgid "Examples that you may come across are:\n"
-msgstr ""
+msgstr "Os exemplos que você pode encontrar são:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:68
 #, no-wrap
 msgid "Microsoft Access, FilemakerPro and Oracle\n"
-msgstr ""
+msgstr "Acesso Microsoft, FilemakerPro e Oracle\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:70
 #, no-wrap
 msgid "So, database programs or software are grouped utilities which allow a user, via a database language, to store, manage, query and report data held in the system.\n"
-msgstr ""
+msgstr "Portanto, programas ou softwares de bases de dados são utilitários agrupados que permitem o utilizador, através de uma linguagem de base de dados, armazenar, gerir, consultar e reportar dados presentes no sistema.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:74
 #, no-wrap
 msgid "The last term is “data cleaning tool”.\n"
-msgstr ""
+msgstr "O último termo é \"ferramenta de limpeza de dados\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:76
 #, no-wrap
 msgid "Data cleaning tools are systems whose utilities focus is on the manipulation of data with the aim of increasing fitness for use. \n"
-msgstr ""
+msgstr "Ferramentas de limpeza de dados são sistemas cujos utilitários concentram-se na manipulação de dados com o objectivo de aumentar a capacidade de uso\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:78
 #, no-wrap
 msgid "Examples that you may be familiar or will learn about during the course are:\n"
-msgstr ""
+msgstr "Os exemplos que você pode estar familiarizado ou aprenderá durante o curso são:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:80
 #, no-wrap
 msgid "OpenRefine, MatLab  and spreadsheets\n"
-msgstr ""
+msgstr "OpenRefine, MatLab e folhas de cálculo\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:82
 #, no-wrap
 msgid "A data cleaning tool should assist the user in the discovery and repair of messy data in order to increase quality.\n"
-msgstr ""
+msgstr "A ferramenta de limpeza de dados deve ajudar o utilizador na descoberta e reparação de dados confusos para aumentar a qualidade.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:86
 #, no-wrap
 msgid "Continuing on with some more terms that you should be familiar with we will look at the differences between the terms Field, Label and List.\n"
-msgstr ""
+msgstr "Continuando com mais alguns termos que você deve estar familiarizado, veremos as diferenças entre os termos Campo, Etiqueta e Lista.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:90
 #, no-wrap
 msgid "You will often hear reference made to field or column names and field labels or headings. \n"
-msgstr ""
+msgstr "Muitas vezes você ouvirá referência feita aos nomes de campo ou coluna e as etiquetas ou títulos de campo. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:92
 #, no-wrap
 msgid "Often they will be used interchangeably, however they are different things. \n"
-msgstr ""
+msgstr "Muitas vezes eles serão usados de forma intermutável, porém eles são coisas diferentes\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:94
@@ -7764,41 +7769,45 @@ msgstr ""
 #, no-wrap
 msgid "We often take for granted that there is a whole language associated with biodiversity informatics that is not commonplace and has to be learned. \n"
 "There is no shame in going back to basics and getting to grips with the vocabulary,  grammar and syntax just like with any new language.\n"
-msgstr ""
+msgstr "Muitas vezes não damos valor ao fato de que existe toda uma linguagem associada a Informática para a Biodiversidade, que não é lugar comum e que tem de ser aprendida. \n"
+"Não há vergonha em voltar ao básico e começar a lidar com o vocabulário, gramática e sintaxe como com qualquer outra língua.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:215 scripts/standards.en.txt:294
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
-msgstr ""
+msgstr "Este vídeo faz parte de uma série de apresentações usadas no curso de Mobilização de Dados de Biodiversidade do GBIF.\n"
+"O currículo de mobilização de dados de biodiversidade foi desenvolvido originalmente como parte do Programa de Informação de Biodiversidade para o Desenvolvimento financiado pela União Europeia.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:216 scripts/organizing.en.txt:298
 #: scripts/resourcing.en.txt:220
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada e narrada por Sharon Grant com contribuições adicionais Treinadores BID e BIFA, Mentores e Alunos.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:5
 #, no-wrap
 msgid "In this presentation, we will provide an overview of the importance of documentation as it relates to data management and data publishing.\n"
 "You will learn about data mapping, data relationships and metadata .\n"
-msgstr ""
+msgstr "Nesta apresentação, forneceremos um panorama da importância da documentação no que se refere à gestão de dados e à publicação de dados.\n"
+"Você vai aprender sobre mapeamento de dados, relações e metadados.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:10
 #, no-wrap
 msgid "In the previous Foundations presentations, we looked at the individual elements that make up both your data and the containers that hold it.\n"
 "Now we’ll look at ways to document those data and what you want to do with it.\n"
-msgstr ""
+msgstr "Nas apresentações anteriores das Fundações, analisámos os elementos individuais que compõem os seus dados e seus repositórios. \n"
+"Agora vamos analisar maneiras de documentar esses dados e o que você quer fazer com eles.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:12
 #, no-wrap
 msgid "According to the director Steven Spielberg,\n"
-msgstr ""
+msgstr "De acordo com o diretor Steven Spielberg,\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:16
@@ -7806,34 +7815,39 @@ msgstr ""
 msgid "“People have forgotten how to tell a story.\n"
 "Stories don’t have a middle or an end any more.\n"
 "They usually have a beginning that never stops beginning.”\n"
-msgstr ""
+msgstr "\"As pessoas esqueceram como contar uma história.\n"
+"As histórias não têm mais um meio ou um fim.\n"
+"Normalmente eles têm um começo que nunca para de começar.\"\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:19
 #, no-wrap
 msgid "Documentation is the story of your project or dataset.\n"
 "There should always be a concrete beginning, middle and end.\n"
-msgstr ""
+msgstr "A documentação é a história do seu projecto ou conjunto de dados.\n"
+"Sempre deve haver um começo, meio e fim concreto.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:21
 #, no-wrap
 msgid "In essence you should be able to answer certain questions at specific points:\n"
-msgstr ""
+msgstr "Essencialmente, você deve ser capaz de responder a certas perguntas em pontos específicos:\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:24
 #, no-wrap
 msgid "At the beginning: What did our project aim to do? \n"
 "What was the purpose of creating the dataset?\n"
-msgstr ""
+msgstr "No início: Qual era o objectivo do nosso projeto? \n"
+"Qual era o propósito de criar o conjunto de dados?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:27
 #, no-wrap
 msgid "In the middle:  What did we actually do? \n"
 "What did we achieve? \n"
-msgstr ""
+msgstr "No meio: O que realmente fizemos? \n"
+"O que conseguimos? \n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:31
@@ -7841,13 +7855,15 @@ msgstr ""
 msgid "At the end: What didn’t we achieve? \n"
 "Why? \n"
 "What should happen next?\n"
-msgstr ""
+msgstr "No final: O que não conseguimos? \n"
+"Por que? \n"
+"O que deve acontecer a seguir?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:35
 #, no-wrap
 msgid "In order to document your data and render them as fit for use as possible for yourself and future users, you need to follow these three essential steps :\n"
-msgstr ""
+msgstr "A fim de documentar seus dados e torná-los mais adequados possível para que você ou futuros utilizadores possam utilizá-los, você precisa seguir estes três passos essenciais:\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:39
@@ -7855,43 +7871,45 @@ msgstr ""
 msgid "Mapping your data to existing formats and standards if necessary\n"
 "Planning your data moves\n"
 "Create useful metadata describing your data\n"
-msgstr ""
+msgstr "Mapear seus dados em formatos e padrões existentes, se necessário\n"
+"Planear a movimentação dos seus dados \n"
+"Criar metadados úteis descrevendo seus dados\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:44
 #, no-wrap
 msgid "We will begin by looking at ways to describe your data, then we will show how to map your data from one data structure to another and finally talk about how to record metadata about your data.\n"
-msgstr ""
+msgstr "Vamos começar a procurar maneiras de descrever seus dados, então mostraremos como mapeá-los de uma estrutura de dados para outra e finalmente falaremos sobre como gravar metadados sobre seus dados.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:46
 #, no-wrap
 msgid "First is mapping data.\n"
-msgstr ""
+msgstr "Primeiro é mapeamento dos dados.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:48
 #, no-wrap
 msgid "This is the process that you will use to describe how the attributes in your dataset can be transformed into attributes in a different one.\n"
-msgstr ""
+msgstr "Este é o processo que você usará para descrever como os atributos no seu conjunto de dados podem ser transformados em atributos em um conjunto de dados diferente.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:50
 #, no-wrap
 msgid "Mapping data is the “Process of Identifying the start field(s) within dataset A, and its (their) corresponding field(s) in dataset B.”\n"
-msgstr ""
+msgstr "Mapeamento de dados é o \"Processo de identificação de campo(s) inicial(is) dentro do conjunto de dados A, e seu (s) campo(s) correspondentes em conjunto de dados B.\"\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:52
 #, no-wrap
 msgid "In this example Dataset A has 10 columns.\n"
-msgstr ""
+msgstr "Neste exemplo o conjunto de dados A tem 10 colunas.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:54
 #, no-wrap
 msgid "There are: \n"
-msgstr ""
+msgstr "São estas:\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:62
@@ -7903,19 +7921,24 @@ msgid "some integer fields represented by the purple squares, \n"
 "and some complex fields\n"
 " \n"
 "// Slide 5\n"
-msgstr ""
+msgstr "alguns campos inteiros representados pelos quadrados roxos, \n"
+"alguns campos booleanos representados pelos triângulos vermelhos\n"
+"Alguns campos de data representados por pentágonos azuis \n"
+"Alguns campos de texto, estrelas de 8 pontas verdes\n"
+"e alguns campos complexos\n\n"
+"// Slide 5\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:64
 #, no-wrap
 msgid "Dataset B has a different set of fields, 15 in total.\n"
-msgstr ""
+msgstr "Conjunto de dados B tem um conjunto diferente de campos, 15 no total.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:66
 #, no-wrap
 msgid "What we need to do is identify which fields in Dataset A match which fields in Dataset B\n"
-msgstr ""
+msgstr "O que precisamos fazer é identificar quais campos no conjunto de dados A corresponde aos campos no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:73
@@ -7924,14 +7947,18 @@ msgid "We do that by describing the relationships.\n"
 "For example Dataset A has an ID field and so does Dataset B.\n"
 "We can draw a line directly between the two.\n"
 "This is called a one to one match.\n"
-msgstr ""
+msgstr "Fazemos isso descrevendo as relações.\n"
+"Por exemplo, Conjunto de dados A tem um campo de ID e também há no Conjunto de Dados B.\n"
+"Podemos desenhar uma linha diretamente entre os dois.\n"
+"Isso é chamado de combinação um pra um.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:76
 #, no-wrap
 msgid "Question: Can you see any other one to one matches? \n"
 "Answer: State, Exp?, Pink Elephant!\n"
-msgstr ""
+msgstr "Pergunta: Você consegue ver qualquer outra combinação um pra um? \n"
+"Resposta: Estado, Exp?, Elefante Rosa!\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:80
@@ -7939,7 +7966,9 @@ msgstr ""
 msgid "Another type of relationship is is a one to many.\n"
 "In these cases there is a single field in dataset A that maps to 2 or more fields in Dataset B.\n"
 "Date is an example.\n"
-msgstr ""
+msgstr "Um outro tipo de relação é um tipo para muitos.\n"
+"Nesses casos, há um único campo no conjunto de dados A que mapeia para dois ou mais campos no conjunto de dados B.\n"
+"Data é um exemplo.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:85
@@ -7948,44 +7977,47 @@ msgid "You many also find cases where a more than one field in Dataset A contain
 "Notes fields are often guilty of this.\n"
 " \n"
 "// Slide 7\n"
-msgstr ""
+msgstr "Você também encontra casos onde um campo para muitos de um conjunto de dados A contém dados para mais de um campo no conjunto de dados B.\n"
+"Os campos de notas são frequentemente culpados disso.\n\n"
+"// Slide 7\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:88
 #, no-wrap
 msgid "In fact there are six relationships:\n"
 "Some fields will map one-to-one (1:1), meaning that the original column in dataset A exactly matches another one in dataset B\n"
-msgstr ""
+msgstr "Na verdade, existem seis relações:\n"
+"Alguns campos serão mapeados um para um (1:1), significando que a coluna original no conjunto de dados A coincide exatamente com outra no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:90
 #, no-wrap
 msgid "Some fields will map many-to-one (∞:1), meaning that some columns in dataset A can be merged (or concatenated) to match a single one in dataset B\n"
-msgstr ""
+msgstr "Alguns campos serão mapeados como muitos-para-um (∞:1) que significa que algumas colunas no conjunto de dados A podem ser mescladas (ou concatenadas) para corresponder a uma única no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:92
 #, no-wrap
 msgid "Some fields will map one-to-many (1:∞), meaning that one column in dataset A will have to be split into two or more fields in order to match the fields in dataset B\n"
-msgstr ""
+msgstr "Alguns campos serão mapeados de um para muitos (1:∞), que significa que uma coluna no conjunto de dados A terá que ser dividida em dois ou mais campos a fim de corresponder aos campos no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:94
 #, no-wrap
 msgid "Some fields might not exist yet zero-to-one (0:1), meaning that some information are not present in dataset A and need to be added in a new column to match an existing field in dataset B\n"
-msgstr ""
+msgstr "Alguns campos podem ainda não existir tonando-se zero-para-um (0:1), que significa que algumas informações não estão presentes no conjunto de dados A e precisam ser adicionadas em uma nova coluna para corresponder a um campo existente no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:96
 #, no-wrap
 msgid "Some fields might not have a place to go one-to-zero (1:0), meaning that some information present in dataset A does not match any existing field on dataset B\n"
-msgstr ""
+msgstr "Alguns campos podem não ter um lugar para ir e são chamados um para zero (1:0), que significa que algumas informações presentes no conjunto de dados A não correspondem a nenhum campo existente no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:98
 #, no-wrap
 msgid "Some fields will map many-to-many (∞ : ∞), meaning that information in dataset A is scattered in different fields, which do not match exactly existing ones in dataset B\n"
-msgstr ""
+msgstr "Alguns campos irão mapear muitos-para-muitos (∞ : ∞), o que significa que as informações no conjunto de dados A estão espalhadas em diferentes campos, que não correspondem exatamente aos existentes no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:101 scripts/publishing-concepts.en.txt:113
@@ -7993,13 +8025,14 @@ msgstr ""
 #, no-wrap
 msgid " \n"
 "// Slide 8\n"
-msgstr ""
+msgstr " \n"
+"// Slide 8\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:103
 #, no-wrap
 msgid "Each of the relationship types has its own nuances as to how you are going to have to handle them.\n"
-msgstr ""
+msgstr "Cada um dos tipos de relacionamento tem suas próprias nuances sobre como você vai ter que lidar com eles.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:107
@@ -8007,19 +8040,21 @@ msgstr ""
 msgid "one-to-one (1:1) - Beware your field types. \n"
 "If they are the not the same. \n"
 "You will need to do some manipulation.\n"
-msgstr ""
+msgstr "um-para-um (1:1) - Cuidado com os tipos dos seus campos. \n"
+"Se eles não são os mesmos. \n"
+"Você precisará fazer alguma manipulação.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:109
 #, no-wrap
 msgid "many-to-one (∞:1) - These fields will need to joined together to go into the field.\n"
-msgstr ""
+msgstr "muitos-para-um (∞:1) - Estes campos precisarão serão agregados para formar um campo.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:111
 #, no-wrap
 msgid "one-to-many (1:∞) - These fields will need to be split apart and put in to different fields\n"
-msgstr ""
+msgstr "um-a-muitos (1:∞) - Estes campos precisarão ser separados e colocados em diferentes campos\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:115
