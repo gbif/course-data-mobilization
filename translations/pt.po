@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-10 09:01+0000\n"
-"PO-Revision-Date: 2021-05-10 09:48\n"
+"PO-Revision-Date: 2021-05-10 10:44\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -311,7 +311,7 @@ msgstr "Neste vídeo (05:58), revisará exemplos dos diferentes tipos de aplica�
 #. type: Plain text
 #: foundations.en.adoc:25
 msgid "video::vYfDIgBBKXY[youtube,height=540,width=960,align=center]"
-msgstr ""
+msgstr "video::vYfDIgBBKXY[youtube,height=540,width=960,align=center]"
 
 #. type: Title ====
 #: foundations.en.adoc:26
@@ -7473,13 +7473,13 @@ msgstr "Continuando com mais alguns termos que você deve estar familiarizado, v
 #: scripts/definitions.en.txt:90
 #, no-wrap
 msgid "You will often hear reference made to field or column names and field labels or headings. \n"
-msgstr ""
+msgstr "Muitas vezes você ouvirá referência feita aos nomes de campo ou coluna e as etiquetas ou títulos de campo. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:92
 #, no-wrap
 msgid "Often they will be used interchangeably, however they are different things. \n"
-msgstr ""
+msgstr "Muitas vezes eles serão usados de forma intermutável, porém eles são coisas diferentes\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:94
@@ -7977,44 +7977,47 @@ msgid "You many also find cases where a more than one field in Dataset A contain
 "Notes fields are often guilty of this.\n"
 " \n"
 "// Slide 7\n"
-msgstr ""
+msgstr "Você também encontra casos onde um campo para muitos de um conjunto de dados A contém dados para mais de um campo no conjunto de dados B.\n"
+"Os campos de notas são frequentemente culpados disso.\n\n"
+"// Slide 7\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:88
 #, no-wrap
 msgid "In fact there are six relationships:\n"
 "Some fields will map one-to-one (1:1), meaning that the original column in dataset A exactly matches another one in dataset B\n"
-msgstr ""
+msgstr "Na verdade, existem seis relações:\n"
+"Alguns campos serão mapeados um para um (1:1), significando que a coluna original no conjunto de dados A coincide exatamente com outra no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:90
 #, no-wrap
 msgid "Some fields will map many-to-one (∞:1), meaning that some columns in dataset A can be merged (or concatenated) to match a single one in dataset B\n"
-msgstr ""
+msgstr "Alguns campos serão mapeados como muitos-para-um (∞:1) que significa que algumas colunas no conjunto de dados A podem ser mescladas (ou concatenadas) para corresponder a uma única no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:92
 #, no-wrap
 msgid "Some fields will map one-to-many (1:∞), meaning that one column in dataset A will have to be split into two or more fields in order to match the fields in dataset B\n"
-msgstr ""
+msgstr "Alguns campos serão mapeados de um para muitos (1:∞), que significa que uma coluna no conjunto de dados A terá que ser dividida em dois ou mais campos a fim de corresponder aos campos no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:94
 #, no-wrap
 msgid "Some fields might not exist yet zero-to-one (0:1), meaning that some information are not present in dataset A and need to be added in a new column to match an existing field in dataset B\n"
-msgstr ""
+msgstr "Alguns campos podem ainda não existir tonando-se zero-para-um (0:1), que significa que algumas informações não estão presentes no conjunto de dados A e precisam ser adicionadas em uma nova coluna para corresponder a um campo existente no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:96
 #, no-wrap
 msgid "Some fields might not have a place to go one-to-zero (1:0), meaning that some information present in dataset A does not match any existing field on dataset B\n"
-msgstr ""
+msgstr "Alguns campos podem não ter um lugar para ir e são chamados um para zero (1:0), que significa que algumas informações presentes no conjunto de dados A não correspondem a nenhum campo existente no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:98
 #, no-wrap
 msgid "Some fields will map many-to-many (∞ : ∞), meaning that information in dataset A is scattered in different fields, which do not match exactly existing ones in dataset B\n"
-msgstr ""
+msgstr "Alguns campos irão mapear muitos-para-muitos (∞ : ∞), o que significa que as informações no conjunto de dados A estão espalhadas em diferentes campos, que não correspondem exatamente aos existentes no conjunto de dados B\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:101 scripts/publishing-concepts.en.txt:113
@@ -8022,13 +8025,14 @@ msgstr ""
 #, no-wrap
 msgid " \n"
 "// Slide 8\n"
-msgstr ""
+msgstr " \n"
+"// Slide 8\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:103
 #, no-wrap
 msgid "Each of the relationship types has its own nuances as to how you are going to have to handle them.\n"
-msgstr ""
+msgstr "Cada um dos tipos de relacionamento tem suas próprias nuances sobre como você vai ter que lidar com eles.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:107
@@ -8036,19 +8040,21 @@ msgstr ""
 msgid "one-to-one (1:1) - Beware your field types. \n"
 "If they are the not the same. \n"
 "You will need to do some manipulation.\n"
-msgstr ""
+msgstr "um-para-um (1:1) - Cuidado com os tipos dos seus campos. \n"
+"Se eles não são os mesmos. \n"
+"Você precisará fazer alguma manipulação.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:109
 #, no-wrap
 msgid "many-to-one (∞:1) - These fields will need to joined together to go into the field.\n"
-msgstr ""
+msgstr "muitos-para-um (∞:1) - Estes campos precisarão serão agregados para formar um campo.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:111
 #, no-wrap
 msgid "one-to-many (1:∞) - These fields will need to be split apart and put in to different fields\n"
-msgstr ""
+msgstr "um-a-muitos (1:∞) - Estes campos precisarão ser separados e colocados em diferentes campos\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:115
