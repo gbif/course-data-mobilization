@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-11 09:14+0000\n"
-"PO-Revision-Date: 2021-05-11 10:12\n"
+"POT-Creation-Date: 2021-05-11 10:13+0000\n"
+"PO-Revision-Date: 2021-05-11 10:23\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1461,8 +1461,8 @@ msgstr "Uma vez que as cartas estejam atribuídas, tire fotos/capturas de tela."
 
 #. type: Plain text
 #: planning.en.adoc:85
-msgid "Use the <exercise-sheet, exercise sheet>> to provide your answers."
-msgstr "Use o <exercise-sheet, exercise sheet>> para fornecer suas respostas."
+msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
+msgstr ""
 
 #. type: delimited block *
 #: planning.en.adoc:88
@@ -7616,97 +7616,97 @@ msgstr "Como lembretes os computadores \"vêem\" em binário. Tudo o que você d
 #: scripts/definitions.en.txt:132
 #, no-wrap
 msgid "The computer does not “see” the repertoire of letters and symbols on your keyboard.\n"
-msgstr ""
+msgstr "O computador não \"vê\" o repertório de letras e símbolos no seu teclado.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:134
 #, no-wrap
 msgid "It needs a map to translate the character set that you would write or type, into its binary language and then back again to show it to you on the screen or a printer. \n"
-msgstr ""
+msgstr "O computador precisa de um mapa para traduzir o conjunto de caracteres que você escreveria ou digitaria, para seu idioma binário e depois voltar para mostrá-lo na tela ou em uma impressora. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:136
 #, no-wrap
 msgid "This map is made up of two parts:\n"
-msgstr ""
+msgstr "Este mapa é composto por duas partes:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:138
 #, no-wrap
 msgid "The “coded character set” and \n"
-msgstr ""
+msgstr "O \"conjunto de caracteres codificado\" e \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:140
 #, no-wrap
 msgid "The “character encoding”\n"
-msgstr ""
+msgstr "A \"codificação de caracteres\"\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:142
 #, no-wrap
 msgid "Each symbol or glyph is assigned a numeric value and that number is then converted to binary.\n"
-msgstr ""
+msgstr "A cada símbolo ou glyph é atribuído um valor numérico e, em seguida, esse número é convertido em binário.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:146
 #, no-wrap
 msgid "In this example we see how character encoding is used to map the capital letter A in the western alphabet.\n"
-msgstr ""
+msgstr "Neste exemplo, vemos como a codificação de caracteres é usada para mapear a letra A no alfabeto ocidental.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:148
 #, no-wrap
 msgid "The ASCII value for the capital letter A is the decimal number 65 \n"
-msgstr ""
+msgstr "O valor ASCII para a letra maiúscula A é o número decimal 65 \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:150
 #, no-wrap
 msgid "which in HEXIDECIMAL is 041 \n"
-msgstr ""
+msgstr "que em HEXIDECIMAL é 041 \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:152
 #, no-wrap
 msgid "and in BINARY 01000001\n"
-msgstr ""
+msgstr "e em BINÁRIO 01000001\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:154
 #, no-wrap
 msgid "Try mapping your own name to Binary using the link at the bottom of the screen.\n"
-msgstr ""
+msgstr "Tente mapear seu próprio nome para Binário usando o link na parte inferior da tela.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:158
 #, no-wrap
 msgid "In effect what is happening is that when you type into a keyboard and save a file the software that you are using will select an encoding to save with it. \n"
-msgstr ""
+msgstr "Na prática, o que está a acontecer é que quando você digitar em um teclado e salvar um ficheiro, o software que está usando selecionará uma codificação para salvá-lo\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:160
 #, no-wrap
 msgid "When you open that file again the software needs to know which encoding (map) to use to redisplay the information back to you correctly.\n"
-msgstr ""
+msgstr "Quando você abrir novamente esse ficheiro, o software precisa saber qual codificação (mapa) deve ser usada para exibir novamente as informações de volta para você, correctamente.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:164
 #, no-wrap
 msgid "So why is this important to you as a data custodian?\n"
-msgstr ""
+msgstr "Então, por que isso é importante para você como detentor de dados?\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:166
 #, no-wrap
 msgid "Let’s say that you translate the start of Hamlet’s soliloquy\n"
-msgstr ""
+msgstr "Digamos que você traduza o início da obra de Hamlet\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:168
 #, no-wrap
 msgid " ”To be or not to be, that is the question”\n"
-msgstr ""
+msgstr "\"Ser ou não ser, eis a questão\"\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:170
