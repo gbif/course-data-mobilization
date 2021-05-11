@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-11 09:14+0000\n"
-"PO-Revision-Date: 2021-05-11 10:12\n"
+"POT-Creation-Date: 2021-05-11 10:13+0000\n"
+"PO-Revision-Date: 2021-05-11 10:26\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1407,7 +1407,7 @@ msgstr "Exercice 1a"
 #: planning.en.adoc:70 capture.en.adoc:44 management.en.adoc:26
 #: publishing.en.adoc:43
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
-msgstr "Lire <<scenario,USE CASE I>> (si vous ne l'avez pas déjà)."
+msgstr "Lire <<scénario,Cas d’utilisation I>> (si vous ne l'avez pas déjà)."
 
 #. type: Plain text
 #: planning.en.adoc:74
@@ -1461,8 +1461,8 @@ msgstr "Une fois que les cartes sont disposées, prenez des photos/captures d'é
 
 #. type: Plain text
 #: planning.en.adoc:85
-msgid "Use the <exercise-sheet, exercise sheet>> to provide your answers."
-msgstr "Utilisez <exercise-sheet, le fichier d'exercice>> pour donner vos réponses."
+msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
+msgstr "Utilisez <<feuille-dexercice,le fichier d'exercice>> pour donner vos réponses."
 
 #. type: delimited block *
 #: planning.en.adoc:88
@@ -3685,7 +3685,7 @@ msgstr "L’équipe doit développer un flux de travail durable pour numériser 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:98
 msgid "The <<scenario-4,scenario>> section of this use case includes a brief description of the workflow conceived by the deputy director.  Based on the workflow and the accompanying text complete the following:"
-msgstr "La section <<scenario-4,scenario>> de ce cas d'utilisation comprend une brève description du flux de travail conçu par le directeur adjoint.  Sur la base du flux de travail et du texte d'accompagnement, complétez ce qui suit :"
+msgstr "La section <<scénario-4,scénario>> de ce cas d'utilisation comprend une brève description du flux de travail conçu par le directeur adjoint.  Sur la base du flux de travail et du texte d'accompagnement, complétez ce qui suit :"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:100
