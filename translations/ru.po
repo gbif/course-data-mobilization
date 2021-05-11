@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-11 10:13+0000\n"
-"PO-Revision-Date: 2021-05-11 10:23\n"
+"POT-Creation-Date: 2021-05-11 11:33+0000\n"
+"PO-Revision-Date: 2021-05-11 11:43\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -3436,9 +3436,10 @@ msgid "The original data was in German and, to make it more widely usable when p
 msgstr ""
 
 #. Do not translate this block
+#. The {empty} is to prevent the "2." producing a numbered list.
 #. type: delimited block *
 #: use-case-birds-from-literature.en.adoc:118
-msgid "Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples around Viborg."
+msgid "{empty}2. Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples around Viborg."
 msgstr ""
 
 #. type: delimited block *
@@ -5389,7 +5390,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:6
-msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 11th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
+msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
 msgstr ""
 
 #. type: Title ===
