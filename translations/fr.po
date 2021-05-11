@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-11 10:13+0000\n"
-"PO-Revision-Date: 2021-05-11 10:26\n"
+"POT-Creation-Date: 2021-05-11 10:38+0000\n"
+"PO-Revision-Date: 2021-05-11 10:47\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3718,9 +3718,10 @@ msgid "The original data was in German and, to make it more widely usable when p
 msgstr "Les données originales étaient en allemand et, afin de les rendre plus largement utilisables lors de leur publication en ligne, le responsable du projet souhaite les rendre disponibles en anglais."
 
 #. Do not translate this block
+#. The {space} is to prevent the "2." producing a numbered list.
 #. type: delimited block *
 #: use-case-birds-from-literature.en.adoc:118
-msgid "Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples around Viborg."
+msgid "{space}2. Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples around Viborg."
 msgstr ""
 
 #. type: delimited block *
