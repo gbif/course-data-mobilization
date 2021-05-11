@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-10 19:50+0000\n"
-"PO-Revision-Date: 2021-05-10 21:19\n"
+"POT-Creation-Date: 2021-05-11 09:14+0000\n"
+"PO-Revision-Date: 2021-05-11 09:47\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -279,7 +279,7 @@ msgstr ""
 
 #. type: Plain text
 #: downloads.en.adoc:24
-msgid "link:../videos/Appendix-Data-Papers.zip.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
+msgid "link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -291,7 +291,7 @@ msgstr "Données des exercices"
 #. type: Plain text
 #: downloads.en.adoc:27
 msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
-msgstr "Ce lien:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contient les données des exercices pour les cas pratiques."
+msgstr "Ce lien:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 Mo) contient les données des exercices pour les cas pratiques."
 
 #. type: Title ===
 #: downloads.en.adoc:28
@@ -302,7 +302,7 @@ msgstr "Feuilles d'exercice"
 #. type: Plain text
 #: downloads.en.adoc:30
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
+msgstr "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 Mo) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -1134,7 +1134,7 @@ msgstr "Familiarisez-vous avec le scénario du cas d'utilisation."
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr "Le Cas d'Utilisation I est un cas d'utilisation pratique pour les modules de planification, de saisie de données, de gestion de données et de publication de données. Il est recommandé de télécharger le link:../course-docs/UC1-Herbarium-Exercise_EN.docx[feuille d'exercice,opts=download] (MS Word 345 KB) pour que vous puissiez prendre des notes tout au long des exercices. Une solution suggérée sera fournie en annexe. Le case d'utilisation I n'est pas noté."
+msgstr "Le Cas d'Utilisation I est un cas d'utilisation pratique pour les modules de planification, de saisie de données, de gestion de données et de publication de données. Il est recommandé de télécharger le link:../course-docs/UC1-Herbarium-Exercise_EN.docx[feuille d'exercice,opts=download] (MS Word 345 ko) pour que vous puissiez prendre des notes tout au long des exercices. Une solution suggérée sera fournie en annexe. Le case d'utilisation I n'est pas noté."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1244,22 +1244,22 @@ msgstr "Planification"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:56
 msgid "<<Exercise 1a-c>>"
-msgstr "<<Exercise 1a-c>>"
+msgstr "<<Exercice 1a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:60
 msgid "<<Exercise 2>>"
-msgstr "<<Exercise 2>>"
+msgstr "<<Exercice 2>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:64
 msgid "<<Exercise 3a-c>>"
-msgstr "<<Exercise 3a-c>>"
+msgstr "<<Exercice 3a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:68
 msgid "<<Exercise 4>>"
-msgstr "<<Exercise 4>>"
+msgstr "<<Exercice 4>>"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:69
@@ -1270,7 +1270,7 @@ msgstr "Feuille d'exercice"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
 msgid "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
-msgstr "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 Ko)"
+msgstr "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 ko)"
 
 #. type: Plain text
 #: planning.en.adoc:7
@@ -1741,7 +1741,7 @@ msgstr "Imaginez que vous êtes la personne chargée de transcrire les données 
 #. type: Plain text
 #: capture.en.adoc:51
 msgid "Download link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB).  There are 10 images. Two images per specimen for a total of five specimens.  The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels.  Remember to use both images per record to compile the information."
-msgstr "Télécharger link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB). Il y a 10 images. Deux images par spécimen pour un total de cinq spécimens. Les planches d'herbier sont en espagnol (les données peuvent vous être transmises par divers moyens et dans d'autres langues que la vôtre), mais vous devriez être en mesure de reconnaître les informations comprises sur les étiquettes. N'oubliez pas d'utiliser les deux images par spécimen pour compiler les informations."
+msgstr "Télécharger link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34,4 Mo). Il y a 10 images. Deux images par spécimen pour un total de cinq spécimens. Les planches d'herbier sont en espagnol (les données peuvent vous être transmises par divers moyens et dans d'autres langues que la vôtre), mais vous devriez être en mesure de reconnaître les informations comprises sur les étiquettes. N'oubliez pas d'utiliser les deux images par spécimen pour compiler les informations."
 
 #. type: Plain text
 #: capture.en.adoc:52
@@ -2022,7 +2022,7 @@ msgstr "*Contrôles de validation*\n"
 #. type: Plain text
 #: management.en.adoc:37
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
-msgstr "Dans cet exercice, nous nous concentrerons sur les erreurs techniques et effectuerons un contrôle de validation de base pour identifier les erreurs techniques. Reportez-vous à <<Validation checks>> pour plus d'informations sur les types d'erreurs."
+msgstr "Dans cet exercice, nous nous concentrerons sur les erreurs techniques et effectuerons un contrôle de validation de base pour identifier les erreurs techniques. Reportez-vous à <<Contrôles de validation>> pour plus d'informations sur les types d'erreurs."
 
 #. type: Plain text
 #: management.en.adoc:39
@@ -3259,7 +3259,7 @@ msgstr "Le BIISC prévoit maintenant de rendre accessibles et publiques toutes l
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
 msgid "Download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
-msgstr "Télécharger link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
+msgstr "Télécharger link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 Mo)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
