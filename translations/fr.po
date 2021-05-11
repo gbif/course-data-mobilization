@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 09:14+0000\n"
-"PO-Revision-Date: 2021-05-11 09:47\n"
+"PO-Revision-Date: 2021-05-11 10:12\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -250,22 +250,22 @@ msgstr "Les sous-titres ne sont pas disponibles pour les vidéos téléchargées
 #. type: Plain text
 #: downloads.en.adoc:12
 msgid "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
-msgstr ""
+msgstr "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73,7 Mo)"
 
 #. type: Plain text
 #: downloads.en.adoc:14
 msgid "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
-msgstr ""
+msgstr "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90,2 Mo)"
 
 #. type: Plain text
 #: downloads.en.adoc:16
 msgid "link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
-msgstr ""
+msgstr "link:../videos/Planning.zip[Planning.zip,opts=download] (51,3 Mo)"
 
 #. type: Plain text
 #: downloads.en.adoc:18
 msgid "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
-msgstr ""
+msgstr "link:../videos/Capture.zip[Capture.zip,opts=download] (63,1 Mo)"
 
 #. type: Plain text
 #: downloads.en.adoc:20
@@ -280,7 +280,7 @@ msgstr ""
 #. type: Plain text
 #: downloads.en.adoc:24
 msgid "link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
-msgstr ""
+msgstr "link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97,5 Mo)"
 
 #. type: Title ===
 #: downloads.en.adoc:25
@@ -291,7 +291,7 @@ msgstr "Données des exercices"
 #. type: Plain text
 #: downloads.en.adoc:27
 msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
-msgstr "Ce lien:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 Mo) contient les données des exercices pour les cas pratiques."
+msgstr "Ce lien:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37,7 Mo) contient les données des exercices pour les cas pratiques."
 
 #. type: Title ===
 #: downloads.en.adoc:28
@@ -302,7 +302,7 @@ msgstr "Feuilles d'exercice"
 #. type: Plain text
 #: downloads.en.adoc:30
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 Mo) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
+msgstr "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1,4 Mo) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -330,7 +330,7 @@ msgstr "Définitions"
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr "Dans cette vidéo (12:02), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Definitions.mp4[télécharger^,opts=download] localement. (MP4 - 38.5 Mo)"
+msgstr "Dans cette vidéo (12:02), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Definitions.mp4[télécharger^,opts=download] localement. (MP4 - 38,5 Mo)"
 
 #. type: Title ====
 #: foundations.en.adoc:19
@@ -341,7 +341,7 @@ msgstr "Logiciel"
 #. type: Plain text
 #: foundations.en.adoc:23
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Software.mp4[télécharger^,opts=download] localement. (MP4 - 18.9 Mo)"
+msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Software.mp4[télécharger^,opts=download] localement. (MP4 - 18,9 Mo)"
 
 #. type: Plain text
 #: foundations.en.adoc:25
@@ -357,7 +357,7 @@ msgstr "Structures"
 #. type: Plain text
 #: foundations.en.adoc:30
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr "Dans cette vidéo (13:10), vous passerez en revue les types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données et ce que cela signifie pour l'intégrité et la sécurité de vos données. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Structures.mp4[télécharger^,opts=download] localement. (MP4 - 38.8 Mo)"
+msgstr "Dans cette vidéo (13:10), vous passerez en revue les types de champs et de données qui contiennent des données, les structures qui aident à organiser et à protéger ces données et ce que cela signifie pour l'intégrité et la sécurité de vos données. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Structures.mp4[télécharger^,opts=download] localement. (MP4 - 38,8 Mo)"
 
 #. type: Title ===
 #: foundations.en.adoc:33
@@ -368,7 +368,7 @@ msgstr "Qualité des données"
 #. type: Plain text
 #: foundations.en.adoc:37
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Data_Quality.mp4[télécharger^,opts=download] localement. (MP4 - 44.5 Mo)"
+msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilisée dans ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Data_Quality.mp4[télécharger^,opts=download] localement. (MP4 - 44,5 Mo)"
 
 #. type: Plain text
 #: foundations.en.adoc:44
@@ -532,7 +532,7 @@ msgstr "Documentation"
 #. type: delimited block *
 #: foundations.en.adoc:146
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr "Dans cette vidéo (09:47), nous vous donnerons un aperçu de l'importance de la documentation en ce qui concerne la gestion des données et la publication des données. Vous en apprendrez plus sur le mappage des données, les relations de données et les métadonnées. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Documentation.mp4[télécharger^,opts=download] localement. (MP4 - 29.2 MB)"
+msgstr "Dans cette vidéo (09:47), nous vous donnerons un aperçu de l'importance de la documentation en ce qui concerne la gestion des données et la publication des données. Vous en apprendrez plus sur le mappage des données, les relations de données et les métadonnées. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Documentation.mp4[télécharger^,opts=download] localement. (MP4 - 29,2 Mo)"
 
 #. type: Title ===
 #: foundations.en.adoc:149
@@ -646,7 +646,7 @@ msgstr "Les formateurs , les mentors et les anciens participants au cours de not
 #. type: delimited block *
 #: foundations.en.adoc:196
 msgid "Download link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
-msgstr "Lien de téléchargement link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
+msgstr "Lien de téléchargement link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 ko)"
 
 #. type: delimited block *
 #: foundations.en.adoc:200
@@ -1286,7 +1286,7 @@ msgstr "Ressourcement"
 #. type: Plain text
 #: planning.en.adoc:12
 msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded video, you can link:../videos/Planning_Resourcing.mp4[download^,opts=download] it locally. (MP4 - 25.1 MB)"
-msgstr "Dans cette vidéo (15:09), vous apprendrez comment définir les éléments qui auront un impact sur un projet et examinerez les interactions entre les éléments. Si vous ne pouvez pas regarder la vidéo en ligne sur, vous pouvez la link:../videos/Planning_Resourcing.mp4[télécharger^,opts=download] localement. (MP4 - 25.1 MB)"
+msgstr "Dans cette vidéo (15:09), vous apprendrez comment définir les éléments qui auront un impact sur un projet et examinerez les interactions entre les éléments. Si vous ne pouvez pas regarder la vidéo en ligne sur, vous pouvez la link:../videos/Planning_Resourcing.mp4[télécharger^,opts=download] localement. (MP4 - 25,1 Mo)"
 
 #. type: Title ===
 #: planning.en.adoc:15
@@ -1297,7 +1297,7 @@ msgstr "Organiser"
 #. type: Plain text
 #: planning.en.adoc:19
 msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
-msgstr "Cette vidéo (15:52) se concentre sur les tâches et les moyens de les organiser afin de préparer des plans pratiques réalisables et une documentation claire. Si vous ne pouvez pas regarder la vidéo en ligne sur, vous pouvez la link:../videos/Planning_Organizing.mp4[télécharger^,opts=download] localement. (MP4 - 26.2 Mo)"
+msgstr "Cette vidéo (15:52) se concentre sur les tâches et les moyens de les organiser afin de préparer des plans pratiques réalisables et une documentation claire. Si vous ne pouvez pas regarder la vidéo en ligne sur, vous pouvez la link:../videos/Planning_Organizing.mp4[télécharger^,opts=download] localement. (MP4 - 26,2 Mo)"
 
 #. type: Title ===
 #: planning.en.adoc:22
@@ -1718,7 +1718,7 @@ msgstr "Saisie, traitement et qualité des données"
 #. type: Plain text
 #: capture.en.adoc:35
 msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "Dans cette vidéo (09:11), vous allez explorer les principes de la qualité des données appliqués à la saisie des données, spécifiquement lors de la capture de données à partir des étiquettes de collecte, des cahiers de travail, des feuilles de calcul, etc. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Data_capture_processing_quality.mp4[télécharger^,opts=download] localement. (MP4 - 19 MB)"
+msgstr "Dans cette vidéo (09:11), vous allez explorer les principes de la qualité des données appliqués à la saisie des données, spécifiquement lors de la capture de données à partir des étiquettes de collecte, des cahiers de travail, des feuilles de calcul, etc. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Data_capture_processing_quality.mp4[télécharger^,opts=download] localement. (MP4 - 19 Mo)"
 
 #. type: Title ===
 #: capture.en.adoc:38 use-case-invasive-species.en.adoc:112
@@ -1989,7 +1989,7 @@ msgstr "Outils de gestion des données"
 #. type: Plain text
 #: management.en.adoc:18
 msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Dans cette vidéo (??:??), vous apprendrez une variété d'outils que vous pouvez utiliser pour améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la télécharger localement. (MP4 - ??.?? MB)"
+msgstr "Dans cette vidéo (??:??), vous apprendrez une variété d'outils que vous pouvez utiliser pour améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la télécharger localement. (MP4 - ??,?? Mo)"
 
 #. type: Title ===
 #: management.en.adoc:21
@@ -2027,12 +2027,12 @@ msgstr "Dans cet exercice, nous nous concentrerons sur les erreurs techniques et
 #. type: Plain text
 #: management.en.adoc:39
 msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
-msgstr "Télécharger link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
+msgstr "Télécharger link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207,5 ko)"
 
 #. type: Plain text
 #: management.en.adoc:40
 msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
-msgstr "Importez le fichier CSV dans Excel en utilisant l'assistant Excel. Voir link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) pour les instructions d'importation de votre système d'exploitation (Windows, Mac, Linux)."
+msgstr "Importez le fichier CSV dans Excel en utilisant l'assistant Excel. Voir link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 Mo) pour les instructions d'importation de votre système d'exploitation (Windows, Mac, Linux)."
 
 #. type: Plain text
 #: management.en.adoc:41
@@ -2104,7 +2104,7 @@ msgstr "Erreurs géographiques/coordonnées aberrantes"
 #. type: Plain text
 #: management.en.adoc:63
 msgid "Refer to <<Helpful tools>> in order to complete the exercise.  You are not limited to these tools, you may use any tools you like."
-msgstr "Reportez-vous à <<Helpful tools>> pour terminer l'exercice. Vous n'êtes pas limité à ces outils, vous pouvez utiliser les outils que vous voulez."
+msgstr "Reportez-vous à <<Outils utiles>> pour terminer l'exercice. Vous n'êtes pas limité à ces outils, vous pouvez utiliser les outils que vous voulez."
 
 #. type: Plain text
 #: management.en.adoc:64
@@ -2135,7 +2135,7 @@ msgstr "Exercice 3c"
 #. type: Plain text
 #: management.en.adoc:73
 msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/DataManagement_OpenRefine_narration.mp4[download,opts=download] it locally. (MP4 - 37.1 MB)"
-msgstr "Dans cette vidéo (03:27), vous en apprendrez plus sur https://openrefine.org/[OpenRefine^]. Vous pouvez utiliser OpenRefine pour standardiser et améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/DataManagement_OpenRefine_narration.mp4[télécharger^,opts=download] localement. (MP4 - 37.1 MB)"
+msgstr "Dans cette vidéo (03:27), vous en apprendrez plus sur https://openrefine.org/[OpenRefine^]. Vous pouvez utiliser OpenRefine pour standardiser et améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/DataManagement_OpenRefine_narration.mp4[télécharger^,opts=download] localement. (MP4 - 37,1 Mo)"
 
 #. type: Plain text
 #: management.en.adoc:77
@@ -2151,12 +2151,12 @@ msgstr "Dans cet exercice, nous utilisons OpenRefine pour améliorer la qualité
 #. type: Plain text
 #: management.en.adoc:81
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
-msgstr "Lien de téléchargement link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 Ko)"
+msgstr "Lien de téléchargement link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207,5 ko)"
 
 #. type: Plain text
 #: management.en.adoc:83
 msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)  Also available in link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download]."
-msgstr "Téléchargez et complétez les exercices suivants link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1,1 MB) Aussi disponibles en link:../course-docs/OpenRefine-Exercise3c-FR.pdf[Français,opts=download] et link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Espagnol,opts=download]."
+msgstr "Téléchargez et complétez les exercices suivants link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1,1 Mo) Aussi disponibles en link:../course-docs/OpenRefine-Exercise3c-FR.pdf[Français,opts=download] et link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Espagnol,opts=download]."
 
 #. type: Title ===
 #: management.en.adoc:85
@@ -2459,7 +2459,7 @@ msgstr "Présentation générale de l'IPT"
 #. type: Plain text
 #: publishing.en.adoc:18
 msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Dans cette vidéo (??:??), vous aurez un aperçu de l'interface de publication des données de l'IPT. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la télécharger sur votre ordinateur. (MP4 - ??.?? MB)"
+msgstr "Dans cette vidéo (??:??), vous aurez un aperçu de l'interface de publication des données de l'IPT. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la télécharger sur votre ordinateur. (MP4 - ??,?? Mo)"
 
 #. type: Title ====
 #: publishing.en.adoc:21
@@ -2496,7 +2496,7 @@ msgstr "Démonstration de l'IPT"
 #. type: Plain text
 #: publishing.en.adoc:35
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr "Dans cette vidéo (24:16), vous allez apprendre comment publier un jeu de donnée en utilisant un IPT. Si vous ne parvenez pas à regarder la vidéo intégrée Vimeo, vous pouvez link:../videos/IPT_demo.mp4[la télécharger^,opts=download] localement. (MP4 - 52.6 Mo)"
+msgstr "Dans cette vidéo (24:16), vous allez apprendre comment publier un jeu de donnée en utilisant un IPT. Si vous ne parvenez pas à regarder la vidéo intégrée Vimeo, vous pouvez link:../videos/IPT_demo.mp4[la télécharger^,opts=download] localement. (MP4 - 52,6 Mo)"
 
 #. type: Title ===
 #: publishing.en.adoc:38 use-case-invasive-species.en.adoc:137
@@ -2528,12 +2528,12 @@ msgstr "Après le nettoyage des données dans le jeu de données des Poales, l'�
 #. type: Plain text
 #: publishing.en.adoc:50
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
-msgstr "À ce stade, vous avez besoin d'un compte sur l'un des <<Training IPT installations,course IPTs>>. Si vous n'avez pas encore reçu de login, veuillez contacter training@gbif.org et vous recevrez un login et un mot de passe sur l'un des IPTs du cours."
+msgstr "À ce stade, vous avez besoin d'un compte sur l'un des <<Installations IPT pour la formation,course IPTs>>. Si vous n'avez pas encore reçu de login, veuillez contacter training@gbif.org et vous recevrez un login et un mot de passe sur l'un des IPTs du cours."
 
 #. type: Plain text
 #: publishing.en.adoc:51
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
-msgstr "Télécharger link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
+msgstr "Télécharger link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233,5 ko)"
 
 #. type: Plain text
 #: publishing.en.adoc:52
@@ -3092,7 +3092,7 @@ msgstr "Feuille d'exercice des espèces envahissantes"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
 msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC2-IS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC2-IS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 ko)"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:64
@@ -3259,7 +3259,7 @@ msgstr "Le BIISC prévoit maintenant de rendre accessibles et publiques toutes l
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
 msgid "Download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
-msgstr "Télécharger link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 Mo)"
+msgstr "Télécharger link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7,1 Mo)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
@@ -3291,7 +3291,7 @@ msgstr "Au cours de l’été, les stagiaires du bureau principal du HISC ont cr
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:133
 msgid "Download link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
-msgstr "Télécharger link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 Ko)"
+msgstr "Télécharger link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 ko)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:134
@@ -3312,7 +3312,7 @@ msgstr "Le HISC est maintenant prêt à publier les données de la liste de réf
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:146
 msgid "Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
-msgstr "Lien de téléchargement link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
+msgstr "Lien de téléchargement link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 ko)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
@@ -3435,7 +3435,7 @@ msgstr "Feuille d'exercice Lepidoptera"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC2-LS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC2-LS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 ko)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:110
@@ -3450,7 +3450,7 @@ msgstr "Imaginez que vous êtes un des bénévoles à numériser les archives pa
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:131
 msgid "Download logs 1 and 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
-msgstr "Télécharger les journaux 1 et 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
+msgstr "Télécharger les journaux 1 et 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 ko)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:132
@@ -3470,7 +3470,7 @@ msgstr "En assumant le rôle de l'un des bénévoles possédant des compétences
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:144
 msgid "Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
-msgstr "Télécharger link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
+msgstr "Télécharger link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 ko)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:146
@@ -3485,7 +3485,7 @@ msgstr "Pour cet exercice, vous prendrez le rôle de l’expert taxonomique qui 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:157
 msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
-msgstr "Télécharger link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
+msgstr "Télécharger link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 ko)"
 
 #. type: Title ==
 #: use-case-birds-from-literature.en.adoc:3
@@ -3675,7 +3675,7 @@ msgstr "Feuille d'exercices sur les oiseaux de la littérature"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_EN.docx[fiche exercices,opts=download]. (MS Word, 342 Ko)"
+msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_EN.docx[fiche exercices,opts=download]. (MS Word, 342 ko)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
@@ -3772,7 +3772,7 @@ msgstr "Grâce au géoréférencement rétrospectif, des coordonnées ont été 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
 msgid "Download link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
-msgstr "Télécharger link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
+msgstr "Télécharger link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 ko)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
@@ -3812,7 +3812,7 @@ msgstr "Pour cet exercice, vous assumerez le rôle de la personne responsable de
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:171
 msgid "Download link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
-msgstr "Télécharger link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
+msgstr "Télécharger link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 ko)"
 
 #. type: Title ==
 #: assignments.en.adoc:1
@@ -3834,7 +3834,7 @@ msgstr "CAS PRATIQUE II"
 #. type: Plain text
 #: assignments.en.adoc:9
 msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
-msgstr "Il y a deux options pour le CAS PRATIQUE II (<<use-case-ii-invasive-species,Invasive species>> OU <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>). Vous n'avez qu'à sélectionner l'un d'eux pour votre travail."
+msgstr "Il y a deux options pour le CAS PRATIQUE II (<<caisse-dutilisation-ii-espèces-envahissantes,Invasive species>> OU <<cas-dutilisation-ii-observations-de-lépidoptères,Lepidoptera sightings>>). Vous n'avez qu'à sélectionner l'un d'eux pour votre travail."
 
 #. type: Plain text
 #: assignments.en.adoc:11 assignments.en.adoc:20
@@ -3865,7 +3865,7 @@ msgstr "CAS PRATIQUE III"
 #. type: Plain text
 #: assignments.en.adoc:18
 msgid "There is only one option for USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
-msgstr "Il n'y a qu'une seule option pour Le cas d’utilisation III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
+msgstr "Il n'y a qu'une seule option pour Le cas d’utilisation III (<<cas-pratique-iii-oiseaux-de-la-littérature,Birds from literature>>)."
 
 #. type: Plain text
 #: assignments.en.adoc:26
@@ -4598,7 +4598,7 @@ msgstr "Annexe : Articles sur les données (data papers)"
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr "Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans un journal révisé par les pairs. Cela demande des efforts pour préparer, curer et de décrire les données. Toutefois, nous ne couvrons pas la manière de créer des data papers dans ce cours, comme activité optionnelle, vous pouvez regarder cette vidéo (51:51) présentée par Lizanne Roxburgh. Dans cette vidéo, vous en apprendrez plus sur la publication de data papers. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Webinar_data_papers.mp4[télécharger,opts=download] localement (MP4 - 99.2 MB)"
+msgstr "Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans un journal révisé par les pairs. Cela demande des efforts pour préparer, curer et de décrire les données. Toutefois, nous ne couvrons pas la manière de créer des data papers dans ce cours, comme activité optionnelle, vous pouvez regarder cette vidéo (51:51) présentée par Lizanne Roxburgh. Dans cette vidéo, vous en apprendrez plus sur la publication de data papers. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Webinar_data_papers.mp4[télécharger,opts=download] localement (MP4 - 99,2 Mo)"
 
 #. type: Plain text
 #: data-papers.en.adoc:16
@@ -5271,7 +5271,7 @@ msgstr "Des outils en ligne tels que la Scientific Names Resolver ou Google Maps
 #. type: Plain text
 #: solutions.en.adoc:247
 msgid "All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful tools>> listed in the data management section."
-msgstr "Tous types d'outils peuvent être utilisés pour nettoyer vos données, mais vous devez identifier ceux qui répondront à vos besoins en termes de réconciliation taxonomique, de géo-référencement, de suppression des doublons, etc. Vous pouvez trouver <<la liste des outils utiles>> dans la section dédiée à la gestion des données."
+msgstr "Tous types d'outils peuvent être utilisés pour nettoyer vos données, mais vous devez identifier ceux qui répondront à vos besoins en termes de réconciliation taxonomique, de géo-référencement, de suppression des doublons, etc. Vous pouvez trouver <<Outils utiles,la liste des outils utiles>> dans la section dédiée à la gestion des données."
 
 #. type: Title ===
 #: solutions.en.adoc:248
@@ -5398,7 +5398,7 @@ msgstr "Solution suggérée pour le cas d’utilisation I"
 #. type: Plain text
 #: solutions.en.adoc:296
 msgid "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested solution^,opts=download] (PDF 144 KB)"
-msgstr "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[solution suggérée^,opts=download] (PDF 144 KB)"
+msgstr "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[solution suggérée^,opts=download] (PDF 144 ko)"
 
 #. type: Title ==
 #: acknowledgements.en.adoc:2
