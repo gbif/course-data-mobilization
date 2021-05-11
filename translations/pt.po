@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-11 20:22\n"
+"PO-Revision-Date: 2021-05-11 21:22\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -7763,43 +7763,43 @@ msgstr "Dependendo do software, os dados podem estar irremediavelmente corrompid
 #: scripts/definitions.en.txt:191
 #, no-wrap
 msgid "In review we have looked at the differences between the phrases:\n"
-msgstr ""
+msgstr "Em revisão, analisamos as diferenças entre as frases:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:193
 #, no-wrap
 msgid "Database; database language; database program, data-cleaning tool;\n"
-msgstr ""
+msgstr "Base de dados; linguagem da base de dados; programa de base de dados, ferramenta de limpeza de dados;\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:195
 #, no-wrap
 msgid "Field names & Field labels; Drop-down lists & Controlled vocabularies and between\n"
-msgstr ""
+msgstr "Nomes de campo & etiquetas de campo; Listas de selecção e vocabulários controlados e entre\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:197
 #, no-wrap
 msgid "Repertoires, Coded sets & Encodings \n"
-msgstr ""
+msgstr "Repositórios, conjuntos codificados (Coded sets) e codificações (Encodings) \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:199
 #, no-wrap
 msgid "And shown that although the terms may seem similar the in fact have very different definitions.\n"
-msgstr ""
+msgstr "E mostrou que embora os termos possam parecer semelhantes, na verdade têm definições muito diferentes.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:203
 #, no-wrap
 msgid "Remember that:\n"
-msgstr ""
+msgstr "Lembre-se que:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:205
 #, no-wrap
 msgid "“..The first step in wisdom is to know the things themselves; this notion consists in having a true idea of the objects.” \n"
-msgstr ""
+msgstr "\"..O primeiro passo na sabedoria é saber as próprias coisas; esse conceito consiste em ter uma verdadeira ideia dos objetos \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:208
@@ -8099,7 +8099,9 @@ msgstr "um-a-muitos (1:∞) - Estes campos precisarão ser separados e colocados
 msgid "zero-to-one (0:1) - Work out how (or if) you can even fill these in.\n"
 "Is the data mixed into a notes field? \n"
 "If so how do you get it out?\n"
-msgstr ""
+msgstr "zero-para-um (0:1) - Descubra como (ou se) pode inclusivamente preenchê-los.\n"
+"Os dados estão misturados num campo de notas? \n"
+"Se for o caso, como vai extraí-los?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:119
@@ -8107,84 +8109,91 @@ msgstr ""
 msgid "one-to-zero (1:0) - Either throw away the data or add a field.\n"
 "You might not even have a home in the other dataset.\n"
 "Do/Can you create a new field?\n"
-msgstr ""
+msgstr "um-para-zero (1:0) - Descarte os dados ou adicione um campo.\n"
+"Pode nem ter um campo no outro conjunto de dados.\n"
+"Pode/Faz criar um novo campo?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:122
 #, no-wrap
 msgid "many-to-many (∞ : ∞) -  “for the love of a higher being!” \n"
 "This usually means that your incoming data is very messy and will take time to clean before you can map it.\n"
-msgstr ""
+msgstr "muitos-para-muitos (∞ : ∞) - \"pelo amor de um ser superior! \n"
+"Isso normalmente significa que os seus dados inseridos são muito confusos e levarão tempo a serem limpos antes que possa mapeá-los.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:124
 #, no-wrap
 msgid "// Slide 9 \n"
-msgstr ""
+msgstr "// Slide 9 \n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:127
 #, no-wrap
 msgid "This is an example of what a mapping document looks like.\n"
 "Notice that not only do we document the relationships we also articulate (to the best of our knowledge) what should be done to the data.\n"
-msgstr ""
+msgstr "Este é um exemplo do que um documento de mapeamento parece.\n"
+"Note que não só documentamos as relações mas também articulamos (o melhor que sabemos fazer) o que deve ser feito com os dados.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:133
 #, no-wrap
 msgid "We’ve talked a lot about documenting the structures that hold your data but you must also document the information that gives context.\n"
 "This is called metadata and is data about your data!\n"
-msgstr ""
+msgstr "Falamos muito sobre a documentação das estruturas que contêm os seus dados, mas também deve documentar as informações que dão contexto.\n"
+"Isto é chamado de metadados e é um dado sobre os seus dados!\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:135
 #, no-wrap
 msgid "As we mention in the section on data quality your ”Metadata must be rich enough to allow data (re)use by a third party without them having to refer to the data source.”\n"
-msgstr ""
+msgstr "Como mencionamos na seção sobre a qualidade de dados, os seus \"Metadados devem ser ricos o suficiente para permitir o (re)uso de dados por terceiros, sem que eles tenham que se referir à fonte de dados\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:139
 #, no-wrap
 msgid "We will discuss this in more detail in later sessions but as a quick guide good documentation should include:\n"
-msgstr ""
+msgstr "Vamos discutir isso com mais detalhes em sessões posteriores, mas como uma boa documentação de guia rápido deve incluir:\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:141
 #, no-wrap
 msgid "A title – Which should be descriptive, memorable and if possible unique.\n"
-msgstr ""
+msgstr "Um título – O que deve ser descritivo, memorável e, se possível, exclusivo.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:143
 #, no-wrap
 msgid "Dates are good to include in a dataset name for example to allow you to track versions.\n"
-msgstr ""
+msgstr "As datas são boas para incluir num nome de conjunto de dados, por exemplo, para permitir acompanhar as versões.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:146
 #, no-wrap
 msgid "A narrative – Should describe the rationale for the creation of the dataset.\n"
 "It should include at least general information about spatial, temporal and taxonomic coverage and give the potential user a broad picture of uses that may be appropriate for the data without further transformation.\n"
-msgstr ""
+msgstr "Uma narrativa – Deve descrever a lógica para a criação do conjunto de dados.\n"
+"Deve incluir pelo menos informações gerais sobre o espaço, cobertura temporal e taxonómica e dar ao potencial utilizador uma imagem ampla de usos que podem ser adequados para os dados sem mais transformação.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:148
 #, no-wrap
 msgid "Source information – If you did not collect or measure the data yourself, where or who did you get if from?\n"
-msgstr ""
+msgstr "Informações da fonte – se não colheu ou mediu os dados você mesmo, de onde ou de quem os recebeu?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:151
 #, no-wrap
 msgid "Lineage – Does the dataset have a history? \n"
 "Have any of the fields been transformed in any way from the original?\n"
-msgstr ""
+msgstr "Herança – O conjunto de dados tem um histórico? \n"
+"Algum dos campos foi transformado de alguma forma a partir do original?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:153
 #, no-wrap
 msgid "Statement of accuracy – Using the concepts of accuracy, precision, errors and uncertainty that we discussed previously, are there any issues with the dataset that should be known to a user?\n"
-msgstr ""
+msgstr "Declaração da exatidão – Usando os conceitos de exatidão, precisão, erros e incerteza que discutimos anteriormente, há algum problema com o conjunto de dados que deve ser conhecido por um utilizador?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:157
@@ -8192,7 +8201,9 @@ msgstr ""
 msgid "Dates and life expectancy – When will the dataset be available? \n"
 "How long is it valid for? \n"
 "When if ever will it be updated?\n"
-msgstr ""
+msgstr "Datas e esperança de vida – Quando o conjunto de dados estará disponível? \n"
+"Por quanto tempo ele é válido? \n"
+"Quando é que ele vai ser atualizado?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:161
@@ -8200,40 +8211,45 @@ msgstr ""
 msgid "Field Definitions – Describing the format of fields and what kind of data each contains.\n"
 "Was any cleaning or transformation down to the original data? \n"
 "This is important for you to know if you are mapping it to a standard such as Darwin Core.\n"
-msgstr ""
+msgstr "Definições de Campo – Descrevendo o formato dos campos e que tipo de dados cada um contém.\n"
+"Foi feita uma limpeza ou transformação dos dados originais? \n"
+"Isso é importante saber se for mapeandá-los a um padrão como o Darwin Core.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:164
 #, no-wrap
 msgid "Collection methodology – How was the data collected? \n"
 "Where there protocols used which will affect its fitness for use?\n"
-msgstr ""
+msgstr "Metodologia de colheita – Como foram colhidos os dados? \n"
+"Onde há protocolos usados que afetarão a aptidão dos dados para o uso?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:166
 #, no-wrap
 msgid "Statement of completeness – What is missing from the data and why?\n"
-msgstr ""
+msgstr "Declaração sobre a completude – O que está em falta nos dados e porquê?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:169
 #, no-wrap
 msgid "Conditions of use and constraints – Where and how can you use the data? \n"
 "For most portals and GBIF in particular data must use very open licensing, so understanding the requirements of data owners and their institutions is very important.\n"
-msgstr ""
+msgstr "Condições de uso e restrições – Onde e como pode usar os dados? \n"
+"Para a maioria dos portais e do GBIF em particular, os dados devem usar uma licença muito aberta, Assim, é muito importante compreender os requisitos dos proprietários de dados e das suas instituições.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:172
 #, no-wrap
 msgid "Custodianship/Contact information  – This should be the institution responsible for the dataset as presented to you, as well as (if possible) the individual who created the dataset.\n"
 "There should also be a technical contact who is responsible for the publication of the dataset.\n"
-msgstr ""
+msgstr "Informação da custódia/contacto – Esta deve ser a instituição responsável pelo conjunto de dados conforme lhes são apresentado, assim como (se possível) o indivíduo que criou o conjunto de dados.\n"
+"Também deve haver um contato técnico que seja responsável pela publicação do conjunto de dados.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:180
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant and has been narrated by Sophie Pamerlon.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Sharon Grant e foi narrada por Sophie Pamerlon.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:6
@@ -8241,58 +8257,63 @@ msgstr ""
 msgid "This session is part of the planning section. \n"
 "We will be introducing some concepts and methodologies that will help you to focus on the organization of your mobilization project at a number of levels. \n"
 "The focus in this session will be on tasks and the ways in which they can be organized in order to prepare practical, workable plans and clear documentation. \n"
-msgstr ""
+msgstr "Esta sessão faz parte da seção de planeamento. \n"
+"Introduziremos alguns conceitos e metodologias que o ajudarão a concentrar-se na organização do seu projeto de mobilização em vários níveis. \n"
+"O objectivo nesta sessão será nas tarefas e nas formas como elas podem ser organizadas a fim de preparar o sistema prático, planos exequíveis e documentação clara. \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:11
 #, no-wrap
 msgid "The successful implementation of your project is dependent in large part on the development of realistic, efficient and streamlined processes and documentation\n"
 "This, combined with constant assessment of changes to the landscape within which your project exists, will increase drastically the likelihood of success.\n"
-msgstr ""
+msgstr "A implementação bem-sucedida do seu projeto depende, em grande parte, do desenvolvimento de processos e documentação realistas, eficientes e simplificados\n"
+"Isto, combinada com uma avaliação constante das mudanças no cenário em que o seu projeto existe, aumentará drasticamente a probabilidade de sucesso.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:14
 #, no-wrap
 msgid "In this section we will look at three methodologies for clustering the timing and ordering of the tasks and components identified as critical to the goals of the project\n"
 "We will then see how good planning is supported by continuous documentation.\n"
-msgstr ""
+msgstr "Nesta seção, analisaremos três metodologias para agrupar o cronograma e ordenar as tarefas e componentes identificados como críticos para os objetivos do projeto\n"
+"Então veremos como um bom planeamento é suportado pela documentação contínua.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:19
 #, no-wrap
 msgid "Let’s take a quick look at the definition of the noun cluster.\n"
 "It is defined as “A group of similar things or people positioned or occurring closely together”. \n"
-msgstr ""
+msgstr "Vamos dar uma olhada rápida na definição do nome \"cluster\".\n"
+"É definido como \"Um grupo de coisas ou pessoas similares posicionadas ou ocorrendo juntas perto\". \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:21
 #, no-wrap
 msgid "The three important parts of the definition for us:\n"
-msgstr ""
+msgstr "As três partes importantes da definição para nós:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:23
 #, no-wrap
 msgid "Groups\n"
-msgstr ""
+msgstr "Grupos\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:25
 #, no-wrap
 msgid "Similarity\n"
-msgstr ""
+msgstr "Similaridade\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:27
 #, no-wrap
 msgid "Things\n"
-msgstr ""
+msgstr "Coisas\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:29
 #, no-wrap
 msgid "What we will see is that in order to successfully achieve your mobilization goals, you need to be able to identify groups and arrangements of similar tasks, cluster them together and then string those clusters together in a logical flow. \n"
-msgstr ""
+msgstr "O que iremos ver é que, a fim de alcançar com êxito os seus objectivos de mobilização, você precisa ser capaz de identificar grupos e acordos de tarefas similares, agrupe-os e então junte esses agrupamentos num fluxo lógico. \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:31
