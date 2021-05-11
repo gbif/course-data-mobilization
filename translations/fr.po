@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-11 10:38+0000\n"
-"PO-Revision-Date: 2021-05-11 10:47\n"
+"POT-Creation-Date: 2021-05-11 11:33+0000\n"
+"PO-Revision-Date: 2021-05-11 11:42\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -36,7 +36,7 @@ msgstr "languageLinks:combined[]"
 #: index.en.adoc:22
 #, no-wrap
 msgid "_Zonocerus elegans_ (Thunberg, 1815) observed in Zimbabwe by nickypegg (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr "Zonocerus elegans_ (Thunberg, 1815) obervé au Zimbawe par nickypegg (sous licence http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
+msgstr "_Zonocerus elegans_ (Thunberg, 1815) obervé au Zimbawe par nickypegg (sous licence http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: index.en.adoc:23
@@ -291,7 +291,7 @@ msgstr "Données des exercices"
 #. type: Plain text
 #: downloads.en.adoc:27
 msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
-msgstr "Ce lien:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37,7 Mo) contient les données des exercices pour les cas pratiques."
+msgstr "Ce link:../exercise-data/UseCaseExerciseData.zip[fichier compressé,opts=download] (ZIP 37,7 Mo) contient les données des exercices pour les cas pratiques."
 
 #. type: Title ===
 #: downloads.en.adoc:28
@@ -302,7 +302,7 @@ msgstr "Feuilles d'exercice"
 #. type: Plain text
 #: downloads.en.adoc:30
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1,4 Mo) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
+msgstr "Ce link:../course-docs/ExerciseSheets.zip[fichier compressé,opts=download] (ZIP 1,4 Mo) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -3718,10 +3718,10 @@ msgid "The original data was in German and, to make it more widely usable when p
 msgstr "Les données originales étaient en allemand et, afin de les rendre plus largement utilisables lors de leur publication en ligne, le responsable du projet souhaite les rendre disponibles en anglais."
 
 #. Do not translate this block
-#. The {space} is to prevent the "2." producing a numbered list.
+#. The {empty} is to prevent the "2." producing a numbered list.
 #. type: delimited block *
 #: use-case-birds-from-literature.en.adoc:118
-msgid "{space}2. Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples around Viborg."
+msgid "{empty}2. Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples around Viborg."
 msgstr ""
 
 #. type: delimited block *
@@ -4717,7 +4717,7 @@ msgstr "OpenRefine + *nettoyage des données*"
 #: solutions.en.adoc:36
 #, no-wrap
 msgid "*For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)*\n"
-msgstr "*Pour l'exemple donné, entrez le type de données correct (binaire, booléen, flottant, entier, entier long, texte, texte non structuré)\n"
+msgstr "*Pour l'exemple donné, entrez le type de données correct (binaire, booléen, flottant, entier, entier long, texte, texte non structuré)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:39
@@ -5674,8 +5674,8 @@ msgstr "Suggestion de citation"
 
 #. type: Plain text
 #: colophon.en.adoc:6
-msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 11th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
-msgstr "GBIF Secretariat (2021) Cours de mobilisation des données sur la biodiversité du GBIF. 11è édition. Secrétariat du GBIF: Copenhague. https://doi.org/10.35035/ce-c6cr-6w42. [Date du cours.]"
+msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
+msgstr "GBIF Secretariat (2021) Cours de mobilisation des données sur la biodiversité du GBIF. 12è édition. Secrétariat du GBIF: Copenhague. https://doi.org/10.35035/ce-c6cr-6w42. [Date du cours.]"
 
 #. type: Title ===
 #: colophon.en.adoc:7
