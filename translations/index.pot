@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-11 10:13+0000\n"
+"POT-Creation-Date: 2021-05-11 10:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4686,11 +4686,12 @@ msgid ""
 msgstr ""
 
 #. Do not translate this block
+#. The {space} is to prevent the "2." producing a numbered list.
 #. type: delimited block *
 #: use-case-birds-from-literature.en.adoc:118
 msgid ""
-"Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several steeples "
-"around Viborg."
+"{space}2. Cerchneis tinnunculus, Linn. ( \"Taarnfalk\") nests in several "
+"steeples around Viborg."
 msgstr ""
 
 #. type: delimited block *
