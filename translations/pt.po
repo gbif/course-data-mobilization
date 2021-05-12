@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-11 22:38\n"
+"PO-Revision-Date: 2021-05-12 10:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -8392,89 +8392,94 @@ msgstr "O próximo conjunto de agrupamentos é PMBoK.\n"
 #, no-wrap
 msgid "It is overseen by the Project Management Institute (PMI), which is a global not-for-profit member association of Project Managers.\n"
 "The first edition of the PMBOK Guide was published in 1996 and it is now on its fifth edition, which was published in 2013\n"
-msgstr ""
+msgstr "É supervisionado pelo Instituto de Gestão de Projetos (PMI), que é uma associação global de gestão de projetos sem fins lucrativos.\n"
+"A primeira edição do Guia PMBOK foi publicada em 1996 e está agora em sua quinta edição, que foi publicada em 2013\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:66
 #, no-wrap
 msgid "As a very high level synopsis, the methodology uses iterative and repeatable groupings to cluster tasks together\n"
-msgstr ""
+msgstr "Como uma sinopse de alto nível, a metodologia usa agrupamentos iterativos e replicáveis para agrupar tarefas em conjunto\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:69
 #, no-wrap
 msgid "The stages are:\n"
-msgstr ""
+msgstr "Os estágios são:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:71
 #, no-wrap
 msgid "INITIATING\n"
-msgstr ""
+msgstr "INÍCIO\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:73
 #, no-wrap
 msgid "PLANNING\n"
-msgstr ""
+msgstr "PLANEAMENTO\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:75
 #, no-wrap
 msgid "EXECUTING\n"
-msgstr ""
+msgstr "EXECUÇÃO\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:77
 #, no-wrap
 msgid "MONITORING and\n"
-msgstr ""
+msgstr "MONITORIZAÇÃO e\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:79
 #, no-wrap
 msgid "CLOSING\n"
-msgstr ""
+msgstr "ENCERRAMENTO\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:84
 #, no-wrap
 msgid "Tasks carried out during the initiating phase should define the new project or the part of the project being tracked.\n"
 "For example obtaining collection permits or MOUs before going into the field to collect.\n"
-msgstr ""
+msgstr "As tarefas realizadas durante a fase do início devem definir o novo projecto ou a parte do projecto que está a ser rastreado.\n"
+"Por exemplo, obter licenças de coleta ou MOUs antes de entrar no campo para amostrar.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:89
 #, no-wrap
 msgid "Tasks carried out during the planning phase are required to establish the scope of the project.\n"
 "For example assessing the physical state of a collection before pulling specimens for imaging.\n"
-msgstr ""
+msgstr "As tarefas realizadas durante a fase de planeamento são necessárias para estabelecer o âmbito do projecto.\n"
+"Por exemplo, avaliar o estado físico de uma colecção antes de puxar espécimes para imagens.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:94
 #, no-wrap
 msgid "Tasks carried out during the executing phase are those that accomplish the project’s stated deliverables.\n"
 "For example the transcription of label data.\n"
-msgstr ""
+msgstr "As tarefas realizadas durante a fase de execução são aquelas que possibilitam os produtos indicadas pelo projecto.\n"
+"Por exemplo, a transcrição dos dados de etiqueta.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:99
 #, no-wrap
 msgid "The monitoring phase is an overarching and overlapping phase.\n"
 "The tasks assigned to it serve the function of watchdog over the planning and executing phases, ensuring that performance is on track.\n"
-msgstr ""
+msgstr "A fase de monitorização é uma fase transversal e sobreposta.\n"
+"As tarefas atribuídas a ele servem a função de vigia sobre as fases de planeamento e execução, garantindo que a performance esteja no caminho.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:103
 #, no-wrap
 msgid "Tasks in the closing phase indicate that goals and milestones have been achieved and the project (or part of the project in question) have finished.\n"
-msgstr ""
+msgstr "As tarefas na fase de encerramento indicam que os objeCtivos e marcos foram alcançados e o projecto (ou parte do projecto em questão) terminaram.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:107
 #, no-wrap
 msgid "This diagram shows the continuous flow and cyclical nature of the five PMBoK phases.\n"
-msgstr ""
+msgstr "Este diagrama mostra o fluxo contínuo e o carácter cíclico das cinco fases da PMBoK.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:113
@@ -8482,37 +8487,39 @@ msgstr ""
 msgid "Task clusters are a defined set of digitization task groups.\n"
 "The term was coined by the iDigBio team in their 2012 paper “Five task clusters that enable efficient and effective digitization of biological collections”.\n"
 "In the paper the authors identify 5 major groups of tasks that are most often found in successful natural history digitization projects. They are:\n"
-msgstr ""
+msgstr "Tarefas de clusters são grupos de tarefas de digitalização definidos.\n"
+"O termo foi criado pela equipe iDigBio em seu artigo de 2012 \"Cinco clusters de tarefas que permitem a digitalização eficiente e eficaz de colecções biológicas\".\n"
+"No artigo, os autores identificam 5 principais grupos de tarefas que são mais frequentemente encontrados em projectos de digitalização de história natural bem sucedidos. Eles são:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:115
 #, no-wrap
 msgid "pre-digitization curation and staging\n"
-msgstr ""
+msgstr "curadoria pré-digitalização e preparação (staging)\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:117
 #, no-wrap
 msgid "specimen image capture\n"
-msgstr ""
+msgstr "captura de imagem de espécime\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:119
 #, no-wrap
 msgid "specimen image processing\n"
-msgstr ""
+msgstr "processamento de imagem de espécime\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:121
 #, no-wrap
 msgid "electronic data capture and\n"
-msgstr ""
+msgstr "captura de dados eletrônica e\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:123
 #, no-wrap
 msgid "georeferencing locality descriptions\n"
-msgstr ""
+msgstr "georeferenciação de descrições de localidade\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:125
