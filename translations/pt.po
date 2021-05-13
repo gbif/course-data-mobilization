@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-13 13:57\n"
+"PO-Revision-Date: 2021-05-13 14:54\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -9029,7 +9029,7 @@ msgstr "A definição sobre o Slide anterior deve ser atualizada para incluir al
 #: scripts/publishing-concepts.en.txt:33
 #, no-wrap
 msgid "In an effort to document the level of openness of a dataset, GBIF maintains, in keeping with a 2014 decision by the GBIF governing board, that all data published and registered for use in the GBIF portal, must be issued with one of three Creative Commons options:\n"
-msgstr ""
+msgstr "Num esforço para documentar o nível de abertura de um conjunto de dados, o GBIF mantém, de acordo com uma decisão de 2014 do conselho de administração do GBIF, que todos os dados publicados e registados para uso no portal GBIF, sejam emitidos com uma de três opções Creative Commons:\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:37
@@ -9045,14 +9045,15 @@ msgstr "CC0, uma dispensa para tornar os dados dados disponíveis para qualquer 
 #: scripts/publishing-concepts.en.txt:39
 #, no-wrap
 msgid "Note that CC-BY-NC licences have a significant effect on the reusability of data.\n"
-msgstr ""
+msgstr "Observe que as licenças CC-BY-NC têm um efeito significativo na reutilização de dados.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:42
 #, no-wrap
 msgid "GBIF encourages data publishers to choose the most open option they can wherever possible.\n"
 "Projects supported through GBIF-led funding must use either the CC0 or CC BY options.\n"
-msgstr ""
+msgstr "O GBIF encoraja os editores de dados a escolherem a opção mais aberta possível, sempre que possível.\n"
+"Projetos suportados através de financiamento liderado pelo GBIF devem usar as opções CC0 ou CC BY.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:49
@@ -9061,154 +9062,160 @@ msgid "The Integrated Publishing Toolkit (IPT) is a free, open source software t
 "The first version of IPT was released in 2009.\n"
 "It was redesigned and rereleased in 2011.\n"
 "Since that time, the IPT has been updated periodically with new features, bug fixes and security improvements.\n"
-msgstr ""
+msgstr "O IPT é uma ferramenta software gratuita, de código aberto, escrita em Java, que é usada para publicar e partilhar conjuntos de dados de biodiversidade através da rede GBIF.\n"
+"A primeira versão do IPT foi lançada em 2009.\n"
+"Foi redesenhado e relançado em 2011.\n"
+"Desde então, o IPT foi actualizado periodicamente com novos recursos, correções de bugs e melhorias na segurança.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:51
 #, no-wrap
 msgid "While the IPT is maintained at GBIF, the community of biodiversity informatics developers are able to contribute to its development.\n"
-msgstr ""
+msgstr "Embora o IPT seja mantido no GBIF, a comunidade de desenvolvedores da informática para a biodiversidade podem contribuir para o seu desenvolvimento.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:53
 #, no-wrap
 msgid "Some of the features include:\n"
-msgstr ""
+msgstr "Alguns dos recursos incluem:\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:55
 #, no-wrap
 msgid "Main (but not only) publishing tool for GBIF.\n"
-msgstr ""
+msgstr "Ferramenta de publicação principal (mas não apenas) para GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:57
 #, no-wrap
 msgid "One IPT can host many datasets, on behalf of several institutions, each clearly represented\n"
-msgstr ""
+msgstr "Um IPT pode hospedar muitos conjuntos de dados, em nome de várias instituições, cada uma claramente representada\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:59
 #, no-wrap
 msgid "Test mode and production mode\n"
-msgstr ""
+msgstr "Modo teste e modo de produção\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:61
 #, no-wrap
 msgid "Multilingual – it has been translated into 7 languages.\n"
-msgstr ""
+msgstr "Multilíngue – foi traduzido para 7 idiomas.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:64
 #, no-wrap
 msgid "It is a server-side software, so it needs a stable connection and requires technical administration.\n"
 "This is why many institutions choose to publish their data on hosted IPTs.\n"
-msgstr ""
+msgstr "É um software de apoio ao servidor, portanto precisa de uma conexão estável e requer uma administração técnica.\n"
+"É por isso que muitas instituições optam por publicar seus dados em IPTs que hospedem.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:66
 #, no-wrap
 msgid "You can find more information on data hosting on the GBIF website under the How-to menu.\n"
-msgstr ""
+msgstr "Você pode encontrar mais informações sobre hospedagem de dados no site GBIF no menu How-to.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:68
 #, no-wrap
 msgid "For the remainder of our course, we’ll be demonstrating and completing exercises using the IPT.\n"
-msgstr ""
+msgstr "Durante o restante do nosso curso, iremos demonstrar e concluir exercícios usando o IPT.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:72
 #, no-wrap
 msgid "We’re now putting together what you learned in the first two presentations in the Data Capture section on Standards and Darwin Core and Data Types.\n"
-msgstr ""
+msgstr "Agora estamos a juntar o que você aprendeu nas duas primeiras apresentações da secção Captura de Dados sobre Padrões e Darwin Core e Tipos de Dados.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:75
 #, no-wrap
 msgid "At its heart, the IPT is based on Darwin Core and the Darwin Core text guide and its recommendations for sharing data in a Darwin Core Archive.\n"
 "The Darwin Core contains three distinct data cores which match up to three of the dataset types that GBIF accepts.\n"
-msgstr ""
+msgstr "Na base, o IPT é baseado no Darwin Core e no guia de texto Darwin Core e nas recomendações para a partilha de dados em um Darwin Core Archive.\n"
+"O Darwin Core contém três núcleos de dados distintos que correspondem a três dos tipos de conjuntos de dados que o GBIF aceita.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:77
 #, no-wrap
 msgid "Keep in mind:\n"
-msgstr ""
+msgstr "Tenha em mente:\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:79
 #, no-wrap
 msgid "Each dataset has one and only one Core file\n"
-msgstr ""
+msgstr "Cada conjunto de dados possui apenas um ficheiro de núcleo\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:81
 #, no-wrap
 msgid "Each Core file corresponds to a dataset type: occurrence, checklist or sampling event.\n"
-msgstr ""
+msgstr "Cada ficheiro Core (núcleo) corresponde a um tipo de conjunto de dados: ocorrência, checklist ou evento de amostragem.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:83
 #, no-wrap
 msgid "Each dataset can have one or more extensions file\n"
-msgstr ""
+msgstr "Cada conjunto de dados pode ter uma ou mais extensões\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:85
 #, no-wrap
 msgid "The aim of an extension is to add new data fields not present in the core.\n"
-msgstr ""
+msgstr "O objectivo de uma extensão é adicionar novos campos de dados que não estejam presentes no núcleo.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:88
 #, no-wrap
 msgid "Each entry in the core file is linked to zero, one or several rows in an extension file.\n"
 "Each row in an extension file reference one and only one row in the core file.\n"
-msgstr ""
+msgstr "Cada entrada no ficheiro core é vinculada a zero, uma ou várias linhas em um ficheiro de extensão.\n"
+"Cada linha em uma extensão faz referência a uma e apenas uma linha no ficheiro core.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:90
 #, no-wrap
 msgid "Some examples:\n"
-msgstr ""
+msgstr "Alguns exemplos:\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:92
 #, no-wrap
 msgid "Core is Occurrence, no extensions\n"
-msgstr ""
+msgstr "Núcleo é Occurrence, sem extensões\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:94
 #, no-wrap
 msgid "Core is Occurrence, with “multimedia” extension\n"
-msgstr ""
+msgstr "Núcleo é Occurrence, com a extensão \"multimedia\"\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:96
 #, no-wrap
 msgid "Core is Occurrence, with Audubon core and measurementorfact extensions\n"
-msgstr ""
+msgstr "Núcleo é Occurrence, com Extensões Audubon core e measurementorfact\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:98
 #, no-wrap
 msgid "Core is Taxon, no extensions\n"
-msgstr ""
+msgstr "Core é Taxon, sem extensões\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:100
 #, no-wrap
 msgid "Core is Taxon, with species distribution extension\n"
-msgstr ""
+msgstr "Core é Taxon, com extensão de distribuição de espécies\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:102
 #, no-wrap
 msgid "Core is Event with Occurrence and Measurementorfact extensions\n"
-msgstr ""
+msgstr "Núcleo é Evento com extensões de Ocorrência e Measurementorfact\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:110
@@ -9217,7 +9224,10 @@ msgid "The first core is the Occurrence Core.\n"
 "As a reminder, an occurrence dataset contains one individual or one group of individuals.\n"
 "Each row has a unique identifier, an occurrenceID.\n"
 "Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
-msgstr ""
+msgstr "O primeiro núcleo é o Núcleo de Ocorrência.\n"
+"Como lembrete, um conjunto de dados de ocorrência contém um indivíduo ou um grupo de indivíduos.\n"
+"Cada linha tem um identificador exclusivo, uma occurrenceID.\n"
+"Outros campos para dados de ocorrência incluem onde, quando, e por quem foi observado e por quem cada ocorrência foi amostrada no campo.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:118
@@ -9226,7 +9236,10 @@ msgid "The next option is the Taxon core.\n"
 "As a reminder, a checklist dataset contains taxonomic concepts, not individuals.\n"
 "It is a “A catalogue or list of named organisms, or taxa.” Each row will have a taxonID.\n"
 "Each taxon must be unique.\n"
-msgstr ""
+msgstr "A próxima opção é o núcleo de Táxon.\n"
+"Como lembrete, um conjunto de dados de checklist contém conceitos taxonómicos, não indivíduos.\n"
+"É um \"catálogo ou lista de organismos nomeados, ou taxa\". Cada linha terá um táxonID.\n"
+"Cada táxon deve ser único.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:124
@@ -9234,41 +9247,47 @@ msgstr ""
 msgid "The last option is the Event core.\n"
 "As a reminder, sampling event datasets allow data publishers to provide greater detail, not only offering evidence that a species occurred at a given location and date, but also making it possible to assess community composition for broader taxonomic groups or even the abundance of species at multiple times and places.\n"
 "By indicating the methods, events and relative abundance of species recorded in a sample, these datasets improve comparisons with data collected using the same protocols at different times and places—in some cases, even leading researchers to infer the absence of particular species from particular sites.\n"
-msgstr ""
+msgstr "A última opção é o núcleo do Evento.\n"
+"Como lembrete, conjuntos de dados de eventos de amostragem permitem que os editores de dados forneçam mais detalhes, não só oferecendo provas de que uma espécie ocorreu num determinado local e data, mas também tornando possível avaliar a composição da comunidade para grupos taxonómicos mais amplos ou até mesmo a abundância de espécies em diferentes tempos e lugares.\n"
+"Ao indicar os métodos, eventos e abundância relativa de espécies registadas em uma amostra, esses conjuntos de dados melhoram as comparações com os dados recolhidos usando os mesmos protocolos em momentos e lugares diferentes - em alguns casos, é possível a investigadores inferir a ausência de determinadas espécies de determinados sítios.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:127
 #, no-wrap
 msgid "Each row will have an EventID.\n"
 "Each event must be unique.\n"
-msgstr ""
+msgstr "Cada linha terá um EventID.\n"
+"Cada evento deve ser único.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:132
 #, no-wrap
 msgid "This is a good point to review all of the fields required by GBIF.\n"
 "If required fields are not supplied, GBIF will have difficult indexing your dataset.\n"
-msgstr ""
+msgstr "Este é um bom ponto para rever todos os campos exigidos pelo GBIF.\n"
+"Se os campos obrigatórios não forem fornecidos, o GBIF terá dificuldade em indexar seu conjunto de dados.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:135
 #, no-wrap
 msgid "Each core has its own set of required and recommended fields for the dataset and for the associated dataset metadata.\n"
 "As you now know, metadata is the data about your data and it enables users to know if your dataset will be fit for their use.\n"
-msgstr ""
+msgstr "Cada núcleo tem seu próprio conjunto de campos obrigatórios e recomendados e para os metadados do conjunto de dados associado.\n"
+"Como você agora sabe, metadados são os dados sobre seus dados e permite que os utilizadores saibam se seu conjunto de dados será adequado para o seu uso.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:138
 #, no-wrap
 msgid "Don’t stop at the required and recommended fields.\n"
 "The more data you are able to share, the more useful your dataset can be to end users.\n"
-msgstr ""
+msgstr "Não pare nos campos obrigatórios e recomendados.\n"
+"Quanto mais dados você conseguir partilhar, mais útil poderá ser o seu conjunto de dados para os utilizadores finais.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:140
 #, no-wrap
 msgid "You can find the data quality on the gbif website under the How-to menu.\n"
-msgstr ""
+msgstr "Você pode encontrar a qualidade dos dados no site do gbif sob o menu How-to.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:149
