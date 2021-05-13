@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-12 11:49\n"
+"PO-Revision-Date: 2021-05-13 11:57\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -8544,25 +8544,26 @@ msgstr "Os próximos exemplos de agrupamento que vamos analisar são geralmente 
 #, no-wrap
 msgid "Workflows are defined as “the sequence of processes through which a piece of work passes from initiation to completion.”\n"
 "There are three general categories: \n"
-msgstr ""
+msgstr "Os fluxos de trabalho são definidos como \"a seqüência de processos através dos quais um trabalho passa do início a conclusão.\n"
+"Existem três categorias gerais: \n"
 
 #. type: Bullet: '1) '
 #: scripts/organizing.en.txt:138
 #, markdown-text, no-wrap
 msgid "Sequential\n"
-msgstr ""
+msgstr "Sequencial\n"
 
 #. type: Bullet: '2) '
 #: scripts/organizing.en.txt:140
 #, markdown-text, no-wrap
 msgid "Rules Driven \n"
-msgstr ""
+msgstr "Regras Orientadas\n"
 
 #. type: Bullet: '3) '
 #: scripts/organizing.en.txt:142
 #, markdown-text, no-wrap
 msgid "State Machine\n"
-msgstr ""
+msgstr "Máquina do Estado\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:145
