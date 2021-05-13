@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-13 11:57\n"
+"PO-Revision-Date: 2021-05-13 12:58\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -8570,64 +8570,68 @@ msgstr "Máquina do Estado\n"
 #, no-wrap
 msgid "In simple terms they are just another way that you join tasks and task clusters together and apply rules and logic to increase efficiency.\n"
 "We will look at the three workflows by describing in increasing detail, a common digitization workflow.\n"
-msgstr ""
+msgstr "Em termos simples, eles são apenas mais uma forma de você participar de tarefas e grupos de tarefas ao mesmo tempo, e aplicar regras e lógica para aumentar a eficiência.\n"
+"Vamos analisar os três fluxos de trabalho descrevendo em maiores detalhes, um fluxo de trabalho de digitalização comum.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:150
 #, no-wrap
 msgid "Sequential workflows are simple and represent a unidirectional series of steps with a single start and end point. \n"
 "The important point being that each task MUST be completed before the next one can start.\n"
-msgstr ""
+msgstr "Os fluxos de trabalho sequenciais são simples e representam uma série unidirecional de passos com um único ponto de partida e fim.\n"
+"O ponto importante é que cada tarefa DEVE ser concluída antes do próximo ser iniciado.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:154
 #, no-wrap
 msgid "In this example the sequence is:\n"
-msgstr ""
+msgstr "Neste exemplo, a sequência é:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:156
 #, no-wrap
 msgid "NAME CHECKING\n"
-msgstr ""
+msgstr "VERIFICAÇÃO DE NOME\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:158
 #, no-wrap
 msgid "Followed by PHOTOGRAPHY\n"
-msgstr ""
+msgstr "Seguido por FOTOGRAFIA\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:160
 #, no-wrap
 msgid "Then DATA ENTRY\n"
-msgstr ""
+msgstr "Depois ENTRADA DE DADOS\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:162
 #, no-wrap
 msgid "And finally PROOFREADING\n"
-msgstr ""
+msgstr "E finalmente PROOFREADING\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:167
 #, no-wrap
 msgid "Rules driven workflows often have an underlying sequential element as described previously. \n"
 "However, within each task cluster, rules and logic can alter the progress of the workflow.\n"
-msgstr ""
+msgstr "Fluxos de trabalho guiados por regras têm, frequentemente, um elemento sequencial subjacente, conforme descrito anteriormente.\n"
+"No entanto, dentro de cada grupo de tarefas, as regras e a lógica podem alterar o progresso do fluxo de trabalho.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:171
 #, no-wrap
 msgid "In this example in the lower right corner in the PHOTOGRAPHY task cluster there is a quality check logic gate.\n"
-msgstr ""
+msgstr "Neste exemplo, no canto inferior direito de cluster de tarefa de FOTOGRAFIA, existe um portão de lógica para verificação de qualidade.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:174
 #, no-wrap
 msgid "If there is a problem with the image it is discarded and the specimen goes back to be photographed again.\n"
 "Only when the quality check has been passed can the workflow continue.\n"
-msgstr ""
+msgstr "Se há um problema com a imagem, esta é descartada e os espécimes voltam a ser fotografados.\n"
+"Somente quando a verificação de qualidade for passada poderá o fluxo de trabalho continuar.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:180
@@ -8635,80 +8639,83 @@ msgstr ""
 msgid "Machine State workflows are the next most complex form.\n"
 "Here, the steps within each task cluster can happen asynchronously i.e they are not necessarily performed one after another, but instead can be triggered by actions and states in previous steps.\n"
 "One state is assigned as the start state, and then, based on an event, a transition is made to another state and so on.\n"
-msgstr ""
+msgstr "Os fluxos de trabalho da Machine State são a próxima forma mais complexa.\n"
+"Aqui, as etapas dentro de cada cluster de tarefa podem acontecer de forma assíncrona. Não são necessariamente executados um após o outro, mas podem, em vez disso, ser desencadeados por acções e estados de passos anteriores.\n"
+"Um estado é atribuído como estado inicial, e então, com base em um evento, uma transição é feita para outro estado e assim por diante.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:185
 #, no-wrap
 msgid "If we take this example from Allard 2012.\n"
 "Let’s say that the photography lab is only allowed to hold 60 herbarium sheets at any one time.\n"
-msgstr ""
+msgstr "Se tomarmos este exemplo a partir de Allard 2012.\n"
+"Vamos dizer que o laboratório de fotografia só tem permissão para manter 60 folhas de herbário por vez.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:187
 #, no-wrap
 msgid "The NAME CHECKING task cluster can continue to prep specimens but there is a check that means: Specimens cannot pass to the PHOTOGRAPHY task cluster until there is space again.\n"
-msgstr ""
+msgstr "O cluster de tarefa VERIFICAÇÃO DE NOME pode continuar preparando espécimes, mas há uma verificação que significa: os espécimes não podem passar para o cluster de tarefas FOTOGRAFIA até que haja espaço novamente.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:189
 #, no-wrap
 msgid "Meanwhile the other clusters can also carry on as long as they have specimens or images to work on.\n"
-msgstr ""
+msgstr "Enquanto isso, os outros clusters também podem continuar enquanto eles tiverem espécimes ou imagens para trabalhar.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:193
 #, no-wrap
 msgid "In this next short section, ELEMENTS OF A GOOD PLAN we will look at how good documentation aids good planning. we will:\n"
-msgstr ""
+msgstr "Nesta próxima seCção curta, ELEMENTOS DE UM BOM PLANO, veremos como a documentação ajuda em um bom planeamento. Nós vamos:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:195
 #, no-wrap
 msgid "highlight the benefits of good documentation;\n"
-msgstr ""
+msgstr "destacar os benefícios da boa documentação;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:197
 #, no-wrap
 msgid "make connections between the proposal, planning and implementation documents;\n"
-msgstr ""
+msgstr "fazer conexões entre documentos de proposta, planeamento e implementação;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:199
 #, no-wrap
 msgid "and show how the elements of each build together, thereby reducing the agony of the last \n"
-msgstr ""
+msgstr "e mostraR como os elementos de cada um constroem-se juntos, reduzindo a agonia do último \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:201
 #, no-wrap
 msgid "minute end of project report.\n"
-msgstr ""
+msgstr "minuta de relatório de término do projecto.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:205
 #, no-wrap
 msgid "The definition of a plan is a detailed proposal for doing or achieving something.\n"
-msgstr ""
+msgstr "A definição de um plano é uma proposta detalhada para fazer ou alcançar algo.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:207
 #, no-wrap
 msgid "Documentation of your project should describe not only what you planned to do but also what you actually did.\n"
-msgstr ""
+msgstr "A documentação do seu projecto deve descrever não apenas o que você planeou fazer, mas também o que você realmente fez.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:209
 #, no-wrap
 msgid "Its primary purpose is to communicate with all stakeholders in order to provide an exact account of expectations, responsibilities and achievements.\n"
-msgstr ""
+msgstr "Seu objectivo principal é comunicar com todos os stakeholders a fim de fornecer uma conta exata das expectativas, responsabilidades e conquistas.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:211 scripts/structures.en.txt:155
 #, no-wrap
 msgid "// Slide 24\n"
-msgstr ""
+msgstr "// Slide 24\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:213
@@ -8720,210 +8727,215 @@ msgstr "A documentação completa traz muitos benefícios.\n"
 #: scripts/organizing.en.txt:215
 #, no-wrap
 msgid "It provides accountability - everyone should know what they are responsible for and also what others are responsible for.\n"
-msgstr ""
+msgstr "Fornece responsabilidade - todos devem saber pelo que são responsáveis e também pelo que os outros são responsáveis.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:217
 #, no-wrap
 msgid "It ensures integrity - do what you say you will do, especially where sensitive data is concerned.\n"
-msgstr ""
+msgstr "Garante integridade - faça o que você diz que fará, especialmente quando estão em causa dados confidenciais.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:219
 #, no-wrap
 msgid "It provides protection - a good plan helps you avoid scope creep and unexpected requests.\n"
-msgstr ""
+msgstr "Fornece proteção - um bom plano ajuda a evitar aumento de escopo e solicitações inesperadas.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:221
 #, no-wrap
 msgid "It provides proof of compliance - allows you to show that you have followed the standards that you said you would\n"
-msgstr ""
+msgstr "Fornece prova de conformidade - permite mostrar que você seguiu os padrões que disse que iria\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:223
 #, no-wrap
 msgid "It enhances availability - your plan should be available, there shouldn't be anything hidden at this stage. \n"
-msgstr ""
+msgstr "Aprimora a disponibilidade - seu plano deve estar disponível, não deve haver nada oculto neste estágio\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:225
 #, no-wrap
 msgid "It documents retention - How long will the data created by this project remain \"fresh\", what needs to happen to keep it up to date. \n"
-msgstr ""
+msgstr "Documenta retenção - Quanto tempo os dados criados por este projecto permanecerão \"frescos\", o que tem de acontecer para os manter actualizados\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:227
 #, no-wrap
 msgid "It documents disposition - What is the ownership of the data created by the project? Who will be responsible for it after the end of the project.\n"
-msgstr ""
+msgstr "Documenta disposição - Qual é a propriedade dos dados criados pelo projecto? Quem será responsável por isso após o final do projecto.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:229
 #, no-wrap
 msgid "It encourages transparency - openly shared practical project plans feed back into the community and allow others to learn from your successes and failures.\n"
-msgstr ""
+msgstr "Encoraja transparência - planos de projectos práticos partilhados abertamente alimentam a comunidade e permitem que outros aprendam com seus sucessos e fracassos.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:231
 #, no-wrap
 msgid "And it promotes teamwork - All stakeholders benefit from knowing how they fit into the bigger picture and the more of a sense of ownership that they, have the more likely your project is to succeed.\n"
-msgstr ""
+msgstr "Promove trabalho em equipa - todas as partes interessadas beneficiam-se ao saber como se encaixam na imagem geral e quanto maior for o sentido de propriedade delas, maior é a probabilidade de seu projecto ser bem-sucedido.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:233 scripts/structures.en.txt:161
 #, no-wrap
 msgid "// Slide 25\n"
-msgstr ""
+msgstr "// Slide 25\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:235
 #, no-wrap
 msgid "All of the resource elements that we have discussed in the previous section come together in the project documentation.\n"
-msgstr ""
+msgstr "Todos os elementos de recursos que discutimos na secção anterior estão reunidos na documentação do projecto.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:237
 #, no-wrap
 msgid "The elements of your documentation overlap, let’s have a look at where in the documentation cycle each element appears.\n"
-msgstr ""
+msgstr "Os elementos de sua documentação se sobrepõem, vamos dar uma olhada onde no ciclo de documentação cada elemento aparece.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:239
 #, no-wrap
 msgid "// Slide 26\n"
-msgstr ""
+msgstr "// Slide 26\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:241
 #, no-wrap
 msgid "We won’t cover much about the detail of creating a proposal, except to say that if it got you funding then you did a good job.\n"
-msgstr ""
+msgstr "Não abordaremos muito sobre o detalhe da criação de uma proposta, exceto dizer que se recebeu financiamento então fez um bom trabalho.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:243
 #, no-wrap
 msgid "The proposal will contain the high-level description of purpose and rationale and a good faith description of a workplan as achievable at the time of writing.\n"
-msgstr ""
+msgstr "A proposta conterá uma descrição de alto nível dos objectivos e da justificativa e uma descrição de boa fé de um plano de trabalho que seja exequível no momento da sua redacção.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:246
 #, no-wrap
 msgid "The planning document or implementation plan on the other hand should give everyone involved at the start of the project a complete guide to how the project will actually get done.\n"
 "This is where you should include the practicalities, \n"
-msgstr ""
+msgstr "O documento de planeamento ou o plano de execução, por outro lado, deverá fornecer a todos os envolvidos no início do projecto um guia completo sobre a forma como o projecto será realmente feito.\n"
+"Aqui é onde você deve incluir as práticas, \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:248
 #, no-wrap
 msgid "workflows for specific goals\n"
-msgstr ""
+msgstr "fluxos para metas específicas\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:250
 #, no-wrap
 msgid "resource allocations to tasks\n"
-msgstr ""
+msgstr "alocações de recursos para tarefas\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:252
 #, no-wrap
 msgid "milestones and targets\n"
-msgstr ""
+msgstr "marcos e metas\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:254
 #, no-wrap
 msgid "// Slide 27\n"
-msgstr ""
+msgstr "// Slide 27\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:256
 #, no-wrap
 msgid "The planning document should be a living entity that the project manager revisits regularly as they keep track of milestones and approach checkpoints.\n"
-msgstr ""
+msgstr "O documento de planeamento deve ser uma entidade viva que o gestor do projeto revisita regularmente à medida que ele acompanha os marcos e os pontos de verificação de abordagem.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:258
 #, no-wrap
 msgid "Workflows should be adjusted and re-documented as the landscape changes, to make sure that interim goals are kept on track.\n"
-msgstr ""
+msgstr "Os fluxos de trabalho devem ser ajustados e documentados novamente à medida que a paisagem muda, para garantir que os objectivos intermediários sejam mantidos no caminho.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:261
 #, no-wrap
 msgid "If this is done, then Progress reports which occur at checkpoints throughout the project are easy to compile.\n"
 "Metrics can be reported and any changes in the project landscape highlighted for risk mitigation.\n"
-msgstr ""
+msgstr "Se assim for, os relatórios de progresso que ocorrem em durante o projecto serão fáceis de compilar.\n"
+"As métricas podem ser relatadas e qualquer alteração no cenário do projecto será destacada para mitigação do risco.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:263
 #, no-wrap
 msgid "// Slide 28\n"
-msgstr ""
+msgstr "// Slide 28\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:266
 #, no-wrap
 msgid "The compilation of the final report then becomes the less daunting task of summarizing the previous progress reports and the planning document.\n"
 "In a circular fashion your planning document now can be used in your next project proposal and has the benefit of being a tried and tested successful plan.\n"
-msgstr ""
+msgstr "A elaboração do relatório final passa então a ser a tarefa menos difícil, resumindo os anteriores relatórios de progresso e o documento de planeamento.\n"
+"De forma circular o seu documento de planeamento agora pode ser utilizado na sua próxima proposta de projecto e tem o benefício de ser um plano bem sucedido já testado.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:268
 #, no-wrap
 msgid "// Slide 29\n"
-msgstr ""
+msgstr "// Slide 29\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:270
 #, no-wrap
 msgid "To review, the sections, “Clustering the Components” and “Elements of a Good Plan” we looked at three ways to arrange tasks together into feasible workflows:\n"
-msgstr ""
+msgstr "Para revisar, as secções, \"Agrupando os Componentes\" e \"Elementos de um Bom Plano\" nós procuramos três maneiras de organizar tarefas em conjunto, em fluxos de trabalho viáveis:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:273
 #, no-wrap
 msgid "Groupings –are ways to divide a project into manageable stages based on specific criteria, for example time.\n"
 "They are helpful ways to determine milestones in planning documents and mark progress for interim reports.\n"
-msgstr ""
+msgstr "Agrupamentos – são formas de dividir um projecto em fases gerenciáveis baseadas em critérios específicos, por exemplo, tempo.\n"
+"São maneiras úteis de determinar marcos nos documentos de planeamento e marcar o progresso para relatórios.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:275
 #, no-wrap
 msgid "Task Clusters – were used to describe one of the most common sets of natural history digitization tasks and their ordering.\n"
-msgstr ""
+msgstr "Grupos de tarefas – foram usados para descrever um dos conjuntos mais comuns de tarefas de digitalização da história natural e sua ordenação.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:277
 #, no-wrap
 msgid "While Workflows – where explained as ways for you to connect tasks and task clusters into logical sequences with criteria and logic to describe the actualities of day-2-day project working.\n"
-msgstr ""
+msgstr "While Workflows – where explained as ways for you to connect tasks and task clusters into logical sequences with criteria and logic to describe the actualities of day-2-day project working.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:280
 #, no-wrap
 msgid "Lastly we looked at how project documentation is a continuous process that begins with the proposal and should be considered task in its own right.\n"
 "Continuous refinement of your documentation is essential to the successful communication of your project at all stages and will help you and your team know what they should be doing at any particular time.\n"
-msgstr ""
+msgstr "Por último, analisámos a forma como a documentação dos projectos é um processo contínuo que começa com a proposta e que deve ser considerado como tarefa por direito próprio.\n"
+"O refinamento contínuo da sua documentação é essencial para a comunicação bem sucedida do seu projecto em todos os estágios e ajudará você e sua equipa a saber o que devem fazer em qualquer momento.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:282
 #, no-wrap
 msgid "You will learn more about documentation of our actual data in further session in this course.\n"
-msgstr ""
+msgstr "Você aprenderá mais sobre a documentação de nossos dados reais na próxima sessão deste curso.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:284
 #, no-wrap
 msgid "// Slide 30\n"
-msgstr ""
+msgstr "// Slide 30\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:286
 #, no-wrap
 msgid "In chapter 4 of the Hobbit, Bilbo and the unfortunate Dwarves are captured by goblins, chained together in the dark and led deep into the caverns and tunnels of the Misty Mountains. \n"
-msgstr ""
+msgstr "No capítulo 4 de Hobbit, Bilbo e os Anões são capturados por goblins, acorrentados na escuridão e empurrados fundo para as cavernas e túneis das Montanhas Misty\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:290
@@ -8931,13 +8943,15 @@ msgstr ""
 msgid "This may indeed be your first reaction to starting out on your practical plan, but remember that being physically clustered together made it easier for the dwarves to stay together and they escaped.\n"
 "It was by getting detached that Bilbo was lost.\n"
 "Of course he found the ring as result, but that’s another story for another time.\n"
-msgstr ""
+msgstr "Esta pode ser, de facto, a sua primeira reacção ao início do seu plano prático, mas lembre-se de que estar fisicamente agrupado junto, facilitou a permanência dos anões juntos e eles escaparam.\n"
+"Foi por estar separado que Bilbo foi perdido.\n"
+"É claro que ele encontrou o anel como resultado, mas essa é outra história para outra hora.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:292
 #, no-wrap
 msgid "// Slide 31\n"
-msgstr ""
+msgstr "// Slide 31\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:297
@@ -8956,7 +8970,8 @@ msgstr "Se tiver dúvidas sobre esta apresentação, use o fórum fornecido na p
 #, no-wrap
 msgid "In this presentation, we will introduce you to the concept of Data Publishing.\n"
 "We will also introduce you to GBIF’s Integrated Publishing Toolkit.\n"
-msgstr ""
+msgstr "Nesta apresentação, apresentaremos o conceito de Publicação de Dados.\n"
+"Também o apresentaremos ao IPT do GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:11
@@ -9317,7 +9332,11 @@ msgid "The core file will always contain unique records.\n"
 "In Vernacular Names extension file, each vernacular name is unique.\n"
 "The first three represent common names for the species Struthio camelus (1:many relationship).\n"
 "The fourth name represents the common name for the species Alectoris chukar (1:1 relationship).\n"
-msgstr ""
+msgstr "O ficheiro núcleo sempre conterá registos exclusivos.\n"
+"Neste exemplo usando o Núcleo do Táxon, cada táxon é único e é representado por um taxonID.\n"
+"No ficheiro da extensão Nomes Vernaculares, cada nome vernacular é único.\n"
+"Os três primeiros representam nomes comuns para a espécie Struthio camelus (1:muitas relações).\n"
+"O quarto nome representa o nome comum para a espécie Alectoris chukar (relação 1:1).\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:182
@@ -9326,7 +9345,9 @@ msgid "In this example the third and fourth taxons in the core file, do not have
 "(1:0 relationship).\n"
 " \n"
 "// Slide 14\n"
-msgstr ""
+msgstr "Neste exemplo, os terceiro e quarto táxons no ficheiro principal, não têm correspondência no ficheiro da extensão.\n"
+"(1:0 relação).\n\n"
+"// Deslize 14\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:185
@@ -9341,50 +9362,52 @@ msgstr "À medida que terminamos essa apresentação, gostaríamos que começass
 #, no-wrap
 msgid "Login and a take a look around.\n"
 "In the next presentation, you will watch a demonstration on how to use the IPT, after which you’ll be ready to try it yourself.\n"
-msgstr ""
+msgstr "Faça login e dê uma olhada.\n"
+"Na próxima apresentação, você assistirá uma demonstração sobre como usar o IPT, após a qual estará pronto para experimentar por si mesmo.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:192 scripts/standards.en.txt:289
 #, no-wrap
 msgid "Thank you.\n"
-msgstr ""
+msgstr "Obrigada.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:199
 #, no-wrap
 msgid "This presentation was originally created by Sophie Pamerlon with additional contributions by Nicolas Noe, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Sophie Pamerlon com contribuições adicionais de Nicolas Noe, Laura Anne Russell e Dag Endresen, Treinadores BID e BIFA, Mentores e alunos. \n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:200 scripts/standards.en.txt:297
 #, no-wrap
 msgid "This presentation has been narrated by Laura Anne Russell.\n"
-msgstr ""
+msgstr "Esta apresentação foi narrada por Laura Anne Russell.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:5
 #, no-wrap
 msgid "This session is part of the planning section.\n"
 "We will be introducing some concepts and methodologies that will help you to focus on the organization of your mobilization project at a number of levels.\n"
-msgstr ""
+msgstr "Esta sessão faz parte da secção de planeamento.\n"
+"Introduziremos alguns conceitos e metodologias que ajudarão você a se concentrar na organização do seu projecto de mobilização em vários níveis.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:9
 #, no-wrap
 msgid "Good planning begins by defining the elements that will have an impact on your project and then understanding the interactions between them.\n"
-msgstr ""
+msgstr "Um bom planeamento começa por definir os elementos que terão impacto no seu projecto e depois compreender as interações entre eles.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:11
 #, no-wrap
 msgid "In this section we will look at the different players that it is necessary to understand before you can effectively organize your project and a methodology to identify WHO the key players and resources are and WHAT they should be doing.\n"
-msgstr ""
+msgstr "Nesta secção analisaremos os diferentes actores, o que é necessário compreender antes de se conseguir organizar eficazmente o seu projecto e uma metodologia para identificar QUEM são os principais actores e os recursos e O QUE devem estar a fazer.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:13
 #, no-wrap
 msgid "The 5 key concepts we will look at are: Affiliations, Stakeholders, Roles, Tasks and Goals.\n"
-msgstr ""
+msgstr "Os 5 conceitos-chave que analisaremos são: Afiliações, Stakeholders, Funções, Tarefas e Objetivos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:20
