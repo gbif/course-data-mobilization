@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-13 12:58\n"
+"PO-Revision-Date: 2021-05-13 13:57\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -8979,21 +8979,25 @@ msgstr "Nesta apresentação, apresentaremos o conceito de Publicação de Dados
 msgid "At this point in the course, you have moved through all the sections of mobilization project.\n"
 "Now you are ready to share your data.\n"
 "You’ve produced a cleaned and standardized dataset and you want to share and see that data on the GBIF data portal.\n"
-msgstr ""
+msgstr "Neste ponto do curso, você passou por todas as secções do projecto de mobilização.\n"
+"Agora você está pronto para partilhar seus dados.\n"
+"Você produziu um conjunto de dados limpo e padronizado e deseja partilhar e ver esses dados no portal de dados do GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:16
 #, no-wrap
 msgid "But there is more to it than simply handing over a spreadsheet or a text file to GBIF.\n"
 "You must publish the data.\n"
-msgstr ""
+msgstr "Mas há mais que simplesmente entregar uma tabela ou um ficheiro de texto para o GBIF.\n"
+"Você deve publicar os dados.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:19
 #, no-wrap
 msgid "Data publishing is the act of making biodiversity datasets publicly accessible and discoverable, in a standardized form (ie Darwin Core), via an access point.\n"
 "This access point is a URL – a web address.\n"
-msgstr ""
+msgstr "A publicação de dados é o ato de tornar os conjuntos de dados de biodiversidade acessíveis ao público e detectáveis, sob uma forma padronizada (i. e. Darwin Core), através de um ponto de acesso.\n"
+"Este ponto de acesso é uma URL – um endereço da Web.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:24
@@ -9002,13 +9006,16 @@ msgid "Most organizations within the GBIF Network, otherwise known as publishers
 "These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities.\n"
 "This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet.\n"
 "Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.\n"
-msgstr ""
+msgstr "A maioria das organizações dentro da rede GBIF, também conhecidos como editores, usam um IPT para publicar seus dados.\n"
+"Estes editores podem escolher hospedar sua própria instalação de um IPT como o Field Museum, mas geralmente preferem encontrar um anfitrião adequado para suas atividades de publicação de dados.\n"
+"Isto pode ser por meio de um nó participante do GBIF estabelecido, como o GBIF France ou através de um grupo temático estabelecido como o VertNet.\n"
+"Ou, uma outra opção pode ser fazer uso de um dos IPT hospedados no GBIF, como os BID, BIFA ou IPTs regionais.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:26
 #, no-wrap
 msgid "If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF.\n"
-msgstr ""
+msgstr "Se faz parte de grupos como Symbiota ou Comunidades Living Atlases, estes possuem outros meios de ajudá-lo a publicar seus dados no GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:31
@@ -9416,7 +9423,10 @@ msgid "First let us take a moment to understand the term Mobilisation.\n"
 "Mobilisation is the action of bringing resources into use to achieve a particular purpose or goal.\n"
 "In other words, to mobilize something, whether it be an expedition to the Antarctic or the publication of data, you will need to bring together available resources and assets and use them to achieve a defined “something”.\n"
 "To mobilize we must understand our resources.\n"
-msgstr ""
+msgstr "Em primeiro lugar, vamos compreender o termo Mobilização.\n"
+"Mobilização é a ação de trazer recursos para uso para atingir um propósito ou objectivo específico.\n"
+"Em outras palavras, para mobilizar algo, seja uma expedição para o Antárctico ou a publicação de dados, você precisará reunir recursos e recursos disponíveis e usá-los para alcançar \"alguma coisa\".\n"
+"Para mobilizar, precisamos entender nossos recursos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:27
@@ -9425,7 +9435,10 @@ msgid "Let’s break this down this and look at the first part of the definition
 "In the context of biodiversity data mobilization there are two types of resource.\n"
 "The hardware that you will need to create or manipulate digital files (for example computers, cameras, lights, desks etc) and the people.\n"
 "The actual individuals who will work with and for the project.\n"
-msgstr ""
+msgstr "Vamos dividir isto e olhar para a primeira parte da definição do termo mobilize e procurar o que é um RECURSO.\n"
+"No contexto da mobilização de dados de biodiversidade, existem dois tipos de recursos.\n"
+"O hardware que você precisará criar ou para manipular ficheiros digitais (por exemplo, computadores, câmeras, luzes, mesas, etc.) e as pessoas.\n"
+"Os indivíduos que irão trabalhar com e para o projecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:34
@@ -9444,66 +9457,72 @@ msgstr "Infelizmente, as escolhas específicas de hardware estão fora do âmbit
 #, no-wrap
 msgid "So to the people.\n"
 "People come in many types and can be organized in may ways, and it is the connections between that will have the most impact on the successful completion of your mobilization project.\n"
-msgstr ""
+msgstr "Portanto, as pessoas.\n"
+"As pessoas vêm de muitos tipos e podem ser organizadas de muitas maneiras, e são as conexões que terão mais impacto na conclusão bem sucedida do seu projecto de mobilização.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:41
 #, no-wrap
 msgid "They can be broadly grouped into 3 levels: AFFLIATIONS, STAKEHOLDERS and ROLES.\n"
-msgstr ""
+msgstr "Eles podem ser agrupados genericamente em 3 níveis: AFILIAÇÕES, STAKEHOLDER e PAPÉIS.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:44
 #, no-wrap
 msgid "Affiliations are very high level and most broadly represent the entity that is responsible for the management and pay of the team or individual.\n"
 "They are often strategic in nature.\n"
-msgstr ""
+msgstr "As afiliações são de alto nível e representam de uma maneira geral a entidade responsável pela gestão e pagamento da equipe ou indivíduo.\n"
+"Muitas vezes são de natureza estratégica.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:47
 #, no-wrap
 msgid "Stakeholders are groups or teams who may or may not be part of a formal management structure.\n"
 "They share an affiliation and a tactical theme.\n"
-msgstr ""
+msgstr "As partes interessadas são grupos ou equipas que podem ou não fazer parte de uma estrutura formal de gestão.\n"
+"Partilham uma afiliação e um tema tático.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:49
 #, no-wrap
 msgid "Roles in this context, represent jobs or positions with a title that an individual may hold.\n"
-msgstr ""
+msgstr "Papéis neste contexto, representam tarefas ou funções com título que os indivíduos podem ter.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:53
 #, no-wrap
 msgid "Three affiliations are commonly a part of the biodiversity data mobilization landscape.\n"
-msgstr ""
+msgstr "Três afiliações são comumente parte da paisagem de mobilização de dados da biodiversidade.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:56
 #, no-wrap
 msgid "An “INSTITUTIONAL” affiliation usually accounts for teams who work for the institution that is running the project.\n"
 "In the context of the project they are NOT specifically paid by the project. \n"
-msgstr ""
+msgstr "Uma Afiliação \"INSTITUCIONAL\" geralmente conta para equipAs que trabalham para a instituição que está executando o projeCto.\n"
+"No contexto do projeCto, eles NÃO são pagos especificamente pelo projecto\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:58
 #, no-wrap
 msgid "A “PROJECT” affiliation covers those teams that ARE specifically paid by the project for any part of their time.\n"
-msgstr ""
+msgstr "A afiliação \"PROJECTO\" abrange as equipas que são pagas especificamente pelo projecto por qualquer parte do seu tempo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:61
 #, no-wrap
 msgid "Those teams or groups who do not work for the institution and are not paid by the project specifically, but whose input is required for success, have an “EXTERNAL” affiliation.\n"
 "Three often encountered examples of these are Local Government, Regional Government and NGOs.\n"
-msgstr ""
+msgstr "As equipas ou grupos que não trabalham para a instituição e não são pagos especificamente pelo projecto, mas cujo input é necessário para o sucesso, tem uma afiliação \"EXTERNA\".\n"
+"Três exemplos frequentes disso são o Governo Local, o Governo Regional e as ONGs.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:64
 #, no-wrap
 msgid "Knowing the affiliations of the teams working on your project will give you a good idea of any potentially competing or supporting strategic goals, priorities, projects and agenda’s.\n"
 "It is often at this level that long to medium term plans and policies come into play, such as Laws, Intellectual Property Rights, and Retention Policies which can have a high impact on your project and its goals.\n"
-msgstr ""
+msgstr "Conhecer as afiliações das equipas que trabalham em seu projecto lhe dará uma boa idéia de quaisquer objetivos estratégicos ou de apoio, prioridades, projectos e agenda de trabalho.\n"
+"É frequentemente nesse nível que entram em jogo planos e políticas de longo e médio prazo, como Leis, Direitos de propriedade intelectual e políticas de retenção, que podem ter um alto impacto no seu projecto e em seus objectivos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:72
@@ -9513,7 +9532,11 @@ msgid "Stakeholders represent the next level of the WHO in your project. \n"
 "They have responsibility for day to day running such as managing infrastructure, curating the collection, doing the research and paying the bills.\n"
 "Stakeholders may or may not be part of the same formal management structure but they share an affiliation and come together to do something practical.\n"
 "It is important to remember that no two affiliations organize their stakeholder groups in the same way you should never assume that someone else’s structure is the same as yours.\n"
-msgstr ""
+msgstr "As partes interessadas representam o próximo nível do QUEM em seu projecto.\n"
+"Estas são frequentemente as unidades táticas dentro de uma afiliação partilhada.\n"
+"Elas têm responsabilidade pelo dia a dia, como gerir a infraestrutura, curar a colecção, fazer a pesquisa e pagar as contas.\n"
+"As partes interessadas podem ou não fazer parte da mesma estrutura formal de gestão, mas partilham uma afiliação e se juntam para fazer algo prático.\n"
+"É importante lembrar que duas afiliações não organizam os seus grupos de stakeholders da mesma maneira e que você nunca deve supor que a estrutura de outra pessoa seja a mesma que a sua.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:81
@@ -9524,68 +9547,74 @@ msgid "Each stakeholder group is made up of one or more Roles.\n"
 "It is important to understand how these roles are distributed across the different stakeholder groups.\n"
 "Be aware that a named role at your institution may not be in the same stakeholder group somewhere else.\n"
 "In some case even though the name of the role may be the same they may have different responsibilities.\n"
-msgstr ""
+msgstr "Cada grupo de partes interessadas é constituído por um ou mais papéis.\n"
+"As funções neste contexto representam tarefas ou posições com um título que os indivíduos podem ter.\n"
+"Cada um desses papéis é mantido por uma pessoa real que terá pelo menos uma função.\n"
+"É importante entender como estas funções são distribuídas pelos diferentes grupos de partes interessadas.\n"
+"Esteja ciente de que uma função nomeada na sua instituição pode não estar no mesmo grupo de partes interessadas em algum outro lugar.\n"
+"Em algum caso, embora o nome da função possa ser o mesmo, eles podem ter diferentes responsabilidades.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:86
 #, no-wrap
 msgid "There is one particular role that we should spend a little time on.\n"
-msgstr ""
+msgstr "Há um papel em particular no qual devemos passar um pouco mais de tempo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:88
 #, no-wrap
 msgid "The project manager.\n"
-msgstr ""
+msgstr "Coordenador de projecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:90
 #, no-wrap
 msgid "This is the person who must: \n"
-msgstr ""
+msgstr "Esta é a pessoa que deve: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:92
 #, no-wrap
 msgid "Keep track of Scope, Manage, control and mitigate Change of everything.\n"
-msgstr ""
+msgstr "Manter o escopo, a gestão, controlar e mitigar a mudança de tudo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:94
 #, no-wrap
 msgid "Articulate and keep track of the planning process by turning high-level information into detailed executable plans.\n"
-msgstr ""
+msgstr "Articular e manter o controlo do processo de planeamento, transformando informações de alto nível em planos executáveis detalhados.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:96
 #, no-wrap
 msgid "Follow through on the Management of the project team so they can meet the project objectives.\n"
-msgstr ""
+msgstr "Siga através da Gestão da equipa do projecto para que eles possam atingir os objectivos do projecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:98
 #, no-wrap
 msgid "Monitor and control the work of producing the products, and results that the project has committed to and ultimately be responsible for the Success of the project as measured by quality, timeliness and budget compliance.\n"
-msgstr ""
+msgstr "Monitorar e controlar o trabalho de produção dos produtos e resultados em que o projecto se comprometeu e, em última análise, se responsabilizou pelo sucesso do projecto, em função da qualidade, oportunidade e conformidade com o orçamento.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:102
 #, no-wrap
 msgid "The second element of the definition of the term mobilize is USES.\n"
-msgstr ""
+msgstr "O segundo elemento da definição do termo mobilizar é UTILIZAÇÕES.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:104
 #, no-wrap
 msgid "These work tasks represent WHICH things you will need to do, in order to successfully do what you said you would do. \n"
-msgstr ""
+msgstr "Estas tarefas de trabalho representam QUAIS coisas que você precisará fazer, para que possa ter sucesso no que você disse que faria\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:107
 #, no-wrap
 msgid "The specific set of tasks carried out by the individuals assigned to the roles and working on your project, is dependent on the type of digitization that you need to do in order to create your publishable dataset. \n"
 "However, they will most likely include some or all of the following tasks: Specimen/Object Staging, Curation, Data Review, Database Review, Image Capture, Transcription, Data Cleaning, Quality Checking, Georeferencing and Publishing.\n"
-msgstr ""
+msgstr "O conjunto específico de tarefas realizadas pelos indivíduos designados aos papéis e trabalhando em seu projecto, depende do tipo de digitalização que você precisa fazer para criar seu conjunto de dados publicável.\n"
+"No entanto, eles provavelmente incluirão algumas ou todas as seguintes tarefas: espécime/Objecto Staging, Curadoria, Revisão de Dados, Revisão de Base Dados, Captura de Imagem, Transcrição, Limpeza de Dados, Verificação de Qualidade, Georeferência e Publicação.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:114
@@ -9594,7 +9623,10 @@ msgid "Once identified, tasks will need to be scheduled and ordered to be effect
 "There are many way to arrange tasks, some of course will be more efficient than others.\n"
 "We will look more closely at the application of several methods for manging TASKS for data mobilization in the session on ORGANISING.\n"
 "These will include: Groupings, Clustering and Workflows.\n"
-msgstr ""
+msgstr "Uma vez identificadas, as tarefas terão de ser agendadas e ordenadas para serem eficazes.\n"
+"Há muitas maneiras de organizar as tarefas, algumas serão mais eficientes do que outras.\n"
+"Iremos analisar mais de perto a aplicação de vários métodos para manipular TAREFAS para mobilização de dados na sessão sobre ORGANIZAÇÃO.\n"
+"Estes incluirão: Agrupamentos, Clustering e Fluxos de Trabalho.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:117
@@ -9608,7 +9640,7 @@ msgstr "Lembre-se de que, embora não haja nenhum \"tamanho único para todos\",
 #: scripts/resourcing.en.txt:121
 #, no-wrap
 msgid "The third and final element of the definition is the outcome or outcomes.\n"
-msgstr ""
+msgstr "O terceiro e último elemento da definição é o resultado ou resultados.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:127
@@ -9618,85 +9650,89 @@ msgid "GOALS are the “WHAT are you going to do” of the project, and will hav
 "Clearly re-articulating the stated deliverables of a project and when they are due is the critical first step in creating a successful implementation plan.\n"
 "Time should also be spent documenting any implied goals.\n"
 "Whilst these are often more difficult to metricize, they often speak directly to the sustainability of the project and its impact outside of its target audience.\n"
-msgstr ""
+msgstr "Os objectivos são o \"O QUE você irá fazer\" do projecto, e terão sido estabelecidos na proposta original do projecto.\n"
+"Na verdade, este é realmente o lugar para começar.\n"
+"Rearticular claramente os resultados anunciados de um projecto e suas datas limite é o primeiro passo crítico para criar um plano de implementação bem-sucedido.\n"
+"Também deve gastar tempo documentando quaisquer objectivos implícitos.\n"
+"Embora sejam muitas vezes mais difíceis de medir, frequentemente, falam directamente da sustentabilidade do projecto e do seu impacto fora do público-alvo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:131
 #, no-wrap
 msgid "Examples of explicit stated data mobilization goals are: \n"
-msgstr ""
+msgstr "Exemplos de objectivos de mobilização de dados declarados explícitos são: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:133
 #, no-wrap
 msgid "Publishing Data to GBIF and doing it regularly; \n"
-msgstr ""
+msgstr "Publicar Dados no GBIF e fazê-lo regularmente; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:135
 #, no-wrap
 msgid "Inclusion of additional supporting metadata over and above the basic fields if available; \n"
-msgstr ""
+msgstr "Inclusão de metadados de suporte adicionais acima dos campos básicos, se disponível; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:137
 #, no-wrap
 msgid "Taking Images of an object/specimen from from multiple angles, or using advanced techniques such as; CT Scanning or Electron Microscopy; \n"
-msgstr ""
+msgstr "Tirando imagens de um objecto/espécime de vários ângulos, ou usar técnicas avançadas, como a Verificação de CT ou Microscopia Electrônica; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:139
 #, no-wrap
 msgid "Imaging all specimens in a collection as opposed to just of type specimens;  \n"
-msgstr ""
+msgstr "Fazer imagens de todos os espécimes em uma coleção comparativamente com apenas com o espécimes tipo;  \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:141
 #, no-wrap
 msgid "Georeferencing rather than verbatim transcription of localities; Creating and Maintaining your own IPT.\n"
-msgstr ""
+msgstr "Georeferenciação em vez de transcrição textual das localidades; Criar e manter o seu próprio IPT.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:143
 #, no-wrap
 msgid "More implied but equally important goals include: \n"
-msgstr ""
+msgstr "Metas mais implícitas, mas igualmente importantes, incluem: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:145
 #, no-wrap
 msgid "Increased public awareness of local issues.\n"
-msgstr ""
+msgstr "Maior consciência pública sobre problemas locais.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:147
 #, no-wrap
 msgid "The ability to use a successful project as evidence of capacity and expertise when applying for further funding.\n"
-msgstr ""
+msgstr "A capacidade de usar um projecto de sucesso como evidência da capacidade e experiência ao solicitar mais fundos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:149
 #, no-wrap
 msgid "Use of mobilised datasets to effect data driven policy change.\n"
-msgstr ""
+msgstr "Uso de conjuntos de dados mobilizados para influenciar alterações em políticas orientadas por dados.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:153
 #, no-wrap
 msgid "You should break down high level implied or indirect goals into the direct deliverables that will move you towards your goals.\n"
-msgstr ""
+msgstr "Você deve dividir objectivos de alto nível implícitos ou indiretos em produtos diretos que o moverão em direção a seus objetivos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:155
 #, no-wrap
 msgid "For example if your goal is CAPACITY ENHANCEMENT then you could have specific achievements that may include setting up a regional IPT that can used by multiple institutions that cannot host their own or the training of collections staff to create and update their own ipt resources for publication.\n"
-msgstr ""
+msgstr "Por exemplo, se o seu objectivo é o AUMENTO DA CAPACIDADE então poderá ter AÇÕES específicas que possam incluir a criação de um IPT regional que possa ser usado por várias instituições que não possam receber o seu próprio material ou treinar pessoal de colecções para criar e actualizar os seus próprios recursos ipt para publicação.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:157
 #, no-wrap
 msgid "If the goal is INCREASED PUBLIC OUTREACH deliverables could include increased visitation to your collections web pages or increased number of observations by locals and citizen scientists. \n"
-msgstr ""
+msgstr "Se o objectivo é o AUMENTO DA DIVULGAÇÃO PÚBLICA, resultados poderiam incluir o aumento da visita às suas páginas da web de colecções ou o aumento do número de observações por locais e cientistas cidadãos. \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:159
@@ -10073,31 +10109,31 @@ msgstr ""
 #: scripts/standards.en.txt:64
 #, no-wrap
 msgid "numbers - Indo-Arabic\n"
-msgstr ""
+msgstr "números - Indo-Árabe\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:66
 #, no-wrap
 msgid "language - English\n"
-msgstr ""
+msgstr "idioma - Inglês\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:68
 #, no-wrap
 msgid "alphabet - Latin\n"
-msgstr ""
+msgstr "alfabeto - Latim\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:70
 #, no-wrap
 msgid "symbols - typography\n"
-msgstr ""
+msgstr "símbolos - tipografia\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:72
 #, no-wrap
 msgid "font - Roboto\n"
-msgstr ""
+msgstr "fonte - Roboto\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:78
@@ -10105,7 +10141,9 @@ msgstr ""
 msgid "Standards provide ways of constraining the array of possibilities. \n"
 "In the earlier Foundations presentations, you learned about types of data, schemas, formats and character encodings. \n"
 "Each of these can be used to constrain the array of possibilities within the terms of a Standard.\n"
-msgstr ""
+msgstr "Os padrões proporcionam formas de restringir a variedade de possibilidades. \n"
+"Nas apresentações anteriores das Fundações, você aprendeu sobre tipos de dados, esquemas, formatos e codificações de caracteres. \n"
+"Cada um deles pode ser usado para restringir a gama de possibilidades dentro dos termos de um padrão.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:82
@@ -10113,28 +10151,33 @@ msgstr ""
 msgid "Types of data can restrict the values of a field. \n"
 "So alphanumeric text in a text field, decimals in a float. \n"
 "Yes/No in a Boolean.\n"
-msgstr ""
+msgstr "Tipos de dados podem restringir os valores de um campo. \n"
+"Texto alfanumérico em um campo de texto, números decimais em um float. \n"
+"Sim/Não em um booleano.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:85
 #, no-wrap
 msgid "An encoding schema can restrict the range of values in a field. \n"
 "For example, the list of possible latitude values have a range: between -90 and 90.\n"
-msgstr ""
+msgstr "Um esquema de codificação pode restringir o intervalo de valores em um campo. \n"
+"Por exemplo, a lista de valores de latitude possíveis tem um intervalo: entre -90 e 90.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:88
 #, no-wrap
 msgid "A format can restrict the representation of a data in a field. \n"
 "For example, whether a data appears as year month day, or day month year, or month day year.\n"
-msgstr ""
+msgstr "Um formato pode restringir a representação de dados em um campo. \n"
+"Por exemplo, se uma data aparece como ano mês dia, ou dia mês do ano, ou mês dia ano.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:91
 #, no-wrap
 msgid "And then, character encoding provides the rules for interpreting bytes of data. \n"
 "For our purposes, we’ll use UTF-8.\n"
-msgstr ""
+msgstr "E então, a codificação de caracteres fornece as regras para interpretação de bytes de dados. \n"
+"Para os nossos propósitos, vamos usar UTF-8.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:96
@@ -10150,78 +10193,86 @@ msgstr "Durante este curso, irá aprender a partilhar os seus dados. \n"
 msgid "An application schema, allows for the combination of data standards for a specific purpose. \n"
 "For example, using Darwin Core terms within Darwin Core Archives. \n"
 "We’ll delve more into both in just a few moments.\n"
-msgstr ""
+msgstr "Um regime de aplicação permite a combinação de normas de dados para um fim específico. \n"
+"Por exemplo, usar termos do Darwin Core dentro de Darwin Core Archives. \n"
+"Vamos aprofundar mais em ambos em alguns instantes.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:103
 #, no-wrap
 msgid "Again, you will make use of format, but this time the format restricts dataset structures. \n"
 "A dataset may make use of csv, xml, json and rdf.\n"
-msgstr ""
+msgstr "Novamente, você usará o formato, mas desta vez o formato restringe estruturas do conjunto de dados. \n"
+"Um conjunto de dados pode fazer uso de csv, xml, json e rdf.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:106
 #, no-wrap
 msgid "And lastly, you will have a transfer protocol, which provides information on how and where to send information. \n"
 "These might include http (hypertext transfer protocol), ftp (file transfer protocol), and smtp (simple mail transfer protocol or if you like, send mail to people).\n"
-msgstr ""
+msgstr "E, por último, terá um protocolo de transferência, que fornece informações sobre como e onde enviar informações. \n"
+"Estes podem incluir http (protocolo de transferência de hypertexto), ftp (protocolo de transferência de ficheiros), e smtp (protocolo simples de transferência de correspondência ou se preferir, enviar um e-mail para pessoas).\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:112
 #, no-wrap
 msgid "In the domain of biodiversity informatics there are many standards already available that can help you work with your data. \n"
 "The USGS has a very specific definition of these:\n"
-msgstr ""
+msgstr "No domínio da biodiversidade já existem muitas normas disponíveis que podem ajudá-lo a trabalhar com os seus dados. \n"
+"Os USGS têm uma definição muito específica disso:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:115
 #, no-wrap
 msgid "“Data standards are the rules by which data are described and recorded. \n"
 "In order to share, exchange, and understand data, we must standardize the format as well as the meaning.\n"
-msgstr ""
+msgstr "“As normas de dados são as regras pelas quais os dados são descritos e registados. \n"
+"Para partilhar, trocar e entender dados, devemos padronizar o formato e o significado.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:117
 #, no-wrap
 msgid "The result of using these standards, where appropriate, is that you will increase data integrity, accuracy and consistency by clarifying ambiguous meaning and minimizing redundant data.\n"
-msgstr ""
+msgstr "O resultado da utilização destes padrões, quando apropriado, é que você aumentará a integridade dos dados, precisão e consistência, clarificando o significado ambíguo e minimizando os dados redundantes.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:119
 #, no-wrap
 msgid "Those that you are likely to encounter or use on a regular basis may include:\n"
-msgstr ""
+msgstr "Aqueles que você provavelmente irá encontrar ou usar regularmente podem incluir:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:121
 #, no-wrap
 msgid "Ecological Metadata Language Standard (EML) \n"
-msgstr ""
+msgstr "Padrão de Idioma de Metadados Ecológicos (EML) \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:123 scripts/standards.en.txt:236
 #, no-wrap
 msgid "Audubon Media Description (aka Audubon Core)\n"
-msgstr ""
+msgstr "\n"
+" Audubon Media Description (também conhecido como Audubon Core)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:125
 #, no-wrap
 msgid "Global Genome Biodiversity Network(GGBN)\n"
-msgstr ""
+msgstr "Rede Global de Biodiversidade do Genoma (GGBN)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:127
 #, no-wrap
 msgid "Ocean Data Standards and Best Practices Project (ODSBP)\n"
-msgstr ""
+msgstr "Projecto de Padrões de Dados Oceânicos e Melhores Práticas (ODSBP)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:130
 #, no-wrap
 msgid "And last, but not least, we’ll spend the rest of this discussion on Darwin Core. \n"
 "The Darwin Core standard will allow you to share your occurrence, taxonomic, and event datasets.\n"
-msgstr ""
+msgstr "E por último, mas não menos importante, gastaremos o resto desta discussão no Darwin Core. \n"
+"O padrão Darwin Core permitirá que você partilhe conjuntos de dados de ocorrência, taxonómicos e de eventos.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:137
@@ -10230,76 +10281,82 @@ msgid "Darwin Core is a biodiversity standard developed by the Biodiversity Info
 "It was originally developed under the Taxonimic Databases Working Group or T D W G, pronounced TDWG. \n"
 "In recent years, the group has been renamed, Biodiversity Information Standards. \n"
 "But the acronym persists as the community is quite fond of the name TDWG.\n"
-msgstr ""
+msgstr "Darwin Core é um padrão para biodiversidade desenvolvido pela comunidade Informática da Biodiversidade. \n"
+"Foi originalmente desenvolvido pelo Grupo de Trabalho de Bancos de Dados Taxonómicos ou TDWG. \n"
+"Nos últimos anos, o grupo foi renomeado, as Padrões de Informação sobre Biodiversidade. \n"
+"Mas o acrônimo persiste, já que a comunidade gosta bastante do nome TDWG.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:140
 #, no-wrap
 msgid "“The standard includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. \n"
 "Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.”\n"
-msgstr ""
+msgstr "“O padrão inclui um glossário de termos (em outros contextos, estes podem ser chamados de propriedades, elementos, campos, colunas, atributos, ou conceitos) destinados a facilitar a partilha de informações sobre a diversidade biológica fornecendo identificadores, etiquetas e definições. \n"
+"Darwin Core é principalmente baseado nos taxa, sua ocorrência na natureza, conforme documentado por observações, espécimes, amostras e informações relacionadas.\"\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:142
 #, no-wrap
 msgid "So in short, Darwin Core is a “List of fields and their definitions, as they relate to biodiversity data.”\n"
-msgstr ""
+msgstr "Em resumo, Darwin Core é uma \"lista de campos e suas definições, conforme estão relacionados aos dados da biodiversidade\"\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:145
 #, no-wrap
 msgid " \n"
 "// Slide 10\n"
-msgstr ""
+msgstr " \n"
+"// Slide 10\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:148
 #, no-wrap
 msgid "As we dive deeper into Darwin Core or as it is abbreviated, DwC, you’ll learn it is more than JUST a list of fields. \n"
 "We will use Simple Darwin Core which is a predefined subset of the terms that have common use across a wide variety of biodiversity applications.\n"
-msgstr ""
+msgstr "À medida que mergulhamos mais fundo no Darwin Core ou como ele é abreviado, DwC, você o aprenderá que este é mais do que SÓ uma lista de campos. \n"
+"Usaremos o Simple Darwin Core que é um subconjunto predefinido dos termos que têm uso comum em uma ampla variedade de aplicações de biodiversidade.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:150
 #, no-wrap
 msgid "This subset contains greater than 150 fields, that are placed into a set of field classes comprised of:\n"
-msgstr ""
+msgstr "Este subconjunto contém mais de 150 campos, que são colocados em um conjunto de classes de campo com:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:152
 #, no-wrap
 msgid "Record & Dataset\n"
-msgstr ""
+msgstr "Record & Dataset\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:154
 #, no-wrap
 msgid "Occurrence\n"
-msgstr ""
+msgstr "Ocorrência\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:156
 #, no-wrap
 msgid "Organism\n"
-msgstr ""
+msgstr "Organismo\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:158
 #, no-wrap
 msgid "Material Sample\n"
-msgstr ""
+msgstr "Amostra de material\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:160
 #, no-wrap
 msgid "Event\n"
-msgstr ""
+msgstr "Evento\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:162
 #, no-wrap
 msgid "Location\n"
-msgstr ""
+msgstr "Localidade\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:164
