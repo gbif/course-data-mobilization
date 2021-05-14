@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-14 13:16\n"
+"PO-Revision-Date: 2021-05-14 14:17\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -9860,7 +9860,9 @@ msgstr "Por último, revise os recursos disponíveis.\n"
 msgid "Hopefully, the proposal project design, and the landscape in which is was scoped are still valid at implementation time.\n"
 "This should however, never be taken for granted.\n"
 "Things change.\n"
-msgstr ""
+msgstr "Esperamos que o desenho da proposta do seu projecto e da paisagem em que foi desenvolvido o âmbito de aplicação continuem a ser válidos no momento da implementação.\n"
+"Isso nunca deve ser tomado como garantido.\n"
+"As coisas mudam.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:207
@@ -9868,20 +9870,23 @@ msgstr ""
 msgid "It is often the case that many months (and sometimes years) will have passed between the original submission, funding and project start.\n"
 "The original project staff may even no longer be involved.\n"
 "It is imperative therefore, that the deliverables as stated in the proposal are reviewed critically before implementation, before any hardware is bought or tasks begun.\n"
-msgstr ""
+msgstr "Acontece frequentemente que muitos meses (e por vezes anos) terão se passado entre a submissão, o financiamento e o início do projecto.\n"
+"A equipa original do projecto pode até não estar mais envolvida.\n"
+"É imperativo, portanto, que os resultados conforme declarados na proposta sejam revisados criticamente antes da implementação, antes de qualquer hardware ser comprado ou de serem iniciadas tarefas.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:209
 #, no-wrap
 msgid "To paraphrase Gandalf in the book The Hobbit, you don’t need “a mighty warrior” or “even a Hero” to kill a dragon; you just need to “get on and make some plans”.\n"
-msgstr ""
+msgstr "Parafraseando Gandalf no livro The Hobbit, você não precisa de \"um poderoso guerreiro\" ou \"nem mesmo um Herói\" para matar um dragão; você só precisa \"avançar e fazer alguns planos\".\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:212
 #, no-wrap
 msgid "Whilst you may find some warriors to fight your cause, and a hero or two to help you out of a problem along the way, you shouldn’t rely only on them.\n"
 "Knowing who the stalwart troopers and quietly reliable ones in your team is more likely to get you to the finish line on time, on target and within budget.\n"
-msgstr ""
+msgstr "Enquanto você pode encontrar alguns guerreiros para lutar pela sua causa, e um herói ou dois para te ajudar a resolver um problema ao longo do caminho, você não deveria confiar apenas neles.\n"
+"Saber quem é que são os soldados bons e confiáveis em sua equipa, torna mais provável de te levar até a linha final a tempo, atingindo metas e dentro do orçamento.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:219
@@ -9900,14 +9905,16 @@ msgstr "Se tiver dúvidas sobre esta apresentação, use o fórum fornecido na p
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section. \n"
 "We will be introducing you to types of software used in data mobilization.\n"
-msgstr ""
+msgstr "Esta sessão é sobre a base do trabalho e parte da secção de Terminologia. \n"
+"Vamos apresentar os tipos de software usados na mobilização de dados.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:10
 #, no-wrap
 msgid "The purpose of this short presentation is to give you some examples of the different types of applications and software available in the world of biodiversity mobilization informatics. \n"
 "Hopefully it will help you to start to think about what uses they may be put too and what types of things might be practical for you.\n"
-msgstr ""
+msgstr "O objectivo desta breve apresentação é dar alguns exemplos dos diferentes tipos de aplicações e softwares disponíveis no mundo da informática para a mobilização de biodiversidade. \n"
+"Espero que isso ajude a começar a pensar sobre a utilização também e quais tipos de coisas podem ser práticas para você.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:16
@@ -9915,7 +9922,9 @@ msgstr ""
 msgid "So very briefly, a definition. \n"
 "We are making a distinction here between all software and those applications which have been created for an end-user to carry out a task. \n"
 "We will take a look at software that can be used for: Data Capture, Data Management, Data Cleaning and Data Publishing.\n"
-msgstr ""
+msgstr "Uma definição muito sucinta. \n"
+"Estamos fazendo uma distinção aqui entre todos os softwares e aplicações que foram criados para um utilizador final realizar uma tarefa. \n"
+"Nós daremos uma olhada nos softwares que podem ser usados para: Captura de Dados, Gestão de Dados, Limpeza de Dados e Publicação de Dados.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:24
@@ -9925,7 +9934,11 @@ msgid "In the realm of data capture software, there is often no need to go \"big
 "There may even not be a need to create your own system at all. \n"
 "Apps such as iNaturalist, or eBird are stable, robust and have simple intuitive interfaces. \n"
 "Whichever the choice, it is important to think about the long term preservation of the data that you collect.\n"
-msgstr ""
+msgstr "No reino de softwares de captura de dados, muitas vezes não há necessidade de ir \"grande\" ao capturar informações inicialmente, especialmente no campo. \n"
+"Você pode capturar informações de espécimes de colecções ou observações ao vivo em uma tabela simples, como Excel, OpenOffice, LibreOffice ou Google Sheets. \n"
+"Pode até não haver necessidade alguma de criar seu próprio sistema. \n"
+"Aplicações como iNaturalist ou eBird são estáveis, robustos e têm interfaces intuitivas e simples. \n"
+"Seja qual for a escolha, é importante pensar sobre a preservação a longo prazo dos dados que você amostrou.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:32
@@ -9935,14 +9948,19 @@ msgid "So, depending on your needs, a more complex data management software migh
 "More stable management platforms also better support sharing of data to multiple audiences. \n"
 "There are many choices which vary in terms of cost and support and a few are shown here.\n"
 "From left to right: Symbiota, Specify, EMu, Elysia and Brahms.\n"
-msgstr ""
+msgstr "Então, dependendo das suas necessidades, um software de gestão de dados mais complexo pode ser a solução certa para seus dados. \n"
+"Especialmente se a preservação e retenção de longo prazo for uma prioridade. \n"
+"Plataformas de gestão mais estáveis também suportam melhor a partilha de dados para vários públicos. \n"
+"Existem muitas escolhas que variam em termos de custo e apoio e algumas são mostradas aqui.\n"
+"Da esquerda para a direita: Symbiota, Specify, EMu, Elysia e Brahms.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:37
 #, no-wrap
 msgid "If a home-grown solution is preferred and can be supported, relational database software can provide cheaper alternatives. \n"
 "Examples incluse MySQL, SQLServer, Access or filemaker.\n"
-msgstr ""
+msgstr "Se uma solução doméstica for preferida e puder ser suportada por um software de base de dados relacional, poderá fornecer alternativas mais baratas. \n"
+"Exemplos incluem MySQL, SQLServer, Access ou filemaker.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:48
@@ -9955,7 +9973,14 @@ msgid "Increasingly the lines between languages, programs and tools have blurred
 "You will see more of this program in upcoming sessions.  \n"
 "R is another increasingly used, sophisticated programming language and environment. \n"
 "With a little practice it can also provide powerful data manipulations.\n"
-msgstr ""
+msgstr "Cada vez mais as linhas entre linguagens, programas e ferramentas se juntaram, sendo todas capazes de muitas funções complexas e sobrepostas.\n"
+"A função comum Encontrar e Substituir é um bom exemplo de uma ferramenta de limpeza de dados que é encontrada em quase todos os programas de banco de dados e é um comando nas linguagens de banco de dados. \n"
+"Você provavelmente já está familiarizado com tabelas como o Excel e, de fato, estas são provavelmente as ferramentas de limpeza de dados mais comuns disponíveis. \n"
+"No entanto, há outras. \n"
+"O OpenRefine originalmente conhecido como GoogleRefine é uma ferramenta poderosa e gratuita de limpeza de dados de código aberto com uma grande comunidade de suporte. \n"
+"Você verá mais deste programa nas próximas sessões.  \n"
+"R é outra linguagem e ambiente de programação sofisticado, cada vez mais utilizado. \n"
+"Com alguma prática, também pode fornecer poderosas manipulações de dados.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:57
@@ -9966,20 +9991,26 @@ msgid "Planning further ahead to the sharing of your data through GBIF to the in
 "But there are others if this is not the case. \n"
 "You can consider partnering with an existing ipt provider or selecting a database management system that includes a publishing pathway of its own. \n"
 "Whichever you choose, make sure that your system allows you to export data as csv or txt files and you will ultimately be able to publish your data. \n"
-msgstr ""
+msgstr "Planear antecipadamente a partilha de dados por meio do GBIF para a comunidade científica internacional e de decisores, você precisará escolher uma ferramenta de publicação. \n"
+"A escolha dependerá em grande medida do nível de suporte à infraestrutura da sua instituição.\n"
+"Se isso for alto e estável, instalar um IPT ou BioCASe pode ser a opção certa. \n"
+"Mas existem outras se não for esse o caso. \n"
+"Você pode considerar a parceria com um provedor de ipt existente ou selecionar um sistema de gestão de banco de dados que inclua um caminho de publicação próprio. \n"
+"Qualquer que seja sua escolha, certifique-se de que seu sistema permite que você exporte dados como ficheiros csv ou txt e, finalmente, que você será capaz de publicar seus dados. \n"
 
 #. type: Plain text
 #: scripts/software.en.txt:62
 #, no-wrap
 msgid "This is a summary of the information collected in the course survey of software in use by students, mentors and trainers in the GBIF community. \n"
 "The link and reference to more details of each section, is at the bottom of the slide.\n"
-msgstr ""
+msgstr "Este é um resumo das informações coletadas na pesquisa do software do curso em uso por alunos, mentores e treinadores da comunidade GBIF. \n"
+"O link e a referência a mais detalhes de cada turma, está na parte inferior do slide.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:66
 #, no-wrap
 msgid "Remember that: The purpose of software is to help people and not the other way around. Your choice of solution should make your life easier but it should also not sacrifice the long term viability of the data that it is meant to work with.\n"
-msgstr ""
+msgstr "Lembre-se de que: O objetivo do software é ajudar as pessoas e não o contrário. A sua escolha de solução deve facilitar a sua vida, mas ela também não deve sacrificar a viabilidade a longo prazo dos dados com que se destina a trabalhar.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:72
@@ -9998,7 +10029,8 @@ msgstr "Se você tiver dúvidas sobre esta apresentação, use o fórum fornecid
 #, no-wrap
 msgid "In this presentation, we will introduce you to data standards as they relate to biodiversity data. \n"
 "In particular, we will focus on the Darwin Core standard.\n"
-msgstr ""
+msgstr "Nesta apresentação, apresentar-vos-emos as normas relativas aos dados relacionados com os dados da biodiversidade. \n"
+"Em particular, nos focaremos no padrão Darwin Core.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:9
