@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-14 14:17\n"
+"PO-Revision-Date: 2021-05-14 15:31\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -10036,46 +10036,49 @@ msgstr "Nesta apresentação, apresentar-vos-emos as normas relativas aos dados 
 #: scripts/standards.en.txt:9
 #, no-wrap
 msgid "The engineer and industrialist W. Edwards Deming said:\n"
-msgstr ""
+msgstr "O engenheiro e industrialista W. Edwards Deming disse:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:12
 #, no-wrap
 msgid "“Standardisation does not mean that we all wear the same colour and weave of cloth, eat standard sandwiches, or live in standard rooms with standard furnishing. \n"
 "Homes of infinite variety of design are built with a few types of bricks, and with lumber of standard sizes, and with water and heating pipes and fitting of standard dimensions.” \n"
-msgstr ""
+msgstr "\"Padronização não significa que todos nós usamos a mesma cor e tecidos, que comeremos sanduíches padrão ou viveremos em cômodos padrão com mobiliário padrão. \n"
+"Casas de infinitas variedades de design são construídas com alguns tipos de tijolo e com madeiras de tamanhos padrão, e com água e tubos de aquecimento e encaixe de dimensões padrão \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:15
 #, no-wrap
 msgid "What he was trying to say is that using standardization does not prevent us from being creative. \n"
 "He was also showing us that we already live with standards all around us.\n"
-msgstr ""
+msgstr "O que ele queria dizer é que a uniformização não nos impede de ser criativos. \n"
+"Ele também estava nos mostrando que já vivemos com padrões ao nosso redor.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:18
 #, no-wrap
 msgid "As we move forward, we will define the term “Standard” and we’ll look at how we interact with standards every day. \n"
 "We will then introduce you to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.\n"
-msgstr ""
+msgstr "À medida que avançamos, definiremos o termo \"Padrão\" e veremos como interagir com os padrões todos os dias. \n"
+"Apresentaremos você aos padrões de informação para a biodiversidade, incluindo o Darwin Core com o qual você continuará a usar ao longo deste curso.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:22
 #, no-wrap
 msgid "So what is a Standard?\n"
-msgstr ""
+msgstr "Então o que é um Padrão?\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:24
 #, no-wrap
 msgid "At its simplest, it is:\n"
-msgstr ""
+msgstr "De forma simples é:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:26
 #, no-wrap
 msgid "“An agreed way of doing something.”\n"
-msgstr ""
+msgstr "Um método acordado de fazer alguma coisa\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:30
@@ -10083,93 +10086,96 @@ msgstr ""
 msgid "Standards are combinations of norms, conventions, specifications, requirements, restrictions, and rules.\n"
 " \n"
 "// Slide 4\n"
-msgstr ""
+msgstr "Padrões são combinações de normas, convenções, especificações, requisitos, restrições e regras.\n\n"
+"// Slide 4\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:33
 #, no-wrap
 msgid "The main purpose for standards is to create a framework of “mutual understanding”. \n"
 "They should provide clarity and help communication.\n"
-msgstr ""
+msgstr "O principal objectivo dos padrões é criar uma estrutura de \"compreensão mútua\". \n"
+"Eles devem fornecer clareza e ajudar a comunicação.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:35
 #, no-wrap
 msgid "Examples of everyday things that we encounter which make use of standards to aid communication of information are:\n"
-msgstr ""
+msgstr "Exemplos de coisas cotidianas que encontramos que usam padrões para a comunicação de informações são:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:37
 #, no-wrap
 msgid "Units of Measurement\n"
-msgstr ""
+msgstr "Unidade de medida\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:39
 #, no-wrap
 msgid "Numeral Systems\n"
-msgstr ""
+msgstr "Sistemas Numéricos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:41
 #, no-wrap
 msgid "Alphabets\n"
-msgstr ""
+msgstr "Alfabetos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:43
 #, no-wrap
 msgid "Languages\n"
-msgstr ""
+msgstr "Idiomas\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:45
 #, no-wrap
 msgid "Emojis\n"
-msgstr ""
+msgstr "Emojis\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:47
 #, no-wrap
 msgid "Postal Addressing\n"
-msgstr ""
+msgstr "Morada\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:49
 #, no-wrap
 msgid "Morse Code\n"
-msgstr ""
+msgstr "Código Morse\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:51
 #, no-wrap
 msgid "Barcoding\n"
-msgstr ""
+msgstr "Códigos de Barras\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:56
 #, no-wrap
 msgid "Let’s take a very specific example and break it down. \n"
 "Here in order to communicate accurately and repeatedly a position on the earth – a latitude and longitude – is actually a combination of at least 8 standards.\n"
-msgstr ""
+msgstr "Vamos ver um exemplo muito específico. \n"
+"Aqui para comunicar com precisão e repetição uma posição na Terra - uma latitude e longitude - utiliza-se uma combinação de pelo menos 8 padrões.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:58
 #, no-wrap
 msgid "measurement - geographic coordinates \n"
-msgstr ""
+msgstr "medição - coordenadas geográficas \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:60
 #, no-wrap
 msgid "format - degrees, minutes, seconds\n"
-msgstr ""
+msgstr "formato - graus, minutos, segundos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:62
 #, no-wrap
 msgid "numeric system - sexagesimal\n"
-msgstr ""
+msgstr "sistema numérico - sexagesimal\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:64
