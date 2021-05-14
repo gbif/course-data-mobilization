@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-13 14:54\n"
+"PO-Revision-Date: 2021-05-14 12:08\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -9298,57 +9298,64 @@ msgid "Extensions were introduced in the Standards presentation.\n"
 "The approved extensions can be enabled by an IPT administrator on a Production IPT.\n"
 "Draft extensions can be enabled by an IPT administrator on a Test IPT.\n"
 "If you know you have data that cannot be shared with Simple Darwin Core, it is worth reviewing the list of available extensions.\n"
-msgstr ""
+msgstr "As extensões foram introduzidas na apresentação sobre Padrões.\n"
+"Ao publicar um conjunto de dados é quando você as colocará em uso.\n"
+"Como mencionado anteriormente, o GBIF mantém a lista de extensões aprovadas e rascunho de extensões em seu sub-site de ferramentas.\n"
+"As extensões aprovadas podem ser habilitadas por um administrador do IPT em um IPT de produção.\n"
+"Extensões de rascunho podem ser habilitadas por um administrador do IPT em um IPT teste.\n"
+"Se você sabe que tem dados que não podem ser partilhados com o Simple Darwin Core, vale a pena rever a lista de extensões disponíveis.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:152
 #, no-wrap
 msgid "If you think an extension doesn’t exist, try reaching out to members of the TDWG community or posting on the Darwin Core issues site.\n"
 "Community members will help guide you.\n"
-msgstr ""
+msgstr "Se você acha que uma extensão não existe, tente entrar em contacto com membros da comunidade TDWG ou postar no portal de problemas do Darwin Core.\n"
+"Membros da comunidade irão guiá-lo.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:156
 #, no-wrap
 msgid "Also, in the standards presentation, you were introduced to Darwin Core Archives.\n"
-msgstr ""
+msgstr "Além disso, na apresentação de padrões, você foi apresentado a Darwin Core Archives.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:158
 #, no-wrap
 msgid "This is an example of a Darwin Core archive with extensions.\n"
-msgstr ""
+msgstr "Este é um exemplo de um arquivo Darwin Core com extensões.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:160
 #, no-wrap
 msgid "It’s an occurrence dataset that has been published with images, determination history and genebank information.\n"
-msgstr ""
+msgstr "É um conjunto de dados de ocorrência que foi publicado com imagens, histórico de determinação e informações de banco de genes.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:165
 #, no-wrap
 msgid "Until now, it may have been difficult to imagine how two single files can be related.\n"
 "A core with an extension can represent the following relationships.\n"
-msgstr ""
+msgstr "Até agora, pode ter sido difícil imaginar como se pode estabelecer uma relação entre dois ficheiros isolados.\n"
+"Um núcleo com uma extensão pode representar os seguintes relacionamentos.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:167
 #, no-wrap
 msgid "1:0\n"
-msgstr ""
+msgstr "1:0\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:169
 #, no-wrap
 msgid "1:1\n"
-msgstr ""
+msgstr "1:1\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:171
 #, no-wrap
 msgid "1:many\n"
-msgstr ""
+msgstr "1:muitos\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:177
@@ -9757,7 +9764,7 @@ msgstr "Se o objectivo é o AUMENTO DA DIVULGAÇÃO PÚBLICA, resultados poderia
 #: scripts/resourcing.en.txt:159
 #, no-wrap
 msgid "In this way it becomes possible to track the progress of the goal and ultimately report on its success.\n"
-msgstr ""
+msgstr "Desta forma, torna-se possível acompanhar o progresso do objectivo e finalmente relatar o seu sucesso.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:163
