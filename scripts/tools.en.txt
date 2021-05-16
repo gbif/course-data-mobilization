@@ -1,0 +1,99 @@
+// Slide 1
+
+In this presentation, we are going to explore the importance of software tools that can help to maintain, clean and standardize your data.
+
+// Slide 2
+
+Data Quality happens at every step in the data mobilization process. 
+Within the roles on your team, you should ensure that someone is responsible and skilled with data maintenance and manipulation. 
+We know that real-world data are messy and transformation and standardization is needed to make the data easily understandable and fit for use.
+
+When transforming data (for example merging columns, converting coordinates, changing datum, etc), make sure that you document changes and that you have an original copy that you can revert to if necessary.
+
+// Slide 3
+
+As was covered in the foundations section, in choosing tools, some things you should consider include, price, ease of use, documentation and support and any technical requirements to run the tool. 
+No tool is perfect, the importance is to find the right balance and the tool that fits your requirement. 
+
+// Slide 4
+
+The tools you choose may not be the tools that others use within your institution – and that’s just fine, unless your organization places mandates on the tools you can use.  
+You need to find and use the tools that help you to achieve the goals of your institution.
+So, you need to build a palette of tools that will help you and the people with whom you work to do their work as effectively as possible.
+
+// Slide 5
+
+Some of the technical considerations when choosing tools should include the inputs and outputs that the tool uses for files. 
+Does it allow for importing and exporting standardized delimited files? 
+Can you select encoding (for example UTF-8) when opening or saving files to avoid encoding issues with special characters. 
+
+// Slide 6
+
+Also in the Foundations section, we introduced you to a list of software tools compiled by previous trainers, mentors and students of this course. 
+For the remainder of this presentation, we will review some of the tools that will be useful to complete the data management exercises in this course.
+
+// Slide 7
+
+When working with data files, you will often need a text editor that is able to do more than the default text editor that came with your operating system, particularly with Windows and Mac. 
+Some good options include BBEdit, Notepad++ and Sublime. 
+When creating files, you should be consistent and document your local settings and options. 
+When opening and editing files, try different options and check the results to make sure there aren’t any issues before your proceed.
+
+// Slide 8
+
+Here we look at some useful tools for checking taxonomy within your data.
+
+The GBIF Name Parser allows you to divide scientific name into its individual parts.
+The Global Names Resolver uses fuzzy matching to show the accepted taxon or synonym.
+The Catalogue of Life checklist bank offers a name matching tool. 
+It indicates matches found within the checklist bank to the provided list of names and returns back the match along with higher taxonomy.
+
+In addition to these tools, there are tools that deal with specific taxonomic thematic categories like the iPlant Taxonomic Name Resoluton and the World Register of Marine Species
+
+// Slide 9
+
+Often you will find within your datasets, that coordinates have been stored in the degrees minutes seconds format (otherwise known as DMS) and you will need to convert this to decimal degrees to starndarize the data for the Darwin Core fields of decimalLatitude and decimalLongitude. 
+You can do this yourself using this mathematical formula.
+
+Decimal degrees = (minutes + arc-minutes/60 + arc-seconds/3600) * hemisphere
+
+Hemisphere longitudinal: west = -1; east = 1
+
+// Slide 10
+
+However, there are tools online that can help you with geoferencing and the conversion of coordinates.
+
+CRIA’s Species link hosts a variety of data cleaning tools. 
+infoXY can help to get locality information using geographic coordinates.
+
+The Georeferencing Calculator is a tool created to aid in the georeferencing of descriptive localities such as those found in museum-based natural history collections.
+
+Additionally, you may also find Google Maps or Google Earth useful. 
+Google Maps contains all of the navigation, mapping power and points of interest with just a small hint of satellite imagery, while Google Earth has complete 3D satellite data and just a small subset of information on places, without any point-to-point navigation.
+
+As we do not teach georeferencing in this course, it is recommended that you review the Georeferencing documentation, recently updated by the VertNet team at docs.gbif.org before completing any large scale georeferencing project.
+
+// Slide 11
+
+Canadensys offers two tools that can help with both Coordinate and Date conversion. 
+
+// Slide 12
+
+Operating systems come with their own set of command line consoles. 
+Additionally, many desktop tools provide command line functionality to be used within those consoles. 
+Command line tools are great for scripting to automate processes.
+
+// Slide 13
+
+Remember there are many, many sources for validating, cleaning and standardizing your data. 
+Until you develop your preferred list of tried and trusted tools, remember to explore many options.
+
+// Slide 14
+
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+ 
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. 
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. 
+ 
+This presentation was originally created by Nestor Beltran with additional contributions by Sophie Pamerlon and David Bloom, BID and BIFA Trainers, Mentors and Students. 
+This presentation has been narrated by Laura Anne Russell. 
