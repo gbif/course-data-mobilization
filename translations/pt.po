@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-16 16:47+0000\n"
-"PO-Revision-Date: 2021-05-16 18:55\n"
+"PO-Revision-Date: 2021-05-16 19:50\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -947,7 +947,7 @@ msgstr "* 1236975 +\n"
 "  __texto não estruturado__\n"
 "* 1024 +\n"
 "  __integrado__\n"
-"* 29. +\n"
+"* 29.0 +\n"
 "  __float__\n"
 "* Sim/Não +\n"
 "  __booleano__\n"
@@ -2654,7 +2654,7 @@ msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,wi
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr "Os participantes devem submeter o Use Case II (escolha entre duas opções) e Use Case III, e cada caso será classificado conforme as rubricas educacionais do curso. As rubricas definem os níveis de habilidade e desempenho em que os objectivos de aprendizagem do curso são construídos."
+msgstr "Os participantes devem submeter (em inglês) o Use Case II (escolha entre duas opções) e Use Case III, e cada caso será classificado conforme as rubricas educacionais do curso. As rubricas definem os níveis de habilidade e desempenho em que os objectivos de aprendizagem do curso são construídos."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
@@ -10323,8 +10323,7 @@ msgstr "Padrão de Idioma de Metadados Ecológicos (EML) \n"
 #: scripts/standards.en.txt:123 scripts/standards.en.txt:236
 #, no-wrap
 msgid "Audubon Media Description (aka Audubon Core)\n"
-msgstr "\n"
-" Audubon Media Description (também conhecido como Audubon Core)\n"
+msgstr "Audubon Media Description (também conhecido como Audubon Core)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:125
