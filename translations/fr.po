@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-16 16:47+0000\n"
-"PO-Revision-Date: 2021-05-16 18:55\n"
+"PO-Revision-Date: 2021-05-16 19:50\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -7143,7 +7143,7 @@ msgstr "Les données d'événements d’échantillonnage sont une classe de jeux
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
 msgstr "Le modèle GBIF pour les données d'événement permet aux éditeurs de données de partager plus d'informations sur le contexte d'un événement de collecte et d'enregistrement de données sur la biodiversité tel que les pièges photographiques, pièges d'insectes, relevés botaniques, sites de comptage d'oiseaux et ainsi de suite.\n"
-"Sa structure est un peu plus complexe que les jeux de données taxonomiques et les jeux de données d'occurrence car elle implique deux fichiers (par ex. deux onglets dans une feuille de calcul : un pour décrire les « événements » (p. ex. chaque piège) et l'autre pour décrire les spécimens ou les occurrences liés à chaque événement.\n"
+"Sa structure est un peu plus complexe que les jeux de données taxonomiques et les jeux de données d'occurrence car elle implique deux fichiers (par ex. deux onglets dans une feuille de calcul : un pour décrire les \"événements\" (p. ex. chaque piège) et l'autre pour décrire les spécimens ou les occurrences liés à chaque événement.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -8118,7 +8118,7 @@ msgstr "one-to-zero (1:0) - Soit jeter les données soit ajouter un champ.\n"
 #, no-wrap
 msgid "many-to-many (∞ : ∞) -  “for the love of a higher being!” \n"
 "This usually means that your incoming data is very messy and will take time to clean before you can map it.\n"
-msgstr "plusieurs à plusieurs (<unk> : <unk> ) - «pour l'amour d'un être supérieur! \n"
+msgstr "plusieurs à plusieurs (∞ : ∞) - «pour l'amour d'un être supérieur! \n"
 "Cela signifie généralement que vos données entrantes sont très désordonnées et que cela prendra du temps de les nettoyer avant de pouvoir les associer.\n"
 
 #. type: Plain text
@@ -9524,7 +9524,7 @@ msgstr "Trois affiliations font généralement partie du paysage de mobilisation
 #, no-wrap
 msgid "An “INSTITUTIONAL” affiliation usually accounts for teams who work for the institution that is running the project.\n"
 "In the context of the project they are NOT specifically paid by the project. \n"
-msgstr "Une affiliation « INSTITUTIONNELLE» compte généralement pour les équipes qui travaillent pour l'institution qui gère le projet.\n"
+msgstr "Une affiliation \"INSTITUTIONNELLE\" compte généralement pour les équipes qui travaillent pour l'institution qui gère le projet.\n"
 "Dans le contexte du projet ils ne sont PAS payés spécifiquement par le projet.\n"
 
 #. type: Plain text
