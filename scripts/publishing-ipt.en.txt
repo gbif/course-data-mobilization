@@ -1,0 +1,133 @@
+// Slide 1
+
+This presentation introduces the Integrated Publishing Toolkit and its interface.
+
+// Slide 2
+
+The Integrated Publishing Toolkit -- the IPT-- is software that is installed on a server.
+
+It requires a Java applet like Tomcat to run. 
+
+Just like Excel helps you create spreadsheets, the IPT helps you create darwin core archives files, register them with GBIF and makes them discoverable on the internet.
+
+Many institutions do not have the technical resources to host their own IPT, if that is the case with your institution, please investigate the data hosting options on the GBIF website under the How-to menu.
+
+// Slide 3
+
+After installing an IPT, an administrator is required to manage user accounts, publishing organizations and Darwin Core extensions. 
+If your data is being hosted within your own institution or by another institution, make sure you know who the administrator is so that they can assist you when necessary.
+
+// Slide 4
+
+The IPT can be installed in either a test environment or in a production environment. 
+For the purposes of this course, we will be using a test and training environment. 
+When you browse to an IPT page, you will not be logged in. 
+And you will only have two tabs available to you. 
+A home tab and an About tab.
+
+// Slide 5
+
+After logging into the IPT, you will have more tabs available to you. 
+Managers with (and without) registration rights will see the Manage Resources tab. 
+Administrators will see the Manager Resources tab and an Administration tab.
+
+// Slide 6
+
+At the bottom of the Manage Resources tab is a section to Create a New Resource.
+
+A shortname is an abbreviated, but descriptive name that will become part of your URL. 
+It cannot have spaces. An example would be fmnh-herps, or wcs_camera_traps
+
+When creating a resource, do not attempt to add an archive file at this point. 
+You will do it after the resource is created. 
+You will see a video demonstration of this process in the next section.
+
+// Slide 7
+
+After creating a resource, you will be directed to the resource page. 
+Here you will have multiple options for editing the resource.
+
+The first section is for Source Data. 
+This is where you will upload your source data files or make database connections to your source data. 
+For this course, we will upload files.
+
+Once a file is uploaded, you have the opportunity to edit some information about the file.
+
+You can upload delimited text files which include csv, tab, and files using any other delimiter, either directly or compressed with zip or gzip. 
+Excel files are also supported. 
+After a file is uploaded, you will then have an Edit button. 
+You can upload mutiple files if you find you will be using extended data with main file.
+
+Alternatively, you can configure SQL views to databases in your local network. 
+To create a new SQL source, please click "Connect to database" without any file chosen. 
+Creating a database connection will require you to coordinate with your IT support to ensure appropriate permissions. 
+Database connections are typically only supported by institutions hosting their own IPT.
+
+// Slide 8
+
+After a dataset is added, the next step is to map the data. 
+You will see this demonstrated in a later video.
+
+// Slide 9
+
+The third section of the resource is where you will add your metadata describing your dataset.
+
+// Slide 10
+
+Most of the data on the Basic metadata page is required. 
+You must choose a dataset license or waiver and a publishing organization if you intended to register your dataset with GBIF. 
+If you have a GBIF-funded project, you will also need to add your project identifier on the Project data page.
+
+// Slide 11
+
+After the first three sections are complete, a ressource can be published. 
+
+// Slide 12
+
+A ressource must be public in order to register it with GBIF. 
+If the ressource is made public after the initial publication, it will need to be published a second time before it can be registered with GBIF. 
+
+The last section allows you to add other users to help manager your resource. 
+
+// Slide 13
+
+As a reminder, to register a dataset resource with GBIF, a publishing organization must be set in the Metadata section and the resource must be set to Public. 
+Once these conditions are met, then the Register button will be available. 
+If the button is not immediately available. Try publishing one more time.
+
+// Slide 14
+
+Once a dataset is registered with GBIF, it will show up under the publishing institution’s datasets in the GBIF portal.
+
+// Slide 15
+
+Once the dataset is registered with GBIF, it is given a DOI. 
+This DOI will allow users of the data to give proper credit to the dataset and the publishing institution if the dataset is used in research. 
+GBIF tracks citations. 
+Any time the dataset DOI is used in a paper, the citation number on the dataset will increase. 
+You can click the Citation button to see which papers used your dataset.
+
+Also from this page, you can access the occurrences records associated with the dataset. 
+If a checklist, you’d be able to see the taxons.
+
+// Slide 16
+
+All the metadata you entered in IPT is nicely displayed on the dataset page.
+
+// Slide 17
+
+There are many community resources available to you. 
+In the next section you will watch a demonstration video of publishing an occurrence dataset with an extension on the ipt.
+
+// Slide 18
+
+Thank you.
+ 
+If you have questions on this presentation, please use the provided forum in the e-Learning platform.
+ 
+This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. 
+The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. 
+ 
+This presentation was originally created by Nicolas Noe with additional contributions by Sophie Pamerlon, Marie Elise Lecoq, Laura Anne Russell, Dag Endresen, Rukaya Johaadien, BID and BIFA Trainers, Mentors and students. 
+ 
+This presentation has been narrated by Laura Anne Russell.
