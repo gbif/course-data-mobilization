@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-05-16 16:47+0000\n"
-"PO-Revision-Date: 2021-05-16 19:50\n"
+"PO-Revision-Date: 2021-05-16 21:00\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -781,7 +781,7 @@ msgstr "Instalação no MS Windows"
 #. type: delimited block *
 #: foundations.en.adoc:243
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[Windows kit] or https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit with embedded Java]."
-msgstr "Descarregue o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[kit do Windows] ou https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[kit do Windows com Java embutido."
+msgstr "Descarregue o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[kit do Windows] ou https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[kit do Windows com Java embutido]."
 
 #. type: delimited block *
 #: foundations.en.adoc:244
@@ -1817,7 +1817,7 @@ msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
 "image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
 msgstr ":figure-caption!:\n"
-".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologista colhendo borboletas by Matthieu Gauvain (CC-BY-SA)\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologista colhendo borboletas] by Matthieu Gauvain (CC-BY-SA)\n"
 "image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
@@ -2022,7 +2022,7 @@ msgstr "*Verificações de validação*\n"
 #. type: Plain text
 #: management.en.adoc:37
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
-msgstr "Neste exercício, vamo-nos concentrar em erros técnicos e realizar uma verificação de validação básica para identificar erros técnicos. Consulte <<Validation checks>> para obter informações sobre os tipos de erros."
+msgstr "Neste exercício, vamo-nos concentrar em erros técnicos e realizar uma verificação de validação básica para identificar erros técnicos. Consulte <<Verificações da validação>> para obter informações sobre os tipos de erros."
 
 #. type: Plain text
 #: management.en.adoc:39
@@ -2104,7 +2104,7 @@ msgstr "Erros geográficos / outliers"
 #. type: Plain text
 #: management.en.adoc:63
 msgid "Refer to <<Helpful tools>> in order to complete the exercise.  You are not limited to these tools, you may use any tools you like."
-msgstr "Consulte <<Helpful tools>> para completar o exercício. Não está limitado a essas ferramentas, pode usar qualquer ferramenta que quiser."
+msgstr "Consulte <<Ferramentas úteis>> para completar o exercício. Não está limitado a essas ferramentas, pode usar qualquer ferramenta que quiser."
 
 #. type: Plain text
 #: management.en.adoc:64
@@ -3470,7 +3470,7 @@ msgstr "Assumindo o papel de um dos voluntários com competências informáticas
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:144
 msgid "Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
-msgstr "Link para download:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
+msgstr "Link para download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:146
@@ -3485,7 +3485,7 @@ msgstr "Para este exercício, você assumirá o papel do especialista taxonómic
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:157
 msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
-msgstr "Link para download:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
+msgstr "Link para download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
 
 #. type: Title ==
 #: use-case-birds-from-literature.en.adoc:3
@@ -3835,7 +3835,7 @@ msgstr "CASO DE USO II"
 #. type: Plain text
 #: assignments.en.adoc:9
 msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
-msgstr "Existem duas opções para o CASO DE USO II (<<use-case-ii-invasive-species,Invasive species>> OU <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>). Só precisa de selecionar um deles para a sua atividade."
+msgstr "Existem duas opções para o CASO DE USO II (<<use-o-caso-ii-espécie-invasora,Espécie invasora>> OU <<caso-de-uso-ii-avistamentos-de-lepidoptera,avistamentos de Lepidoptera>>). Só precisa de selecionar um deles para a sua atividade."
 
 #. type: Plain text
 #: assignments.en.adoc:11 assignments.en.adoc:20
@@ -3866,7 +3866,7 @@ msgstr "CASO DE USO III"
 #. type: Plain text
 #: assignments.en.adoc:18
 msgid "There is only one option for USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
-msgstr "Há apenas uma opção para USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
+msgstr "Há apenas uma opção para USE CASE III (<<caso-de-uso-iii-aves-a-partir-de-literatura,Aves a partir de literatura>>)."
 
 #. type: Plain text
 #: assignments.en.adoc:26
@@ -3966,7 +3966,7 @@ msgstr "https://doi.org/10.35035/doc-5xdm-8762[Melhores Práticas para a Publica
 #. type: Plain text
 #: keydocs.en.adoc:23
 msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
-msgstr "https://doi.org/10. 5035/doc-b8hq-me03[Guia para empresas privadas tornarem-se publicadores de dados através de GBIF: Documento modelo para apoiar o processo de autorização interno para se tornar um publicador do GBIF + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezoish, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
+msgstr "https://doi.org/10.35035/doc-b8hq-me03[Guia para empresas privadas tornarem-se publicadores de dados através de GBIF: Documento modelo para apoiar o processo de autorização interno para se tornar um publicador do GBIF + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezoish, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:26
@@ -4306,7 +4306,7 @@ msgstr "https://www.gbif.org/document/80528/principles-and-methods-of-data-clean
 #. type: Plain text
 #: keydocs.en.adoc:128
 msgid "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^] + DataOne 2014."
-msgstr "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope ye-who-enter-dates-in-excel[Tenha cuidado com as datas no Excel^] + DataOne 2014."
+msgstr "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Tenha cuidado com as datas no Excel^] + DataOne 2014."
 
 #. type: Plain text
 #: keydocs.en.adoc:129
@@ -5271,7 +5271,7 @@ msgstr "Ferramentas on-line como o Scientific Names Resolver ou Google Maps"
 #. type: Plain text
 #: solutions.en.adoc:247
 msgid "All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful tools>> listed in the data management section."
-msgstr "Todos os tipos de ferramentas podem ser usadas para limpar os seus dados, mas deve identificar quais responderão às suas necessidades em termos de resolução taxonómica, georeferenciação, exclusão de duplicados e assim por diante. Pode encontrar <<helpful tools>> listados na seção de gestão de dados."
+msgstr "Todos os tipos de ferramentas podem ser usadas para limpar os seus dados, mas deve identificar quais responderão às suas necessidades em termos de resolução taxonómica, georeferenciação, exclusão de duplicados e assim por diante. Pode encontrar <<Ferramentas úteis>> listados na seção de gestão de dados."
 
 #. type: Title ===
 #: solutions.en.adoc:248
