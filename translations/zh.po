@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-11 11:43\n"
+"POT-Creation-Date: 2021-05-16 16:47+0000\n"
+"PO-Revision-Date: 2021-05-16 16:56\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -269,12 +269,12 @@ msgstr ""
 
 #. type: Plain text
 #: downloads.en.adoc:20
-msgid "Management.zip"
+msgid "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
 msgstr ""
 
 #. type: Plain text
 #: downloads.en.adoc:22
-msgid "Publishing.zip"
+msgid "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
 msgstr ""
 
 #. type: Plain text
@@ -1873,7 +1873,7 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:18
-msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
+msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
 msgstr ""
 
 #. type: Title ===
@@ -2019,7 +2019,7 @@ msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:73
-msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/DataManagement_OpenRefine_narration.mp4[download,opts=download] it locally. (MP4 - 37.1 MB)"
+msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
 msgstr ""
 
 #. type: Plain text
@@ -2311,7 +2311,7 @@ msgstr ""
 
 #. type: Plain text
 #: publishing.en.adoc:18
-msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
+msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
 msgstr ""
 
 #. type: Title ====

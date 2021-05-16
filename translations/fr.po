@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-11 11:42\n"
+"POT-Creation-Date: 2021-05-16 16:47+0000\n"
+"PO-Revision-Date: 2021-05-16 19:50\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -269,13 +269,13 @@ msgstr "link:../videos/Capture.zip[Capture.zip,opts=download] (63,1 Mo)"
 
 #. type: Plain text
 #: downloads.en.adoc:20
-msgid "Management.zip"
-msgstr ""
+msgid "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
+msgstr "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:22
-msgid "Publishing.zip"
-msgstr ""
+msgid "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
+msgstr "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:24
@@ -1988,8 +1988,8 @@ msgstr "Outils de gestion des données"
 
 #. type: Plain text
 #: management.en.adoc:18
-msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Dans cette vidéo (??:??), vous apprendrez une variété d'outils que vous pouvez utiliser pour améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la télécharger localement. (MP4 - ??,?? Mo)"
+msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
+msgstr "Dans cette vidéo (06:42), vous apprendrez une variété d'outils que vous pouvez utiliser pour améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Data_Management_Tools.mp4[ télécharger,opts=download] localement. (MP4 - 10.3 Mo)"
 
 #. type: Title ===
 #: management.en.adoc:21
@@ -2134,8 +2134,8 @@ msgstr "Exercice 3c"
 
 #. type: Plain text
 #: management.en.adoc:73
-msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/DataManagement_OpenRefine_narration.mp4[download,opts=download] it locally. (MP4 - 37.1 MB)"
-msgstr "Dans cette vidéo (03:27), vous en apprendrez plus sur https://openrefine.org/[OpenRefine^]. Vous pouvez utiliser OpenRefine pour standardiser et améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/DataManagement_OpenRefine_narration.mp4[télécharger^,opts=download] localement. (MP4 - 37,1 Mo)"
+msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
+msgstr "Dans cette vidéo (03:27), vous en apprendrez plus sur https://openrefine.org/[OpenRefine^]. Vous pouvez utiliser OpenRefine pour standardiser et améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Data_Management_OpenRefine.mp4[télécharger^,opts=download] localement. (MP4 - 37,1 Mo)"
 
 #. type: Plain text
 #: management.en.adoc:77
@@ -2458,8 +2458,8 @@ msgstr "Présentation générale de l'IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:18
-msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Dans cette vidéo (??:??), vous aurez un aperçu de l'interface de publication des données de l'IPT. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la télécharger sur votre ordinateur. (MP4 - ??,?? Mo)"
+msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
+msgstr "Dans cette vidéo (06:56), vous recevrez une vue d'ensemble de l'interface de publication des données IPT. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la lier:../videos/Data_publishing_IPT.mp4[download^,opts=download] localement. (MP4 - 8,7 Mo)"
 
 #. type: Title ====
 #: publishing.en.adoc:21
@@ -5686,7 +5686,7 @@ msgstr "Contributeurs"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
-msgstr "Le _Cours de mobilisation des données sur la biodiversité du GBIF_ a été développé à l'origine dans le cadre du https://www.gbif.org/bid[Biodiversity Information Development^], un programme financé par l’ https://europa.eu[Union européenne^]. Le programme initial a été créé par Nestor Beltran, Sharon Grant, Nicolas Noee, Sophie Pamerlon, Alberto Gonzaëlez-Talaván, Melianie Raymond, Laura Anne Russell et Katia Cezón, avec des contributions supplémentaires des formateurs, mentors et étudiants du GBIF."
+msgstr "Le _Cours de mobilisation des données sur la biodiversité du GBIF_ a été développé à l'origine dans le cadre du https://www.gbif.org/bid[Biodiversity Information Development^], un programme financé par l’link:https://europa.eu[Union européenne^]. Le programme initial a été créé par Nestor Beltran, Sharon Grant, Nicolas Noee, Sophie Pamerlon, Alberto Gonzaëlez-Talaván, Melianie Raymond, Laura Anne Russell et Katia Cezón, avec des contributions supplémentaires des formateurs, mentors et étudiants du GBIF."
 
 #. type: Title ===
 #: colophon.en.adoc:11
@@ -7143,7 +7143,7 @@ msgstr "Les données d'événements d’échantillonnage sont une classe de jeux
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
 msgstr "Le modèle GBIF pour les données d'événement permet aux éditeurs de données de partager plus d'informations sur le contexte d'un événement de collecte et d'enregistrement de données sur la biodiversité tel que les pièges photographiques, pièges d'insectes, relevés botaniques, sites de comptage d'oiseaux et ainsi de suite.\n"
-"Sa structure est un peu plus complexe que les jeux de données taxonomiques et les jeux de données d'occurrence car elle implique deux fichiers (par ex. deux onglets dans une feuille de calcul : un pour décrire les « événements » (p. ex. chaque piège) et l'autre pour décrire les spécimens ou les occurrences liés à chaque événement.\n"
+"Sa structure est un peu plus complexe que les jeux de données taxonomiques et les jeux de données d'occurrence car elle implique deux fichiers (par ex. deux onglets dans une feuille de calcul : un pour décrire les \"événements\" (p. ex. chaque piège) et l'autre pour décrire les spécimens ou les occurrences liés à chaque événement.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -8118,7 +8118,7 @@ msgstr "one-to-zero (1:0) - Soit jeter les données soit ajouter un champ.\n"
 #, no-wrap
 msgid "many-to-many (∞ : ∞) -  “for the love of a higher being!” \n"
 "This usually means that your incoming data is very messy and will take time to clean before you can map it.\n"
-msgstr "plusieurs à plusieurs (<unk> : <unk> ) - «pour l'amour d'un être supérieur! \n"
+msgstr "plusieurs à plusieurs (∞ : ∞) - «pour l'amour d'un être supérieur! \n"
 "Cela signifie généralement que vos données entrantes sont très désordonnées et que cela prendra du temps de les nettoyer avant de pouvoir les associer.\n"
 
 #. type: Plain text
@@ -9524,7 +9524,7 @@ msgstr "Trois affiliations font généralement partie du paysage de mobilisation
 #, no-wrap
 msgid "An “INSTITUTIONAL” affiliation usually accounts for teams who work for the institution that is running the project.\n"
 "In the context of the project they are NOT specifically paid by the project. \n"
-msgstr "Une affiliation « INSTITUTIONNELLE» compte généralement pour les équipes qui travaillent pour l'institution qui gère le projet.\n"
+msgstr "Une affiliation \"INSTITUTIONNELLE\" compte généralement pour les équipes qui travaillent pour l'institution qui gère le projet.\n"
 "Dans le contexte du projet ils ne sont PAS payés spécifiquement par le projet.\n"
 
 #. type: Plain text

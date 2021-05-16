@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-11 11:33+0000\n"
-"PO-Revision-Date: 2021-05-11 11:43\n"
+"POT-Creation-Date: 2021-05-16 16:47+0000\n"
+"PO-Revision-Date: 2021-05-16 19:50\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -30,7 +30,7 @@ msgstr "Secretariado do GBIF <training@gbif.org>"
 #. type: Plain text
 #: index.en.adoc:17
 msgid "languageLinks:combined[]"
-msgstr "idiomaLinks:combined[]"
+msgstr "languageLinks:combined[]"
 
 #. type: Block title
 #: index.en.adoc:22
@@ -53,7 +53,7 @@ msgstr "Descrição do curso"
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "This course enables participants to plan and implement biodiversity data mobilization efforts effectively using accepted community standards.  Its aim is to increase the volume, richness and quality of the data published through the GBIF network.  This course was first developed as part of the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development] (BID) programme funded by the https://europa.eu/[European Union]."
-msgstr "Este curso permite aos participantes planear e implementar os esforços de mobilização de dados de biodiversidade efetivamente, utilizando os padrões aceites da comunidade. O objectivo é aumentar o volume, a riqueza e a qualidade dos dados publicados através da rede GBIF. Este curso foi desenvolvido pela primeira vez no âmbito do programa de informação sobre biodiversidade para o desenvolvimento (BID), financiado pela União Europeia]."
+msgstr "Este curso permite aos participantes planear e implementar os esforços de mobilização de dados de biodiversidade efetivamente, utilizando os padrões aceites da comunidade. O objectivo é aumentar o volume, a riqueza e a qualidade dos dados publicados através da rede GBIF. Este curso foi desenvolvido pela primeira vez no âmbito https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[do programa de informação sobre biodiversidade para o desenvolvimento] (BID), financiado pela https://europa.eu/[União Europeia]."
 
 #. type: delimited block *
 #: description.en.adoc:10
@@ -223,7 +223,7 @@ msgstr "Certificação"
 #. type: Plain text
 #: description.en.adoc:56
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge].  See <<assessment-and-certification,Assessment and Certification>> for more details."
-msgstr "Após a conclusão bem sucedida do curso e avaliação bem sucedida das recomendações (por treinadores e mentores), os participantes têm a oportunidade de receber uma certificação oficial sob a forma de https://openbadges. rg/[Open Badge]. Veja <<assessment-and-certification,Assessment and Certification>> para mais detalhes."
+msgstr "Após a conclusão bem sucedida do curso e avaliação bem sucedida das recomendações (por treinadores e mentores), os participantes têm a oportunidade de receber uma certificação oficial sob a forma de https://openbadges.org/[Open Badge^]. Veja <<assessment-and-certification,Assessment and Certification>> para mais detalhes."
 
 #. type: Title ==
 #: downloads.en.adoc:1
@@ -250,37 +250,37 @@ msgstr "Os vídeos são narrados em inglês. Há dobragem em francês, espanhol 
 #. type: Plain text
 #: downloads.en.adoc:12
 msgid "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
-msgstr ""
+msgstr "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:14
 msgid "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
-msgstr ""
+msgstr "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:16
 msgid "link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
-msgstr ""
+msgstr "link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:18
 msgid "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
-msgstr ""
+msgstr "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:20
-msgid "Management.zip"
-msgstr ""
+msgid "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
+msgstr "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:22
-msgid "Publishing.zip"
-msgstr ""
+msgid "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
+msgstr "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:24
 msgid "link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
-msgstr ""
+msgstr "link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
 
 #. type: Title ===
 #: downloads.en.adoc:25
@@ -330,7 +330,7 @@ msgstr "Definições"
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr "Neste vídeo (12:02), poderá rever a terminologia usada neste curso. Se não puder assistir o vídeo incorporado no Vimeo, utilize o link:. /videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 38.5 MB)"
+msgstr "Neste vídeo (12:02), poderá rever a terminologia usada neste curso. Se não puder assistir o vídeo incorporado, utilize o link:../videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 38.5 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:19
@@ -341,7 +341,7 @@ msgstr "Software"
 #. type: Plain text
 #: foundations.en.adoc:23
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr "Neste vídeo (05:58), revisará exemplos dos diferentes tipos de aplicações e softwares disponíveis no mundo da mobilização da informática para a biodiversidade. Se não puder assistir ao vídeo do Vimeo, use o link:../videos/Foundations_Software.mp4[download^,opts=download] localmente. (MP4 - 18.9 MB)"
+msgstr "Neste vídeo (05:58), revisará exemplos dos diferentes tipos de aplicações e softwares disponíveis no mundo da mobilização da informática para a biodiversidade. Se não puder assistir ao vídeo, use o link:../videos/Foundations_Software.mp4[download^,opts=download] localmente. (MP4 - 18.9 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:25
@@ -357,7 +357,7 @@ msgstr "Estructuras"
 #. type: Plain text
 #: foundations.en.adoc:30
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr "Neste vídeo (13:10), irá rever os tipos de campos e de dados que possuem dados, as estruturas que ajudam a organizar e proteger esses dados e o que eles significam para a integridade e a segurança de seus dados. Se não conseguir assistir ao vídeo embutido do Vimeo, use o link:../videos/Foundations_Structures.mp4[download^,opts=download] localmente. (MP4 - 38.8 MB)"
+msgstr "Neste vídeo (13:10), irá rever os tipos de campos e de dados que possuem dados, as estruturas que ajudam a organizar e proteger esses dados e o que eles significam para a integridade e a segurança de seus dados. Se não conseguir assistir ao vídeo embutido, use o link:../videos/Foundations_Structures.mp4[download^,opts=download] localmente. (MP4 - 38.8 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:33
@@ -368,12 +368,12 @@ msgstr "Qualidade dos dados"
 #. type: Plain text
 #: foundations.en.adoc:37
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr "Neste vídeo (12:26), poderá rever a terminologia usada neste curso. Se não puder assistir o vídeo incorporado no Vimeo, utilize o link:. /videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 44.5 MB)"
+msgstr "Neste vídeo (12:26), poderá rever a terminologia usada neste curso. Se não puder assistir o vídeo incorporado, utilize o link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] localmente. (MP4 - 44.5 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:44
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
-msgstr "Abaixo encontrará uma leitura selecionada do guia do Arthur Chapman: “Princípios da qualidade de dados”. https://www.gbif.org/document/80509/principles-of-data-quality[Documento completo ^], referências e traduções podem ser encontradas em GBIF.org."
+msgstr "Abaixo encontrará uma leitura selecionada do guia do Arthur Chapman: “Princípios da qualidade de dados”. https://www.gbif.org/document/80509/principles-of-data-quality[Documento completo^], referências e traduções podem ser encontradas em GBIF.org."
 
 #. type: delimited block _
 #: foundations.en.adoc:49
@@ -532,7 +532,7 @@ msgstr "Documentação"
 #. type: delimited block *
 #: foundations.en.adoc:146
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr "Neste vídeo (09:47), daremos uma visão geral da importância da documentação no que se refere à gestão e publicação de dados. Você aprenderá sobre mapeamento de dados, relações e metadados. Se não puder assistir o vídeo embutido do Vimeo, poderá utilizar o link:../videos/Foundations_Documentation.mp4[download^,opts=download] localmente. (MP4 - 29.2 MB)"
+msgstr "Neste vídeo (09:47), daremos uma visão geral da importância da documentação no que se refere à gestão e publicação de dados. Você aprenderá sobre mapeamento de dados, relações e metadados. Se não puder assistir o vídeo embutido, poderá utilizar o link:../videos/Foundations_Documentation.mp4[download^,opts=download] localmente. (MP4 - 29.2 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:149
@@ -947,7 +947,7 @@ msgstr "* 1236975 +\n"
 "  __texto não estruturado__\n"
 "* 1024 +\n"
 "  __integrado__\n"
-"* 29. +\n"
+"* 29.0 +\n"
 "  __float__\n"
 "* Sim/Não +\n"
 "  __booleano__\n"
@@ -1042,7 +1042,7 @@ msgstr "- [ ] O director do museu ou do departamento\n"
 #. type: Plain text
 #: foundations.en.adoc:375
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
-msgstr "Para as afirmações fornecidas, insira a imagem correspondente. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360]"
+msgstr "Para as afirmações fornecidas, insira a imagem correspondente. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 
 #. type: delimited block .
 #: foundations.en.adoc:386
@@ -1134,7 +1134,7 @@ msgstr "Familiarize-se com o cenário do caso."
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr "O caso I, é um caso prático para o planeamento, captura de dados, gestão de dados e módulos de publicação de dados. É recomendável que você desacarregue o link:../course-docs/UC1-Herbarium-Exercise_EN. ocx[folha de exercícios, opts=download] (MS Word 345 KB) para que possa fazer anotações conforme trabalha nos exercícios. Uma solução sugerida será fornecida no apêndice da solução. O caso I não é avaliado."
+msgstr "O caso I, é um caso prático para o planeamento, captura de dados, gestão de dados e módulos de publicação de dados. É recomendável que você desacarregue o link:../course-docs/UC1-Herbarium-Exercise_EN.docx[folha de exercícios, opts=download] (MS Word 345 KB) para que possa fazer anotações conforme trabalha nos exercícios. Uma solução sugerida será fornecida no apêndice da solução. O caso I não é avaliado."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1154,7 +1154,7 @@ msgstr "*Um Projecto de Mobilização de Dados em um Herbário Regional*\n"
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] coletado na Guatemala por Coleção de Referência Rápida (RRC) Express Museum of Natural History - Keller Action Science Center (licenciado sob http://creativecommons. rg/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
+msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] coletado na Guatemala por Coleção de Referência Rápida (RRC) Express Museum of Natural History - Keller Action Science Center (licenciado sob http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
@@ -1286,7 +1286,7 @@ msgstr "Recursos"
 #. type: Plain text
 #: planning.en.adoc:12
 msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded video, you can link:../videos/Planning_Resourcing.mp4[download^,opts=download] it locally. (MP4 - 25.1 MB)"
-msgstr "Neste vídeo (15:09), você aprenderá como definir os elementos que terão impacto em um projecto e analisará as interações entre os elementos. Se não conseguir assistir o vídeo incorporado no Vimeo, pode utilizar o link:../videos/Planning_Resourcing.mp4[download^,opts=download] localmente. (MP4 - 25.1 MB)"
+msgstr "Neste vídeo (15:09), você aprenderá como definir os elementos que terão impacto em um projecto e analisará as interações entre os elementos. Se não conseguir assistir o vídeo incorporado, pode utilizar o link:../videos/Planning_Resourcing.mp4[download^,opts=download] localmente. (MP4 - 25.1 MB)"
 
 #. type: Title ===
 #: planning.en.adoc:15
@@ -1297,7 +1297,7 @@ msgstr "Organizador"
 #. type: Plain text
 #: planning.en.adoc:19
 msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
-msgstr "Este vídeo (15:52) concentra-se em tarefas e nas formas como elas podem ser organizadas a fim de preparar planos de trabalho práticos e documentação clara. Se não puder assistir o vídeo embutido do Vimeo, utilize o link:../videos/Planning_Organizing.mp4[download^,opts=download] localmente. (MP4 - 26,2 MB)"
+msgstr "Este vídeo (15:52) concentra-se em tarefas e nas formas como elas podem ser organizadas a fim de preparar planos de trabalho práticos e documentação clara. Se não puder assistir o vídeo embutido, utilize o link:../videos/Planning_Organizing.mp4[download^,opts=download] localmente. (MP4 - 26,2 MB)"
 
 #. type: Title ===
 #: planning.en.adoc:22
@@ -1462,7 +1462,7 @@ msgstr "Uma vez que as cartas estejam atribuídas, tire fotos/capturas de tela."
 #. type: Plain text
 #: planning.en.adoc:85
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
-msgstr ""
+msgstr "Use o <<exercise-sheet,exercise sheet>> para escrever as suas respostas."
 
 #. type: delimited block *
 #: planning.en.adoc:88
@@ -1675,7 +1675,7 @@ msgstr "Padrões e Darwin Core"
 #. type: Plain text
 #: capture.en.adoc:13
 msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
-msgstr "Neste vídeo (15:37), irá aprender como interagir com os padrões no dia-a-dia. Seguidamente, ser-lhe-ão apresentados os https://www. dwg.org/[Padrões de Informações de Biodiversidade^], incluindo https://www.tdwg. rg/standards/dwc/[Padrão Darwin Core^] que irá usar durante deste curso. Se não puder assistir ao vídeo integrado do Vimeo, poderá utilizar o link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] localmente. (MP4 - 27 MB)"
+msgstr "Neste vídeo (15:37), irá aprender como interagir com os padrões no dia-a-dia. Seguidamente, ser-lhe-ão apresentados os https://www.tdwg.org/[Padrões de Informações de Biodiversidade^], incluindo https://www.tdwg.org/standards/dwc/[Padrão Darwin Core^] que irá usar durante deste curso. Se não puder assistir ao vídeo integrado, poderá utilizar o link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] localmente. (MP4 - 27 MB)"
 
 #. type: Title ===
 #: capture.en.adoc:16
@@ -1686,7 +1686,7 @@ msgstr "Tipos e origens de dados"
 #. type: Plain text
 #: capture.en.adoc:20
 msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "Neste vídeo (10:45), poderá rever https://www.gbif.org/dataset-classes[os dados primários de biodiversidade^] que podem ser partilhados através do GBIF. Se não conseguir ver o vídeo integrado do Vimeo, pode clicar para:../videos/data_origins_types.mp4[descarregar^,opts=download] e ver localmente. (MP4 - 19 MB)"
+msgstr "Neste vídeo (10:45), poderá rever https://www.gbif.org/dataset-classes[os dados primários de biodiversidade^] que podem ser partilhados através do GBIF. Se não conseguir ver o vídeo integrado, pode clicar link:../videos/data_origins_types.mp4[descarregar^,opts=download] e ver localmente. (MP4 - 19 MB)"
 
 #. type: delimited block *
 #: capture.en.adoc:25
@@ -1718,7 +1718,7 @@ msgstr "Captura de dados, processamento e qualidade"
 #. type: Plain text
 #: capture.en.adoc:35
 msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "Neste vídeo (09:11), irá explorar os princípios da qualidade de dados aplicada à captura de dados, em particular a transcrição de dados das etiquetas de colecção, notas de campo, folhas de cálculo, etc. Se não puder assistir o vídeo incorporado no Vimeo, poderá clicar para:../videos/Data_capture_processing_quality.mp4[descarregar^,opts=download] e ver localmente. (MP4 - 19 MB)"
+msgstr "Neste vídeo (09:11), irá explorar os princípios da qualidade de dados aplicada à captura de dados, em particular a transcrição de dados das etiquetas de colecção, notas de campo, folhas de cálculo, etc. Se não puder assistir o vídeo incorporado, poderá clicar link:../videos/Data_capture_processing_quality.mp4[descarregar^,opts=download] e ver localmente. (MP4 - 19 MB)"
 
 #. type: Title ===
 #: capture.en.adoc:38 use-case-invasive-species.en.adoc:112
@@ -1731,7 +1731,7 @@ msgstr "Exercício 2"
 #. type: Plain text
 #: capture.en.adoc:42
 msgid "For this activity, you will complete an exercise simulating data capture.  You will begin to work with https://dwc.tdwg.org/terms/[Darwin Core terms^] and make decisions on data that is needed for your organization/project and you will consider which of that data will be shared later during publication."
-msgstr "Nesta atividade, irá concluir um exercício simulando a captura de dados. Começará a trabalhar com https://dwc.tdwg. rg/terms/[os termos Darwin Core^] e tomar decisões sobre dados que são necessários para a sua organização/projeto, e irá considerar quais os dados que serão partilhados mais tarde durante a publicação."
+msgstr "Nesta atividade, irá concluir um exercício simulando a captura de dados. Começará a trabalhar com https://dwc.tdwg.org/terms/[os termos Darwin Core^] e tomar decisões sobre dados que são necessários para a sua organização/projeto, e irá considerar quais os dados que serão partilhados mais tarde durante a publicação."
 
 #. type: Plain text
 #: capture.en.adoc:46
@@ -1741,7 +1741,7 @@ msgstr "Imagine que é a pessoa designada para transcrever os dados encontrados 
 #. type: Plain text
 #: capture.en.adoc:51
 msgid "Download link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB).  There are 10 images. Two images per specimen for a total of five specimens.  The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels.  Remember to use both images per record to compile the information."
-msgstr "Link de download:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB). Existem 10 imagens. Duas imagens por espécime para um total de cinco espécimes As folhas de herbário estão em espanhol (os dados podem chegar-lhe por várias vias e noutras línguas que não a sua), mas deve poder reconhecer os dados contidos nos campos das etiquetas. Lembre-se de usar ambas as imagens por registro para compilar as informações."
+msgstr "Link de download link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB). Existem 10 imagens. Duas imagens por espécime para um total de cinco espécimes As folhas de herbário estão em espanhol (os dados podem chegar-lhe por várias vias e noutras línguas que não a sua), mas deve poder reconhecer os dados contidos nos campos das etiquetas. Lembre-se de usar ambas as imagens por registro para compilar as informações."
 
 #. type: Plain text
 #: capture.en.adoc:52
@@ -1978,7 +1978,7 @@ msgstr "Princípios da gestão de dados"
 #. type: Plain text
 #: management.en.adoc:11
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr "Neste vídeo (09:49), irá analisar um conjunto importante de princípios necessários para melhorar os dados através dos processos de limpeza de dados. Se não conseguir assistir ao vídeo incorporado no Vimeo, pode carregar o link:../videos/Data_Management.mp4[descarregar^,opts=download] localmente. (MP4 - 16.6 MB)"
+msgstr "Neste vídeo (09:49), irá analisar um conjunto importante de princípios necessários para melhorar os dados através dos processos de limpeza de dados. Se não conseguir assistir ao vídeo incorporado, pode carregar o link:../videos/Data_Management.mp4[descarregar^,opts=download] localmente. (MP4 - 16.6 MB)"
 
 #. type: Title ===
 #: management.en.adoc:14
@@ -1988,8 +1988,8 @@ msgstr "Ferramentas de gestão de dados"
 
 #. type: Plain text
 #: management.en.adoc:18
-msgid "In this video (??:??), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Neste vídeo (??:??), irá aprender sobre várias ferramentas que podem ser usadas para melhorar a qualidade dos seus dados. Se não puder assistir ao vídeo integrado no Vimeo, poderá descarregá-lo localmente. (MP4 - ??.?? MB)"
+msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
+msgstr "Neste vídeo (06:42), irá analisar um conjunto importante de princípios necessários para melhorar os dados através dos processos de limpeza de dados. Se não conseguir assistir ao vídeo incorporado, pode carregar o link:../videos/Data_Management.mp4[descarregar^,opts=download] localmente. (MP4 - 10.3 MB)"
 
 #. type: Title ===
 #: management.en.adoc:21
@@ -2027,7 +2027,7 @@ msgstr "Neste exercício, vamo-nos concentrar em erros técnicos e realizar uma 
 #. type: Plain text
 #: management.en.adoc:39
 msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
-msgstr "Link de download:../exercício-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
+msgstr "Link de download link:../exercício-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:40
@@ -2134,8 +2134,8 @@ msgstr "Exercício 3c"
 
 #. type: Plain text
 #: management.en.adoc:73
-msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/DataManagement_OpenRefine_narration.mp4[download,opts=download] it locally. (MP4 - 37.1 MB)"
-msgstr "Neste vídeo (??:??), irá aprender sobre https://openrefine.org/[OpenRefine^]. Pode usar o OpenRefine para padronizar e melhorar a qualidade dos seus dados. Se não puder assistir o vídeo integrado no Vimeo, poderá descarregá-lo localmente. (MP4 -??.?? MB)"
+msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
+msgstr "Neste vídeo (03:27), você aprenderá sobre https://openrefine.org/[OpenRefine^]. Você pode usar o OpenRefine para padronizar e melhorar a qualidade de seus dados. Se você não conseguir assistir ao vídeo incorporado, você pode link:../videos/Data_Management_OpenRefine.mp4[descarregar^,opts=download] localmente. (MP4 - 3.8 MB)"
 
 #. type: Plain text
 #: management.en.adoc:77
@@ -2151,7 +2151,7 @@ msgstr "Neste exercício, utilizamos o OpenRefine para melhorar a qualidade de u
 #. type: Plain text
 #: management.en.adoc:81
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
-msgstr "Link de download:../exercício-data/UC1-3ab-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
+msgstr "Link de download link:../exercício-data/UC1-3ab-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:83
@@ -2448,7 +2448,7 @@ msgstr "Conceitos de publicação de dados"
 #. type: Plain text
 #: publishing.en.adoc:11
 msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr "Neste vídeo (11:45), irá aprender sobre os conceitos de publicação de dados e receberá uma introdução ao Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]). Se não puder assistir o vídeo integrado no Vimeo, poderá usar link:../videos/Data_publishing_concepts.mp4[download^,opts=download] localmente. (MP4 - 20 MB)"
+msgstr "Neste vídeo (11:45), irá aprender sobre os conceitos de publicação de dados e receberá uma introdução ao Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]). Se não puder assistir o vídeo integrado, poderá usar link:../videos/Data_publishing_concepts.mp4[download^,opts=download] localmente. (MP4 - 20 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:14
@@ -2458,8 +2458,8 @@ msgstr "Introdução geral ao IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:18
-msgid "In this video (??:??), you will receive and overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can download it locally. (MP4 - ??.?? MB)"
-msgstr "Neste vídeo (??:??), terá uma introdução geral à interface de publicação de dados do IPT. Se não puder assistir o vídeo integrado no Vimeo, poderá descarregá-lo localmente. (MP4 - ??.?? MB)"
+msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
+msgstr "Neste vídeo (06:56), você receberá uma visão geral da interface de publicação de dados do IPT. Se você não conseguir assistir ao vídeo incorporado, pode link:../videos/Data_publishing_IPT.mp4[descarregar^,opts=download] localmente. (MP4 - 8.7 MB)"
 
 #. type: Title ====
 #: publishing.en.adoc:21
@@ -2496,7 +2496,7 @@ msgstr "Demonstração do IPT"
 #. type: Plain text
 #: publishing.en.adoc:35
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr "Neste vídeo (24:16), irá aprender como publicar um conjunto de dados de ocorrência usando um IPT. Se não conseguir assistir ao vídeo integrado no Vimeo, você pode usar o link:../videos/IPT_demo.mp4[download^,opts=download] localmente. (MP4 - 52.6 MB)"
+msgstr "Neste vídeo (24:16), irá aprender como publicar um conjunto de dados de ocorrência usando um IPT. Se não conseguir assistir ao vídeo integrado, você pode usar o link:../videos/IPT_demo.mp4[download^,opts=download] localmente. (MP4 - 52.6 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:38 use-case-invasive-species.en.adoc:137
@@ -2533,7 +2533,7 @@ msgstr "Neste momento, você precisa de uma conta em uma das <<Training IPT inst
 #. type: Plain text
 #: publishing.en.adoc:51
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
-msgstr "Link para descarregar:../exercício-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
+msgstr "Link para descarregar link:../exercício-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 
 #. type: Plain text
 #: publishing.en.adoc:52
@@ -2637,7 +2637,7 @@ msgstr "Neste módulo, você irá rever os critérios a serem usados para avalia
 #. type: Plain text
 #: assessments-certification.en.adoc:8
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge]."
-msgstr "Após a conclusão bem sucedida do curso e avaliação bem sucedida das recomendações (por treinadores e mentores), os participantes têm a oportunidade de receber uma certificação oficial sob a forma de https://openbadges. rg/[Open Badge]."
+msgstr "Após a conclusão bem sucedida do curso e avaliação bem sucedida das recomendações (por treinadores e mentores), os participantes têm a oportunidade de receber uma certificação oficial sob a forma de https://openbadges.org/[Open Badge^]."
 
 #. type: Table
 #: assessments-certification.en.adoc:16
@@ -2654,7 +2654,7 @@ msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,wi
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr "Os participantes devem submeter o Use Case II (escolha entre duas opções) e Use Case III, e cada caso será classificado conforme as rubricas educacionais do curso. As rubricas definem os níveis de habilidade e desempenho em que os objectivos de aprendizagem do curso são construídos."
+msgstr "Os participantes devem submeter (em inglês) o Use Case II (escolha entre duas opções) e Use Case III, e cada caso será classificado conforme as rubricas educacionais do curso. As rubricas definem os níveis de habilidade e desempenho em que os objectivos de aprendizagem do curso são construídos."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
@@ -3259,7 +3259,7 @@ msgstr "A BIISC planeja agora disponibilizar todos os dados do projeto publicame
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
 msgid "Download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
-msgstr "Link de download:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
+msgstr "Link de download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
@@ -3291,7 +3291,7 @@ msgstr "Ao longo do verão, os estagiários do gabinete principal do HISC criara
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:133
 msgid "Download link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
-msgstr "Link de download:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
+msgstr "Link de download link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:134
@@ -3312,7 +3312,7 @@ msgstr "O HISC está pronto para publicar os dados da checklist e ocorrências a
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:146
 msgid "Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
-msgstr "Link de download:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
+msgstr "Link de download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
@@ -3435,7 +3435,7 @@ msgstr "Folha de exercício Lepidoptera"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Link de download:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
+msgstr "Link de download link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:110
@@ -3524,7 +3524,7 @@ msgstr "Esta narrativa foi desenvolvida como base para os exercícios práticos 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:21
 msgid "It is a fictionalized scenario based on a real project and dataset and is meant only for instructional purposes.  The https://danbif.dk/se-eksempler/fyrfaldne-fugle/[original project] and the https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[original dataset] are attributed to the Danish GBIF Node, https://danbif.dk/[DanBIF]."
-msgstr "Trata-se de um cenário fictício baseado num projecto real e num conjunto de dados e destina-se apenas a fins instrutivos. https://danbif.dk/se-eksempler/fyrfaldne-fugle/[projeto original] e https://www. bif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[dataset original] são atribuídos ao nó dinamarquês GBIF, https://danbif.dk/[DanBIF]."
+msgstr "Trata-se de um cenário fictício baseado num projecto real e num conjunto de dados e destina-se apenas a fins instrutivos. https://danbif.dk/se-eksempler/fyrfaldne-fugle/[projeto original] e https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[dataset original] são atribuídos ao nó dinamarquês GBIF, https://danbif.dk/[DanBIF]."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:27
@@ -3753,7 +3753,7 @@ msgstr "Assuma o papel de um voluntário encarregado de transformar o texto trad
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:133
 msgid "Create a spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken."
-msgstr "Crie uma tabela usando os campos de dados listados no <<birds-digital-data-description>> usando os dados encontrados no exemplo acima registado por: Fr. Lu-tken."
+msgstr "Crie uma tabela usando os campos de dados listados no <<birds-digital-data-description>> usando os dados encontrados no exemplo acima registado por: Fr. Lütken."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:136
@@ -3773,7 +3773,7 @@ msgstr "Através da georreferenciação retrospectiva, as coordenadas foram adic
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
 msgid "Download link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
-msgstr "Link de download:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
+msgstr "Link de download link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
@@ -3813,7 +3813,7 @@ msgstr "Para este exercício, irá desempenhar o papel da pessoa responsável pe
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:171
 msgid "Download link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
-msgstr "Link de download:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
+msgstr "Link de download link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
 
 #. type: Title ==
 #: assignments.en.adoc:1
@@ -3871,7 +3871,7 @@ msgstr "Há apenas uma opção para USE CASE III (<<use-case-iii-birds-from-lite
 #. type: Plain text
 #: assignments.en.adoc:26
 msgid "Include the use case and exercise number along with your name on all files submitted. For example, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted in English*. Contact training@gbif.org if you have any questions."
-msgstr "Inclua o número de caso de uso e do exercício, juntamente com seu nome em todos os ficheiros enviados. Por exemplo, Russell-UC2-IS-sheete-sheet. ocx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *Todos os ficheiro devem ser submetidos em Inglês*. Entre em contato com training@gbif.org se tiver alguma dúvida."
+msgstr "Inclua o número de caso de uso e do exercício, juntamente com seu nome em todos os ficheiros enviados. Por exemplo, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *Todos os ficheiro devem ser submetidos em Inglês*. Entre em contato com training@gbif.org se tiver alguma dúvida."
 
 #. type: Title ===
 #: assignments.en.adoc:27
@@ -3887,7 +3887,7 @@ msgstr "Os trabalhos podem ser enviados a partir da versão online (HTML) do cur
 #. type: Plain text
 #: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
-msgstr "Envie seus ficheiros de actividade utilizando o formulário abaixo. Se não encontrar um formulário, pode visitar https://gbif. pp.box.com/f/1e44182c4bc74d659082c0e952d83e80:[subsubmission site^] em uma nova janela."
+msgstr "Envie seus ficheiros de actividade utilizando o formulário abaixo. Se não encontrar um formulário, pode visitar https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[subsubmission site^] em uma nova janela."
 
 #. type: delimited block +
 #: assignments.en.adoc:38
@@ -4599,7 +4599,7 @@ msgstr "Apêndice: Artigos de dados"
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr "Um artigo de dados é um documento publicado em periódicos revisados por pares e que descreve um conjunto de dados. É preciso esforço para preparar, selecionar e descrever os dados. Os artigos de dados permitem o reconhecimento por esse esforço por meio de um artigo científico. Não cobrimos como criar artigos de dados neste curso, no entanto, como uma atividade opcional, pode assistir a este vídeo (51:51) apresentado por Lizanne Roxburgh. Neste vídeo, aprenderá mais sobre como publicar artigos de dados. Se não conseguir assistir ao vídeo incorporado no Vimeo, pode usar o link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
+msgstr "Um artigo de dados é um documento publicado em periódicos revisados por pares e que descreve um conjunto de dados. É preciso esforço para preparar, selecionar e descrever os dados. Os artigos de dados permitem o reconhecimento por esse esforço por meio de um artigo científico. Não cobrimos como criar artigos de dados neste curso, no entanto, como uma atividade opcional, pode assistir a este vídeo (51:51) apresentado por Lizanne Roxburgh. Neste vídeo, aprenderá mais sobre como publicar artigos de dados. Se não conseguir assistir ao vídeo incorporado, pode usar o link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
 
 #. type: Plain text
 #: data-papers.en.adoc:16
@@ -4834,7 +4834,7 @@ msgstr "Os utilizadores dos dados para investigação ou educação"
 msgid "*For the given statements, input the matching image. (A, B, C, D)*\n"
 "image:img/web/accuracyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 msgstr "*Para as instruções fornecidas, insira a imagem correspondente. (A, B, C, D)*\n"
-"image:img/web/precisacyandprecision.png[align=\"center\",width=\"640\",height=\"360\"]\n"
+"image:img/web/accuracyandprecision.png[align=center,width=640,height=360]\n"
 
 #. type: Plain text
 #: solutions.en.adoc:82
@@ -5049,7 +5049,7 @@ msgstr "ocorrência + Alguns publicadores de dados partilharão conjuntos de dad
 #. type: Plain text
 #: solutions.en.adoc:157
 msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr "checklist + Espécies invasovas podem ser rastreadas e monitorizadas a diferentes escalas (regional, nacional, temático…); uma vez que este tipo de conjunto de dados se concentra mais na espécie e sua distribuição num determinado âmbito geográfico, eles são partilhados principalmente como conjuntos de dados taxonómicos através do GBIF (https://www. bif.org/dataset/search?project_id=GRIIS[ver resultados de pesquisa GRIIS])."
+msgstr "checklist + Espécies invasovas podem ser rastreadas e monitorizadas a diferentes escalas (regional, nacional, temático…); uma vez que este tipo de conjunto de dados se concentra mais na espécie e sua distribuição num determinado âmbito geográfico, eles são partilhados principalmente como conjuntos de dados taxonómicos através do GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[ver resultados de pesquisa GRIIS])."
 
 #. type: Plain text
 #: solutions.en.adoc:159
@@ -5415,7 +5415,7 @@ msgstr "Design do curso e instrução"
 #. type: Plain text
 #: acknowledgements.en.adoc:8
 msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
-msgstr "O sucesso deste curso depende em grande parte do apoio prestado aos participantes pelos  mentores da rede GBIF. Visite a página do GBIF em https://www. bif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[mentoria de melhoria de capacidade^] para ler mais sobre esses indivíduos e suas contribuições."
+msgstr "O sucesso deste curso depende em grande parte do apoio prestado aos participantes pelos  mentores da rede GBIF. Visite a página do GBIF em https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[mentoria de melhoria de capacidade^] para ler mais sobre esses indivíduos e suas contribuições."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:10
@@ -5674,7 +5674,7 @@ msgstr "Citação sugerida"
 #. type: Plain text
 #: colophon.en.adoc:6
 msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
-msgstr ""
+msgstr "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edição. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Data do curso.]"
 
 #. type: Title ===
 #: colophon.en.adoc:7
@@ -7090,7 +7090,7 @@ msgstr "Coleções e espécimes diferem muito em números, tamanhos e métodos d
 #: scripts/data-types.en.txt:45
 #, no-wrap
 msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
-msgstr "Os dados da biodiversidade também podem ser encontrados em literatura técnica e científica: é possível compilar e partilhar este tipo de dados através do GBIF, mas deve ser cauteloso para não partilhar dados duplicados (por exemplo, um espécime descrito num artigo científico pode já estar presente no GBIF, no conjunto de dados de sua coleção)\n"
+msgstr "Os dados da biodiversidade também podem ser encontrados em literatura técnica e científica: é possível compilar e partilhar este tipo de dados através do GBIF, mas deve ser cauteloso para não partilhar dados duplicados (por exemplo, um espécime descrito num artigo científico pode já estar presente no GBIF.org, no conjunto de dados de sua coleção)\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:50
@@ -7719,86 +7719,87 @@ msgstr "em Francês e depois salvar o ficheiro com um editor de texto que usa a 
 #: scripts/definitions.en.txt:172
 #, no-wrap
 msgid "Then you send it to a colleague to check the translation. Voila!\n"
-msgstr ""
+msgstr "Depois envia para um colega para verificar a tradução. Voila!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:176
 #, no-wrap
 msgid "When they open the file in MicroSoft Word this is what they see…\n"
-msgstr ""
+msgstr "Quando eles abrem o arquivo em Microsoft Word é isso que eles veem…\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:178
 #, no-wrap
 msgid "Mon dieu!\n"
-msgstr ""
+msgstr "Mon dieu!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:180
 #, no-wrap
 msgid "There are some unexpected characters.\n"
-msgstr ""
+msgstr "Há alguns caracteres inesperados.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:182
 #, no-wrap
 msgid "You forgot to tell your colleague that you where using Latin-1 as the encoding. \n"
-msgstr ""
+msgstr "Esqueceu-se de dizer ao seu colega que está a usar Latin-1 como codificação. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:185
 #, no-wrap
 msgid "MicroSoft Word on their end was set to use the encoding set Unicode UTF-8. \n"
 "The maps did not match.\n"
-msgstr ""
+msgstr "O Microsoft Word no seu computador foi definido para usar a codificação Unicode UTF-8. \n"
+"Os mapas não correspondem.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:187
 #, no-wrap
 msgid "Depending on the software the data may be irretrievably corrupted.\n"
-msgstr ""
+msgstr "Dependendo do software, os dados podem estar irremediavelmente corrompidos.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:191
 #, no-wrap
 msgid "In review we have looked at the differences between the phrases:\n"
-msgstr ""
+msgstr "Em revisão, analisamos as diferenças entre as frases:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:193
 #, no-wrap
 msgid "Database; database language; database program, data-cleaning tool;\n"
-msgstr ""
+msgstr "Base de dados; linguagem da base de dados; programa de base de dados, ferramenta de limpeza de dados;\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:195
 #, no-wrap
 msgid "Field names & Field labels; Drop-down lists & Controlled vocabularies and between\n"
-msgstr ""
+msgstr "Nomes de campo & etiquetas de campo; Listas de selecção e vocabulários controlados e entre\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:197
 #, no-wrap
 msgid "Repertoires, Coded sets & Encodings \n"
-msgstr ""
+msgstr "Repositórios, conjuntos codificados (Coded sets) e codificações (Encodings) \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:199
 #, no-wrap
 msgid "And shown that although the terms may seem similar the in fact have very different definitions.\n"
-msgstr ""
+msgstr "E mostrou que embora os termos possam parecer semelhantes, na verdade têm definições muito diferentes.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:203
 #, no-wrap
 msgid "Remember that:\n"
-msgstr ""
+msgstr "Lembre-se que:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:205
 #, no-wrap
 msgid "“..The first step in wisdom is to know the things themselves; this notion consists in having a true idea of the objects.” \n"
-msgstr ""
+msgstr "\"..O primeiro passo na sabedoria é saber as próprias coisas; esse conceito consiste em ter uma verdadeira ideia dos objetos \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:208
@@ -8098,7 +8099,9 @@ msgstr "um-a-muitos (1:∞) - Estes campos precisarão ser separados e colocados
 msgid "zero-to-one (0:1) - Work out how (or if) you can even fill these in.\n"
 "Is the data mixed into a notes field? \n"
 "If so how do you get it out?\n"
-msgstr ""
+msgstr "zero-para-um (0:1) - Descubra como (ou se) pode inclusivamente preenchê-los.\n"
+"Os dados estão misturados num campo de notas? \n"
+"Se for o caso, como vai extraí-los?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:119
@@ -8106,84 +8109,91 @@ msgstr ""
 msgid "one-to-zero (1:0) - Either throw away the data or add a field.\n"
 "You might not even have a home in the other dataset.\n"
 "Do/Can you create a new field?\n"
-msgstr ""
+msgstr "um-para-zero (1:0) - Descarte os dados ou adicione um campo.\n"
+"Pode nem ter um campo no outro conjunto de dados.\n"
+"Pode/Faz criar um novo campo?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:122
 #, no-wrap
 msgid "many-to-many (∞ : ∞) -  “for the love of a higher being!” \n"
 "This usually means that your incoming data is very messy and will take time to clean before you can map it.\n"
-msgstr ""
+msgstr "muitos-para-muitos (∞ : ∞) - \"pelo amor de um ser superior! \n"
+"Isso normalmente significa que os seus dados inseridos são muito confusos e levarão tempo a serem limpos antes que possa mapeá-los.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:124
 #, no-wrap
 msgid "// Slide 9 \n"
-msgstr ""
+msgstr "// Slide 9 \n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:127
 #, no-wrap
 msgid "This is an example of what a mapping document looks like.\n"
 "Notice that not only do we document the relationships we also articulate (to the best of our knowledge) what should be done to the data.\n"
-msgstr ""
+msgstr "Este é um exemplo do que um documento de mapeamento parece.\n"
+"Note que não só documentamos as relações mas também articulamos (o melhor que sabemos fazer) o que deve ser feito com os dados.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:133
 #, no-wrap
 msgid "We’ve talked a lot about documenting the structures that hold your data but you must also document the information that gives context.\n"
 "This is called metadata and is data about your data!\n"
-msgstr ""
+msgstr "Falamos muito sobre a documentação das estruturas que contêm os seus dados, mas também deve documentar as informações que dão contexto.\n"
+"Isto é chamado de metadados e é um dado sobre os seus dados!\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:135
 #, no-wrap
 msgid "As we mention in the section on data quality your ”Metadata must be rich enough to allow data (re)use by a third party without them having to refer to the data source.”\n"
-msgstr ""
+msgstr "Como mencionamos na seção sobre a qualidade de dados, os seus \"Metadados devem ser ricos o suficiente para permitir o (re)uso de dados por terceiros, sem que eles tenham que se referir à fonte de dados\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:139
 #, no-wrap
 msgid "We will discuss this in more detail in later sessions but as a quick guide good documentation should include:\n"
-msgstr ""
+msgstr "Vamos discutir isso com mais detalhes em sessões posteriores, mas como uma boa documentação de guia rápido deve incluir:\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:141
 #, no-wrap
 msgid "A title – Which should be descriptive, memorable and if possible unique.\n"
-msgstr ""
+msgstr "Um título – O que deve ser descritivo, memorável e, se possível, exclusivo.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:143
 #, no-wrap
 msgid "Dates are good to include in a dataset name for example to allow you to track versions.\n"
-msgstr ""
+msgstr "As datas são boas para incluir num nome de conjunto de dados, por exemplo, para permitir acompanhar as versões.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:146
 #, no-wrap
 msgid "A narrative – Should describe the rationale for the creation of the dataset.\n"
 "It should include at least general information about spatial, temporal and taxonomic coverage and give the potential user a broad picture of uses that may be appropriate for the data without further transformation.\n"
-msgstr ""
+msgstr "Uma narrativa – Deve descrever a lógica para a criação do conjunto de dados.\n"
+"Deve incluir pelo menos informações gerais sobre o espaço, cobertura temporal e taxonómica e dar ao potencial utilizador uma imagem ampla de usos que podem ser adequados para os dados sem mais transformação.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:148
 #, no-wrap
 msgid "Source information – If you did not collect or measure the data yourself, where or who did you get if from?\n"
-msgstr ""
+msgstr "Informações da fonte – se não colheu ou mediu os dados você mesmo, de onde ou de quem os recebeu?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:151
 #, no-wrap
 msgid "Lineage – Does the dataset have a history? \n"
 "Have any of the fields been transformed in any way from the original?\n"
-msgstr ""
+msgstr "Herança – O conjunto de dados tem um histórico? \n"
+"Algum dos campos foi transformado de alguma forma a partir do original?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:153
 #, no-wrap
 msgid "Statement of accuracy – Using the concepts of accuracy, precision, errors and uncertainty that we discussed previously, are there any issues with the dataset that should be known to a user?\n"
-msgstr ""
+msgstr "Declaração da exatidão – Usando os conceitos de exatidão, precisão, erros e incerteza que discutimos anteriormente, há algum problema com o conjunto de dados que deve ser conhecido por um utilizador?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:157
@@ -8191,7 +8201,9 @@ msgstr ""
 msgid "Dates and life expectancy – When will the dataset be available? \n"
 "How long is it valid for? \n"
 "When if ever will it be updated?\n"
-msgstr ""
+msgstr "Datas e esperança de vida – Quando o conjunto de dados estará disponível? \n"
+"Por quanto tempo ele é válido? \n"
+"Quando é que ele vai ser atualizado?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:161
@@ -8199,40 +8211,45 @@ msgstr ""
 msgid "Field Definitions – Describing the format of fields and what kind of data each contains.\n"
 "Was any cleaning or transformation down to the original data? \n"
 "This is important for you to know if you are mapping it to a standard such as Darwin Core.\n"
-msgstr ""
+msgstr "Definições de Campo – Descrevendo o formato dos campos e que tipo de dados cada um contém.\n"
+"Foi feita uma limpeza ou transformação dos dados originais? \n"
+"Isso é importante saber se for mapeandá-los a um padrão como o Darwin Core.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:164
 #, no-wrap
 msgid "Collection methodology – How was the data collected? \n"
 "Where there protocols used which will affect its fitness for use?\n"
-msgstr ""
+msgstr "Metodologia de colheita – Como foram colhidos os dados? \n"
+"Onde há protocolos usados que afetarão a aptidão dos dados para o uso?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:166
 #, no-wrap
 msgid "Statement of completeness – What is missing from the data and why?\n"
-msgstr ""
+msgstr "Declaração sobre a completude – O que está em falta nos dados e porquê?\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:169
 #, no-wrap
 msgid "Conditions of use and constraints – Where and how can you use the data? \n"
 "For most portals and GBIF in particular data must use very open licensing, so understanding the requirements of data owners and their institutions is very important.\n"
-msgstr ""
+msgstr "Condições de uso e restrições – Onde e como pode usar os dados? \n"
+"Para a maioria dos portais e do GBIF em particular, os dados devem usar uma licença muito aberta, Assim, é muito importante compreender os requisitos dos proprietários de dados e das suas instituições.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:172
 #, no-wrap
 msgid "Custodianship/Contact information  – This should be the institution responsible for the dataset as presented to you, as well as (if possible) the individual who created the dataset.\n"
 "There should also be a technical contact who is responsible for the publication of the dataset.\n"
-msgstr ""
+msgstr "Informação da custódia/contacto – Esta deve ser a instituição responsável pelo conjunto de dados conforme lhes são apresentado, assim como (se possível) o indivíduo que criou o conjunto de dados.\n"
+"Também deve haver um contato técnico que seja responsável pela publicação do conjunto de dados.\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:180
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant and has been narrated by Sophie Pamerlon.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Sharon Grant e foi narrada por Sophie Pamerlon.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:6
@@ -8240,58 +8257,63 @@ msgstr ""
 msgid "This session is part of the planning section. \n"
 "We will be introducing some concepts and methodologies that will help you to focus on the organization of your mobilization project at a number of levels. \n"
 "The focus in this session will be on tasks and the ways in which they can be organized in order to prepare practical, workable plans and clear documentation. \n"
-msgstr ""
+msgstr "Esta sessão faz parte da seção de planeamento. \n"
+"Introduziremos alguns conceitos e metodologias que o ajudarão a concentrar-se na organização do seu projeto de mobilização em vários níveis. \n"
+"O objectivo nesta sessão será nas tarefas e nas formas como elas podem ser organizadas a fim de preparar o sistema prático, planos exequíveis e documentação clara. \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:11
 #, no-wrap
 msgid "The successful implementation of your project is dependent in large part on the development of realistic, efficient and streamlined processes and documentation\n"
 "This, combined with constant assessment of changes to the landscape within which your project exists, will increase drastically the likelihood of success.\n"
-msgstr ""
+msgstr "A implementação bem-sucedida do seu projeto depende, em grande parte, do desenvolvimento de processos e documentação realistas, eficientes e simplificados\n"
+"Isto, combinada com uma avaliação constante das mudanças no cenário em que o seu projeto existe, aumentará drasticamente a probabilidade de sucesso.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:14
 #, no-wrap
 msgid "In this section we will look at three methodologies for clustering the timing and ordering of the tasks and components identified as critical to the goals of the project\n"
 "We will then see how good planning is supported by continuous documentation.\n"
-msgstr ""
+msgstr "Nesta seção, analisaremos três metodologias para agrupar o cronograma e ordenar as tarefas e componentes identificados como críticos para os objetivos do projeto\n"
+"Então veremos como um bom planeamento é suportado pela documentação contínua.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:19
 #, no-wrap
 msgid "Let’s take a quick look at the definition of the noun cluster.\n"
 "It is defined as “A group of similar things or people positioned or occurring closely together”. \n"
-msgstr ""
+msgstr "Vamos dar uma olhada rápida na definição do nome \"cluster\".\n"
+"É definido como \"Um grupo de coisas ou pessoas similares posicionadas ou ocorrendo juntas perto\". \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:21
 #, no-wrap
 msgid "The three important parts of the definition for us:\n"
-msgstr ""
+msgstr "As três partes importantes da definição para nós:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:23
 #, no-wrap
 msgid "Groups\n"
-msgstr ""
+msgstr "Grupos\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:25
 #, no-wrap
 msgid "Similarity\n"
-msgstr ""
+msgstr "Similaridade\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:27
 #, no-wrap
 msgid "Things\n"
-msgstr ""
+msgstr "Coisas\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:29
 #, no-wrap
 msgid "What we will see is that in order to successfully achieve your mobilization goals, you need to be able to identify groups and arrangements of similar tasks, cluster them together and then string those clusters together in a logical flow. \n"
-msgstr ""
+msgstr "O que iremos ver é que, a fim de alcançar com êxito os seus objectivos de mobilização, você precisa ser capaz de identificar grupos e acordos de tarefas similares, agrupe-os e então junte esses agrupamentos num fluxo lógico. \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:31
@@ -8321,31 +8343,31 @@ msgstr "O que queremos dizer aqui é, em que momento durante o projecto alguma t
 #: scripts/organizing.en.txt:41
 #, no-wrap
 msgid "The simplest but by no means the only way of stage-grouping, uses digitization as its reference point\n"
-msgstr ""
+msgstr "A mais simples, mas de forma alguma a única maneira de agrupar as fases, usa a digitalização como seu ponto de referência\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:46
 #, no-wrap
 msgid "In this example:\n"
-msgstr ""
+msgstr "Neste exemplo:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:48
 #, no-wrap
 msgid "Before - refers to any time before the start of the digitization effort itself ie the imaging and transcription;\n"
-msgstr ""
+msgstr "Antes - refere-se a qualquer momento antes do início do próprio esforço de digitalização, ou seja, de obter a imagem e transcrição;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:50
 #, no-wrap
 msgid "During - relates specifically to the period of active digitization; and \n"
-msgstr ""
+msgstr "Durante - refere-se especificamente ao período de digitalização ativa; e \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:52
 #, no-wrap
 msgid "After - is the period after the digitization effort has ended. \n"
-msgstr ""
+msgstr "Após - é o período após o término do esforço de digitalização. \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:56
@@ -8353,103 +8375,111 @@ msgstr ""
 msgid "Another common reference point is the start and end of funding. \n"
 "You can use anything that makes sense and even use different reference points for different stakeholders and groups of tasks, that run concurrently.\n"
 "These points are often also good places to insert milestones with metrics into your project.\n"
-msgstr ""
+msgstr "Outro ponto de referência comum é o início e o fim do financiamento. \n"
+"Pode usar qualquer coisa que faça sentido e até usar pontos de referência diferentes para diferentes stakeholders e grupos de tarefas, que são executados simultaneamente.\n"
+"Esses pontos geralmente também são bons lugares para inserir marcos com métricas no seu projeto.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:61
 #, no-wrap
 msgid "The next set of groupings is PMBoK.\n"
 "PMBoK stands for Project Management Body of Knowledge and it is the entire collection of processes, best practices, terminologies, and guidelines that are accepted as standards within the project management industry\n"
-msgstr ""
+msgstr "O próximo conjunto de agrupamentos é PMBoK.\n"
+"PMBoK significa Corpo de Gestão de Projetos do Conhecimento e é todo o conjunto de processos, melhores práticas, terminologias e diretrizes que são aceitas como padrões dentro da indústria de gestão de projeto\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:64
 #, no-wrap
 msgid "It is overseen by the Project Management Institute (PMI), which is a global not-for-profit member association of Project Managers.\n"
 "The first edition of the PMBOK Guide was published in 1996 and it is now on its fifth edition, which was published in 2013\n"
-msgstr ""
+msgstr "É supervisionado pelo Instituto de Gestão de Projetos (PMI), que é uma associação global de gestão de projetos sem fins lucrativos.\n"
+"A primeira edição do Guia PMBOK foi publicada em 1996 e está agora em sua quinta edição, que foi publicada em 2013\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:66
 #, no-wrap
 msgid "As a very high level synopsis, the methodology uses iterative and repeatable groupings to cluster tasks together\n"
-msgstr ""
+msgstr "Como uma sinopse de alto nível, a metodologia usa agrupamentos iterativos e replicáveis para agrupar tarefas em conjunto\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:69
 #, no-wrap
 msgid "The stages are:\n"
-msgstr ""
+msgstr "Os estágios são:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:71
 #, no-wrap
 msgid "INITIATING\n"
-msgstr ""
+msgstr "INÍCIO\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:73
 #, no-wrap
 msgid "PLANNING\n"
-msgstr ""
+msgstr "PLANEAMENTO\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:75
 #, no-wrap
 msgid "EXECUTING\n"
-msgstr ""
+msgstr "EXECUÇÃO\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:77
 #, no-wrap
 msgid "MONITORING and\n"
-msgstr ""
+msgstr "MONITORIZAÇÃO e\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:79
 #, no-wrap
 msgid "CLOSING\n"
-msgstr ""
+msgstr "ENCERRAMENTO\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:84
 #, no-wrap
 msgid "Tasks carried out during the initiating phase should define the new project or the part of the project being tracked.\n"
 "For example obtaining collection permits or MOUs before going into the field to collect.\n"
-msgstr ""
+msgstr "As tarefas realizadas durante a fase do início devem definir o novo projecto ou a parte do projecto que está a ser rastreado.\n"
+"Por exemplo, obter licenças de coleta ou MOUs antes de entrar no campo para amostrar.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:89
 #, no-wrap
 msgid "Tasks carried out during the planning phase are required to establish the scope of the project.\n"
 "For example assessing the physical state of a collection before pulling specimens for imaging.\n"
-msgstr ""
+msgstr "As tarefas realizadas durante a fase de planeamento são necessárias para estabelecer o âmbito do projecto.\n"
+"Por exemplo, avaliar o estado físico de uma colecção antes de puxar espécimes para imagens.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:94
 #, no-wrap
 msgid "Tasks carried out during the executing phase are those that accomplish the project’s stated deliverables.\n"
 "For example the transcription of label data.\n"
-msgstr ""
+msgstr "As tarefas realizadas durante a fase de execução são aquelas que possibilitam os produtos indicadas pelo projecto.\n"
+"Por exemplo, a transcrição dos dados de etiqueta.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:99
 #, no-wrap
 msgid "The monitoring phase is an overarching and overlapping phase.\n"
 "The tasks assigned to it serve the function of watchdog over the planning and executing phases, ensuring that performance is on track.\n"
-msgstr ""
+msgstr "A fase de monitorização é uma fase transversal e sobreposta.\n"
+"As tarefas atribuídas a ele servem a função de vigia sobre as fases de planeamento e execução, garantindo que a performance esteja no caminho.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:103
 #, no-wrap
 msgid "Tasks in the closing phase indicate that goals and milestones have been achieved and the project (or part of the project in question) have finished.\n"
-msgstr ""
+msgstr "As tarefas na fase de encerramento indicam que os objeCtivos e marcos foram alcançados e o projecto (ou parte do projecto em questão) terminaram.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:107
 #, no-wrap
 msgid "This diagram shows the continuous flow and cyclical nature of the five PMBoK phases.\n"
-msgstr ""
+msgstr "Este diagrama mostra o fluxo contínuo e o carácter cíclico das cinco fases da PMBoK.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:113
@@ -8457,144 +8487,151 @@ msgstr ""
 msgid "Task clusters are a defined set of digitization task groups.\n"
 "The term was coined by the iDigBio team in their 2012 paper “Five task clusters that enable efficient and effective digitization of biological collections”.\n"
 "In the paper the authors identify 5 major groups of tasks that are most often found in successful natural history digitization projects. They are:\n"
-msgstr ""
+msgstr "Tarefas de clusters são grupos de tarefas de digitalização definidos.\n"
+"O termo foi criado pela equipe iDigBio em seu artigo de 2012 \"Cinco clusters de tarefas que permitem a digitalização eficiente e eficaz de colecções biológicas\".\n"
+"No artigo, os autores identificam 5 principais grupos de tarefas que são mais frequentemente encontrados em projectos de digitalização de história natural bem sucedidos. Eles são:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:115
 #, no-wrap
 msgid "pre-digitization curation and staging\n"
-msgstr ""
+msgstr "curadoria pré-digitalização e preparação (staging)\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:117
 #, no-wrap
 msgid "specimen image capture\n"
-msgstr ""
+msgstr "captura de imagem de espécime\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:119
 #, no-wrap
 msgid "specimen image processing\n"
-msgstr ""
+msgstr "processamento de imagem de espécime\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:121
 #, no-wrap
 msgid "electronic data capture and\n"
-msgstr ""
+msgstr "captura de dados eletrônica e\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:123
 #, no-wrap
 msgid "georeferencing locality descriptions\n"
-msgstr ""
+msgstr "georeferenciação de descrições de localidade\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:125
 #, no-wrap
 msgid "Clustering as general concept, is an extremely useful way to organize the detail of the tasks which must be carried out during any particular project stage and divides them up into manageable and trackable chunks.\n"
-msgstr ""
+msgstr "Agrupamento (Clustering) como conceito geral, constitui uma forma extremamente útil de organizar em pormenor as tarefas que devem ser levadas a cabo durante qualquer fase do projecto, dividindo-as em partes gerenciáveis ​​e rastreáveis.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:129
 #, no-wrap
 msgid "In this diagram of the digitization task clusters you can see some of the checking and monitoring feedback loops seen in the PMBoK method.\n"
-msgstr ""
+msgstr "Neste diagrama dos agrupamentos de tarefas de digitalização você pode ver alguns loops de verificação e monitorazação vistos no método PMBoK.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:133
 #, no-wrap
 msgid "The next examples of clustering that we will look at are generally termed “Workflows”.\n"
-msgstr ""
+msgstr "Os próximos exemplos de agrupamento que vamos analisar são geralmente chamados de \"fluxos de trabalho\".\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:136
 #, no-wrap
 msgid "Workflows are defined as “the sequence of processes through which a piece of work passes from initiation to completion.”\n"
 "There are three general categories: \n"
-msgstr ""
+msgstr "Os fluxos de trabalho são definidos como \"a seqüência de processos através dos quais um trabalho passa do início a conclusão.\n"
+"Existem três categorias gerais: \n"
 
 #. type: Bullet: '1) '
 #: scripts/organizing.en.txt:138
 #, markdown-text, no-wrap
 msgid "Sequential\n"
-msgstr ""
+msgstr "Sequencial\n"
 
 #. type: Bullet: '2) '
 #: scripts/organizing.en.txt:140
 #, markdown-text, no-wrap
 msgid "Rules Driven \n"
-msgstr ""
+msgstr "Regras Orientadas\n"
 
 #. type: Bullet: '3) '
 #: scripts/organizing.en.txt:142
 #, markdown-text, no-wrap
 msgid "State Machine\n"
-msgstr ""
+msgstr "Máquina do Estado\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:145
 #, no-wrap
 msgid "In simple terms they are just another way that you join tasks and task clusters together and apply rules and logic to increase efficiency.\n"
 "We will look at the three workflows by describing in increasing detail, a common digitization workflow.\n"
-msgstr ""
+msgstr "Em termos simples, eles são apenas mais uma forma de você participar de tarefas e grupos de tarefas ao mesmo tempo, e aplicar regras e lógica para aumentar a eficiência.\n"
+"Vamos analisar os três fluxos de trabalho descrevendo em maiores detalhes, um fluxo de trabalho de digitalização comum.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:150
 #, no-wrap
 msgid "Sequential workflows are simple and represent a unidirectional series of steps with a single start and end point. \n"
 "The important point being that each task MUST be completed before the next one can start.\n"
-msgstr ""
+msgstr "Os fluxos de trabalho sequenciais são simples e representam uma série unidirecional de passos com um único ponto de partida e fim.\n"
+"O ponto importante é que cada tarefa DEVE ser concluída antes do próximo ser iniciado.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:154
 #, no-wrap
 msgid "In this example the sequence is:\n"
-msgstr ""
+msgstr "Neste exemplo, a sequência é:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:156
 #, no-wrap
 msgid "NAME CHECKING\n"
-msgstr ""
+msgstr "VERIFICAÇÃO DE NOME\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:158
 #, no-wrap
 msgid "Followed by PHOTOGRAPHY\n"
-msgstr ""
+msgstr "Seguido por FOTOGRAFIA\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:160
 #, no-wrap
 msgid "Then DATA ENTRY\n"
-msgstr ""
+msgstr "Depois ENTRADA DE DADOS\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:162
 #, no-wrap
 msgid "And finally PROOFREADING\n"
-msgstr ""
+msgstr "E finalmente PROOFREADING\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:167
 #, no-wrap
 msgid "Rules driven workflows often have an underlying sequential element as described previously. \n"
 "However, within each task cluster, rules and logic can alter the progress of the workflow.\n"
-msgstr ""
+msgstr "Fluxos de trabalho guiados por regras têm, frequentemente, um elemento sequencial subjacente, conforme descrito anteriormente.\n"
+"No entanto, dentro de cada grupo de tarefas, as regras e a lógica podem alterar o progresso do fluxo de trabalho.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:171
 #, no-wrap
 msgid "In this example in the lower right corner in the PHOTOGRAPHY task cluster there is a quality check logic gate.\n"
-msgstr ""
+msgstr "Neste exemplo, no canto inferior direito de cluster de tarefa de FOTOGRAFIA, existe um portão de lógica para verificação de qualidade.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:174
 #, no-wrap
 msgid "If there is a problem with the image it is discarded and the specimen goes back to be photographed again.\n"
 "Only when the quality check has been passed can the workflow continue.\n"
-msgstr ""
+msgstr "Se há um problema com a imagem, esta é descartada e os espécimes voltam a ser fotografados.\n"
+"Somente quando a verificação de qualidade for passada poderá o fluxo de trabalho continuar.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:180
@@ -8602,295 +8639,303 @@ msgstr ""
 msgid "Machine State workflows are the next most complex form.\n"
 "Here, the steps within each task cluster can happen asynchronously i.e they are not necessarily performed one after another, but instead can be triggered by actions and states in previous steps.\n"
 "One state is assigned as the start state, and then, based on an event, a transition is made to another state and so on.\n"
-msgstr ""
+msgstr "Os fluxos de trabalho da Machine State são a próxima forma mais complexa.\n"
+"Aqui, as etapas dentro de cada cluster de tarefa podem acontecer de forma assíncrona. Não são necessariamente executados um após o outro, mas podem, em vez disso, ser desencadeados por acções e estados de passos anteriores.\n"
+"Um estado é atribuído como estado inicial, e então, com base em um evento, uma transição é feita para outro estado e assim por diante.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:185
 #, no-wrap
 msgid "If we take this example from Allard 2012.\n"
 "Let’s say that the photography lab is only allowed to hold 60 herbarium sheets at any one time.\n"
-msgstr ""
+msgstr "Se tomarmos este exemplo a partir de Allard 2012.\n"
+"Vamos dizer que o laboratório de fotografia só tem permissão para manter 60 folhas de herbário por vez.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:187
 #, no-wrap
 msgid "The NAME CHECKING task cluster can continue to prep specimens but there is a check that means: Specimens cannot pass to the PHOTOGRAPHY task cluster until there is space again.\n"
-msgstr ""
+msgstr "O cluster de tarefa VERIFICAÇÃO DE NOME pode continuar preparando espécimes, mas há uma verificação que significa: os espécimes não podem passar para o cluster de tarefas FOTOGRAFIA até que haja espaço novamente.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:189
 #, no-wrap
 msgid "Meanwhile the other clusters can also carry on as long as they have specimens or images to work on.\n"
-msgstr ""
+msgstr "Enquanto isso, os outros clusters também podem continuar enquanto eles tiverem espécimes ou imagens para trabalhar.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:193
 #, no-wrap
 msgid "In this next short section, ELEMENTS OF A GOOD PLAN we will look at how good documentation aids good planning. we will:\n"
-msgstr ""
+msgstr "Nesta próxima seCção curta, ELEMENTOS DE UM BOM PLANO, veremos como a documentação ajuda em um bom planeamento. Nós vamos:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:195
 #, no-wrap
 msgid "highlight the benefits of good documentation;\n"
-msgstr ""
+msgstr "destacar os benefícios da boa documentação;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:197
 #, no-wrap
 msgid "make connections between the proposal, planning and implementation documents;\n"
-msgstr ""
+msgstr "fazer conexões entre documentos de proposta, planeamento e implementação;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:199
 #, no-wrap
 msgid "and show how the elements of each build together, thereby reducing the agony of the last \n"
-msgstr ""
+msgstr "e mostraR como os elementos de cada um constroem-se juntos, reduzindo a agonia do último \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:201
 #, no-wrap
 msgid "minute end of project report.\n"
-msgstr ""
+msgstr "minuta de relatório de término do projecto.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:205
 #, no-wrap
 msgid "The definition of a plan is a detailed proposal for doing or achieving something.\n"
-msgstr ""
+msgstr "A definição de um plano é uma proposta detalhada para fazer ou alcançar algo.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:207
 #, no-wrap
 msgid "Documentation of your project should describe not only what you planned to do but also what you actually did.\n"
-msgstr ""
+msgstr "A documentação do seu projecto deve descrever não apenas o que você planeou fazer, mas também o que você realmente fez.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:209
 #, no-wrap
 msgid "Its primary purpose is to communicate with all stakeholders in order to provide an exact account of expectations, responsibilities and achievements.\n"
-msgstr ""
+msgstr "Seu objectivo principal é comunicar com todos os stakeholders a fim de fornecer uma conta exata das expectativas, responsabilidades e conquistas.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:211 scripts/structures.en.txt:155
 #, no-wrap
 msgid "// Slide 24\n"
-msgstr ""
+msgstr "// Slide 24\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:213
 #, no-wrap
 msgid "Thorough documentation has many benefits.\n"
-msgstr ""
+msgstr "A documentação completa traz muitos benefícios.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:215
 #, no-wrap
 msgid "It provides accountability - everyone should know what they are responsible for and also what others are responsible for.\n"
-msgstr ""
+msgstr "Fornece responsabilidade - todos devem saber pelo que são responsáveis e também pelo que os outros são responsáveis.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:217
 #, no-wrap
 msgid "It ensures integrity - do what you say you will do, especially where sensitive data is concerned.\n"
-msgstr ""
+msgstr "Garante integridade - faça o que você diz que fará, especialmente quando estão em causa dados confidenciais.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:219
 #, no-wrap
 msgid "It provides protection - a good plan helps you avoid scope creep and unexpected requests.\n"
-msgstr ""
+msgstr "Fornece proteção - um bom plano ajuda a evitar aumento de escopo e solicitações inesperadas.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:221
 #, no-wrap
 msgid "It provides proof of compliance - allows you to show that you have followed the standards that you said you would\n"
-msgstr ""
+msgstr "Fornece prova de conformidade - permite mostrar que você seguiu os padrões que disse que iria\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:223
 #, no-wrap
 msgid "It enhances availability - your plan should be available, there shouldn't be anything hidden at this stage. \n"
-msgstr ""
+msgstr "Aprimora a disponibilidade - seu plano deve estar disponível, não deve haver nada oculto neste estágio\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:225
 #, no-wrap
 msgid "It documents retention - How long will the data created by this project remain \"fresh\", what needs to happen to keep it up to date. \n"
-msgstr ""
+msgstr "Documenta retenção - Quanto tempo os dados criados por este projecto permanecerão \"frescos\", o que tem de acontecer para os manter actualizados\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:227
 #, no-wrap
 msgid "It documents disposition - What is the ownership of the data created by the project? Who will be responsible for it after the end of the project.\n"
-msgstr ""
+msgstr "Documenta disposição - Qual é a propriedade dos dados criados pelo projecto? Quem será responsável por isso após o final do projecto.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:229
 #, no-wrap
 msgid "It encourages transparency - openly shared practical project plans feed back into the community and allow others to learn from your successes and failures.\n"
-msgstr ""
+msgstr "Encoraja transparência - planos de projectos práticos partilhados abertamente alimentam a comunidade e permitem que outros aprendam com seus sucessos e fracassos.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:231
 #, no-wrap
 msgid "And it promotes teamwork - All stakeholders benefit from knowing how they fit into the bigger picture and the more of a sense of ownership that they, have the more likely your project is to succeed.\n"
-msgstr ""
+msgstr "Promove trabalho em equipa - todas as partes interessadas beneficiam-se ao saber como se encaixam na imagem geral e quanto maior for o sentido de propriedade delas, maior é a probabilidade de seu projecto ser bem-sucedido.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:233 scripts/structures.en.txt:161
 #, no-wrap
 msgid "// Slide 25\n"
-msgstr ""
+msgstr "// Slide 25\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:235
 #, no-wrap
 msgid "All of the resource elements that we have discussed in the previous section come together in the project documentation.\n"
-msgstr ""
+msgstr "Todos os elementos de recursos que discutimos na secção anterior estão reunidos na documentação do projecto.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:237
 #, no-wrap
 msgid "The elements of your documentation overlap, let’s have a look at where in the documentation cycle each element appears.\n"
-msgstr ""
+msgstr "Os elementos de sua documentação se sobrepõem, vamos dar uma olhada onde no ciclo de documentação cada elemento aparece.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:239
 #, no-wrap
 msgid "// Slide 26\n"
-msgstr ""
+msgstr "// Slide 26\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:241
 #, no-wrap
 msgid "We won’t cover much about the detail of creating a proposal, except to say that if it got you funding then you did a good job.\n"
-msgstr ""
+msgstr "Não abordaremos muito sobre o detalhe da criação de uma proposta, exceto dizer que se recebeu financiamento então fez um bom trabalho.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:243
 #, no-wrap
 msgid "The proposal will contain the high-level description of purpose and rationale and a good faith description of a workplan as achievable at the time of writing.\n"
-msgstr ""
+msgstr "A proposta conterá uma descrição de alto nível dos objectivos e da justificativa e uma descrição de boa fé de um plano de trabalho que seja exequível no momento da sua redacção.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:246
 #, no-wrap
 msgid "The planning document or implementation plan on the other hand should give everyone involved at the start of the project a complete guide to how the project will actually get done.\n"
 "This is where you should include the practicalities, \n"
-msgstr ""
+msgstr "O documento de planeamento ou o plano de execução, por outro lado, deverá fornecer a todos os envolvidos no início do projecto um guia completo sobre a forma como o projecto será realmente feito.\n"
+"Aqui é onde você deve incluir as práticas, \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:248
 #, no-wrap
 msgid "workflows for specific goals\n"
-msgstr ""
+msgstr "fluxos para metas específicas\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:250
 #, no-wrap
 msgid "resource allocations to tasks\n"
-msgstr ""
+msgstr "alocações de recursos para tarefas\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:252
 #, no-wrap
 msgid "milestones and targets\n"
-msgstr ""
+msgstr "marcos e metas\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:254
 #, no-wrap
 msgid "// Slide 27\n"
-msgstr ""
+msgstr "// Slide 27\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:256
 #, no-wrap
 msgid "The planning document should be a living entity that the project manager revisits regularly as they keep track of milestones and approach checkpoints.\n"
-msgstr ""
+msgstr "O documento de planeamento deve ser uma entidade viva que o gestor do projeto revisita regularmente à medida que ele acompanha os marcos e os pontos de verificação de abordagem.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:258
 #, no-wrap
 msgid "Workflows should be adjusted and re-documented as the landscape changes, to make sure that interim goals are kept on track.\n"
-msgstr ""
+msgstr "Os fluxos de trabalho devem ser ajustados e documentados novamente à medida que a paisagem muda, para garantir que os objectivos intermediários sejam mantidos no caminho.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:261
 #, no-wrap
 msgid "If this is done, then Progress reports which occur at checkpoints throughout the project are easy to compile.\n"
 "Metrics can be reported and any changes in the project landscape highlighted for risk mitigation.\n"
-msgstr ""
+msgstr "Se assim for, os relatórios de progresso que ocorrem em durante o projecto serão fáceis de compilar.\n"
+"As métricas podem ser relatadas e qualquer alteração no cenário do projecto será destacada para mitigação do risco.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:263
 #, no-wrap
 msgid "// Slide 28\n"
-msgstr ""
+msgstr "// Slide 28\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:266
 #, no-wrap
 msgid "The compilation of the final report then becomes the less daunting task of summarizing the previous progress reports and the planning document.\n"
 "In a circular fashion your planning document now can be used in your next project proposal and has the benefit of being a tried and tested successful plan.\n"
-msgstr ""
+msgstr "A elaboração do relatório final passa então a ser a tarefa menos difícil, resumindo os anteriores relatórios de progresso e o documento de planeamento.\n"
+"De forma circular o seu documento de planeamento agora pode ser utilizado na sua próxima proposta de projecto e tem o benefício de ser um plano bem sucedido já testado.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:268
 #, no-wrap
 msgid "// Slide 29\n"
-msgstr ""
+msgstr "// Slide 29\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:270
 #, no-wrap
 msgid "To review, the sections, “Clustering the Components” and “Elements of a Good Plan” we looked at three ways to arrange tasks together into feasible workflows:\n"
-msgstr ""
+msgstr "Para revisar, as secções, \"Agrupando os Componentes\" e \"Elementos de um Bom Plano\" nós procuramos três maneiras de organizar tarefas em conjunto, em fluxos de trabalho viáveis:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:273
 #, no-wrap
 msgid "Groupings –are ways to divide a project into manageable stages based on specific criteria, for example time.\n"
 "They are helpful ways to determine milestones in planning documents and mark progress for interim reports.\n"
-msgstr ""
+msgstr "Agrupamentos – são formas de dividir um projecto em fases gerenciáveis baseadas em critérios específicos, por exemplo, tempo.\n"
+"São maneiras úteis de determinar marcos nos documentos de planeamento e marcar o progresso para relatórios.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:275
 #, no-wrap
 msgid "Task Clusters – were used to describe one of the most common sets of natural history digitization tasks and their ordering.\n"
-msgstr ""
+msgstr "Grupos de tarefas – foram usados para descrever um dos conjuntos mais comuns de tarefas de digitalização da história natural e sua ordenação.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:277
 #, no-wrap
 msgid "While Workflows – where explained as ways for you to connect tasks and task clusters into logical sequences with criteria and logic to describe the actualities of day-2-day project working.\n"
-msgstr ""
+msgstr "While Workflows – where explained as ways for you to connect tasks and task clusters into logical sequences with criteria and logic to describe the actualities of day-2-day project working.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:280
 #, no-wrap
 msgid "Lastly we looked at how project documentation is a continuous process that begins with the proposal and should be considered task in its own right.\n"
 "Continuous refinement of your documentation is essential to the successful communication of your project at all stages and will help you and your team know what they should be doing at any particular time.\n"
-msgstr ""
+msgstr "Por último, analisámos a forma como a documentação dos projectos é um processo contínuo que começa com a proposta e que deve ser considerado como tarefa por direito próprio.\n"
+"O refinamento contínuo da sua documentação é essencial para a comunicação bem sucedida do seu projecto em todos os estágios e ajudará você e sua equipa a saber o que devem fazer em qualquer momento.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:282
 #, no-wrap
 msgid "You will learn more about documentation of our actual data in further session in this course.\n"
-msgstr ""
+msgstr "Você aprenderá mais sobre a documentação de nossos dados reais na próxima sessão deste curso.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:284
 #, no-wrap
 msgid "// Slide 30\n"
-msgstr ""
+msgstr "// Slide 30\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:286
 #, no-wrap
 msgid "In chapter 4 of the Hobbit, Bilbo and the unfortunate Dwarves are captured by goblins, chained together in the dark and led deep into the caverns and tunnels of the Misty Mountains. \n"
-msgstr ""
+msgstr "No capítulo 4 de Hobbit, Bilbo e os Anões são capturados por goblins, acorrentados na escuridão e empurrados fundo para as cavernas e túneis das Montanhas Misty\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:290
@@ -8898,13 +8943,15 @@ msgstr ""
 msgid "This may indeed be your first reaction to starting out on your practical plan, but remember that being physically clustered together made it easier for the dwarves to stay together and they escaped.\n"
 "It was by getting detached that Bilbo was lost.\n"
 "Of course he found the ring as result, but that’s another story for another time.\n"
-msgstr ""
+msgstr "Esta pode ser, de facto, a sua primeira reacção ao início do seu plano prático, mas lembre-se de que estar fisicamente agrupado junto, facilitou a permanência dos anões juntos e eles escaparam.\n"
+"Foi por estar separado que Bilbo foi perdido.\n"
+"É claro que ele encontrou o anel como resultado, mas essa é outra história para outra hora.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:292
 #, no-wrap
 msgid "// Slide 31\n"
-msgstr ""
+msgstr "// Slide 31\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:297
@@ -8923,7 +8970,8 @@ msgstr "Se tiver dúvidas sobre esta apresentação, use o fórum fornecido na p
 #, no-wrap
 msgid "In this presentation, we will introduce you to the concept of Data Publishing.\n"
 "We will also introduce you to GBIF’s Integrated Publishing Toolkit.\n"
-msgstr ""
+msgstr "Nesta apresentação, apresentaremos o conceito de Publicação de Dados.\n"
+"Também o apresentaremos ao IPT do GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:11
@@ -8931,21 +8979,25 @@ msgstr ""
 msgid "At this point in the course, you have moved through all the sections of mobilization project.\n"
 "Now you are ready to share your data.\n"
 "You’ve produced a cleaned and standardized dataset and you want to share and see that data on the GBIF data portal.\n"
-msgstr ""
+msgstr "Neste ponto do curso, você passou por todas as secções do projecto de mobilização.\n"
+"Agora você está pronto para partilhar seus dados.\n"
+"Você produziu um conjunto de dados limpo e padronizado e deseja partilhar e ver esses dados no portal de dados do GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:16
 #, no-wrap
 msgid "But there is more to it than simply handing over a spreadsheet or a text file to GBIF.\n"
 "You must publish the data.\n"
-msgstr ""
+msgstr "Mas há mais que simplesmente entregar uma tabela ou um ficheiro de texto para o GBIF.\n"
+"Você deve publicar os dados.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:19
 #, no-wrap
 msgid "Data publishing is the act of making biodiversity datasets publicly accessible and discoverable, in a standardized form (ie Darwin Core), via an access point.\n"
 "This access point is a URL – a web address.\n"
-msgstr ""
+msgstr "A publicação de dados é o ato de tornar os conjuntos de dados de biodiversidade acessíveis ao público e detectáveis, sob uma forma padronizada (i. e. Darwin Core), através de um ponto de acesso.\n"
+"Este ponto de acesso é uma URL – um endereço da Web.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:24
@@ -8954,13 +9006,16 @@ msgid "Most organizations within the GBIF Network, otherwise known as publishers
 "These publishers may choose to host their own installation of an IPT like the Field Museum, but generally prefer to find a suitable host for their data publishing activities.\n"
 "This might be through an established GBIF Participant Node like GBIF France or through an established thematic group like VertNet.\n"
 "Or, a another option, might be to make use of one of the GBIF-hosted IPTs like the BID, BIFA or regional IPTs.\n"
-msgstr ""
+msgstr "A maioria das organizações dentro da rede GBIF, também conhecidos como editores, usam um IPT para publicar seus dados.\n"
+"Estes editores podem escolher hospedar sua própria instalação de um IPT como o Field Museum, mas geralmente preferem encontrar um anfitrião adequado para suas atividades de publicação de dados.\n"
+"Isto pode ser por meio de um nó participante do GBIF estabelecido, como o GBIF France ou através de um grupo temático estabelecido como o VertNet.\n"
+"Ou, uma outra opção pode ser fazer uso de um dos IPT hospedados no GBIF, como os BID, BIFA ou IPTs regionais.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:26
 #, no-wrap
 msgid "If you are part of groups like Symbiota or the Living Atlases Communities, they have other means to assist you with publishing your data to GBIF.\n"
-msgstr ""
+msgstr "Se faz parte de grupos como Symbiota ou Comunidades Living Atlases, estes possuem outros meios de ajudá-lo a publicar seus dados no GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:31
@@ -8974,7 +9029,7 @@ msgstr "A definição sobre o Slide anterior deve ser atualizada para incluir al
 #: scripts/publishing-concepts.en.txt:33
 #, no-wrap
 msgid "In an effort to document the level of openness of a dataset, GBIF maintains, in keeping with a 2014 decision by the GBIF governing board, that all data published and registered for use in the GBIF portal, must be issued with one of three Creative Commons options:\n"
-msgstr ""
+msgstr "Num esforço para documentar o nível de abertura de um conjunto de dados, o GBIF mantém, de acordo com uma decisão de 2014 do conselho de administração do GBIF, que todos os dados publicados e registados para uso no portal GBIF, sejam emitidos com uma de três opções Creative Commons:\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:37
@@ -8990,14 +9045,15 @@ msgstr "CC0, uma dispensa para tornar os dados dados disponíveis para qualquer 
 #: scripts/publishing-concepts.en.txt:39
 #, no-wrap
 msgid "Note that CC-BY-NC licences have a significant effect on the reusability of data.\n"
-msgstr ""
+msgstr "Observe que as licenças CC-BY-NC têm um efeito significativo na reutilização de dados.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:42
 #, no-wrap
 msgid "GBIF encourages data publishers to choose the most open option they can wherever possible.\n"
 "Projects supported through GBIF-led funding must use either the CC0 or CC BY options.\n"
-msgstr ""
+msgstr "O GBIF encoraja os editores de dados a escolherem a opção mais aberta possível, sempre que possível.\n"
+"Projetos suportados através de financiamento liderado pelo GBIF devem usar as opções CC0 ou CC BY.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:49
@@ -9006,154 +9062,160 @@ msgid "The Integrated Publishing Toolkit (IPT) is a free, open source software t
 "The first version of IPT was released in 2009.\n"
 "It was redesigned and rereleased in 2011.\n"
 "Since that time, the IPT has been updated periodically with new features, bug fixes and security improvements.\n"
-msgstr ""
+msgstr "O IPT é uma ferramenta software gratuita, de código aberto, escrita em Java, que é usada para publicar e partilhar conjuntos de dados de biodiversidade através da rede GBIF.\n"
+"A primeira versão do IPT foi lançada em 2009.\n"
+"Foi redesenhado e relançado em 2011.\n"
+"Desde então, o IPT foi actualizado periodicamente com novos recursos, correções de bugs e melhorias na segurança.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:51
 #, no-wrap
 msgid "While the IPT is maintained at GBIF, the community of biodiversity informatics developers are able to contribute to its development.\n"
-msgstr ""
+msgstr "Embora o IPT seja mantido no GBIF, a comunidade de desenvolvedores da informática para a biodiversidade podem contribuir para o seu desenvolvimento.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:53
 #, no-wrap
 msgid "Some of the features include:\n"
-msgstr ""
+msgstr "Alguns dos recursos incluem:\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:55
 #, no-wrap
 msgid "Main (but not only) publishing tool for GBIF.\n"
-msgstr ""
+msgstr "Ferramenta de publicação principal (mas não apenas) para GBIF.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:57
 #, no-wrap
 msgid "One IPT can host many datasets, on behalf of several institutions, each clearly represented\n"
-msgstr ""
+msgstr "Um IPT pode hospedar muitos conjuntos de dados, em nome de várias instituições, cada uma claramente representada\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:59
 #, no-wrap
 msgid "Test mode and production mode\n"
-msgstr ""
+msgstr "Modo teste e modo de produção\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:61
 #, no-wrap
 msgid "Multilingual – it has been translated into 7 languages.\n"
-msgstr ""
+msgstr "Multilíngue – foi traduzido para 7 idiomas.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:64
 #, no-wrap
 msgid "It is a server-side software, so it needs a stable connection and requires technical administration.\n"
 "This is why many institutions choose to publish their data on hosted IPTs.\n"
-msgstr ""
+msgstr "É um software de apoio ao servidor, portanto precisa de uma conexão estável e requer uma administração técnica.\n"
+"É por isso que muitas instituições optam por publicar seus dados em IPTs que hospedem.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:66
 #, no-wrap
 msgid "You can find more information on data hosting on the GBIF website under the How-to menu.\n"
-msgstr ""
+msgstr "Você pode encontrar mais informações sobre hospedagem de dados no site GBIF no menu How-to.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:68
 #, no-wrap
 msgid "For the remainder of our course, we’ll be demonstrating and completing exercises using the IPT.\n"
-msgstr ""
+msgstr "Durante o restante do nosso curso, iremos demonstrar e concluir exercícios usando o IPT.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:72
 #, no-wrap
 msgid "We’re now putting together what you learned in the first two presentations in the Data Capture section on Standards and Darwin Core and Data Types.\n"
-msgstr ""
+msgstr "Agora estamos a juntar o que você aprendeu nas duas primeiras apresentações da secção Captura de Dados sobre Padrões e Darwin Core e Tipos de Dados.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:75
 #, no-wrap
 msgid "At its heart, the IPT is based on Darwin Core and the Darwin Core text guide and its recommendations for sharing data in a Darwin Core Archive.\n"
 "The Darwin Core contains three distinct data cores which match up to three of the dataset types that GBIF accepts.\n"
-msgstr ""
+msgstr "Na base, o IPT é baseado no Darwin Core e no guia de texto Darwin Core e nas recomendações para a partilha de dados em um Darwin Core Archive.\n"
+"O Darwin Core contém três núcleos de dados distintos que correspondem a três dos tipos de conjuntos de dados que o GBIF aceita.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:77
 #, no-wrap
 msgid "Keep in mind:\n"
-msgstr ""
+msgstr "Tenha em mente:\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:79
 #, no-wrap
 msgid "Each dataset has one and only one Core file\n"
-msgstr ""
+msgstr "Cada conjunto de dados possui apenas um ficheiro de núcleo\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:81
 #, no-wrap
 msgid "Each Core file corresponds to a dataset type: occurrence, checklist or sampling event.\n"
-msgstr ""
+msgstr "Cada ficheiro Core (núcleo) corresponde a um tipo de conjunto de dados: ocorrência, checklist ou evento de amostragem.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:83
 #, no-wrap
 msgid "Each dataset can have one or more extensions file\n"
-msgstr ""
+msgstr "Cada conjunto de dados pode ter uma ou mais extensões\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:85
 #, no-wrap
 msgid "The aim of an extension is to add new data fields not present in the core.\n"
-msgstr ""
+msgstr "O objectivo de uma extensão é adicionar novos campos de dados que não estejam presentes no núcleo.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:88
 #, no-wrap
 msgid "Each entry in the core file is linked to zero, one or several rows in an extension file.\n"
 "Each row in an extension file reference one and only one row in the core file.\n"
-msgstr ""
+msgstr "Cada entrada no ficheiro core é vinculada a zero, uma ou várias linhas em um ficheiro de extensão.\n"
+"Cada linha em uma extensão faz referência a uma e apenas uma linha no ficheiro core.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:90
 #, no-wrap
 msgid "Some examples:\n"
-msgstr ""
+msgstr "Alguns exemplos:\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:92
 #, no-wrap
 msgid "Core is Occurrence, no extensions\n"
-msgstr ""
+msgstr "Núcleo é Occurrence, sem extensões\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:94
 #, no-wrap
 msgid "Core is Occurrence, with “multimedia” extension\n"
-msgstr ""
+msgstr "Núcleo é Occurrence, com a extensão \"multimedia\"\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:96
 #, no-wrap
 msgid "Core is Occurrence, with Audubon core and measurementorfact extensions\n"
-msgstr ""
+msgstr "Núcleo é Occurrence, com Extensões Audubon core e measurementorfact\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:98
 #, no-wrap
 msgid "Core is Taxon, no extensions\n"
-msgstr ""
+msgstr "Core é Taxon, sem extensões\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:100
 #, no-wrap
 msgid "Core is Taxon, with species distribution extension\n"
-msgstr ""
+msgstr "Core é Taxon, com extensão de distribuição de espécies\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:102
 #, no-wrap
 msgid "Core is Event with Occurrence and Measurementorfact extensions\n"
-msgstr ""
+msgstr "Núcleo é Evento com extensões de Ocorrência e Measurementorfact\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:110
@@ -9162,7 +9224,10 @@ msgid "The first core is the Occurrence Core.\n"
 "As a reminder, an occurrence dataset contains one individual or one group of individuals.\n"
 "Each row has a unique identifier, an occurrenceID.\n"
 "Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
-msgstr ""
+msgstr "O primeiro núcleo é o Núcleo de Ocorrência.\n"
+"Como lembrete, um conjunto de dados de ocorrência contém um indivíduo ou um grupo de indivíduos.\n"
+"Cada linha tem um identificador exclusivo, uma occurrenceID.\n"
+"Outros campos para dados de ocorrência incluem onde, quando, e por quem foi observado e por quem cada ocorrência foi amostrada no campo.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:118
@@ -9171,7 +9236,10 @@ msgid "The next option is the Taxon core.\n"
 "As a reminder, a checklist dataset contains taxonomic concepts, not individuals.\n"
 "It is a “A catalogue or list of named organisms, or taxa.” Each row will have a taxonID.\n"
 "Each taxon must be unique.\n"
-msgstr ""
+msgstr "A próxima opção é o núcleo de Táxon.\n"
+"Como lembrete, um conjunto de dados de checklist contém conceitos taxonómicos, não indivíduos.\n"
+"É um \"catálogo ou lista de organismos nomeados, ou taxa\". Cada linha terá um táxonID.\n"
+"Cada táxon deve ser único.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:124
@@ -9179,41 +9247,47 @@ msgstr ""
 msgid "The last option is the Event core.\n"
 "As a reminder, sampling event datasets allow data publishers to provide greater detail, not only offering evidence that a species occurred at a given location and date, but also making it possible to assess community composition for broader taxonomic groups or even the abundance of species at multiple times and places.\n"
 "By indicating the methods, events and relative abundance of species recorded in a sample, these datasets improve comparisons with data collected using the same protocols at different times and places—in some cases, even leading researchers to infer the absence of particular species from particular sites.\n"
-msgstr ""
+msgstr "A última opção é o núcleo do Evento.\n"
+"Como lembrete, conjuntos de dados de eventos de amostragem permitem que os editores de dados forneçam mais detalhes, não só oferecendo provas de que uma espécie ocorreu num determinado local e data, mas também tornando possível avaliar a composição da comunidade para grupos taxonómicos mais amplos ou até mesmo a abundância de espécies em diferentes tempos e lugares.\n"
+"Ao indicar os métodos, eventos e abundância relativa de espécies registadas em uma amostra, esses conjuntos de dados melhoram as comparações com os dados recolhidos usando os mesmos protocolos em momentos e lugares diferentes - em alguns casos, é possível a investigadores inferir a ausência de determinadas espécies de determinados sítios.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:127
 #, no-wrap
 msgid "Each row will have an EventID.\n"
 "Each event must be unique.\n"
-msgstr ""
+msgstr "Cada linha terá um EventID.\n"
+"Cada evento deve ser único.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:132
 #, no-wrap
 msgid "This is a good point to review all of the fields required by GBIF.\n"
 "If required fields are not supplied, GBIF will have difficult indexing your dataset.\n"
-msgstr ""
+msgstr "Este é um bom ponto para rever todos os campos exigidos pelo GBIF.\n"
+"Se os campos obrigatórios não forem fornecidos, o GBIF terá dificuldade em indexar seu conjunto de dados.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:135
 #, no-wrap
 msgid "Each core has its own set of required and recommended fields for the dataset and for the associated dataset metadata.\n"
 "As you now know, metadata is the data about your data and it enables users to know if your dataset will be fit for their use.\n"
-msgstr ""
+msgstr "Cada núcleo tem seu próprio conjunto de campos obrigatórios e recomendados e para os metadados do conjunto de dados associado.\n"
+"Como você agora sabe, metadados são os dados sobre seus dados e permite que os utilizadores saibam se seu conjunto de dados será adequado para o seu uso.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:138
 #, no-wrap
 msgid "Don’t stop at the required and recommended fields.\n"
 "The more data you are able to share, the more useful your dataset can be to end users.\n"
-msgstr ""
+msgstr "Não pare nos campos obrigatórios e recomendados.\n"
+"Quanto mais dados você conseguir partilhar, mais útil poderá ser o seu conjunto de dados para os utilizadores finais.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:140
 #, no-wrap
 msgid "You can find the data quality on the gbif website under the How-to menu.\n"
-msgstr ""
+msgstr "Você pode encontrar a qualidade dos dados no site do gbif sob o menu How-to.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:149
@@ -9224,57 +9298,64 @@ msgid "Extensions were introduced in the Standards presentation.\n"
 "The approved extensions can be enabled by an IPT administrator on a Production IPT.\n"
 "Draft extensions can be enabled by an IPT administrator on a Test IPT.\n"
 "If you know you have data that cannot be shared with Simple Darwin Core, it is worth reviewing the list of available extensions.\n"
-msgstr ""
+msgstr "As extensões foram introduzidas na apresentação sobre Padrões.\n"
+"Ao publicar um conjunto de dados é quando você as colocará em uso.\n"
+"Como mencionado anteriormente, o GBIF mantém a lista de extensões aprovadas e rascunho de extensões em seu sub-site de ferramentas.\n"
+"As extensões aprovadas podem ser habilitadas por um administrador do IPT em um IPT de produção.\n"
+"Extensões de rascunho podem ser habilitadas por um administrador do IPT em um IPT teste.\n"
+"Se você sabe que tem dados que não podem ser partilhados com o Simple Darwin Core, vale a pena rever a lista de extensões disponíveis.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:152
 #, no-wrap
 msgid "If you think an extension doesn’t exist, try reaching out to members of the TDWG community or posting on the Darwin Core issues site.\n"
 "Community members will help guide you.\n"
-msgstr ""
+msgstr "Se você acha que uma extensão não existe, tente entrar em contacto com membros da comunidade TDWG ou postar no portal de problemas do Darwin Core.\n"
+"Membros da comunidade irão guiá-lo.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:156
 #, no-wrap
 msgid "Also, in the standards presentation, you were introduced to Darwin Core Archives.\n"
-msgstr ""
+msgstr "Além disso, na apresentação de padrões, você foi apresentado a Darwin Core Archives.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:158
 #, no-wrap
 msgid "This is an example of a Darwin Core archive with extensions.\n"
-msgstr ""
+msgstr "Este é um exemplo de um arquivo Darwin Core com extensões.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:160
 #, no-wrap
 msgid "It’s an occurrence dataset that has been published with images, determination history and genebank information.\n"
-msgstr ""
+msgstr "É um conjunto de dados de ocorrência que foi publicado com imagens, histórico de determinação e informações de banco de genes.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:165
 #, no-wrap
 msgid "Until now, it may have been difficult to imagine how two single files can be related.\n"
 "A core with an extension can represent the following relationships.\n"
-msgstr ""
+msgstr "Até agora, pode ter sido difícil imaginar como se pode estabelecer uma relação entre dois ficheiros isolados.\n"
+"Um núcleo com uma extensão pode representar os seguintes relacionamentos.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:167
 #, no-wrap
 msgid "1:0\n"
-msgstr ""
+msgstr "1:0\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:169
 #, no-wrap
 msgid "1:1\n"
-msgstr ""
+msgstr "1:1\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:171
 #, no-wrap
 msgid "1:many\n"
-msgstr ""
+msgstr "1:muitos\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:177
@@ -9284,7 +9365,11 @@ msgid "The core file will always contain unique records.\n"
 "In Vernacular Names extension file, each vernacular name is unique.\n"
 "The first three represent common names for the species Struthio camelus (1:many relationship).\n"
 "The fourth name represents the common name for the species Alectoris chukar (1:1 relationship).\n"
-msgstr ""
+msgstr "O ficheiro núcleo sempre conterá registos exclusivos.\n"
+"Neste exemplo usando o Núcleo do Táxon, cada táxon é único e é representado por um taxonID.\n"
+"No ficheiro da extensão Nomes Vernaculares, cada nome vernacular é único.\n"
+"Os três primeiros representam nomes comuns para a espécie Struthio camelus (1:muitas relações).\n"
+"O quarto nome representa o nome comum para a espécie Alectoris chukar (relação 1:1).\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:182
@@ -9293,7 +9378,9 @@ msgid "In this example the third and fourth taxons in the core file, do not have
 "(1:0 relationship).\n"
 " \n"
 "// Slide 14\n"
-msgstr ""
+msgstr "Neste exemplo, os terceiro e quarto táxons no ficheiro principal, não têm correspondência no ficheiro da extensão.\n"
+"(1:0 relação).\n\n"
+"// Deslize 14\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:185
@@ -9308,50 +9395,52 @@ msgstr "À medida que terminamos essa apresentação, gostaríamos que começass
 #, no-wrap
 msgid "Login and a take a look around.\n"
 "In the next presentation, you will watch a demonstration on how to use the IPT, after which you’ll be ready to try it yourself.\n"
-msgstr ""
+msgstr "Faça login e dê uma olhada.\n"
+"Na próxima apresentação, você assistirá uma demonstração sobre como usar o IPT, após a qual estará pronto para experimentar por si mesmo.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:192 scripts/standards.en.txt:289
 #, no-wrap
 msgid "Thank you.\n"
-msgstr ""
+msgstr "Obrigada.\n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:199
 #, no-wrap
 msgid "This presentation was originally created by Sophie Pamerlon with additional contributions by Nicolas Noe, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students.\n"
-msgstr ""
+msgstr "Esta apresentação foi originalmente criada por Sophie Pamerlon com contribuições adicionais de Nicolas Noe, Laura Anne Russell e Dag Endresen, Treinadores BID e BIFA, Mentores e alunos. \n"
 
 #. type: Plain text
 #: scripts/publishing-concepts.en.txt:200 scripts/standards.en.txt:297
 #, no-wrap
 msgid "This presentation has been narrated by Laura Anne Russell.\n"
-msgstr ""
+msgstr "Esta apresentação foi narrada por Laura Anne Russell.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:5
 #, no-wrap
 msgid "This session is part of the planning section.\n"
 "We will be introducing some concepts and methodologies that will help you to focus on the organization of your mobilization project at a number of levels.\n"
-msgstr ""
+msgstr "Esta sessão faz parte da secção de planeamento.\n"
+"Introduziremos alguns conceitos e metodologias que ajudarão você a se concentrar na organização do seu projecto de mobilização em vários níveis.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:9
 #, no-wrap
 msgid "Good planning begins by defining the elements that will have an impact on your project and then understanding the interactions between them.\n"
-msgstr ""
+msgstr "Um bom planeamento começa por definir os elementos que terão impacto no seu projecto e depois compreender as interações entre eles.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:11
 #, no-wrap
 msgid "In this section we will look at the different players that it is necessary to understand before you can effectively organize your project and a methodology to identify WHO the key players and resources are and WHAT they should be doing.\n"
-msgstr ""
+msgstr "Nesta secção analisaremos os diferentes actores, o que é necessário compreender antes de se conseguir organizar eficazmente o seu projecto e uma metodologia para identificar QUEM são os principais actores e os recursos e O QUE devem estar a fazer.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:13
 #, no-wrap
 msgid "The 5 key concepts we will look at are: Affiliations, Stakeholders, Roles, Tasks and Goals.\n"
-msgstr ""
+msgstr "Os 5 conceitos-chave que analisaremos são: Afiliações, Stakeholders, Funções, Tarefas e Objetivos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:20
@@ -9360,7 +9449,10 @@ msgid "First let us take a moment to understand the term Mobilisation.\n"
 "Mobilisation is the action of bringing resources into use to achieve a particular purpose or goal.\n"
 "In other words, to mobilize something, whether it be an expedition to the Antarctic or the publication of data, you will need to bring together available resources and assets and use them to achieve a defined “something”.\n"
 "To mobilize we must understand our resources.\n"
-msgstr ""
+msgstr "Em primeiro lugar, vamos compreender o termo Mobilização.\n"
+"Mobilização é a ação de trazer recursos para uso para atingir um propósito ou objectivo específico.\n"
+"Em outras palavras, para mobilizar algo, seja uma expedição para o Antárctico ou a publicação de dados, você precisará reunir recursos e recursos disponíveis e usá-los para alcançar \"alguma coisa\".\n"
+"Para mobilizar, precisamos entender nossos recursos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:27
@@ -9369,7 +9461,10 @@ msgid "Let’s break this down this and look at the first part of the definition
 "In the context of biodiversity data mobilization there are two types of resource.\n"
 "The hardware that you will need to create or manipulate digital files (for example computers, cameras, lights, desks etc) and the people.\n"
 "The actual individuals who will work with and for the project.\n"
-msgstr ""
+msgstr "Vamos dividir isto e olhar para a primeira parte da definição do termo mobilize e procurar o que é um RECURSO.\n"
+"No contexto da mobilização de dados de biodiversidade, existem dois tipos de recursos.\n"
+"O hardware que você precisará criar ou para manipular ficheiros digitais (por exemplo, computadores, câmeras, luzes, mesas, etc.) e as pessoas.\n"
+"Os indivíduos que irão trabalhar com e para o projecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:34
@@ -9388,66 +9483,72 @@ msgstr "Infelizmente, as escolhas específicas de hardware estão fora do âmbit
 #, no-wrap
 msgid "So to the people.\n"
 "People come in many types and can be organized in may ways, and it is the connections between that will have the most impact on the successful completion of your mobilization project.\n"
-msgstr ""
+msgstr "Portanto, as pessoas.\n"
+"As pessoas vêm de muitos tipos e podem ser organizadas de muitas maneiras, e são as conexões que terão mais impacto na conclusão bem sucedida do seu projecto de mobilização.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:41
 #, no-wrap
 msgid "They can be broadly grouped into 3 levels: AFFLIATIONS, STAKEHOLDERS and ROLES.\n"
-msgstr ""
+msgstr "Eles podem ser agrupados genericamente em 3 níveis: AFILIAÇÕES, STAKEHOLDER e PAPÉIS.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:44
 #, no-wrap
 msgid "Affiliations are very high level and most broadly represent the entity that is responsible for the management and pay of the team or individual.\n"
 "They are often strategic in nature.\n"
-msgstr ""
+msgstr "As afiliações são de alto nível e representam de uma maneira geral a entidade responsável pela gestão e pagamento da equipe ou indivíduo.\n"
+"Muitas vezes são de natureza estratégica.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:47
 #, no-wrap
 msgid "Stakeholders are groups or teams who may or may not be part of a formal management structure.\n"
 "They share an affiliation and a tactical theme.\n"
-msgstr ""
+msgstr "As partes interessadas são grupos ou equipas que podem ou não fazer parte de uma estrutura formal de gestão.\n"
+"Partilham uma afiliação e um tema tático.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:49
 #, no-wrap
 msgid "Roles in this context, represent jobs or positions with a title that an individual may hold.\n"
-msgstr ""
+msgstr "Papéis neste contexto, representam tarefas ou funções com título que os indivíduos podem ter.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:53
 #, no-wrap
 msgid "Three affiliations are commonly a part of the biodiversity data mobilization landscape.\n"
-msgstr ""
+msgstr "Três afiliações são comumente parte da paisagem de mobilização de dados da biodiversidade.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:56
 #, no-wrap
 msgid "An “INSTITUTIONAL” affiliation usually accounts for teams who work for the institution that is running the project.\n"
 "In the context of the project they are NOT specifically paid by the project. \n"
-msgstr ""
+msgstr "Uma Afiliação \"INSTITUCIONAL\" geralmente conta para equipAs que trabalham para a instituição que está executando o projeCto.\n"
+"No contexto do projeCto, eles NÃO são pagos especificamente pelo projecto\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:58
 #, no-wrap
 msgid "A “PROJECT” affiliation covers those teams that ARE specifically paid by the project for any part of their time.\n"
-msgstr ""
+msgstr "A afiliação \"PROJECTO\" abrange as equipas que são pagas especificamente pelo projecto por qualquer parte do seu tempo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:61
 #, no-wrap
 msgid "Those teams or groups who do not work for the institution and are not paid by the project specifically, but whose input is required for success, have an “EXTERNAL” affiliation.\n"
 "Three often encountered examples of these are Local Government, Regional Government and NGOs.\n"
-msgstr ""
+msgstr "As equipas ou grupos que não trabalham para a instituição e não são pagos especificamente pelo projecto, mas cujo input é necessário para o sucesso, tem uma afiliação \"EXTERNA\".\n"
+"Três exemplos frequentes disso são o Governo Local, o Governo Regional e as ONGs.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:64
 #, no-wrap
 msgid "Knowing the affiliations of the teams working on your project will give you a good idea of any potentially competing or supporting strategic goals, priorities, projects and agenda’s.\n"
 "It is often at this level that long to medium term plans and policies come into play, such as Laws, Intellectual Property Rights, and Retention Policies which can have a high impact on your project and its goals.\n"
-msgstr ""
+msgstr "Conhecer as afiliações das equipas que trabalham em seu projecto lhe dará uma boa idéia de quaisquer objetivos estratégicos ou de apoio, prioridades, projectos e agenda de trabalho.\n"
+"É frequentemente nesse nível que entram em jogo planos e políticas de longo e médio prazo, como Leis, Direitos de propriedade intelectual e políticas de retenção, que podem ter um alto impacto no seu projecto e em seus objectivos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:72
@@ -9457,7 +9558,11 @@ msgid "Stakeholders represent the next level of the WHO in your project. \n"
 "They have responsibility for day to day running such as managing infrastructure, curating the collection, doing the research and paying the bills.\n"
 "Stakeholders may or may not be part of the same formal management structure but they share an affiliation and come together to do something practical.\n"
 "It is important to remember that no two affiliations organize their stakeholder groups in the same way you should never assume that someone else’s structure is the same as yours.\n"
-msgstr ""
+msgstr "As partes interessadas representam o próximo nível do QUEM em seu projecto.\n"
+"Estas são frequentemente as unidades táticas dentro de uma afiliação partilhada.\n"
+"Elas têm responsabilidade pelo dia a dia, como gerir a infraestrutura, curar a colecção, fazer a pesquisa e pagar as contas.\n"
+"As partes interessadas podem ou não fazer parte da mesma estrutura formal de gestão, mas partilham uma afiliação e se juntam para fazer algo prático.\n"
+"É importante lembrar que duas afiliações não organizam os seus grupos de stakeholders da mesma maneira e que você nunca deve supor que a estrutura de outra pessoa seja a mesma que a sua.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:81
@@ -9468,68 +9573,74 @@ msgid "Each stakeholder group is made up of one or more Roles.\n"
 "It is important to understand how these roles are distributed across the different stakeholder groups.\n"
 "Be aware that a named role at your institution may not be in the same stakeholder group somewhere else.\n"
 "In some case even though the name of the role may be the same they may have different responsibilities.\n"
-msgstr ""
+msgstr "Cada grupo de partes interessadas é constituído por um ou mais papéis.\n"
+"As funções neste contexto representam tarefas ou posições com um título que os indivíduos podem ter.\n"
+"Cada um desses papéis é mantido por uma pessoa real que terá pelo menos uma função.\n"
+"É importante entender como estas funções são distribuídas pelos diferentes grupos de partes interessadas.\n"
+"Esteja ciente de que uma função nomeada na sua instituição pode não estar no mesmo grupo de partes interessadas em algum outro lugar.\n"
+"Em algum caso, embora o nome da função possa ser o mesmo, eles podem ter diferentes responsabilidades.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:86
 #, no-wrap
 msgid "There is one particular role that we should spend a little time on.\n"
-msgstr ""
+msgstr "Há um papel em particular no qual devemos passar um pouco mais de tempo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:88
 #, no-wrap
 msgid "The project manager.\n"
-msgstr ""
+msgstr "Coordenador de projecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:90
 #, no-wrap
 msgid "This is the person who must: \n"
-msgstr ""
+msgstr "Esta é a pessoa que deve: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:92
 #, no-wrap
 msgid "Keep track of Scope, Manage, control and mitigate Change of everything.\n"
-msgstr ""
+msgstr "Manter o escopo, a gestão, controlar e mitigar a mudança de tudo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:94
 #, no-wrap
 msgid "Articulate and keep track of the planning process by turning high-level information into detailed executable plans.\n"
-msgstr ""
+msgstr "Articular e manter o controlo do processo de planeamento, transformando informações de alto nível em planos executáveis detalhados.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:96
 #, no-wrap
 msgid "Follow through on the Management of the project team so they can meet the project objectives.\n"
-msgstr ""
+msgstr "Siga através da Gestão da equipa do projecto para que eles possam atingir os objectivos do projecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:98
 #, no-wrap
 msgid "Monitor and control the work of producing the products, and results that the project has committed to and ultimately be responsible for the Success of the project as measured by quality, timeliness and budget compliance.\n"
-msgstr ""
+msgstr "Monitorar e controlar o trabalho de produção dos produtos e resultados em que o projecto se comprometeu e, em última análise, se responsabilizou pelo sucesso do projecto, em função da qualidade, oportunidade e conformidade com o orçamento.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:102
 #, no-wrap
 msgid "The second element of the definition of the term mobilize is USES.\n"
-msgstr ""
+msgstr "O segundo elemento da definição do termo mobilizar é UTILIZAÇÕES.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:104
 #, no-wrap
 msgid "These work tasks represent WHICH things you will need to do, in order to successfully do what you said you would do. \n"
-msgstr ""
+msgstr "Estas tarefas de trabalho representam QUAIS coisas que você precisará fazer, para que possa ter sucesso no que você disse que faria\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:107
 #, no-wrap
 msgid "The specific set of tasks carried out by the individuals assigned to the roles and working on your project, is dependent on the type of digitization that you need to do in order to create your publishable dataset. \n"
 "However, they will most likely include some or all of the following tasks: Specimen/Object Staging, Curation, Data Review, Database Review, Image Capture, Transcription, Data Cleaning, Quality Checking, Georeferencing and Publishing.\n"
-msgstr ""
+msgstr "O conjunto específico de tarefas realizadas pelos indivíduos designados aos papéis e trabalhando em seu projecto, depende do tipo de digitalização que você precisa fazer para criar seu conjunto de dados publicável.\n"
+"No entanto, eles provavelmente incluirão algumas ou todas as seguintes tarefas: espécime/Objecto Staging, Curadoria, Revisão de Dados, Revisão de Base Dados, Captura de Imagem, Transcrição, Limpeza de Dados, Verificação de Qualidade, Georeferência e Publicação.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:114
@@ -9538,7 +9649,10 @@ msgid "Once identified, tasks will need to be scheduled and ordered to be effect
 "There are many way to arrange tasks, some of course will be more efficient than others.\n"
 "We will look more closely at the application of several methods for manging TASKS for data mobilization in the session on ORGANISING.\n"
 "These will include: Groupings, Clustering and Workflows.\n"
-msgstr ""
+msgstr "Uma vez identificadas, as tarefas terão de ser agendadas e ordenadas para serem eficazes.\n"
+"Há muitas maneiras de organizar as tarefas, algumas serão mais eficientes do que outras.\n"
+"Iremos analisar mais de perto a aplicação de vários métodos para manipular TAREFAS para mobilização de dados na sessão sobre ORGANIZAÇÃO.\n"
+"Estes incluirão: Agrupamentos, Clustering e Fluxos de Trabalho.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:117
@@ -9552,7 +9666,7 @@ msgstr "Lembre-se de que, embora não haja nenhum \"tamanho único para todos\",
 #: scripts/resourcing.en.txt:121
 #, no-wrap
 msgid "The third and final element of the definition is the outcome or outcomes.\n"
-msgstr ""
+msgstr "O terceiro e último elemento da definição é o resultado ou resultados.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:127
@@ -9562,154 +9676,161 @@ msgid "GOALS are the “WHAT are you going to do” of the project, and will hav
 "Clearly re-articulating the stated deliverables of a project and when they are due is the critical first step in creating a successful implementation plan.\n"
 "Time should also be spent documenting any implied goals.\n"
 "Whilst these are often more difficult to metricize, they often speak directly to the sustainability of the project and its impact outside of its target audience.\n"
-msgstr ""
+msgstr "Os objectivos são o \"O QUE você irá fazer\" do projecto, e terão sido estabelecidos na proposta original do projecto.\n"
+"Na verdade, este é realmente o lugar para começar.\n"
+"Rearticular claramente os resultados anunciados de um projecto e suas datas limite é o primeiro passo crítico para criar um plano de implementação bem-sucedido.\n"
+"Também deve gastar tempo documentando quaisquer objectivos implícitos.\n"
+"Embora sejam muitas vezes mais difíceis de medir, frequentemente, falam directamente da sustentabilidade do projecto e do seu impacto fora do público-alvo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:131
 #, no-wrap
 msgid "Examples of explicit stated data mobilization goals are: \n"
-msgstr ""
+msgstr "Exemplos de objectivos de mobilização de dados declarados explícitos são: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:133
 #, no-wrap
 msgid "Publishing Data to GBIF and doing it regularly; \n"
-msgstr ""
+msgstr "Publicar Dados no GBIF e fazê-lo regularmente; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:135
 #, no-wrap
 msgid "Inclusion of additional supporting metadata over and above the basic fields if available; \n"
-msgstr ""
+msgstr "Inclusão de metadados de suporte adicionais acima dos campos básicos, se disponível; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:137
 #, no-wrap
 msgid "Taking Images of an object/specimen from from multiple angles, or using advanced techniques such as; CT Scanning or Electron Microscopy; \n"
-msgstr ""
+msgstr "Tirando imagens de um objecto/espécime de vários ângulos, ou usar técnicas avançadas, como a Verificação de CT ou Microscopia Electrônica; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:139
 #, no-wrap
 msgid "Imaging all specimens in a collection as opposed to just of type specimens;  \n"
-msgstr ""
+msgstr "Fazer imagens de todos os espécimes em uma coleção comparativamente com apenas com o espécimes tipo;  \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:141
 #, no-wrap
 msgid "Georeferencing rather than verbatim transcription of localities; Creating and Maintaining your own IPT.\n"
-msgstr ""
+msgstr "Georeferenciação em vez de transcrição textual das localidades; Criar e manter o seu próprio IPT.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:143
 #, no-wrap
 msgid "More implied but equally important goals include: \n"
-msgstr ""
+msgstr "Metas mais implícitas, mas igualmente importantes, incluem: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:145
 #, no-wrap
 msgid "Increased public awareness of local issues.\n"
-msgstr ""
+msgstr "Maior consciência pública sobre problemas locais.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:147
 #, no-wrap
 msgid "The ability to use a successful project as evidence of capacity and expertise when applying for further funding.\n"
-msgstr ""
+msgstr "A capacidade de usar um projecto de sucesso como evidência da capacidade e experiência ao solicitar mais fundos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:149
 #, no-wrap
 msgid "Use of mobilised datasets to effect data driven policy change.\n"
-msgstr ""
+msgstr "Uso de conjuntos de dados mobilizados para influenciar alterações em políticas orientadas por dados.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:153
 #, no-wrap
 msgid "You should break down high level implied or indirect goals into the direct deliverables that will move you towards your goals.\n"
-msgstr ""
+msgstr "Você deve dividir objectivos de alto nível implícitos ou indiretos em produtos diretos que o moverão em direção a seus objetivos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:155
 #, no-wrap
 msgid "For example if your goal is CAPACITY ENHANCEMENT then you could have specific achievements that may include setting up a regional IPT that can used by multiple institutions that cannot host their own or the training of collections staff to create and update their own ipt resources for publication.\n"
-msgstr ""
+msgstr "Por exemplo, se o seu objectivo é o AUMENTO DA CAPACIDADE então poderá ter AÇÕES específicas que possam incluir a criação de um IPT regional que possa ser usado por várias instituições que não possam receber o seu próprio material ou treinar pessoal de colecções para criar e actualizar os seus próprios recursos ipt para publicação.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:157
 #, no-wrap
 msgid "If the goal is INCREASED PUBLIC OUTREACH deliverables could include increased visitation to your collections web pages or increased number of observations by locals and citizen scientists. \n"
-msgstr ""
+msgstr "Se o objectivo é o AUMENTO DA DIVULGAÇÃO PÚBLICA, resultados poderiam incluir o aumento da visita às suas páginas da web de colecções ou o aumento do número de observações por locais e cientistas cidadãos. \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:159
 #, no-wrap
 msgid "In this way it becomes possible to track the progress of the goal and ultimately report on its success.\n"
-msgstr ""
+msgstr "Desta forma, torna-se possível acompanhar o progresso do objectivo e finalmente relatar o seu sucesso.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:163
 #, no-wrap
 msgid "Having defined your goals, gathered your resources and organised your tasks you are now in a position to document the landscape and realistically assess where gaps, bottlenecks and barriers may exist in your implementation plan.\n"
-msgstr ""
+msgstr "Tendo definido suas metas, reunido seus recursos e organizado suas tarefas, você está agora em posição de documentar a paisagem e avaliar realisticamente onde lacunas, dificuldades e barreiras podem existir no seu plano de implementação.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:166
 #, no-wrap
 msgid "One way to do this is take your list of existing stakeholders, associate roles to them and then assign to each role the tasks that you have decided they will need to carry out.\n"
 "If any stakeholder or role seems to have too many tasks then this is likely to become a bottleneck in your project.\n"
-msgstr ""
+msgstr "Uma maneira de o fazer é pegar a sua lista de partes interessadas existentes, associar funções a elas e, em seguida, atribuir a cada função as tarefas que você decidiu que elas precisarão executar.\n"
+"Se alguma das partes interessadas ou função parece ter muitas tarefas, então é provável que isso se torne um gargalo no seu projeto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:169
 #, no-wrap
 msgid "A task with no assigned role indicates a a gap. \n"
 "Effective early assessment of resources should mitigate capacity and practical barriers whilst identifying competing goals and conflicting affiliation will help to avoid cultural and institutional barriers.\n"
-msgstr ""
+msgstr "Uma tarefa com nenhum papel atribuído indica uma lacuna.\n"
+"A avaliação rápida e eficaz dos recursos deve mitigar a capacidade e as barreiras práticas, ao mesmo tempo que a identificação de metas concorrentes e de afiliação conflitante ajudarão a evitar barreiras culturais e institucionais.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:171
 #, no-wrap
 msgid "You will see more on this process in the online planning exercises.\n"
-msgstr ""
+msgstr "Você verá mais sobre este processo nos exercícios de planeamento on-line.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:175
 #, no-wrap
 msgid "In review, good planning begins by defining the elements that will have an impact on your project and understanding the interactions between them.\n"
-msgstr ""
+msgstr "Um bom planeamento começa por definir os elementos que terão impacto no seu projecto e depois compreender as interações entre eles.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:177
 #, no-wrap
 msgid "We have looked at the classifications of individuals and groups of people; and the ways in which they interact which each other that may support or block progress in the completion of your project.\n"
-msgstr ""
+msgstr "Analisámos as classificações de indivíduos e grupos de pessoas; e a forma como interagem entre eles e que pode apoiar ou bloquear o progresso no final do seu projecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:179
 #, no-wrap
 msgid "We then briefly discussed the need to identify the practical tasks that will need to be accomplished.\n"
-msgstr ""
+msgstr "Em seguida, discutimos brevemente a necessidade de identificar as tarefas práticas que precisarão ser realizadas.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:181
 #, no-wrap
 msgid "Lastly, and arguably most significantly, we emphasized that a workable implementation plan begins with a thorough review of the goals and deadlines of the project.\n"
-msgstr ""
+msgstr "Por último, e sem dúvida o mais importante, salientámos que um plano de execução exequível começa com uma revisão profunda dos objectivos e prazos do projecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:185
 #, no-wrap
 msgid "Using the criteria we have discussed you should now be able to assess the environment that your project exists within now in three steps: \n"
-msgstr ""
+msgstr "Utilizando os critérios que discutimos você deve agoras ser capaz de avaliar o ambiente em que seu projecto existe, em três etapas: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:188
 #, no-wrap
 msgid "First review your goals.\n"
 "Do you know exactly what you need to do and when? \n"
-msgstr ""
+msgstr "Primeiro, revise dos seus objectivos.\n"
+"Você sabe exatamente o que precisa fazer e quando? \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:192
@@ -9717,7 +9838,9 @@ msgstr ""
 msgid "Second, research tasks similar to yours.\n"
 "Has anyone else in the community done a similar project? \n"
 "What did they use? \n"
-msgstr ""
+msgstr "Segundo, tarefas de pesquisa similares às suas.\n"
+"Alguém fez um projeto semelhante?\n"
+"O que eles usaram? \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:197
@@ -9726,7 +9849,10 @@ msgid "Lastly review available resources.\n"
 "Start with the people.\n"
 "Who do have to help you? \n"
 "Only then see what equipment is already available and what you need to buy?\n"
-msgstr ""
+msgstr "Por último, revise os recursos disponíveis.\n"
+"Comece com as pessoas.\n"
+"Quem tem que para te ajudar? \n"
+"Só então veja que equipamento já está disponível e o que você precisa comprar?\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:203
@@ -9734,7 +9860,9 @@ msgstr ""
 msgid "Hopefully, the proposal project design, and the landscape in which is was scoped are still valid at implementation time.\n"
 "This should however, never be taken for granted.\n"
 "Things change.\n"
-msgstr ""
+msgstr "Esperamos que o desenho da proposta do seu projecto e da paisagem em que foi desenvolvido o âmbito de aplicação continuem a ser válidos no momento da implementação.\n"
+"Isso nunca deve ser tomado como garantido.\n"
+"As coisas mudam.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:207
@@ -9742,20 +9870,23 @@ msgstr ""
 msgid "It is often the case that many months (and sometimes years) will have passed between the original submission, funding and project start.\n"
 "The original project staff may even no longer be involved.\n"
 "It is imperative therefore, that the deliverables as stated in the proposal are reviewed critically before implementation, before any hardware is bought or tasks begun.\n"
-msgstr ""
+msgstr "Acontece frequentemente que muitos meses (e por vezes anos) terão se passado entre a submissão, o financiamento e o início do projecto.\n"
+"A equipa original do projecto pode até não estar mais envolvida.\n"
+"É imperativo, portanto, que os resultados conforme declarados na proposta sejam revisados criticamente antes da implementação, antes de qualquer hardware ser comprado ou de serem iniciadas tarefas.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:209
 #, no-wrap
 msgid "To paraphrase Gandalf in the book The Hobbit, you don’t need “a mighty warrior” or “even a Hero” to kill a dragon; you just need to “get on and make some plans”.\n"
-msgstr ""
+msgstr "Parafraseando Gandalf no livro The Hobbit, você não precisa de \"um poderoso guerreiro\" ou \"nem mesmo um Herói\" para matar um dragão; você só precisa \"avançar e fazer alguns planos\".\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:212
 #, no-wrap
 msgid "Whilst you may find some warriors to fight your cause, and a hero or two to help you out of a problem along the way, you shouldn’t rely only on them.\n"
 "Knowing who the stalwart troopers and quietly reliable ones in your team is more likely to get you to the finish line on time, on target and within budget.\n"
-msgstr ""
+msgstr "Enquanto você pode encontrar alguns guerreiros para lutar pela sua causa, e um herói ou dois para te ajudar a resolver um problema ao longo do caminho, você não deveria confiar apenas neles.\n"
+"Saber quem é que são os soldados bons e confiáveis em sua equipa, torna mais provável de te levar até a linha final a tempo, atingindo metas e dentro do orçamento.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:219
@@ -9774,14 +9905,16 @@ msgstr "Se tiver dúvidas sobre esta apresentação, use o fórum fornecido na p
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section. \n"
 "We will be introducing you to types of software used in data mobilization.\n"
-msgstr ""
+msgstr "Esta sessão é sobre a base do trabalho e parte da secção de Terminologia. \n"
+"Vamos apresentar os tipos de software usados na mobilização de dados.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:10
 #, no-wrap
 msgid "The purpose of this short presentation is to give you some examples of the different types of applications and software available in the world of biodiversity mobilization informatics. \n"
 "Hopefully it will help you to start to think about what uses they may be put too and what types of things might be practical for you.\n"
-msgstr ""
+msgstr "O objectivo desta breve apresentação é dar alguns exemplos dos diferentes tipos de aplicações e softwares disponíveis no mundo da informática para a mobilização de biodiversidade. \n"
+"Espero que isso ajude a começar a pensar sobre a utilização também e quais tipos de coisas podem ser práticas para você.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:16
@@ -9789,7 +9922,9 @@ msgstr ""
 msgid "So very briefly, a definition. \n"
 "We are making a distinction here between all software and those applications which have been created for an end-user to carry out a task. \n"
 "We will take a look at software that can be used for: Data Capture, Data Management, Data Cleaning and Data Publishing.\n"
-msgstr ""
+msgstr "Uma definição muito sucinta. \n"
+"Estamos fazendo uma distinção aqui entre todos os softwares e aplicações que foram criados para um utilizador final realizar uma tarefa. \n"
+"Nós daremos uma olhada nos softwares que podem ser usados para: Captura de Dados, Gestão de Dados, Limpeza de Dados e Publicação de Dados.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:24
@@ -9799,7 +9934,11 @@ msgid "In the realm of data capture software, there is often no need to go \"big
 "There may even not be a need to create your own system at all. \n"
 "Apps such as iNaturalist, or eBird are stable, robust and have simple intuitive interfaces. \n"
 "Whichever the choice, it is important to think about the long term preservation of the data that you collect.\n"
-msgstr ""
+msgstr "No reino de softwares de captura de dados, muitas vezes não há necessidade de ir \"grande\" ao capturar informações inicialmente, especialmente no campo. \n"
+"Você pode capturar informações de espécimes de colecções ou observações ao vivo em uma tabela simples, como Excel, OpenOffice, LibreOffice ou Google Sheets. \n"
+"Pode até não haver necessidade alguma de criar seu próprio sistema. \n"
+"Aplicações como iNaturalist ou eBird são estáveis, robustos e têm interfaces intuitivas e simples. \n"
+"Seja qual for a escolha, é importante pensar sobre a preservação a longo prazo dos dados que você amostrou.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:32
@@ -9809,14 +9948,19 @@ msgid "So, depending on your needs, a more complex data management software migh
 "More stable management platforms also better support sharing of data to multiple audiences. \n"
 "There are many choices which vary in terms of cost and support and a few are shown here.\n"
 "From left to right: Symbiota, Specify, EMu, Elysia and Brahms.\n"
-msgstr ""
+msgstr "Então, dependendo das suas necessidades, um software de gestão de dados mais complexo pode ser a solução certa para seus dados. \n"
+"Especialmente se a preservação e retenção de longo prazo for uma prioridade. \n"
+"Plataformas de gestão mais estáveis também suportam melhor a partilha de dados para vários públicos. \n"
+"Existem muitas escolhas que variam em termos de custo e apoio e algumas são mostradas aqui.\n"
+"Da esquerda para a direita: Symbiota, Specify, EMu, Elysia e Brahms.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:37
 #, no-wrap
 msgid "If a home-grown solution is preferred and can be supported, relational database software can provide cheaper alternatives. \n"
 "Examples incluse MySQL, SQLServer, Access or filemaker.\n"
-msgstr ""
+msgstr "Se uma solução doméstica for preferida e puder ser suportada por um software de base de dados relacional, poderá fornecer alternativas mais baratas. \n"
+"Exemplos incluem MySQL, SQLServer, Access ou filemaker.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:48
@@ -9829,7 +9973,14 @@ msgid "Increasingly the lines between languages, programs and tools have blurred
 "You will see more of this program in upcoming sessions.  \n"
 "R is another increasingly used, sophisticated programming language and environment. \n"
 "With a little practice it can also provide powerful data manipulations.\n"
-msgstr ""
+msgstr "Cada vez mais as linhas entre linguagens, programas e ferramentas se juntaram, sendo todas capazes de muitas funções complexas e sobrepostas.\n"
+"A função comum Encontrar e Substituir é um bom exemplo de uma ferramenta de limpeza de dados que é encontrada em quase todos os programas de banco de dados e é um comando nas linguagens de banco de dados. \n"
+"Você provavelmente já está familiarizado com tabelas como o Excel e, de fato, estas são provavelmente as ferramentas de limpeza de dados mais comuns disponíveis. \n"
+"No entanto, há outras. \n"
+"O OpenRefine originalmente conhecido como GoogleRefine é uma ferramenta poderosa e gratuita de limpeza de dados de código aberto com uma grande comunidade de suporte. \n"
+"Você verá mais deste programa nas próximas sessões.  \n"
+"R é outra linguagem e ambiente de programação sofisticado, cada vez mais utilizado. \n"
+"Com alguma prática, também pode fornecer poderosas manipulações de dados.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:57
@@ -9840,20 +9991,26 @@ msgid "Planning further ahead to the sharing of your data through GBIF to the in
 "But there are others if this is not the case. \n"
 "You can consider partnering with an existing ipt provider or selecting a database management system that includes a publishing pathway of its own. \n"
 "Whichever you choose, make sure that your system allows you to export data as csv or txt files and you will ultimately be able to publish your data. \n"
-msgstr ""
+msgstr "Planear antecipadamente a partilha de dados por meio do GBIF para a comunidade científica internacional e de decisores, você precisará escolher uma ferramenta de publicação. \n"
+"A escolha dependerá em grande medida do nível de suporte à infraestrutura da sua instituição.\n"
+"Se isso for alto e estável, instalar um IPT ou BioCASe pode ser a opção certa. \n"
+"Mas existem outras se não for esse o caso. \n"
+"Você pode considerar a parceria com um provedor de ipt existente ou selecionar um sistema de gestão de banco de dados que inclua um caminho de publicação próprio. \n"
+"Qualquer que seja sua escolha, certifique-se de que seu sistema permite que você exporte dados como ficheiros csv ou txt e, finalmente, que você será capaz de publicar seus dados. \n"
 
 #. type: Plain text
 #: scripts/software.en.txt:62
 #, no-wrap
 msgid "This is a summary of the information collected in the course survey of software in use by students, mentors and trainers in the GBIF community. \n"
 "The link and reference to more details of each section, is at the bottom of the slide.\n"
-msgstr ""
+msgstr "Este é um resumo das informações coletadas na pesquisa do software do curso em uso por alunos, mentores e treinadores da comunidade GBIF. \n"
+"O link e a referência a mais detalhes de cada turma, está na parte inferior do slide.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:66
 #, no-wrap
 msgid "Remember that: The purpose of software is to help people and not the other way around. Your choice of solution should make your life easier but it should also not sacrifice the long term viability of the data that it is meant to work with.\n"
-msgstr ""
+msgstr "Lembre-se de que: O objetivo do software é ajudar as pessoas e não o contrário. A sua escolha de solução deve facilitar a sua vida, mas ela também não deve sacrificar a viabilidade a longo prazo dos dados com que se destina a trabalhar.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:72
@@ -9872,52 +10029,56 @@ msgstr "Se você tiver dúvidas sobre esta apresentação, use o fórum fornecid
 #, no-wrap
 msgid "In this presentation, we will introduce you to data standards as they relate to biodiversity data. \n"
 "In particular, we will focus on the Darwin Core standard.\n"
-msgstr ""
+msgstr "Nesta apresentação, apresentar-vos-emos as normas relativas aos dados relacionados com os dados da biodiversidade. \n"
+"Em particular, nos focaremos no padrão Darwin Core.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:9
 #, no-wrap
 msgid "The engineer and industrialist W. Edwards Deming said:\n"
-msgstr ""
+msgstr "O engenheiro e industrialista W. Edwards Deming disse:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:12
 #, no-wrap
 msgid "“Standardisation does not mean that we all wear the same colour and weave of cloth, eat standard sandwiches, or live in standard rooms with standard furnishing. \n"
 "Homes of infinite variety of design are built with a few types of bricks, and with lumber of standard sizes, and with water and heating pipes and fitting of standard dimensions.” \n"
-msgstr ""
+msgstr "\"Padronização não significa que todos nós usamos a mesma cor e tecidos, que comeremos sanduíches padrão ou viveremos em cômodos padrão com mobiliário padrão. \n"
+"Casas de infinitas variedades de design são construídas com alguns tipos de tijolo e com madeiras de tamanhos padrão, e com água e tubos de aquecimento e encaixe de dimensões padrão \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:15
 #, no-wrap
 msgid "What he was trying to say is that using standardization does not prevent us from being creative. \n"
 "He was also showing us that we already live with standards all around us.\n"
-msgstr ""
+msgstr "O que ele queria dizer é que a uniformização não nos impede de ser criativos. \n"
+"Ele também estava nos mostrando que já vivemos com padrões ao nosso redor.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:18
 #, no-wrap
 msgid "As we move forward, we will define the term “Standard” and we’ll look at how we interact with standards every day. \n"
 "We will then introduce you to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.\n"
-msgstr ""
+msgstr "À medida que avançamos, definiremos o termo \"Padrão\" e veremos como interagir com os padrões todos os dias. \n"
+"Apresentaremos você aos padrões de informação para a biodiversidade, incluindo o Darwin Core com o qual você continuará a usar ao longo deste curso.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:22
 #, no-wrap
 msgid "So what is a Standard?\n"
-msgstr ""
+msgstr "Então o que é um Padrão?\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:24
 #, no-wrap
 msgid "At its simplest, it is:\n"
-msgstr ""
+msgstr "De forma simples é:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:26
 #, no-wrap
 msgid "“An agreed way of doing something.”\n"
-msgstr ""
+msgstr "Um método acordado de fazer alguma coisa\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:30
@@ -9925,123 +10086,126 @@ msgstr ""
 msgid "Standards are combinations of norms, conventions, specifications, requirements, restrictions, and rules.\n"
 " \n"
 "// Slide 4\n"
-msgstr ""
+msgstr "Padrões são combinações de normas, convenções, especificações, requisitos, restrições e regras.\n\n"
+"// Slide 4\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:33
 #, no-wrap
 msgid "The main purpose for standards is to create a framework of “mutual understanding”. \n"
 "They should provide clarity and help communication.\n"
-msgstr ""
+msgstr "O principal objectivo dos padrões é criar uma estrutura de \"compreensão mútua\". \n"
+"Eles devem fornecer clareza e ajudar a comunicação.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:35
 #, no-wrap
 msgid "Examples of everyday things that we encounter which make use of standards to aid communication of information are:\n"
-msgstr ""
+msgstr "Exemplos de coisas cotidianas que encontramos que usam padrões para a comunicação de informações são:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:37
 #, no-wrap
 msgid "Units of Measurement\n"
-msgstr ""
+msgstr "Unidade de medida\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:39
 #, no-wrap
 msgid "Numeral Systems\n"
-msgstr ""
+msgstr "Sistemas Numéricos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:41
 #, no-wrap
 msgid "Alphabets\n"
-msgstr ""
+msgstr "Alfabetos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:43
 #, no-wrap
 msgid "Languages\n"
-msgstr ""
+msgstr "Idiomas\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:45
 #, no-wrap
 msgid "Emojis\n"
-msgstr ""
+msgstr "Emojis\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:47
 #, no-wrap
 msgid "Postal Addressing\n"
-msgstr ""
+msgstr "Morada\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:49
 #, no-wrap
 msgid "Morse Code\n"
-msgstr ""
+msgstr "Código Morse\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:51
 #, no-wrap
 msgid "Barcoding\n"
-msgstr ""
+msgstr "Códigos de Barras\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:56
 #, no-wrap
 msgid "Let’s take a very specific example and break it down. \n"
 "Here in order to communicate accurately and repeatedly a position on the earth – a latitude and longitude – is actually a combination of at least 8 standards.\n"
-msgstr ""
+msgstr "Vamos ver um exemplo muito específico. \n"
+"Aqui para comunicar com precisão e repetição uma posição na Terra - uma latitude e longitude - utiliza-se uma combinação de pelo menos 8 padrões.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:58
 #, no-wrap
 msgid "measurement - geographic coordinates \n"
-msgstr ""
+msgstr "medição - coordenadas geográficas \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:60
 #, no-wrap
 msgid "format - degrees, minutes, seconds\n"
-msgstr ""
+msgstr "formato - graus, minutos, segundos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:62
 #, no-wrap
 msgid "numeric system - sexagesimal\n"
-msgstr ""
+msgstr "sistema numérico - sexagesimal\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:64
 #, no-wrap
 msgid "numbers - Indo-Arabic\n"
-msgstr ""
+msgstr "números - Indo-Árabe\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:66
 #, no-wrap
 msgid "language - English\n"
-msgstr ""
+msgstr "idioma - Inglês\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:68
 #, no-wrap
 msgid "alphabet - Latin\n"
-msgstr ""
+msgstr "alfabeto - Latim\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:70
 #, no-wrap
 msgid "symbols - typography\n"
-msgstr ""
+msgstr "símbolos - tipografia\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:72
 #, no-wrap
 msgid "font - Roboto\n"
-msgstr ""
+msgstr "fonte - Roboto\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:78
@@ -10049,7 +10213,9 @@ msgstr ""
 msgid "Standards provide ways of constraining the array of possibilities. \n"
 "In the earlier Foundations presentations, you learned about types of data, schemas, formats and character encodings. \n"
 "Each of these can be used to constrain the array of possibilities within the terms of a Standard.\n"
-msgstr ""
+msgstr "Os padrões proporcionam formas de restringir a variedade de possibilidades. \n"
+"Nas apresentações anteriores das Fundações, você aprendeu sobre tipos de dados, esquemas, formatos e codificações de caracteres. \n"
+"Cada um deles pode ser usado para restringir a gama de possibilidades dentro dos termos de um padrão.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:82
@@ -10057,28 +10223,33 @@ msgstr ""
 msgid "Types of data can restrict the values of a field. \n"
 "So alphanumeric text in a text field, decimals in a float. \n"
 "Yes/No in a Boolean.\n"
-msgstr ""
+msgstr "Tipos de dados podem restringir os valores de um campo. \n"
+"Texto alfanumérico em um campo de texto, números decimais em um float. \n"
+"Sim/Não em um booleano.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:85
 #, no-wrap
 msgid "An encoding schema can restrict the range of values in a field. \n"
 "For example, the list of possible latitude values have a range: between -90 and 90.\n"
-msgstr ""
+msgstr "Um esquema de codificação pode restringir o intervalo de valores em um campo. \n"
+"Por exemplo, a lista de valores de latitude possíveis tem um intervalo: entre -90 e 90.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:88
 #, no-wrap
 msgid "A format can restrict the representation of a data in a field. \n"
 "For example, whether a data appears as year month day, or day month year, or month day year.\n"
-msgstr ""
+msgstr "Um formato pode restringir a representação de dados em um campo. \n"
+"Por exemplo, se uma data aparece como ano mês dia, ou dia mês do ano, ou mês dia ano.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:91
 #, no-wrap
 msgid "And then, character encoding provides the rules for interpreting bytes of data. \n"
 "For our purposes, we’ll use UTF-8.\n"
-msgstr ""
+msgstr "E então, a codificação de caracteres fornece as regras para interpretação de bytes de dados. \n"
+"Para os nossos propósitos, vamos usar UTF-8.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:96
@@ -10094,78 +10265,85 @@ msgstr "Durante este curso, irá aprender a partilhar os seus dados. \n"
 msgid "An application schema, allows for the combination of data standards for a specific purpose. \n"
 "For example, using Darwin Core terms within Darwin Core Archives. \n"
 "We’ll delve more into both in just a few moments.\n"
-msgstr ""
+msgstr "Um regime de aplicação permite a combinação de normas de dados para um fim específico. \n"
+"Por exemplo, usar termos do Darwin Core dentro de Darwin Core Archives. \n"
+"Vamos aprofundar mais em ambos em alguns instantes.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:103
 #, no-wrap
 msgid "Again, you will make use of format, but this time the format restricts dataset structures. \n"
 "A dataset may make use of csv, xml, json and rdf.\n"
-msgstr ""
+msgstr "Novamente, você usará o formato, mas desta vez o formato restringe estruturas do conjunto de dados. \n"
+"Um conjunto de dados pode fazer uso de csv, xml, json e rdf.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:106
 #, no-wrap
 msgid "And lastly, you will have a transfer protocol, which provides information on how and where to send information. \n"
 "These might include http (hypertext transfer protocol), ftp (file transfer protocol), and smtp (simple mail transfer protocol or if you like, send mail to people).\n"
-msgstr ""
+msgstr "E, por último, terá um protocolo de transferência, que fornece informações sobre como e onde enviar informações. \n"
+"Estes podem incluir http (protocolo de transferência de hypertexto), ftp (protocolo de transferência de ficheiros), e smtp (protocolo simples de transferência de correspondência ou se preferir, enviar um e-mail para pessoas).\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:112
 #, no-wrap
 msgid "In the domain of biodiversity informatics there are many standards already available that can help you work with your data. \n"
 "The USGS has a very specific definition of these:\n"
-msgstr ""
+msgstr "No domínio da biodiversidade já existem muitas normas disponíveis que podem ajudá-lo a trabalhar com os seus dados. \n"
+"Os USGS têm uma definição muito específica disso:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:115
 #, no-wrap
 msgid "“Data standards are the rules by which data are described and recorded. \n"
 "In order to share, exchange, and understand data, we must standardize the format as well as the meaning.\n"
-msgstr ""
+msgstr "“As normas de dados são as regras pelas quais os dados são descritos e registados. \n"
+"Para partilhar, trocar e entender dados, devemos padronizar o formato e o significado.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:117
 #, no-wrap
 msgid "The result of using these standards, where appropriate, is that you will increase data integrity, accuracy and consistency by clarifying ambiguous meaning and minimizing redundant data.\n"
-msgstr ""
+msgstr "O resultado da utilização destes padrões, quando apropriado, é que você aumentará a integridade dos dados, precisão e consistência, clarificando o significado ambíguo e minimizando os dados redundantes.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:119
 #, no-wrap
 msgid "Those that you are likely to encounter or use on a regular basis may include:\n"
-msgstr ""
+msgstr "Aqueles que você provavelmente irá encontrar ou usar regularmente podem incluir:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:121
 #, no-wrap
 msgid "Ecological Metadata Language Standard (EML) \n"
-msgstr ""
+msgstr "Padrão de Idioma de Metadados Ecológicos (EML) \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:123 scripts/standards.en.txt:236
 #, no-wrap
 msgid "Audubon Media Description (aka Audubon Core)\n"
-msgstr ""
+msgstr "Audubon Media Description (também conhecido como Audubon Core)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:125
 #, no-wrap
 msgid "Global Genome Biodiversity Network(GGBN)\n"
-msgstr ""
+msgstr "Rede Global de Biodiversidade do Genoma (GGBN)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:127
 #, no-wrap
 msgid "Ocean Data Standards and Best Practices Project (ODSBP)\n"
-msgstr ""
+msgstr "Projecto de Padrões de Dados Oceânicos e Melhores Práticas (ODSBP)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:130
 #, no-wrap
 msgid "And last, but not least, we’ll spend the rest of this discussion on Darwin Core. \n"
 "The Darwin Core standard will allow you to share your occurrence, taxonomic, and event datasets.\n"
-msgstr ""
+msgstr "E por último, mas não menos importante, gastaremos o resto desta discussão no Darwin Core. \n"
+"O padrão Darwin Core permitirá que você partilhe conjuntos de dados de ocorrência, taxonómicos e de eventos.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:137
@@ -10174,76 +10352,82 @@ msgid "Darwin Core is a biodiversity standard developed by the Biodiversity Info
 "It was originally developed under the Taxonimic Databases Working Group or T D W G, pronounced TDWG. \n"
 "In recent years, the group has been renamed, Biodiversity Information Standards. \n"
 "But the acronym persists as the community is quite fond of the name TDWG.\n"
-msgstr ""
+msgstr "Darwin Core é um padrão para biodiversidade desenvolvido pela comunidade Informática da Biodiversidade. \n"
+"Foi originalmente desenvolvido pelo Grupo de Trabalho de Bancos de Dados Taxonómicos ou TDWG. \n"
+"Nos últimos anos, o grupo foi renomeado, as Padrões de Informação sobre Biodiversidade. \n"
+"Mas o acrônimo persiste, já que a comunidade gosta bastante do nome TDWG.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:140
 #, no-wrap
 msgid "“The standard includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. \n"
 "Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.”\n"
-msgstr ""
+msgstr "“O padrão inclui um glossário de termos (em outros contextos, estes podem ser chamados de propriedades, elementos, campos, colunas, atributos, ou conceitos) destinados a facilitar a partilha de informações sobre a diversidade biológica fornecendo identificadores, etiquetas e definições. \n"
+"Darwin Core é principalmente baseado nos taxa, sua ocorrência na natureza, conforme documentado por observações, espécimes, amostras e informações relacionadas.\"\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:142
 #, no-wrap
 msgid "So in short, Darwin Core is a “List of fields and their definitions, as they relate to biodiversity data.”\n"
-msgstr ""
+msgstr "Em resumo, Darwin Core é uma \"lista de campos e suas definições, conforme estão relacionados aos dados da biodiversidade\"\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:145
 #, no-wrap
 msgid " \n"
 "// Slide 10\n"
-msgstr ""
+msgstr " \n"
+"// Slide 10\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:148
 #, no-wrap
 msgid "As we dive deeper into Darwin Core or as it is abbreviated, DwC, you’ll learn it is more than JUST a list of fields. \n"
 "We will use Simple Darwin Core which is a predefined subset of the terms that have common use across a wide variety of biodiversity applications.\n"
-msgstr ""
+msgstr "À medida que mergulhamos mais fundo no Darwin Core ou como ele é abreviado, DwC, você o aprenderá que este é mais do que SÓ uma lista de campos. \n"
+"Usaremos o Simple Darwin Core que é um subconjunto predefinido dos termos que têm uso comum em uma ampla variedade de aplicações de biodiversidade.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:150
 #, no-wrap
 msgid "This subset contains greater than 150 fields, that are placed into a set of field classes comprised of:\n"
-msgstr ""
+msgstr "Este subconjunto contém mais de 150 campos, que são colocados em um conjunto de classes de campo com:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:152
 #, no-wrap
 msgid "Record & Dataset\n"
-msgstr ""
+msgstr "Record & Dataset\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:154
 #, no-wrap
 msgid "Occurrence\n"
-msgstr ""
+msgstr "Ocorrência\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:156
 #, no-wrap
 msgid "Organism\n"
-msgstr ""
+msgstr "Organismo\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:158
 #, no-wrap
 msgid "Material Sample\n"
-msgstr ""
+msgstr "Amostra de material\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:160
 #, no-wrap
 msgid "Event\n"
-msgstr ""
+msgstr "Evento\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:162
 #, no-wrap
 msgid "Location\n"
-msgstr ""
+msgstr "Localidade\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:164
