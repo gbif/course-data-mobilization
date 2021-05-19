@@ -232,29 +232,245 @@ CAUTION: Administrative passwords may be required to install software.
 
 ==== Installation Requirements
 
-. Java JRE installed.
-. Google Chrome or Mozilla Firefox installed, avoid using Internet Explorer.
+. Linux users only: Java JRE installed.
+. Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet Explorer is not supported.
 
 NOTE: The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^].
 
 ==== Installation on MS Windows
 
-. Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[Windows kit] or https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit with embedded Java].
-. Unzip, and double-click on openrefine.exe or refine.bat if the former does not work..
-. A command window will appear (don't close it) and immediately after a new web browser window will show the application.
+. Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it.
+. Find the downloaded file.  Right click it, and choose "Extract all…". Unzip, and double-click on openrefine.exe or refine.bat if the former does not work.
+. A command window will appear (don't close it) and soon after a new web browser window will show the application.
+
+.Detailed instructions for MS Windows (click to expand)
+[%collapsible]
+====
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/win1-save-download.png[width=400]
+Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/win2-extract-all.png[width=400]
+Find the file you downloaded.  Right click it, and choose "Extract All…"
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/win3-extract-location.png[width=400]
+Click "Extract"
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/win4-create-shortcut.png[width=400]
+Find the extracted files.  Optionally, right click "openrefine" and choose "Send to → Desktop (create shortcut)" to create a shortcut on your desktop.  Then double click "openrefine"
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/win5-run.png[width=400]
+A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use.
+--
+====
 
 ==== Installation on Mac
 
-. Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit.]
+. Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit].
 . Download, open, drag icon into the Applications folder. 
 You do not need to install Java separately.
 . Double click on it and a new web browser window will show the application.
 
+.Detailed instructions for Mac (click to expand)
+[%collapsible]
+====
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac01-download-open.png[width=400]
+Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac02-unidentified-developer.png[width=400]
+A warning is shown. Click "OK".
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac03-system-preferences.png[width=150]
+Open System Preferences.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac04-security-and-privacy.png[width=400]
+Open Security & Privacy
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac05-open-anyway.png[width=400]
+Choose "Open Anyway" at the bottom.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac06-yes-really-open.png[width=400]
+Choose "Open"
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac07-copy-to-applications.png[width=400]
+Finally, the application archive is opened!  Drag it to your Applications folder.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png[width=400]
+Double-click the OpenRefine icon.  Another security warning appears!
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac09-not-the-user.png[width=400]
+Go back to "Security & Privacy" and click "Open Anyway" — again.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac10-use-linux-instead.png[width=400]
+(To avoid these warnings, the OpenRefine developers would need to pay Apple.)
+
+Click "Open".
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/mac11-run.png[width=400]
+Finally! The application is running.
+--
+
+====
+
 ==== Installation on Linux
 
-. Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit.]
+. Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].
 . Download, extract, then type ./refine to start. 
 This requires Java to be installed on your computer.
+
+.Detailed instructions for Linux (click to expand)
+[%collapsible]
+====
+These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is similar for Gnome (e.g. Ubuntu, Red Hat, CentOS).
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/kde1-download-open.png[width=400]
+Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].  Open it.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/kde2-extract.png[width=400]
+Click "Extract" to unpack the downloaded application.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/kde3-extract-all.png[width=400]
+Choose a suitable place.  I also selected "Open destination folder after extraction" and "Close Ark after extraction"
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/kde4-open.png[width=400]
+Right click "refine" and choose "Run in Konsole".  This is needed so you can safely exit OpenRefine later, by closing the Konsole window.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/kde5-execute.png[width=300]
+Confirm that you wish to execute the downloaded application.
+--
+
+. {blank}
++
+[.float-group]
+--
+[.left]
+image::img/web/install-openrefine/kde6-run.png[width=400]
+OpenRefine is now running.
+--
+
+====
 
 === Foundations review
 [NOTE.quiz]
