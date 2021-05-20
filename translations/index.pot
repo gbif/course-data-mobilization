@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-17 11:13+0000\n"
+"POT-Creation-Date: 2021-05-20 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1091,12 +1091,14 @@ msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:236
-msgid "Java JRE installed."
+msgid "Linux users only: Java JRE installed."
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:237
-msgid "Google Chrome or Mozilla Firefox installed, avoid using Internet Explorer."
+msgid ""
+"Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet "
+"Explorer is not supported."
 msgstr ""
 
 #. type: delimited block *
@@ -1113,85 +1115,382 @@ msgstr ""
 msgid "Installation on MS Windows"
 msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:243
+#. type: delimited block =
+#: foundations.en.adoc:243 foundations.en.adoc:256
 msgid ""
 "Download the "
-"https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[Windows "
-"kit] or "
 "https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows "
-"kit with embedded Java]."
+"kit *with embedded Java*].  Choose to save the file rather than open it."
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:244
 msgid ""
-"Unzip, and double-click on openrefine.exe or refine.bat if the former does "
-"not work.."
+"Find the downloaded file.  Right click it, and choose \"Extract "
+"all…\". Unzip, and double-click on openrefine.exe or refine.bat if the "
+"former does not work."
 msgstr ""
 
 #. type: delimited block *
 #: foundations.en.adoc:245
 msgid ""
-"A command window will appear (don't close it) and immediately after a new "
-"web browser window will show the application."
+"A command window will appear (don't close it) and soon after a new web "
+"browser window will show the application."
+msgstr ""
+
+#. type: Block title
+#: foundations.en.adoc:246
+#, no-wrap
+msgid "Detailed instructions for MS Windows (click to expand)"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:250 foundations.en.adoc:259 foundations.en.adoc:268
+#: foundations.en.adoc:277 foundations.en.adoc:286 foundations.en.adoc:306
+#: foundations.en.adoc:315 foundations.en.adoc:324 foundations.en.adoc:333
+#: foundations.en.adoc:342 foundations.en.adoc:351 foundations.en.adoc:360
+#: foundations.en.adoc:369 foundations.en.adoc:378 foundations.en.adoc:387
+#: foundations.en.adoc:398 foundations.en.adoc:420 foundations.en.adoc:429
+#: foundations.en.adoc:438 foundations.en.adoc:447 foundations.en.adoc:456
+#: foundations.en.adoc:465
+msgid "{blank}"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:254
+#, no-wrap
+msgid "img/web/install-openrefine/win1-save-download.png"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:263
+#, no-wrap
+msgid "img/web/install-openrefine/win2-extract-all.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:265
+msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:272
+#, no-wrap
+msgid "img/web/install-openrefine/win3-extract-location.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:274
+msgid "Click \"Extract\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:281
+#, no-wrap
+msgid "img/web/install-openrefine/win4-create-shortcut.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:283
+msgid ""
+"Find the extracted files.  Optionally, right click \"openrefine\" and choose "
+"\"Send to → Desktop (create shortcut)\" to create a shortcut on your "
+"desktop.  Then double click \"openrefine\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:290
+#, no-wrap
+msgid "img/web/install-openrefine/win5-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:292
+msgid ""
+"A black console window opens, and a short time later the browser opens.  "
+"OpenRefine is now ready to use."
 msgstr ""
 
 #. type: Title ====
-#: foundations.en.adoc:246
+#: foundations.en.adoc:295
 #, no-wrap
 msgid "Installation on Mac"
 msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:249
+#. type: Plain text
+#: foundations.en.adoc:298
 msgid ""
 "Download the "
 "https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac "
-"kit.]"
+"kit]."
 msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:251
+#. type: Plain text
+#: foundations.en.adoc:300
 msgid ""
 "Download, open, drag icon into the Applications folder.  You do not need to "
 "install Java separately."
 msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:252
+#. type: Plain text
+#: foundations.en.adoc:301
 msgid "Double click on it and a new web browser window will show the application."
 msgstr ""
 
+#. type: Block title
+#: foundations.en.adoc:302
+#, no-wrap
+msgid "Detailed instructions for Mac (click to expand)"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:310
+#, no-wrap
+msgid "img/web/install-openrefine/mac01-download-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:312
+msgid ""
+"Download the "
+"https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac "
+"kit], and choose to open it."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:319
+#, no-wrap
+msgid "img/web/install-openrefine/mac02-unidentified-developer.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:321
+msgid "A warning is shown. Click \"OK\"."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:328
+#, no-wrap
+msgid "img/web/install-openrefine/mac03-system-preferences.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:330
+msgid "Open System Preferences."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:337
+#, no-wrap
+msgid "img/web/install-openrefine/mac04-security-and-privacy.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:339
+msgid "Open Security & Privacy"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:346
+#, no-wrap
+msgid "img/web/install-openrefine/mac05-open-anyway.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:348
+msgid "Choose \"Open Anyway\" at the bottom."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:355
+#, no-wrap
+msgid "img/web/install-openrefine/mac06-yes-really-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:357
+msgid "Choose \"Open\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:364
+#, no-wrap
+msgid "img/web/install-openrefine/mac07-copy-to-applications.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:366
+msgid ""
+"Finally, the application archive is opened! Drag it to your Applications "
+"folder."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:373
+#, no-wrap
+msgid "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:375
+msgid "Double-click the OpenRefine icon.  Another security warning appears!"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:382
+#, no-wrap
+msgid "img/web/install-openrefine/mac09-not-the-user.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:384
+msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:391
+#, no-wrap
+msgid "img/web/install-openrefine/mac10-use-linux-instead.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:393
+msgid ""
+"(To avoid these warnings, the OpenRefine developers would need to pay "
+"Apple.)"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:395
+msgid "Click \"Open\"."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:402
+#, no-wrap
+msgid "img/web/install-openrefine/mac11-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:404
+msgid "Finally! The application is running."
+msgstr ""
+
 #. type: Title ====
-#: foundations.en.adoc:253
+#: foundations.en.adoc:408
 #, no-wrap
 msgid "Installation on Linux"
 msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:256
+#. type: Plain text
+#: foundations.en.adoc:411
 msgid ""
 "Download the "
 "https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux "
-"kit.]"
+"kit]."
 msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:258
+#. type: Plain text
+#: foundations.en.adoc:413
 msgid ""
 "Download, extract, then type ./refine to start.  This requires Java to be "
 "installed on your computer."
 msgstr ""
 
+#. type: Block title
+#: foundations.en.adoc:414
+#, no-wrap
+msgid "Detailed instructions for Linux (click to expand)"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:418
+msgid ""
+"These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is "
+"similar for Gnome (e.g. Ubuntu, Red Hat, CentOS)."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:424
+#, no-wrap
+msgid "img/web/install-openrefine/kde1-download-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:426
+msgid ""
+"Download the "
+"https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux "
+"kit].  Open it."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:433
+#, no-wrap
+msgid "img/web/install-openrefine/kde2-extract.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:435
+msgid "Click \"Extract\" to unpack the downloaded application."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:442
+#, no-wrap
+msgid "img/web/install-openrefine/kde3-extract-all.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:444
+msgid ""
+"Choose a suitable place.  I also selected \"Open destination folder after "
+"extraction\" and \"Close Ark after extraction\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:451
+#, no-wrap
+msgid "img/web/install-openrefine/kde4-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:453
+msgid ""
+"Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you "
+"can safely exit OpenRefine later, by closing the Konsole window."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:460
+#, no-wrap
+msgid "img/web/install-openrefine/kde5-execute.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:462
+msgid "Confirm that you wish to execute the downloaded application."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:469
+#, no-wrap
+msgid "img/web/install-openrefine/kde6-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:471
+msgid "OpenRefine is now running."
+msgstr ""
+
 #. type: Title ===
-#: foundations.en.adoc:259
+#: foundations.en.adoc:475
 #, no-wrap
 msgid "Foundations review"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
+#: foundations.en.adoc:478 planning.en.adoc:130 capture.en.adoc:60
 #: management.en.adoc:145 publishing.en.adoc:58
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
@@ -1200,15 +1499,15 @@ msgstr ""
 #.  (. What…) is required, so I have added // comments to help separate them.
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
-#. type: Plain text
-#: foundations.en.adoc:270
+#. type: delimited block *
+#: foundations.en.adoc:486
 msgid ""
 "For the given statement, input the correct term (database, database "
 "language, database program)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:279
+#: foundations.en.adoc:495
 #, no-wrap
 msgid ""
 "* combines and presents functions and features for manipulating data, "
@@ -1223,19 +1522,19 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: foundations.en.adoc:282
+#: foundations.en.adoc:498
 msgid ""
 "If you open a data file and see the following, what would you suspect is the "
 "issue? +"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:284 solutions.en.adoc:21
+#: foundations.en.adoc:500 solutions.en.adoc:21
 msgid "`�tre, ou ne pas �tre, c�est l� la question.`"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:291
+#: foundations.en.adoc:507
 #, no-wrap
 msgid ""
 "- [ ] Nothing\n"
@@ -1246,14 +1545,14 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: foundations.en.adoc:294
+#: foundations.en.adoc:510
 msgid ""
 "For the given software, input the type of software (data capture, data "
 "management, data cleaning, data publishing)."
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:305
+#: foundations.en.adoc:521
 #, no-wrap
 msgid ""
 "* Integrated Publishing Toolkit (IPT) +\n"
@@ -1268,14 +1567,14 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: foundations.en.adoc:308
+#: foundations.en.adoc:524
 msgid ""
 "For the given example, input the correct data type (binary, boolean, float, "
 "integer, long integer, text, unstructured text)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:325
+#: foundations.en.adoc:541
 #, no-wrap
 msgid ""
 "* 1236975 +\n"
@@ -1298,12 +1597,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: foundations.en.adoc:328
+#: foundations.en.adoc:544
 msgid "Which of these terms describes a \"field/column name\"?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:337
+#: foundations.en.adoc:553
 #, no-wrap
 msgid ""
 "- [x] Assigned\n"
@@ -1316,12 +1615,12 @@ msgstr ""
 
 #.  Question 6
 #. type: Plain text
-#: foundations.en.adoc:340
+#: foundations.en.adoc:556
 msgid "Which of these terms describes a \"field label\"?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:349
+#: foundations.en.adoc:565
 #, no-wrap
 msgid ""
 "- [ ] Assigned\n"
@@ -1334,12 +1633,12 @@ msgstr ""
 
 #.  Question 7
 #. type: Plain text
-#: foundations.en.adoc:352
+#: foundations.en.adoc:568
 msgid "For each statement, input the correct structure (row, column, table)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:361
+#: foundations.en.adoc:577
 #, no-wrap
 msgid ""
 "* All data refers to a SINGLE concept. +\n"
@@ -1352,12 +1651,12 @@ msgstr ""
 
 #.  Question 8
 #. type: Plain text
-#: foundations.en.adoc:364
+#: foundations.en.adoc:580
 msgid "Who determines the fitness for use of your data?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:371
+#: foundations.en.adoc:587
 #, no-wrap
 msgid ""
 "- [ ] The museum or department director\n"
@@ -1368,14 +1667,14 @@ msgstr ""
 
 #.  Question 9
 #. type: Plain text
-#: foundations.en.adoc:375
+#: foundations.en.adoc:591
 msgid ""
 "For the given statements, input the matching image. (A, B, C, D)  "
 "image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:386
+#: foundations.en.adoc:602
 #, no-wrap
 msgid ""
 "* High accuracy, low precision +\n"
@@ -1390,7 +1689,7 @@ msgstr ""
 
 #.  Question 10
 #. type: Plain text
-#: foundations.en.adoc:389
+#: foundations.en.adoc:605
 msgid ""
 "Identify the data relationships where Dataset B needs to be merged into "
 "Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are "
@@ -1398,7 +1697,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:404
+#: foundations.en.adoc:620
 #, no-wrap
 msgid ""
 "* Collector field exists in both dataset A and B +\n"
@@ -1419,12 +1718,12 @@ msgstr ""
 
 #.  Question 11
 #. type: Plain text
-#: foundations.en.adoc:407
+#: foundations.en.adoc:623
 msgid "Metadata is important because (select the TRUE statements):"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:415
+#: foundations.en.adoc:631
 #, no-wrap
 msgid ""
 "- [x] it allows users to determine if a dataset is fit for their use.\n"
