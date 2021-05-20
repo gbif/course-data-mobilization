@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-17 11:13+0000\n"
-"PO-Revision-Date: 2021-05-17 12:18\n"
+"POT-Creation-Date: 2021-05-20 08:30+0000\n"
+"PO-Revision-Date: 2021-05-20 08:54\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -838,7 +838,7 @@ msgstr "Revisão dos fundamentos"
 
 #. type: Plain text
 #: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
-#: management.en.adoc:145 publishing.en.adoc:58
+#: management.en.adoc:147 publishing.en.adoc:58
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr "Faça um \"quiz\" sobre os conceitos aprendidos nesta secção."
 
@@ -1576,7 +1576,7 @@ msgid "Were there common issues that came up across the groups?"
 msgstr "Houve questões comuns que surgiram entre os grupos?"
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:141
+#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:143
 #: publishing.en.adoc:54
 #, no-wrap
 msgid "Review"
@@ -2304,56 +2304,68 @@ msgstr "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 #. type: Plain text
 #: management.en.adoc:134
 #, no-wrap
-msgid "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
-msgstr "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
-
-#. type: Plain text
-#: management.en.adoc:135
-#, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
 msgstr "*Global Names Resolver*: http://resolver.globalnames.org\n"
 
 #. type: Plain text
+#: management.en.adoc:135
+#, no-wrap
+msgid "*Catalogue of Life name match*: https://data.catalogueoflife.org/tools/name-match\n"
+msgstr ""
+
+#. type: Plain text
 #: management.en.adoc:136
+#, no-wrap
+msgid "*TNRS*: https://tnrs.biendata.org/\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:137
+#, no-wrap
+msgid "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:138
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 msgstr "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 
 #. type: Plain text
-#: management.en.adoc:137
+#: management.en.adoc:139
+#, no-wrap
+msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
+msgstr "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
+
+#. type: Plain text
+#: management.en.adoc:140
 #, no-wrap
 msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
 msgstr "*Conversão de coordenadas Canadensys*: http://data.canadensys.net/tools/coordinates\n"
 
 #. type: Plain text
-#: management.en.adoc:138
+#: management.en.adoc:141
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 msgstr "*Análise de datas do Canadensys*: http://data.canadensys.net/tools/dates\n"
 
 #. type: Plain text
-#: management.en.adoc:139
+#: management.en.adoc:142
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
 msgstr "*Google Maps*: https://maps.google.com/\n"
-
-#. type: Plain text
-#: management.en.adoc:140
-#, no-wrap
-msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
-msgstr "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: management.en.adoc:153
+#: management.en.adoc:155
 msgid "Why is it best to clean your data?"
 msgstr "Por que é melhor limpar seus dados?"
 
 #. type: delimited block .
-#: management.en.adoc:160
+#: management.en.adoc:162
 #, no-wrap
 msgid "- [x] to make them as fit for use as possible\n"
 "- [x] to achieve your data quality goals\n"
@@ -2364,12 +2376,12 @@ msgstr "- [x] para torná-los o mais adequados para uso possível\n"
 
 #.  Question 2
 #. type: Plain text
-#: management.en.adoc:163
+#: management.en.adoc:165
 msgid "How should you organize your data cleaning workflow?"
 msgstr "Como você deve organizar seu fluxo de trabalho de limpeza de dados?"
 
 #. type: delimited block .
-#: management.en.adoc:170
+#: management.en.adoc:172
 #, no-wrap
 msgid "- [ ] work alone, you know your data best\n"
 "- [x] ask your colleagues for expertise\n"
@@ -2380,12 +2392,12 @@ msgstr "- [ ] trabalhe sozinho, você conhece seus dados melhor\n"
 
 #.  Question 3
 #. type: Plain text
-#: management.en.adoc:173
+#: management.en.adoc:175
 msgid "Which is best:"
 msgstr "Qual é melhor:"
 
 #. type: delimited block .
-#: management.en.adoc:180
+#: management.en.adoc:182
 #, no-wrap
 msgid "- [x] prevent errors from occurring\n"
 "- [x] correct errors as soon as you find them in your database or spreadsheet\n"
@@ -2396,12 +2408,12 @@ msgstr "- [x] previnir erros de ocorrer\n"
 
 #.  Question 4
 #. type: Plain text
-#: management.en.adoc:183
+#: management.en.adoc:185
 msgid "Whose responsibility is data quality?"
 msgstr "A responsabilidade da qualidade dos dados é de quem?"
 
 #. type: delimited block .
-#: management.en.adoc:193
+#: management.en.adoc:195
 #, no-wrap
 msgid "- [ ] The person(s) who record data on the field\n"
 "- [ ] The data transcribers\n"
@@ -2418,12 +2430,12 @@ msgstr "- [ ] Da(s) pessoa(s) que registam os dados no campo\n"
 
 #.  Question 5
 #. type: Plain text
-#: management.en.adoc:196
+#: management.en.adoc:198
 msgid "Which tools can be used to clean your data ?"
 msgstr "Quais ferramentas podem ser utilizadas para limpar seus dados?"
 
 #. type: delimited block .
-#: management.en.adoc:204
+#: management.en.adoc:206
 #, no-wrap
 msgid "- [x] Excel & other spreadsheets management tools\n"
 "- [x] OpenRefine\n"
