@@ -7,7 +7,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
+<<<<<<< installation-instructions
 "POT-Creation-Date: 2021-05-20 09:33+0000\n"
+=======
+"POT-Creation-Date: 2021-05-20 08:30+0000\n"
+>>>>>>> 1.0
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1490,8 +1494,13 @@ msgid "Foundations review"
 msgstr ""
 
 #. type: Plain text
+<<<<<<< installation-instructions
 #: foundations.en.adoc:478 planning.en.adoc:130 capture.en.adoc:60
 #: management.en.adoc:145 publishing.en.adoc:58
+=======
+#: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
+#: management.en.adoc:147 publishing.en.adoc:58
+>>>>>>> 1.0
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -2333,7 +2342,7 @@ msgid "Were there common issues that came up across the groups?"
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:141
+#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:143
 #: publishing.en.adoc:54
 #, no-wrap
 msgid "Review"
@@ -3186,23 +3195,45 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:134
 #, no-wrap
-msgid "*TNRS*: http://tnrs.iplantcollaborative.org/index.html\n"
+msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:135
 #, no-wrap
-msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
+msgid ""
+"*Catalogue of Life name match*: "
+"https://data.catalogueoflife.org/tools/name-match\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:136
 #, no-wrap
-msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
+msgid "*TNRS*: https://tnrs.biendata.org/\n"
 msgstr ""
 
 #. type: Plain text
 #: management.en.adoc:137
+#, no-wrap
+msgid "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:138
+#, no-wrap
+msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:139
+#, no-wrap
+msgid ""
+"*Georeferencing Calculator*: "
+"http://georeferencing.org/georefcalculator/gc.html\n"
+msgstr ""
+
+#. type: Plain text
+#: management.en.adoc:140
 #, no-wrap
 msgid ""
 "*Canadensys coordinate conversion*: "
@@ -3210,23 +3241,15 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:138
+#: management.en.adoc:141
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:139
+#: management.en.adoc:142
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
-msgstr ""
-
-#. type: Plain text
-#: management.en.adoc:140
-#, no-wrap
-msgid ""
-"*Georeferencing Calculator*: "
-"http://georeferencing.org/georefcalculator/gc.html\n"
 msgstr ""
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
@@ -3234,12 +3257,12 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: management.en.adoc:153
+#: management.en.adoc:155
 msgid "Why is it best to clean your data?"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:160
+#: management.en.adoc:162
 #, no-wrap
 msgid ""
 "- [x] to make them as fit for use as possible\n"
@@ -3249,12 +3272,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: management.en.adoc:163
+#: management.en.adoc:165
 msgid "How should you organize your data cleaning workflow?"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:170
+#: management.en.adoc:172
 #, no-wrap
 msgid ""
 "- [ ] work alone, you know your data best\n"
@@ -3264,12 +3287,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: management.en.adoc:173
+#: management.en.adoc:175
 msgid "Which is best:"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:180
+#: management.en.adoc:182
 #, no-wrap
 msgid ""
 "- [x] prevent errors from occurring\n"
@@ -3281,12 +3304,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: management.en.adoc:183
+#: management.en.adoc:185
 msgid "Whose responsibility is data quality?"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:193
+#: management.en.adoc:195
 #, no-wrap
 msgid ""
 "- [ ] The person(s) who record data on the field\n"
@@ -3299,12 +3322,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: management.en.adoc:196
+#: management.en.adoc:198
 msgid "Which tools can be used to clean your data ?"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:204
+#: management.en.adoc:206
 #, no-wrap
 msgid ""
 "- [x] Excel & other spreadsheets management tools\n"
