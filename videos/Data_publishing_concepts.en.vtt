@@ -1,0 +1,547 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.650 --> 00:00:05.860
+In this presentation, we will introduce you
+to the concept of Data Publishing.
+
+00:00:05.860 --> 00:00:12.940
+We will also introduce you to GBIF’s Integrated
+Publishing Toolkit.
+
+00:00:12.940 --> 00:00:18.740
+At this point in the course, you have moved
+through all the sections of mobilization project.
+
+00:00:18.740 --> 00:00:20.810
+Now you are ready to share your data.
+
+00:00:20.810 --> 00:00:25.500
+You’ve produced a cleaned and standardized
+dataset and you want to share and see that
+
+00:00:25.500 --> 00:00:30.320
+data on the GBIF data portal.
+
+00:00:30.320 --> 00:00:35.360
+But there is more to it than simply handing
+over a spreadsheet or a text file to GBIF.
+
+00:00:35.360 --> 00:00:38.310
+You must publish the data.
+
+00:00:38.310 --> 00:00:44.390
+Data publishing is the act of making biodiversity
+datasets publicly accessible and discoverable,
+
+00:00:44.390 --> 00:00:49.080
+in a standardized form (ie Darwin Core), via
+an access point.
+
+00:00:49.080 --> 00:00:54.350
+This access point is a URL – a web address.
+
+00:00:54.350 --> 00:00:59.580
+Most organizations within the GBIF Network,
+otherwise known as publishers, make use of
+
+00:00:59.580 --> 00:01:03.350
+an IPT, the Integrated Publishing Toolkit,
+to publish their data.
+
+00:01:03.350 --> 00:01:07.871
+These publishers may choose to host their
+own installation of an IPT like the Field
+
+00:01:07.871 --> 00:01:13.280
+Museum, but generally prefer to find a suitable
+host for their data publishing activities.
+
+00:01:13.280 --> 00:01:18.920
+This might be through an established GBIF
+Participant Node like GBIF France or through
+
+00:01:18.920 --> 00:01:20.970
+an established thematic group like VertNet.
+
+00:01:20.970 --> 00:01:27.700
+Or, a another option, might be to make use
+of one of the GBIF-hosted IPTs like the BID,
+
+00:01:27.700 --> 00:01:30.860
+BIFA or regional IPTs.
+
+00:01:30.860 --> 00:01:35.530
+If you are part of groups like Symbiota or
+the Living Atlases Communities, they have
+
+00:01:35.530 --> 00:01:42.050
+other means to assist you with publishing
+your data to GBIF.
+
+00:01:42.050 --> 00:01:46.049
+The definition on the previous Slide should
+probably be updated to include some words
+
+00:01:46.049 --> 00:01:48.590
+about waivers and licenses.
+
+00:01:48.590 --> 00:01:55.090
+The act of not only making the data accessible,
+but making it as open as possible.
+
+00:01:55.090 --> 00:02:00.580
+In an effort to document the level of openness
+of a dataset, GBIF maintains, in keeping with
+
+00:02:00.580 --> 00:02:06.850
+a 2014 decision by the GBIF governing board,
+that all data published and registered for
+
+00:02:06.850 --> 00:02:13.040
+use in the GBIF portal, must be issued with
+one of three Creative Commons options:
+
+00:02:13.040 --> 00:02:20.879
+CC0, a waiver for data made available for
+any use without any restrictions
+
+00:02:20.879 --> 00:02:27.569
+CC BY, a license for data made available for
+any use with appropriate attribution
+
+00:02:27.569 --> 00:02:33.760
+CC BY-NC, a license for data made available
+for any non-commercial use with appropriate
+
+00:02:33.760 --> 00:02:36.590
+attribution.
+
+00:02:36.590 --> 00:02:42.939
+Note that CC-BY-NC licences have a significant
+effect on the reusability of data.
+
+00:02:42.939 --> 00:02:51.150
+GBIF encourages data publishers to choose
+the most open option they can wherever possible.
+
+00:02:51.150 --> 00:03:01.319
+Projects supported through GBIF-led funding
+must use either the CC0 or CC BY options.
+
+00:03:01.319 --> 00:03:06.870
+The Integrated Publishing Toolkit (IPT) is
+a free, open source software tool written
+
+00:03:06.870 --> 00:03:13.439
+in Java that is used to publish and share
+biodiversity datasets through the GBIF network.
+
+00:03:13.439 --> 00:03:17.439
+The first version of IPT was released in 2009.
+
+00:03:17.439 --> 00:03:21.579
+It was redesigned and rereleased in 2011.
+
+00:03:21.579 --> 00:03:25.989
+Since that time, the IPT has been updated
+periodically with new features, bug fixes
+
+00:03:25.989 --> 00:03:27.760
+and security improvements.
+
+00:03:27.760 --> 00:03:34.489
+While the IPT is maintained at GBIF, the community
+of biodiversity informatics developers are
+
+00:03:34.489 --> 00:03:37.879
+able to contribute to its development.
+
+00:03:37.879 --> 00:03:41.099
+Some of the features include:
+
+00:03:41.099 --> 00:03:45.099
+Main (but not only) publishing tool for GBIF.
+
+00:03:45.099 --> 00:03:52.949
+One IPT can host many datasets, on behalf
+of several institutions, each clearly represented
+
+00:03:52.949 --> 00:03:56.079
+Test mode and production mode
+
+00:03:56.079 --> 00:04:00.689
+Multilingual – it has been translated into
+7 languages.
+
+00:04:00.689 --> 00:04:05.279
+It is a server-side software, so it needs
+a stable connection and requires technical
+
+00:04:05.279 --> 00:04:07.290
+administration.
+
+00:04:07.290 --> 00:04:12.870
+This is why many institutions choose to publish
+their data on hosted IPTs.
+
+00:04:12.870 --> 00:04:18.500
+You can find more information on data hosting
+on the GBIF website under the How-to menu.
+
+00:04:18.500 --> 00:04:23.830
+For the remainder of our course, we’ll be
+demonstrating and completing exercises using
+
+00:04:23.830 --> 00:04:26.639
+the IPT.
+
+00:04:26.639 --> 00:04:32.669
+We’re now putting together what you learned
+in the first two presentations in the Data
+
+00:04:32.669 --> 00:04:36.340
+Capture section on Standards and Darwin Core
+and Data Types.
+
+00:04:36.340 --> 00:04:42.000
+At its heart, the IPT is based on Darwin Core
+and the Darwin Core text guide and its recommendations
+
+00:04:42.000 --> 00:04:44.680
+for sharing data in a Darwin Core Archive.
+
+00:04:44.680 --> 00:04:50.940
+The Darwin Core contains three distinct data
+cores which match up to three of the dataset
+
+00:04:50.940 --> 00:04:54.140
+types that GBIF accepts.
+
+00:04:54.140 --> 00:04:55.629
+Keep in mind:
+
+00:04:55.629 --> 00:04:59.699
+Each dataset has one and only one Core file
+
+00:04:59.699 --> 00:05:07.160
+Each Core file corresponds to a dataset type:
+occurrence, checklist or sampling event.
+
+00:05:07.160 --> 00:05:11.770
+Each dataset can have one or more extensions
+file
+
+00:05:11.770 --> 00:05:17.810
+The aim of an extension is to add new data
+fields not present in the core.
+
+00:05:17.810 --> 00:05:24.810
+Each entry in the core file is linked to zero,
+one or several rows in an extension file.
+
+00:05:24.810 --> 00:05:32.199
+Each row in an extension file reference one
+and only one row in the core file.
+
+00:05:32.199 --> 00:05:33.970
+Some examples:
+
+00:05:33.970 --> 00:05:37.610
+Core is Occurrence, no extensions
+
+00:05:37.610 --> 00:05:41.389
+Core is Occurrence, with “multimedia”
+extension
+
+00:05:41.389 --> 00:05:47.050
+Core is Occurrence, with Audubon core and
+measurementorfact extensions
+
+00:05:47.050 --> 00:05:50.129
+Core is Taxon, no extensions
+
+00:05:50.129 --> 00:05:54.319
+Core is Taxon, with species distribution extension
+
+00:05:54.319 --> 00:06:02.900
+Core is Event with Occurrence and Measurementorfact
+extensions
+
+00:06:02.900 --> 00:06:05.159
+The first core is the Occurrence Core.
+
+00:06:05.159 --> 00:06:11.970
+As a reminder, an occurrence dataset contains
+one individual or one group of individuals.
+
+00:06:11.970 --> 00:06:16.240
+Each row has a unique identifier, an occurrenceID.
+
+00:06:16.240 --> 00:06:21.819
+Other fields for occurrence data include where,
+when, how and by whom was each occurrence
+
+00:06:21.819 --> 00:06:27.530
+observed and/or collected in the field.
+
+00:06:27.530 --> 00:06:30.470
+The next option is the Taxon core.
+
+00:06:30.470 --> 00:06:35.620
+As a reminder, a checklist dataset contains
+taxonomic concepts, not individuals.
+
+00:06:35.620 --> 00:06:40.319
+It is a “A catalogue or list of named organisms,
+or taxa.”
+
+00:06:40.319 --> 00:06:42.949
+Each row will have a taxonID.
+
+00:06:42.949 --> 00:06:49.060
+Each taxon must be unique.
+
+00:06:49.060 --> 00:06:51.219
+The last option is the Event core.
+
+00:06:51.219 --> 00:06:57.650
+As a reminder, sampling event datasets allow
+data publishers to provide greater detail,
+
+00:06:57.650 --> 00:07:02.510
+not only offering evidence that a species
+occurred at a given location and date, but
+
+00:07:02.510 --> 00:07:08.169
+also making it possible to assess community
+composition for broader taxonomic groups or
+
+00:07:08.169 --> 00:07:12.129
+even the abundance of species at multiple
+times and places.
+
+00:07:12.129 --> 00:07:18.480
+By indicating the methods, events and relative
+abundance of species recorded in a sample,
+
+00:07:18.480 --> 00:07:23.370
+these datasets improve comparisons with data
+collected using the same protocols at different
+
+00:07:23.370 --> 00:07:29.750
+times and places—in some cases, even leading
+researchers to infer the absence of particular
+
+00:07:29.750 --> 00:07:33.699
+species from particular sites.
+
+00:07:33.699 --> 00:07:36.199
+Each row will have an EventID.
+
+00:07:36.199 --> 00:07:42.740
+Each event must be unique.
+
+00:07:42.740 --> 00:07:47.599
+This is a good point to review all of the
+fields required by GBIF.
+
+00:07:47.599 --> 00:07:54.169
+If required fields are not supplied, GBIF
+will have difficult indexing your dataset.
+
+00:07:54.169 --> 00:07:59.129
+Each core has its own set of required and
+recommended fields for the dataset and for
+
+00:07:59.129 --> 00:08:02.740
+the associated dataset metadata.
+
+00:08:02.740 --> 00:08:08.099
+As you now know, metadata is the data about
+your data and it enables users to know if
+
+00:08:08.099 --> 00:08:11.060
+your dataset will be fit for their use.
+
+00:08:11.060 --> 00:08:14.960
+Don’t stop at the required and recommended
+fields.
+
+00:08:14.960 --> 00:08:20.770
+The more data you are able to share, the more
+useful your dataset can be to end users.
+
+00:08:20.770 --> 00:08:29.499
+You can find the data quality on the gbif
+website under the How-to menu.
+
+00:08:29.499 --> 00:08:33.400
+Extensions were introduced in the Standards
+presentation.
+
+00:08:33.400 --> 00:08:37.450
+Publishing a dataset is now where you will
+put them into use.
+
+00:08:37.450 --> 00:08:42.440
+As mentioned previously, GBIF maintains the
+list of approved and draft extensions on its
+
+00:08:42.440 --> 00:08:43.810
+tools subsite.
+
+00:08:43.810 --> 00:08:50.730
+The approved extensions can be enabled by
+an IPT administrator on a Production IPT.
+
+00:08:50.730 --> 00:08:56.090
+Draft extensions can be enabled by an IPT
+administrator on a Test IPT.
+
+00:08:56.090 --> 00:09:00.710
+If you know you have data that cannot be shared
+with Simple Darwin Core, it is worth reviewing
+
+00:09:00.710 --> 00:09:03.900
+the list of available extensions.
+
+00:09:03.900 --> 00:09:09.230
+If you think an extension doesn’t exist,
+try reaching out to members of the TDWG community
+
+00:09:09.230 --> 00:09:11.960
+or posting on the Darwin Core issues site.
+
+00:09:11.960 --> 00:09:16.520
+Community members will help guide you.
+
+00:09:16.520 --> 00:09:23.500
+Also, in the standards presentation, you were
+introduced to Darwin Core Archives.
+
+00:09:23.500 --> 00:09:26.770
+This is an example of a Darwin Core archive
+with extensions.
+
+00:09:26.770 --> 00:09:32.680
+It’s an occurrence dataset that has been
+published with images, determination history
+
+00:09:32.680 --> 00:09:38.140
+and genebank information.
+
+00:09:38.140 --> 00:09:42.750
+Until now, it may have been difficult to imagine
+how two single files can be related.
+
+00:09:42.750 --> 00:09:47.890
+A core with an extension can represent the
+following relationships.
+
+00:09:47.890 --> 00:09:48.940
+one to zero
+
+00:09:48.940 --> 00:09:49.950
+one to one
+
+00:09:49.950 --> 00:09:52.450
+one to many
+
+00:09:52.450 --> 00:09:55.850
+The core file will always contain unique records.
+
+00:09:55.850 --> 00:10:03.390
+In this example using the Taxon Core, each
+taxon is unique and is represented by a taxonID.
+
+00:10:03.390 --> 00:10:08.750
+In Vernacular Names extension file, each vernacular
+name is unique.
+
+00:10:08.750 --> 00:10:17.830
+The first three represent common names for
+the species Struthio camelus (one to many
+
+00:10:17.830 --> 00:10:19.330
+relationship).
+
+00:10:19.330 --> 00:10:26.250
+The fourth name represents the common name
+for the species Alectoris chukar (one to one
+
+00:10:26.250 --> 00:10:28.370
+relationship).
+
+00:10:28.370 --> 00:10:33.500
+In this example the third and fourth taxons
+in the core file, do not have a match in the
+
+00:10:33.500 --> 00:10:34.810
+extension file.
+
+00:10:34.810 --> 00:10:41.020
+(one to zero relationship).
+
+00:10:41.020 --> 00:10:46.140
+As we finish up this presentation, we’d
+like for you to begin exploring the IPT.
+
+00:10:46.140 --> 00:10:49.900
+In the e-Learning platform, you will find
+your login information and the location of
+
+00:10:49.900 --> 00:10:50.940
+the test IPT.
+
+00:10:50.940 --> 00:10:54.150
+Login and a take a look around.
+
+00:10:54.150 --> 00:10:59.010
+In the next presentation, you will watch a
+demonstration on how to use the IPT, after
+
+00:10:59.010 --> 00:11:02.240
+which you’ll be ready to try it yourself.
+
+00:11:02.240 --> 00:11:05.520
+Thank you.
+
+00:11:05.520 --> 00:11:10.100
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:11:10.100 --> 00:11:11.900
+platform.
+
+00:11:11.900 --> 00:11:16.970
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:11:16.970 --> 00:11:18.040
+course.
+
+00:11:18.040 --> 00:11:22.990
+The biodiversity data mobilization curriculum
+was originally developed as part of the Biodiversity
+
+00:11:22.990 --> 00:11:28.140
+Information Development Programme funded by
+the European Union.
+
+00:11:28.140 --> 00:11:32.850
+This presentation was originally created by
+Sophie Pamerlon with additional contributions
+
+00:11:32.850 --> 00:11:39.360
+by Nicolas Noe, Laura Anne Russell and Dag
+Endresen, BID and BIFA Trainers, Mentors and
+
+00:11:39.360 --> 00:11:40.830
+students.
+
+00:11:40.830 --> 00:11:43.740
+This presentation has been narrated by Laura
+Anne Russell.
+

@@ -1,0 +1,373 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.670 --> 00:00:06.750
+Esta sesión es un trabajo fundamental y parte de la sección de Terminología.
+
+00:00:06.750 --> 00:00:11.820
+Te presentaremos el lenguaje, la terminología y las definiciones de algunos de los
+
+00:00:11.820 --> 00:00:17.020
+conceptos, funciones y procesos básicos que pondrás en uso durante
+
+00:00:17.020 --> 00:00:19.810
+el resto del curso.
+
+00:00:19.810 --> 00:00:24.980
+Primero revisemos la estructura de esta sesión.
+
+00:00:24.980 --> 00:00:30.320
+En la sección de ESTRUCTURAS, trabajaremos en comprender el campo y los tipos de datos
+
+00:00:30.320 --> 00:00:36.989
+que contienen los datos, las estructuras que ayudan a organizar y proteger esos datos y, por último,
+
+00:00:36.989 --> 00:00:46.409
+veremos qué significan para la integridad y seguridad de sus datos.
+
+00:00:46.409 --> 00:00:51.250
+En esta sección sobre estructuras básicas de bases de datos, nos centraremos en los diferentes elementos que
+
+00:00:51.250 --> 00:00:57.109
+utilizan las bases de datos, las herramientas de software y los lenguajes para manejar los datos que ingresa.
+
+00:00:57.109 --> 00:01:08.259
+Primero, veamos los tipos de campo, también conocidos como tipos de datos.
+
+00:01:08.259 --> 00:01:14.630
+Los tipos de datos le permiten a la computadora saber qué tipo de datos se espera en un campo en particular.
+
+00:01:14.630 --> 00:01:19.920
+Esto luego dicta las funciones que se pueden realizar en él.
+
+00:01:19.920 --> 00:01:26.201
+Pueden ser simples y abarcar un solo concepto o combinar conceptos según el
+
+00:01:26.201 --> 00:01:31.130
+software o el lenguaje que esté utilizando. De cualquier manera, los bloques de construcción esenciales son
+
+00:01:31.130 --> 00:01:35.799
+los mismos. Así que veamos seis con los que se encontrará con
+
+00:01:35.799 --> 00:01:39.680
+mayor frecuencia.
+
+00:01:39.680 --> 00:01:46.009
+Primeros campos numéricos. Este tipo de datos contiene números y hay
+
+00:01:46.009 --> 00:01:50.829
+2 tipos: enteros y enteros largos y números enteros.
+
+00:01:50.829 --> 00:02:00.189
+Por ejemplo, 1, 2, 3, 99, 2000. El tamaño del número depende del número
+
+00:02:00.189 --> 00:02:02.850
+de bits asignados al campo (más sobre esto más adelante).
+
+00:02:02.850 --> 00:02:11.880
+Por ahora, recuerde que un campo de entero largo contendrá un número mayor que un entero.
+
+00:02:11.880 --> 00:02:20.400
+Los flotadores, también conocidos como dobles, contienen fracciones o partes de números enteros.
+
+00:02:20.400 --> 00:02:31.379
+Por ejemplo 4.5, 19.47. Lo importante a recordar aquí es que
+
+00:02:31.379 --> 00:02:39.349
+un flotante siempre tiene posiciones decimales, por lo que el número 10 se almacenará como 10.0.
+
+00:02:39.349 --> 00:02:44.330
+El número de posiciones decimales es un elemento integral del tipo.
+
+00:02:44.330 --> 00:02:52.760
+Esto tiene implicaciones cuando se trata de precisión y exactitud.
+
+00:02:52.760 --> 00:02:58.890
+Los campos alfanuméricos también se denominan campos de texto, caracteres o cadenas.
+
+00:02:58.890 --> 00:03:04.670
+Pueden contener cualquier letra, número o símbolo en el conjunto de caracteres codificados y, por lo general, tienen
+
+00:03:04.670 --> 00:03:09.420
+un límite de caracteres definido. Ingresar más caracteres que el
+
+00:03:09.420 --> 00:03:17.849
+límite de caracteres a menudo puede resultar en el truncamiento y la pérdida de datos al guardar.
+
+00:03:17.849 --> 00:03:23.099
+Otro tipo de campo de texto con el que se encontrará es el campo de texto no estructurado, también
+
+00:03:23.099 --> 00:03:30.900
+conocido como memo, long char o blob fields. Estos tipos de campo se utilizan para contener grandes
+
+00:03:30.900 --> 00:03:38.939
+cantidades de texto sin formato y, a diferencia de los campos alfanuméricos, es posible que no tengan un límite de caracteres obvio.
+
+00:03:38.939 --> 00:03:44.390
+En sistemas simples, generalmente son menos flexibles en términos de procesamiento; por ejemplo,
+
+00:03:44.390 --> 00:03:49.980
+clasificación e indexación, que sus primos alfanuméricos más pequeños.
+
+00:03:49.980 --> 00:03:55.790
+Sin embargo,
+
+00:03:55.790 --> 00:04:03.620
+con la disminución de los costos de almacenamiento y el aumento de los programas de bases de datos orientados a documentos NoSQL, como MongoDB, esto está cambiando.
+
+00:04:03.620 --> 00:04:08.140
+Los campos de valor del sistema tienen una naturaleza doble y lo que ve en la pantalla no suele ser
+
+00:04:08.140 --> 00:04:12.530
+el valor real que el software almacena en la memoria.
+
+00:04:12.530 --> 00:04:16.940
+Los campos de fecha y hora son el ejemplo más común de este tipo de campo.
+
+00:04:16.940 --> 00:04:26.170
+En este ejemplo, escribió el 1 de marzo de 1971 en una celda de Excel y presionó regresar.
+
+00:04:26.170 --> 00:04:36.410
+Ahora dice 1-Mar-71 en la celda Y 3/1/1971 en la barra de funciones.
+
+00:04:36.410 --> 00:04:41.490
+Excel está aplicando un formato de visualización a la celda, que puede cambiar a voluntad.
+
+00:04:41.490 --> 00:04:47.000
+SIN EMBARGO, si elimina el formato, verá que lo que realmente se está almacenando en el
+
+00:04:47.000 --> 00:04:55.840
+campo es el número 25993.00. Entonces puede ver que el campo es en realidad
+
+00:04:55.840 --> 00:05:00.880
+un flotador. Debe tener cuidado porque el valor del sistema
+
+00:05:00.880 --> 00:05:07.010
+no es el mismo de un software a otro. Las exportaciones deben comprobarse para asegurarse de que
+
+00:05:07.010 --> 00:05:13.100
+se exporta la fecha real y no el valor del sistema.
+
+00:05:13.100 --> 00:05:19.700
+Los campos booleanos, también conocidos como campos binarios, solo contienen uno de los dos valores que representan
+
+00:05:19.700 --> 00:05:24.760
+un uno o un cero. Se trata de un caso especial de un campo de valor del sistema
+
+00:05:24.760 --> 00:05:30.680
+, como se mencionó anteriormente, ya que si bien el software realmente guarda un número, a menudo
+
+00:05:30.680 --> 00:05:37.810
+muestra valores como: Sí / No, Sí / no, Y / N, Verdadero / Falso.
+
+00:05:37.810 --> 00:05:44.480
+Debe tener cuidado de averiguar en qué sentido se traduce el sistema que está utilizando.
+
+00:05:44.480 --> 00:05:50.960
+¿Un 1 es un sí o un no?
+
+00:05:50.960 --> 00:05:55.660
+Los campos de texto estructurado son menos comunes, pero se mencionan aquí para que estén completos.
+
+00:05:55.660 --> 00:06:00.770
+Son campos que pueden estar formados por combinaciones de tipos de datos simples o
+
+00:06:00.770 --> 00:06:06.620
+incluso estar definidos por los propios datos. La mayoría de las veces se utilizan en lenguajes de programación
+
+00:06:06.620 --> 00:06:11.210
+para permitir la flexibilidad y el manejo de conceptos complejos.
+
+00:06:11.210 --> 00:06:17.130
+Un ejemplo es el campo de factor utilizado en el lenguaje de programación R, que se define como
+
+00:06:17.130 --> 00:06:30.940
+un vector de tipo que contiene un conjunto de códigos numéricos con niveles con valores de caracteres.
+
+00:06:30.940 --> 00:06:36.500
+Ahora que comprende los tipos de campo que se utilizan para representar sus elementos de datos,
+
+00:06:36.500 --> 00:06:42.130
+permítanos hablar sobre los contenedores o estructuras, que muchos programas de bases de datos y software utilizan
+
+00:06:42.130 --> 00:06:48.720
+recopilar y mostrar sus datos.
+
+00:06:48.720 --> 00:06:53.720
+Primero está la celda. Esta es la estructura de datos más pequeña, tiene
+
+00:06:53.720 --> 00:07:01.860
+un solo valor y tiene un solo tipo de datos asociado.
+
+00:07:01.860 --> 00:07:06.340
+Hay un concepto con el que debe tener cuidado cuando se trata de celdas y es la
+
+00:07:06.340 --> 00:07:12.330
+celda vacía. Una celda vacía no significa necesariamente un campo vacío.
+
+00:07:12.330 --> 00:07:18.180
+Algún software llena un campo vacío con un valor de Sistema basado en el tipo de datos.
+
+00:07:18.180 --> 00:07:26.880
+Los ejemplos son NULL NA o incluso cero.
+
+00:07:26.880 --> 00:07:31.180
+A medida que comienza a organizar las celdas, comienza a construir una cuadrícula.
+
+00:07:31.180 --> 00:07:37.460
+Las cuadrículas tienen una estructura implícita en forma de filas.
+
+00:07:37.460 --> 00:07:45.500
+Y columnas.
+
+00:07:45.500 --> 00:07:51.440
+Cuando organizas las celdas en filas y columnas, obviamente, ¡lo que obtienes es una cuadrícula!
+
+00:07:51.440 --> 00:07:54.220
+Esto se parece mucho a una hoja de cálculo, ¿verdad?
+
+00:07:54.220 --> 00:07:58.280
+Bueno, sí. Sin embargo, la diferencia entre una
+
+00:07:58.280 --> 00:08:09.080
+cuadrícula de hoja de cálculo y una tabla es la fuerza de los lazos que mantienen unidas las filas y columnas.
+
+00:08:09.080 --> 00:08:14.770
+Así que hablemos ahora de esas conexiones. ¿Cuáles son las implicaciones para la integridad y
+
+00:08:14.770 --> 00:08:24.330
+seguridad de sus datos de relaciones flexibles y no forzadas entre filas y columnas?
+
+00:08:24.330 --> 00:08:29.320
+Lo que realmente hace que una tabla sea útil son las conexiones que creamos para dar
+
+00:08:29.320 --> 00:08:34.439
+significado a los datos en la estructura. Intrínsecamente hacemos patrones de atributos
+
+00:08:34.439 --> 00:08:42.779
+que convierten los datos en información. Las filas se convierten en registros y las columnas en atributos.
+
+00:08:42.779 --> 00:08:48.410
+Sin embargo, en una hoja de cálculo, las conexiones entre las celdas son idiomáticas, sueltas y no se aplican.
+
+00:08:48.410 --> 00:08:54.610
+Es fácil que los atributos entre las filas se mezclen o que los valores se
+
+00:08:54.610 --> 00:09:05.339
+cambien y luego se pierda el significado.
+
+00:09:05.339 --> 00:09:11.480
+Esta falta de conexiones forzadas hace que una hoja de cálculo sea fácil de usar, pero estas mismas cualidades
+
+00:09:11.480 --> 00:09:16.350
+también causan problemas. Los errores son fáciles de cometer y difíciles de detectar
+
+00:09:16.350 --> 00:09:23.930
+: las conexiones y las relaciones no son documentables y, por lo tanto, están sujetas a interpretación y mutación.
+
+00:09:23.930 --> 00:09:28.939
+Las hojas de cálculo no están diseñadas para escalar ni en términos de tamaño ni de cantidad de usuarios, por lo que
+
+00:09:28.939 --> 00:09:36.960
+pueden ser lentas, fallar y fácilmente corrupta. Las hojas de cálculo son fáciles de copiar y enviar por correo electrónico, por lo
+
+00:09:36.960 --> 00:09:49.709
+que son difíciles de actualizar y realizar un seguimiento. La pregunta es ¿cuál es la solución?
+
+00:09:49.709 --> 00:09:53.920
+Miremos hacia atrás, a las conexiones con un poco más de detalle.
+
+00:09:53.920 --> 00:10:00.490
+Generalmente entendemos que los datos en cada fila de una tabla significan algo.
+
+00:10:00.490 --> 00:10:06.790
+Por ejemplo, cada fila puede representar un espécimen o un taxón que fue encontrado en un lugar particular,
+
+00:10:06.790 --> 00:10:13.600
+en un momento particular, por una persona en particular. Sería extraño tener una fila en una tabla
+
+00:10:13.600 --> 00:10:19.560
+que represente una muestra seguida de una fila que represente un sitio de recolección.
+
+00:10:19.560 --> 00:10:27.470
+A menudo también queremos analizar, ordenar y comparar valores de atributos particulares entre filas.
+
+00:10:27.470 --> 00:10:32.779
+Por ejemplo, es posible que desee encontrar el peso medio de todos los murciélagos de Kenia.
+
+00:10:32.779 --> 00:10:39.080
+Entonces, idealmente queremos usar un sistema para almacenar nuestros datos que: 1) siempre mantenga las filas juntas;
+
+00:10:39.080 --> 00:10:45.230
+2) no mezcla tipos de datos; 3) y segrega los datos de cada tabla en un solo concepto o
+
+00:10:45.230 --> 00:10:57.500
+tema. ¡Estas son funciones de una base de datos!
+
+00:10:57.500 --> 00:11:03.500
+Las funciones de una verdadera base de datos unen filas de forma inherente y las columnas solo pueden tener un
+
+00:11:03.500 --> 00:11:08.879
+único tipo de datos. Las tablas de la base de datos se mantienen juntas mediante enlaces
+
+00:11:08.879 --> 00:11:14.089
+virtuales llamados claves. Estas claves son identificadores que coinciden entre
+
+00:11:14.089 --> 00:11:21.660
+tablas y permiten que los datos se conecten de manera eficiente. Son estos 2 conceptos clave los que distinguen
+
+00:11:21.660 --> 00:11:29.389
+una hoja de cálculo de una base de datos.
+
+00:11:29.389 --> 00:11:35.649
+En resumen, hemos analizado los 6 tipos de datos más comunes, los bloques de construcción básicos
+
+00:11:35.649 --> 00:11:43.470
+de la estructura de datos y hemos distinguido entre una cuadrícula de hoja de cálculo y una tabla de base de datos.
+
+00:11:43.470 --> 00:11:48.139
+Comprender estos elementos y cómo interactúan entre sí le permitirá
+
+00:11:48.139 --> 00:11:57.170
+determinar mejor las mejores formas de manipular y documentar los datos que están bajo su
+
+00:11:57.170 --> 00:11:59.510
+custodia.
+
+00:11:59.510 --> 00:12:04.990
+Recuerda que: cuando te des cuenta de la diferencia entre el contenedor y el contenido, tendrás
+
+00:12:04.990 --> 00:12:08.949
+conocimiento. Usar los términos correctos para describir tanto sus
+
+00:12:08.949 --> 00:12:13.930
+datos como las estructuras que crea y usa para almacenarlos; es la forma más importante
+
+00:12:13.930 --> 00:12:19.749
+de garantizar que siga siendo relevante y utilizable. Nunca subestime cuánto daño se puede
+
+00:12:19.749 --> 00:12:30.810
+hacer a la información invaluable mediante descripciones y almacenamiento descuidados.
+
+00:12:30.810 --> 00:12:35.689
+Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la
+
+00:12:35.689 --> 00:12:41.089
+plataforma e-Learning . Este video es parte de una serie de presentaciones
+
+00:12:41.089 --> 00:12:45.399
+utilizadas en el curso de Movilización de Datos de Biodiversidad de GBIF.
+
+00:12:45.399 --> 00:12:51.129
+El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del
+
+00:12:51.129 --> 00:12:55.730
+Programa de Desarrollo de Información sobre Biodiversidad financiado por la Unión Europea.
+
+00:12:55.730 --> 00:13:01.860
+Esta presentación fue creada y narrada originalmente por Sharon Grant con contribuciones adicionales
+
+00:13:01.860 --> 00:13:05.079
+de los instructores, mentores y estudiantes de BID y BIFA.
+

@@ -1,0 +1,121 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:01.120 --> 00:00:05.840
+Dans cette présentation, nous allons présenter OpenRefine en tant qu'outil de nettoyage des données.
+
+00:00:09.040 --> 00:00:15.440
+Anciennement connu sous le nom de Google Refine; il est maintenant en libre accès et open source. OpenRefine peut être utilisé
+
+00:00:15.440 --> 00:00:20.080
+pour le nettoyage et la normalisation des données. Vous pouvez le trouver sur openrefine.org.
+
+00:00:22.400 --> 00:00:25.760
+OpenRefine est un outil puissant pour travailler avec des données désordonnées.
+
+00:00:26.560 --> 00:00:32.080
+OpenRefine prend en charge la navigation à facettes en tant que mécanisme pour avoir une vue d'ensemble de vos données
+
+00:00:32.080 --> 00:00:36.720
+et filtrer uniquement le sous-ensemble de lignes que vous souhaitez modifier en bloc.
+
+00:00:37.760 --> 00:00:42.320
+La fonction de clustering fonctionne en essayant de regrouper les choix dans la facette de texte, de
+
+00:00:42.320 --> 00:00:45.760
+sorte que les choix qui «se ressemblent» soient regroupés.
+
+00:00:47.120 --> 00:00:52.800
+La réconciliation est un processus semi-automatisé de mise en correspondance des noms de texte avec les ID de base de données (clés).
+
+00:00:53.680 --> 00:00:58.160
+Vous pouvez utiliser OpenRefine pour effectuer la réconciliation des noms de vos données
+
+00:00:58.160 --> 00:01:01.120
+avec n'importe quelle base de données qui expose un service Web.
+
+00:01:04.560 --> 00:01:10.480
+OpenRefine, cependant, ne ressemble pas aux autres outils que vous avez utilisés. OpenRefine NE PEUT PAS être utilisé pour
+
+00:01:10.480 --> 00:01:15.280
+stocker ou gérer des données; il s'agit strictement d'un outil de nettoyage et / ou de normalisation.
+
+00:01:18.720 --> 00:01:22.400
+Comme OpenRefine est un type d'outil différent, vous devez considérer quand
+
+00:01:22.400 --> 00:01:26.160
+il est approprié de l'utiliser par rapport à d'autres outils.
+
+00:01:26.160 --> 00:01:30.240
+Une base de données fournit une infrastructure pour le stockage et l'indexation des données.
+
+00:01:30.960 --> 00:01:36.000
+Généralement, il nécessite des compétences en programmation pour éditer et ne permet pas une visualisation facile.
+
+00:01:37.280 --> 00:01:42.640
+Excel est une application de feuille de calcul. Il est utile pour documenter les données et effectuer des opérations.
+
+00:01:43.280 --> 00:01:46.720
+Et bien que vous puissiez gérer vos données et que vous ayez une capacité limitée à nettoyer et
+
+00:01:46.720 --> 00:01:51.040
+normaliser vos données, cela se limite généralement à l'édition cellule par cellule.
+
+00:01:51.920 --> 00:01:56.000
+Les données ne sont pas toujours visibles et manquent d'outils de visualisation puissants.
+
+00:01:57.360 --> 00:02:00.880
+OpenRefine en revanche offre une édition multicellulaire,
+
+00:02:00.880 --> 00:02:05.040
+une exploration et une transformation faciles et une visualisation interactive.
+
+00:02:05.600 --> 00:02:09.680
+Mais comme mentionné précédemment, ce n'est pas pour stocker et gérer des données.
+
+00:02:13.520 --> 00:02:15.680
+Alors maintenant que vous comprenez les différences,
+
+00:02:15.680 --> 00:02:19.200
+voici une liste de fonctionnalités utiles que vous trouverez dans OpenRefine.
+
+00:02:19.760 --> 00:02:23.840
+Vous aurez bientôt l'occasion de réaliser un tutoriel pour essayer toutes les fonctionnalités.
+
+00:02:24.480 --> 00:02:28.000
+OpenRefine est un logiciel que vous installez sur votre ordinateur.
+
+00:02:28.000 --> 00:02:34.320
+Il nécessite le JAVA JRE / JDK pour s'exécuter. Cela fonctionne sur Windows, Mac et Linux.
+
+00:02:35.120 --> 00:02:39.360
+Comme OpenRefine est gratuit et open source, il est pris en charge par une large communauté
+
+00:02:39.360 --> 00:02:44.720
+de développeurs et d'utilisateurs. Il est facile de trouver des tutoriels en ligne sur la façon d'utiliser l'outil.
+
+00:02:48.960 --> 00:02:50.960
+Si vous avez des questions sur cette présentation,
+
+00:02:50.960 --> 00:02:53.760
+veuillez utiliser le forum fourni sur la plateforme e-Learning.
+
+00:02:54.480 --> 00:03:00.160
+Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données sur la biodiversité du GBIF
+
+00:03:00.160 --> 00:03:05.600
+. Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du
+
+00:03:05.600 --> 00:03:10.320
+programme de développement de l'information sur la biodiversité financé par l'Union européenne.
+
+00:03:11.120 --> 00:03:16.080
+Cette présentation a été créée à l'origine par Nestor Beltran avec des contributions supplémentaires
+
+00:03:16.080 --> 00:03:21.040
+de Sharon Grant, David Bloom, de formateurs, de mentors et d'étudiants du BID et du BIFA.
+
+00:03:21.680 --> 00:03:26.560
+Cette présentation a été racontée par Laura Anne Russell.
+

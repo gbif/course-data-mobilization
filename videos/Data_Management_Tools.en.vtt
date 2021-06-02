@@ -1,0 +1,311 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.480 --> 00:00:06.370
+In this presentation, we are going to explore
+the importance of software tools that can
+
+00:00:06.370 --> 00:00:11.830
+help to maintain, clean and standardize your
+data.
+
+00:00:11.830 --> 00:00:16.390
+Data Quality happens at every step in the
+data mobilization process.
+
+00:00:16.390 --> 00:00:20.570
+Within the roles on your team, you should
+ensure that someone is responsible and skilled
+
+00:00:20.570 --> 00:00:26.060
+with data maintenance and manipulation.
+We know that real-world data are messy and
+
+00:00:26.060 --> 00:00:31.480
+transformation and standardization is needed
+to make the data easily understandable and
+
+00:00:31.480 --> 00:00:33.530
+fit for use.
+
+00:00:33.530 --> 00:00:38.710
+When transforming data (for example merging
+columns, converting coordinates, changing
+
+00:00:38.710 --> 00:00:43.621
+datum, etc), make sure that you document changes
+and that you have an original copy that you
+
+00:00:43.621 --> 00:00:48.230
+can revert to if necessary.
+
+00:00:48.230 --> 00:00:52.530
+As was covered in the foundations section,
+in choosing tools, some things you should
+
+00:00:52.530 --> 00:00:59.410
+consider include, price, ease of use, documentation
+and support and any technical requirements
+
+00:00:59.410 --> 00:01:03.940
+to run the tool.
+No tool is perfect, the importance is to find
+
+00:01:03.940 --> 00:01:09.510
+the right balance and the tool that fits your
+requirement.
+
+00:01:09.510 --> 00:01:14.460
+The tools you choose may not be the tools
+that others use within your institution – and
+
+00:01:14.460 --> 00:01:19.910
+that’s just fine, unless your organization
+places mandates on the tools you can use.
+
+00:01:19.910 --> 00:01:24.320
+You need to find and use the tools that help
+you to achieve the goals of your institution.
+
+00:01:24.320 --> 00:01:29.570
+So, you need to build a palette of tools that
+will help you and the people with whom you
+
+00:01:29.570 --> 00:01:35.150
+work to do their work as effectively as possible.
+
+00:01:35.150 --> 00:01:40.170
+Some of the technical considerations when
+choosing tools should include the inputs and
+
+00:01:40.170 --> 00:01:46.240
+outputs that the tool uses for files.
+Does it allow for importing and exporting
+
+00:01:46.240 --> 00:01:51.880
+standardized delimited files?
+Can you select encoding (for example UTF-8)
+
+00:01:51.880 --> 00:01:59.160
+when opening or saving files to avoid encoding
+issues with special characters.
+
+00:01:59.160 --> 00:02:03.630
+Also in the Foundations section, we introduced
+you to a list of software tools compiled by
+
+00:02:03.630 --> 00:02:06.710
+previous trainers, mentors and students of
+this course.
+
+00:02:06.710 --> 00:02:11.180
+For the remainder of this presentation, we
+will review some of the tools that will be
+
+00:02:11.180 --> 00:02:18.020
+useful to complete the data management exercises
+in this course.
+
+00:02:18.020 --> 00:02:22.780
+When working with data files, you will often
+need a text editor that is able to do more
+
+00:02:22.780 --> 00:02:28.099
+than the default text editor that came with
+your operating system, particularly with Windows
+
+00:02:28.099 --> 00:02:33.609
+and Mac.
+Some good options include BBEdit, Notepad++
+
+00:02:33.609 --> 00:02:37.370
+and Sublime.
+When creating files, you should be consistent
+
+00:02:37.370 --> 00:02:43.120
+and document your local settings and options.
+When opening and editing files, try different
+
+00:02:43.120 --> 00:02:51.170
+options and check the results to make sure
+there aren’t any issues before your proceed.
+
+00:02:51.170 --> 00:02:54.800
+Here we look at some useful tools for checking
+taxonomy within your data.
+
+00:02:54.800 --> 00:03:01.670
+The GBIF Name Parser allows you to divide
+scientific name into its individual parts.
+
+00:03:01.670 --> 00:03:08.749
+The Global Names Resolver uses fuzzy matching
+to show the accepted taxon or synonym.
+
+00:03:08.749 --> 00:03:12.909
+The Catalogue of Life checklist bank offers
+a name matching tool.
+
+00:03:12.909 --> 00:03:18.209
+It indicates matches found within the checklist
+bank to the provided list of names and returns
+
+00:03:18.209 --> 00:03:21.810
+back the match along with higher taxonomy.
+
+00:03:21.810 --> 00:03:26.870
+In addition to these tools, there are tools
+that deal with specific taxonomic thematic
+
+00:03:26.870 --> 00:03:33.080
+categories like the iPlant Taxonomic Name
+Resoluton and the World Register of Marine
+
+00:03:33.080 --> 00:03:36.849
+Species
+
+00:03:36.849 --> 00:03:41.040
+Often you will find within your datasets,
+that coordinates have been stored in the degrees
+
+00:03:41.040 --> 00:03:46.569
+minutes seconds format (otherwise known as
+DMS) and you will need to convert this to
+
+00:03:46.569 --> 00:03:52.139
+decimal degrees to starndarize the data for
+the Darwin Core fields of decimalLatitude
+
+00:03:52.139 --> 00:03:56.480
+and decimalLongitude.
+You can do this yourself using this mathematical
+
+00:03:56.480 --> 00:03:58.349
+formula.
+
+00:03:58.349 --> 00:04:09.510
+Decimal degrees = (minutes + arc-minutes/60
++ arc-seconds/3600) * hemisphere
+
+00:04:09.510 --> 00:04:15.340
+Hemisphere longitudinal: west = -1; east = 1
+
+00:04:15.340 --> 00:04:22.380
+However, there are tools online that can help
+you with geoferencing and the conversion of
+
+00:04:22.380 --> 00:04:23.380
+coordinates.
+
+00:04:23.380 --> 00:04:27.560
+CRIA’s Species link hosts a variety of data
+cleaning tools.
+
+00:04:27.560 --> 00:04:33.840
+infoXY can help to get locality information
+using geographic coordinates.
+
+00:04:33.840 --> 00:04:39.030
+The Georeferencing Calculator is a tool created
+to aid in the&nbsp;georeferencing&nbsp;of descriptive&nbsp;localities&nbsp;such
+
+00:04:39.030 --> 00:04:43.630
+as those found in museum-based natural history
+collections.
+
+00:04:43.630 --> 00:04:48.410
+Additionally, you may also find Google Maps
+or Google Earth useful.
+
+00:04:48.410 --> 00:04:53.200
+Google Maps contains all of the navigation,
+mapping power and points of interest with
+
+00:04:53.200 --> 00:04:59.060
+just a small hint of satellite imagery, while
+Google Earth has complete 3D satellite data
+
+00:04:59.060 --> 00:05:05.720
+and just a small subset of information on
+places, without any point-to-point navigation.
+
+00:05:05.720 --> 00:05:09.450
+As we do not teach georeferencing in this
+course, it is recommended that you review
+
+00:05:09.450 --> 00:05:16.380
+the Georeferencing documentation, recently
+updated by the VertNet team at docs.gbif.org
+
+00:05:16.380 --> 00:05:22.570
+before completing any large scale georeferencing
+project.
+
+00:05:22.570 --> 00:05:33.520
+Canadensys offers two tools that can help
+with both Coordinate and Date conversion.
+
+00:05:33.520 --> 00:05:37.170
+Operating systems come with their own set
+of command line consoles.
+
+00:05:37.170 --> 00:05:43.060
+Additionally, many desktop tools provide command
+line functionality to be used within those
+
+00:05:43.060 --> 00:05:46.030
+consoles.
+Command line tools are great for scripting
+
+00:05:46.030 --> 00:05:50.430
+to automate processes.
+
+00:05:50.430 --> 00:05:54.980
+Remember there are many, many sources for
+validating, cleaning and standardizing your
+
+00:05:54.980 --> 00:05:58.010
+data.
+Until you develop your preferred list of tried
+
+00:05:58.010 --> 00:06:04.090
+and trusted tools, remember to explore many
+options.
+
+00:06:04.090 --> 00:06:08.280
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:06:08.280 --> 00:06:09.650
+platform.
+&nbsp;
+
+00:06:09.650 --> 00:06:14.890
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:06:14.890 --> 00:06:18.520
+course.
+The biodiversity data mobilization curriculum
+
+00:06:18.520 --> 00:06:23.660
+was originally developed as part of the Biodiversity
+Information Development Programme funded by
+
+00:06:23.660 --> 00:06:25.800
+the European Union.
+&nbsp;
+
+00:06:25.800 --> 00:06:30.500
+This presentation was originally created by
+Nestor Beltran with additional contributions
+
+00:06:30.500 --> 00:06:36.460
+by Sophie Pamerlon and David Bloom, BID and
+BIFA Trainers, Mentors and Students.
+
+00:06:36.460 --> 00:06:39.310
+This presentation has been narrated by Laura
+Anne Russell.
+

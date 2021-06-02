@@ -1,0 +1,454 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:01.650 --> 00:00:05.860
+Dans cette présentation, nous vous présenterons le concept de publication de données.
+
+00:00:05.860 --> 00:00:12.940
+Nous vous présenterons également la boîte à outils de publication intégrée du GBIF.
+
+00:00:12.940 --> 00:00:18.740
+À ce stade du cours, vous avez parcouru toutes les sections du projet de mobilisation.
+
+00:00:18.740 --> 00:00:20.810
+Vous êtes maintenant prêt à partager vos données.
+
+00:00:20.810 --> 00:00:25.500
+Vous avez produit un ensemble de données nettoyé et standardisé et vous souhaitez partager et voir ces
+
+00:00:25.500 --> 00:00:30.320
+données sur le portail de données GBIF.
+
+00:00:30.320 --> 00:00:35.360
+Mais il ne suffit pas de remettre une feuille de calcul ou un fichier texte au GBIF.
+
+00:00:35.360 --> 00:00:38.310
+Vous devez publier les données.
+
+00:00:38.310 --> 00:00:44.390
+La publication de données est l'acte de rendre les ensembles de données sur la biodiversité accessibles au public et découvrables,
+
+00:00:44.390 --> 00:00:49.080
+sous une forme normalisée (par exemple Darwin Core), via un point d'accès.
+
+00:00:49.080 --> 00:00:54.350
+Ce point d'accès est une URL - une adresse Web.
+
+00:00:54.350 --> 00:00:59.580
+La plupart des organisations au sein du réseau GBIF, également appelées éditeurs, utilisent
+
+00:00:59.580 --> 00:01:03.350
+un IPT, l'Integrated Publishing Toolkit, pour publier leurs données.
+
+00:01:03.350 --> 00:01:07.871
+Ces éditeurs peuvent choisir d'héberger leur propre installation d'un IPT comme le Field
+
+00:01:07.871 --> 00:01:13.280
+Museum, mais préfèrent généralement trouver un hébergeur approprié pour leurs activités de publication de données.
+
+00:01:13.280 --> 00:01:18.920
+Cela peut se faire via un nœud participant au GBIF établi comme GBIF France ou via
+
+00:01:18.920 --> 00:01:20.970
+un groupe thématique établi comme VertNet.
+
+00:01:20.970 --> 00:01:27.700
+Ou, une autre option pourrait être d'utiliser l'un des IPT hébergés par le GBIF comme le BID, le
+
+00:01:27.700 --> 00:01:30.860
+BIFA ou les IPT régionaux.
+
+00:01:30.860 --> 00:01:35.530
+Si vous faites partie de groupes tels que Symbiota ou les communautés Living Atlases, ils disposent d'
+
+00:01:35.530 --> 00:01:42.050
+autres moyens pour vous aider à publier vos données sur le GBIF.
+
+00:01:42.050 --> 00:01:46.049
+La définition de la diapositive précédente devrait probablement être mise à jour pour inclure quelques mots
+
+00:01:46.049 --> 00:01:48.590
+sur les dérogations et les licences.
+
+00:01:48.590 --> 00:01:55.090
+L'acte non seulement de rendre les données accessibles, mais aussi de les rendre aussi ouvertes que possible.
+
+00:01:55.090 --> 00:02:00.580
+Dans un effort pour documenter le niveau d'ouverture d'un ensemble de données, le GBIF maintient, conformément à
+
+00:02:00.580 --> 00:02:06.850
+une décision de 2014 du conseil d'administration du GBIF, que toutes les données publiées et enregistrées pour
+
+00:02:06.850 --> 00:02:13.040
+utilisation dans le portail GBIF doivent être délivrées avec l'un des trois Creative Commons options:
+
+00:02:13.040 --> 00:02:20.879
+CC0, une dérogation pour les données mises à disposition pour toute utilisation sans aucune restriction
+
+00:02:20.879 --> 00:02:27.569
+CC BY, une licence pour les données mises à disposition pour toute utilisation avec une attribution appropriée
+
+00:02:27.569 --> 00:02:33.760
+CC BY-NC, une licence pour les données mises à disposition pour toute utilisation non commerciale avec
+
+00:02:33.760 --> 00:02:36.590
+attribution.
+
+00:02:36.590 --> 00:02:42.939
+Notez que les licences CC-BY-NC ont un effet significatif sur la réutilisabilité des données.
+
+00:02:42.939 --> 00:02:51.150
+Le GBIF encourage les éditeurs de données à choisir l'option la plus ouverte possible dans la mesure du possible.
+
+00:02:51.150 --> 00:03:01.319
+Les projets financés par le GBIF doivent utiliser les options CC0 ou CC BY.
+
+00:03:01.319 --> 00:03:06.870
+L'Integrated Publishing Toolkit (IPT) est un outil logiciel libre et open source écrit
+
+00:03:06.870 --> 00:03:13.439
+en Java qui est utilisé pour publier et partager des ensembles de données sur la biodiversité via le réseau GBIF.
+
+00:03:13.439 --> 00:03:17.439
+La première version d'IPT a été publiée en 2009.
+
+00:03:17.439 --> 00:03:21.579
+Elle a été repensée et rééditée en 2011.
+
+00:03:21.579 --> 00:03:25.989
+Depuis, l'IPT a été régulièrement mis à jour avec de nouvelles fonctionnalités, des corrections de bogues
+
+00:03:25.989 --> 00:03:27.760
+et des améliorations de sécurité.
+
+00:03:27.760 --> 00:03:34.489
+Alors que l'IPT est maintenu au GBIF, la communauté des développeurs informatiques de la biodiversité est en
+
+00:03:34.489 --> 00:03:37.879
+mesure de contribuer à son développement.
+
+00:03:37.879 --> 00:03:41.099
+Certaines des fonctionnalités incluent:
+
+00:03:41.099 --> 00:03:45.099
+Outil de publication principal (mais pas uniquement) pour GBIF.
+
+00:03:45.099 --> 00:03:52.949
+Un IPT peut héberger de nombreux ensembles de données, pour le compte de plusieurs institutions, chacun clairement représenté
+
+00:03:52.949 --> 00:03:56.079
+Mode de test et mode de production
+
+00:03:56.079 --> 00:04:00.689
+Multilingue - il a été traduit en 7 langues.
+
+00:04:00.689 --> 00:04:05.279
+C'est un logiciel côté serveur, il a donc besoin d'une connexion stable et nécessite une
+
+00:04:05.279 --> 00:04:07.290
+administration technique .
+
+00:04:07.290 --> 00:04:12.870
+C'est pourquoi de nombreuses institutions choisissent de publier leurs données sur des IPT hébergés.
+
+00:04:12.870 --> 00:04:18.500
+Vous pouvez trouver plus d'informations sur l'hébergement de données sur le site Web du GBIF dans le menu Comment faire.
+
+00:04:18.500 --> 00:04:23.830
+Pour le reste de notre cours, nous présenterons et terminerons des exercices utilisant
+
+00:04:23.830 --> 00:04:26.639
+l'IPT.
+
+00:04:26.639 --> 00:04:32.669
+Nous rassemblons maintenant ce que vous avez appris dans les deux premières présentations de la section Capture de
+
+00:04:32.669 --> 00:04:36.340
+données sur les normes et Darwin Core et les types de données.
+
+00:04:36.340 --> 00:04:42.000
+En son cœur, l'IPT est basé sur Darwin Core et le guide de texte Darwin Core et ses recommandations
+
+00:04:42.000 --> 00:04:44.680
+pour le partage de données dans une archive Darwin Core.
+
+00:04:44.680 --> 00:04:50.940
+Le Darwin Core contient trois cœurs de données distincts qui correspondent à jusqu'à trois des
+
+00:04:50.940 --> 00:04:54.140
+types de jeux de données acceptés par le GBIF.
+
+00:04:54.140 --> 00:04:55.629
+Gardez à l'esprit:
+
+00:04:55.629 --> 00:04:59.699
+chaque ensemble de données possède un et un seul fichier Core.
+
+00:04:59.699 --> 00:05:07.160
+Chaque fichier Core correspond à un type d'ensemble de données: occurrence, liste de contrôle ou événement d'échantillonnage.
+
+00:05:07.160 --> 00:05:11.770
+Chaque jeu de données peut avoir un ou plusieurs fichiers d'extensions
+
+00:05:11.770 --> 00:05:17.810
+Le but d'une extension est d'ajouter de nouveaux champs de données non présents dans le noyau.
+
+00:05:17.810 --> 00:05:24.810
+Chaque entrée du fichier de base est liée à zéro, une ou plusieurs lignes dans un fichier d'extension.
+
+00:05:24.810 --> 00:05:32.199
+Chaque ligne d'un fichier d'extension référence une et une seule ligne dans le fichier principal.
+
+00:05:32.199 --> 00:05:33.970
+Quelques exemples:
+
+00:05:33.970 --> 00:05:37.610
+Core is Occurrence, pas d'extensions
+
+00:05:37.610 --> 00:05:41.389
+Core is Occurrence, avec extension «multimédia»
+
+00:05:41.389 --> 00:05:47.050
+Core is Occurrence, avec Audubon core et extensions
+
+00:05:47.050 --> 00:05:50.129
+Measurementorfact
+
+00:05:50.129 --> 00:05:54.319
+Core is Taxon, pas d'extensions
+
+00:05:54.319 --> 00:06:02.900
+Core is Taxon, avec extension de distribution d'espèces Core is Event avec extensions Occurrence et Measurementorfact
+
+00:06:02.900 --> 00:06:05.159
+Le premier noyau est le noyau d'occurrence.
+
+00:06:05.159 --> 00:06:11.970
+Pour rappel, un jeu de données d'occurrence contient un individu ou un groupe d'individus.
+
+00:06:11.970 --> 00:06:16.240
+Chaque ligne a un identifiant unique, un occurrenceID.
+
+00:06:16.240 --> 00:06:21.819
+D'autres champs pour les données d'occurrence comprennent où, quand, comment et par qui chaque occurrence a-t-elle été
+
+00:06:21.819 --> 00:06:27.530
+observée et / ou collectée sur le terrain.
+
+00:06:27.530 --> 00:06:30.470
+L'option suivante est le noyau Taxon.
+
+00:06:30.470 --> 00:06:35.620
+Pour rappel, un jeu de données de liste de contrôle contient des concepts taxonomiques, pas des individus.
+
+00:06:35.620 --> 00:06:40.319
+Il s’agit d’un «catalogue ou liste d’organismes nommés ou de taxons».
+
+00:06:40.319 --> 00:06:42.949
+Chaque ligne aura un taxonID.
+
+00:06:42.949 --> 00:06:49.060
+Chaque taxon doit être unique.
+
+00:06:49.060 --> 00:06:51.219
+La dernière option est le noyau de l'événement.
+
+00:06:51.219 --> 00:06:57.650
+Pour rappel, les ensembles de données sur les événements d'échantillonnage permettent aux éditeurs de données de fournir plus de détails,
+
+00:06:57.650 --> 00:07:02.510
+non seulement en offrant la preuve qu'une espèce est apparue à un endroit et à une date donnés, mais
+
+00:07:02.510 --> 00:07:08.169
+aussi en permettant d'évaluer la composition de la communauté pour des groupes taxonomiques plus larges ou
+
+00:07:08.169 --> 00:07:12.129
+même l'abondance des espèces à plusieurs fois et endroits.
+
+00:07:12.129 --> 00:07:18.480
+En indiquant les méthodes, les événements et l'abondance relative des espèces enregistrées dans un échantillon,
+
+00:07:18.480 --> 00:07:23.370
+ces ensembles de données améliorent les comparaisons avec les données collectées à l'aide des mêmes protocoles à des
+
+00:07:23.370 --> 00:07:29.750
+moments et des lieux différents - dans certains cas, conduisant même les chercheurs à déduire l'absence d'
+
+00:07:29.750 --> 00:07:33.699
+espèces particulières sur des sites particuliers. .
+
+00:07:33.699 --> 00:07:36.199
+Chaque ligne aura un EventID.
+
+00:07:36.199 --> 00:07:42.740
+Chaque événement doit être unique.
+
+00:07:42.740 --> 00:07:47.599
+C'est un bon point pour revoir tous les champs requis par le GBIF.
+
+00:07:47.599 --> 00:07:54.169
+Si les champs obligatoires ne sont pas fournis, le GBIF aura des difficultés à indexer votre ensemble de données.
+
+00:07:54.169 --> 00:07:59.129
+Chaque noyau possède son propre ensemble de champs obligatoires et recommandés pour l'ensemble de données et pour
+
+00:07:59.129 --> 00:08:02.740
+les métadonnées de l'ensemble de données associées.
+
+00:08:02.740 --> 00:08:08.099
+Comme vous le savez maintenant, les métadonnées sont les données sur vos données et elles permettent aux utilisateurs de savoir si
+
+00:08:08.099 --> 00:08:11.060
+votre ensemble de données sera adapté à leur utilisation.
+
+00:08:11.060 --> 00:08:14.960
+Ne vous arrêtez pas aux champs obligatoires et recommandés.
+
+00:08:14.960 --> 00:08:20.770
+Plus vous pouvez partager de données, plus votre ensemble de données peut être utile aux utilisateurs finaux.
+
+00:08:20.770 --> 00:08:29.499
+Vous pouvez trouver la qualité des données sur le site Web gbif dans le menu Comment faire.
+
+00:08:29.499 --> 00:08:33.400
+Des extensions ont été introduites dans la présentation des normes.
+
+00:08:33.400 --> 00:08:37.450
+La publication d'un ensemble de données est maintenant l'endroit où vous les utiliserez.
+
+00:08:37.450 --> 00:08:42.440
+Comme mentionné précédemment, le GBIF tient à jour la liste des extensions approuvées et des projets d'extensions sur son
+
+00:08:42.440 --> 00:08:43.810
+sous-site d'outils.
+
+00:08:43.810 --> 00:08:50.730
+Les extensions approuvées peuvent être activées par un administrateur IPT sur un IPT de production.
+
+00:08:50.730 --> 00:08:56.090
+Les projets d'extensions peuvent être activés par un administrateur IPT sur un IPT de test.
+
+00:08:56.090 --> 00:09:00.710
+Si vous savez que vous avez des données qui ne peuvent pas être partagées avec Simple Darwin Core, il vaut la peine de consulter
+
+00:09:00.710 --> 00:09:03.900
+la liste des extensions disponibles.
+
+00:09:03.900 --> 00:09:09.230
+Si vous pensez qu'une extension n'existe pas, essayez de contacter les membres de la communauté TDWG
+
+00:09:09.230 --> 00:09:11.960
+ou de publier sur le site des problèmes de Darwin Core.
+
+00:09:11.960 --> 00:09:16.520
+Les membres de la communauté vous guideront.
+
+00:09:16.520 --> 00:09:23.500
+De plus, dans la présentation des normes, vous avez été présenté aux archives Darwin Core.
+
+00:09:23.500 --> 00:09:26.770
+Ceci est un exemple d'archive Darwin Core avec des extensions.
+
+00:09:26.770 --> 00:09:32.680
+C'est un ensemble de données d'occurrence qui a été publié avec des images, un historique de détermination
+
+00:09:32.680 --> 00:09:38.140
+et des informations sur la banque de gènes.
+
+00:09:38.140 --> 00:09:42.750
+Jusqu'à présent, il était peut-être difficile d'imaginer comment deux fichiers uniques peuvent être liés.
+
+00:09:42.750 --> 00:09:47.890
+Un noyau avec une extension peut représenter les relations suivantes.
+
+00:09:47.890 --> 00:09:48.940
+un à zéro
+
+00:09:48.940 --> 00:09:49.950
+un à un
+
+00:09:49.950 --> 00:09:52.450
+un à plusieurs
+
+00:09:52.450 --> 00:09:55.850
+Le fichier principal contiendra toujours des enregistrements uniques.
+
+00:09:55.850 --> 00:10:03.390
+Dans cet exemple utilisant le Taxon Core, chaque taxon est unique et est représenté par un taxonID.
+
+00:10:03.390 --> 00:10:08.750
+Dans le fichier d'extension de noms vernaculaires, chaque nom vernaculaire est unique.
+
+00:10:08.750 --> 00:10:17.830
+Les trois premiers représentent les noms communs de l'espèce Struthio camelus ( relation
+
+00:10:17.830 --> 00:10:19.330
+un à plusieurs
+
+00:10:19.330 --> 00:10:26.250
+). Le quatrième nom représente le nom commun de l'espèce Alectoris chukar (
+
+00:10:26.250 --> 00:10:28.370
+relation un à un ).
+
+00:10:28.370 --> 00:10:33.500
+Dans cet exemple, les troisième et quatrième taxons du fichier de base n'ont pas de correspondance dans le
+
+00:10:33.500 --> 00:10:34.810
+fichier d'extension.
+
+00:10:34.810 --> 00:10:41.020
+(relation un à zéro).
+
+00:10:41.020 --> 00:10:46.140
+À la fin de cette présentation, nous aimerions que vous commenciez à explorer l'IPT.
+
+00:10:46.140 --> 00:10:49.900
+Dans la plateforme e-Learning, vous trouverez vos informations de connexion et l'emplacement du
+
+00:10:49.900 --> 00:10:50.940
+test IPT.
+
+00:10:50.940 --> 00:10:54.150
+Connectez-vous et jetez un œil.
+
+00:10:54.150 --> 00:10:59.010
+Dans la prochaine présentation, vous assisterez à une démonstration sur l'utilisation de l'IPT, après
+
+00:10:59.010 --> 00:11:02.240
+quoi vous serez prêt à l'essayer vous-même.
+
+00:11:02.240 --> 00:11:05.520
+Merci.
+
+00:11:05.520 --> 00:11:10.100
+Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la
+
+00:11:10.100 --> 00:11:11.900
+plateforme e-Learning .
+
+00:11:11.900 --> 00:11:16.970
+Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données du GBIF sur la biodiversité
+
+00:11:16.970 --> 00:11:18.040
+.
+
+00:11:18.040 --> 00:11:22.990
+Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du programme de développement de l'
+
+00:11:22.990 --> 00:11:28.140
+information sur la biodiversité financé par l'Union européenne.
+
+00:11:28.140 --> 00:11:32.850
+Cette présentation a été créée à l'origine par Sophie Pamerlon avec des contributions supplémentaires
+
+00:11:32.850 --> 00:11:39.360
+de Nicolas Noe, Laura Anne Russell et Dag Endresen, formateurs, mentors et étudiants du
+
+00:11:39.360 --> 00:11:40.830
+BID et du BIFA .
+
+00:11:40.830 --> 00:11:43.740
+Cette présentation a été racontée par Laura Anne Russell.
+

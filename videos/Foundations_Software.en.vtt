@@ -1,0 +1,249 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.949 --> 00:00:07.309
+This session is foundation work and part of
+the Terminology section.
+
+00:00:07.309 --> 00:00:19.370
+We will be introducing you to types of software
+used in data mobilization.
+
+00:00:19.370 --> 00:00:23.740
+The purpose of this short presentation is
+to give you some examples of the different
+
+00:00:23.740 --> 00:00:28.730
+types of applications and software available
+in the world of biodiversity mobilization
+
+00:00:28.730 --> 00:00:30.520
+informatics.
+
+00:00:30.520 --> 00:00:35.520
+Hopefully it will help you to start to think
+about what uses they may be put too and what
+
+00:00:35.520 --> 00:00:38.710
+types of things might be practical for you.
+
+00:00:38.710 --> 00:00:43.990
+So very briefly, a definition.
+
+00:00:43.990 --> 00:00:49.620
+We are making a distinction here between all
+software and those applications which have
+
+00:00:49.620 --> 00:00:54.870
+been created for an end-user to carry out
+a task.
+
+00:00:54.870 --> 00:01:01.410
+We will take a look at software that can be
+used for: Data Capture, Data Management, Data
+
+00:01:01.410 --> 00:01:08.330
+Cleaning and Data Publishing.
+
+00:01:08.330 --> 00:01:13.789
+In the realm of data capture software, there
+is often no need to go "big" when capturing
+
+00:01:13.789 --> 00:01:17.670
+information initially, especially in the field.
+
+00:01:17.670 --> 00:01:22.509
+You can capture information from collection
+specimens or live observations in a simple
+
+00:01:22.509 --> 00:01:28.950
+spreadsheet such as Excel, OpenOffice, LibreOffice
+or Google Sheets.
+
+00:01:28.950 --> 00:01:35.749
+There may even not be a need to create your
+own system at all.
+
+00:01:35.749 --> 00:01:44.460
+Apps such as iNaturalist, or eBird are stable,
+robust and have simple intuitive interfaces.
+
+00:01:44.460 --> 00:01:48.849
+Whichever the choice, it is important to think
+about the long term preservation of the data
+
+00:01:48.849 --> 00:01:52.570
+that you collect.
+
+00:01:52.570 --> 00:01:59.259
+So, depending on your needs, a more complex
+data management software might be the right
+
+00:01:59.259 --> 00:02:01.340
+solution for your data.
+
+00:02:01.340 --> 00:02:06.649
+Especially if long term retention and preservation
+is a priority.
+
+00:02:06.649 --> 00:02:14.510
+More stable management platforms also better
+support sharing of data to multiple audiences.
+
+00:02:14.510 --> 00:02:20.250
+There are many choices which vary in terms
+of cost and support and a few are shown here.
+
+00:02:20.250 --> 00:02:25.269
+From left to right: Symbiota, Specify, EMu,
+Elysia and Brahms.
+
+00:02:25.269 --> 00:02:38.439
+If a 
+home-grown solution is preferred and can be
+
+00:02:38.439 --> 00:02:45.829
+supported, relational database software can
+provide cheaper alternatives.
+
+00:02:45.829 --> 00:02:58.690
+Examples incluse MySQL, SQLServer, Access
+or filemaker.
+
+00:02:58.690 --> 00:03:03.000
+Increasingly the lines between languages,
+programs and tools have blurred, each being
+
+00:03:03.000 --> 00:03:06.950
+capable of many complex and overlapping functions.
+
+00:03:06.950 --> 00:03:11.470
+The common Find and Replace function is a
+good example of a data cleaning tool that
+
+00:03:11.470 --> 00:03:16.629
+is found in almost all database programs and
+is a command in database languages.
+
+00:03:16.629 --> 00:03:22.120
+You are probably already familiar with spreadsheets
+such as Excel and indeed these are probably
+
+00:03:22.120 --> 00:03:26.060
+the most common data cleaning tools available.
+
+00:03:26.060 --> 00:03:28.550
+However there are others.
+
+00:03:28.550 --> 00:03:34.010
+OpenRefine originally known as GoogleRefine
+is a powerful free, open source data cleaning
+
+00:03:34.010 --> 00:03:36.819
+tool with a large support community.
+
+00:03:36.819 --> 00:03:40.769
+You will see more of this program in upcoming
+sessions.
+
+00:03:40.769 --> 00:03:47.200
+R is another increasingly used, sophisticated
+programming language and environment.
+
+00:03:47.200 --> 00:03:56.319
+With a little practice it can also provide
+powerful data manipulations.
+
+00:03:56.319 --> 00:04:01.109
+Planning further ahead to the sharing of your
+data through GBIF to the international scientific
+
+00:04:01.109 --> 00:04:06.189
+and deciders community you will need to choose
+a publishing tool.
+
+00:04:06.189 --> 00:04:11.750
+The choice will depend largely on the level
+of infrastructure support at your institution.
+
+00:04:11.750 --> 00:04:18.600
+If this is high and stable, installing an
+IPT or BioCASe application may be the right
+
+00:04:18.600 --> 00:04:19.600
+option.
+
+00:04:19.600 --> 00:04:21.910
+But there are others if this is not the case.
+
+00:04:21.910 --> 00:04:27.060
+You can consider partnering with an existing
+ipt provider or selecting a database management
+
+00:04:27.060 --> 00:04:30.430
+system that includes a publishing pathway
+of its own.
+
+00:04:30.430 --> 00:04:36.670
+Whichever you choose, make sure that your
+system allows you to export data as csv or
+
+00:04:36.670 --> 00:04:44.320
+txt files and you will ultimately be able
+to publish your data.
+
+00:04:44.320 --> 00:04:49.690
+This is a summary of the information collected
+in the course survey of software in use by
+
+00:04:49.690 --> 00:04:53.910
+students, mentors and trainers in the GBIF
+community.
+
+00:04:53.910 --> 00:05:03.820
+The link and reference to more details of
+each section, is at the bottom of the slide.
+
+00:05:03.820 --> 00:05:08.740
+Remember that: The purpose of software is
+to help people and not the other way around.
+
+00:05:08.740 --> 00:05:15.620
+Your choice of solution should make your life
+easier but it should also not sacrifice the
+
+00:05:15.620 --> 00:05:20.810
+long term viability of the data that it is
+meant to work with.
+
+00:05:20.810 --> 00:05:28.910
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:05:28.910 --> 00:05:30.400
+platform.
+
+00:05:30.400 --> 00:05:35.790
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:05:35.790 --> 00:05:36.950
+course.
+
+00:05:36.950 --> 00:05:42.122
+The biodiversity data mobilization curriculum
+was originally developed as part of the Biodiversity
+
+00:05:42.122 --> 00:05:46.770
+Information Development Programme funded by
+the European Union.
+
+00:05:46.770 --> 00:05:48.780
+This presentation was originally created by
+Sophie Pamerlon and is narrated by Sharon
+
+00:05:48.780 --> 00:05:53.650
+Grant with additional contributions by BID
+and BIFA Trainers, Mentors and Students.
+

@@ -1,0 +1,406 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.500 --> 00:00:06.100
+En esta presentación, exploraremos los principios y procesos clave que son importantes
+
+00:00:06.100 --> 00:00:11.200
+para una gestión eficaz de los datos.
+
+00:00:11.200 --> 00:00:15.670
+El concepto de gestión de datos incluye una amplia gama de temas, desde formatos de metadatos
+
+00:00:15.670 --> 00:00:17.920
+hasta organización de bases de datos.
+
+00:00:17.920 --> 00:00:22.620
+En esta presentación vamos a discutir un importante conjunto de principios necesarios para
+
+00:00:22.620 --> 00:00:28.900
+mejorar los datos a través de los procesos de limpieza de datos.
+
+00:00:28.900 --> 00:00:30.710
+¿Qué es la limpieza de datos?
+
+00:00:30.710 --> 00:00:34.460
+La limpieza de datos fue definida por Arthur Chapman en 2005 como:
+
+00:00:34.460 --> 00:00:39.460
+"Un proceso utilizado para determinar datos inexactos, incompletos o irrazonables y luego
+
+00:00:39.460 --> 00:00:44.170
+mejorar la calidad mediante la corrección de errores y omisiones detectados".
+
+00:00:44.170 --> 00:00:49.820
+El proceso de limpieza puede incluir comprobaciones de formato, integridad y razonabilidad,
+
+00:00:49.820 --> 00:00:55.560
+identificación de valores atípicos, revisión por expertos en contenido y validación frente a
+
+00:00:55.560 --> 00:01:00.649
+estándares, reglas y convenciones aceptadas .
+
+00:01:00.649 --> 00:01:04.860
+Aunque hay muchos métodos que se pueden aplicar mientras se limpian los datos, vemos el proceso
+
+00:01:04.860 --> 00:01:07.409
+de limpieza en cinco pasos generales:
+
+00:01:07.409 --> 00:01:12.130
+Primero, buscamos determinar y definir los tipos de errores que probablemente estén presentes
+
+00:01:12.130 --> 00:01:13.660
+en nuestros datos.
+
+00:01:13.660 --> 00:01:20.070
+A continuación, realizamos una búsqueda para identificar las instancias en las que se produjeron esos errores.
+
+00:01:20.070 --> 00:01:24.710
+Luego, corregiremos esos errores, siempre que sea posible.
+
+00:01:24.710 --> 00:01:29.950
+Cuando decidimos cuál es el mejor medio para hacer correcciones, queremos documentar tanto los tipos de errores
+
+00:01:29.950 --> 00:01:34.259
+que encontramos como las soluciones que les hemos aplicado.
+
+00:01:34.259 --> 00:01:39.930
+Finalmente, queremos modificar la forma en que se practica la entrada de datos para reducir futuros errores del
+
+00:01:39.930 --> 00:01:41.420
+mismo tipo.
+
+00:01:41.420 --> 00:01:45.020
+(Maletic &amp; Marcus, 2000)
+
+00:01:45.020 --> 00:01:49.810
+Una cosa es cierta: los errores son comunes y siempre podemos esperar encontrarlos en los datos
+
+00:01:49.810 --> 00:01:51.610
+que mantenemos.
+
+00:01:51.610 --> 00:01:57.329
+Nuestro objetivo es aplicar las mejores prácticas, incluidos los principios, procesos y herramientas, para que
+
+00:01:57.329 --> 00:02:02.479
+los datos sean lo más aptos para su uso posible, incluso si no sabemos cómo los usuarios utilizarán
+
+00:02:02.479 --> 00:02:04.390
+los datos.
+
+00:02:04.390 --> 00:02:09.599
+Echemos un vistazo a varios de los principios recomendados de limpieza de datos.
+
+00:02:09.599 --> 00:02:14.400
+Estos principios se presentan para su consideración para que pueda desarrollar y mejorar su
+
+00:02:14.400 --> 00:02:16.950
+propio flujo de trabajo de calidad de datos.
+
+00:02:16.950 --> 00:02:21.260
+El flujo de trabajo que cree debe representar el proceso más eficiente y efectivo para
+
+00:02:21.260 --> 00:02:27.390
+lograr la más alta calidad de datos dados los recursos y la experiencia de su institución.
+
+00:02:27.390 --> 00:02:32.120
+Hable con sus colegas para conocer sus flujos de trabajo, pero en última instancia, debe esforzarse
+
+00:02:32.120 --> 00:02:40.030
+por crear un flujo de trabajo que lo ayude a lograr sus objetivos de calidad de datos.
+
+00:02:40.030 --> 00:02:44.950
+Los dos primeros principios de la limpieza de datos son la planificación y la organización.
+
+00:02:44.950 --> 00:02:47.190
+Planifica cómo quieres que vaya el proceso de limpieza.
+
+00:02:47.190 --> 00:02:52.900
+No es probable que un enfoque disperso o aleatorio produzca resultados consistentes.
+
+00:02:52.900 --> 00:02:57.170
+Desarrolle e implemente una estrategia que se ajuste a los recursos y la experiencia de su institución.
+
+00:02:57.170 --> 00:03:02.590
+Un plan sólido mejorará tanto sus datos como la reputación de su institución entre los
+
+00:03:02.590 --> 00:03:04.840
+usuarios de datos .
+
+00:03:04.840 --> 00:03:09.099
+Uno de los primeros pasos de su plan debe ser organizar los datos.
+
+00:03:09.099 --> 00:03:13.770
+Por ejemplo, puede organizar sus datos por taxón y luego enviar el subconjunto apropiado
+
+00:03:13.770 --> 00:03:18.760
+de datos a las personas con el conocimiento o los recursos para limpiar en función de los nombres.
+
+00:03:18.760 --> 00:03:24.019
+Esto se puede hacer por geografía o base de registro, o incluso en paquetes de datos de
+
+00:03:24.019 --> 00:03:26.370
+tamaño específico en orden numérico.
+
+00:03:26.370 --> 00:03:32.970
+Trabaje con las fortalezas de su institución.
+
+00:03:32.970 --> 00:03:36.790
+Como dice Arthur Chapman, "es mejor prevenir que curar".
+
+00:03:36.790 --> 00:03:41.159
+Al final del día, siempre es más fácil y menos costoso prevenir un error que
+
+00:03:41.159 --> 00:03:43.580
+buscar uno y corregirlo.
+
+00:03:43.580 --> 00:03:47.650
+Cuanto más planifique por adelantado, incluso desde el momento en que se
+
+00:03:47.650 --> 00:03:52.470
+registran los datos en el campo, es probable que encuentre menos errores.
+
+00:03:52.470 --> 00:03:56.620
+Los vocabularios estandarizados y los procedimientos claros para la captura de datos y la entrada de datos son solo
+
+00:03:56.620 --> 00:04:01.400
+algunas de las muchas herramientas que puede utilizar para evitar posibles errores.
+
+00:04:01.400 --> 00:04:06.269
+Asegúrese de que todos en su organización comprendan que la calidad de los datos es
+
+00:04:06.269 --> 00:04:07.409
+responsabilidad de todos .
+
+00:04:07.409 --> 00:04:12.110
+Por supuesto, la responsabilidad principal recae en las personas que mantienen los datos, pero
+
+00:04:12.110 --> 00:04:17.709
+todos, desde los técnicos de campo hasta los estudiantes que realizan la entrada de datos y los curadores eméritos,
+
+00:04:17.709 --> 00:04:23.560
+tienen la responsabilidad de tratar los datos con cuidado y comunicar cualquier error o inconsistencia
+
+00:04:23.560 --> 00:04:28.610
+que puedan descubrir.
+
+00:04:28.610 --> 00:04:33.130
+El mantenimiento de datos es tan efectivo como la experiencia que respalda el proceso y no
+
+00:04:33.130 --> 00:04:38.050
+se puede esperar que una sola persona sepa todo sobre todo.
+
+00:04:38.050 --> 00:04:42.650
+El desarrollo de asociaciones con usuarios de datos y expertos en contenido puede ayudar a que el
+
+00:04:42.650 --> 00:04:45.600
+proceso de calidad de los datos sea ​​más exitoso.
+
+00:04:45.600 --> 00:04:50.630
+Comuníquese con su comunidad de usuarios, tanto dentro como fuera de su institución, y trabaje
+
+00:04:50.630 --> 00:04:56.400
+con ellos para ayudar a mantener sus datos con la más alta calidad.
+
+00:04:56.400 --> 00:05:00.990
+Prioriza tu limpieza para aprovechar los recursos y conocimientos que posee
+
+00:05:00.990 --> 00:05:02.130
+tu institución .
+
+00:05:02.130 --> 00:05:06.360
+Por ejemplo, puede optar por revisar todos los datos registrados por los recolectores que
+
+00:05:06.360 --> 00:05:10.270
+aún están vivos para que los datos importantes no se pierdan más adelante.
+
+00:05:10.270 --> 00:05:14.630
+Si mantiene un gran conjunto de datos, puede optar por priorizar los datos que se pueden limpiar
+
+00:05:14.630 --> 00:05:20.300
+al menor costo mediante procesos automatizados y luego priorizar los errores más difíciles
+
+00:05:20.300 --> 00:05:23.210
+que requieren atención individual.
+
+00:05:23.210 --> 00:05:27.840
+En última instancia, debe priorizar los datos que son de mayor valor para el trabajo
+
+00:05:27.840 --> 00:05:36.449
+de su institución y luego moverse a través de los datos de una manera lógica y ordenada.
+
+00:05:36.449 --> 00:05:40.760
+Algunas veces puede ser una estrategia eficaz establecer algunas medidas de rendimiento antes de que comience
+
+00:05:40.760 --> 00:05:43.520
+el proceso de limpieza.
+
+00:05:43.520 --> 00:05:48.340
+Una medida de desempeño podría ser completar la limpieza de 500 registros cada semana.
+
+00:05:48.340 --> 00:05:52.910
+Otra medida podría ser proporcionar un informe estadístico de la precisión de las correcciones que se
+
+00:05:52.910 --> 00:05:54.949
+están realizando, como por ejemplo:
+
+00:05:54.949 --> 00:06:00.090
+"El 95% de todas las georreferencias corregidas esta semana tienen ahora una incertidumbre en metros de
+
+00:06:00.090 --> 00:06:02.919
+menos de 1000 metros".
+
+00:06:02.919 --> 00:06:06.419
+Este tipo de medidas pueden orientar y orientar a las personas que realizan la
+
+00:06:06.419 --> 00:06:13.169
+limpieza, además de servir como un medio para informar sobre los éxitos y las áreas que necesitan
+
+00:06:13.169 --> 00:06:14.169
+mejorar.
+
+00:06:14.169 --> 00:06:19.259
+En un mundo ideal, habrá desarrollado un plan de mantenimiento de datos que se ha optimizado
+
+00:06:19.259 --> 00:06:22.789
+para que sea lo más eficiente y eficaz posible.
+
+00:06:22.789 --> 00:06:28.470
+La optimización se puede lograr de muchas formas diferentes, incluido el aprovechamiento de las fortalezas
+
+00:06:28.470 --> 00:06:34.419
+de su institución , el establecimiento de objetivos claros y una medida de éxito, y el ajuste regular de sus
+
+00:06:34.419 --> 00:06:39.919
+prioridades en función de los recursos disponibles.
+
+00:06:39.919 --> 00:06:44.169
+Una de las mejores formas de saber qué tan exitosos son sus procesos de limpieza y mantenimiento de datos
+
+00:06:44.169 --> 00:06:48.230
+es buscar comentarios de los usuarios de datos en su comunidad.
+
+00:06:48.230 --> 00:06:52.460
+Esto se puede lograr a través de las asociaciones que discutimos anteriormente, pero también puede buscar
+
+00:06:52.460 --> 00:06:54.600
+comentarios de otras maneras.
+
+00:06:54.600 --> 00:06:58.560
+Una vez así, es revisar la forma en que GBIF presenta sus datos.
+
+00:06:58.560 --> 00:07:03.419
+Puede ver la comparación entre los datos textuales publicados en GBIF y los datos
+
+00:07:03.419 --> 00:07:06.699
+interpretados que GBIF podría haber corregido o actualizado.
+
+00:07:06.699 --> 00:07:11.360
+Estas comparaciones pueden ayudarlo a optimizar su proceso de limpieza de datos, pero también puede
+
+00:07:11.360 --> 00:07:17.039
+ayudar a GBIF a mejorar sus procesos de calidad de datos cuando les brinda retroalimentación de expertos
+
+00:07:17.039 --> 00:07:18.990
+.
+
+00:07:18.990 --> 00:07:24.280
+Una de las mejores formas de lograr el éxito con la limpieza de datos es brindar capacitación y educación
+
+00:07:24.280 --> 00:07:26.910
+a todos los que trabajan con sus datos.
+
+00:07:26.910 --> 00:07:31.860
+Estas pueden ser capacitaciones que usted mismo organiza, capacitaciones locales o regionales en asociación
+
+00:07:31.860 --> 00:07:36.710
+con, o presentadas por, otras instituciones en su área, o talleres y cursos proporcionados
+
+00:07:36.710 --> 00:07:39.450
+por otros grupos, como GBIF.
+
+00:07:39.450 --> 00:07:44.639
+Si necesita capacitación, consulte el sitio web de GBIF con regularidad o comuníquese con los mentores comunitarios de
+
+00:07:44.639 --> 00:07:50.150
+GBIF o los embajadores de datos abiertos de biodiversidad de GBIF, quienes también pueden ser buenos recursos
+
+00:07:50.150 --> 00:07:57.139
+para oportunidades de capacitación y educación.
+
+00:07:57.139 --> 00:08:00.680
+La documentación es uno de los principios más importantes de la limpieza de datos.
+
+00:08:00.680 --> 00:08:03.099
+Esto es cierto de dos formas clave.
+
+00:08:03.099 --> 00:08:08.960
+En primer lugar, independientemente de los procesos que utilice para mantener sus datos, es importante ser transparente
+
+00:08:08.960 --> 00:08:12.110
+sobre cómo se descubren y corrigen los errores.
+
+00:08:12.110 --> 00:08:18.289
+Esta transparencia puede tener un verdadero éxito cuando el proceso de limpieza de datos está bien documentado.
+
+00:08:18.289 --> 00:08:22.919
+Sin una documentación clara y accesible, corre el riesgo de perder las mejores prácticas,
+
+00:08:22.919 --> 00:08:27.590
+crear procesos redundantes y perder la optimización.
+
+00:08:27.590 --> 00:08:33.110
+Una buena documentación le ayudará a evitar errores recurrentes.
+
+00:08:33.110 --> 00:08:36.550
+La documentación también es clave para una buena calidad de los datos.
+
+00:08:36.550 --> 00:08:41.800
+Una buena documentación, en metadatos, por ejemplo, permite a los usuarios de datos determinar la idoneidad
+
+00:08:41.800 --> 00:08:43.769
+para el uso de sus datos.
+
+00:08:43.769 --> 00:08:47.950
+Su documentación no solo debe incluir buenos metadatos, también debe incluir las
+
+00:08:47.950 --> 00:08:54.060
+mejores prácticas, vocabularios estandarizados y autoridades taxonómicas y geográficas utilizadas.
+
+00:08:54.060 --> 00:08:59.430
+Documentar qué datos fueron limpiados por quién lo ayudará a mejorar su optimización,
+
+00:08:59.430 --> 00:09:04.020
+alcanzar medidas de rendimiento y, en última instancia, contar una historia más completa de dónde
+
+00:09:04.020 --> 00:09:11.700
+provienen sus datos y cómo se mejoraron con el tiempo. Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la
+
+00:09:11.700 --> 00:09:16.340
+plataforma e-Learning . Este video es parte de una serie de presentaciones utilizadas en el
+
+00:09:16.340 --> 00:09:17.990
+curso de
+
+00:09:17.990 --> 00:09:22.950
+Movilización de Datos de Biodiversidad de GBIF
+
+00:09:22.950 --> 00:09:23.970
+.
+
+00:09:23.970 --> 00:09:28.690
+El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del
+
+00:09:28.690 --> 00:09:33.149
+Programa de Desarrollo de Información sobre Biodiversidad financiado por la Unión Europea.
+
+00:09:33.149 --> 00:09:37.930
+Esta presentación fue creada originalmente por Nestor Beltran con contribuciones adicionales
+
+00:09:37.930 --> 00:09:43.350
+de David Bloom, BID y BIFA Trainers, Mentores y Estudiantes.
+
+00:09:43.350 --> 00:09:45.860
+Esta presentación ha sido narrada por David Bloom.
+

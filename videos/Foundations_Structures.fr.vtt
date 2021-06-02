@@ -1,0 +1,373 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:01.670 --> 00:00:06.750
+Cette session est un travail de base et fait partie de la section Terminologie.
+
+00:00:06.750 --> 00:00:11.820
+Nous vous présenterons le langage, la terminologie et les définitions de certains des
+
+00:00:11.820 --> 00:00:17.020
+concepts, fonctions et processus de base que vous allez mettre en œuvre pendant
+
+00:00:17.020 --> 00:00:19.810
+le reste du cours.
+
+00:00:19.810 --> 00:00:24.980
+Passons d'abord en revue la structure de cette session.
+
+00:00:24.980 --> 00:00:30.320
+Dans la section STRUCTURES, nous travaillerons à comprendre le champ et les types de données
+
+00:00:30.320 --> 00:00:36.989
+qui contiennent des données, les structures qui aident à organiser et à protéger ces données et enfin à
+
+00:00:36.989 --> 00:00:46.409
+examiner ce que cela signifie pour l'intégrité et la sécurité de vos données.
+
+00:00:46.409 --> 00:00:51.250
+Dans cette section sur les structures de base de données, nous nous concentrerons sur les différents éléments que les
+
+00:00:51.250 --> 00:00:57.109
+bases de données, les outils logiciels et les langages utilisent pour gérer les données que vous entrez.
+
+00:00:57.109 --> 00:01:08.259
+Tout d'abord, examinons les types de champs, également appelés types de données.
+
+00:01:08.259 --> 00:01:14.630
+Les types de données permettent à l'ordinateur de savoir quel type de données est attendu dans un champ particulier.
+
+00:01:14.630 --> 00:01:19.920
+Ceci dicte alors quelles fonctions peuvent être exécutées dessus.
+
+00:01:19.920 --> 00:01:26.201
+Ils peuvent être simples et englober un seul concept ou combiner des concepts en fonction du
+
+00:01:26.201 --> 00:01:31.130
+logiciel ou de la langue que vous utilisez. Dans tous les cas, les éléments de base essentiels sont
+
+00:01:31.130 --> 00:01:35.799
+les mêmes. Examinons donc six que vous rencontrerez le
+
+00:01:35.799 --> 00:01:39.680
+plus souvent.
+
+00:01:39.680 --> 00:01:46.009
+Premiers champs numériques. Ce type de données contient des nombres et il existe
+
+00:01:46.009 --> 00:01:50.829
+2 types: les entiers et les entiers longs et les nombres entiers.
+
+00:01:50.829 --> 00:02:00.189
+Par exemple 1, 2, 3, 99, 2000. La taille du nombre dépend du nombre
+
+00:02:00.189 --> 00:02:02.850
+de bits assignés au champ (plus d'informations à ce sujet plus tard).
+
+00:02:02.850 --> 00:02:11.880
+Pour l'instant, rappelez-vous qu'un long champ entier contiendra un nombre plus grand qu'un entier.
+
+00:02:11.880 --> 00:02:20.400
+Les flottants, également appelés doubles, contiennent des fractions ou des parties de nombres entiers.
+
+00:02:20.400 --> 00:02:31.379
+Par exemple 4.5, 19.47. La chose importante à retenir ici est qu'un
+
+00:02:31.379 --> 00:02:39.349
+flottant a toujours des décimales, donc le nombre 10 sera stocké sous la forme 10,0.
+
+00:02:39.349 --> 00:02:44.330
+Le nombre de décimales faisant partie intégrante du type.
+
+00:02:44.330 --> 00:02:52.760
+Cela a des implications en termes de précision et d'exactitude.
+
+00:02:52.760 --> 00:02:58.890
+Les champs alphanumériques sont également appelés champs de texte, de caractère ou de chaîne.
+
+00:02:58.890 --> 00:03:04.670
+Ils peuvent contenir n'importe quelle lettre, chiffre ou symbole dans le jeu de caractères codés et ont généralement
+
+00:03:04.670 --> 00:03:09.420
+une limite de caractères définie. La saisie de plus de caractères que la
+
+00:03:09.420 --> 00:03:17.849
+limite de caractères peut souvent entraîner une troncature et une perte de données lors de l'enregistrement.
+
+00:03:17.849 --> 00:03:23.099
+Un autre type de champ de texte que vous rencontrerez est le champ de texte non structuré, également
+
+00:03:23.099 --> 00:03:30.900
+connu sous le nom de champs de mémo, de caractères longs ou d'objets blob. Ces types de champs sont utilisés pour contenir de grandes
+
+00:03:30.900 --> 00:03:38.939
+quantités de texte non formaté et, contrairement aux champs alphanumériques, peuvent ne pas avoir de limite de caractères évidente.
+
+00:03:38.939 --> 00:03:44.390
+Dans les systèmes simples, ils sont généralement moins flexibles en termes de traitement; par exemple le
+
+00:03:44.390 --> 00:03:49.980
+tri et l'indexation, que leurs cousins ​​alphanumériques plus petits.
+
+00:03:49.980 --> 00:03:55.790
+Cependant,
+
+00:03:55.790 --> 00:04:03.620
+avec la diminution des coûts de stockage et la montée en puissance des programmes de base de données orientés document NoSQL, tels que MongoDB, cela change.
+
+00:04:03.620 --> 00:04:08.140
+Les champs de valeur système ont une double nature et ce que vous voyez à l'écran n'est généralement pas
+
+00:04:08.140 --> 00:04:12.530
+la valeur réelle que le logiciel stocke en mémoire.
+
+00:04:12.530 --> 00:04:16.940
+Les champs de date et d'heure sont l'exemple le plus courant de ce type de champ.
+
+00:04:16.940 --> 00:04:26.170
+Dans cet exemple, vous avez tapé le 1er mars 1971 dans une cellule d'Excel et appuyez sur retour.
+
+00:04:26.170 --> 00:04:36.410
+Maintenant, il dit 1-mars-71 dans la cellule ET 3/1/1971 dans la barre de fonctions.
+
+00:04:36.410 --> 00:04:41.490
+Excel applique un format d'affichage à la cellule, que vous pouvez modifier à volonté.
+
+00:04:41.490 --> 00:04:47.000
+CEPENDANT, si vous supprimez le format, vous voyez que ce qui est réellement stocké dans le
+
+00:04:47.000 --> 00:04:55.840
+champ est le numéro 25993.00! Vous pouvez donc voir que le champ est en fait
+
+00:04:55.840 --> 00:05:00.880
+un flottant. Vous devez vous méfier car cette valeur système
+
+00:05:00.880 --> 00:05:07.010
+n'est pas la même d'un logiciel à l'autre. Les exportations doivent être vérifiées pour s'assurer que la
+
+00:05:07.010 --> 00:05:13.100
+date réelle est exportée et non la valeur système.
+
+00:05:13.100 --> 00:05:19.700
+Les champs booléens, également appelés champs binaires, ne contiennent qu'une des deux valeurs qui représentent
+
+00:05:19.700 --> 00:05:24.760
+un un ou un zéro. Il s'agit d'un cas particulier d'un champ Valeur système
+
+00:05:24.760 --> 00:05:30.680
+comme mentionné précédemment en ce que, bien que le logiciel enregistre en fait un nombre, il
+
+00:05:30.680 --> 00:05:37.810
+affiche souvent des valeurs telles que: Oui / Non, Oui / non, O / N, Vrai / Faux.
+
+00:05:37.810 --> 00:05:44.480
+Vous devez prendre soin de savoir dans quel sens le système que vous utilisez se traduit.
+
+00:05:44.480 --> 00:05:50.960
+Un 1 est-il un oui ou un non?
+
+00:05:50.960 --> 00:05:55.660
+Les champs de texte structuré sont moins courants mais mentionnés ici par souci d'exhaustivité.
+
+00:05:55.660 --> 00:06:00.770
+Ce sont des champs qui peuvent être soit constitués de combinaisons des types de données simples, soit
+
+00:06:00.770 --> 00:06:06.620
+même définis par les données elles-mêmes. Le plus souvent, ils sont utilisés dans les langages de programmation
+
+00:06:06.620 --> 00:06:11.210
+pour permettre la flexibilité et la gestion de concepts complexes.
+
+00:06:11.210 --> 00:06:17.130
+Un exemple est le champ de facteur utilisé dans le langage de programmation R, qui est défini comme
+
+00:06:17.130 --> 00:06:30.940
+un vecteur de type contenant un ensemble de codes numériques avec des niveaux à valeur de caractère.
+
+00:06:30.940 --> 00:06:36.500
+Maintenant que vous avez une compréhension des types de champs utilisés pour représenter vos éléments de données
+
+00:06:36.500 --> 00:06:42.130
+, parlons des conteneurs ou des structures, que de nombreux programmes et logiciels de base de données utilisent pour
+
+00:06:42.130 --> 00:06:48.720
+rassembler et afficher vos données.
+
+00:06:48.720 --> 00:06:53.720
+Le premier est la cellule. Il s'agit de la plus petite structure de données, elle contient
+
+00:06:53.720 --> 00:07:01.860
+une valeur unique et un seul type de données lui est associé.
+
+00:07:01.860 --> 00:07:06.340
+Il y a un concept dont vous devez vous méfier en ce qui concerne les cellules et c'est la
+
+00:07:06.340 --> 00:07:12.330
+cellule vide. Une cellule vide ne signifie pas nécessairement un champ vide.
+
+00:07:12.330 --> 00:07:18.180
+Certains logiciels remplissent un champ vide avec une valeur système basée sur le type de données.
+
+00:07:18.180 --> 00:07:26.880
+Les exemples sont NULL NA ou même zéro!
+
+00:07:26.880 --> 00:07:31.180
+Lorsque vous commencez à organiser les cellules, vous commencez à créer une grille.
+
+00:07:31.180 --> 00:07:37.460
+Les grilles ont une structure implicite sous la forme de lignes.
+
+00:07:37.460 --> 00:07:45.500
+Et des colonnes.
+
+00:07:45.500 --> 00:07:51.440
+Lorsque vous organisez des cellules en lignes et en colonnes, vous obtenez évidemment une grille!
+
+00:07:51.440 --> 00:07:54.220
+Cela ressemble beaucoup à une feuille de calcul, n'est-ce pas?
+
+00:07:54.220 --> 00:07:58.280
+Hé bien oui. La différence cependant entre une
+
+00:07:58.280 --> 00:08:09.080
+grille de feuille de calcul et un tableau réside dans la force des liens qui maintiennent les lignes et les colonnes ensemble.
+
+00:08:09.080 --> 00:08:14.770
+Alors parlons maintenant de ces connexions. Quelles sont les implications pour l'intégrité et la
+
+00:08:14.770 --> 00:08:24.330
+sécurité de vos données de relations non forcées lâches entre lignes et colonnes?
+
+00:08:24.330 --> 00:08:29.320
+Ce qui rend réellement une table utile, ce sont les connexions que nous créons pour donner un sens aux données
+
+00:08:29.320 --> 00:08:34.439
+dans la structure. Nous créons intrinsèquement des modèles d'attributs
+
+00:08:34.439 --> 00:08:42.779
+qui transforment les données en informations. Les lignes deviennent des enregistrements et les colonnes deviennent des attributs.
+
+00:08:42.779 --> 00:08:48.410
+Dans une feuille de calcul cependant, les connexions entre les cellules sont idiomatiques, lâches et non appliquées.
+
+00:08:48.410 --> 00:08:54.610
+Il est facile pour les attributs entre les lignes de se mélanger ou pour les valeurs
+
+00:08:54.610 --> 00:09:05.339
+changées et alors la signification est perdue.
+
+00:09:05.339 --> 00:09:11.480
+Ce manque de connexions forcées rend une feuille de calcul facile à utiliser, mais ces mêmes qualités
+
+00:09:11.480 --> 00:09:16.350
+posent également des problèmes. Les erreurs sont faciles à commettre et difficiles à détecter
+
+00:09:16.350 --> 00:09:23.930
+- Les connexions et les relations ne sont pas documentables et sont donc sujettes à interprétation et mutation.
+
+00:09:23.930 --> 00:09:28.939
+Les feuilles de calcul ne sont pas conçues pour évoluer en termes de taille ou de nombre d'utilisateurs - elles
+
+00:09:28.939 --> 00:09:36.960
+peuvent donc être lentes, accidentelles et facilement corrompues. Les feuilles de calcul sont faciles à copier et à envoyer par e-mail
+
+00:09:36.960 --> 00:09:49.709
+. La question est quelle est la solution?
+
+00:09:49.709 --> 00:09:53.920
+Regardons en arrière, les connexions un peu plus en détail.
+
+00:09:53.920 --> 00:10:00.490
+Nous comprenons généralement que les données de chaque ligne d'un tableau ont une signification.
+
+00:10:00.490 --> 00:10:06.790
+Par exemple, chaque ligne peut représenter un spécimen ou un taxon qui a été trouvé à un endroit particulier,
+
+00:10:06.790 --> 00:10:13.600
+à un moment donné, par une personne en particulier. Il serait étrange d'avoir une ligne dans un tableau
+
+00:10:13.600 --> 00:10:19.560
+qui représente un spécimen suivie d'une ligne qui représente un site de collecte.
+
+00:10:19.560 --> 00:10:27.470
+Nous souhaitons également souvent analyser, trier et comparer les valeurs d'attributs particuliers entre les lignes.
+
+00:10:27.470 --> 00:10:32.779
+Par exemple, vous voudrez peut-être trouver le poids moyen de toutes les chauves-souris kényanes.
+
+00:10:32.779 --> 00:10:39.080
+Donc, idéalement, nous voulons utiliser un système pour stocker nos données qui: 1) maintient toujours les lignes ensemble;
+
+00:10:39.080 --> 00:10:45.230
+2) ne mélange pas les types de données; 3) et sépare les données de chaque tableau en un seul concept ou
+
+00:10:45.230 --> 00:10:57.500
+thème. Ce sont des fonctions d'une base de données!
+
+00:10:57.500 --> 00:11:03.500
+Les fonctions d'une véritable base de données lient par nature les lignes entre elles et les colonnes ne peuvent avoir qu'un
+
+00:11:03.500 --> 00:11:08.879
+seul type de données. Les tables de la base de données sont maintenues ensemble par des
+
+00:11:08.879 --> 00:11:14.089
+liens virtuels appelés clés. Ces clés sont des identifiants qui correspondent entre les
+
+00:11:14.089 --> 00:11:21.660
+tables et permettent aux données d'être connectées efficacement. Ce sont ces 2 concepts clés qui distinguent
+
+00:11:21.660 --> 00:11:29.389
+un tableur d'une base de données.
+
+00:11:29.389 --> 00:11:35.649
+En revue ensuite, nous avons examiné les 6 types de données les plus courants, les éléments de base
+
+00:11:35.649 --> 00:11:43.470
+de la structure de données et avons distingué entre une grille de feuille de calcul et une table de base de données.
+
+00:11:43.470 --> 00:11:48.139
+Comprendre ces éléments et comment ils interagissent les uns avec les autres vous permettra de
+
+00:11:48.139 --> 00:11:57.170
+mieux déterminer les meilleurs moyens de manipuler et de documenter les données qui relèvent de votre
+
+00:11:57.170 --> 00:11:59.510
+garde.
+
+00:11:59.510 --> 00:12:04.990
+N'oubliez pas que: lorsque vous réalisez la différence entre le conteneur et le contenu, vous
+
+00:12:04.990 --> 00:12:08.949
+aurez des connaissances. Utiliser les termes corrects pour décrire à la fois vos
+
+00:12:08.949 --> 00:12:13.930
+données et les structures que vous créez et utilisez pour les stocker; est le moyen le plus important
+
+00:12:13.930 --> 00:12:19.749
+de s'assurer qu'il reste pertinent et utilisable. Ne sous-estimez jamais les dommages qui peuvent être
+
+00:12:19.749 --> 00:12:30.810
+causés à des informations inestimables par des descriptions et un stockage imprudents.
+
+00:12:30.810 --> 00:12:35.689
+Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la
+
+00:12:35.689 --> 00:12:41.089
+plateforme e-Learning . Cette vidéo fait partie d'une série de présentations
+
+00:12:41.089 --> 00:12:45.399
+utilisées dans le cours de mobilisation des données sur la biodiversité du GBIF.
+
+00:12:45.399 --> 00:12:51.129
+Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du programme de développement de l'
+
+00:12:51.129 --> 00:12:55.730
+information sur la biodiversité financé par l'Union européenne.
+
+00:12:55.730 --> 00:13:01.860
+Cette présentation a été créée et racontée à l'origine par Sharon Grant avec des contributions supplémentaires
+
+00:13:01.860 --> 00:13:05.079
+de formateurs, mentors et étudiants du BID et du BIFA.
+

@@ -1,0 +1,382 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:02.669 --> 00:00:07.910
+Esta sesión es un trabajo fundamental y parte de la sección de Terminología.
+
+00:00:07.910 --> 00:00:12.780
+Te presentaremos el lenguaje, la terminología y las definiciones de algunos de los
+
+00:00:12.780 --> 00:00:17.949
+conceptos, funciones y procesos básicos que pondrás en uso durante
+
+00:00:17.949 --> 00:00:22.160
+el resto del curso.
+
+00:00:22.160 --> 00:00:27.310
+Primero repasemos la estructura de esta sesión.
+
+00:00:27.310 --> 00:00:33.120
+En la sección de DEFINICIONES intentaremos primero aclarar el uso de la palabra “Datos”.
+
+00:00:33.120 --> 00:00:39.100
+Luego, veremos la terminología que rodea a Campos, Etiquetas y Listas.
+
+00:00:39.100 --> 00:00:44.449
+Y, por último, enderezaremos algunos conceptos sobre los personajes y sus mapeos que
+
+00:00:44.449 --> 00:00:47.559
+ayudarán a prevenir errores de datos no deseados.
+
+00:00:47.559 --> 00:00:50.299
+Primeras definiciones.
+
+00:00:50.299 --> 00:00:54.679
+En esta sección veremos algunos de los muchos términos y frases diferentes que existen
+
+00:00:54.679 --> 00:00:58.949
+en el mundo de la gestión de datos e información.
+
+00:00:58.949 --> 00:01:03.719
+Los usaremos a lo
+
+00:01:03.719 --> 00:01:09.150
+largo del curso y es importante que se familiarice con cuándo y cómo usarlos.
+
+00:01:09.150 --> 00:01:20.109
+Centrémonos por un momento en algunas palabras y frases comunes que contienen los datos de la palabra.
+
+00:01:20.109 --> 00:01:31.641
+Todas las frases aquí incluyen la palabra datos, pero ¿son todas iguales? Si no,
+
+00:01:31.641 --> 00:01:39.560
+¿cuál es la diferencia? Base de datos, lenguaje de base de datos, programa de base de datos, herramienta de limpieza de datos
+
+00:01:39.560 --> 00:01:49.979
+Entonces, ¿qué es una "base de datos"?
+
+00:01:49.979 --> 00:01:57.310
+Hay muchas definiciones, pero lo que todas tienen en común es el tema de que una base de datos
+
+00:01:57.310 --> 00:02:04.639
+es una colección estructurada y organizada de datos y / o información guardada en una computadora.
+
+00:02:04.639 --> 00:02:10.190
+¡Todo lo demás en la lista es solo una forma de ayudarlo a lograr este nirvana de datos!
+
+00:02:10.190 --> 00:02:14.980
+Profundicemos un poco más en esos otros términos.
+
+00:02:14.980 --> 00:02:20.600
+Echemos un vistazo a la frase "idioma de la base de datos".
+
+00:02:20.600 --> 00:02:26.510
+Según el diccionario de inglés de Oxford, “lenguaje” es el método de comunicación humana,
+
+00:02:26.510 --> 00:02:30.519
+[…], que consiste en el uso de palabras [o símbolos] de forma estructurada y convencional
+
+00:02:30.519 --> 00:02:32.129
+.
+
+00:02:32.129 --> 00:02:38.120
+Para nuestros propósitos, los lenguajes de bases de datos y sus aliados cercanos, los lenguajes de matriz son la forma
+
+00:02:38.120 --> 00:02:44.650
+en que un ser humano se comunica con una computadora para manipular y mover datos.
+
+00:02:44.650 --> 00:02:47.080
+Algunos ejemplos que puede haber encontrado son:
+
+00:02:47.080 --> 00:02:52.239
+Java, SPARQL, SQL y Python.
+
+00:02:52.239 --> 00:02:57.879
+Son simplemente métodos que se utilizan para definir y crear tablas, vistas y consultas, y también
+
+00:02:57.879 --> 00:03:05.239
+permiten a los usuarios acceder, actualizar, almacenar y mover datos.
+
+00:03:05.239 --> 00:03:10.299
+Ahora veamos la frase "programa o software de base de datos".
+
+00:03:10.299 --> 00:03:14.950
+Una vez más, acudiendo al diccionario de inglés de Oxford, un “programa / programa” es un conjunto de
+
+00:03:14.950 --> 00:03:19.660
+medidas o actividades relacionadas con un objetivo particular a largo plazo.
+
+00:03:19.660 --> 00:03:24.360
+En este contexto, un "programa o software de base de datos" combina y presenta funciones
+
+00:03:24.360 --> 00:03:30.690
+y características para manipular datos, juntos es una interfaz unificada.
+
+00:03:30.690 --> 00:03:33.540
+Ejemplos que puede encontrar son:
+
+00:03:33.540 --> 00:03:36.480
+Microsoft Access, FilemakerPro y Oracle
+
+00:03:36.480 --> 00:03:45.019
+Entonces, los programas o software de base de datos son utilidades agrupadas que permiten a un usuario, a través de un
+
+00:03:45.019 --> 00:03:54.920
+lenguaje de base de datos , almacenar, administrar, consultar y reportar datos almacenados en el sistema.
+
+00:03:54.920 --> 00:04:00.900
+El último término es "herramienta de limpieza de datos".
+
+00:04:00.900 --> 00:04:06.379
+Las herramientas de limpieza de datos son sistemas cuyas utilidades se centran en la manipulación de datos con
+
+00:04:06.379 --> 00:04:10.359
+el objetivo de aumentar la aptitud para su uso.
+
+00:04:10.359 --> 00:04:14.769
+Algunos ejemplos con los que puede estar familiarizado o que aprenderá durante el curso son:
+
+00:04:14.769 --> 00:04:17.600
+OpenRefine, MatLab y hojas de cálculo
+
+00:04:17.600 --> 00:04:24.470
+Una herramienta de limpieza de datos debe ayudar al usuario en el descubrimiento y reparación de datos desordenados
+
+00:04:24.470 --> 00:04:30.660
+para aumentar la calidad.
+
+00:04:30.660 --> 00:04:35.500
+Continuando con algunos términos más con los que debería estar familiarizado, veremos las
+
+00:04:35.500 --> 00:04:44.390
+diferencias entre los términos Campo, Etiqueta y Lista.
+
+00:04:44.390 --> 00:04:50.810
+A menudo escuchará referencias a nombres de campos o columnas y etiquetas o encabezados de campos.
+
+00:04:50.810 --> 00:04:57.470
+A menudo se usarán indistintamente, sin embargo, son cosas diferentes.
+
+00:04:57.470 --> 00:05:01.310
+Los nombres de campo o columna se refieren a la columna real en la tabla de la base de datos.
+
+00:05:01.310 --> 00:05:08.570
+Son a menudo breves, no siempre en un lenguaje sencillo, a veces generados por computadora; pero
+
+00:05:08.570 --> 00:05:13.860
+en una base de datos debidamente formada, SIEMPRE son únicos.
+
+00:05:13.860 --> 00:05:21.190
+Los nombres de campo casi siempre son usados ​​por lenguajes de bases de datos, porque evitan la ambigüedad.
+
+00:05:21.190 --> 00:05:25.611
+Las etiquetas y los encabezados, por otro lado, se refieren a las versiones legibles por humanos de los
+
+00:05:25.611 --> 00:05:27.040
+nombres de los campos .
+
+00:05:27.040 --> 00:05:32.620
+La mayoría de las veces los verá en la interfaz gráfica de usuario de su software y en exportaciones
+
+00:05:32.620 --> 00:05:34.570
+e informes.
+
+00:05:34.570 --> 00:05:39.970
+En algunos programas, de hecho, puede tener diferentes etiquetas para el mismo campo en un usuario por usuario
+
+00:05:39.970 --> 00:05:41.250
+o grupo.
+
+00:05:41.250 --> 00:05:49.740
+A medida que trabaja con sus datos, encontrará
+
+00:05:49.740 --> 00:05:54.700
+las frases "lista desplegable" y "vocabulario controlado" y, en la superficie, pueden
+
+00:05:54.700 --> 00:05:57.030
+parecer iguales.
+
+00:05:57.030 --> 00:06:03.260
+De hecho, ambas son herramientas poderosas para ayudarlo a mantener sus datos limpios, pero son diferentes.
+
+00:06:03.260 --> 00:06:09.720
+Una lista desplegable, también llamada a veces tabla de búsqueda, es un elemento de entrada de datos que
+
+00:06:09.720 --> 00:06:12.760
+se crea en el software de su base de datos.
+
+00:06:12.760 --> 00:06:16.760
+Le permite seleccionar un valor de un conjunto predefinido de opciones.
+
+00:06:16.760 --> 00:06:24.241
+También se pueden generar a partir de los datos mismos sobre la marcha.
+
+00:06:24.241 --> 00:06:29.130
+Un vocabulario controlado, por otro lado, es un conjunto de valores
+
+00:06:29.130 --> 00:06:34.030
+específico de dominio muy estrictamente definido que debe aplicarse a un campo en particular.
+
+00:06:34.030 --> 00:06:38.560
+Son parte integral de un estándar bien definido.
+
+00:06:38.560 --> 00:06:47.810
+Estos valores se pueden utilizar en una lista desplegable como se mencionó anteriormente.
+
+00:06:47.810 --> 00:06:58.030
+En esta sección veremos qué significa el término carácter en relación con los datos y las computadoras.
+
+00:06:58.030 --> 00:07:04.880
+Como recordatorio, las computadoras "ven" en binario. Todo lo que escribe se guarda en la memoria
+
+00:07:04.880 --> 00:07:07.240
+como una serie de unos y ceros.
+
+00:07:07.240 --> 00:07:12.500
+La computadora no "ve" el repertorio de letras y símbolos en su teclado.
+
+00:07:12.500 --> 00:07:17.050
+Necesita un mapa para traducir el juego de caracteres que escribiría o escribiría, a su
+
+00:07:17.050 --> 00:07:23.390
+lenguaje binario y luego volver a mostrarlo en la pantalla o en una impresora.
+
+00:07:23.390 --> 00:07:26.430
+Este mapa se compone de dos partes:
+
+00:07:26.430 --> 00:07:29.360
+el "conjunto de caracteres codificados" y
+
+00:07:29.360 --> 00:07:32.090
+la "codificación de caracteres". A
+
+00:07:32.090 --> 00:07:37.940
+cada símbolo o glifo se le asigna un valor numérico y ese número se convierte a
+
+00:07:37.940 --> 00:07:43.240
+binario.
+
+00:07:43.240 --> 00:07:49.400
+En este ejemplo, vemos cómo se usa la codificación de caracteres para mapear la letra A mayúscula en el
+
+00:07:49.400 --> 00:07:52.410
+alfabeto occidental.
+
+00:07:52.410 --> 00:07:59.050
+El valor ASCII para la letra A mayúscula es el número decimal 65
+
+00:07:59.050 --> 00:08:02.710
+que en HEXIDECIMAL es 041
+
+00:08:02.710 --> 00:08:13.570
+y en BINARIO 01000001
+
+00:08:13.570 --> 00:08:24.380
+Intente asignar su propio nombre a Binary usando el enlace en la parte inferior de la pantalla.
+
+00:08:24.380 --> 00:08:31.050
+En efecto, lo que está sucediendo es que cuando escribe en un teclado y guarda un archivo, el software
+
+00:08:31.050 --> 00:08:35.649
+que está utilizando seleccionará una codificación para guardar con él.
+
+00:08:35.649 --> 00:08:40.750
+Cuando abra ese archivo nuevamente, el software necesita saber qué codificación (mapa) usar
+
+00:08:40.750 --> 00:08:58.509
+para volver a mostrarle la información correctamente. Esta tabla muestra algunos ejemplos de codificación de caracteres y conjuntos de caracteres más comunes.
+
+00:08:58.509 --> 00:09:02.449
+Entonces, ¿por qué es esto importante para usted como custodio de datos?
+
+00:09:02.449 --> 00:09:06.949
+Digamos que traduce el comienzo del soliloquio de Hamlet
+
+00:09:06.949 --> 00:09:09.899
+"Ser o no ser, esa es la cuestión"
+
+00:09:09.899 --> 00:09:17.430
+al francés y luego guarda el archivo con un editor de texto que usa la codificación Latin-1
+
+00:09:17.430 --> 00:09:28.139
+Luego lo envía a un colega para verificar la traducción. ¡Voila!
+
+00:09:28.139 --> 00:09:34.100
+Cuando abren el archivo en MicroSoft Word, esto es lo que ven… ¡
+
+00:09:34.100 --> 00:09:35.850
+Mon dieu!
+
+00:09:35.850 --> 00:09:39.399
+Hay algunos personajes inesperados.
+
+00:09:39.399 --> 00:09:45.690
+Olvidó decirle a su colega que estaba usando Latin-1 como codificación.
+
+00:09:45.690 --> 00:09:50.589
+MicroSoft Word en su extremo se configuró para usar el conjunto de codificación Unicode UTF-8.
+
+00:09:50.589 --> 00:09:53.579
+Los mapas no coincidían.
+
+00:09:53.579 --> 00:10:04.730
+Dependiendo del software, los datos pueden estar irremediablemente dañados.
+
+00:10:04.730 --> 00:10:08.990
+En revisión, hemos analizado las diferencias entre las frases:
+
+00:10:08.990 --> 00:10:18.600
+Base de datos; idioma de la base de datos; programa de base de datos, herramienta de limpieza de datos; y también entre
+
+00:10:18.600 --> 00:10:26.080
+nombres de campo y etiquetas de campo; Listas desplegables y vocabularios controlados y, por último, analizamos los
+
+00:10:26.080 --> 00:10:29.300
+repertorios, los conjuntos codificados y las codificaciones según se relacionan con los personajes
+
+00:10:29.300 --> 00:10:48.730
+. Hemos demostrado que, aunque los términos pueden parecer similares, de hecho son muy diferentes y la consecuencia de confundirlos puede ser nefasta. .
+
+00:10:48.730 --> 00:10:49.730
+Recuerde que:
+
+00:10:49.730 --> 00:10:53.190
+“... El primer paso en la sabiduría es conocer las cosas en sí mismas.
+
+00:10:54.639 --> 00:10:59.589
+A menudo damos por sentado que existe un lenguaje completo asociado con la
+
+00:10:59.589 --> 00:11:04.610
+informática de la biodiversidad que no es un lugar común y que debe aprenderse.
+
+00:11:04.610 --> 00:11:09.240
+No hay que avergonzarse de volver a lo básico y familiarizarse con el vocabulario, la
+
+00:11:09.240 --> 00:11:21.470
+gramática y la sintaxis como con cualquier idioma nuevo.
+
+00:11:21.470 --> 00:11:26.730
+Gracias por escuchar. Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la
+
+00:11:26.730 --> 00:11:29.350
+plataforma e-Learning .
+
+00:11:29.350 --> 00:11:35.470
+Este video es parte de una serie de presentaciones utilizadas en el curso de Movilización de Datos de Biodiversidad de GBIF
+
+00:11:35.470 --> 00:11:40.050
+. El plan de estudios de movilización de datos sobre biodiversidad
+
+00:11:40.050 --> 00:11:45.490
+se desarrolló originalmente como parte del Programa de Desarrollo de Información sobre Biodiversidad financiado por
+
+00:11:45.490 --> 00:11:48.139
+la Unión Europea.
+
+00:11:48.139 --> 00:11:54.930
+Esta presentación fue creada y narrada originalmente por Sharon Grant con contribuciones adicionales
+
+00:11:54.930 --> 00:11:58.379
+de los instructores, mentores y estudiantes de BID y BIFA.
+

@@ -1,0 +1,611 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.760 --> 00:00:03.200
+En esta presentación,
+
+00:00:03.200 --> 00:00:07.520
+le presentaremos los estándares de datos en lo que respecta a los datos de biodiversidad.
+
+00:00:08.160 --> 00:00:11.360
+En particular, nos centraremos en el estándar Darwin Core.
+
+00:00:14.080 --> 00:00:18.000
+El ingeniero e industrial W. Edwards Deming dijo:
+
+00:00:18.800 --> 00:00:23.280
+“Estandarización no significa que todos usemos el mismo color y tejido de tela,
+
+00:00:23.920 --> 00:00:30.000
+comamos sándwiches estándar o vivamos en habitaciones estándar con mobiliario estándar.
+
+00:00:30.000 --> 00:00:35.600
+Las casas de infinita variedad de diseño se construyen con algunos tipos de ladrillos y con madera de
+
+00:00:35.600 --> 00:00:41.200
+tamaños estándar, y con tuberías de agua y calefacción y accesorios de dimensiones estándar ".
+
+00:00:43.200 --> 00:00:46.800
+Lo que estaba tratando de decir es que usar la estandarización
+
+00:00:46.800 --> 00:00:48.880
+no nos impide ser creativos.
+
+00:00:49.680 --> 00:00:53.520
+También nos estaba mostrando que ya vivimos con estándares a nuestro alrededor.
+
+00:00:55.120 --> 00:00:57.840
+A medida que avancemos, definiremos el término "Estándar"
+
+00:00:58.480 --> 00:01:01.520
+y veremos cómo interactuamos con los estándares todos los días.
+
+00:01:02.080 --> 00:01:06.320
+Luego, le presentaremos los estándares de información sobre biodiversidad,
+
+00:01:06.320 --> 00:01:11.840
+incluido el Estándar básico de Darwin, que continuará utilizando a lo largo de este curso.
+
+00:01:14.320 --> 00:01:15.680
+Entonces, ¿qué es un estándar?
+
+00:01:16.240 --> 00:01:17.600
+En su forma más simple, es:
+
+00:01:17.600 --> 00:01:19.440
+"Una forma acordada de hacer algo".
+
+00:01:20.400 --> 00:01:23.920
+Los estándares son combinaciones de normas, convenciones,
+
+00:01:23.920 --> 00:01:27.600
+especificaciones, requisitos, restricciones y reglas.
+
+00:01:31.680 --> 00:01:36.080
+El objetivo principal de las normas es crear un marco de "entendimiento mutuo".
+
+00:01:36.880 --> 00:01:39.840
+Deben proporcionar claridad y ayudar a la comunicación.
+
+00:01:40.880 --> 00:01:44.000
+Ejemplos de cosas cotidianas que encontramos que hacen
+
+00:01:44.000 --> 00:01:47.280
+uso de estándares para ayudar a la comunicación de información son:
+
+00:01:48.160 --> 00:01:49.120
+Unidades de medida
+
+00:01:50.000 --> 00:01:50.960
+Sistemas numéricos
+
+00:01:51.680 --> 00:01:52.320
+Alfabetos
+
+00:01:53.200 --> 00:01:53.840
+Idiomas
+
+00:01:54.480 --> 00:01:55.200
+Emojis
+
+00:01:55.760 --> 00:01:56.800
+Dirección postal
+
+00:01:57.360 --> 00:01:58.720
+Códigos de barras de
+
+00:01:58.720 --> 00:01:59.440
+código Morse
+
+00:02:04.560 --> 00:02:07.840
+Tomemos un ejemplo muy específico y lo desglosamos.
+
+00:02:08.640 --> 00:02:13.840
+Aquí, para comunicar de forma precisa y repetida una posición en la tierra, una
+
+00:02:13.840 --> 00:02:21.840
+latitud y una longitud, es en realidad una combinación de al menos 8 estándares.
+
+00:02:22.480 --> 00:02:24.960
+medición - formato de coordenadas geográficas
+
+00:02:25.840 --> 00:02:28.080
+- grados, minutos, segundos
+
+00:02:29.120 --> 00:02:31.680
+sistema numérico - números sexagesimales
+
+00:02:32.880 --> 00:02:34.960
+- idioma indoárabe - alfabeto inglés
+
+00:02:35.920 --> 00:02:37.040
+- símbolos latinos
+
+00:02:37.840 --> 00:02:38.800
+- tipografía de
+
+00:02:39.520 --> 00:02:40.880
+fuente - Los
+
+00:02:41.840 --> 00:02:42.880
+estándares
+
+00:02:47.280 --> 00:02:50.960
+Roboto brindan formas de restringir la gama de posibilidades.
+
+00:02:51.600 --> 00:02:55.440
+En las presentaciones anteriores de Foundations, aprendió sobre tipos de datos,
+
+00:02:56.080 --> 00:02:58.800
+esquemas, formatos y codificaciones de caracteres.
+
+00:03:00.000 --> 00:03:04.800
+Cada uno de estos se puede utilizar para restringir la gama de posibilidades dentro de los términos de un Estándar.
+
+00:03:06.560 --> 00:03:12.320
+Los tipos de datos pueden restringir los valores de un campo. Entonces, texto alfanumérico en un campo de texto,
+
+00:03:12.880 --> 00:03:15.680
+decimales en un flotante. Sí / No en un booleano.
+
+00:03:17.200 --> 00:03:20.800
+Un esquema de codificación puede restringir el rango de valores en un campo.
+
+00:03:21.600 --> 00:03:27.680
+Por ejemplo, la lista de posibles valores de latitud tiene un rango: entre -90 y 90.
+
+00:03:29.840 --> 00:03:33.360
+Un formato puede restringir la representación de un dato en un campo.
+
+00:03:33.920 --> 00:03:40.720
+Por ejemplo, si un dato aparece como año mes día, día mes año o mes día año.
+
+00:03:42.640 --> 00:03:46.560
+Y luego, la codificación de caracteres proporciona las reglas para interpretar bytes de datos.
+
+00:03:47.440 --> 00:03:49.840
+Para nuestros propósitos, usaremos UTF-8.
+
+00:03:53.600 --> 00:03:56.800
+Durante este curso, aprenderá a compartir sus datos.
+
+00:03:56.800 --> 00:03:59.840
+Como tal, encontrará estándares para transferir datos.
+
+00:04:01.040 --> 00:04:06.240
+Un esquema de aplicación permite la combinación de estándares de datos para un propósito específico.
+
+00:04:07.280 --> 00:04:11.120
+Por ejemplo, utilizando términos de Darwin Core dentro de los Archivos de Darwin Core.
+
+00:04:11.840 --> 00:04:14.880
+Profundizaremos más en ambos en solo unos momentos.
+
+00:04:16.640 --> 00:04:21.440
+Nuevamente, utilizará el formato, pero esta vez el formato restringe las estructuras del conjunto de datos.
+
+00:04:22.160 --> 00:04:27.840
+Un conjunto de datos puede hacer uso de csv, xml, json y rdf.
+
+00:04:29.440 --> 00:04:31.920
+Y por último, dispondrá de un protocolo de transferencia,
+
+00:04:31.920 --> 00:04:35.760
+que proporciona información sobre cómo y dónde enviar la información.
+
+00:04:36.720 --> 00:04:46.800
+Estos pueden incluir http (protocolo de transferencia de hipertexto), ftp (protocolo de transferencia de archivos) y smtp
+
+00:04:46.800 --> 00:04:50.960
+(protocolo simple de transferencia de correo o, si lo desea, enviar correo a las personas).
+
+00:04:54.240 --> 00:04:59.520
+En el campo de la informática de la biodiversidad, ya hay muchos estándares disponibles
+
+00:04:59.520 --> 00:05:05.120
+que pueden ayudarlo a trabajar con sus datos. El USGS tiene una definición muy específica de estos:
+
+00:05:06.160 --> 00:05:10.160
+“Los estándares de datos son las reglas por las cuales se describen y registran los datos.
+
+00:05:10.720 --> 00:05:14.080
+Para compartir, intercambiar y comprender datos,
+
+00:05:14.080 --> 00:05:16.880
+debemos estandarizar el formato y el significado.
+
+00:05:18.000 --> 00:05:22.560
+El resultado de utilizar estos estándares, cuando corresponda, es que aumentará la
+
+00:05:22.560 --> 00:05:30.080
+integridad, precisión y coherencia de los datos al aclarar el significado ambiguo y minimizar los datos redundantes.
+
+00:05:31.680 --> 00:05:36.000
+Aquellos que es probable que encuentre o use de manera regular pueden incluir:
+
+00:05:36.720 --> 00:05:39.200
+Estándar de lenguaje de metadatos ecológicos (EML)
+
+00:05:39.200 --> 00:05:41.440
+Descripción de medios de Audubon (también conocido como Audubon Core)
+
+00:05:41.440 --> 00:05:43.680
+Red global de biodiversidad del genoma (GGBN)
+
+00:05:44.320 --> 00:05:47.920
+Proyecto de estándares de datos oceánicos y mejores prácticas (ODSBP)
+
+00:05:47.920 --> 00:05:52.320
+Y por último , pero no menos importante, dedicaremos el resto de esta discusión a Darwin Core.
+
+00:05:53.120 --> 00:05:58.560
+El estándar Darwin Core le permitirá compartir sus conjuntos de datos de eventos, taxonómicos y de ocurrencia.
+
+00:06:02.800 --> 00:06:07.680
+Darwin Core es un estándar de biodiversidad desarrollado por la comunidad de Biodiversity Informatics.
+
+00:06:08.560 --> 00:06:11.040
+Fue desarrollado originalmente bajo el
+
+00:06:11.040 --> 00:06:15.680
+Grupo de Trabajo de Bases de Datos Taxonímicos o TDWG, pronunciado TDWG.
+
+00:06:16.400 --> 00:06:21.440
+En los últimos años, el grupo ha cambiado de nombre, Estándares de información sobre biodiversidad.
+
+00:06:22.000 --> 00:06:26.000
+Pero el acrónimo persiste ya que a la comunidad le gusta mucho el nombre TDWG.
+
+00:06:28.400 --> 00:06:34.080
+“La norma incluye un glosario de términos (en otros contextos, estos pueden denominarse propiedades,
+
+00:06:34.080 --> 00:06:40.240
+elementos, campos, columnas, atributos o conceptos) destinados a facilitar el intercambio
+
+00:06:40.240 --> 00:06:46.400
+de información sobre la diversidad biológica proporcionando identificadores, etiquetas y definiciones.
+
+00:06:47.680 --> 00:06:52.000
+Darwin Core se basa principalmente en taxones, su presencia en la naturaleza
+
+00:06:52.000 --> 00:06:56.400
+según lo documentado por observaciones, especímenes, muestras e información relacionada ".
+
+00:06:57.840 --> 00:07:01.600
+En resumen, Darwin Core es una "Lista de campos y sus definiciones,
+
+00:07:01.600 --> 00:07:03.680
+en lo que respecta a los datos de biodiversidad".
+
+00:07:06.880 --> 00:07:10.640
+A medida que profundicemos en Darwin Core o como se abrevia,
+
+00:07:10.640 --> 00:07:14.560
+DwC, aprenderá que es más que solo una lista de campos.
+
+00:07:15.200 --> 00:07:19.120
+Usaremos Simple Darwin Core, que es un subconjunto predefinido
+
+00:07:19.120 --> 00:07:24.240
+de los términos que tienen un uso común en una amplia variedad de aplicaciones de biodiversidad.
+
+00:07:26.080 --> 00:07:29.440
+Este subconjunto contiene más de 150 campos,
+
+00:07:29.440 --> 00:07:32.560
+que se colocan en un conjunto de clases de campo compuesto por:
+
+00:07:33.280 --> 00:07:34.720
+Registro y conjunto de datos
+
+00:07:34.720 --> 00:07:35.760
+Ocurrencia
+
+00:07:35.760 --> 00:07:36.720
+Organismo
+
+00:07:36.720 --> 00:07:38.080
+Material Muestra
+
+00:07:38.080 --> 00:07:38.580
+Ubicación del
+
+00:07:39.280 --> 00:07:39.920
+evento
+
+00:07:40.640 --> 00:07:42.000
+Contexto geológico
+
+00:07:43.840 --> 00:07:44.640
+Identificación
+Taxón
+
+00:07:46.320 --> 00:07:49.440
+Además, hay dos clases auxiliares llamadas:
+
+00:07:49.440 --> 00:07:50.640
+Relación de recursos
+
+00:07:51.200 --> 00:07:51.920
+Medición o hecho
+
+00:07:54.240 --> 00:07:59.040
+del usuario básico simple de Darwin Guía, "Simple Darwin Core es simple en el sentido de que
+
+00:07:59.040 --> 00:08:03.040
+no asume (y permite) ninguna estructura más allá del concepto de filas y columnas,
+
+00:08:03.600 --> 00:08:12.320
+que podrían considerarse como atributos y sus valores, o campos y registros".
+
+00:08:12.320 --> 00:08:16.240
+La Guía de referencia rápida de DwC pronto se convertirá en su recurso de referencia.
+
+00:08:16.960 --> 00:08:21.280
+Esta página proporciona una lista de todos los términos recomendados actualmente del estándar Darwin Core.
+
+00:08:22.000 --> 00:08:27.360
+Categorías como Ocurrencia o Evento corresponden a clases de Darwin Core que agrupan otros términos.
+
+00:08:30.720 --> 00:08:33.520
+Ahora veremos algunos ejemplos de términos básicos de Darwin.
+
+00:08:34.400 --> 00:08:37.040
+La guía de referencia rápida muestra constantemente
+
+00:08:37.040 --> 00:08:42.000
+cada término con el nombre del identificador, la definición, los comentarios y los ejemplos.
+
+00:08:43.120 --> 00:08:48.240
+Los primeros términos que revisaremos son País y Código de país dentro de la categoría Ubicación.
+
+00:08:50.640 --> 00:08:54.560
+Generalmente, los titulares de datos tienen un campo para el país dentro de sus datos de origen.
+
+00:08:55.280 --> 00:09:00.320
+Pero a menudo estos datos pueden ser bastante confusos con errores ortográficos, abreviaturas y nombres históricos.
+
+00:09:01.280 --> 00:09:04.720
+Sin embargo, es uno de los datos más fáciles de estandarizar.
+
+00:09:05.680 --> 00:09:10.880
+Como se indica en los comentarios, la mejor práctica recomendada es utilizar un vocabulario controlado
+
+00:09:10.880 --> 00:09:13.440
+como el Tesauro de nombres geográficos de Getty.
+
+00:09:14.160 --> 00:09:18.720
+Un vocabulario controlado impone restricciones a los valores que deben usarse para ese término.
+
+00:09:21.360 --> 00:09:25.760
+CountryCode es un término que generalmente no está presente en los datos del titular.
+
+00:09:25.760 --> 00:09:30.080
+Pero, de nuevo, es otro campo que se puede suministrar fácilmente con datos
+
+00:09:30.640 --> 00:09:38.080
+debido a la recomendación en los comentarios de usar un código de país ISO 3166-1-alfa-2.
+
+00:09:40.400 --> 00:09:44.800
+GBIF recomienda encarecidamente compartir CountryCode dentro de los conjuntos de datos de sucesos.
+
+00:09:45.360 --> 00:09:47.520
+También se anima a compartir el país.
+
+00:09:48.080 --> 00:09:52.240
+Aprenderá más sobre los requisitos y recomendaciones de GBIF en sesiones posteriores.
+
+00:09:56.080 --> 00:10:00.400
+El siguiente término es baseOfRecord. baseOfRecord define la
+
+00:10:00.400 --> 00:10:06.080
+naturaleza de cada registro en un conjunto de datos. BasisOfRecord sigue un vocabulario controlado.
+
+00:10:06.720 --> 00:10:11.040
+Puede elegir entre PreservedSpecimen, FossilSpecimen, LivingSpecimen,
+
+00:10:11.840 --> 00:10:18.720
+MaterialSample, Evento, HumanObservation, MachineObservation, Taxon u Ocurrencia.
+
+00:10:19.760 --> 00:10:23.520
+GBIF requiere baseOfRecord con conjuntos de datos de sucesos publicados.
+
+00:10:28.000 --> 00:10:33.200
+El último término que revisaremos es ID de ocurrencia. Al publicar registros de ocurrencias,
+
+00:10:33.200 --> 00:10:37.360
+GBIF requiere un ID de ocurrencia. Un ID de ocurrencia es un identificador
+
+00:10:37.360 --> 00:10:41.280
+de la ocurrencia en sí, no el registro digital de la ocurrencia.
+
+00:10:42.320 --> 00:10:47.360
+La mejor práctica recomendada es utilizar un identificador único global, también conocido como GUID.
+
+00:10:48.400 --> 00:10:50.080
+En ausencia de un GUID,
+
+00:10:50.080 --> 00:10:54.880
+un identificador único puede estar compuesto por otros identificadores dentro del conjunto de datos.
+
+00:10:55.760 --> 00:10:59.840
+Por ejemplo, InstitutionCode, collectionCode y número de catálogo.
+
+00:11:00.960 --> 00:11:04.960
+A esto lo llamamos un triplete. Existen herramientas en Internet que pueden
+
+00:11:04.960 --> 00:11:10.080
+ayudarlo a generar GUID para sus registros. Si usa este método, estos GUID deberían
+
+00:11:10.080 --> 00:11:14.160
+convertirse en un campo permanente dentro de sus datos de origen que identifiquen cada registro.
+
+00:11:15.120 --> 00:11:17.840
+Para el trabajo realizado en este curso, creará un triplete.
+
+00:11:18.480 --> 00:11:22.000
+El formato seguirá el tercer ejemplo aquí resaltado en rojo.
+
+00:11:26.720 --> 00:11:31.200
+Al usar Simple Darwin Core, puede descubrir que tiene más datos para compartir
+
+00:11:31.200 --> 00:11:34.240
+pero no puede encontrar los términos correspondientes en DwC.
+
+00:11:35.280 --> 00:11:40.240
+Estos datos pueden ser archivos de imagen o sonido o quizás usted es responsable de una colección
+
+00:11:40.240 --> 00:11:45.280
+de vertebrados y tiene muchos datos recopilados sobre el peso y el tamaño de los especímenes.
+
+00:11:46.480 --> 00:11:50.800
+O incluso información histórica detallada sobre la identificación de un taxón.
+
+00:11:51.760 --> 00:11:54.960
+Cuando esto ocurra, buscará las extensiones de Darwin Core
+
+00:11:54.960 --> 00:12:00.400
+para poder ampliar los datos base proporcionando archivos adicionales que correspondan a los datos base.
+
+00:12:01.680 --> 00:12:04.640
+Las extensiones que satisfarían sus necesidades en estos tres ejemplos son:
+
+00:12:05.440 --> 00:12:07.520
+Audubon Media Description (también conocido como Audubon Core)
+
+00:12:07.520 --> 00:12:08.560
+Mediciones o
+
+00:12:09.360 --> 00:12:10.800
+historial de identificación de hechos
+
+00:12:11.760 --> 00:12:13.840
+Hay muchas más extensiones.
+
+00:12:14.720 --> 00:12:23.840
+GBIF mantiene una lista de todas las extensiones aprobadas y en borrador en su subsitio de herramientas.
+
+00:12:24.400 --> 00:12:27.680
+Hay muchas capas en nuestra comunidad de informática de la biodiversidad.
+
+00:12:28.320 --> 00:12:32.960
+La imagen aquí muestra las relaciones entre estas capas y dónde se cruzan con
+
+00:12:32.960 --> 00:12:37.840
+Darwin Core y dónde pueden ser necesarias extensiones para compartir datos por completo.
+
+00:12:40.240 --> 00:12:44.800
+Los datos compartidos con GBIF se envían a través de un Darwin Core Archive o DwCA
+
+00:12:45.520 --> 00:12:49.200
+A DwCA es una expresión de la guía de texto de Darwin Core.
+
+00:12:49.760 --> 00:12:53.120
+Es un archivo comprimido que contiene un mínimo de tres archivos.
+
+00:12:53.680 --> 00:12:55.600
+Está codificado como UTF-8.
+
+00:12:56.480 --> 00:12:58.560
+En este ejemplo, estos tres archivos son:
+
+00:12:58.560 --> 00:13:05.680
+1. Un archivo de datos (ocurrencia.txt) conforme al SIMPLEDWC en un formato CSV
+
+00:13:05.680 --> 00:13:08.800
+donde la primera fila incluye nombres de términos estándar de Darwin Core.
+
+00:13:10.080 --> 00:13:13.920
+2. Un metaarchivo (meta.xml)
+
+00:13:15.440 --> 00:13:20.240
+en formato XML que contiene detalles técnicos para instruir a una computadora sobre cómo usar el archivo de datos.
+
+00:13:20.240 --> 00:13:29.520
+3. Un metaarchivo (eml.xml) en formato XML que contiene detalles explicativos sobre los
+
+00:13:29.520 --> 00:13:34.560
+registros contenidos en el archivo de datos para indicar al usuario si los datos serán aptos para su uso.
+
+00:13:35.760 --> 00:13:39.520
+Se puede obtener una estructura más compleja compartiendo varios
+
+00:13:39.520 --> 00:13:44.000
+archivos csv relacionados para ampliar los datos. Están relacionados con el archivo
+
+00:13:44.000 --> 00:13:48.320
+principal mediante una identificación única. En un conjunto de datos de ocurrencias,
+
+00:13:48.320 --> 00:13:51.760
+estos archivos csv relacionados están relacionados por el ID de ocurrencia.
+
+00:13:56.240 --> 00:13:59.280
+Hemos cubierto lo que es Darwin Core y esperamos que haya comenzado
+
+00:13:59.280 --> 00:14:01.840
+a desarrollar una idea de por qué debería usarlo.
+
+00:14:02.400 --> 00:14:08.160
+¡Es un estándar y los estándares son buenos! Los estándares nos brindan las reglas y protocolos
+
+00:14:08.160 --> 00:14:10.080
+que necesitamos para compartir nuestros datos con otros.
+
+00:14:11.200 --> 00:14:13.920
+Darwin Core también nos proporciona un lenguaje común.
+
+00:14:14.480 --> 00:14:17.360
+Como vimos en la presentación Fundamentos: documentación, los
+
+00:14:18.080 --> 00:14:21.280
+datos de origen pueden ser complicados al intentar comparar conjuntos de datos.
+
+00:14:22.000 --> 00:14:24.400
+Los campos en su fuente de datos pueden ser diferentes a los
+
+00:14:24.400 --> 00:14:30.000
+campos en otra fuente de datos de instituciones. Cuando todos usamos Darwin Core para compartir nuestros datos,
+
+00:14:30.000 --> 00:14:33.040
+entendemos que los datos se han compartido con un lenguaje común.
+
+00:14:35.120 --> 00:14:40.720
+Y no solo los poseedores de datos entienden este lenguaje común, sino también los usuarios de los datos.
+
+00:14:41.360 --> 00:14:46.560
+Y después de todo, ¿qué podría ser mejor que un usuario encontrando un conjunto de datos que sea adecuado para su uso,
+
+00:14:47.120 --> 00:14:50.800
+compartido en un lenguaje común, que le permita hacer una mejor ciencia?
+
+00:14:54.640 --> 00:14:55.140
+Gracias.
+
+00:14:55.760 --> 00:15:00.800
+Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la plataforma e-Learning.
+
+00:15:01.680 --> 00:15:04.560
+Este video es parte de una serie de presentaciones utilizadas en el
+
+00:15:04.560 --> 00:15:07.200
+curso de Movilización de Datos de Biodiversidad de GBIF.
+
+00:15:08.160 --> 00:15:12.320
+El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del
+
+00:15:12.320 --> 00:15:16.720
+Programa de Desarrollo de Información sobre Biodiversidad financiado por la Unión Europea.
+
+00:15:18.160 --> 00:15:22.800
+Esta presentación fue creada originalmente por Paula Zermoglio y John Wieczorek
+
+00:15:22.800 --> 00:15:26.720
+con contribuciones adicionales de Sharon Grant, Sophie Pamerlon,
+
+00:15:26.720 --> 00:15:32.320
+Laura Anne Russell y Dag Endresen, instructores, mentores y estudiantes de BID y BIFA.
+
+00:15:33.120 --> 00:15:36.720
+Esta presentación ha sido narrada por Laura Anne Russell.
+

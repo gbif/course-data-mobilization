@@ -1,0 +1,469 @@
+WEBVTT
+Kind: captions
+Language: en-GB
+
+00:00:02.669 --> 00:00:07.910
+This session is foundation work and part of
+the Terminology section.
+
+00:00:07.910 --> 00:00:12.780
+We will be introducing you to the language,
+terminology and definitions for some of the
+
+00:00:12.780 --> 00:00:17.949
+basic concepts, functions and processes that
+you are going to be putting into use during
+
+00:00:17.949 --> 00:00:22.160
+the rest of the course.
+
+00:00:22.160 --> 00:00:27.310
+First let’s review the structure of this
+session.
+
+00:00:27.310 --> 00:00:33.120
+In the section on DEFINITIONS we will first
+try to clarify the use of the word “Data”.
+
+00:00:33.120 --> 00:00:39.100
+We will then look at the terminology surrounding
+Fields, Labels and Lists.
+
+00:00:39.100 --> 00:00:44.449
+And lastly, we will straighten out some concepts
+around characters and their mappings that
+
+00:00:44.449 --> 00:00:47.559
+will help prevent unwanted data messes.
+
+00:00:47.559 --> 00:00:50.299
+First definitions.
+
+00:00:50.299 --> 00:00:54.679
+In this section we will look at some of the
+many different terms and phrases that exist
+
+00:00:54.679 --> 00:00:58.949
+within the world of data and information management.
+
+00:00:58.949 --> 00:01:03.719
+We will be using these throughout the course
+and it is important that you be familiar with,
+
+00:01:03.719 --> 00:01:09.150
+when and how to use them.
+
+00:01:09.150 --> 00:01:20.109
+Let’s focus for a moment on some common
+words and phrases that contain the word data.
+
+00:01:20.109 --> 00:01:31.641
+All of the phrases here include the word data,
+but are they all the same, and if not, then
+
+00:01:31.641 --> 00:01:39.560
+what is the difference? Database, Database language, Database program, data cleaning tool
+
+00:01:39.560 --> 00:01:49.979
+So, what is a “Database”?
+
+00:01:49.979 --> 00:01:57.310
+There are many definitions, but what they
+all have in common is the theme that a database
+
+00:01:57.310 --> 00:02:04.639
+is a structured and organized collection of
+data and/or information held on a computer.
+
+00:02:04.639 --> 00:02:10.190
+Everything else in the list is just a way
+to help you achieve this data nirvana!&nbsp;
+
+00:02:10.190 --> 00:02:14.980
+Let’s dig a little deeper then into those
+other terms.
+
+00:02:14.980 --> 00:02:20.600
+Let us take a look at the phrase “database
+language”.
+
+00:02:20.600 --> 00:02:26.510
+According to the Oxford English dictionary
+“language” is the method of human communication,
+
+00:02:26.510 --> 00:02:30.519
+[…], consisting of the use of words [or
+symbols] in a structured and conventional
+
+00:02:30.519 --> 00:02:32.129
+way.
+
+00:02:32.129 --> 00:02:38.120
+For our purposes, database languages and their
+close allies the array languages are the way
+
+00:02:38.120 --> 00:02:44.650
+by which a human communicates with a computer
+to manipulate and move around data.
+
+00:02:44.650 --> 00:02:47.080
+Examples that you may have come across are:
+
+00:02:47.080 --> 00:02:52.239
+Java, SPARQL, SQL and Python
+
+00:02:52.239 --> 00:02:57.879
+They are simply methods used to define and
+create tables, views and queries and also
+
+00:02:57.879 --> 00:03:05.239
+allow users to access, update, store and move
+data around.
+
+00:03:05.239 --> 00:03:10.299
+Now let’s look at the phrase “database
+program or software”.
+
+00:03:10.299 --> 00:03:14.950
+Again going to the Oxford English dictionary
+a “program/programme” is a set of related
+
+00:03:14.950 --> 00:03:19.660
+measures or activities with a particular long-term
+aim.
+
+00:03:19.660 --> 00:03:24.360
+In this context, a “database program or
+software” combines and presents functions
+
+00:03:24.360 --> 00:03:30.690
+and features for manipulating data, together
+is a unified interface.
+
+00:03:30.690 --> 00:03:33.540
+Examples that you may come across are:
+
+00:03:33.540 --> 00:03:36.480
+Microsoft Access, FilemakerPro and Oracle
+
+00:03:36.480 --> 00:03:45.019
+So, database programs or software are grouped
+utilities which allow a user, via a database
+
+00:03:45.019 --> 00:03:54.920
+language, to store, manage, query and report
+data held in the system.
+
+00:03:54.920 --> 00:04:00.900
+The last term is “data cleaning tool”.
+
+00:04:00.900 --> 00:04:06.379
+Data cleaning tools are systems whose utilities
+focus is on the manipulation of data with
+
+00:04:06.379 --> 00:04:10.359
+the aim of increasing fitness for use.&nbsp;
+
+00:04:10.359 --> 00:04:14.769
+Examples that you may be familiar or will
+learn about during the course are:
+
+00:04:14.769 --> 00:04:17.600
+OpenRefine, MatLab and spreadsheets
+
+00:04:17.600 --> 00:04:24.470
+A data cleaning tool should assist the user
+in the discovery and repair of messy data
+
+00:04:24.470 --> 00:04:30.660
+in order to increase quality.
+
+00:04:30.660 --> 00:04:35.500
+Continuing on with some more terms that you
+should be familiar with we will look at the
+
+00:04:35.500 --> 00:04:44.390
+differences between the terms Field, Label
+and List.
+
+00:04:44.390 --> 00:04:50.810
+You will often hear reference made to field
+or column names and field labels or headings.
+
+00:04:50.810 --> 00:04:57.470
+Often they will be used interchangeably, however
+they are different things.&nbsp;
+
+00:04:57.470 --> 00:05:01.310
+Field or column names refer to the actual
+column in the database table.
+
+00:05:01.310 --> 00:05:08.570
+They are a often short, not always in plain
+language, sometimes computer generated; but
+
+00:05:08.570 --> 00:05:13.860
+in a properly formed database they are ALWAYS
+unique.
+
+00:05:13.860 --> 00:05:21.190
+Field names are almost always used by database
+languages, because the avoid ambiguity.
+
+00:05:21.190 --> 00:05:25.611
+Labels and headers on the other hand, refer
+to the human readable versions of the field
+
+00:05:25.611 --> 00:05:27.040
+names.
+
+00:05:27.040 --> 00:05:32.620
+Most often you will see these in the graphical
+user interface of your software and on exports
+
+00:05:32.620 --> 00:05:34.570
+and reports.
+
+00:05:34.570 --> 00:05:39.970
+In some software you can in fact have different
+labels to the same field on a user by user
+
+00:05:39.970 --> 00:05:41.250
+or group basis!
+
+00:05:41.250 --> 00:05:49.740
+As 
+you work with your data you will come across
+
+00:05:49.740 --> 00:05:54.700
+the phrases “drop-down list” and “controlled
+vocabulary” and on the surface they can
+
+00:05:54.700 --> 00:05:57.030
+appear to be the same.
+
+00:05:57.030 --> 00:06:03.260
+Indeed they are both powerful tools to help
+you keep your data clean, but they are different.
+
+00:06:03.260 --> 00:06:09.720
+A drop-down list, also sometimes called a
+lookup table is a data entry element that
+
+00:06:09.720 --> 00:06:12.760
+is created in your database software.
+
+00:06:12.760 --> 00:06:16.760
+It allows to you select a value from a predefined
+set of options.
+
+00:06:16.760 --> 00:06:24.241
+They can also be generated from the data itself
+on the fly.
+
+00:06:24.241 --> 00:06:29.130
+A controlled vocabulary on the other hand,
+is a very strictly defined, domain specific
+
+00:06:29.130 --> 00:06:34.030
+set of values that should be applied to a
+particular field.
+
+00:06:34.030 --> 00:06:38.560
+They are an integral part of a well defined
+standard.
+
+00:06:38.560 --> 00:06:47.810
+Such values can be used in a drop-down list
+as mentioned previously.
+
+00:06:47.810 --> 00:06:58.030
+In this section we will look at what the term
+character means in relation to data and computers.
+
+00:06:58.030 --> 00:07:04.880
+As a reminder computers “see” in binary.
+Everything that you type in, is held in memory
+
+00:07:04.880 --> 00:07:07.240
+as a series of ones and zeros.
+
+00:07:07.240 --> 00:07:12.500
+The computer does not “see” the repertoire
+of letters and symbols on your keyboard.
+
+00:07:12.500 --> 00:07:17.050
+It needs a map to translate the character
+set that you would write or type, into its
+
+00:07:17.050 --> 00:07:23.390
+binary language and then back again to show
+it to you on the screen or a printer.
+
+00:07:23.390 --> 00:07:26.430
+This map is made up of two parts:
+
+00:07:26.430 --> 00:07:29.360
+The “coded character set”&nbsp;and
+
+00:07:29.360 --> 00:07:32.090
+The “character encoding”
+
+00:07:32.090 --> 00:07:37.940
+Each symbol or glyph is assigned a numeric
+value and that number is then converted to
+
+00:07:37.940 --> 00:07:43.240
+binary.
+
+00:07:43.240 --> 00:07:49.400
+In this example we see how character encoding
+is used to map the capital letter A in the
+
+00:07:49.400 --> 00:07:52.410
+western alphabet.
+
+00:07:52.410 --> 00:07:59.050
+The ASCII value for the capital letter A is
+the decimal number 65
+
+00:07:59.050 --> 00:08:02.710
+which in HEXIDECIMAL is 041
+
+00:08:02.710 --> 00:08:13.570
+and in BINARY 01000001
+
+00:08:13.570 --> 00:08:24.380
+Try mapping your own name to Binary using
+the link at the bottom of the screen.
+
+00:08:24.380 --> 00:08:31.050
+In effect what is happening is that when you
+type into a keyboard and save a file the software
+
+00:08:31.050 --> 00:08:35.649
+that you are using will select an encoding
+to save with it.&nbsp;
+
+00:08:35.649 --> 00:08:40.750
+When you open that file again the software
+needs to know which encoding (map) to use
+
+00:08:40.750 --> 00:08:58.509
+to redisplay the information back to you correctly. This table shows you some examples of the more common character encoding and character sets.
+
+00:08:58.509 --> 00:09:02.449
+So why is this important to you as a data
+custodian?
+
+00:09:02.449 --> 00:09:06.949
+Let’s say that you translate the start of
+Hamlet’s soliloquy
+
+00:09:06.949 --> 00:09:09.899
+&nbsp;”To be or not to be, that is the question”
+
+00:09:09.899 --> 00:09:17.430
+into French and then save the file with a
+text editor that uses the encoding Latin-1
+
+00:09:17.430 --> 00:09:28.139
+Then you send it to a colleague to check the
+translation. Voila!
+
+00:09:28.139 --> 00:09:34.100
+When they open the file in MicroSoft Word
+this is what they see…
+
+00:09:34.100 --> 00:09:35.850
+Mon dieu!
+
+00:09:35.850 --> 00:09:39.399
+There are some unexpected characters.
+
+00:09:39.399 --> 00:09:45.690
+You forgot to tell your colleague that you
+where using Latin-1 as the encoding.
+
+00:09:45.690 --> 00:09:50.589
+MicroSoft Word on their end was set to use
+the encoding set Unicode UTF-8.
+
+00:09:50.589 --> 00:09:53.579
+The maps did not match.
+
+00:09:53.579 --> 00:10:04.730
+Depending on the software the data may be
+irretrievably corrupted.
+
+00:10:04.730 --> 00:10:08.990
+In review we have looked at the differences
+between the phrases:
+
+00:10:08.990 --> 00:10:18.600
+Database; database language; database program,
+data-cleaning tool; and also between
+
+00:10:18.600 --> 00:10:26.080
+Field names &amp; Field labels; Drop-down lists
+&amp; Controlled vocabularies and lastly, we looked at
+
+00:10:26.080 --> 00:10:29.300
+Repertoires, Coded sets &amp; Encodings as they related to characters
+
+00:10:29.300 --> 00:10:48.730
+We've shown that although the terms may seem
+similar they are in fact very different and the consequence of confusing them can be dire.
+
+00:10:48.730 --> 00:10:49.730
+Remember that:
+
+00:10:49.730 --> 00:10:53.190
+“..The first step in wisdom is to know the
+things themselves.
+
+00:10:54.639 --> 00:10:59.589
+We often take for granted that there is a
+whole language associated with biodiversity
+
+00:10:59.589 --> 00:11:04.610
+informatics that is not commonplace and has
+to be learned.
+
+00:11:04.610 --> 00:11:09.240
+There is no shame in going back to basics
+and getting to grips with the vocabulary,
+
+00:11:09.240 --> 00:11:21.470
+grammar and syntax just like with any new
+language.
+
+00:11:21.470 --> 00:11:26.730
+Thank you for listening. If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:11:26.730 --> 00:11:29.350
+platform.
+
+00:11:29.350 --> 00:11:35.470
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:11:35.470 --> 00:11:40.050
+course.
+The biodiversity data mobilization curriculum
+
+00:11:40.050 --> 00:11:45.490
+was originally developed as part of the Biodiversity
+Information Development Programme funded by
+
+00:11:45.490 --> 00:11:48.139
+the European Union.
+
+00:11:48.139 --> 00:11:54.930
+This presentation was originally created and
+narrated by Sharon Grant with additional contributions
+
+00:11:54.930 --> 00:11:58.379
+by BID and BIFA Trainers, Mentors and Students.
+

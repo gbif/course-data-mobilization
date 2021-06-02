@@ -1,0 +1,480 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.879 --> 00:00:04.410
+In this presentation, we’ll have a look
+at the different types of data that can be
+
+00:00:04.410 --> 00:00:08.840
+called ‘primary biodiversity data’ and
+shared within GBIF.
+
+00:00:08.840 --> 00:00:13.780
+These data can be complex and have different
+origins; we’ll see how they can be structured
+
+00:00:13.780 --> 00:00:18.429
+into one of the three data classes accepted
+by GBIF, based on the Darwin Core data sharing
+
+00:00:18.429 --> 00:00:25.050
+standard that is used within the GBIF community.
+
+00:00:25.050 --> 00:00:31.400
+As you can see on this slide, GBIF currently
+supports four types of dataset: Resource datasets
+
+00:00:31.400 --> 00:00:41.110
+(e.g. metadata-only datasets), species checklists,
+Occurrence datasets and Sampling-event datasets.
+
+00:00:41.110 --> 00:00:46.840
+I will not discuss Resource datasets in this
+presentation as metadata-only datasets are
+
+00:00:46.840 --> 00:00:53.040
+not supported by the GBIF-funded programmes.
+
+00:00:53.040 --> 00:00:58.680
+The first type of dataset that can be published
+within GBIF is the checklist, aka a list of
+
+00:00:58.680 --> 00:01:01.120
+species or higher taxa.
+
+00:01:01.120 --> 00:01:06.870
+In a checklist, the main unit is the taxon,
+not the occurrence (individual).
+
+00:01:06.870 --> 00:01:13.609
+Checklists, and more generally, taxonomical
+datasets can vary in scope :
+
+00:01:13.609 --> 00:01:17.249
+a list of species present in a protected area
+is a checklist.
+
+00:01:17.249 --> 00:01:23.819
+a national or thematic list of taxa (e.g.
+Butterflies of Laos, or the Flora of Malaysia),
+
+00:01:23.819 --> 00:01:29.280
+which sometimes provide more info on the distribution,
+taxonomical hierarchy and synonyms of the
+
+00:01:29.280 --> 00:01:31.210
+taxa is a checklist.
+
+00:01:31.210 --> 00:01:38.380
+IUCN red lists (at the international, national
+or regional levels) also are checklists and
+
+00:01:38.380 --> 00:01:45.299
+can give more information about the vulnerability
+status of the listed taxa. 
+
+00:01:45.299 --> 00:01:50.939
+GBIF provides data publishers with templates
+for each class of dataset.
+
+00:01:50.939 --> 00:01:56.209
+The GBIF template for checklists (taxon Data)
+allows you to share information linked to
+
+00:01:56.209 --> 00:02:03.420
+each species or taxa: its ID, full name and
+authorship, relationship to other taxa, geographical
+
+00:02:03.420 --> 00:02:05.490
+details and so on.
+
+00:02:05.490 --> 00:02:10.640
+In this template, one line represents one
+taxon and a taxon can only appear once in
+
+00:02:10.640 --> 00:02:17.000
+the dataset (otherwise it will create a duplicate).
+
+00:02:17.000 --> 00:02:21.570
+The second type of data that can be published
+within GBIF is data coming from natural history
+
+00:02:21.570 --> 00:02:25.020
+or scientific collections, also known as specimens.
+
+00:02:25.020 --> 00:02:31.310
+Unlike checklists, the main unit in a specimen
+collection will be the specimen (a single
+
+00:02:31.310 --> 00:02:37.250
+organism or group of organisms), and you can
+have multiple specimens from the same species
+
+00:02:37.250 --> 00:02:41.790
+or taxon group.
+
+00:02:41.790 --> 00:02:46.720
+Collections and specimens vastly differ in
+numbers, size and preservation methods.
+
+00:02:46.720 --> 00:02:51.800
+However, any kind of collection that holds
+preserved living organisms can be captured
+
+00:02:51.800 --> 00:02:57.240
+and shared within GBIF; herbarium or zoological
+collections (including fossils) for example,
+
+00:02:57.240 --> 00:03:04.010
+but geology or human artifacts collections
+do not fall under the GBIF scope.
+
+00:03:04.010 --> 00:03:10.280
+Biodiversity data can also be found in technical
+and scientific literature: it is possible
+
+00:03:10.280 --> 00:03:15.920
+to compile and share this kind of data within
+GBIF, but you should be extra-cautious not
+
+00:03:15.920 --> 00:03:21.430
+to share duplicate data (for example, a specimen
+described in a scientific article might already
+
+00:03:21.430 --> 00:03:27.980
+be present on GBIF.org in the dataset of its
+collection)
+
+00:03:27.980 --> 00:03:33.790
+In the absence of digitized datasets, biodiversity
+data can be extracted and compiled from scientific
+
+00:03:33.790 --> 00:03:40.630
+articles, phD or master theses, reports and
+other documents.
+
+00:03:40.630 --> 00:03:45.980
+ALWAYS contact the data owner first when compiling
+literature data to ask for permission to publish
+
+00:03:45.980 --> 00:03:50.060
+them to GBIF ! 
+
+00:03:50.060 --> 00:03:55.910
+A large majority of the data available on
+GBIF.org now comes from fieldwork records.
+
+00:03:55.910 --> 00:04:01.460
+These data can be observed and/or collected
+using different protocols in the field, by
+
+00:04:01.460 --> 00:04:09.520
+scientists, naturalists or amateur citizen-scientists
+via programmes and apps.
+
+00:04:09.520 --> 00:04:14.840
+These field data can be compiled in survey
+reports, environmental impact assessment studies,
+
+00:04:14.840 --> 00:04:17.160
+field notes and other logs.
+
+00:04:17.160 --> 00:04:21.670
+They can be linked to other types of data,
+such as checklists, which are complementary
+
+00:04:21.670 --> 00:04:28.820
+to occurrence data observed or collected in
+the wilderness.
+
+00:04:28.820 --> 00:04:33.320
+Occurrence data represents the GBIF class
+of datasets with the largest number of records
+
+00:04:33.320 --> 00:04:35.150
+on GBIF.org.
+
+00:04:35.150 --> 00:04:40.790
+Collection (aka specimens), literature and
+fieldwork data can be shared within GBIF using
+
+00:04:40.790 --> 00:04:46.670
+this template, which focuses on the observed
+individual or collected specimen.
+
+00:04:46.670 --> 00:04:51.510
+In this kind of dataset, multiple individuals
+or specimens can be recorded for a single
+
+00:04:51.510 --> 00:04:56.400
+taxon, as long as they each have a unique
+identifier.
+
+00:04:56.400 --> 00:05:02.139
+Other fields for occurrence data include where,
+when, how and by whom was each occurrence
+
+00:05:02.139 --> 00:05:06.720
+observed and/or collected in the field.
+
+00:05:06.720 --> 00:05:13.409
+Event data is a class of datasets that was
+added on GBIF.org in 2015.
+
+00:05:13.409 --> 00:05:18.650
+They allow data publishers to share more information
+about the context of the observation or collection
+
+00:05:18.650 --> 00:05:25.180
+of specimens, and to group occurrences linked
+to the same event.
+
+00:05:25.180 --> 00:05:30.240
+The GBIF template for Event data allows data
+publishers to share more information about
+
+00:05:30.240 --> 00:05:36.830
+the context of a biodiversity data collecting/recording
+event such as camera traps, insect traps,
+
+00:05:36.830 --> 00:05:40.230
+botanical relevés, birding sites and so on.
+
+00:05:40.230 --> 00:05:45.480
+Its structure is a bit more complex than the
+Taxonomical datasets and Occurrence datasets
+
+00:05:45.480 --> 00:05:52.470
+as it involves two files (e.g., two tabs in
+a spreadsheet): one for describing the ‘events’
+
+00:05:52.470 --> 00:05:58.790
+(e.g. each trap) and the other one to describe
+the specimens or occurrences linked to each
+
+00:05:58.790 --> 00:06:00.760
+event.
+
+00:06:00.760 --> 00:06:06.949
+Sometimes, additional information or data
+can be found using other source materials
+
+00:06:06.949 --> 00:06:12.660
+than those previously mentioned in this video.
+
+00:06:12.660 --> 00:06:17.960
+These other sources include remote sensing
+tools, maps and satellite data, and other
+
+00:06:17.960 --> 00:06:22.790
+information supports such as pictures, audio
+and video recordings of wildlife.
+
+00:06:22.790 --> 00:06:28.150
+Most of the time, the information retrieved
+this way is supplemental to existing data
+
+00:06:28.150 --> 00:06:33.910
+but can provide valuable information about
+individuals and their location, habitat, migratory
+
+00:06:33.910 --> 00:06:37.520
+routes, etc.
+
+00:06:37.520 --> 00:06:41.680
+In the following slides, we will see how the
+Darwin Core standard works with different
+
+00:06:41.680 --> 00:06:49.460
+types of data, and how to choose the dataset
+class that best fits a given dataset.
+
+00:06:49.460 --> 00:06:54.030
+As you learned in the Foundations - Darwin
+Core presentation, Darwin Core is a data sharing
+
+00:06:54.030 --> 00:07:00.919
+standard developed by the Biodiversity Information
+Standards (TDWG) organization, and is widely
+
+00:07:00.919 --> 00:07:05.550
+used to publish data within the extended GBIF
+community.
+
+00:07:05.550 --> 00:07:09.440
+Depending on the type of dataset with which
+you work, you’ll have to choose one of its
+
+00:07:09.440 --> 00:07:16.020
+three Cores (Occurrence, Taxon or Event Core),
+which can be linked to one or more Extensions
+
+00:07:16.020 --> 00:07:21.900
+to share more information (such as multimedia
+links, variables, identification history and
+
+00:07:21.900 --> 00:07:22.900
+so on).
+
+00:07:22.900 --> 00:07:29.320
+In some cases, a core can be used as an extension
+linked to another core: that is the case when
+
+00:07:29.320 --> 00:07:34.680
+publishing Event data, where one can use the
+Event Core to describe the sampled areas and
+
+00:07:34.680 --> 00:07:42.620
+then use the Occurrence Core as an Extension
+to share the specimens or individuals recorded.
+
+00:07:42.620 --> 00:07:47.370
+Once the data has been standardized using
+the Darwin Core standard, each class of dataset
+
+00:07:47.370 --> 00:07:53.650
+(metadata-only, sampling event, taxonomic
+or occurrence datasets) can be published on
+
+00:07:53.650 --> 00:07:58.120
+GBIF.org using one of the tools mentioned
+on this figure.
+
+00:07:58.120 --> 00:08:03.169
+The most frequently used tool within the GBIF
+community is the GBIF-developed Integrated
+
+00:08:03.169 --> 00:08:09.350
+Publishing Toolkit (IPT), which transforms
+the source data into Darwin Core archives
+
+00:08:09.350 --> 00:08:13.070
+that are then harvested and indexed by GBIF.
+
+00:08:13.070 --> 00:08:19.500
+The data are then searchable and downloadable
+via GBIF.org.
+
+00:08:19.500 --> 00:08:23.540
+Choosing a dataset class can take some time,
+especially if you’re new to data publishing
+
+00:08:23.540 --> 00:08:24.890
+within GBIF.
+
+00:08:24.890 --> 00:08:30.430
+The GBIF helpdesk team created this useful
+flowchart which can be found on the GBIF Data
+
+00:08:30.430 --> 00:08:31.650
+Blog:
+
+00:08:31.650 --> 00:08:36.479
+If your data are not yet captured in a database
+or spreadsheet, or if they are too incomplete
+
+00:08:36.479 --> 00:08:42.599
+to be shared yet, you can publish a description
+of your data as a metadata-only dataset (please
+
+00:08:42.599 --> 00:08:47.830
+note this option is not allowed in the context
+of the BID and BIFA programmes).
+
+00:08:47.830 --> 00:08:53.320
+If your dataset contains a list of scientific
+names that are not referring to observed and/or
+
+00:08:53.320 --> 00:08:59.380
+collected organisms or specimens, you can
+publish it as a taxonomical resource, or checklist.
+
+00:08:59.380 --> 00:09:04.770
+If your dataset includes scientific names
+linked to observed and/or collected specimens,
+
+00:09:04.770 --> 00:09:09.300
+as well as dates and locations, you can share
+it as an occurrence dataset.
+
+00:09:09.300 --> 00:09:14.480
+Lastly, if information about the protocols
+used on the field are available, you can choose
+
+00:09:14.480 --> 00:09:19.830
+to share your dataset as a sampling-event
+dataset.
+
+00:09:19.830 --> 00:09:25.440
+Each class of dataset shared within GBIF has
+to meet its own data quality requirements.
+
+00:09:25.440 --> 00:09:30.870
+Some requirements are mandatory (such as the
+occurrenceID, taxonID or eventID, depending
+
+00:09:30.870 --> 00:09:36.550
+on the type of dataset), others are optional
+but strongly recommended (such as coordinates
+
+00:09:36.550 --> 00:09:38.170
+in decimal degrees).
+
+00:09:38.170 --> 00:09:44.510
+You can find these requirements on GBIF.org
+from the How-to menu.
+
+00:09:44.510 --> 00:09:49.130
+In order to be able to publish data to GBIF,
+it is important to understand the differences
+
+00:09:49.130 --> 00:09:55.190
+between the dataset classes at the early stages
+of the data capture and data managing process.
+
+00:09:55.190 --> 00:09:58.320
+You can reflect on this topic with the following
+questions:
+
+00:09:58.320 --> 00:10:02.850
+Is your data type different than you originally
+thought?
+
+00:10:02.850 --> 00:10:05.140
+With what kind of data do you work?
+
+00:10:05.140 --> 00:10:12.350
+How would you publish them to GBIF? (using
+which Core and/or extension?)
+
+00:10:12.350 --> 00:10:16.890
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:10:16.890 --> 00:10:18.320
+platform.
+
+00:10:18.320 --> 00:10:23.660
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:10:23.660 --> 00:10:24.950
+course.
+
+00:10:24.950 --> 00:10:30.459
+The biodiversity data mobilization curriculum
+was originally developed as part of the Biodiversity
+
+00:10:30.459 --> 00:10:34.260
+Information Development Programme funded by
+the European Union.
+
+00:10:34.260 --> 00:10:39.190
+This presentation was originally created and
+narrated by Sophie Pamerlon with additional
+
+00:10:39.190 --> 00:10:43.300
+contributions by BID and BIFA Trainers, Mentors
+and Students.
+

@@ -1,0 +1,361 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.370 --> 00:00:05.890
+Esta presentación se basa en los “Principios para la calidad de los datos” de Arthur Chapman
+
+00:00:05.890 --> 00:00:13.690
+Durante esta presentación, exploraremos los principios de la calidad de los datos aplicados a
+
+00:00:13.690 --> 00:00:20.970
+la captura de datos, específicamente cuando se capturan datos de etiquetas de colección, cuadernos de trabajo de campo,
+
+00:00:20.970 --> 00:00:23.450
+hojas de cálculo, etc.
+
+00:00:23.450 --> 00:00:28.260
+La calidad de los datos es esencial en cada paso del proceso de movilización de datos, especialmente
+
+00:00:28.260 --> 00:00:30.910
+en los pasos de captura de datos.
+
+00:00:30.910 --> 00:00:35.719
+Cada persona involucrada en la captura de datos tiene una parte de responsabilidad con respecto a la
+
+00:00:35.719 --> 00:00:40.810
+calidad de los datos , pero la mayoría de las decisiones sobre este tema deben tomarse a
+
+00:00:40.810 --> 00:00:42.510
+nivel institucional .
+
+00:00:42.510 --> 00:00:46.340
+Las palabras clave aquí son: planificación y documentación.
+
+00:00:46.340 --> 00:00:51.530
+Como se mencionó en la presentación de la documentación de Foundations, use los estándares existentes y planifique
+
+00:00:51.530 --> 00:00:57.149
+sus flujos de trabajo para que coincidan con sus objetivos; Documente todo lo que pueda, en cada paso, y comparta
+
+00:00:57.149 --> 00:01:04.589
+o reutilice documentos, datos, herramientas y estándares tanto como sea posible.
+
+00:01:04.589 --> 00:01:07.800
+Este es un ejemplo de un flujo de trabajo de calidad de datos.
+
+00:01:07.800 --> 00:01:13.050
+En este flujo de trabajo, comienza con la recolección de muestras, pasa a la captura de datos, luego al
+
+00:01:13.050 --> 00:01:16.550
+control de calidad, la publicación y finalmente el uso.
+
+00:01:16.550 --> 00:01:21.110
+La calidad de los datos no es responsabilidad exclusiva de la primera persona en el proceso (aquí,
+
+00:01:21.110 --> 00:01:26.020
+el recopilador), se comparte en cada paso y cada persona en el proceso debe tener la
+
+00:01:26.020 --> 00:01:27.870
+responsabilidad de la calidad.
+
+00:01:27.870 --> 00:01:33.540
+Es necesario que exista un circuito de retroalimentación funcional para verificar, completar, actualizar
+
+00:01:33.540 --> 00:01:35.600
+o corregir los datos.
+
+00:01:35.600 --> 00:01:40.040
+Aquí es donde la documentación es esencial: es necesario saber quién fue el responsable de cada
+
+00:01:40.040 --> 00:01:45.270
+paso del proceso para validar los cambios que se han realizado en los datos (o es necesario
+
+00:01:45.270 --> 00:01:49.320
+realizarlos).
+
+00:01:49.320 --> 00:01:54.460
+En esta vista simplificada del flujo de datos, puede ver algunas de las responsabilidades de calidad de los datos
+
+00:01:54.460 --> 00:01:56.720
+de cada grupo de personas involucradas.
+
+00:01:56.720 --> 00:02:01.720
+En este ejemplo, el equipo a cargo de la movilización se puede dividir en los
+
+00:02:01.720 --> 00:02:03.800
+roles de 'transcriptores' y 'curador'.
+
+00:02:03.800 --> 00:02:08.860
+El equipo de transcriptores debe asegurarse de que los datos se capturen y guarden de la mejor manera posible,
+
+00:02:08.860 --> 00:02:14.079
+mientras que el rol de 'curador' tiene la responsabilidad final de garantizar que cada equipo
+
+00:02:14.079 --> 00:02:19.450
+cumpla con sus roles en el proceso.
+
+00:02:19.450 --> 00:02:23.700
+Una vez que el flujo de trabajo de datos está en su lugar, la captura de datos en sí puede comenzar.
+
+00:02:23.700 --> 00:02:27.459
+En las siguientes diapositivas, exploraremos los diferentes tipos de información que se pueden
+
+00:02:27.459 --> 00:02:32.810
+capturar de especímenes u observaciones de campo, y veremos cuáles son los errores más comunes
+
+00:02:32.810 --> 00:02:36.670
+que deben evitarse al tratar con cada tipo de información.
+
+00:02:36.670 --> 00:02:42.410
+Los temas principales serán los siguientes: información taxonómica, información espacial,
+
+00:02:42.410 --> 00:02:45.560
+información de colección , información descriptiva.
+
+00:02:45.560 --> 00:02:50.420
+Tenga en cuenta que cada aparición (cada fila en su base de datos u hoja de cálculo) debe tener
+
+00:02:50.420 --> 00:02:58.260
+información vinculada a estos 4 temas principales para poder compartirla y reutilizarla en consecuencia.
+
+00:02:58.260 --> 00:03:02.319
+La información taxonómica es una parte esencial del proceso de captura de datos.
+
+00:03:02.319 --> 00:03:08.349
+Sin él, una muestra digitalizada es inútil y no se puede interpretar ni reutilizar correctamente.
+
+00:03:08.349 --> 00:03:12.409
+Tenga en cuenta que el nombre de la especie no es el único tipo de información taxonómica que se puede
+
+00:03:12.409 --> 00:03:18.590
+explotar en el proceso de captura de datos: a veces, el espécimen no se ha identificado a la
+
+00:03:18.590 --> 00:03:23.769
+especie y los niveles taxonómicos más altos, como el género o la familia, siguen siendo útiles para los
+
+00:03:23.769 --> 00:03:28.150
+datos. administradores y usuarios.
+
+00:03:28.150 --> 00:03:34.319
+La mayoría de las veces, el nombre científico es la principal forma de recuperar datos en una base de datos,
+
+00:03:34.319 --> 00:03:36.120
+portal, sitio web, navegador ...
+
+00:03:36.120 --> 00:03:41.769
+Cualquier error en la ortografía o autoridad puede dar lugar a consultas erróneas o nulas, impidiendo así
+
+00:03:41.769 --> 00:03:44.260
+la gestión y posible reutilización de los datos. .
+
+00:03:44.260 --> 00:03:49.049
+Por eso es muy importante verificar todas las categorías de nombres científicos para corregir
+
+00:03:49.049 --> 00:03:53.439
+errores y / u omisiones.
+
+00:03:53.439 --> 00:03:59.400
+Los problemas más comunes que ocurren con la información del taxón son información faltante o inconsistente,
+
+00:03:59.400 --> 00:04:03.700
+valores incorrectos o no atómicos, duplicados e incertidumbre.
+
+00:04:03.700 --> 00:04:08.809
+Siempre verifique las definiciones y ejemplos de términos taxonómicos de Darwin Core para evitar
+
+00:04:08.809 --> 00:04:12.309
+errores de nomenclatura : http://rs.tdwg.org/dwc/terms/index.htm La
+
+00:04:12.309 --> 00:04:17.049
+información geográfica demuestra ser valiosa en muchos contextos de reutilización de datos, como como
+
+00:04:17.049 --> 00:04:20.169
+modelos de nicho o estudios sobre la distribución de especies.
+
+00:04:20.169 --> 00:04:25.520
+Si bien las colecciones o especímenes 'antiguos' pueden ser comprensiblemente difíciles, si no imposibles,
+
+00:04:25.520 --> 00:04:31.280
+de geolocalizar con precisión, se recomienda compartir coordenadas precisas o información textual
+
+00:04:31.280 --> 00:04:33.360
+cuando sea posible.
+
+00:04:33.360 --> 00:04:37.780
+Las coordenadas deben registrarse directamente en el campo cuando sea posible, junto con la incertidumbre
+
+00:04:37.780 --> 00:04:39.940
+y el datum geodésico utilizado.
+
+00:04:39.940 --> 00:04:44.639
+De lo contrario, utilice fuentes relevantes y verificadas para geolocalizar sus datos.
+
+00:04:44.639 --> 00:04:49.090
+Debe tener en cuenta que las coordenadas u otra información geográfica pueden generalizarse
+
+00:04:49.090 --> 00:04:53.879
+o ni siquiera compartirse en algunos contextos, como con la conservación de
+
+00:04:53.879 --> 00:04:57.580
+especies sensibles .
+
+00:04:57.580 --> 00:05:02.840
+La información espacial se puede encontrar en numerosos formatos, no solo en coordenadas geográficas: los
+
+00:05:02.840 --> 00:05:08.960
+ejemplos incluyen (pero no se limitan a) datos de cuadrícula, punto + radio o polígonos.
+
+00:05:08.960 --> 00:05:13.460
+Cada uno de ellos es útil para compartir con el fin de verificar la coherencia de los elementos
+
+00:05:13.460 --> 00:05:19.330
+geográficos (por ejemplo, coordenadas frente al código de país, o para garantizar que una localidad determinada sea coherente
+
+00:05:19.330 --> 00:05:23.650
+con los viajes de un recolector).
+
+00:05:23.650 --> 00:05:27.840
+Dentro de GBIF, se recomienda compartir el Datum geodésico que se utilizado para derivar las
+
+00:05:27.840 --> 00:05:32.090
+coordenadas (latitud y longitud decimales) compartidas.
+
+00:05:32.090 --> 00:05:40.530
+En ausencia de un datum geodésico específico, GBIF inferirá WGS84 por defecto.
+
+00:05:40.530 --> 00:05:46.539
+Esta diapositiva muestra un mapa GBIF antiguo con diferentes tipos de problemas geográficos: el más obvio
+
+00:05:46.539 --> 00:05:52.340
+es un efecto espejo entre los EE. UU. Y China (coordenadas invertidas), y también puede
+
+00:05:52.340 --> 00:05:57.759
+notar una línea artificial a lo largo del meridiano de Greenwich donde estaban los valores '0' poner en
+
+00:05:57.759 --> 00:06:03.330
+el campo 'decimalLongitude', así como otro en el Ecuador donde los valores '0'
+
+00:06:03.330 --> 00:06:06.199
+se pusieron en el campo 'decimalLatitude'.
+
+00:06:06.199 --> 00:06:12.370
+La indexación de GBIF ahora incluye verificaciones geográficas automáticas entre las coordenadas y el código de país
+
+00:06:12.370 --> 00:06:14.210
+compartido dentro del conjunto de datos.
+
+00:06:14.210 --> 00:06:20.199
+Las coordenadas se pueden invertir automáticamente para que coincidan con el país.
+
+00:06:20.199 --> 00:06:23.990
+La información sobre el contexto de la recopilación de datos u observación es muy útil
+
+00:06:23.990 --> 00:06:29.330
+para compartir con el fin de brindar la mayor cantidad de detalles posible sobre cada ocurrencia.
+
+00:06:29.330 --> 00:06:34.210
+La información como el nombre del recolector, el protocolo de recolección u observación, el hábitat y otros
+
+00:06:34.210 --> 00:06:42.199
+factores pueden resultar importantes cuando se reutilizan datos, por ejemplo, con modelos de nichos ecológicos.
+
+00:06:42.199 --> 00:06:46.650
+Los factores de calidad de los datos con respecto a la información de la recopilación se encuentran principalmente en líneas de
+
+00:06:46.650 --> 00:06:52.330
+exactitud, como el nombre correcto del recolector, la coherencia, por ejemplo, utilizando el mismo vocabulario
+
+00:06:52.330 --> 00:06:58.050
+para describir suelos, hábitats e integridad que al proporcionar toda la información existente sobre
+
+00:06:58.050 --> 00:07:03.409
+la descripción de una especie determinada, incluida la floración período, color de las hojas
+
+00:07:03.409 --> 00:07:05.620
+y usos medicinales.
+
+00:07:05.620 --> 00:07:10.469
+Dentro de Darwin Core y dentro de IPT, puede encontrar vocabularios controlados recomendados
+
+00:07:10.469 --> 00:07:13.460
+para algunos campos, como 'lifeStage'.
+
+00:07:13.460 --> 00:07:21.430
+El grupo de tareas de vocabularios del TDWG trabaja para promover y mejorar la facilidad de uso de los
+
+00:07:21.430 --> 00:07:23.320
+vocabularios.
+
+00:07:23.320 --> 00:07:27.770
+Tenga en cuenta que la información descriptiva suele estar incompleta debido a una gran variedad
+
+00:07:27.770 --> 00:07:29.240
+de factores.
+
+00:07:29.240 --> 00:07:35.740
+Dependiendo del estado de la colección, algunas etiquetas pueden estar incompletas o carecer de información crucial;
+
+00:07:35.740 --> 00:07:40.460
+La integridad (por ejemplo, la descripción de una especie) a menudo es imposible de lograr con un solo
+
+00:07:40.460 --> 00:07:41.800
+individuo;
+
+00:07:41.800 --> 00:07:46.460
+y siempre debe verificar la coherencia en su base de datos u hoja de cálculo, por ejemplo,
+
+00:07:46.460 --> 00:07:53.009
+en los términos utilizados para describir los colores, para evitar información redundante.
+
+00:07:53.009 --> 00:07:58.770
+Esta presentación se ha centrado en el tema de la calidad de los datos aplicada a la captura de datos; de hecho,
+
+00:07:58.770 --> 00:08:03.389
+estos son los pasos en los que es crucial garantizar que toda la información relacionada con cada
+
+00:08:03.389 --> 00:08:08.840
+registro se capture correcta y completamente, para que los datos sean lo más claros y comprensibles
+
+00:08:08.840 --> 00:08:11.580
+posible para los futuros usuarios.
+
+00:08:11.580 --> 00:08:16.740
+Esto solo se puede hacer si se toman decisiones consistentes a nivel institucional con el fin
+
+00:08:16.740 --> 00:08:20.879
+de crear un flujo de trabajo sólido para la captura y gestión de datos.
+
+00:08:20.879 --> 00:08:25.500
+La cadena de responsabilidad con respecto a la calidad de los datos se divide entre las personas
+
+00:08:25.500 --> 00:08:30.560
+involucradas en cada paso del proceso, pero tenga en cuenta que los datos siempre se pueden mejorar
+
+00:08:30.560 --> 00:08:37.839
+y corregir si se detectan errores u omisiones en etapas posteriores.
+
+00:08:37.839 --> 00:08:42.750
+Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la
+
+00:08:42.750 --> 00:08:43.820
+plataforma
+
+00:08:43.820 --> 00:08:49.150
+e-Learning . Este video es parte de una serie de presentaciones utilizadas en el
+
+00:08:49.150 --> 00:08:50.440
+curso de
+
+00:08:50.440 --> 00:08:55.980
+Movilización de Datos de Biodiversidad de GBIF . El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del
+
+00:08:55.980 --> 00:08:59.750
+Programa de Desarrollo de Información
+
+00:08:59.750 --> 00:09:04.690
+sobre Biodiversidad financiado por la Unión Europea. Esta presentación fue creada y narrada originalmente por Sophie Pamerlon con
+
+00:09:04.690 --> 00:09:08.799
+contribuciones adicionales de Laura Russell, instructores, mentores y estudiantes de BID y BIFA.
+

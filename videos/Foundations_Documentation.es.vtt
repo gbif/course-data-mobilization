@@ -1,0 +1,394 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.430 --> 00:00:07.059
+En esta presentación, proporcionaremos una descripción general de la importancia de la documentación en lo que respecta
+
+00:00:07.059 --> 00:00:09.810
+a la gestión y publicación de datos.
+
+00:00:09.810 --> 00:00:16.100
+Aprenderá sobre mapeo de datos, relaciones de datos y metadatos.
+
+00:00:16.100 --> 00:00:20.860
+En las presentaciones anteriores de Foundations, analizamos los elementos individuales que
+
+00:00:20.860 --> 00:00:24.150
+componen tanto sus datos como los contenedores que los contienen.
+
+00:00:24.150 --> 00:00:30.370
+Ahora veremos formas de documentar esos datos y lo que quiere hacer con ellos.
+
+00:00:30.370 --> 00:00:33.230
+Según el director Steven Spielberg,
+
+00:00:33.230 --> 00:00:36.550
+“la gente ha olvidado cómo contar una historia.
+
+00:00:36.550 --> 00:00:39.460
+Las historias ya no tienen un medio ni un final.
+
+00:00:39.460 --> 00:00:44.850
+Suelen tener un comienzo que nunca deja de comenzar ".
+
+00:00:44.850 --> 00:00:48.309
+La documentación es la historia de su proyecto o conjunto de datos.
+
+00:00:48.309 --> 00:00:53.270
+Siempre debe haber un comienzo, un desarrollo y un final concretos.
+
+00:00:53.270 --> 00:00:57.600
+En esencia, debería poder responder ciertas preguntas en puntos específicos:
+
+00:00:57.600 --> 00:01:01.960
+Al principio: ¿Qué pretendía hacer nuestro proyecto?
+
+00:01:01.960 --> 00:01:05.210
+¿Cuál fue el propósito de crear el conjunto de datos?
+
+00:01:05.210 --> 00:01:08.049
+En el medio: ¿Qué hicimos realmente?
+
+00:01:08.049 --> 00:01:09.119
+¿Qué logramos?
+
+00:01:09.119 --> 00:01:12.590
+Al final: ¿Qué no logramos?
+
+00:01:12.590 --> 00:01:13.590
+¿Por qué?
+
+00:01:13.590 --> 00:01:17.470
+¿Qué debería pasar a continuación?
+
+00:01:17.470 --> 00:01:22.250
+Para documentar sus datos y hacerlos tan aptos para su uso como sea posible para usted
+
+00:01:22.250 --> 00:01:27.000
+y los futuros usuarios, debe seguir estos tres pasos esenciales:
+
+00:01:27.000 --> 00:01:31.049
+Asignar sus datos a formatos y estándares existentes si es necesario
+
+00:01:31.049 --> 00:01:38.060
+Planificar sus movimientos de datos Cree metadatos útiles que describan sus datos
+
+00:01:38.060 --> 00:01:43.659
+Comenzaremos por buscar formas de describir sus datos, luego mostraremos cómo mapear sus
+
+00:01:43.659 --> 00:01:49.100
+datos de una estructura de datos a otra y finalmente hablaremos sobre cómo registrar metadatos
+
+00:01:49.100 --> 00:01:52.260
+sobre sus datos.
+
+00:01:52.260 --> 00:01:54.000
+Primero están los datos de mapeo.
+
+00:01:54.000 --> 00:01:58.530
+Este es el proceso que utilizará para describir cómo los atributos de su conjunto de datos se pueden
+
+00:01:58.530 --> 00:02:02.280
+transformar en atributos en uno diferente.
+
+00:02:02.280 --> 00:02:08.409
+El mapeo de datos es el "Proceso de identificación de los campos de inicio dentro del conjunto de datos A, y sus
+
+00:02:08.409 --> 00:02:13.529
+campos correspondientes en el conjunto de datos B".
+
+00:02:13.529 --> 00:02:17.180
+En este ejemplo, el conjunto de datos A tiene 10 columnas.
+
+00:02:17.180 --> 00:02:18.349
+Hay:
+
+00:02:18.349 --> 00:02:22.120
+algunos campos enteros representados por cuadrados morados,
+
+00:02:22.120 --> 00:02:25.620
+algunos campos booleanos representados por triángulos rojos
+
+00:02:25.620 --> 00:02:31.859
+Algunos campos de fecha representados por pentágonos azules Algunos campos de texto, estrellas verdes de 8 puntas
+
+00:02:31.859 --> 00:02:35.669
+y algunos campos complejos El
+
+00:02:35.669 --> 00:02:39.400
+conjunto de datos B tiene un conjunto diferente de campos, 15 pulgadas total.
+
+00:02:39.400 --> 00:02:44.829
+Lo que tenemos que hacer es identificar qué campos en el conjunto de datos A coinciden con qué campos en el conjunto de datos
+
+00:02:44.829 --> 00:02:47.109
+B
+
+00:02:47.109 --> 00:02:50.269
+Lo hacemos describiendo las relaciones.
+
+00:02:50.269 --> 00:02:55.230
+Por ejemplo, el conjunto de datos A tiene un campo de identificación y también el conjunto de datos B.
+
+00:02:55.230 --> 00:02:57.980
+Podemos dibujar una línea directamente entre los dos.
+
+00:02:57.980 --> 00:03:01.529
+A esto se le llama partido uno a uno.
+
+00:03:01.529 --> 00:03:07.390
+Pregunta: ¿Puedes ver alguna otra coincidencia uno a uno?
+
+00:03:07.390 --> 00:03:17.510
+Respuesta: ¿Estado, Exp ?, ¡Elefante rosa!
+
+00:03:17.510 --> 00:03:20.900
+Otro tipo de relación es la de uno a muchos.
+
+00:03:20.900 --> 00:03:26.799
+En estos casos, hay un solo campo en el conjunto de datos A que se asigna a 2 o más campos en el
+
+00:03:26.799 --> 00:03:31.180
+conjunto de datos B. La fecha es un ejemplo.
+
+00:03:31.180 --> 00:03:36.479
+También puede encontrar casos en los que más de un campo en el conjunto de datos A contiene datos para más
+
+00:03:36.479 --> 00:03:42.730
+de un campo en el conjunto de datos B. Los campos de notas suelen ser culpables de esto.
+
+00:03:42.730 --> 00:03:49.049
+De hecho, hay seis relaciones: algunos campos se asignarán uno a uno (1: 1), lo que
+
+00:03:49.049 --> 00:03:57.199
+significa que la columna original en el conjunto de datos A coincide exactamente con otra en el conjunto de datos B
+
+00:03:57.199 --> 00:04:02.559
+Algunos campos se asignarán de varios a uno (∞: 1 ), lo que significa que algunas columnas en el conjunto de datos A se
+
+00:04:02.559 --> 00:04:08.840
+pueden fusionar (o concatenar) para que coincida con una sola en el conjunto de datos B
+
+00:04:08.840 --> 00:04:14.069
+Algunos campos se asignarán de uno a muchos (1: ∞), lo que significa que una columna en el conjunto de datos A tendrá
+
+00:04:14.069 --> 00:04:20.840
+que ser dividir en dos o más campos para hacer coincidir los campos en el conjunto de datos B Es posible que
+
+00:04:20.840 --> 00:04:28.120
+algunos campos aún no existan de cero a uno (0: 1), lo que significa que parte de la información no está
+
+00:04:28.120 --> 00:04:33.210
+presente en el conjunto de datos A y debe agregarse en un nuevo columna para que coincida con un campo existente
+
+00:04:33.210 --> 00:04:35.669
+en el conjunto de datos B Es posible que
+
+00:04:35.669 --> 00:04:42.680
+algunos campos no tengan un lugar para ir uno a cero (1: 0), lo que significa que parte de la información presente
+
+00:04:42.680 --> 00:04:48.740
+en el conjunto de datos A no coincide con ningún campo existente en el conjunto de datos B
+
+00:04:48.740 --> 00:04:54.169
+Algunos campos se asignarán muchos a muchos (∞: ∞), lo que significa que la información del conjunto de datos A está dispersa
+
+00:04:54.169 --> 00:05:01.260
+en diferentes campos, que no coinciden exactamente con los existentes en el conjunto de datos B
+
+00:05:01.260 --> 00:05:07.210
+Cada uno de los Los tipos de relación tienen sus propios matices en cuanto a cómo vas a tener que
+
+00:05:07.210 --> 00:05:09.610
+manejarlos.
+
+00:05:09.610 --> 00:05:12.960
+uno a uno (1: 1): tenga cuidado con los tipos de campo.
+
+00:05:12.960 --> 00:05:15.020
+Si no son iguales.
+
+00:05:15.020 --> 00:05:18.960
+Necesitarás hacer alguna manipulación.
+
+00:05:18.960 --> 00:05:26.120
+muchos a uno (∞: 1): estos campos deberán unirse para entrar en el campo.
+
+00:05:26.120 --> 00:05:30.150
+uno a varios (1: ∞): estos campos deberán dividirse y colocarse en diferentes
+
+00:05:30.150 --> 00:05:32.500
+campos de
+
+00:05:32.500 --> 00:05:37.770
+cero a uno (0: 1). Averigüe cómo (o si) puede completarlos.
+
+00:05:37.770 --> 00:05:40.469
+¿Los datos están mezclados en un campo de notas?
+
+00:05:40.469 --> 00:05:44.449
+Si es así, ¿cómo lo sacas?
+
+00:05:44.449 --> 00:05:48.520
+uno a cero (1: 0): deseche los datos o agregue un campo.
+
+00:05:48.520 --> 00:05:52.570
+Es posible que ni siquiera tenga un hogar en el otro conjunto de datos.
+
+00:05:52.570 --> 00:05:56.939
+¿Puede crear un nuevo campo?
+
+00:05:56.939 --> 00:06:01.150
+muchos a muchos (∞: ∞) - "¡por el amor de un ser superior!"
+
+00:06:01.150 --> 00:06:05.460
+Esto generalmente significa que sus datos entrantes están muy desordenados y tomará tiempo limpiarlos
+
+00:06:05.460 --> 00:06:09.259
+antes de que pueda mapearlos.
+
+00:06:09.259 --> 00:06:13.300
+Este es un ejemplo de cómo se ve un documento de mapeo.
+
+00:06:13.300 --> 00:06:19.330
+Tenga en cuenta que no solo documentamos las relaciones, sino que también articulamos (según nuestro leal saber y entender)
+
+00:06:19.330 --> 00:06:21.889
+lo que se debe hacer con los datos.
+
+00:06:21.889 --> 00:06:27.370
+Hemos hablado mucho sobre la documentación de las estructuras que contienen sus datos, pero también debe
+
+00:06:27.370 --> 00:06:30.620
+documentar la información que le da contexto.
+
+00:06:30.620 --> 00:06:36.539
+¡Esto se llama metadatos y son datos sobre sus datos!
+
+00:06:36.539 --> 00:06:42.490
+Como mencionamos en la sección sobre la calidad de los datos, sus "metadatos deben ser lo suficientemente ricos para permitir que los
+
+00:06:42.490 --> 00:06:48.240
+datos (re) utilicen un tercero sin que tengan que consultar la fuente de datos".
+
+00:06:48.240 --> 00:06:55.259
+Discutiremos esto con más detalle en sesiones posteriores, pero como guía rápida, una buena documentación
+
+00:06:55.259 --> 00:06:56.680
+debe incluir:
+
+00:06:56.680 --> 00:07:01.800
+Un título: que debe ser descriptivo, memorable y, si es posible, único.
+
+00:07:01.800 --> 00:07:08.130
+Es bueno incluir fechas en el nombre de un conjunto de datos, por ejemplo, para permitirle realizar un seguimiento de las versiones.
+
+00:07:08.130 --> 00:07:12.889
+Una narrativa: debe describir el fundamento de la creación del conjunto de datos.
+
+00:07:12.889 --> 00:07:18.669
+Debe incluir al menos información general sobre la cobertura espacial, temporal y taxonómica
+
+00:07:18.669 --> 00:07:23.770
+y brindar al usuario potencial una imagen amplia de los usos que pueden ser apropiados para los datos
+
+00:07:23.770 --> 00:07:27.490
+sin una transformación adicional.
+
+00:07:27.490 --> 00:07:32.199
+Información de origen: si no recopiló ni midió los datos usted mismo, ¿de dónde o de quién los
+
+00:07:32.199 --> 00:07:34.719
+obtuvo?
+
+00:07:34.719 --> 00:07:39.169
+Linaje: ¿el conjunto de datos tiene un historial?
+
+00:07:39.169 --> 00:07:44.160
+¿Alguno de los campos se ha transformado de alguna manera con respecto al original?
+
+00:07:44.160 --> 00:07:50.930
+Declaración de precisión: utilizando los conceptos de precisión, precisión, errores e incertidumbre
+
+00:07:50.930 --> 00:07:55.849
+que discutimos anteriormente, ¿hay algún problema con el conjunto de datos que
+
+00:07:55.849 --> 00:07:58.620
+un usuario deba conocer ?
+
+00:07:58.620 --> 00:08:03.120
+Fechas y esperanza de vida: ¿Cuándo estará disponible el conjunto de datos?
+
+00:08:03.120 --> 00:08:04.870
+¿Por cuánto tiempo es válido?
+
+00:08:04.870 --> 00:08:08.960
+¿Cuándo, si es que alguna vez, se actualizará?
+
+00:08:08.960 --> 00:08:14.710
+Definiciones de campo: describe el formato de los campos y qué tipo de datos contiene cada uno.
+
+00:08:14.710 --> 00:08:18.469
+¿Alguna limpieza o transformación se redujo a los datos originales?
+
+00:08:18.469 --> 00:08:24.740
+Es importante que sepa si lo está asignando a un estándar como Darwin Core.
+
+00:08:24.740 --> 00:08:28.289
+Metodología de recopilación: ¿cómo se recopilaron los datos?
+
+00:08:28.289 --> 00:08:33.750
+¿Dónde se utilizan protocolos que afectarán su aptitud para su uso?
+
+00:08:33.750 --> 00:08:39.960
+Declaración de integridad: ¿qué falta en los datos y por qué?
+
+00:08:39.960 --> 00:08:44.990
+Condiciones de uso y limitaciones: ¿dónde y cómo se pueden utilizar los datos?
+
+00:08:44.990 --> 00:08:51.180
+Para la mayoría de los portales y GBIF en particular, los datos deben utilizar licencias muy abiertas, por lo que comprender
+
+00:08:51.180 --> 00:08:58.250
+los requisitos de los propietarios de datos y sus instituciones es muy importante.
+
+00:08:58.250 --> 00:09:02.810
+Custodia / Información de contacto: debe ser la institución responsable
+
+00:09:02.810 --> 00:09:09.070
+del conjunto de datos que se le presenta, así como (si es posible) la persona que creó el
+
+00:09:09.070 --> 00:09:10.120
+conjunto de datos.
+
+00:09:10.120 --> 00:09:14.440
+También debe haber un contacto técnico que sea responsable de la publicación del
+
+00:09:14.440 --> 00:09:15.980
+conjunto de datos.
+
+00:09:15.980 --> 00:09:22.110
+Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la
+
+00:09:22.110 --> 00:09:23.720
+plataforma e-Learning
+
+00:09:23.720 --> 00:09:29.199
+. Este video es parte de una serie de presentaciones utilizadas en el
+
+00:09:29.199 --> 00:09:30.410
+curso de
+
+00:09:30.410 --> 00:09:36.190
+Movilización de Datos de Biodiversidad de GBIF . El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del
+
+00:09:36.190 --> 00:09:40.630
+Programa de Desarrollo de Información sobre Biodiversidad financiado por la Unión Europea.
+
+00:09:40.630 --> 00:09:45.220
+Esta presentación fue creada originalmente por Sharon Grant y ha sido narrada por Sophie
+
+00:09:45.220 --> 00:09:45.720
+Pamerlon.
+

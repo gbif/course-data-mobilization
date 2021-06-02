@@ -1,0 +1,610 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.989 --> 00:00:06.109
+In this presentation, we are going to introduce
+some of the concepts that are important to
+
+00:00:06.109 --> 00:00:11.019
+understand basic data quality.
+
+00:00:11.019 --> 00:00:16.610
+The two primary concepts that we will explore
+are Fitness for Use and Measures of Quality.
+
+00:00:16.610 --> 00:00:21.640
+These two ideas will lay the foundation for
+more detailed data quality concepts and techniques
+
+00:00:21.640 --> 00:00:25.610
+in the future.
+
+00:00:25.610 --> 00:00:30.830
+Before we begin, I’d like to take a moment
+to explain why data quality is important.
+
+00:00:30.830 --> 00:00:35.680
+Cleanliness is next to Godliness is an expression
+that we sometimes use to describe the importance
+
+00:00:35.680 --> 00:00:37.610
+of data quality.
+
+00:00:37.610 --> 00:00:42.000
+In this case, Godliness can be understood
+as holiness, and when something is holy it
+
+00:00:42.000 --> 00:00:45.110
+is considered by many to be worthy of our
+trust.
+
+00:00:45.110 --> 00:00:50.470
+So, in the case of data quality, we are more
+likely to trust and to use data that has been
+
+00:00:50.470 --> 00:00:55.460
+cleaned and cared for.
+
+00:00:55.460 --> 00:01:00.100
+Stepping back into the domain of biodiversity
+informatics, the classic definition of data
+
+00:01:00.100 --> 00:01:03.430
+quality was coined in 2005 by Arthur Chapman.
+
+00:01:03.430 --> 00:01:09.390
+He wrote: “Data quality is related to use
+and cannot be assessed independently of the
+
+00:01:09.390 --> 00:01:10.520
+user.
+
+00:01:10.520 --> 00:01:15.710
+In a database, the data have no actual quality
+or value (Dalcin 2004); they only have potential
+
+00:01:15.710 --> 00:01:20.409
+value that is realized when someone uses the
+data to do something useful.
+
+00:01:20.409 --> 00:01:25.320
+Information quality relates to its ability
+to satisfy its customers and to meet customers’
+
+00:01:25.320 --> 00:01:26.899
+needs (English 1999).”
+
+00:01:26.899 --> 00:01:32.740
+And so, for us, as individuals who are responsible
+for maintaining data, we want the data we
+
+00:01:32.740 --> 00:01:37.619
+publish to be as satisfying to all of our
+potential users as possible.
+
+00:01:37.619 --> 00:01:45.020
+To do this, we seek to provide the highest
+quality data.
+
+00:01:45.020 --> 00:01:48.909
+To help you to accomplish this task, we will
+explore Fitness for Use.
+
+00:01:48.909 --> 00:01:54.759
+We will also explore the Measures of Quality,
+specifically, Correctness and Consistency.
+
+00:01:54.759 --> 00:01:58.630
+These are important concepts that you will
+need to know and be able to articulate about
+
+00:01:58.630 --> 00:02:02.509
+your own data or data that you maintain.
+
+00:02:02.509 --> 00:02:06.939
+Let’s begin with an example of Fitness for
+Use.
+
+00:02:06.939 --> 00:02:12.140
+A shoemaker creates a pair of clogs for the
+purpose of covering a person’s feet, just
+
+00:02:12.140 --> 00:02:18.050
+like those at the top of this image.
+
+00:02:18.050 --> 00:02:24.450
+When the shoemaker made these shoes, did he
+know that this girl would use them for dancing?
+
+00:02:24.450 --> 00:02:26.620
+Maybe.
+
+00:02:26.620 --> 00:02:30.950
+Do you think that the same shoemaker knew
+that a gardener might one day use the shoes
+
+00:02:30.950 --> 00:02:33.850
+as plant pots?
+
+00:02:33.850 --> 00:02:37.750
+Maybe not.
+
+00:02:37.750 --> 00:02:43.780
+We often hear people talk about data’s Fitness
+for Use in the ecological sciences, but what
+
+00:02:43.780 --> 00:02:48.260
+we need to remember is that data is not inherently
+good or bad.
+
+00:02:48.260 --> 00:02:52.650
+Rather it is the user of the data who gives
+data its value.
+
+00:02:52.650 --> 00:02:57.900
+For example, for one person, data identified
+to the level of Genus may be sufficient to
+
+00:02:57.900 --> 00:03:01.560
+run predictive models of ecological niches.
+
+00:03:01.560 --> 00:03:06.820
+For a person studying a particular taxon,
+that same genus-level data will be much less
+
+00:03:06.820 --> 00:03:13.820
+useful than more detailed occurrences with
+subspecies information.
+
+00:03:13.820 --> 00:03:20.540
+So, what is Fitness for Use and how does it
+relate to data?
+
+00:03:20.540 --> 00:03:24.940
+When Chapman discusses Fitness for Use, he
+says that once a dataset has been created
+
+00:03:24.940 --> 00:03:30.710
+and shared there are two primary perspectives
+on how those data might be used; the perspective
+
+00:03:30.710 --> 00:03:34.840
+of the creator and the perspective of the
+user.
+
+00:03:34.840 --> 00:03:39.650
+To help somebody to decide if your data is
+trustworthy or useful enough for them to use,
+
+00:03:39.650 --> 00:03:44.980
+you have to understand your data and how to
+convey those data to the potential user.
+
+00:03:44.980 --> 00:03:49.650
+These are some of the important questions
+about the metadata, or characteristics of
+
+00:03:49.650 --> 00:03:55.060
+your data, that you should be able to answer
+and share with others:
+
+00:03:55.060 --> 00:03:57.840
+How Accessible are your data?
+
+00:03:57.840 --> 00:04:00.790
+How easily can someone access your data?
+
+00:04:00.790 --> 00:04:06.260
+People can’t use the data if they can’t
+find the data.
+
+00:04:06.260 --> 00:04:08.460
+How Accurate are your data?
+
+00:04:08.460 --> 00:04:10.210
+Can your data be trusted?
+
+00:04:10.210 --> 00:04:17.540
+For example, are your identifications current
+and were they made by known experts?
+
+00:04:17.540 --> 00:04:19.430
+How Timely are they?
+
+00:04:19.430 --> 00:04:21.459
+When will the data be made available?
+
+00:04:21.459 --> 00:04:26.180
+How often are they updated?
+
+00:04:26.180 --> 00:04:29.410
+How Complete or Comprehensive are the data?
+
+00:04:29.410 --> 00:04:32.430
+Which parts of your dataset are documented
+fully?
+
+00:04:32.430 --> 00:04:39.800
+How well do the data cover a particular time,
+place, or domain?
+
+00:04:39.800 --> 00:04:41.639
+How Consistent are they?
+
+00:04:41.639 --> 00:04:45.370
+Is the data in each field always of the same
+type?
+
+00:04:45.370 --> 00:04:50.700
+Was the data collected using the same documented
+protocols?
+
+00:04:50.700 --> 00:04:52.520
+How Relevant are they?
+
+00:04:52.520 --> 00:04:59.909
+How similar is this dataset to others that
+have been used successfully for the same purpose?
+
+00:04:59.909 --> 00:05:02.080
+How Detailed are the data?
+
+00:05:02.080 --> 00:05:04.560
+How much resolution is there in your data?
+
+00:05:04.560 --> 00:05:10.249
+At what scale can they be used for mapping?
+
+00:05:10.249 --> 00:05:13.110
+Is the data Easy to interpret?
+
+00:05:13.110 --> 00:05:16.629
+Is the dataset documented in a clear and concise
+way?
+
+00:05:16.629 --> 00:05:23.330
+If your documents are handwritten, are they
+legible?
+
+00:05:23.330 --> 00:05:28.430
+While Fitness for Use is subjective, measures
+of data quality are much less so.
+
+00:05:28.430 --> 00:05:34.229
+Chapman states that: "All data include error
+– there is no escaping it!
+
+00:05:34.229 --> 00:05:39.340
+It is knowing what the error is that is important,
+and knowing if the error is within acceptable
+
+00:05:39.340 --> 00:05:46.340
+limits for the purpose to which the data are
+to be put.”
+
+00:05:46.340 --> 00:05:51.349
+We can use two measures of quality, Correctness
+and Consistency, to help us to document these
+
+00:05:51.349 --> 00:05:54.060
+inherent errors in data.
+
+00:05:54.060 --> 00:05:58.580
+Correctness, sometimes called accuracy, is
+“How close the recorded value is to the
+
+00:05:58.580 --> 00:06:01.400
+actual, real-world value”.
+
+00:06:01.400 --> 00:06:07.069
+In this diagram accuracy is how close a given
+dot is to the centre of the target.
+
+00:06:07.069 --> 00:06:12.639
+Consistency, sometimes called precision, is
+“How often you get it right”
+
+00:06:12.639 --> 00:06:17.460
+In this diagram, precision is how close the
+dots are together irrespective of how close
+
+00:06:17.460 --> 00:06:20.389
+they are to the centre of the target.
+
+00:06:20.389 --> 00:06:26.830
+These are measures of how well the data gatherer
+was able to capture the true value being investigated.
+
+00:06:26.830 --> 00:06:30.820
+Knowing these properties of your data will
+help you to understand the ways in which you
+
+00:06:30.820 --> 00:06:39.449
+can and cannot clean, validate and process
+the data.
+
+00:06:39.449 --> 00:06:44.039
+This image provides a clear set of illustrations
+of accuracy and precision.
+
+00:06:44.039 --> 00:06:47.729
+This may be a good image to keep with you
+when you have to explain these concepts to
+
+00:06:47.729 --> 00:06:50.080
+others.
+
+00:06:50.080 --> 00:06:56.789
+Let’s look at some examples of Correctness,
+or accuracy, and how it can help us think
+
+00:06:56.789 --> 00:07:00.259
+about the practicalities of data cleaning.
+
+00:07:00.259 --> 00:07:04.159
+Remember that Correctness is how close you
+are to the center of a target.
+
+00:07:04.159 --> 00:07:08.669
+Let’s look at an example.
+
+00:07:08.669 --> 00:07:13.150
+For this example, let’s imagine your dataset
+contains records of fossil bird specimens
+
+00:07:13.150 --> 00:07:15.580
+from the Early Triassic Period.
+
+00:07:15.580 --> 00:07:21.059
+The taxonomic name for a number of specimens
+in your dataset is recorded as Thismia.
+
+00:07:21.059 --> 00:07:25.999
+Do you know if Thismia is a taxon of ancient
+birds?
+
+00:07:25.999 --> 00:07:28.539
+In this case, the answer is no!
+
+00:07:28.539 --> 00:07:33.539
+Thismia is a very rare plant from the State
+of Illinois in the United States.
+
+00:07:33.539 --> 00:07:38.870
+As a result, the correctness, or accuracy,
+of the taxonomic name is low.
+
+00:07:38.870 --> 00:07:43.069
+Perhaps because the data entry technician
+was not a paleontologist.
+
+00:07:43.069 --> 00:07:47.869
+As a result, all of the names in the dataset
+might need to be checked and corrected by
+
+00:07:47.869 --> 00:07:51.960
+an expert before the data could be used.
+
+00:07:51.960 --> 00:07:55.659
+Let’s look at another example.
+
+00:07:55.659 --> 00:08:01.490
+Here, your dataset contains specimens collected
+in a place called Kalamazoo by a scientist
+
+00:08:01.490 --> 00:08:03.659
+named Richard Spruce.
+
+00:08:03.659 --> 00:08:05.279
+We must ask ourselves:
+
+00:08:05.279 --> 00:08:10.219
+Is 49007 the right postal code for Kalamazoo?
+
+00:08:10.219 --> 00:08:16.009
+Did Richard Spruce collect in Michigan?
+
+00:08:16.009 --> 00:08:23.630
+In this case, the answer is yes to our first
+question, 49007 is a postal code for Kalamazoo,
+
+00:08:23.630 --> 00:08:31.870
+so the accuracy of the locality is good, but
+what about the collector, Richard Spruce?
+
+00:08:31.870 --> 00:08:35.760
+There is, in fact, a famous botanist named
+Richard Spruce.
+
+00:08:35.760 --> 00:08:41.669
+He was born in 1817 and died in 1893, but
+he conducted his collecting in the Amazon
+
+00:08:41.669 --> 00:08:45.279
+Basin and Andes mountains in South America.
+
+00:08:45.279 --> 00:08:49.490
+Something is not quite right, so we need to
+find out more about the collector before we
+
+00:08:49.490 --> 00:08:53.670
+can be confident in the correctness of these
+data.
+
+00:08:53.670 --> 00:09:00.300
+Let’s take a look now at what Consistency,
+or precision, means to data.
+
+00:09:00.300 --> 00:09:04.450
+Consistency represents how many times you
+get the same answer, regardless of where the
+
+00:09:04.450 --> 00:09:07.080
+center of the target lies.
+
+00:09:07.080 --> 00:09:12.570
+For example, your dataset contains botanical
+occurrences including a field, or column,
+
+00:09:12.570 --> 00:09:14.529
+named “Full Name”.
+
+00:09:14.529 --> 00:09:18.320
+This field contains the name of the specimen
+collector.
+
+00:09:18.320 --> 00:09:23.620
+As you can see there are five different names,
+but how many unique collectors are there?
+
+00:09:23.620 --> 00:09:27.310
+Can you tell just by looking at the names?
+
+00:09:27.310 --> 00:09:33.820
+Sometimes, if you are familiar with the dataset,
+you might know how many collectors are represented
+
+00:09:33.820 --> 00:09:38.540
+just by looking at the data, but if you don’t
+know these data well, you might need to do
+
+00:09:38.540 --> 00:09:43.519
+some research, ask some questions or look
+at the original field notes.
+
+00:09:43.519 --> 00:09:48.800
+In this example, if you guessed that these
+five names represent two or three unique collectors,
+
+00:09:48.800 --> 00:09:49.940
+you would be right.
+
+00:09:49.940 --> 00:09:55.610
+In blue, Joseph Dalton Hooker AND Hook.f.
+are the same person.
+
+00:09:55.610 --> 00:10:00.680
+Period is the abbreviation used for Joseph
+Dalton Hooker (1817-1911).
+
+00:10:00.680 --> 00:10:05.569
+In green, W.J. Hooker and Hook. are the same
+person.
+
+00:10:05.569 --> 00:10:09.500
+Period is the abbreviation for William Jackson
+Hooker (1785-1865).
+
+00:10:09.500 --> 00:10:12.730
+William was actually Joseph’s father.
+
+00:10:12.730 --> 00:10:19.250
+Finally, in the red, there is “Hooker, J.”
+This entry could be an error or typo of either
+
+00:10:19.250 --> 00:10:25.350
+Joseph or William Hooker, OR it could be a
+third person with a similar name.
+
+00:10:25.350 --> 00:10:32.440
+Thus, more research would be needed to clarify
+these data.
+
+00:10:32.440 --> 00:10:37.170
+We have just discussed several simple illustrations
+of two measures of data quality.
+
+00:10:37.170 --> 00:10:41.630
+These examples should give you a basic understanding
+about how to identify the inaccuracies and
+
+00:10:41.630 --> 00:10:44.100
+imprecisions in data.
+
+00:10:44.100 --> 00:10:49.610
+How we document and fix these issues or errors
+is a process that we call data cleaning.
+
+00:10:49.610 --> 00:10:51.500
+More specifically:
+
+00:10:51.500 --> 00:10:56.990
+Data cleaning is the process of correcting
+or removing dirty data caused by contradictions,
+
+00:10:56.990 --> 00:11:01.089
+disparities, keying mistakes, missing bits,
+and more.
+
+00:11:01.089 --> 00:11:07.000
+It also includes validation of the changes
+made, and may require normalization.
+
+00:11:07.000 --> 00:11:13.190
+Our data cleaning, or lack thereof, will affect
+how data users perceive your data’s fitness
+
+00:11:13.190 --> 00:11:14.280
+for use.
+
+00:11:14.280 --> 00:11:19.730
+It is not necessary for you to do all the
+data cleaning yourself, in fact, a common
+
+00:11:19.730 --> 00:11:25.120
+misconception is that all errors MUST be fixed
+before you can share your data.
+
+00:11:25.120 --> 00:11:30.839
+The truth is that you can only clean as much
+data as your time, knowledge, and resources
+
+00:11:30.839 --> 00:11:32.110
+permit.
+
+00:11:32.110 --> 00:11:37.269
+As a result, it is essential to document what
+you know and what you do not know about your
+
+00:11:37.269 --> 00:11:42.329
+data so that when you do share them, data
+users will know the level of the quality of
+
+00:11:42.329 --> 00:11:46.850
+your data.
+
+00:11:46.850 --> 00:11:51.519
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:11:51.519 --> 00:11:53.259
+platform.
+
+00:11:53.259 --> 00:11:58.670
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:11:58.670 --> 00:11:59.670
+course.
+
+00:11:59.670 --> 00:12:04.620
+The biodiversity data mobilization curriculum
+was originally developed as part of the Biodiversity
+
+00:12:04.620 --> 00:12:09.670
+Information Development Programme funded by
+the European Union.
+
+00:12:09.670 --> 00:12:14.670
+This presentation was originally created by
+Sharon Grant with additional contributions
+
+00:12:14.670 --> 00:12:21.060
+by Dag Endresen, David Bloom, BID and BIFA
+Trainers, Mentors and Students.
+
+00:12:21.060 --> 00:12:25.709
+This presentation has been narrated by David
+Bloom.
+

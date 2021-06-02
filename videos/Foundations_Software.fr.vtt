@@ -1,0 +1,199 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:01.949 --> 00:00:07.309
+Cette session est un travail de base et fait partie de la section Terminologie.
+
+00:00:07.309 --> 00:00:19.370
+Nous vous présenterons les types de logiciels utilisés dans la mobilisation de données.
+
+00:00:19.370 --> 00:00:23.740
+Le but de cette courte présentation est de vous donner quelques exemples des différents
+
+00:00:23.740 --> 00:00:28.730
+types d'applications et de logiciels disponibles dans le monde de l' informatique de
+
+00:00:28.730 --> 00:00:30.520
+mobilisation de la biodiversité .
+
+00:00:30.520 --> 00:00:35.520
+J'espère que cela vous aidera à commencer à réfléchir à leurs utilisations et aux
+
+00:00:35.520 --> 00:00:38.710
+types de choses qui pourraient vous convenir.
+
+00:00:38.710 --> 00:00:43.990
+Donc très brièvement, une définition.
+
+00:00:43.990 --> 00:00:49.620
+Nous faisons ici une distinction entre tous les logiciels et les applications qui ont
+
+00:00:49.620 --> 00:00:54.870
+été créées pour qu'un utilisateur final exécute une tâche.
+
+00:00:54.870 --> 00:01:01.410
+Nous examinerons les logiciels pouvant être utilisés pour: la capture de données, la gestion des données, le
+
+00:01:01.410 --> 00:01:08.330
+nettoyage des données et la publication de données.
+
+00:01:08.330 --> 00:01:13.789
+Dans le domaine des logiciels de capture de données, il n'est souvent pas nécessaire d'aller «gros» lors de la capture
+
+00:01:13.789 --> 00:01:17.670
+initiale des informations, en particulier sur le terrain.
+
+00:01:17.670 --> 00:01:22.509
+Vous pouvez capturer des informations à partir de spécimens de collection ou d'observations en direct dans une simple
+
+00:01:22.509 --> 00:01:28.950
+feuille de calcul telle qu'Excel, OpenOffice, LibreOffice ou Google Sheets.
+
+00:01:28.950 --> 00:01:35.749
+Il peut même ne pas être du tout nécessaire de créer votre propre système.
+
+00:01:35.749 --> 00:01:44.460
+Les applications telles que iNaturalist ou eBird sont stables, robustes et ont des interfaces intuitives simples.
+
+00:01:44.460 --> 00:01:48.849
+Quel que soit le choix, il est important de penser à la préservation à long terme des données
+
+00:01:48.849 --> 00:01:52.570
+que vous collectez.
+
+00:01:52.570 --> 00:01:59.259
+Ainsi, en fonction de vos besoins, un logiciel de gestion de données plus complexe peut être la bonne
+
+00:01:59.259 --> 00:02:01.340
+solution pour vos données.
+
+00:02:01.340 --> 00:02:06.649
+Surtout si la rétention et la préservation à long terme sont une priorité.
+
+00:02:06.649 --> 00:02:14.510
+Des plates-formes de gestion plus stables prennent également mieux en charge le partage des données avec plusieurs publics.
+
+00:02:14.510 --> 00:02:20.250
+Il existe de nombreux choix qui varient en termes de coût et de support et quelques-uns sont présentés ici.
+
+00:02:20.250 --> 00:02:25.269
+De gauche à droite: Symbiota, Specify, EMu, Elysia et Brahms.
+
+00:02:25.269 --> 00:02:38.439
+Si une solution locale est préférée et peut être prise en
+
+00:02:38.439 --> 00:02:45.829
+charge, un logiciel de base de données relationnelle peut fournir des alternatives moins chères.
+
+00:02:45.829 --> 00:02:58.690
+Les exemples incluent MySQL, SQLServer, Access ou filemaker.
+
+00:02:58.690 --> 00:03:03.000
+De plus en plus, les frontières entre les langages, les programmes et les outils se sont estompées, chacun étant
+
+00:03:03.000 --> 00:03:06.950
+capable de nombreuses fonctions complexes et se chevauchant.
+
+00:03:06.950 --> 00:03:11.470
+La fonction commune Rechercher et remplacer est un bon exemple d'outil de nettoyage de données qui
+
+00:03:11.470 --> 00:03:16.629
+se trouve dans presque tous les programmes de base de données et est une commande dans les langages de base de données.
+
+00:03:16.629 --> 00:03:22.120
+Vous connaissez probablement déjà les feuilles de calcul telles qu'Excel et ce sont probablement
+
+00:03:22.120 --> 00:03:26.060
+les outils de nettoyage de données les plus courants disponibles.
+
+00:03:26.060 --> 00:03:28.550
+Cependant, il y en a d'autres.
+
+00:03:28.550 --> 00:03:34.010
+OpenRefine, à l'origine connu sous le nom de GoogleRefine, est un puissant outil de nettoyage de données open source
+
+00:03:34.010 --> 00:03:36.819
+gratuit avec une large communauté d'assistance.
+
+00:03:36.819 --> 00:03:40.769
+Vous verrez plus de ce programme dans les prochaines sessions.
+
+00:03:40.769 --> 00:03:47.200
+R est un autre langage et environnement de programmation sophistiqués et de plus en plus utilisés.
+
+00:03:47.200 --> 00:03:56.319
+Avec un peu de pratique, il peut également fournir de puissantes manipulations de données.
+
+00:03:56.319 --> 00:04:01.109
+En planifiant plus avant le partage de vos données via le GBIF avec la communauté
+
+00:04:01.109 --> 00:04:06.189
+internationale des scientifiques et des décideurs, vous devrez choisir un outil de publication.
+
+00:04:06.189 --> 00:04:11.750
+Le choix dépendra en grande partie du niveau de soutien des infrastructures de votre établissement.
+
+00:04:11.750 --> 00:04:18.600
+Si cela est élevé et stable, l'installation d'une application IPT ou BioCASe peut être la bonne
+
+00:04:18.600 --> 00:04:19.600
+option.
+
+00:04:19.600 --> 00:04:21.910
+Mais il y en a d'autres si ce n'est pas le cas.
+
+00:04:21.910 --> 00:04:27.060
+Vous pouvez envisager de vous associer à un fournisseur ipt existant ou de sélectionner un système de gestion de base de données
+
+00:04:27.060 --> 00:04:30.430
+qui inclut une voie de publication qui lui est propre.
+
+00:04:30.430 --> 00:04:36.670
+Quel que soit votre choix, assurez-vous que votre système vous permet d'exporter des données sous forme de
+
+00:04:36.670 --> 00:04:44.320
+fichiers csv ou txt et vous pourrez finalement publier vos données.
+
+00:04:44.320 --> 00:04:49.690
+Ceci est un résumé des informations recueillies dans le cadre de l'enquête sur les logiciels utilisés par les
+
+00:04:49.690 --> 00:04:53.910
+étudiants, les mentors et les formateurs de la communauté GBIF.
+
+00:04:53.910 --> 00:05:03.820
+Le lien et la référence à plus de détails sur chaque section se trouvent au bas de la diapositive.
+
+00:05:03.820 --> 00:05:08.740
+N'oubliez pas que: le but du logiciel est d'aider les gens et non l'inverse.
+
+00:05:08.740 --> 00:05:15.620
+Votre choix de solution doit vous faciliter la vie, mais il ne doit pas non plus sacrifier la
+
+00:05:15.620 --> 00:05:20.810
+viabilité à long terme des données avec lesquelles il est censé fonctionner.
+
+00:05:20.810 --> 00:05:28.910
+Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la
+
+00:05:28.910 --> 00:05:30.400
+plateforme e-Learning
+
+00:05:30.400 --> 00:05:35.790
+. Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données du GBIF sur la biodiversité
+
+00:05:35.790 --> 00:05:36.950
+.
+
+00:05:36.950 --> 00:05:42.122
+Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du programme de développement de l'
+
+00:05:42.122 --> 00:05:46.770
+information sur la biodiversité financé par l'Union européenne.
+
+00:05:46.770 --> 00:05:48.780
+Cette présentation a été créée à l'origine par Sophie Pamerlon et est racontée par Sharon
+
+00:05:48.780 --> 00:05:53.650
+Grant avec des contributions supplémentaires de formateurs, mentors et étudiants du BID et du BIFA.
+

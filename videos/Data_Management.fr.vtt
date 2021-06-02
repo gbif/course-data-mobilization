@@ -1,0 +1,406 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:01.500 --> 00:00:06.100
+Dans cette présentation, nous allons explorer les principes et processus clés importants
+
+00:00:06.100 --> 00:00:11.200
+pour une gestion efficace des données.
+
+00:00:11.200 --> 00:00:15.670
+Le concept de gestion des données comprend un large éventail de sujets, des formats de métadonnées
+
+00:00:15.670 --> 00:00:17.920
+à l'organisation des bases de données.
+
+00:00:17.920 --> 00:00:22.620
+Dans cette présentation, nous allons discuter d'un ensemble important de principes nécessaires pour
+
+00:00:22.620 --> 00:00:28.900
+améliorer les données à travers les processus de nettoyage des données.
+
+00:00:28.900 --> 00:00:30.710
+Qu'est-ce que le nettoyage des données?
+
+00:00:30.710 --> 00:00:34.460
+Le nettoyage des données a été défini par Arthur Chapman en 2005 comme:
+
+00:00:34.460 --> 00:00:39.460
+«Un processus utilisé pour déterminer des données inexactes, incomplètes ou déraisonnables, puis
+
+00:00:39.460 --> 00:00:44.170
+améliorer la qualité grâce à la correction des erreurs et omissions détectées.»
+
+00:00:44.170 --> 00:00:49.820
+Le processus de nettoyage peut inclure des vérifications du formatage, de l'exhaustivité et du caractère raisonnable,
+
+00:00:49.820 --> 00:00:55.560
+l'identification des valeurs aberrantes, l'examen par des experts du contenu et la validation par rapport aux
+
+00:00:55.560 --> 00:01:00.649
+normes, règles et conventions acceptées .
+
+00:01:00.649 --> 00:01:04.860
+Bien qu'il existe de nombreuses méthodes qui peuvent être appliquées lors du nettoyage des données, nous voyons le processus
+
+00:01:04.860 --> 00:01:07.409
+de nettoyage en cinq étapes générales:
+
+00:01:07.409 --> 00:01:12.130
+Premièrement, nous cherchons à déterminer et à définir les types d'erreurs les plus susceptibles d'être présentes
+
+00:01:12.130 --> 00:01:13.660
+dans nos données.
+
+00:01:13.660 --> 00:01:20.070
+Ensuite, nous effectuons une recherche pour identifier les instances où ces erreurs se sont produites.
+
+00:01:20.070 --> 00:01:24.710
+Ensuite, nous corrigerons ces erreurs, dans la mesure du possible.
+
+00:01:24.710 --> 00:01:29.950
+Lorsque nous décidons des meilleurs moyens de faire des corrections, nous voulons documenter à la fois les types d'erreurs que
+
+00:01:29.950 --> 00:01:34.259
+nous trouvons, ainsi que les solutions que nous leur avons appliquées.
+
+00:01:34.259 --> 00:01:39.930
+Enfin, nous souhaitons modifier la manière dont la saisie de données est pratiquée pour réduire les futures erreurs du
+
+00:01:39.930 --> 00:01:41.420
+même type.
+
+00:01:41.420 --> 00:01:45.020
+(Maletic &amp; Marcus, 2000)
+
+00:01:45.020 --> 00:01:49.810
+Une chose est sûre: les erreurs sont courantes et on peut toujours s'attendre à les trouver dans les données que
+
+00:01:49.810 --> 00:01:51.610
+nous conservons.
+
+00:01:51.610 --> 00:01:57.329
+Notre objectif est d'appliquer les meilleures pratiques, y compris les principes, les processus et les outils, pour rendre
+
+00:01:57.329 --> 00:02:02.479
+les données aussi utilisables que possible, même si nous ne savons pas comment les utilisateurs de données utiliseront
+
+00:02:02.479 --> 00:02:04.390
+les données.
+
+00:02:04.390 --> 00:02:09.599
+Jetons un coup d'œil à plusieurs des principes recommandés de nettoyage des données.
+
+00:02:09.599 --> 00:02:14.400
+Ces principes sont présentés pour votre considération afin que vous puissiez développer et améliorer votre
+
+00:02:14.400 --> 00:02:16.950
+propre flux de travail de qualité des données.
+
+00:02:16.950 --> 00:02:21.260
+Le flux de travail que vous créez doit représenter le processus le plus efficace et le plus efficace pour
+
+00:02:21.260 --> 00:02:27.390
+obtenir la meilleure qualité de données, compte tenu des ressources et de l'expertise de votre institution.
+
+00:02:27.390 --> 00:02:32.120
+Parlez à vos collègues pour en savoir plus sur leurs flux de travail, mais en fin de compte, vous devez vous efforcer
+
+00:02:32.120 --> 00:02:40.030
+de créer un flux de travail qui vous aidera à atteindre vos objectifs de qualité des données.
+
+00:02:40.030 --> 00:02:44.950
+Les deux premiers principes du nettoyage des données sont la planification et l'organisation.
+
+00:02:44.950 --> 00:02:47.190
+Planifiez le déroulement du processus de nettoyage.
+
+00:02:47.190 --> 00:02:52.900
+Une approche dispersée ou aléatoire n'est pas susceptible de produire des résultats cohérents.
+
+00:02:52.900 --> 00:02:57.170
+Développez et mettez en œuvre une stratégie qui correspond aux ressources et à l'expertise de votre institution.
+
+00:02:57.170 --> 00:03:02.590
+Un plan solide améliorera à la fois vos données et la réputation de votre institution auprès des
+
+00:03:02.590 --> 00:03:04.840
+utilisateurs de données .
+
+00:03:04.840 --> 00:03:09.099
+L'une des premières étapes de votre plan devrait être d'organiser les données.
+
+00:03:09.099 --> 00:03:13.770
+Par exemple, vous pouvez organiser vos données par taxon, puis envoyer le sous - ensemble approprié
+
+00:03:13.770 --> 00:03:18.760
+de données aux personnes disposant des connaissances ou des ressources à nettoyer en fonction des noms.
+
+00:03:18.760 --> 00:03:24.019
+Cela peut être fait par géographie ou base d'enregistrement, ou même dans des paquets de données de
+
+00:03:24.019 --> 00:03:26.370
+taille spécifique dans l'ordre numérique.
+
+00:03:26.370 --> 00:03:32.970
+Travaillez aux atouts de votre institution.
+
+00:03:32.970 --> 00:03:36.790
+Comme le dit Arthur Chapman, «mieux vaut prévenir que guérir.»
+
+00:03:36.790 --> 00:03:41.159
+En fin de compte, il est toujours plus facile et moins coûteux de prévenir une erreur que d'en
+
+00:03:41.159 --> 00:03:43.580
+rechercher une et de la corriger.
+
+00:03:43.580 --> 00:03:47.650
+Plus vous planifiez à l'avance, même jusqu'au moment où les données sont
+
+00:03:47.650 --> 00:03:52.470
+enregistrées sur le terrain, moins vous risquez de trouver des erreurs.
+
+00:03:52.470 --> 00:03:56.620
+Des vocabulaires normalisés et des procédures claires de saisie et de saisie de données ne sont que
+
+00:03:56.620 --> 00:04:01.400
+quelques - uns des nombreux outils que vous pouvez utiliser pour éviter d'éventuelles erreurs.
+
+00:04:01.400 --> 00:04:06.269
+Assurez-vous que tout le monde dans votre organisation comprend que la qualité des données est la
+
+00:04:06.269 --> 00:04:07.409
+responsabilité de chacun .
+
+00:04:07.409 --> 00:04:12.110
+Bien sûr, la responsabilité principale incombe aux personnes qui gèrent les données, mais
+
+00:04:12.110 --> 00:04:17.709
+tout le monde, des techniciens de terrain aux étudiants effectuant la saisie de données en passant par les conservateurs émérites,
+
+00:04:17.709 --> 00:04:23.560
+a la responsabilité de traiter les données avec soin et de communiquer toute erreur ou incohérence
+
+00:04:23.560 --> 00:04:28.610
+qu'ils pourraient découvrir.
+
+00:04:28.610 --> 00:04:33.130
+La maintenance des données n'est aussi efficace que l'expertise qui soutient le processus et aucun
+
+00:04:33.130 --> 00:04:38.050
+individu ne peut être censé tout savoir sur tout.
+
+00:04:38.050 --> 00:04:42.650
+Le développement de partenariats avec des utilisateurs de données et des experts en contenu peut contribuer à rendre le
+
+00:04:42.650 --> 00:04:45.600
+processus de qualité des données plus efficace.
+
+00:04:45.600 --> 00:04:50.630
+Contactez votre communauté d'utilisateurs, à la fois à l'intérieur et à l'extérieur de votre institution, et travaillez
+
+00:04:50.630 --> 00:04:56.400
+avec eux pour vous aider à maintenir vos données de la plus haute qualité.
+
+00:04:56.400 --> 00:05:00.990
+Donnez la priorité à votre nettoyage pour profiter des ressources et des connaissances que possède
+
+00:05:00.990 --> 00:05:02.130
+votre établissement .
+
+00:05:02.130 --> 00:05:06.360
+Par exemple, vous pouvez choisir de revoir toutes les données enregistrées par des collecteurs
+
+00:05:06.360 --> 00:05:10.270
+encore en vie afin que les données importantes ne soient pas perdues plus tard.
+
+00:05:10.270 --> 00:05:14.630
+Si vous gérez un ensemble de données volumineux, vous pouvez choisir de hiérarchiser les données pouvant être nettoyées
+
+00:05:14.630 --> 00:05:20.300
+au moindre coût à l'aide de processus automatisés, puis de hiérarchiser les erreurs les plus difficiles
+
+00:05:20.300 --> 00:05:23.210
+qui nécessitent une attention individuelle.
+
+00:05:23.210 --> 00:05:27.840
+En fin de compte, vous devez prioriser les données qui sont de la plus grande valeur pour le travail
+
+00:05:27.840 --> 00:05:36.449
+de votre institution, puis parcourir les données de manière logique et ordonnée.
+
+00:05:36.449 --> 00:05:40.760
+Parfois, il peut être une stratégie efficace de définir certaines mesures de performance avant
+
+00:05:40.760 --> 00:05:43.520
+le début du processus de nettoyage.
+
+00:05:43.520 --> 00:05:48.340
+Une mesure du rendement pourrait consister à terminer le nettoyage de 500 enregistrements chaque semaine.
+
+00:05:48.340 --> 00:05:52.910
+Une autre mesure pourrait consister à fournir un rapport statistique sur l'exactitude des corrections
+
+00:05:52.910 --> 00:05:54.949
+apportées, par exemple:
+
+00:05:54.949 --> 00:06:00.090
+«95% de toutes les géoréférences corrigées cette semaine ont maintenant une incertitude en mètres de
+
+00:06:00.090 --> 00:06:02.919
+moins de 1000 mètres.»
+
+00:06:02.919 --> 00:06:06.419
+Ces types de mesures peuvent orienter et guider les personnes qui effectuent le
+
+00:06:06.419 --> 00:06:13.169
+nettoyage, ainsi que servir de moyen de rendre compte des réussites et des domaines à
+
+00:06:13.169 --> 00:06:14.169
+améliorer.
+
+00:06:14.169 --> 00:06:19.259
+Dans un monde idéal, vous aurez développé un plan de maintenance des données optimisé
+
+00:06:19.259 --> 00:06:22.789
+pour être le plus performant et le plus efficace possible.
+
+00:06:22.789 --> 00:06:28.470
+L'optimisation peut être réalisée de différentes manières, notamment en tirant parti des atouts de votre institution
+
+00:06:28.470 --> 00:06:34.419
+, en fixant des objectifs clairs et une mesure du succès, et en ajustant régulièrement vos
+
+00:06:34.419 --> 00:06:39.919
+priorités en fonction des ressources disponibles.
+
+00:06:39.919 --> 00:06:44.169
+L'un des meilleurs moyens de connaître le succès de vos processus de nettoyage et de maintenance des données
+
+00:06:44.169 --> 00:06:48.230
+consiste à demander l'avis des utilisateurs de données de votre communauté.
+
+00:06:48.230 --> 00:06:52.460
+Cela peut être accompli grâce aux partenariats dont nous avons discuté précédemment, mais vous pouvez également solliciter des
+
+00:06:52.460 --> 00:06:54.600
+commentaires d'autres manières.
+
+00:06:54.600 --> 00:06:58.560
+Une telle manière consiste à examiner la manière dont le GBIF présente vos données.
+
+00:06:58.560 --> 00:07:03.419
+Vous pouvez afficher la comparaison entre les données textuelles publiées sur GBIF et les données
+
+00:07:03.419 --> 00:07:06.699
+interprétées que GBIF aurait pu corriger ou mettre à jour.
+
+00:07:06.699 --> 00:07:11.360
+Ces comparaisons peuvent vous aider à optimiser votre processus de nettoyage des données, mais vous pouvez également
+
+00:07:11.360 --> 00:07:17.039
+aider le GBIF à améliorer ses processus de qualité des données, également, lorsque vous leur fournissez des commentaires d'experts
+
+00:07:17.039 --> 00:07:18.990
+.
+
+00:07:18.990 --> 00:07:24.280
+L'un des meilleurs moyens de réussir le nettoyage des données est de fournir une formation et une éducation
+
+00:07:24.280 --> 00:07:26.910
+à tous ceux qui travaillent avec vos données.
+
+00:07:26.910 --> 00:07:31.860
+Il peut s'agir de formations que vous organisez vous-même, de formations locales ou régionales en partenariat
+
+00:07:31.860 --> 00:07:36.710
+avec ou présentées par d'autres institutions de votre région, ou d'ateliers et de cours dispensés
+
+00:07:36.710 --> 00:07:39.450
+par d'autres groupes, tels que le GBIF.
+
+00:07:39.450 --> 00:07:44.639
+Si vous avez besoin de formation, veuillez consulter régulièrement le site Web du GBIF ou contacter les mentors communautaires du
+
+00:07:44.639 --> 00:07:50.150
+GBIF ou les ambassadeurs des données ouvertes de la biodiversité du GBIF qui peuvent également être de bonnes ressources
+
+00:07:50.150 --> 00:07:57.139
+pour des opportunités de formation et d'éducation.
+
+00:07:57.139 --> 00:08:00.680
+La documentation est l'un des principes les plus importants du nettoyage des données.
+
+00:08:00.680 --> 00:08:03.099
+Cela est vrai de deux manières principales.
+
+00:08:03.099 --> 00:08:08.960
+Premièrement, quels que soient les processus que vous utilisez pour conserver vos données, il est important d'être transparent
+
+00:08:08.960 --> 00:08:12.110
+sur la façon dont les erreurs sont découvertes et corrigées.
+
+00:08:12.110 --> 00:08:18.289
+Cette transparence peut être vraiment réussie lorsque le processus de nettoyage des données est bien documenté.
+
+00:08:18.289 --> 00:08:22.919
+Sans une documentation claire et accessible, vous courez le risque de perdre les meilleures pratiques, de
+
+00:08:22.919 --> 00:08:27.590
+créer des processus redondants et de perdre l'optimisation.
+
+00:08:27.590 --> 00:08:33.110
+Une bonne documentation vous aidera à éviter les erreurs récurrentes.
+
+00:08:33.110 --> 00:08:36.550
+La documentation est également la clé d'une bonne qualité des données.
+
+00:08:36.550 --> 00:08:41.800
+Une bonne documentation, dans les métadonnées, par exemple, permet aux utilisateurs de données de déterminer l'aptitude
+
+00:08:41.800 --> 00:08:43.769
+à utiliser vos données.
+
+00:08:43.769 --> 00:08:47.950
+Votre documentation ne doit pas seulement inclure de bonnes métadonnées, elle doit également inclure les
+
+00:08:47.950 --> 00:08:54.060
+meilleures pratiques, les vocabulaires normalisés et les autorités taxonomiques et géographiques utilisées.
+
+00:08:54.060 --> 00:08:59.430
+Documenter quelles données ont été nettoyées et par qui vous aidera à améliorer votre optimisation, à
+
+00:08:59.430 --> 00:09:04.020
+atteindre des mesures de performance et, en fin de compte, à raconter une histoire plus complète de l'origine de vos données
+
+00:09:04.020 --> 00:09:11.700
+et de la manière dont elles ont été améliorées au fil du temps.
+
+00:09:11.700 --> 00:09:16.340
+Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la
+
+00:09:16.340 --> 00:09:17.990
+plateforme e-Learning .
+
+00:09:17.990 --> 00:09:22.950
+Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données du GBIF sur la biodiversité
+
+00:09:22.950 --> 00:09:23.970
+.
+
+00:09:23.970 --> 00:09:28.690
+Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du programme de développement de l'
+
+00:09:28.690 --> 00:09:33.149
+information sur la biodiversité financé par l'Union européenne.
+
+00:09:33.149 --> 00:09:37.930
+Cette présentation a été créée à l'origine par Nestor Beltran avec des contributions supplémentaires
+
+00:09:37.930 --> 00:09:43.350
+de David Bloom, des formateurs, mentors et étudiants du BID et du BIFA.
+
+00:09:43.350 --> 00:09:45.860
+Cette présentation a été racontée par David Bloom.
+

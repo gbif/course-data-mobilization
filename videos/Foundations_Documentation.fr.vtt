@@ -1,0 +1,394 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:01.430 --> 00:00:07.059
+Dans cette présentation, nous donnerons un aperçu de l'importance de la documentation en ce qui concerne
+
+00:00:07.059 --> 00:00:09.810
+la gestion des données et la publication des données.
+
+00:00:09.810 --> 00:00:16.100
+Vous découvrirez le mappage de données, les relations de données et les métadonnées.
+
+00:00:16.100 --> 00:00:20.860
+Dans les présentations précédentes de Foundations, nous avons examiné les éléments individuels qui
+
+00:00:20.860 --> 00:00:24.150
+composent à la fois vos données et les conteneurs qui les contiennent.
+
+00:00:24.150 --> 00:00:30.370
+Nous allons maintenant examiner les moyens de documenter ces données et ce que vous voulez en faire.
+
+00:00:30.370 --> 00:00:33.230
+Selon le réalisateur Steven Spielberg,
+
+00:00:33.230 --> 00:00:36.550
+«les gens ont oublié comment raconter une histoire.
+
+00:00:36.550 --> 00:00:39.460
+Les histoires n'ont plus ni milieu ni fin.
+
+00:00:39.460 --> 00:00:44.850
+Ils ont généralement un début qui ne cesse de commencer. »
+
+00:00:44.850 --> 00:00:48.309
+La documentation est l'histoire de votre projet ou ensemble de données.
+
+00:00:48.309 --> 00:00:53.270
+Il devrait toujours y avoir un début, un milieu et une fin concrets.
+
+00:00:53.270 --> 00:00:57.600
+En substance, vous devriez être en mesure de répondre à certaines questions à des moments précis:
+
+00:00:57.600 --> 00:01:01.960
+Au début: quel était l'objectif de notre projet?
+
+00:01:01.960 --> 00:01:05.210
+Quel était le but de la création de l'ensemble de données?
+
+00:01:05.210 --> 00:01:08.049
+Au milieu: qu'avons-nous fait réellement?
+
+00:01:08.049 --> 00:01:09.119
+Qu'avons-nous réalisé?
+
+00:01:09.119 --> 00:01:12.590
+À la fin: qu'est-ce que nous n'avons pas réalisé?
+
+00:01:12.590 --> 00:01:13.590
+Pourquoi?
+
+00:01:13.590 --> 00:01:17.470
+Que devrait-il se passer ensuite?
+
+00:01:17.470 --> 00:01:22.250
+Afin de documenter vos données et de les rendre aussi utilisables que possible pour vous
+
+00:01:22.250 --> 00:01:27.000
+- même et les futurs utilisateurs, vous devez suivre ces trois étapes essentielles:
+
+00:01:27.000 --> 00:01:31.049
+Mapper vos données aux formats et normes existants si nécessaire
+
+00:01:31.049 --> 00:01:38.060
+Planifier vos déplacements de données Créer des métadonnées utiles décrivant vos données
+
+00:01:38.060 --> 00:01:43.659
+Nous commencerons par chercher des moyens de décrire vos données, puis nous montrerons comment mapper vos
+
+00:01:43.659 --> 00:01:49.100
+données d'une structure de données à une autre et enfin parler de la façon d'enregistrer des métadonnées
+
+00:01:49.100 --> 00:01:52.260
+sur vos données.
+
+00:01:52.260 --> 00:01:54.000
+Le premier est la cartographie des données.
+
+00:01:54.000 --> 00:01:58.530
+C'est le processus que vous utiliserez pour décrire comment les attributs de votre ensemble de données peuvent être
+
+00:01:58.530 --> 00:02:02.280
+transformés en attributs dans un autre.
+
+00:02:02.280 --> 00:02:08.409
+La cartographie des données est le «Processus d'identification du ou des champs de départ dans l'ensemble de données A, et son
+
+00:02:08.409 --> 00:02:13.529
+(leurs) champ (s) correspondant dans l'ensemble de données B.»
+
+00:02:13.529 --> 00:02:17.180
+Dans cet exemple, l'ensemble de données A comporte 10 colonnes.
+
+00:02:17.180 --> 00:02:18.349
+Il y a:
+
+00:02:18.349 --> 00:02:22.120
+des champs entiers représentés par les carrés violets,
+
+00:02:22.120 --> 00:02:25.620
+des champs booléens représentés par les triangles rouges
+
+00:02:25.620 --> 00:02:31.859
+Certains champs de date représentés par pentagones bleu Certains champs de texte, vert 8 étoiles pointues
+
+00:02:31.859 --> 00:02:35.669
+et des champs complexes
+
+00:02:35.669 --> 00:02:39.400
+dataset B a un ensemble différent de champs, 15 dans le total.
+
+00:02:39.400 --> 00:02:44.829
+Ce que nous devons faire est d'identifier quels champs de l'ensemble de données A correspondent à quels champs de l'ensemble de données
+
+00:02:44.829 --> 00:02:47.109
+B
+
+00:02:47.109 --> 00:02:50.269
+Nous faisons cela en décrivant les relations.
+
+00:02:50.269 --> 00:02:55.230
+Par exemple, l'ensemble de données A a un champ ID, tout comme l'ensemble de données B.
+
+00:02:55.230 --> 00:02:57.980
+Nous pouvons tracer une ligne directement entre les deux.
+
+00:02:57.980 --> 00:03:01.529
+C'est ce qu'on appelle un match un contre un.
+
+00:03:01.529 --> 00:03:07.390
+Question: Pouvez-vous voir d'autres correspondances individuelles?
+
+00:03:07.390 --> 00:03:17.510
+Réponse: State, Exp ?, Pink Elephant!
+
+00:03:17.510 --> 00:03:20.900
+Un autre type de relation est un à plusieurs.
+
+00:03:20.900 --> 00:03:26.799
+Dans ces cas, il existe un seul champ dans l'ensemble de données A qui correspond à 2 champs ou plus dans l'ensemble de
+
+00:03:26.799 --> 00:03:31.180
+données B. La date est un exemple.
+
+00:03:31.180 --> 00:03:36.479
+Vous trouverez également des cas où plusieurs champs dans l'ensemble de données A contiennent des données pour plusieurs
+
+00:03:36.479 --> 00:03:42.730
+champs dans l'ensemble de données B. Les champs Notes sont souvent coupables de cela.
+
+00:03:42.730 --> 00:03:49.049
+En fait, il existe six relations: Certains champs mapperont un à un (1: 1), ce qui signifie
+
+00:03:49.049 --> 00:03:57.199
+que la colonne d'origine dans l'ensemble de données A correspond exactement à une autre dans l'ensemble de données B
+
+00:03:57.199 --> 00:04:02.559
+Certains champs mapperont plusieurs à un (∞: 1 ), ce qui signifie que certaines colonnes de l'ensemble de données A peuvent
+
+00:04:02.559 --> 00:04:08.840
+être fusionnées (ou concaténées) pour correspondre à une seule dans l'ensemble de données B
+
+00:04:08.840 --> 00:04:14.069
+Certains champs mapperont un à plusieurs (1: ∞), ce qui signifie qu'une colonne de l'ensemble de données A devra
+
+00:04:14.069 --> 00:04:20.840
+être divisé en deux ou plusieurs champs afin de faire correspondre les champs de l'ensemble de données B
+
+00:04:20.840 --> 00:04:28.120
+Certains champs peuvent ne pas exister encore de zéro à un (0: 1), ce qui signifie que certaines informations ne sont pas
+
+00:04:28.120 --> 00:04:33.210
+présentes dans l'ensemble de données A et doivent être ajoutées dans un nouveau colonne pour correspondre à un champ existant
+
+00:04:33.210 --> 00:04:35.669
+dans l'ensemble de données B
+
+00:04:35.669 --> 00:04:42.680
+Certains champs peuvent ne pas avoir d'emplacement pour aller de un à zéro (1: 0), ce qui signifie que certaines informations présentes
+
+00:04:42.680 --> 00:04:48.740
+dans l'ensemble de données A ne correspondent à aucun champ existant sur l'ensemble de données B
+
+00:04:48.740 --> 00:04:54.169
+Certains champs seront mappés plusieurs-à-plusieurs (∞: ∞), ce qui signifie que les informations de l'ensemble de données A sont dispersées
+
+00:04:54.169 --> 00:05:01.260
+dans différents champs, qui ne correspondent pas exactement à ceux existants dans l'ensemble de données B
+
+00:05:01.260 --> 00:05:07.210
+Chacun des types de relations a ses propres nuances quant à la façon dont vous allez devoir les
+
+00:05:07.210 --> 00:05:09.610
+gérer.
+
+00:05:09.610 --> 00:05:12.960
+one-to-one (1: 1) - Méfiez-vous de vos types de champs.
+
+00:05:12.960 --> 00:05:15.020
+S'ils ne sont pas les mêmes.
+
+00:05:15.020 --> 00:05:18.960
+Vous devrez faire quelques manipulations.
+
+00:05:18.960 --> 00:05:26.120
+plusieurs-à-un (∞: 1) - Ces champs devront être réunis pour aller sur le terrain.
+
+00:05:26.120 --> 00:05:30.150
+un-à-plusieurs (1: ∞) - Ces champs devront être séparés et placés dans différents
+
+00:05:30.150 --> 00:05:32.500
+champs de
+
+00:05:32.500 --> 00:05:37.770
+zéro à un (0: 1) - Déterminez comment (ou si) vous pouvez même les remplir.
+
+00:05:37.770 --> 00:05:40.469
+Les données sont-elles mélangées dans un champ de notes?
+
+00:05:40.469 --> 00:05:44.449
+Si oui, comment le sortir?
+
+00:05:44.449 --> 00:05:48.520
+un à zéro (1: 0) - Soit jeter les données, soit ajouter un champ.
+
+00:05:48.520 --> 00:05:52.570
+Vous n'avez peut-être même pas de domicile dans l'autre ensemble de données.
+
+00:05:52.570 --> 00:05:56.939
+Créez / pouvez-vous créer un nouveau champ?
+
+00:05:56.939 --> 00:06:01.150
+plusieurs-à-plusieurs (∞: ∞) - "pour l'amour d'un être supérieur!"
+
+00:06:01.150 --> 00:06:05.460
+Cela signifie généralement que vos données entrantes sont très désordonnées et qu'il faudra du temps pour les nettoyer
+
+00:06:05.460 --> 00:06:09.259
+avant de pouvoir les mapper.
+
+00:06:09.259 --> 00:06:13.300
+Voici un exemple de ce à quoi ressemble un document cartographique.
+
+00:06:13.300 --> 00:06:19.330
+Notez que non seulement nous documentons les relations, nous articulons également (au meilleur de nos connaissances)
+
+00:06:19.330 --> 00:06:21.889
+ce qui devrait être fait aux données.
+
+00:06:21.889 --> 00:06:27.370
+Nous avons beaucoup parlé de documenter les structures qui contiennent vos données, mais vous devez
+
+00:06:27.370 --> 00:06:30.620
+également documenter les informations qui donnent le contexte.
+
+00:06:30.620 --> 00:06:36.539
+C'est ce qu'on appelle des métadonnées et ce sont des données sur vos données!
+
+00:06:36.539 --> 00:06:42.490
+Comme nous le mentionnons dans la section sur la qualité des données, vos "métadonnées doivent être suffisamment riches pour permettre
+
+00:06:42.490 --> 00:06:48.240
+la (ré) utilisation des données par un tiers sans qu'elles aient à se référer à la source de données."
+
+00:06:48.240 --> 00:06:55.259
+Nous en discuterons plus en détail dans les sessions ultérieures, mais comme guide rapide, une bonne documentation
+
+00:06:55.259 --> 00:06:56.680
+devrait inclure:
+
+00:06:56.680 --> 00:07:01.800
+Un titre - qui devrait être descriptif, mémorable et si possible unique.
+
+00:07:01.800 --> 00:07:08.130
+Les dates sont bonnes à inclure dans un nom de jeu de données, par exemple pour vous permettre de suivre les versions.
+
+00:07:08.130 --> 00:07:12.889
+Un récit - Doit décrire la justification de la création de l'ensemble de données.
+
+00:07:12.889 --> 00:07:18.669
+Il devrait inclure au moins des informations générales sur la couverture spatiale, temporelle et taxonomique
+
+00:07:18.669 --> 00:07:23.770
+et donner à l'utilisateur potentiel une vue d'ensemble des utilisations qui peuvent être appropriées pour les données
+
+00:07:23.770 --> 00:07:27.490
+sans autre transformation.
+
+00:07:27.490 --> 00:07:32.199
+Informations sur la source - Si vous n'avez pas collecté ou mesuré les données vous-même, d'où ou de qui les
+
+00:07:32.199 --> 00:07:34.719
+avez-vous obtenues ?
+
+00:07:34.719 --> 00:07:39.169
+Lignée - L'ensemble de données a-t-il une histoire?
+
+00:07:39.169 --> 00:07:44.160
+L'un des champs a-t-il été transformé de quelque manière que ce soit par rapport à l'original?
+
+00:07:44.160 --> 00:07:50.930
+Déclaration d'exactitude - En utilisant les concepts d'exactitude, de précision, d'erreurs et d'incertitude
+
+00:07:50.930 --> 00:07:55.849
+dont nous avons discuté précédemment, y a-t-il des problèmes avec l'ensemble de données qui devraient être connus
+
+00:07:55.849 --> 00:07:58.620
+d'un utilisateur?
+
+00:07:58.620 --> 00:08:03.120
+Dates et espérance de vie - Quand l'ensemble de données sera-t-il disponible?
+
+00:08:03.120 --> 00:08:04.870
+Combien de temps est-il valable?
+
+00:08:04.870 --> 00:08:08.960
+Quand sera-t-il mis à jour, le cas échéant?
+
+00:08:08.960 --> 00:08:14.710
+Définitions des champs - Décrivant le format des champs et le type de données que chacun contient.
+
+00:08:14.710 --> 00:08:18.469
+Y a-t-il eu un nettoyage ou une transformation des données d'origine?
+
+00:08:18.469 --> 00:08:24.740
+Il est important que vous sachiez si vous le mappez à une norme telle que Darwin Core.
+
+00:08:24.740 --> 00:08:28.289
+Méthodologie de collecte - Comment les données ont-elles été collectées?
+
+00:08:28.289 --> 00:08:33.750
+Où existe-t-il des protocoles utilisés qui affecteront son aptitude à l'emploi?
+
+00:08:33.750 --> 00:08:39.960
+Déclaration d'exhaustivité - Que manque-t-il dans les données et pourquoi?
+
+00:08:39.960 --> 00:08:44.990
+Conditions d'utilisation et contraintes - Où et comment utiliser les données?
+
+00:08:44.990 --> 00:08:51.180
+Pour la plupart des portails et le GBIF en particulier, les données doivent utiliser des licences très ouvertes, il
+
+00:08:51.180 --> 00:08:58.250
+est donc très important de comprendre les exigences des propriétaires de données et de leurs institutions.
+
+00:08:58.250 --> 00:09:02.810
+Informations de garde / de contact - Il doit s'agir de l'institution responsable de
+
+00:09:02.810 --> 00:09:09.070
+l'ensemble de données tel que présenté, ainsi que (si possible) de la personne qui a créé l'
+
+00:09:09.070 --> 00:09:10.120
+ensemble de données.
+
+00:09:10.120 --> 00:09:14.440
+Il devrait également y avoir un contact technique qui est responsable de la publication de l'
+
+00:09:14.440 --> 00:09:15.980
+ensemble de données.
+
+00:09:15.980 --> 00:09:22.110
+Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la
+
+00:09:22.110 --> 00:09:23.720
+plateforme e-Learning .
+
+00:09:23.720 --> 00:09:29.199
+Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données du GBIF sur la biodiversité
+
+00:09:29.199 --> 00:09:30.410
+.
+
+00:09:30.410 --> 00:09:36.190
+Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du programme de développement de l'
+
+00:09:36.190 --> 00:09:40.630
+information sur la biodiversité financé par l'Union européenne.
+
+00:09:40.630 --> 00:09:45.220
+Cette présentation a été créée à l'origine par Sharon Grant et a été racontée par Sophie
+
+00:09:45.220 --> 00:09:45.720
+Pamerlon.
+

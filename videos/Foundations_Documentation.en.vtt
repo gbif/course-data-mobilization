@@ -1,0 +1,481 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.430 --> 00:00:07.059
+In this presentation, we will provide an overview
+of the importance of documentation as it relates
+
+00:00:07.059 --> 00:00:09.810
+to data management and data publishing.
+
+00:00:09.810 --> 00:00:16.100
+You will learn about data mapping, data relationships
+and metadata .
+
+00:00:16.100 --> 00:00:20.860
+In the previous Foundations presentations,
+we looked at the individual elements that
+
+00:00:20.860 --> 00:00:24.150
+make up both your data and the containers
+that hold it.
+
+00:00:24.150 --> 00:00:30.370
+Now we’ll look at ways to document those
+data and what you want to do with it.
+
+00:00:30.370 --> 00:00:33.230
+According to the director Steven Spielberg,
+
+00:00:33.230 --> 00:00:36.550
+“People have forgotten how to tell a story.
+
+00:00:36.550 --> 00:00:39.460
+Stories don’t have a middle or an end any
+more.
+
+00:00:39.460 --> 00:00:44.850
+They usually have a beginning that never stops
+beginning.”
+
+00:00:44.850 --> 00:00:48.309
+Documentation is the story of your project
+or dataset.
+
+00:00:48.309 --> 00:00:53.270
+There should always be a concrete beginning,
+middle and end.
+
+00:00:53.270 --> 00:00:57.600
+In essence you should be able to answer certain
+questions at specific points:
+
+00:00:57.600 --> 00:01:01.960
+At the beginning: What did our project aim
+to do?
+
+00:01:01.960 --> 00:01:05.210
+What was the purpose of creating the dataset?
+
+00:01:05.210 --> 00:01:08.049
+In the middle: What did we actually do?
+
+00:01:08.049 --> 00:01:09.119
+What did we achieve?
+
+00:01:09.119 --> 00:01:12.590
+At the end: What didn’t we achieve?
+
+00:01:12.590 --> 00:01:13.590
+Why?
+
+00:01:13.590 --> 00:01:17.470
+What should happen next?
+
+00:01:17.470 --> 00:01:22.250
+In order to document your data and render
+them as fit for use as possible for yourself
+
+00:01:22.250 --> 00:01:27.000
+and future users, you need to follow these
+three essential steps :
+
+00:01:27.000 --> 00:01:31.049
+Mapping your data to existing formats and
+standards if necessary
+
+00:01:31.049 --> 00:01:38.060
+Planning your data moves
+Create useful metadata describing your data
+
+00:01:38.060 --> 00:01:43.659
+We will begin by looking at ways to describe
+your data, then we will show how to map your
+
+00:01:43.659 --> 00:01:49.100
+data from one data structure to another and
+finally talk about how to record metadata
+
+00:01:49.100 --> 00:01:52.260
+about your data.
+
+00:01:52.260 --> 00:01:54.000
+First is mapping data.
+
+00:01:54.000 --> 00:01:58.530
+This is the process that you will use to describe
+how the attributes in your dataset can be
+
+00:01:58.530 --> 00:02:02.280
+transformed into attributes in a different
+one.
+
+00:02:02.280 --> 00:02:08.409
+Mapping data is the “Process of Identifying
+the start field(s) within dataset A, and its
+
+00:02:08.409 --> 00:02:13.529
+(their) corresponding field(s) in dataset
+B.”
+
+00:02:13.529 --> 00:02:17.180
+In this example Dataset A has 10 columns.
+
+00:02:17.180 --> 00:02:18.349
+There are:
+
+00:02:18.349 --> 00:02:22.120
+some integer fields represented by the purple
+squares,
+
+00:02:22.120 --> 00:02:25.620
+some boolean fields represented by the red
+triangles
+
+00:02:25.620 --> 00:02:31.859
+Some date fields represented by blue pentagons
+Some text fields, green 8 pointed stars
+
+00:02:31.859 --> 00:02:35.669
+and some complex fields
+
+00:02:35.669 --> 00:02:39.400
+Dataset B has a different set of fields, 15
+in total.
+
+00:02:39.400 --> 00:02:44.829
+What we need to do is identify which fields
+in Dataset A match which fields in Dataset
+
+00:02:44.829 --> 00:02:47.109
+B
+
+00:02:47.109 --> 00:02:50.269
+We do that by describing the relationships.
+
+00:02:50.269 --> 00:02:55.230
+For example Dataset A has an ID field and
+so does Dataset B.
+
+00:02:55.230 --> 00:02:57.980
+We can draw a line directly between the two.
+
+00:02:57.980 --> 00:03:01.529
+This is called a one to one match.
+
+00:03:01.529 --> 00:03:07.390
+Question: Can you see any other one to one
+matches?
+
+00:03:07.390 --> 00:03:17.510
+Answer: State, Exp?, Pink Elephant!
+
+00:03:17.510 --> 00:03:20.900
+Another type of relationship is is a one to
+many.
+
+00:03:20.900 --> 00:03:26.799
+In these cases there is a single field in
+dataset A that maps to 2 or more fields in
+
+00:03:26.799 --> 00:03:31.180
+Dataset B.
+Date is an example.
+
+00:03:31.180 --> 00:03:36.479
+You many also find cases where a more than
+one field in Dataset A contains data for more
+
+00:03:36.479 --> 00:03:42.730
+than one field in Dataset B.
+Notes fields are often guilty of this.
+
+00:03:42.730 --> 00:03:49.049
+In fact there are six relationships:
+Some fields will map one-to-one (1:1), meaning
+
+00:03:49.049 --> 00:03:57.199
+that the original column in dataset A exactly
+matches another one in dataset B
+
+00:03:57.199 --> 00:04:02.559
+Some fields will map many-to-one (∞:1),
+meaning that some columns in dataset A can
+
+00:04:02.559 --> 00:04:08.840
+be merged (or concatenated) to match a single
+one in dataset B
+
+00:04:08.840 --> 00:04:14.069
+Some fields will map one-to-many (1:∞),
+meaning that one column in dataset A will
+
+00:04:14.069 --> 00:04:20.840
+have to be split into two or more fields in
+order to match the fields in dataset B
+
+00:04:20.840 --> 00:04:28.120
+Some fields might not exist yet zero-to-one
+(0:1), meaning that some information are not
+
+00:04:28.120 --> 00:04:33.210
+present in dataset A and need to be added
+in a new column to match an existing field
+
+00:04:33.210 --> 00:04:35.669
+in dataset B
+
+00:04:35.669 --> 00:04:42.680
+Some fields might not have a place to go one-to-zero
+(1:0), meaning that some information present
+
+00:04:42.680 --> 00:04:48.740
+in dataset A does not match any existing field
+on dataset B
+
+00:04:48.740 --> 00:04:54.169
+Some fields will map many-to-many (∞ : ∞), meaning
+that information in dataset A is scattered
+
+00:04:54.169 --> 00:05:01.260
+in different fields, which do not match exactly
+existing ones in dataset B
+
+00:05:01.260 --> 00:05:07.210
+Each of the relationship types has its own
+nuances as to how you are going to have to
+
+00:05:07.210 --> 00:05:09.610
+handle them.
+
+00:05:09.610 --> 00:05:12.960
+one-to-one (1:1) - Beware your field types.
+
+00:05:12.960 --> 00:05:15.020
+If they are the not the same.
+
+00:05:15.020 --> 00:05:18.960
+You will need to do some manipulation.
+
+00:05:18.960 --> 00:05:26.120
+many-to-one (∞:1) - These fields will need
+to joined together to go into the field.
+
+00:05:26.120 --> 00:05:30.150
+one-to-many (1:∞) - These fields will need
+to be split apart and put in to different
+
+00:05:30.150 --> 00:05:32.500
+fields
+
+00:05:32.500 --> 00:05:37.770
+zero-to-one (0:1) - Work out how (or if) you
+can even fill these in.
+
+00:05:37.770 --> 00:05:40.469
+Is the data mixed into a notes field?
+
+00:05:40.469 --> 00:05:44.449
+If so how do you get it out?
+
+00:05:44.449 --> 00:05:48.520
+one-to-zero (1:0) - Either throw away the
+data or add a field.
+
+00:05:48.520 --> 00:05:52.570
+You might not even have a home in the other
+dataset.
+
+00:05:52.570 --> 00:05:56.939
+Do/Can you create a new field?
+
+00:05:56.939 --> 00:06:01.150
+many-to-many (∞ : ∞) - “for the love
+of a higher being!”
+
+00:06:01.150 --> 00:06:05.460
+This usually means that your incoming data
+is very messy and will take time to clean
+
+00:06:05.460 --> 00:06:09.259
+before you can map it.
+
+00:06:09.259 --> 00:06:13.300
+This is an example of what a mapping document
+looks like.
+
+00:06:13.300 --> 00:06:19.330
+Notice that not only do we document the relationships
+we also articulate (to the best of our knowledge)
+
+00:06:19.330 --> 00:06:21.889
+what should be done to the data.
+
+00:06:21.889 --> 00:06:27.370
+We’ve talked a lot about documenting the
+structures that hold your data but you must
+
+00:06:27.370 --> 00:06:30.620
+also document the information that gives context.
+
+00:06:30.620 --> 00:06:36.539
+This is called metadata and is data about
+your data!
+
+00:06:36.539 --> 00:06:42.490
+As we mention in the section on data quality
+your ”Metadata must be rich enough to allow
+
+00:06:42.490 --> 00:06:48.240
+data (re)use by a third party without them
+having to refer to the data source.”
+
+00:06:48.240 --> 00:06:55.259
+We will discuss this in more detail in later
+sessions but as a quick guide good documentation
+
+00:06:55.259 --> 00:06:56.680
+should include:
+
+00:06:56.680 --> 00:07:01.800
+A title – Which should be descriptive, memorable
+and if possible unique.
+
+00:07:01.800 --> 00:07:08.130
+Dates are good to include in a dataset name
+for example to allow you to track versions.
+
+00:07:08.130 --> 00:07:12.889
+A narrative – Should describe the rationale
+for the creation of the dataset.
+
+00:07:12.889 --> 00:07:18.669
+It should include at least general information
+about spatial, temporal and taxonomic coverage
+
+00:07:18.669 --> 00:07:23.770
+and give the potential user a broad picture
+of uses that may be appropriate for the data
+
+00:07:23.770 --> 00:07:27.490
+without further transformation.
+
+00:07:27.490 --> 00:07:32.199
+Source information – If you did not collect
+or measure the data yourself, where or who
+
+00:07:32.199 --> 00:07:34.719
+did you get if from?
+
+00:07:34.719 --> 00:07:39.169
+Lineage – Does the dataset have a history?
+
+00:07:39.169 --> 00:07:44.160
+Have any of the fields been transformed in
+any way from the original?
+
+00:07:44.160 --> 00:07:50.930
+Statement of accuracy – Using the concepts
+of accuracy, precision, errors and uncertainty
+
+00:07:50.930 --> 00:07:55.849
+that we discussed previously, are there any
+issues with the dataset that should be known
+
+00:07:55.849 --> 00:07:58.620
+to a user?
+
+00:07:58.620 --> 00:08:03.120
+Dates and life expectancy – When will the
+dataset be available?
+
+00:08:03.120 --> 00:08:04.870
+How long is it valid for?
+
+00:08:04.870 --> 00:08:08.960
+When if ever will it be updated?
+
+00:08:08.960 --> 00:08:14.710
+Field Definitions – Describing the format
+of fields and what kind of data each contains.
+
+00:08:14.710 --> 00:08:18.469
+Was any cleaning or transformation down to
+the original data?
+
+00:08:18.469 --> 00:08:24.740
+This is important for you to know if you are
+mapping it to a standard such as Darwin Core.
+
+00:08:24.740 --> 00:08:28.289
+Collection methodology – How was the data
+collected?
+
+00:08:28.289 --> 00:08:33.750
+Where there protocols used which will affect
+its fitness for use?
+
+00:08:33.750 --> 00:08:39.960
+Statement of completeness – What is missing
+from the data and why?
+
+00:08:39.960 --> 00:08:44.990
+Conditions of use and constraints – Where
+and how can you use the data?
+
+00:08:44.990 --> 00:08:51.180
+For most portals and GBIF in particular data
+must use very open licensing, so understanding
+
+00:08:51.180 --> 00:08:58.250
+the requirements of data owners and their
+institutions is very important.
+
+00:08:58.250 --> 00:09:02.810
+Custodianship/Contact information – This
+should be the institution responsible for
+
+00:09:02.810 --> 00:09:09.070
+the dataset as presented to you, as well as
+(if possible) the individual who created the
+
+00:09:09.070 --> 00:09:10.120
+dataset.
+
+00:09:10.120 --> 00:09:14.440
+There should also be a technical contact who
+is responsible for the publication of the
+
+00:09:14.440 --> 00:09:15.980
+dataset.
+
+00:09:15.980 --> 00:09:22.110
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:09:22.110 --> 00:09:23.720
+platform.
+
+00:09:23.720 --> 00:09:29.199
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:09:29.199 --> 00:09:30.410
+course.
+
+00:09:30.410 --> 00:09:36.190
+The biodiversity data mobilization curriculum
+was originally developed as part of the Biodiversity
+
+00:09:36.190 --> 00:09:40.630
+Information Development Programme funded by
+the European Union.
+
+00:09:40.630 --> 00:09:45.220
+This presentation was originally created by
+Sharon Grant and has been narrated by Sophie
+
+00:09:45.220 --> 00:09:45.699
+Pamerlon.
+

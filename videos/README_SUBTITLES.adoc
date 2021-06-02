@@ -1,0 +1,7 @@
+= Video subtitles
+
+Video subtitles are automatically added to the video files as part of the course build process.
+
+The English subtitles are stored in text files (`../scripts/…`), and manually converted to `.vtt` files.  The `.vtt` files are then copied to this directory, with the same filename as the video (except the extension).
+
+It would be better to have the `.vtt` file as the source for translations, which would avoid the manual conversion to VTT, and this copying.

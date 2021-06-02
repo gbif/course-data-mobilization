@@ -1,0 +1,756 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.760 --> 00:00:03.200
+In this presentation,&nbsp;&nbsp;
+
+00:00:03.200 --> 00:00:07.520
+we will introduce you to data standards&nbsp;
+as they relate to biodiversity data.&nbsp;
+
+00:00:08.160 --> 00:00:11.360
+In particular, we will focus&nbsp;
+on the Darwin Core standard.
+
+00:00:14.080 --> 00:00:18.000
+The engineer and industrialist&nbsp;
+W. Edwards Deming said:
+
+00:00:18.800 --> 00:00:23.280
+“Standardisation does not mean that we all&nbsp;
+wear the same colour and weave of cloth,&nbsp;&nbsp;
+
+00:00:23.920 --> 00:00:30.000
+eat standard sandwiches, or live in&nbsp;
+standard rooms with standard furnishing.&nbsp;
+
+00:00:30.000 --> 00:00:35.600
+Homes of infinite variety of design are built&nbsp;
+with a few types of bricks, and with lumber of&nbsp;&nbsp;
+
+00:00:35.600 --> 00:00:41.200
+standard sizes, and with water and heating&nbsp;
+pipes and fitting of standard dimensions.”
+
+00:00:43.200 --> 00:00:46.800
+What he was trying to say is&nbsp;
+that using standardization&nbsp;&nbsp;
+
+00:00:46.800 --> 00:00:48.880
+does not prevent us from being creative.&nbsp;
+
+00:00:49.680 --> 00:00:53.520
+He was also showing us that we already&nbsp;
+live with standards all around us.
+
+00:00:55.120 --> 00:00:57.840
+As we move forward, we will&nbsp;
+define the term “Standard”&nbsp;&nbsp;
+
+00:00:58.480 --> 00:01:01.520
+and we’ll look at how we interact&nbsp;
+with standards every day.&nbsp;
+
+00:01:02.080 --> 00:01:06.320
+We will then introduce you to&nbsp;
+biodiversity information standards,&nbsp;&nbsp;
+
+00:01:06.320 --> 00:01:11.840
+including the Darwin Core Standard with which&nbsp;
+you will continue to use throughout this course.
+
+00:01:14.320 --> 00:01:15.680
+So what is a Standard?
+
+00:01:16.240 --> 00:01:17.600
+At its simplest, it is:
+
+00:01:17.600 --> 00:01:19.440
+“An agreed way of doing something.”
+
+00:01:20.400 --> 00:01:23.920
+Standards are combinations of norms, conventions,&nbsp;&nbsp;
+
+00:01:23.920 --> 00:01:27.600
+specifications, requirements,&nbsp;
+restrictions, and rules.
+
+00:01:31.680 --> 00:01:36.080
+The main purpose for standards is to create&nbsp;
+a framework of “mutual understanding”.&nbsp;
+
+00:01:36.880 --> 00:01:39.840
+They should provide clarity&nbsp;
+and help communication.
+
+00:01:40.880 --> 00:01:44.000
+Examples of everyday things&nbsp;
+that we encounter which make&nbsp;&nbsp;
+
+00:01:44.000 --> 00:01:47.280
+use of standards to aid&nbsp;
+communication of information are:
+
+00:01:48.160 --> 00:01:49.120
+Units of Measurement
+
+00:01:50.000 --> 00:01:50.960
+Numeral Systems
+
+00:01:51.680 --> 00:01:52.320
+Alphabets
+
+00:01:53.200 --> 00:01:53.840
+Languages
+
+00:01:54.480 --> 00:01:55.200
+Emojis
+
+00:01:55.760 --> 00:01:56.800
+Postal Addressing
+
+00:01:57.360 --> 00:01:58.720
+Morse Code
+
+00:01:58.720 --> 00:01:59.440
+Barcoding
+
+00:02:04.560 --> 00:02:07.840
+Let’s take a very specific&nbsp;
+example and break it down.&nbsp;
+
+00:02:08.640 --> 00:02:13.840
+Here in order to communicate accurately&nbsp;
+and repeatedly a position on the earth – a&nbsp;&nbsp;
+
+00:02:13.840 --> 00:02:21.840
+latitude and longitude – is actually&nbsp;
+a combination of at least 8 standards.
+
+00:02:22.480 --> 00:02:24.960
+measurement - geographic coordinates
+
+00:02:25.840 --> 00:02:28.080
+format - degrees, minutes, seconds
+
+00:02:29.120 --> 00:02:31.680
+numeric system - sexagesimal
+
+00:02:32.880 --> 00:02:34.960
+numbers - Indo-Arabic
+
+00:02:35.920 --> 00:02:37.040
+language - English
+
+00:02:37.840 --> 00:02:38.800
+alphabet - Latin
+
+00:02:39.520 --> 00:02:40.880
+symbols - typography
+
+00:02:41.840 --> 00:02:42.880
+font - Roboto
+
+00:02:47.280 --> 00:02:50.960
+Standards provide ways of constraining&nbsp;
+the array of possibilities.&nbsp;
+
+00:02:51.600 --> 00:02:55.440
+In the earlier Foundations presentations,&nbsp;
+you learned about types of data,&nbsp;&nbsp;
+
+00:02:56.080 --> 00:02:58.800
+schemas, formats and character encodings.&nbsp;
+
+00:03:00.000 --> 00:03:04.800
+Each of these can be used to constrain the array&nbsp;
+of possibilities within the terms of a Standard.
+
+00:03:06.560 --> 00:03:12.320
+Types of data can restrict the values of a field.
+So alphanumeric text in a text field,&nbsp;&nbsp;
+
+00:03:12.880 --> 00:03:15.680
+decimals in a float.
+Yes/No in a Boolean.
+
+00:03:17.200 --> 00:03:20.800
+An encoding schema can restrict&nbsp;
+the range of values in a field.&nbsp;
+
+00:03:21.600 --> 00:03:27.680
+For example, the list of possible latitude&nbsp;
+values have a range: between -90 and 90.
+
+00:03:29.840 --> 00:03:33.360
+A format can restrict the&nbsp;
+representation of a data in a field.&nbsp;
+
+00:03:33.920 --> 00:03:40.720
+For example, whether a data appears as year&nbsp;
+month day, or day month year, or month day year.
+
+00:03:42.640 --> 00:03:46.560
+And then, character encoding provides&nbsp;
+the rules for interpreting bytes of data.&nbsp;
+
+00:03:47.440 --> 00:03:49.840
+For our purposes, we’ll use UTF-8.
+
+00:03:53.600 --> 00:03:56.800
+During this course, you will be&nbsp;
+learning how to share your data.&nbsp;
+
+00:03:56.800 --> 00:03:59.840
+As such, you will encounter&nbsp;
+standards for transferring data.
+
+00:04:01.040 --> 00:04:06.240
+An application schema, allows for the combination&nbsp;
+of data standards for a specific purpose.&nbsp;
+
+00:04:07.280 --> 00:04:11.120
+For example, using Darwin Core&nbsp;
+terms within Darwin Core Archives.&nbsp;
+
+00:04:11.840 --> 00:04:14.880
+We’ll delve more into both in just a few moments.
+
+00:04:16.640 --> 00:04:21.440
+Again, you will make use of format, but this&nbsp;
+time the format restricts dataset structures.&nbsp;
+
+00:04:22.160 --> 00:04:27.840
+A dataset may make use of csv, xml, json and rdf.
+
+00:04:29.440 --> 00:04:31.920
+And lastly, you will have a transfer protocol,&nbsp;&nbsp;
+
+00:04:31.920 --> 00:04:35.760
+which provides information on how&nbsp;
+and where to send information.&nbsp;
+
+00:04:36.720 --> 00:04:46.800
+These might include http (hypertext transfer&nbsp;
+protocol), ftp (file transfer protocol), and smtp&nbsp;&nbsp;
+
+00:04:46.800 --> 00:04:50.960
+(simple mail transfer protocol or&nbsp;
+if you like, send mail to people).
+
+00:04:54.240 --> 00:04:59.520
+In the domain of biodiversity informatics&nbsp;
+there are many standards already available&nbsp;&nbsp;
+
+00:04:59.520 --> 00:05:05.120
+that can help you work with your data.
+The USGS has a very specific definition of these:
+ &nbsp;
+
+00:05:06.160 --> 00:05:10.160
+“Data standards are the rules by&nbsp;
+which data are described and recorded.&nbsp;
+
+00:05:10.720 --> 00:05:14.080
+In order to share, exchange, and understand data,&nbsp;&nbsp;
+
+00:05:14.080 --> 00:05:16.880
+we must standardize the&nbsp;
+format as well as the meaning.
+
+00:05:18.000 --> 00:05:22.560
+The result of using these standards, where&nbsp;
+appropriate, is that you will increase data&nbsp;&nbsp;
+
+00:05:22.560 --> 00:05:30.080
+integrity, accuracy and consistency by clarifying&nbsp;
+ambiguous meaning and minimizing redundant data.
+
+00:05:31.680 --> 00:05:36.000
+Those that you are likely to encounter&nbsp;
+or use on a regular basis may include:
+
+00:05:36.720 --> 00:05:39.200
+Ecological Metadata Language Standard (EML)
+
+00:05:39.200 --> 00:05:41.440
+Audubon Media Description (aka Audubon Core)
+
+00:05:41.440 --> 00:05:43.680
+Global Genome Biodiversity Network(GGBN)
+
+00:05:44.320 --> 00:05:47.920
+Ocean Data Standards and Best&nbsp;
+Practices Project (ODSBP)
+
+00:05:47.920 --> 00:05:52.320
+And last, but not least, we’ll spend the&nbsp;
+rest of this discussion on Darwin Core.&nbsp;
+
+00:05:53.120 --> 00:05:58.560
+The Darwin Core standard will allow you to share&nbsp;
+your occurrence, taxonomic, and event datasets.
+
+00:06:02.800 --> 00:06:07.680
+Darwin Core is a biodiversity standard developed&nbsp;
+by the Biodiversity Informatics community.&nbsp;
+
+00:06:08.560 --> 00:06:11.040
+It was originally developed under the Taxonimic&nbsp;&nbsp;
+
+00:06:11.040 --> 00:06:15.680
+Databases Working Group or&nbsp;
+T D W G, pronounced TDWG.&nbsp;
+
+00:06:16.400 --> 00:06:21.440
+In recent years, the group has been&nbsp;
+renamed, Biodiversity Information Standards.&nbsp;
+
+00:06:22.000 --> 00:06:26.000
+But the acronym persists as the&nbsp;
+community is quite fond of the name TDWG.
+
+00:06:28.400 --> 00:06:34.080
+“The standard includes a glossary of terms (in&nbsp;
+other contexts these might be called properties,&nbsp;&nbsp;
+
+00:06:34.080 --> 00:06:40.240
+elements, fields, columns, attributes, or&nbsp;
+concepts) intended to facilitate the sharing&nbsp;&nbsp;
+
+00:06:40.240 --> 00:06:46.400
+of information about biological diversity by&nbsp;
+providing identifiers, labels, and definitions.&nbsp;
+
+00:06:47.680 --> 00:06:52.000
+Darwin Core is primarily based on&nbsp;
+taxa, their occurrence in nature&nbsp;&nbsp;
+
+00:06:52.000 --> 00:06:56.400
+as documented by observations, specimens,&nbsp;
+samples, and related information.”
+
+00:06:57.840 --> 00:07:01.600
+So in short, Darwin Core is a “List&nbsp;
+of fields and their definitions,&nbsp;&nbsp;
+
+00:07:01.600 --> 00:07:03.680
+as they relate to biodiversity data.”
+
+00:07:06.880 --> 00:07:10.640
+As we dive deeper into Darwin&nbsp;
+Core or as it is abbreviated,&nbsp;&nbsp;
+
+00:07:10.640 --> 00:07:14.560
+DwC, you’ll learn it is more&nbsp;
+than JUST a list of fields.&nbsp;
+
+00:07:15.200 --> 00:07:19.120
+We will use Simple Darwin Core&nbsp;
+which is a predefined subset&nbsp;&nbsp;
+
+00:07:19.120 --> 00:07:24.240
+of the terms that have common use across a&nbsp;
+wide variety of biodiversity applications.
+
+00:07:26.080 --> 00:07:29.440
+This subset contains greater than 150 fields,&nbsp;&nbsp;
+
+00:07:29.440 --> 00:07:32.560
+that are placed into a set of&nbsp;
+field classes comprised of:
+
+00:07:33.280 --> 00:07:34.720
+Record &amp; Dataset
+
+00:07:34.720 --> 00:07:35.760
+Occurrence
+
+00:07:35.760 --> 00:07:36.720
+Organism
+
+00:07:36.720 --> 00:07:38.080
+Material Sample
+
+00:07:38.080 --> 00:07:38.560
+Event
+
+00:07:39.280 --> 00:07:39.920
+Location
+
+00:07:40.640 --> 00:07:42.000
+Geological Context
+
+00:07:43.840 --> 00:07:44.000
+Identification
+
+00:07:44.000 --> 00:07:44.640
+Taxon
+
+00:07:46.320 --> 00:07:49.440
+Additionally, there are two&nbsp;
+auxiliary classes called:
+
+00:07:49.440 --> 00:07:50.640
+ResourceRelationship
+
+00:07:51.200 --> 00:07:51.920
+MeasurementOrFact
+
+00:07:54.240 --> 00:07:59.040
+From the Simple Darwin Core User Guide,&nbsp;
+“Simple Darwin Core is simple in that&nbsp;&nbsp;
+
+00:07:59.040 --> 00:08:03.040
+it assumes (and allows) no structure&nbsp;
+beyond the concept of rows and columns,&nbsp;&nbsp;
+
+00:08:03.600 --> 00:08:12.320
+which might be thought of as attributes&nbsp;
+and their values, or fields and records.”
+
+00:08:12.320 --> 00:08:16.240
+The DwC Quick Reference Guide will&nbsp;
+soon become your go to resource.&nbsp;
+
+00:08:16.960 --> 00:08:21.280
+This page provides a list of all currently&nbsp;
+recommended terms of the Darwin Core standard.&nbsp;
+
+00:08:22.000 --> 00:08:27.360
+Categories such as Occurrence or Event correspond&nbsp;
+to Darwin Core classes which group other terms.
+
+00:08:30.720 --> 00:08:33.520
+We now will look at some&nbsp;
+examples of Darwin Core terms.&nbsp;
+
+00:08:34.400 --> 00:08:37.040
+The quick reference guide, consistently displays&nbsp;&nbsp;
+
+00:08:37.040 --> 00:08:42.000
+each term with the identifier name,&nbsp;
+definition, comments and examples.&nbsp;
+
+00:08:43.120 --> 00:08:48.240
+The first terms we’ll review are Country and&nbsp;
+CountryCode within the Location category.
+
+00:08:50.640 --> 00:08:54.560
+Generally, data holders have a field&nbsp;
+for country within their source data.&nbsp;
+
+00:08:55.280 --> 00:09:00.320
+But often this data can be quite messy with&nbsp;
+misspellings, abbreviations, and historical names.&nbsp;
+
+00:09:01.280 --> 00:09:04.720
+However, it is one of the most&nbsp;
+easily standardized pieces of data.&nbsp;
+
+00:09:05.680 --> 00:09:10.880
+As noted in the comments, the recommended best&nbsp;
+practice is to use a controlled vocabulary&nbsp;&nbsp;
+
+00:09:10.880 --> 00:09:13.440
+such as the Getty Thesaurus of Geographic Names.&nbsp;
+
+00:09:14.160 --> 00:09:18.720
+A controlled vocabulary places restriction on&nbsp;
+the values that should be used for that term.
+
+00:09:21.360 --> 00:09:25.760
+CountryCode is a term that is&nbsp;
+generally not present in holder data.&nbsp;
+
+00:09:25.760 --> 00:09:30.080
+But again, it is another field that&nbsp;
+can easily be supplied with data&nbsp;&nbsp;
+
+00:09:30.640 --> 00:09:38.080
+due to the recommendation in the comments&nbsp;
+to use an ISO 3166-1-alpha-2 country code.
+
+00:09:40.400 --> 00:09:44.800
+GBIF strongly recommends the sharing of&nbsp;
+CountryCode within occurrence datasets.&nbsp;
+
+00:09:45.360 --> 00:09:47.520
+Sharing of Country is also encouraged.
+
+00:09:48.080 --> 00:09:52.240
+You will learn more about the GBIF requirements&nbsp;
+and recommendations in later sessions.
+
+00:09:56.080 --> 00:10:00.400
+The next term is basisOfRecord.
+basisOfRecord defines the&nbsp;&nbsp;
+
+00:10:00.400 --> 00:10:06.080
+nature of each record in a dataset.
+BasisOfRecord follows a controlled vocabulary.&nbsp;
+
+00:10:06.720 --> 00:10:11.040
+You can choose from PreservedSpecimen,&nbsp;
+FossilSpecimen, LivingSpecimen,&nbsp;&nbsp;
+
+00:10:11.840 --> 00:10:18.720
+MaterialSample, Event, HumanObservation,&nbsp;
+MachineObservation, Taxon, or Occurrence.&nbsp;
+
+00:10:19.760 --> 00:10:23.520
+GBIF requires basisOfRecord with&nbsp;
+published occurrence datasets.
+
+00:10:28.000 --> 00:10:33.200
+The last term we will review is occurrenceID.
+When publishing occurrence records,&nbsp;&nbsp;
+
+00:10:33.200 --> 00:10:37.360
+GBIF requires an occurrenceID.
+An occurrenceID is an identifier&nbsp;&nbsp;
+
+00:10:37.360 --> 00:10:41.280
+for the occurrence itself, not the&nbsp;
+digital record of the occurrence.&nbsp;
+
+00:10:42.320 --> 00:10:47.360
+Recommended best practice is to use a globally&nbsp;
+unique identifier otherwise known as a GUID.&nbsp;
+
+00:10:48.400 --> 00:10:50.080
+In the absence of a GUID,&nbsp;&nbsp;
+
+00:10:50.080 --> 00:10:54.880
+a unique identifier can be comprised of&nbsp;
+other identifiers within the dataset.&nbsp;
+
+00:10:55.760 --> 00:10:59.840
+For example institutionCode,&nbsp;
+collectionCode, and catalog number.&nbsp;
+
+00:11:00.960 --> 00:11:04.960
+We call this a triplet.
+There are tools on the internet that can&nbsp;&nbsp;
+
+00:11:04.960 --> 00:11:10.080
+help you to generate GUIDs for your records.
+If you use this method, these GUIDs should&nbsp;&nbsp;
+
+00:11:10.080 --> 00:11:14.160
+become a permanent field within your&nbsp;
+source data identifying each record.&nbsp;
+
+00:11:15.120 --> 00:11:17.840
+For the work done in this course,&nbsp;
+you will create a triplet.&nbsp;
+
+00:11:18.480 --> 00:11:22.000
+The format will follow the third&nbsp;
+example here highlighted in red.
+
+00:11:26.720 --> 00:11:31.200
+In using Simple Darwin Core, you may&nbsp;
+discover that you have more data to share&nbsp;&nbsp;
+
+00:11:31.200 --> 00:11:34.240
+but you cannot find corresponding terms in DwC.&nbsp;
+
+00:11:35.280 --> 00:11:40.240
+This data could be image or sound files or&nbsp;
+perhaps you are responsible for a collection&nbsp;&nbsp;
+
+00:11:40.240 --> 00:11:45.280
+of vertebrates and you have extensive data&nbsp;
+compiled on the weights and size of the specimens.&nbsp;
+
+00:11:46.480 --> 00:11:50.800
+Or even detailed historical information&nbsp;
+on the identification of a taxon.&nbsp;
+
+00:11:51.760 --> 00:11:54.960
+When this occurs, you will&nbsp;
+look to Darwin Core extensions&nbsp;&nbsp;
+
+00:11:54.960 --> 00:12:00.400
+so that you can extend the base data by providing&nbsp;
+additional files that correspond to the base data.&nbsp;
+
+00:12:01.680 --> 00:12:04.640
+Extensions that would meet your&nbsp;
+needs in these three examples are:
+
+00:12:05.440 --> 00:12:07.520
+Audubon Media Description (aka Audubon Core)
+
+00:12:07.520 --> 00:12:08.560
+Measurements or Facts
+
+00:12:09.360 --> 00:12:10.800
+Identification History
+
+00:12:11.760 --> 00:12:13.840
+There are many more extensions.&nbsp;
+
+00:12:14.720 --> 00:12:23.840
+GBIF maintains a list of all approved and&nbsp;
+draft extensions on its tools subsite.
+
+00:12:24.400 --> 00:12:27.680
+There are many layers in our&nbsp;
+biodiversity informatics community.&nbsp;
+
+00:12:28.320 --> 00:12:32.960
+The image here shows the relationships between&nbsp;
+these layers and where they intersect with the&nbsp;&nbsp;
+
+00:12:32.960 --> 00:12:37.840
+Darwin Core and where extensions maybe&nbsp;
+necessary in order to fully share data.
+
+00:12:40.240 --> 00:12:44.800
+Data shared to GBIF is submitted&nbsp;
+via a Darwin Core Archive or DwCA
+
+00:12:45.520 --> 00:12:49.200
+A DwCA is an expression of&nbsp;
+the Darwin Core text guide.&nbsp;
+
+00:12:49.760 --> 00:12:53.120
+It is a compressed file containing&nbsp;
+a minimum of three files.&nbsp;
+
+00:12:53.680 --> 00:12:55.600
+It is encoded as UTF-8.
+
+00:12:56.480 --> 00:12:58.560
+In this example, these three files are:
+
+00:12:58.560 --> 00:13:05.680
+1. A data file (occurrence.txt) conforming&nbsp;
+to the SIMPLEDWC in a CSV format&nbsp;&nbsp;
+
+00:13:05.680 --> 00:13:08.800
+where the first row includes&nbsp;
+Darwin Core standard term names.
+
+00:13:10.080 --> 00:13:13.920
+2. A meta file (meta.xml)&nbsp;&nbsp;
+
+00:13:15.440 --> 00:13:20.240
+in XML format containing technical details to&nbsp;
+instruct a computer in how to use the data file.
+
+00:13:20.240 --> 00:13:29.520
+3. A meta file (eml.xml) in an XML format&nbsp;
+containing explanatory details about the&nbsp;&nbsp;
+
+00:13:29.520 --> 00:13:34.560
+records contained within the data file to instruct&nbsp;
+a user if the data will be fit for their use.
+
+00:13:35.760 --> 00:13:39.520
+A more complex structure can be&nbsp;
+obtained by sharing multiple related&nbsp;&nbsp;
+
+00:13:39.520 --> 00:13:44.000
+csv files to extend the data.
+They are related to the core&nbsp;&nbsp;
+
+00:13:44.000 --> 00:13:48.320
+file by way of a unique id.
+In an occurrence dataset,&nbsp;&nbsp;
+
+00:13:48.320 --> 00:13:51.760
+these related csv files are&nbsp;
+related by the occurrenceID.
+
+00:13:56.240 --> 00:13:59.280
+We’ve covered What Darwin Core&nbsp;
+Is and hopefully you’ve started&nbsp;&nbsp;
+
+00:13:59.280 --> 00:14:01.840
+to develop a sense of why you should use it.
+
+00:14:02.400 --> 00:14:08.160
+It is a standard and standards are good!&nbsp;
+Standards provide us with the rules and protocols&nbsp;&nbsp;
+
+00:14:08.160 --> 00:14:10.080
+we need to share our data with others.
+
+00:14:11.200 --> 00:14:13.920
+Darwin Core also provides&nbsp;
+us with a common language.&nbsp;
+
+00:14:14.480 --> 00:14:17.360
+As we saw in the Foundations&nbsp;
+– Documentation presentation,&nbsp;&nbsp;
+
+00:14:18.080 --> 00:14:21.280
+source data can be tricky when&nbsp;
+trying to compare datasets.&nbsp;
+
+00:14:22.000 --> 00:14:24.400
+The fields in your source data&nbsp;
+might be different than the&nbsp;&nbsp;
+
+00:14:24.400 --> 00:14:30.000
+fields in another institutions data source.
+When we all use Darwin Core to share our data,&nbsp;&nbsp;
+
+00:14:30.000 --> 00:14:33.040
+we understand that data has been&nbsp;
+shared with a common language.
+
+00:14:35.120 --> 00:14:40.720
+And it’s not only the data holders that understand&nbsp;
+this common language, the data users do as well.&nbsp;
+
+00:14:41.360 --> 00:14:46.560
+And after all, what could be better than a user&nbsp;
+finding a data set that is fit for their use,&nbsp;&nbsp;
+
+00:14:47.120 --> 00:14:50.800
+shared in a common language, that&nbsp;
+allows them to do better science.
+
+00:14:54.640 --> 00:14:55.120
+Thank you.
+
+00:14:55.760 --> 00:15:00.800
+If you have questions on this presentation, please&nbsp;
+use the provided forum in the e-Learning platform.
+
+00:15:01.680 --> 00:15:04.560
+This video is part of a series&nbsp;
+of presentations used in the&nbsp;&nbsp;
+
+00:15:04.560 --> 00:15:07.200
+GBIF Biodiversity Data Mobilization course.&nbsp;
+
+00:15:08.160 --> 00:15:12.320
+The biodiversity data mobilization curriculum&nbsp;
+was originally developed as part of the&nbsp;&nbsp;
+
+00:15:12.320 --> 00:15:16.720
+Biodiversity Information Development&nbsp;
+Programme funded by the European Union.
+
+00:15:18.160 --> 00:15:22.800
+This presentation was originally created&nbsp;
+by Paula Zermoglio and John Wieczorek&nbsp;&nbsp;
+
+00:15:22.800 --> 00:15:26.720
+with additional contributions by&nbsp;
+Sharon Grant, Sophie Pamerlon,&nbsp;&nbsp;
+
+00:15:26.720 --> 00:15:32.320
+Laura Anne Russell and Dag Endresen, BID&nbsp;
+and BIFA Trainers, Mentors and students.
+
+00:15:33.120 --> 00:15:36.720
+This presentation has been&nbsp;
+narrated by Laura Anne Russell.
+

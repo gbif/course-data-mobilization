@@ -1,0 +1,382 @@
+WEBVTT
+Kind: captions
+Language: pt
+
+00:00:02.669 --> 00:00:07.910
+Esta sessão é um trabalho básico e parte da seção Terminologia.
+
+00:00:07.910 --> 00:00:12.780
+Estaremos apresentando a você a linguagem, terminologia e definições de alguns dos
+
+00:00:12.780 --> 00:00:17.949
+conceitos básicos, funções e processos que você colocará em uso durante
+
+00:00:17.949 --> 00:00:22.160
+o resto do curso.
+
+00:00:22.160 --> 00:00:27.310
+Primeiro, vamos revisar a estrutura desta sessão.
+
+00:00:27.310 --> 00:00:33.120
+Na seção sobre DEFINIÇÕES, tentaremos primeiro esclarecer o uso da palavra “Dados”.
+
+00:00:33.120 --> 00:00:39.100
+Em seguida, examinaremos a terminologia relacionada a Campos, Rótulos e Listas.
+
+00:00:39.100 --> 00:00:44.449
+E, por último, endireitaremos alguns conceitos em torno dos personagens e seus mapeamentos que
+
+00:00:44.449 --> 00:00:47.559
+ajudarão a prevenir confusões de dados indesejadas.
+
+00:00:47.559 --> 00:00:50.299
+Primeiras definições.
+
+00:00:50.299 --> 00:00:54.679
+Nesta seção, veremos alguns dos muitos termos e frases diferentes que existem
+
+00:00:54.679 --> 00:00:58.949
+no mundo do gerenciamento de dados e informações.
+
+00:00:58.949 --> 00:01:03.719
+Iremos usá-los ao longo do curso e é importante que você esteja familiarizado com
+
+00:01:03.719 --> 00:01:09.150
+quando e como usá-los.
+
+00:01:09.150 --> 00:01:20.109
+Vamos nos concentrar por um momento em algumas palavras e frases comuns que contêm os dados da palavra.
+
+00:01:20.109 --> 00:01:31.641
+Todas as frases aqui incluem a palavra data, mas são todas iguais e, se não,
+
+00:01:31.641 --> 00:01:39.560
+qual é a diferença? Banco de dados, idioma do banco de dados, programa de banco de dados, ferramenta de limpeza de dados
+
+00:01:39.560 --> 00:01:49.979
+Então, o que é um “banco de dados”?
+
+00:01:49.979 --> 00:01:57.310
+As definições são muitas, mas o que todas têm em comum é o tema de que banco de dados
+
+00:01:57.310 --> 00:02:04.639
+é uma coleção estruturada e organizada de dados e / ou informações contidos em um computador.
+
+00:02:04.639 --> 00:02:10.190
+Todo o resto da lista é apenas uma forma de ajudá-lo a alcançar esse nirvana de dados!
+
+00:02:10.190 --> 00:02:14.980
+Vamos nos aprofundar um pouco mais nesses outros termos.
+
+00:02:14.980 --> 00:02:20.600
+Vamos dar uma olhada na frase “linguagem do banco de dados”.
+
+00:02:20.600 --> 00:02:26.510
+De acordo com o dicionário Oxford English, “linguagem” é o método de comunicação humana,
+
+00:02:26.510 --> 00:02:30.519
+[...], consistindo no uso de palavras [ou símbolos] de forma estruturada e convencional
+
+00:02:30.519 --> 00:02:32.129
+.
+
+00:02:32.129 --> 00:02:38.120
+Para nossos propósitos, as linguagens de banco de dados e seus aliados próximos, as linguagens de array, são a maneira
+
+00:02:38.120 --> 00:02:44.650
+pela qual um ser humano se comunica com um computador para manipular e mover dados.
+
+00:02:44.650 --> 00:02:47.080
+Os exemplos que você pode ter encontrado são:
+
+00:02:47.080 --> 00:02:52.239
+Java, SPARQL, SQL e Python
+
+00:02:52.239 --> 00:02:57.879
+Eles são simplesmente métodos usados ​​para definir e criar tabelas, visualizações e consultas e também
+
+00:02:57.879 --> 00:03:05.239
+permitir que os usuários acessem, atualizem, armazenem e movam dados.
+
+00:03:05.239 --> 00:03:10.299
+Agora vamos examinar a frase “programa ou software de banco de dados”.
+
+00:03:10.299 --> 00:03:14.950
+Indo novamente para o dicionário Oxford English, um “programa / programa” é um conjunto de
+
+00:03:14.950 --> 00:03:19.660
+medidas ou atividades relacionadas com um objetivo específico de longo prazo.
+
+00:03:19.660 --> 00:03:24.360
+Neste contexto, um “programa ou software de banco de dados” combina e apresenta funções
+
+00:03:24.360 --> 00:03:30.690
+e recursos para manipulação de dados, juntos é uma interface unificada.
+
+00:03:30.690 --> 00:03:33.540
+Exemplos que você pode encontrar são:
+
+00:03:33.540 --> 00:03:36.480
+Microsoft Access, FilemakerPro e Oracle
+
+00:03:36.480 --> 00:03:45.019
+Portanto, programas ou software de banco de dados são utilitários agrupados que permitem ao usuário, por meio de uma
+
+00:03:45.019 --> 00:03:54.920
+linguagem de banco de dados , armazenar, gerenciar, consultar e relatar dados mantidos no sistema.
+
+00:03:54.920 --> 00:04:00.900
+O último termo é “ferramenta de limpeza de dados”.
+
+00:04:00.900 --> 00:04:06.379
+Ferramentas de limpeza de dados são sistemas cujos utilitários se concentram na manipulação de dados com
+
+00:04:06.379 --> 00:04:10.359
+o objetivo de aumentar a adequação ao uso.
+
+00:04:10.359 --> 00:04:14.769
+Exemplos que você pode estar familiarizado ou que aprenderá durante o curso são:
+
+00:04:14.769 --> 00:04:17.600
+OpenRefine, MatLab e planilhas
+
+00:04:17.600 --> 00:04:24.470
+Uma ferramenta de limpeza de dados deve auxiliar o usuário na descoberta e reparo de dados confusos
+
+00:04:24.470 --> 00:04:30.660
+para aumentar a qualidade.
+
+00:04:30.660 --> 00:04:35.500
+Continuando com mais alguns termos com os quais você deve estar familiarizado, veremos as
+
+00:04:35.500 --> 00:04:44.390
+diferenças entre os termos Campo, Etiqueta e Lista.
+
+00:04:44.390 --> 00:04:50.810
+Freqüentemente, você ouvirá referências a nomes de campos ou colunas e rótulos ou cabeçalhos de campos.
+
+00:04:50.810 --> 00:04:57.470
+Freqüentemente, eles serão usados ​​alternadamente, no entanto, são coisas diferentes.
+
+00:04:57.470 --> 00:05:01.310
+Os nomes dos campos ou colunas referem-se à coluna real na tabela do banco de dados.
+
+00:05:01.310 --> 00:05:08.570
+Eles são geralmente curtos, nem sempre em linguagem simples, às vezes gerados por computador; mas
+
+00:05:08.570 --> 00:05:13.860
+em um banco de dados formado corretamente, eles são SEMPRE únicos.
+
+00:05:13.860 --> 00:05:21.190
+Os nomes de campo são quase sempre usados ​​por linguagens de banco de dados, para evitar ambigüidade.
+
+00:05:21.190 --> 00:05:25.611
+Os rótulos e cabeçalhos, por outro lado, referem-se às versões legíveis por humanos dos
+
+00:05:25.611 --> 00:05:27.040
+nomes dos campos .
+
+00:05:27.040 --> 00:05:32.620
+Na maioria das vezes, você os verá na interface gráfica do usuário do seu software e nas exportações
+
+00:05:32.620 --> 00:05:34.570
+e relatórios.
+
+00:05:34.570 --> 00:05:39.970
+Em alguns softwares, você pode, de fato, ter rótulos diferentes para o mesmo campo, usuário por usuário
+
+00:05:39.970 --> 00:05:41.250
+ou grupo!
+
+00:05:41.250 --> 00:05:49.740
+Ao trabalhar com seus dados, você encontrará
+
+00:05:49.740 --> 00:05:54.700
+as frases “lista suspensa” e “vocabulário controlado” e, na superfície, elas podem
+
+00:05:54.700 --> 00:05:57.030
+parecer iguais.
+
+00:05:57.030 --> 00:06:03.260
+Na verdade, ambos são ferramentas poderosas para ajudá-lo a manter seus dados limpos, mas são diferentes.
+
+00:06:03.260 --> 00:06:09.720
+Uma lista suspensa, às vezes também chamada de tabela de pesquisa, é um elemento de entrada de dados
+
+00:06:09.720 --> 00:06:12.760
+criado em seu software de banco de dados.
+
+00:06:12.760 --> 00:06:16.760
+Ele permite que você selecione um valor de um conjunto predefinido de opções.
+
+00:06:16.760 --> 00:06:24.241
+Eles também podem ser gerados a partir dos próprios dados em tempo real.
+
+00:06:24.241 --> 00:06:29.130
+Por outro lado, um vocabulário controlado é um conjunto de valores
+
+00:06:29.130 --> 00:06:34.030
+específicos de domínio muito estritamente definido que deve ser aplicado a um determinado campo.
+
+00:06:34.030 --> 00:06:38.560
+Eles são parte integrante de um padrão bem definido.
+
+00:06:38.560 --> 00:06:47.810
+Esses valores podem ser usados ​​em uma lista suspensa conforme mencionado anteriormente.
+
+00:06:47.810 --> 00:06:58.030
+Nesta seção, veremos o que o termo caractere significa em relação a dados e computadores.
+
+00:06:58.030 --> 00:07:04.880
+Como um lembrete, os computadores “veem” em binário. Tudo o que você digita é mantido na memória
+
+00:07:04.880 --> 00:07:07.240
+como uma série de uns e zeros.
+
+00:07:07.240 --> 00:07:12.500
+O computador não “vê” o repertório de letras e símbolos em seu teclado.
+
+00:07:12.500 --> 00:07:17.050
+Ele precisa de um mapa para traduzir o conjunto de caracteres que você escreveria ou digitaria em sua
+
+00:07:17.050 --> 00:07:23.390
+linguagem binária e de volta para mostrá-lo a você na tela ou em uma impressora.
+
+00:07:23.390 --> 00:07:26.430
+Este mapa é composto de duas partes:
+
+00:07:26.430 --> 00:07:29.360
+O “conjunto de caracteres codificados” e
+
+00:07:29.360 --> 00:07:32.090
+a “codificação de caracteres”
+
+00:07:32.090 --> 00:07:37.940
+Cada símbolo ou glifo recebe um valor numérico e esse número é então convertido em
+
+00:07:37.940 --> 00:07:43.240
+binário.
+
+00:07:43.240 --> 00:07:49.400
+Neste exemplo, vemos como a codificação de caracteres é usada para mapear a letra maiúscula A no
+
+00:07:49.400 --> 00:07:52.410
+alfabeto ocidental.
+
+00:07:52.410 --> 00:07:59.050
+O valor ASCII para a letra maiúscula A é o número decimal 65
+
+00:07:59.050 --> 00:08:02.710
+que em HEXIDECIMAL é 041
+
+00:08:02.710 --> 00:08:13.570
+e em BINÁRIO 01000001
+
+00:08:13.570 --> 00:08:24.380
+Tente mapear seu próprio nome para Binário usando o link na parte inferior da tela.
+
+00:08:24.380 --> 00:08:31.050
+Na verdade, o que está acontecendo é que, quando você digita em um teclado e salva um arquivo, o software
+
+00:08:31.050 --> 00:08:35.649
+que você está usando seleciona uma codificação para salvar com ele.
+
+00:08:35.649 --> 00:08:40.750
+Quando você abre esse arquivo novamente, o software precisa saber qual codificação (mapa) usar
+
+00:08:40.750 --> 00:08:58.509
+para exibir novamente as informações para você corretamente. Esta tabela mostra alguns exemplos da codificação de caracteres e conjuntos de caracteres mais comuns.
+
+00:08:58.509 --> 00:09:02.449
+Então, por que isso é importante para você como guardião de dados?
+
+00:09:02.449 --> 00:09:06.949
+Digamos que você traduza o início do solilóquio de Hamlet
+
+00:09:06.949 --> 00:09:09.899
+”Ser ou não ser, essa é a questão”
+
+00:09:09.899 --> 00:09:17.430
+para o francês e, em seguida, salve o arquivo com um editor de texto que usa a codificação Latin-1.
+
+00:09:17.430 --> 00:09:28.139
+Em seguida, você o envia a um colega para verificar a tradução. Voila!
+
+00:09:28.139 --> 00:09:34.100
+Quando eles abrem o arquivo no MicroSoft Word é isso que eles veem…
+
+00:09:34.100 --> 00:09:35.850
+Mon dieu!
+
+00:09:35.850 --> 00:09:39.399
+Existem alguns personagens inesperados.
+
+00:09:39.399 --> 00:09:45.690
+Você se esqueceu de dizer ao seu colega que estava usando Latin-1 como codificação.
+
+00:09:45.690 --> 00:09:50.589
+O MicroSoft Word, por sua vez, foi configurado para usar o conjunto de codificação Unicode UTF-8.
+
+00:09:50.589 --> 00:09:53.579
+Os mapas não coincidem.
+
+00:09:53.579 --> 00:10:04.730
+Dependendo do software, os dados podem estar irremediavelmente corrompidos.
+
+00:10:04.730 --> 00:10:08.990
+Na revisão, examinamos as diferenças entre as frases:
+
+00:10:08.990 --> 00:10:18.600
+Banco de dados; linguagem de banco de dados; programa de banco de dados, ferramenta de limpeza de dados; e também entre
+
+00:10:18.600 --> 00:10:26.080
+nomes de campo e rótulos de campo; Listas suspensas e vocabulários controlados e, por último, examinamos
+
+00:10:26.080 --> 00:10:29.300
+Repertórios, conjuntos codificados e codificações relacionados aos caracteres.
+
+00:10:29.300 --> 00:10:48.730
+Mostramos que embora os termos possam parecer semelhantes, eles são na verdade muito diferentes e a consequência de confundi-los pode ser terrível .
+
+00:10:48.730 --> 00:10:49.730
+Lembre-se de que:
+
+00:10:49.730 --> 00:10:53.190
+“..O primeiro passo para a sabedoria é saber as coisas por si mesmas.
+
+00:10:54.639 --> 00:10:59.589
+Freqüentemente, consideramos que existe toda uma linguagem associada à
+
+00:10:59.589 --> 00:11:04.610
+informática da biodiversidade que não é comum e precisa ser aprendida.
+
+00:11:04.610 --> 00:11:09.240
+Não há vergonha em voltar ao básico e se familiarizar com o vocabulário, a
+
+00:11:09.240 --> 00:11:21.470
+gramática e a sintaxe, como acontece com qualquer novo idioma. Obrigado por ouvir. Se você tiver dúvidas sobre esta apresentação, use o fórum fornecido na plataforma de
+
+00:11:21.470 --> 00:11:26.730
+e-Learning . Este vídeo é parte de uma série de apresentações usadas no
+
+00:11:26.730 --> 00:11:29.350
+curso de
+
+00:11:29.350 --> 00:11:35.470
+Mobilização de Dados sobre Biodiversidade do GBIF
+
+00:11:35.470 --> 00:11:40.050
+. O currículo de mobilização de dados sobre biodiversidade
+
+00:11:40.050 --> 00:11:45.490
+foi originalmente desenvolvido como parte do Programa de Desenvolvimento de Informações sobre Biodiversidade, financiado pela
+
+00:11:45.490 --> 00:11:48.139
+União Europeia.
+
+00:11:48.139 --> 00:11:54.930
+Esta apresentação foi originalmente criada e narrada por Sharon Grant com contribuições adicionais de
+
+00:11:54.930 --> 00:11:58.379
+Formadores, Mentores e Alunos do BID e BIFA.
+

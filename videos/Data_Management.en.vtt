@@ -1,0 +1,500 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.500 --> 00:00:06.100
+In this presentation, we are going to explore
+the key principles and processes important
+
+00:00:06.100 --> 00:00:11.200
+to effective data management.
+
+00:00:11.200 --> 00:00:15.670
+The concept of data management includes a
+wide range of topics, from metadata formats
+
+00:00:15.670 --> 00:00:17.920
+to database organization.
+
+00:00:17.920 --> 00:00:22.620
+In this presentation we are going to discuss
+an important set of principles necessary to
+
+00:00:22.620 --> 00:00:28.900
+improve data through the processes of data
+cleaning.
+
+00:00:28.900 --> 00:00:30.710
+What is data cleaning?
+
+00:00:30.710 --> 00:00:34.460
+Data Cleaning was defined by Arthur Chapman
+in 2005 as:
+
+00:00:34.460 --> 00:00:39.460
+“A process used to determine inaccurate,
+incomplete, or unreasonable data and then
+
+00:00:39.460 --> 00:00:44.170
+improving the quality through correction of
+detected errors and omissions.”
+
+00:00:44.170 --> 00:00:49.820
+The process of cleaning might include checks
+on formatting, completeness and reasonableness,
+
+00:00:49.820 --> 00:00:55.560
+the identification of outliers, review by
+content experts, and validation against accepted
+
+00:00:55.560 --> 00:01:00.649
+standards, rules, and conventions.
+
+00:01:00.649 --> 00:01:04.860
+Although there are many methods that can be
+applied while cleaning data, we view the process
+
+00:01:04.860 --> 00:01:07.409
+of cleaning in five general steps:
+
+00:01:07.409 --> 00:01:12.130
+First, we seek to determine and define the
+types of errors that are most likely present
+
+00:01:12.130 --> 00:01:13.660
+in our data.
+
+00:01:13.660 --> 00:01:20.070
+Next, we conduct a search to identify the
+instances where those error have occurred.
+
+00:01:20.070 --> 00:01:24.710
+Then, we will correct those errors, whenever
+possible.
+
+00:01:24.710 --> 00:01:29.950
+When we decide on the best means to make corrections,
+we want to document both the types of errors
+
+00:01:29.950 --> 00:01:34.259
+we find, as well as the solutions we have
+applied to them.
+
+00:01:34.259 --> 00:01:39.930
+Finally, we want to modify how data entry
+is practiced to reduce future errors of the
+
+00:01:39.930 --> 00:01:41.420
+same type.
+
+00:01:41.420 --> 00:01:45.020
+(Maletic &amp; Marcus, 2000)
+
+00:01:45.020 --> 00:01:49.810
+One thing is certain: Errors are common and
+we can always expect to find them in the data
+
+00:01:49.810 --> 00:01:51.610
+we maintain.
+
+00:01:51.610 --> 00:01:57.329
+Our goal is to apply the best practices, including
+principles, processes, and tools, to make
+
+00:01:57.329 --> 00:02:02.479
+the data as fit for use as possible, even
+if we don’t know how data users will use
+
+00:02:02.479 --> 00:02:04.390
+the data.
+
+00:02:04.390 --> 00:02:09.599
+Let’s take a look at several of the recommended
+principles of data cleaning.
+
+00:02:09.599 --> 00:02:14.400
+These principles are presented for your consideration
+so that you can develop and improve upon your
+
+00:02:14.400 --> 00:02:16.950
+own data quality workflow.
+
+00:02:16.950 --> 00:02:21.260
+The workflow that you create should represent
+the most efficient and effective process to
+
+00:02:21.260 --> 00:02:27.390
+achieve the highest data quality given your
+institution’s resources and expertise.
+
+00:02:27.390 --> 00:02:32.120
+Talk to your colleagues to learn about their
+workflows, but ultimately you should strive
+
+00:02:32.120 --> 00:02:40.030
+to create a workflow that will help you to
+achieve your data quality goals.
+
+00:02:40.030 --> 00:02:44.950
+The first two principles in data cleaning
+are planning and organization.
+
+00:02:44.950 --> 00:02:47.190
+Plan how you want the cleaning process to
+go.
+
+00:02:47.190 --> 00:02:52.900
+A scattered or random approach is not likely
+to produce consistent results.
+
+00:02:52.900 --> 00:02:57.170
+Develop and implement a strategy that fits
+with your institution’s resources and expertise.
+
+00:02:57.170 --> 00:03:02.590
+A solid plan will improve both your data and
+the reputation of your institution among data
+
+00:03:02.590 --> 00:03:04.840
+users.
+
+00:03:04.840 --> 00:03:09.099
+One of the first steps of your plan should
+be to organize the data.
+
+00:03:09.099 --> 00:03:13.770
+For example, you could organize your data
+by taxon and then send the appropriate subset
+
+00:03:13.770 --> 00:03:18.760
+of data to individuals with the knowledge
+or resources to clean based on names.
+
+00:03:18.760 --> 00:03:24.019
+This can be done by geography or basis of
+record, or even in specifically sized packages
+
+00:03:24.019 --> 00:03:26.370
+of data in numeric order.
+
+00:03:26.370 --> 00:03:32.970
+Work to the strengths of your institution.
+
+00:03:32.970 --> 00:03:36.790
+As Arthur Chapman says “Prevention is better
+than cure.”
+
+00:03:36.790 --> 00:03:41.159
+At the end of the day is always easier and
+less expensive to prevent an error than it
+
+00:03:41.159 --> 00:03:43.580
+is seek one out and correct it.
+
+00:03:43.580 --> 00:03:47.650
+The more planning you do in advance, even
+all the way back to the moment that data is
+
+00:03:47.650 --> 00:03:52.470
+recorded in the field, the fewer errors you
+are likely to find.
+
+00:03:52.470 --> 00:03:56.620
+Standardized vocabularies and clear procedures
+for data capture and data entry are only a
+
+00:03:56.620 --> 00:04:01.400
+few of the many tools you can use to prevent
+possible errors.
+
+00:04:01.400 --> 00:04:06.269
+Be sure that everyone in your organization
+understands that data quality is everyone’s
+
+00:04:06.269 --> 00:04:07.409
+responsibility.
+
+00:04:07.409 --> 00:04:12.110
+Of course, the primary responsibility lies
+with the people who maintain the data, but
+
+00:04:12.110 --> 00:04:17.709
+everyone, from field technicians to students
+performing data entry to emeritus curators
+
+00:04:17.709 --> 00:04:23.560
+have a responsibility to treat the data with
+care and to communicate any errors or inconsistencies
+
+00:04:23.560 --> 00:04:28.610
+they might discover.
+
+00:04:28.610 --> 00:04:33.130
+Data maintenance is only as effective as the
+expertise that support the process and no
+
+00:04:33.130 --> 00:04:38.050
+single individual can be expected to know
+everything about everything.
+
+00:04:38.050 --> 00:04:42.650
+Developing partnerships with data users and
+content experts can help to make the data
+
+00:04:42.650 --> 00:04:45.600
+quality process more successful.
+
+00:04:45.600 --> 00:04:50.630
+Reach out to your user community, both inside
+and outside of your institution, and work
+
+00:04:50.630 --> 00:04:56.400
+with them to help maintain your data at the
+highest quality.
+
+00:04:56.400 --> 00:05:00.990
+Prioritize your cleaning to take advantage
+of the resources and knowledge that your institution
+
+00:05:00.990 --> 00:05:02.130
+possesses.
+
+00:05:02.130 --> 00:05:06.360
+For example, you may choose to review all
+of the data recorded by collectors who are
+
+00:05:06.360 --> 00:05:10.270
+still alive so that important data is not
+lost later.
+
+00:05:10.270 --> 00:05:14.630
+If you maintain a large dataset you might
+choose to prioritize data that can be cleaned
+
+00:05:14.630 --> 00:05:20.300
+at the lowest cost using automated processes
+and then prioritize the more difficult errors
+
+00:05:20.300 --> 00:05:23.210
+that require individual attention.
+
+00:05:23.210 --> 00:05:27.840
+Ultimately, you should prioritize the data
+that is of the greatest value to the work
+
+00:05:27.840 --> 00:05:36.449
+of your institution and then move through
+the data in a logical and orderly manner.
+
+00:05:36.449 --> 00:05:40.760
+Some times it can be an effective strategy
+to set some measures of performance before
+
+00:05:40.760 --> 00:05:43.520
+the cleaning process begins.
+
+00:05:43.520 --> 00:05:48.340
+One performance measure might be to complete
+the cleaning of 500 records every week.
+
+00:05:48.340 --> 00:05:52.910
+Another measure might be to provide a statistical
+report of the accuracy of the corrections
+
+00:05:52.910 --> 00:05:54.949
+being made, such as:
+
+00:05:54.949 --> 00:06:00.090
+“95% of all georeferences corrected this
+week now have an uncertainty in meters of
+
+00:06:00.090 --> 00:06:02.919
+less than 1000 meters.”
+
+00:06:02.919 --> 00:06:06.419
+These kinds of measures can give direction
+and guidance to the people performing the
+
+00:06:06.419 --> 00:06:13.169
+cleaning, as well as, to serve as a means
+to report on successes and areas in need of
+
+00:06:13.169 --> 00:06:14.169
+improvement.
+
+00:06:14.169 --> 00:06:19.259
+In an ideal world, you will have developed
+a data maintenance plan that has been optimized
+
+00:06:19.259 --> 00:06:22.789
+to be as efficient and effective as possible.
+
+00:06:22.789 --> 00:06:28.470
+Optimization can be achieved in many different
+ways including taking advantage of your institution’s
+
+00:06:28.470 --> 00:06:34.419
+strengths, setting clear objectives and measure
+of success, and regular adjustment of your
+
+00:06:34.419 --> 00:06:39.919
+priorities based on available resources.
+
+00:06:39.919 --> 00:06:44.169
+One of the best ways to learn how successful
+your data cleaning and data maintenance processes
+
+00:06:44.169 --> 00:06:48.230
+are, is to seek feedback from the data users
+in your community.
+
+00:06:48.230 --> 00:06:52.460
+This can be accomplished through the partnerships
+we discussed earlier, but you can also seek
+
+00:06:52.460 --> 00:06:54.600
+feedback in other ways.
+
+00:06:54.600 --> 00:06:58.560
+Once such way is to review the way that GBIF
+presents your data.
+
+00:06:58.560 --> 00:07:03.419
+You can view the comparison between the verbatim
+data published to GBIF and the interpreted
+
+00:07:03.419 --> 00:07:06.699
+data that GBIF might have corrected or updated.
+
+00:07:06.699 --> 00:07:11.360
+These comparisons can help you to optimize
+your data cleaning process, but you can also
+
+00:07:11.360 --> 00:07:17.039
+help GBIF to improve its data quality processes,
+too, when you provide expert feedback back
+
+00:07:17.039 --> 00:07:18.990
+to them.
+
+00:07:18.990 --> 00:07:24.280
+One of the best ways to achieve success with
+data cleaning is to provide training and education
+
+00:07:24.280 --> 00:07:26.910
+to everyone who works with your data.
+
+00:07:26.910 --> 00:07:31.860
+These may be trainings that you organize yourself,
+local or regional trainings in partnership
+
+00:07:31.860 --> 00:07:36.710
+with, or presented by, other institutions
+in your area, or workshops and courses provided
+
+00:07:36.710 --> 00:07:39.450
+by other groups, such as GBIF.
+
+00:07:39.450 --> 00:07:44.639
+If you need training, please check the GBIF
+web site regularly or contact GBIF’s Community
+
+00:07:44.639 --> 00:07:50.150
+Mentors or GBIF’s Biodiversity Open Data
+Ambassadors who also can be good resources
+
+00:07:50.150 --> 00:07:57.139
+for training and education opportunities.
+
+00:07:57.139 --> 00:08:00.680
+Documentation is one of the most important
+principles of data cleaning.
+
+00:08:00.680 --> 00:08:03.099
+This is true in two key ways.
+
+00:08:03.099 --> 00:08:08.960
+First, whatever processes you use to maintain
+your data, it is important to be transparent
+
+00:08:08.960 --> 00:08:12.110
+about how errors are discovered and corrected.
+
+00:08:12.110 --> 00:08:18.289
+This transparency can be truly successful
+when the data cleaning process is well documented.
+
+00:08:18.289 --> 00:08:22.919
+Without clear and accessible documentation,
+you run the risk of losing best practices,
+
+00:08:22.919 --> 00:08:27.590
+building redundant processes and losing optimization.
+
+00:08:27.590 --> 00:08:33.110
+Good documentation will help you to avoid
+recurring errors.
+
+00:08:33.110 --> 00:08:36.550
+Documentation is also key to good data quality.
+
+00:08:36.550 --> 00:08:41.800
+Good documentation, in metadata, for example,
+allows data users to determine the fitness
+
+00:08:41.800 --> 00:08:43.769
+for use of your data.
+
+00:08:43.769 --> 00:08:47.950
+Your documentation should not only include
+good metadata, it should also include the
+
+00:08:47.950 --> 00:08:54.060
+best practices, standardized vocabularies,
+and taxonomic and geographic authorities used.
+
+00:08:54.060 --> 00:08:59.430
+Documenting what data was cleaned by whom
+will help you to improve your optimization,
+
+00:08:59.430 --> 00:09:04.020
+reach performance measures, and ultimately,
+tell a more complete story of where your data
+
+00:09:04.020 --> 00:09:11.700
+came from and how it was improved over time.
+
+00:09:11.700 --> 00:09:16.340
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:09:16.340 --> 00:09:17.990
+platform.
+
+00:09:17.990 --> 00:09:22.950
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:09:22.950 --> 00:09:23.970
+course.
+
+00:09:23.970 --> 00:09:28.690
+The biodiversity data mobilization curriculum
+was originally developed as part of the Biodiversity
+
+00:09:28.690 --> 00:09:33.149
+Information Development Programme funded by
+the European Union.
+
+00:09:33.149 --> 00:09:37.930
+This presentation was originally created by
+Nestor Beltran with additional contributions
+
+00:09:37.930 --> 00:09:43.350
+by David Bloom, BID and BIFA Trainers, Mentors
+and Students.
+
+00:09:43.350 --> 00:09:45.860
+This presentation has been narrated by David
+Bloom.
+

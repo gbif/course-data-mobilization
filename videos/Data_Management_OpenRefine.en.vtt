@@ -1,0 +1,157 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.120 --> 00:00:05.840
+In this presentation, we are going to introduce&nbsp;
+OpenRefine as a tool for data cleaning.
+
+00:00:09.040 --> 00:00:15.440
+Previously known as Google Refine; it is now Open&nbsp;
+access and open sourced. OpenRefine can be used&nbsp;&nbsp;
+
+00:00:15.440 --> 00:00:20.080
+for data cleaning and standardization.&nbsp;
+You can find it at openrefine.org.
+
+00:00:22.400 --> 00:00:25.760
+OpenRefine is a powerful tool&nbsp;
+for working with messy data.
+
+00:00:26.560 --> 00:00:32.080
+OpenRefine supports faceted browsing as a&nbsp;
+mechanism for seeing a big picture of your data,&nbsp;&nbsp;
+
+00:00:32.080 --> 00:00:36.720
+and filtering down to just the subset&nbsp;
+of rows that you want to change in bulk.
+
+00:00:37.760 --> 00:00:42.320
+The clustering feature works by trying&nbsp;
+to group the choices in the text facet,&nbsp;&nbsp;
+
+00:00:42.320 --> 00:00:45.760
+so that choices that "look&nbsp;
+similar" get grouped together.
+
+00:00:47.120 --> 00:00:52.800
+Reconciliation is a semi-automated process of&nbsp;
+matching text names to database IDs (keys).&nbsp;&nbsp;
+
+00:00:53.680 --> 00:00:58.160
+You can use OpenRefine to perform&nbsp;
+reconciliation of names in your data&nbsp;&nbsp;
+
+00:00:58.160 --> 00:01:01.120
+against any database that exposes a web service.
+
+00:01:04.560 --> 00:01:10.480
+OpenRefine, however, is not like other tools&nbsp;
+you’ve used. OpenRefine CANNOT be used for&nbsp;&nbsp;
+
+00:01:10.480 --> 00:01:15.280
+storing or managing data; it is strictly&nbsp;
+a cleaning and/or standardizing tool.
+
+00:01:18.720 --> 00:01:22.400
+As OpenRefine is a different kind&nbsp;
+of tool, you should consider when&nbsp;&nbsp;
+
+00:01:22.400 --> 00:01:26.160
+it is appropriate to use it versus other tools.
+
+00:01:26.160 --> 00:01:30.240
+A database provides infrastructure&nbsp;
+for storage and indexing of data.&nbsp;&nbsp;
+
+00:01:30.960 --> 00:01:36.000
+Generally, it requires programming skills&nbsp;
+to edit and is absent of easy visualization.
+
+00:01:37.280 --> 00:01:42.640
+Excel is a spreadsheet application. It is useful&nbsp;
+for documenting data and performing operations.&nbsp;&nbsp;
+
+00:01:43.280 --> 00:01:46.720
+And while you can manage your data&nbsp;
+and have limited ability to clean and&nbsp;&nbsp;
+
+00:01:46.720 --> 00:01:51.040
+standardize your data, it is usually&nbsp;
+restricted to editing cell by cell.&nbsp;&nbsp;
+
+00:01:51.920 --> 00:01:56.000
+Data is not always visible and it&nbsp;
+lacks powerful visualization tools.
+
+00:01:57.360 --> 00:02:00.880
+OpenRefine in contrast offers multi-cell editing,&nbsp;&nbsp;
+
+00:02:00.880 --> 00:02:05.040
+easy exploration and transformation&nbsp;
+and interactive visualization.&nbsp;&nbsp;
+
+00:02:05.600 --> 00:02:09.680
+But as mentioned previously, it is&nbsp;
+not for storing and managing data.
+
+00:02:13.520 --> 00:02:15.680
+So now that you understand the differences,&nbsp;&nbsp;
+
+00:02:15.680 --> 00:02:19.200
+here is a list of useful features&nbsp;
+that you will find within OpenRefine.&nbsp;&nbsp;
+
+00:02:19.760 --> 00:02:23.840
+You will soon have an opportunity to&nbsp;
+complete a tutorial to try all the features.
+
+00:02:24.480 --> 00:02:28.000
+OpenRefine is a software that&nbsp;
+you install on your computer.&nbsp;&nbsp;
+
+00:02:28.000 --> 00:02:34.320
+It requires the JAVA JRE/JDK to run.&nbsp;
+It works on Windows, Mac and Linux.
+
+00:02:35.120 --> 00:02:39.360
+As OpenRefine is free and open source,&nbsp;
+it is supported by a large community&nbsp;&nbsp;
+
+00:02:39.360 --> 00:02:44.720
+of developers and users. It easy to find&nbsp;
+tutorials online on how to use the tool.
+
+00:02:48.960 --> 00:02:50.960
+If you have questions on this presentation,&nbsp;&nbsp;
+
+00:02:50.960 --> 00:02:53.760
+please use the provided forum&nbsp;
+in the e-Learning platform.
+ &nbsp;
+
+00:02:54.480 --> 00:03:00.160
+This video is part of a series of presentations&nbsp;
+used in the GBIF Biodiversity Data Mobilization&nbsp;&nbsp;
+
+00:03:00.160 --> 00:03:05.600
+course. The biodiversity data mobilization&nbsp;
+curriculum was originally developed as part&nbsp;&nbsp;
+
+00:03:05.600 --> 00:03:10.320
+of the Biodiversity Information Development&nbsp;
+Programme funded by the European Union. 
+ &nbsp;
+
+00:03:11.120 --> 00:03:16.080
+This presentation was originally created by&nbsp;
+Nestor Beltran with additional contributions&nbsp;&nbsp;
+
+00:03:16.080 --> 00:03:21.040
+by Sharon Grant, David Bloom, BID and&nbsp;
+BIFA Trainers, Mentors and Students.
+
+00:03:21.680 --> 00:03:26.560
+This presentation has been&nbsp;
+narrated by Laura Anne Russell.
+

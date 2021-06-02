@@ -1,0 +1,485 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.670 --> 00:00:06.750
+This session is foundation work and part of
+the Terminology section.
+
+00:00:06.750 --> 00:00:11.820
+We will be introducing you to the language,
+terminology and definitions for some of the
+
+00:00:11.820 --> 00:00:17.020
+basic concepts, functions and processes that
+you are going to be putting into use during
+
+00:00:17.020 --> 00:00:19.810
+the rest of the course.
+
+00:00:19.810 --> 00:00:24.980
+First let us review the structure of this
+session.
+
+00:00:24.980 --> 00:00:30.320
+In the section on STRUCTURES we will be working
+on understanding the field and data types
+
+00:00:30.320 --> 00:00:36.989
+that hold data, the structures that help to
+organize and protect that data and lastly
+
+00:00:36.989 --> 00:00:46.409
+look at what these mean for the integrity
+and security of your data.
+
+00:00:46.409 --> 00:00:51.250
+In this section on basic database Structures,
+we will focus on the different elements that
+
+00:00:51.250 --> 00:00:57.109
+databases, software tools and languages use
+to handle the data that you enter.
+
+00:00:57.109 --> 00:01:08.259
+First, let us look at field types, also known
+as data types.
+
+00:01:08.259 --> 00:01:14.630
+Data Types let the computer know what kind
+of data is expected in a particular field.
+
+00:01:14.630 --> 00:01:19.920
+This then dictates what functions can be performed
+on it.
+
+00:01:19.920 --> 00:01:26.201
+They can be simple and encompass a single
+concept or combine concepts depending on the
+
+00:01:26.201 --> 00:01:31.130
+software or language you are using.
+Either way the essential building blocks are
+
+00:01:31.130 --> 00:01:35.799
+the same.
+So let us look at six that you will come across
+
+00:01:35.799 --> 00:01:39.680
+most frequently.
+
+00:01:39.680 --> 00:01:46.009
+First Numeric fields.
+This data type holds numbers, and there are
+
+00:01:46.009 --> 00:01:50.829
+2 kinds: Integers and long integers, and whole
+numbers.
+
+00:01:50.829 --> 00:02:00.189
+For example 1, 2, 3, 99, 2000.
+The size of the number, depends on the number
+
+00:02:00.189 --> 00:02:02.850
+of bits assigned to the field (more about
+that later).
+
+00:02:02.850 --> 00:02:11.880
+For now just remember that a long integer
+field will hold a bigger number than an integer.
+
+00:02:11.880 --> 00:02:20.400
+Floats, also referred to as doubles, hold
+fractions or parts of whole numbers.
+
+00:02:20.400 --> 00:02:31.379
+For example 4.5, 19.47.
+The important thing to remember here is that
+
+00:02:31.379 --> 00:02:39.349
+a float always has decimal places so the number
+10 will be stored as 10.0.
+
+00:02:39.349 --> 00:02:44.330
+The number of decimal places being an integral
+element of the type.
+
+00:02:44.330 --> 00:02:52.760
+This has implications when it comes to precision
+and accuracy.
+
+00:02:52.760 --> 00:02:58.890
+Alphanumeric fields are also referred to as
+text, character or string fields.
+
+00:02:58.890 --> 00:03:04.670
+They can hold any letter, number or symbol
+in the coded character set and usually have
+
+00:03:04.670 --> 00:03:09.420
+a defined character limit.
+Entering more characters than the character
+
+00:03:09.420 --> 00:03:17.849
+limit can often result in truncation and loss
+of data on save.
+
+00:03:17.849 --> 00:03:23.099
+Another type of text field that you will come
+across is the Unstructured text field, also
+
+00:03:23.099 --> 00:03:30.900
+known as memo, long char or blob fields.
+These types of field are used to hold large
+
+00:03:30.900 --> 00:03:38.939
+amounts of unformatted text and unlike alphanumeric
+fields may not have an obvious character limit.
+
+00:03:38.939 --> 00:03:44.390
+In simple systems, they are generally less
+flexible in terms of processing; for example
+
+00:03:44.390 --> 00:03:49.980
+sorting and indexing, than their smaller alphanumeric
+cousins.
+
+00:03:49.980 --> 00:03:55.790
+With decreased storage costs and the rise
+of NoSQL document-oriented database programs,
+
+00:03:55.790 --> 00:04:03.620
+such as MongoDB however, this is changing.
+
+00:04:03.620 --> 00:04:08.140
+System Value fields have a double nature and
+what you see on the screen is not usually
+
+00:04:08.140 --> 00:04:12.530
+the actual value that the software is storing
+in memory.
+
+00:04:12.530 --> 00:04:16.940
+Date and time fields are the most common example
+of this type of field.
+
+00:04:16.940 --> 00:04:26.170
+In this example you typed 1 March 1971 into
+a cell in Excel and hit return.
+
+00:04:26.170 --> 00:04:36.410
+Now it says 1-Mar-71 in the cell AND 3/1/1971
+in the functionbar.
+
+00:04:36.410 --> 00:04:41.490
+Excel is applying a display format to the
+cell, which you can change at will.
+
+00:04:41.490 --> 00:04:47.000
+HOWEVER, if you remove the format you see
+that what is actually being stored in the
+
+00:04:47.000 --> 00:04:55.840
+field is the number 25993.00!
+So you can see that the field is actually
+
+00:04:55.840 --> 00:05:00.880
+a float.
+You should beware because that system value
+
+00:05:00.880 --> 00:05:07.010
+not be the same from software to software.
+Exports should to checked to make sure the
+
+00:05:07.010 --> 00:05:13.100
+actual date is exported and not the system
+value.
+
+00:05:13.100 --> 00:05:19.700
+Boolean fields, also known as Binary fields,
+only contain one of two values that represent
+
+00:05:19.700 --> 00:05:24.760
+a one or a zero.
+They are a special case of a System Value
+
+00:05:24.760 --> 00:05:30.680
+field as mentioned previously in that whilst
+the software actually saves a number it often
+
+00:05:30.680 --> 00:05:37.810
+displays values such as: Yes/No, Yes/no, Y/N,
+True/False.
+
+00:05:37.810 --> 00:05:44.480
+You should take care to find out which way
+around the system you are using translates.
+
+00:05:44.480 --> 00:05:50.960
+Is a 1 a yes or no?
+
+00:05:50.960 --> 00:05:55.660
+Structured Text fields are less common but
+mentioned here for completeness.
+
+00:05:55.660 --> 00:06:00.770
+They are fields which can be either made up
+of combinations of the simple data types or
+
+00:06:00.770 --> 00:06:06.620
+even be defined by the data itself.
+Most often these are used in programming languages
+
+00:06:06.620 --> 00:06:11.210
+to allow flexibility and handling of complex
+concepts.
+
+00:06:11.210 --> 00:06:17.130
+An example is the factor field used in the
+R programming language, which is defined as
+
+00:06:17.130 --> 00:06:30.940
+a type vector containing a set of numeric
+codes with character-valued levels.
+
+00:06:30.940 --> 00:06:36.500
+Now that you have an understanding of the
+field types used to represent your data elements
+
+00:06:36.500 --> 00:06:42.130
+let us talk about the containers or structures,
+that many database programs and software use
+
+00:06:42.130 --> 00:06:48.720
+collate and display your data.
+
+00:06:48.720 --> 00:06:53.720
+First is the cell.
+This is the smallest data structure, it holds
+
+00:06:53.720 --> 00:07:01.860
+a single value and has a single data type
+associated with it.
+
+00:07:01.860 --> 00:07:06.340
+There is one concept that you should beware
+of when it comes to cells and that is the
+
+00:07:06.340 --> 00:07:12.330
+empty cell. An empty cell doesn't necessarily
+mean an empty field.
+
+00:07:12.330 --> 00:07:18.180
+Some software fills an empty field with a
+System value based on the data type.
+
+00:07:18.180 --> 00:07:26.880
+Examples are NULL N A or even zero!
+
+00:07:26.880 --> 00:07:31.180
+As you start to organize cells you begin to
+build a grid.
+
+00:07:31.180 --> 00:07:37.460
+Grids have implied structure in the form of
+Rows.
+
+00:07:37.460 --> 00:07:45.500
+And columns.
+
+00:07:45.500 --> 00:07:51.440
+When you organize cells into rows and columns,
+obviously, what you get is a grid!
+
+00:07:51.440 --> 00:07:54.220
+This is looks very much like a spreadsheet
+right?
+
+00:07:54.220 --> 00:07:58.280
+Well, yes.
+The difference however between a spreadsheet
+
+00:07:58.280 --> 00:08:09.080
+grid and a table are the strength of the ties
+that hold the rows and columns together.
+
+00:08:09.080 --> 00:08:14.770
+So let us now talk about those connections.
+What the implications for the integrity and
+
+00:08:14.770 --> 00:08:24.330
+security of your data of loose unenforced
+relationships between rows and columns?
+
+00:08:24.330 --> 00:08:29.320
+What actually makes a table useful are the
+connections that we create to give the data
+
+00:08:29.320 --> 00:08:34.439
+in the structure meaning.
+We intrinsically make patterns of attributes
+
+00:08:34.439 --> 00:08:42.779
+that turns data into information.
+Rows become records and Columns become attributes.
+
+00:08:42.779 --> 00:08:48.410
+In a spreadsheet however, the connections
+between cells are idiomatic, loose and un-enforced.
+
+00:08:48.410 --> 00:08:54.610
+It is easy for the attributes between the
+rows to get jumbled up or for the values get
+
+00:08:54.610 --> 00:09:05.339
+changed and then the meaning is lost.
+
+00:09:05.339 --> 00:09:11.480
+This lack of enforced connections makes a
+spreadsheet easy to use but these same qualities
+
+00:09:11.480 --> 00:09:16.350
+also cause problems.
+Errors are easy to make and hard to catch
+
+00:09:16.350 --> 00:09:23.930
+-- Connections and relationships are not documentable
+and so subject to interpretation and mutation.
+
+00:09:23.930 --> 00:09:28.939
+Spreadsheets are not built to scale either
+in terms of size or numbers of users -- So
+
+00:09:28.939 --> 00:09:36.960
+can be slow, crashy and easily corruptible.
+Spreadsheets are easy to copy and email -- So
+
+00:09:36.960 --> 00:09:49.709
+they are hard to version and keep track of.
+The question is what is the solution?
+
+00:09:49.709 --> 00:09:53.920
+Let us look back, at the connections in a
+bit more detail.
+
+00:09:53.920 --> 00:10:00.490
+We generally understand that the data in each
+row of a table means something.
+
+00:10:00.490 --> 00:10:06.790
+For example each row can represent a specimen
+or a taxa that was found at a particular place,
+
+00:10:06.790 --> 00:10:13.600
+at a particular time, by a particular person.
+It would be odd to have one row in a table
+
+00:10:13.600 --> 00:10:19.560
+that represents a specimen followed by a row
+that represents a collection site.
+
+00:10:19.560 --> 00:10:27.470
+We also often want to analyse, sort and compare
+values of particular attributes between rows.
+
+00:10:27.470 --> 00:10:32.779
+For example you may want find the mean weight
+of all the Kenyan bats.
+
+00:10:32.779 --> 00:10:39.080
+So ideally we want to use a system to store
+our data that: 1) always holds the rows together;
+
+00:10:39.080 --> 00:10:45.230
+2)does not mix data types; 3) and segregates
+data in each table to a single concept or
+
+00:10:45.230 --> 00:10:57.500
+theme.
+These are functions of a database!
+
+00:10:57.500 --> 00:11:03.500
+Functions in a true database inherently bind
+rows together and columns may only have a
+
+00:11:03.500 --> 00:11:08.879
+single data type.
+Tables in database are held together by virtual
+
+00:11:08.879 --> 00:11:14.089
+links called keys.
+These keys are identifiers that match between
+
+00:11:14.089 --> 00:11:21.660
+tables and allow data to be connected efficiently.
+It is these 2 key concepts that distinguish
+
+00:11:21.660 --> 00:11:29.389
+a spreadsheet from a database.
+
+00:11:29.389 --> 00:11:35.649
+In review then, we have looked at the 6 most
+common data types, the basic building blocks
+
+00:11:35.649 --> 00:11:43.470
+of data structure and distinguished between
+a spreadsheet grid and database table.
+
+00:11:43.470 --> 00:11:48.139
+Understanding these elements and how they
+interact with one another will allow you to
+
+00:11:48.139 --> 00:11:57.170
+better determine the best ways to manipulate
+and document the data that falls under your
+
+00:11:57.170 --> 00:11:59.510
+custodianship.
+
+00:11:59.510 --> 00:12:04.990
+Remember that: When you realize the difference
+between the container and the content, you
+
+00:12:04.990 --> 00:12:08.949
+will have knowledge.
+Using the correct terms to describe both your
+
+00:12:08.949 --> 00:12:13.930
+data and the structures that you create and
+use to store it; is the most important way
+
+00:12:13.930 --> 00:12:19.749
+to ensure that it remains relevant and useable.
+Never underestimate how much damage can be
+
+00:12:19.749 --> 00:12:30.810
+done to priceless information by careless
+descriptions and storage.
+
+00:12:30.810 --> 00:12:35.689
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:12:35.689 --> 00:12:41.089
+platform.
+This video is part of a series of presentations
+
+00:12:41.089 --> 00:12:45.399
+used in the GBIF Biodiversity Data Mobilization
+course.
+
+00:12:45.399 --> 00:12:51.129
+The biodiversity data mobilization curriculum
+was originally developed as part of the Biodiversity
+
+00:12:51.129 --> 00:12:55.730
+Information Development Programme funded by
+the European Union.
+
+00:12:55.730 --> 00:13:01.860
+This presentation was originally created and
+narrated by Sharon Grant with additional contributions
+
+00:13:01.860 --> 00:13:05.079
+by BID and BIFA Trainers, Mentors and Students.
+

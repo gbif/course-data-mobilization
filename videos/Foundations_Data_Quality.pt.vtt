@@ -1,0 +1,499 @@
+WEBVTT
+Kind: captions
+Language: pt
+
+00:00:01.989 --> 00:00:06.109
+Nesta apresentação, apresentaremos alguns dos conceitos que são importantes para
+
+00:00:06.109 --> 00:00:11.019
+entender a qualidade de dados básicos.
+
+00:00:11.019 --> 00:00:16.610
+Os dois conceitos principais que exploraremos são Adequação ao uso e Medidas de qualidade.
+
+00:00:16.610 --> 00:00:21.640
+Essas duas ideias estabelecerão a base para conceitos e técnicas de qualidade de dados mais detalhados
+
+00:00:21.640 --> 00:00:25.610
+no futuro.
+
+00:00:25.610 --> 00:00:30.830
+Antes de começar, gostaria de explicar por que a qualidade dos dados é importante.
+
+00:00:30.830 --> 00:00:35.680
+Limpeza está próxima de Divindade é uma expressão que às vezes usamos para descrever a importância
+
+00:00:35.680 --> 00:00:37.610
+da qualidade dos dados.
+
+00:00:37.610 --> 00:00:42.000
+Nesse caso, a piedade pode ser entendida como santidade, e quando algo é sagrado,
+
+00:00:42.000 --> 00:00:45.110
+muitos consideram digno de nossa confiança.
+
+00:00:45.110 --> 00:00:50.470
+Portanto, no caso da qualidade dos dados, é mais provável que confiemos e usemos dados que foram
+
+00:00:50.470 --> 00:00:55.460
+limpos e tratados.
+
+00:00:55.460 --> 00:01:00.100
+Voltando ao domínio da informática da biodiversidade, a definição clássica de
+
+00:01:00.100 --> 00:01:03.430
+qualidade de dados foi cunhada em 2005 por Arthur Chapman.
+
+00:01:03.430 --> 00:01:09.390
+Ele escreveu: “A qualidade dos dados está relacionada ao uso e não pode ser avaliada independentemente do
+
+00:01:09.390 --> 00:01:10.520
+usuário.
+
+00:01:10.520 --> 00:01:15.710
+Em um banco de dados, os dados não têm qualidade ou valor real (Dalcin 2004); eles só têm
+
+00:01:15.710 --> 00:01:20.409
+valor potencial que é percebido quando alguém usa os dados para fazer algo útil.
+
+00:01:20.409 --> 00:01:25.320
+A qualidade da informação está relacionada à sua capacidade de satisfazer seus clientes e atender às necessidades
+
+00:01:25.320 --> 00:01:26.899
+dos clientes (inglês, 1999). ”
+
+00:01:26.899 --> 00:01:32.740
+E assim, para nós, como indivíduos responsáveis ​​por manter os dados, queremos que os dados que
+
+00:01:32.740 --> 00:01:37.619
+publicamos sejam o mais satisfatórios possível para todos os nossos usuários em potencial.
+
+00:01:37.619 --> 00:01:45.020
+Para fazer isso, procuramos fornecer dados da mais alta qualidade.
+
+00:01:45.020 --> 00:01:48.909
+Para ajudá-lo a realizar essa tarefa, exploraremos a aptidão para o uso.
+
+00:01:48.909 --> 00:01:54.759
+Também exploraremos as Medidas de Qualidade, especificamente, Correção e Consistência.
+
+00:01:54.759 --> 00:01:58.630
+Esses são conceitos importantes que você precisa conhecer e ser capaz de articular sobre
+
+00:01:58.630 --> 00:02:02.509
+seus próprios dados ou os dados que mantém.
+
+00:02:02.509 --> 00:02:06.939
+Vamos começar com um exemplo de aptidão para uso.
+
+00:02:06.939 --> 00:02:12.140
+Um sapateiro cria um par de tamancos com o objetivo de cobrir os pés de uma pessoa, exatamente
+
+00:02:12.140 --> 00:02:18.050
+como os que estão no topo desta imagem.
+
+00:02:18.050 --> 00:02:24.450
+Quando o sapateiro fez esses sapatos, ele sabia que essa garota os usaria para dançar?
+
+00:02:24.450 --> 00:02:26.620
+Pode ser.
+
+00:02:26.620 --> 00:02:30.950
+Você acha que o mesmo sapateiro sabia que um jardineiro poderia um dia usar os sapatos
+
+00:02:30.950 --> 00:02:33.850
+como vasos?
+
+00:02:33.850 --> 00:02:37.750
+Talvez não.
+
+00:02:37.750 --> 00:02:43.780
+Freqüentemente, ouvimos as pessoas falarem sobre a adequação dos dados para uso nas ciências ecológicas, mas o
+
+00:02:43.780 --> 00:02:48.260
+que precisamos lembrar é que os dados não são inerentemente bons ou ruins.
+
+00:02:48.260 --> 00:02:52.650
+Em vez disso, é o usuário dos dados que atribui seu valor aos dados.
+
+00:02:52.650 --> 00:02:57.900
+Por exemplo, para uma pessoa, dados identificados ao nível de Gênero podem ser suficientes para
+
+00:02:57.900 --> 00:03:01.560
+rodar modelos preditivos de nichos ecológicos.
+
+00:03:01.560 --> 00:03:06.820
+Para uma pessoa que estuda um determinado táxon, os mesmos dados em nível de gênero serão muito menos
+
+00:03:06.820 --> 00:03:13.820
+úteis do que ocorrências mais detalhadas com informações de subespécies.
+
+00:03:13.820 --> 00:03:20.540
+Então, o que é aptidão para uso e como se relaciona com os dados?
+
+00:03:20.540 --> 00:03:24.940
+Quando Chapman discute a adequação ao uso, ele diz que, uma vez que um conjunto de dados tenha sido criado
+
+00:03:24.940 --> 00:03:30.710
+e compartilhado, existem duas perspectivas principais sobre como esses dados podem ser usados; a perspectiva
+
+00:03:30.710 --> 00:03:34.840
+do criador e a perspectiva do usuário.
+
+00:03:34.840 --> 00:03:39.650
+Para ajudar alguém a decidir se seus dados são confiáveis ​​ou úteis o suficiente para serem usados,
+
+00:03:39.650 --> 00:03:44.980
+você deve entender seus dados e como transmiti-los ao usuário potencial.
+
+00:03:44.980 --> 00:03:49.650
+Estas são algumas das perguntas importantes sobre os metadados, ou características de
+
+00:03:49.650 --> 00:03:55.060
+seus dados, que você deve ser capaz de responder e compartilhar com outras pessoas:
+
+00:03:55.060 --> 00:03:57.840
+Quão acessíveis são seus dados?
+
+00:03:57.840 --> 00:04:00.790
+Com que facilidade alguém pode acessar seus dados?
+
+00:04:00.790 --> 00:04:06.260
+As pessoas não podem usar os dados se não puderem encontrar os dados.
+
+00:04:06.260 --> 00:04:08.460
+Quão precisos são seus dados?
+
+00:04:08.460 --> 00:04:10.210
+Seus dados são confiáveis?
+
+00:04:10.210 --> 00:04:17.540
+Por exemplo, suas identificações são atuais e foram feitas por especialistas conhecidos?
+
+00:04:17.540 --> 00:04:19.430
+Quão oportunos eles são?
+
+00:04:19.430 --> 00:04:21.459
+Quando os dados serão disponibilizados?
+
+00:04:21.459 --> 00:04:26.180
+Com que frequência eles são atualizados?
+
+00:04:26.180 --> 00:04:29.410
+Quão completos ou abrangentes são os dados?
+
+00:04:29.410 --> 00:04:32.430
+Quais partes do seu conjunto de dados estão totalmente documentadas?
+
+00:04:32.430 --> 00:04:39.800
+Os dados cobrem bem um determinado tempo, lugar ou domínio?
+
+00:04:39.800 --> 00:04:41.639
+Quão consistentes são eles?
+
+00:04:41.639 --> 00:04:45.370
+Os dados em cada campo são sempre do mesmo tipo?
+
+00:04:45.370 --> 00:04:50.700
+Os dados foram coletados usando os mesmos protocolos documentados?
+
+00:04:50.700 --> 00:04:52.520
+Quão relevantes são eles?
+
+00:04:52.520 --> 00:04:59.909
+Quão semelhante é este conjunto de dados a outros que foram usados ​​com sucesso para o mesmo propósito?
+
+00:04:59.909 --> 00:05:02.080
+Quão detalhados são os dados?
+
+00:05:02.080 --> 00:05:04.560
+Quanta resolução há em seus dados?
+
+00:05:04.560 --> 00:05:10.249
+Em que escala eles podem ser usados ​​para mapeamento?
+
+00:05:10.249 --> 00:05:13.110
+Os dados são fáceis de interpretar?
+
+00:05:13.110 --> 00:05:16.629
+O conjunto de dados está documentado de forma clara e concisa?
+
+00:05:16.629 --> 00:05:23.330
+Se seus documentos forem manuscritos, eles são legíveis?
+
+00:05:23.330 --> 00:05:28.430
+Embora a adequação ao uso seja subjetiva, as medidas de qualidade dos dados são muito menos subjetivas.
+
+00:05:28.430 --> 00:05:34.229
+Chapman afirma que: "Todos os dados incluem erro - não há como escapar!
+
+00:05:34.229 --> 00:05:39.340
+É saber qual é o erro que é importante e saber se o erro está dentro dos
+
+00:05:39.340 --> 00:05:46.340
+limites aceitáveis para a finalidade para a qual os dados devem ser colocados."
+
+00:05:46.340 --> 00:05:51.349
+Podemos usar duas medidas de qualidade, exatidão e consistência, para nos ajudar a documentar esses
+
+00:05:51.349 --> 00:05:54.060
+erros inerentes aos dados. A
+
+00:05:54.060 --> 00:05:58.580
+exatidão, às vezes chamada de exatidão, é "quão próximo o valor registrado está do valor
+
+00:05:58.580 --> 00:06:01.400
+real do mundo real".
+
+00:06:01.400 --> 00:06:07.069
+Neste diagrama a precisão é a proximidade de um determinado ponto do centro do alvo.
+
+00:06:07.069 --> 00:06:12.639
+Consistência, às vezes chamada de precisão, é "Com que frequência você acerta".
+
+00:06:12.639 --> 00:06:17.460
+Neste diagrama, a precisão é a proximidade dos pontos, independentemente de quão próximos
+
+00:06:17.460 --> 00:06:20.389
+estejam do centro do alvo.
+
+00:06:20.389 --> 00:06:26.830
+Estas são as medidas de quão bem o coletor de dados foi capaz de capturar o verdadeiro valor que está sendo investigado.
+
+00:06:26.830 --> 00:06:30.820
+Conhecer essas propriedades de seus dados o ajudará a entender as maneiras pelas quais você
+
+00:06:30.820 --> 00:06:39.449
+pode ou não limpar, validar e processar os dados .
+
+00:06:39.449 --> 00:06:44.039
+Esta imagem fornece um conjunto claro de ilustrações de exatidão e precisão.
+
+00:06:44.039 --> 00:06:47.729
+Esta pode ser uma boa imagem para manter com você quando precisar explicar esses conceitos a
+
+00:06:47.729 --> 00:06:50.080
+outras pessoas.
+
+00:06:50.080 --> 00:06:56.789
+Vejamos alguns exemplos de exatidão ou exatidão e como isso pode ajudar nós pensamos
+
+00:06:56.789 --> 00:07:00.259
+sobre os aspectos práticos da limpeza de dados.
+
+00:07:00.259 --> 00:07:04.159
+Lembre-se de que a correção é o quão perto você está do centro de um alvo.
+
+00:07:04.159 --> 00:07:08.669
+Vejamos um exemplo.
+
+00:07:08.669 --> 00:07:13.150
+Para este exemplo, vamos imaginar que seu conjunto de dados contém registros de espécimes fósseis de pássaros
+
+00:07:13.150 --> 00:07:15.580
+do início do período Triássico.
+
+00:07:15.580 --> 00:07:21.059
+O nome taxonômico de vários espécimes em seu conjunto de dados é registrado como Thismia.
+
+00:07:21.059 --> 00:07:25.999
+Você sabe se Thismia é um táxon de pássaros antigos?
+
+00:07:25.999 --> 00:07:28.539
+Nesse caso, a resposta é não!
+
+00:07:28.539 --> 00:07:33.539
+Thismia é uma planta muito rara do estado de Illinois, nos Estados Unidos.
+
+00:07:33.539 --> 00:07:38.870
+Como resultado, a correção ou precisão do nome taxonômico é baixa.
+
+00:07:38.870 --> 00:07:43.069
+Talvez porque o técnico de entrada de dados não fosse paleontólogo.
+
+00:07:43.069 --> 00:07:47.869
+Como resultado, todos os nomes no conjunto de dados podem precisar ser verificados e corrigidos por
+
+00:07:47.869 --> 00:07:51.960
+um especialista antes que os dados possam ser usados.
+
+00:07:51.960 --> 00:07:55.659
+Vejamos outro exemplo.
+
+00:07:55.659 --> 00:08:01.490
+Aqui, seu conjunto de dados contém espécimes coletados em um lugar chamado Kalamazoo por um cientista
+
+00:08:01.490 --> 00:08:03.659
+chamado Richard Spruce.
+
+00:08:03.659 --> 00:08:05.279
+Devemos nos perguntar:
+
+00:08:05.279 --> 00:08:10.219
+49007 é o código postal certo para Kalamazoo?
+
+00:08:10.219 --> 00:08:16.009
+Richard Spruce colecionava em Michigan?
+
+00:08:16.009 --> 00:08:23.630
+Nesse caso, a resposta é sim para a nossa primeira pergunta, 49007 é um código postal para Kalamazoo,
+
+00:08:23.630 --> 00:08:31.870
+então a precisão da localidade é boa, mas e o colecionador, Richard Spruce?
+
+00:08:31.870 --> 00:08:35.760
+Existe, de fato, um botânico famoso chamado Richard Spruce.
+
+00:08:35.760 --> 00:08:41.669
+Ele nasceu em 1817 e morreu em 1893, mas conduziu sua coleta na Bacia Amazônica
+
+00:08:41.669 --> 00:08:45.279
+e na Cordilheira dos Andes na América do Sul.
+
+00:08:45.279 --> 00:08:49.490
+Algo não está certo, então precisamos descobrir mais sobre o coletor antes de termos
+
+00:08:49.490 --> 00:08:53.670
+certeza da exatidão desses dados.
+
+00:08:53.670 --> 00:09:00.300
+Vamos dar uma olhada agora no que consistência, ou precisão, significa para os dados.
+
+00:09:00.300 --> 00:09:04.450
+A consistência representa quantas vezes você obtém a mesma resposta, independentemente de onde está o
+
+00:09:04.450 --> 00:09:07.080
+centro do alvo.
+
+00:09:07.080 --> 00:09:12.570
+Por exemplo, seu conjunto de dados contém ocorrências botânicas, incluindo um campo ou coluna,
+
+00:09:12.570 --> 00:09:14.529
+denominado “Nome completo”.
+
+00:09:14.529 --> 00:09:18.320
+Este campo contém o nome do coletor de espécimes.
+
+00:09:18.320 --> 00:09:23.620
+Como você pode ver, existem cinco nomes diferentes, mas quantos colecionadores exclusivos existem?
+
+00:09:23.620 --> 00:09:27.310
+Você pode dizer apenas olhando para os nomes?
+
+00:09:27.310 --> 00:09:33.820
+Às vezes, se você estiver familiarizado com o conjunto de dados, pode saber quantos coletores são representados
+
+00:09:33.820 --> 00:09:38.540
+apenas olhando os dados, mas se não conhecer bem esses dados, pode ser necessário
+
+00:09:38.540 --> 00:09:43.519
+pesquisar, fazer algumas perguntas ou examinar as notas de campo originais.
+
+00:09:43.519 --> 00:09:48.800
+Neste exemplo, se você adivinhou que esses cinco nomes representam dois ou três colecionadores exclusivos,
+
+00:09:48.800 --> 00:09:49.940
+você está certo.
+
+00:09:49.940 --> 00:09:55.610
+Em azul, Joseph Dalton Hooker AND Hook.f. são a mesma pessoa.
+
+00:09:55.610 --> 00:10:00.680
+Ponto final é a abreviatura usada para Joseph Dalton Hooker (1817-1911).
+
+00:10:00.680 --> 00:10:05.569
+Em verde, WJ Hooker e Hook. são a mesma pessoa.
+
+00:10:05.569 --> 00:10:09.500
+Ponto final é a abreviatura de William Jackson Hooker (1785-1865).
+
+00:10:09.500 --> 00:10:12.730
+William era na verdade o pai de Joseph.
+
+00:10:12.730 --> 00:10:19.250
+Finalmente, no vermelho, há “Hooker, J.” Esta entrada pode ser um erro ou erro de digitação de
+
+00:10:19.250 --> 00:10:25.350
+Joseph ou William Hooker, OU pode ser uma terceira pessoa com um nome semelhante.
+
+00:10:25.350 --> 00:10:32.440
+Assim, mais pesquisas seriam necessárias para esclarecer esses dados.
+
+00:10:32.440 --> 00:10:37.170
+Acabamos de discutir várias ilustrações simples de duas medidas de qualidade de dados.
+
+00:10:37.170 --> 00:10:41.630
+Esses exemplos devem fornecer uma compreensão básica sobre como identificar as imprecisões e
+
+00:10:41.630 --> 00:10:44.100
+imprecisões nos dados.
+
+00:10:44.100 --> 00:10:49.610
+A maneira como documentamos e corrigimos esses problemas ou erros é um processo que chamamos de limpeza de dados.
+
+00:10:49.610 --> 00:10:51.500
+Mais especificamente:
+
+00:10:51.500 --> 00:10:56.990
+A limpeza de dados é o processo de corrigir ou remover dados sujos causados ​​por contradições,
+
+00:10:56.990 --> 00:11:01.089
+disparidades, erros de digitação, bits ausentes e muito mais.
+
+00:11:01.089 --> 00:11:07.000
+Também inclui a validação das alterações feitas e pode exigir normalização.
+
+00:11:07.000 --> 00:11:13.190
+Nossa limpeza de dados, ou a falta dela, afetará como os usuários de dados percebem a adequação de seus dados
+
+00:11:13.190 --> 00:11:14.280
+para uso.
+
+00:11:14.280 --> 00:11:19.730
+Não é necessário que você mesmo faça a limpeza de todos os dados; na verdade, um equívoco comum
+
+00:11:19.730 --> 00:11:25.120
+é que todos os erros DEVEM ser corrigidos antes que você possa compartilhar seus dados.
+
+00:11:25.120 --> 00:11:30.839
+A verdade é que você só pode limpar tantos dados quanto seu tempo, conhecimento e recursos
+
+00:11:30.839 --> 00:11:32.110
+permitirem.
+
+00:11:32.110 --> 00:11:37.269
+Como resultado, é essencial documentar o que você sabe e o que não sabe sobre seus
+
+00:11:37.269 --> 00:11:42.329
+dados para que, ao compartilhá-los, os usuários dos dados conheçam o nível de qualidade de
+
+00:11:42.329 --> 00:11:46.850
+seus dados.
+
+00:11:46.850 --> 00:11:51.519
+Se você tiver dúvidas sobre esta apresentação, use o fórum fornecido na
+
+00:11:51.519 --> 00:11:53.259
+plataforma de e-Learning .
+
+00:11:53.259 --> 00:11:58.670
+Este vídeo é parte de uma série de apresentações usadas no curso de Mobilização de Dados sobre Biodiversidade do GBIF
+
+00:11:58.670 --> 00:11:59.670
+.
+
+00:11:59.670 --> 00:12:04.620
+O currículo de mobilização de dados sobre biodiversidade foi originalmente desenvolvido como parte do
+
+00:12:04.620 --> 00:12:09.670
+Programa de Desenvolvimento de Informações sobre Biodiversidade , financiado pela União Europeia.
+
+00:12:09.670 --> 00:12:14.670
+Esta apresentação foi criada originalmente por Sharon Grant com contribuições adicionais
+
+00:12:14.670 --> 00:12:21.060
+de Dag Endresen, David Bloom, BID e BIFA Trainers, Mentors and Students.
+
+00:12:21.060 --> 00:12:25.709
+Esta apresentação foi narrada por David Bloom.
+

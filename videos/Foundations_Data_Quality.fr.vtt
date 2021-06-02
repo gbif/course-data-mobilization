@@ -1,0 +1,499 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:01.989 --> 00:00:06.109
+Dans cette présentation, nous allons présenter certains des concepts qui sont importants pour
+
+00:00:06.109 --> 00:00:11.019
+comprendre la qualité de base des données.
+
+00:00:11.019 --> 00:00:16.610
+Les deux principaux concepts que nous explorerons sont l'aptitude à l'emploi et les mesures de la qualité.
+
+00:00:16.610 --> 00:00:21.640
+Ces deux idées jetteront les bases de concepts et de techniques de qualité des données plus détaillés
+
+00:00:21.640 --> 00:00:25.610
+à l'avenir.
+
+00:00:25.610 --> 00:00:30.830
+Avant de commencer, j'aimerais prendre un moment pour expliquer pourquoi la qualité des données est importante.
+
+00:00:30.830 --> 00:00:35.680
+La propreté est à côté de la piété est une expression que nous utilisons parfois pour décrire l'importance
+
+00:00:35.680 --> 00:00:37.610
+de la qualité des données.
+
+00:00:37.610 --> 00:00:42.000
+Dans ce cas, la piété peut être comprise comme la sainteté, et quand quelque chose est saint,
+
+00:00:42.000 --> 00:00:45.110
+beaucoup le considèrent comme digne de notre confiance.
+
+00:00:45.110 --> 00:00:50.470
+Ainsi, dans le cas de la qualité des données, nous sommes plus susceptibles de faire confiance et d'utiliser des données qui ont été
+
+00:00:50.470 --> 00:00:55.460
+nettoyées et entretenues.
+
+00:00:55.460 --> 00:01:00.100
+Revenant dans le domaine de l'informatique de la biodiversité, la définition classique de la
+
+00:01:00.100 --> 00:01:03.430
+qualité des données a été inventée en 2005 par Arthur Chapman.
+
+00:01:03.430 --> 00:01:09.390
+Il a écrit: «La qualité des données est liée à l'utilisation et ne peut être évaluée indépendamment de l'
+
+00:01:09.390 --> 00:01:10.520
+utilisateur.
+
+00:01:10.520 --> 00:01:15.710
+Dans une base de données, les données n'ont aucune qualité ou valeur réelle (Dalcin 2004); ils n'ont qu'une valeur
+
+00:01:15.710 --> 00:01:20.409
+potentielle qui est réalisée lorsque quelqu'un utilise les données pour faire quelque chose d'utile.
+
+00:01:20.409 --> 00:01:25.320
+La qualité de l’information se rapporte à sa capacité à satisfaire ses clients et à répondre aux besoins
+
+00:01:25.320 --> 00:01:26.899
+des clients (anglais 1999). »
+
+00:01:26.899 --> 00:01:32.740
+Et donc, pour nous, en tant qu'individus responsables de la gestion des données, nous voulons que les données que nous
+
+00:01:32.740 --> 00:01:37.619
+publions soient aussi satisfaisantes que possible pour tous nos utilisateurs potentiels.
+
+00:01:37.619 --> 00:01:45.020
+Pour ce faire, nous cherchons à fournir des données de la plus haute qualité.
+
+00:01:45.020 --> 00:01:48.909
+Pour vous aider à accomplir cette tâche, nous explorerons l'aptitude à l'emploi.
+
+00:01:48.909 --> 00:01:54.759
+Nous explorerons également les mesures de la qualité, en particulier l'exactitude et la cohérence.
+
+00:01:54.759 --> 00:01:58.630
+Ce sont des concepts importants que vous devrez connaître et être en mesure d'articuler à propos de
+
+00:01:58.630 --> 00:02:02.509
+vos propres données ou des données que vous gérez.
+
+00:02:02.509 --> 00:02:06.939
+Commençons par un exemple d'aptitude à l'emploi.
+
+00:02:06.939 --> 00:02:12.140
+Un cordonnier crée une paire de sabots dans le but de couvrir les pieds d'une personne, tout
+
+00:02:12.140 --> 00:02:18.050
+comme ceux en haut de cette image.
+
+00:02:18.050 --> 00:02:24.450
+Lorsque le cordonnier a fabriqué ces chaussures, savait-il que cette fille les utiliserait pour danser?
+
+00:02:24.450 --> 00:02:26.620
+Peut-être.
+
+00:02:26.620 --> 00:02:30.950
+Pensez-vous que le même cordonnier savait qu'un jardinier pourrait un jour utiliser les chaussures
+
+00:02:30.950 --> 00:02:33.850
+comme pots de fleurs?
+
+00:02:33.850 --> 00:02:37.750
+Peut être pas.
+
+00:02:37.750 --> 00:02:43.780
+Nous entendons souvent les gens parler de l'aptitude à l'emploi des données dans les sciences écologiques, mais ce dont
+
+00:02:43.780 --> 00:02:48.260
+nous devons nous souvenir, c'est que les données ne sont pas intrinsèquement bonnes ou mauvaises.
+
+00:02:48.260 --> 00:02:52.650
+C'est plutôt l'utilisateur des données qui donne leur valeur aux données.
+
+00:02:52.650 --> 00:02:57.900
+Par exemple, pour une personne, les données identifiées au niveau du genre peuvent être suffisantes pour
+
+00:02:57.900 --> 00:03:01.560
+exécuter des modèles prédictifs de niches écologiques.
+
+00:03:01.560 --> 00:03:06.820
+Pour une personne qui étudie un taxon particulier, ces mêmes données au niveau du genre seront beaucoup moins
+
+00:03:06.820 --> 00:03:13.820
+utiles que des occurrences plus détaillées avec des informations sur les sous-espèces.
+
+00:03:13.820 --> 00:03:20.540
+Alors, qu'est-ce que l'aptitude à l'emploi et comment est-il lié aux données?
+
+00:03:20.540 --> 00:03:24.940
+Lorsque Chapman discute de l'aptitude à l'emploi, il dit qu'une fois qu'un ensemble de données a été créé
+
+00:03:24.940 --> 00:03:30.710
+et partagé, il y a deux perspectives principales sur la façon dont ces données pourraient être utilisées; le point
+
+00:03:30.710 --> 00:03:34.840
+de vue du créateur et le point de vue de l'utilisateur.
+
+00:03:34.840 --> 00:03:39.650
+Pour aider quelqu'un à décider si vos données sont dignes de confiance ou suffisamment utiles pour être utilisées,
+
+00:03:39.650 --> 00:03:44.980
+vous devez comprendre vos données et comment les transmettre à l'utilisateur potentiel.
+
+00:03:44.980 --> 00:03:49.650
+Voici quelques-unes des questions importantes sur les métadonnées, ou les caractéristiques de
+
+00:03:49.650 --> 00:03:55.060
+vos données, auxquelles vous devriez être en mesure de répondre et de partager avec d'autres:
+
+00:03:55.060 --> 00:03:57.840
+Dans quelle mesure vos données sont-elles accessibles?
+
+00:03:57.840 --> 00:04:00.790
+Quelqu'un peut-il facilement accéder à vos données?
+
+00:04:00.790 --> 00:04:06.260
+Les gens ne peuvent pas utiliser les données s'ils ne trouvent pas les données.
+
+00:04:06.260 --> 00:04:08.460
+Dans quelle mesure vos données sont-elles exactes?
+
+00:04:08.460 --> 00:04:10.210
+Peut-on faire confiance à vos données?
+
+00:04:10.210 --> 00:04:17.540
+Par exemple, vos identifications sont-elles à jour et ont-elles été faites par des experts connus?
+
+00:04:17.540 --> 00:04:19.430
+Dans quelle mesure sont-ils opportuns?
+
+00:04:19.430 --> 00:04:21.459
+Quand les données seront-elles disponibles?
+
+00:04:21.459 --> 00:04:26.180
+À quelle fréquence sont-ils mis à jour?
+
+00:04:26.180 --> 00:04:29.410
+Dans quelle mesure les données sont-elles complètes ou complètes?
+
+00:04:29.410 --> 00:04:32.430
+Quelles parties de votre ensemble de données sont entièrement documentées?
+
+00:04:32.430 --> 00:04:39.800
+Dans quelle mesure les données couvrent-elles un moment, un lieu ou un domaine particulier?
+
+00:04:39.800 --> 00:04:41.639
+Dans quelle mesure sont-ils cohérents?
+
+00:04:41.639 --> 00:04:45.370
+Les données de chaque champ sont-elles toujours du même type?
+
+00:04:45.370 --> 00:04:50.700
+Les données ont-elles été collectées en utilisant les mêmes protocoles documentés?
+
+00:04:50.700 --> 00:04:52.520
+Dans quelle mesure sont-ils pertinents?
+
+00:04:52.520 --> 00:04:59.909
+Dans quelle mesure cet ensemble de données est-il similaire à d'autres qui ont été utilisés avec succès dans le même but?
+
+00:04:59.909 --> 00:05:02.080
+Dans quelle mesure les données sont-elles détaillées?
+
+00:05:02.080 --> 00:05:04.560
+Quelle est la résolution de vos données?
+
+00:05:04.560 --> 00:05:10.249
+À quelle échelle peuvent-ils être utilisés pour la cartographie?
+
+00:05:10.249 --> 00:05:13.110
+Les données sont-elles faciles à interpréter?
+
+00:05:13.110 --> 00:05:16.629
+L'ensemble de données est-il documenté de manière claire et concise?
+
+00:05:16.629 --> 00:05:23.330
+Si vos documents sont manuscrits, sont-ils lisibles?
+
+00:05:23.330 --> 00:05:28.430
+Si l'aptitude à l'emploi est subjective, les mesures de la qualité des données le sont beaucoup moins.
+
+00:05:28.430 --> 00:05:34.229
+Chapman déclare que: "Toutes les données contiennent une erreur - il n'y a pas moyen d'y échapper!
+
+00:05:34.229 --> 00:05:39.340
+C'est de savoir quelle est l'erreur qui est important, et de savoir si l'erreur se situe dans des
+
+00:05:39.340 --> 00:05:46.340
+limites acceptables pour le but auquel les données doivent être placées."
+
+00:05:46.340 --> 00:05:51.349
+Nous pouvons utiliser deux mesures de la qualité, l'exactitude et la cohérence, pour nous aider à documenter ces
+
+00:05:51.349 --> 00:05:54.060
+erreurs inhérentes aux données.
+
+00:05:54.060 --> 00:05:58.580
+L'exactitude, parfois appelée précision, est la suivante: «La distance entre la valeur enregistrée et la valeur
+
+00:05:58.580 --> 00:06:01.400
+réelle réelle».
+
+00:06:01.400 --> 00:06:07.069
+Dans ce diagramme la précision est la proximité d' un point donné est au centre de la cible. la
+
+00:06:07.069 --> 00:06:12.639
+cohérence, parfois appelée précision, est « combien de fois vous l' obtenez droit »
+
+00:06:12.639 --> 00:06:17.460
+Dans ce schéma, la précision est la proximité des points sont ensemble, quelle que soit la façon dont
+
+00:06:17.460 --> 00:06:20.389
+ils sont proches de la centre de la cible.
+
+00:06:20.389 --> 00:06:26.830
+Ce sont des mesures de la capacité du collecteur de données à capturer la valeur réelle étudiée.
+
+00:06:26.830 --> 00:06:30.820
+Connaître ces propriétés de vos données vous aidera à comprendre comment vous
+
+00:06:30.820 --> 00:06:39.449
+pouvez et ne pouvez pas nettoyer, valider et traiter les données .
+
+00:06:39.449 --> 00:06:44.039
+Cette image fournit un ensemble clair d'illustrations d'exactitude et de précision.
+
+00:06:44.039 --> 00:06:47.729
+Cela peut être une bonne image à garder avec vous lorsque vous devez expliquer ces concepts à d'
+
+00:06:47.729 --> 00:06:50.080
+autres.
+
+00:06:50.080 --> 00:06:56.789
+Examinons quelques exemples d'exactitude ou de précision, et comment cela peut vous aider. nous réfléchissons
+
+00:06:56.789 --> 00:07:00.259
+aux aspects pratiques du nettoyage des données.
+
+00:07:00.259 --> 00:07:04.159
+Rappelez-vous que l'exactitude est à quel point vous êtes proche du centre d'une cible.
+
+00:07:04.159 --> 00:07:08.669
+Regardons un exemple.
+
+00:07:08.669 --> 00:07:13.150
+Pour cet exemple, imaginons que votre ensemble de données contienne des enregistrements de spécimens d'oiseaux fossiles
+
+00:07:13.150 --> 00:07:15.580
+du Trias précoce.
+
+00:07:15.580 --> 00:07:21.059
+Le nom taxonomique d'un certain nombre de spécimens de votre ensemble de données est enregistré comme Thismia.
+
+00:07:21.059 --> 00:07:25.999
+Savez-vous si Thismia est un taxon d'oiseaux anciens?
+
+00:07:25.999 --> 00:07:28.539
+Dans ce cas, la réponse est non!
+
+00:07:28.539 --> 00:07:33.539
+Thismia est une plante très rare de l'état de l'Illinois aux États-Unis.
+
+00:07:33.539 --> 00:07:38.870
+En conséquence, l'exactitude ou l'exactitude du nom taxonomique est faible.
+
+00:07:38.870 --> 00:07:43.069
+Peut-être parce que le technicien de saisie de données n'était pas un paléontologue.
+
+00:07:43.069 --> 00:07:47.869
+Par conséquent, tous les noms de l'ensemble de données peuvent devoir être vérifiés et corrigés par
+
+00:07:47.869 --> 00:07:51.960
+un expert avant que les données puissent être utilisées.
+
+00:07:51.960 --> 00:07:55.659
+Regardons un autre exemple.
+
+00:07:55.659 --> 00:08:01.490
+Ici, votre ensemble de données contient des spécimens collectés dans un endroit appelé Kalamazoo par un scientifique
+
+00:08:01.490 --> 00:08:03.659
+nommé Richard Spruce.
+
+00:08:03.659 --> 00:08:05.279
+Nous devons nous demander:
+
+00:08:05.279 --> 00:08:10.219
+49007 est-il le bon code postal pour Kalamazoo?
+
+00:08:10.219 --> 00:08:16.009
+Richard Spruce a-t-il collectionné au Michigan?
+
+00:08:16.009 --> 00:08:23.630
+Dans ce cas, la réponse est oui à notre première question, 49007 est un code postal pour Kalamazoo,
+
+00:08:23.630 --> 00:08:31.870
+donc la précision de la localité est bonne, mais qu'en est-il du collectionneur, Richard Spruce?
+
+00:08:31.870 --> 00:08:35.760
+Il y a, en fait, un botaniste célèbre nommé Richard Spruce.
+
+00:08:35.760 --> 00:08:41.669
+Il est né en 1817 et est mort en 1893, mais il a mené sa collecte dans le
+
+00:08:41.669 --> 00:08:45.279
+bassin amazonien et les Andes en Amérique du Sud.
+
+00:08:45.279 --> 00:08:49.490
+Quelque chose ne va pas, nous devons donc en savoir plus sur le collecteur avant de
+
+00:08:49.490 --> 00:08:53.670
+pouvoir être sûrs de l'exactitude de ces données.
+
+00:08:53.670 --> 00:09:00.300
+Voyons maintenant ce que la cohérence, ou précision, signifie pour les données.
+
+00:09:00.300 --> 00:09:04.450
+La cohérence représente le nombre de fois où vous obtenez la même réponse, quel que soit le
+
+00:09:04.450 --> 00:09:07.080
+centre de la cible.
+
+00:09:07.080 --> 00:09:12.570
+Par exemple, votre ensemble de données contient des occurrences botaniques comprenant un champ ou une colonne
+
+00:09:12.570 --> 00:09:14.529
+nommé «Nom complet».
+
+00:09:14.529 --> 00:09:18.320
+Ce champ contient le nom du collecteur d'échantillons.
+
+00:09:18.320 --> 00:09:23.620
+Comme vous pouvez le voir, il existe cinq noms différents, mais combien y a-t-il de collectionneurs uniques?
+
+00:09:23.620 --> 00:09:27.310
+Pouvez-vous le dire simplement en regardant les noms?
+
+00:09:27.310 --> 00:09:33.820
+Parfois, si vous êtes familier avec l'ensemble de données, vous pouvez savoir combien de collecteurs sont représentés
+
+00:09:33.820 --> 00:09:38.540
+simplement en regardant les données, mais si vous ne connaissez pas bien ces données, vous devrez peut-être faire
+
+00:09:38.540 --> 00:09:43.519
+des recherches, poser des questions ou regarder les notes de terrain originales.
+
+00:09:43.519 --> 00:09:48.800
+Dans cet exemple, si vous devinez que ces cinq noms représentent deux ou trois collectionneurs uniques,
+
+00:09:48.800 --> 00:09:49.940
+vous auriez raison.
+
+00:09:49.940 --> 00:09:55.610
+En bleu, Joseph Dalton Hooker AND Hook.f. sont la même personne.
+
+00:09:55.610 --> 00:10:00.680
+La période est l'abréviation utilisée pour Joseph Dalton Hooker (1817-1911).
+
+00:10:00.680 --> 00:10:05.569
+En vert, WJ Hooker et Hook. sont la même personne.
+
+00:10:05.569 --> 00:10:09.500
+La période est l'abréviation de William Jackson Hooker (1785-1865).
+
+00:10:09.500 --> 00:10:12.730
+William était en fait le père de Joseph.
+
+00:10:12.730 --> 00:10:19.250
+Enfin, dans le rouge, il y a «Hooker, J.» Cette entrée peut être une erreur ou une faute de frappe de
+
+00:10:19.250 --> 00:10:25.350
+Joseph ou William Hooker, OU il peut s'agir d'une troisième personne portant un nom similaire.
+
+00:10:25.350 --> 00:10:32.440
+Par conséquent, des recherches supplémentaires seraient nécessaires pour clarifier ces données.
+
+00:10:32.440 --> 00:10:37.170
+Nous venons de discuter de plusieurs illustrations simples de deux mesures de la qualité des données.
+
+00:10:37.170 --> 00:10:41.630
+Ces exemples devraient vous donner une compréhension de base sur la façon d'identifier les inexactitudes et les
+
+00:10:41.630 --> 00:10:44.100
+imprécisions dans les données.
+
+00:10:44.100 --> 00:10:49.610
+La manière dont nous documentons et corrigeons ces problèmes ou erreurs est un processus que nous appelons le nettoyage des données.
+
+00:10:49.610 --> 00:10:51.500
+Plus précisément: le
+
+00:10:51.500 --> 00:10:56.990
+nettoyage des données est le processus de correction ou de suppression des données sales causées par des contradictions, des
+
+00:10:56.990 --> 00:11:01.089
+disparités, des erreurs de saisie, des bits manquants, etc.
+
+00:11:01.089 --> 00:11:07.000
+Il inclut également la validation des modifications apportées et peut nécessiter une normalisation.
+
+00:11:07.000 --> 00:11:13.190
+Notre nettoyage des données, ou son absence, affectera la façon dont les utilisateurs de données perçoivent l'aptitude
+
+00:11:13.190 --> 00:11:14.280
+à l'utilisation de
+
+00:11:14.280 --> 00:11:19.730
+vos données . Il n'est pas nécessaire que vous nettoyiez vous-même toutes les données.En fait, une idée fausse
+
+00:11:19.730 --> 00:11:25.120
+courante est que toutes les erreurs DOIVENT être corrigées avant de pouvoir partager vos données.
+
+00:11:25.120 --> 00:11:30.839
+La vérité est que vous ne pouvez nettoyer autant de données que votre temps, vos connaissances et vos ressources le
+
+00:11:30.839 --> 00:11:32.110
+permettent.
+
+00:11:32.110 --> 00:11:37.269
+Par conséquent, il est essentiel de documenter ce que vous savez et ce que vous ne savez pas sur vos
+
+00:11:37.269 --> 00:11:42.329
+données afin que lorsque vous les partagez, les utilisateurs de données connaissent le niveau de qualité de
+
+00:11:42.329 --> 00:11:46.850
+vos données.
+
+00:11:46.850 --> 00:11:51.519
+Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la
+
+00:11:51.519 --> 00:11:53.259
+plateforme e-Learning .
+
+00:11:53.259 --> 00:11:58.670
+Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données du GBIF sur la biodiversité
+
+00:11:58.670 --> 00:11:59.670
+.
+
+00:11:59.670 --> 00:12:04.620
+Le programme de mobilisation des données sur la biodiversité a été développé à l'origine dans le cadre du programme de développement de l'
+
+00:12:04.620 --> 00:12:09.670
+information sur la biodiversité financé par l'Union européenne.
+
+00:12:09.670 --> 00:12:14.670
+Cette présentation a été créée à l'origine par Sharon Grant avec des contributions supplémentaires
+
+00:12:14.670 --> 00:12:21.060
+de Dag Endresen, David Bloom, de formateurs, de mentors et d'étudiants du BID et du BIFA.
+
+00:12:21.060 --> 00:12:25.709
+Cette présentation a été racontée par David Bloom.
+

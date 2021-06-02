@@ -1,0 +1,373 @@
+WEBVTT
+Kind: captions
+Language: pt
+
+00:00:01.670 --> 00:00:06.750
+Esta sessão é um trabalho básico e parte da seção Terminologia.
+
+00:00:06.750 --> 00:00:11.820
+Estaremos apresentando a você a linguagem, terminologia e definições de alguns dos
+
+00:00:11.820 --> 00:00:17.020
+conceitos básicos, funções e processos que você colocará em uso durante
+
+00:00:17.020 --> 00:00:19.810
+o resto do curso.
+
+00:00:19.810 --> 00:00:24.980
+Primeiro, vamos revisar a estrutura desta sessão.
+
+00:00:24.980 --> 00:00:30.320
+Na seção sobre ESTRUTURAS, estaremos trabalhando para entender o campo e os tipos de dados
+
+00:00:30.320 --> 00:00:36.989
+que contêm dados, as estruturas que ajudam a organizar e proteger esses dados e, por último,
+
+00:00:36.989 --> 00:00:46.409
+ver o que isso significa para a integridade e segurança de seus dados.
+
+00:00:46.409 --> 00:00:51.250
+Nesta seção sobre estruturas básicas de banco de dados, enfocaremos os diferentes elementos que
+
+00:00:51.250 --> 00:00:57.109
+bancos de dados, ferramentas de software e linguagens usam para lidar com os dados inseridos.
+
+00:00:57.109 --> 00:01:08.259
+Primeiro, vamos examinar os tipos de campo, também conhecidos como tipos de dados.
+
+00:01:08.259 --> 00:01:14.630
+Tipos de dados permitem ao computador saber que tipo de dados é esperado em um determinado campo.
+
+00:01:14.630 --> 00:01:19.920
+Isso então determina quais funções podem ser executadas nele.
+
+00:01:19.920 --> 00:01:26.201
+Eles podem ser simples e englobar um único conceito ou combinar conceitos, dependendo do
+
+00:01:26.201 --> 00:01:31.130
+software ou da linguagem que você está usando. De qualquer forma, os blocos de construção essenciais são
+
+00:01:31.130 --> 00:01:35.799
+os mesmos. Portanto, vejamos seis que você encontrará com
+
+00:01:35.799 --> 00:01:39.680
+mais frequência.
+
+00:01:39.680 --> 00:01:46.009
+Primeiros campos numéricos. Este tipo de dados contém números e existem
+
+00:01:46.009 --> 00:01:50.829
+2 tipos: inteiros e inteiros longos e números inteiros.
+
+00:01:50.829 --> 00:02:00.189
+Por exemplo, 1, 2, 3, 99, 2000. O tamanho do número depende do número
+
+00:02:00.189 --> 00:02:02.850
+de bits atribuídos ao campo (mais sobre isso mais tarde).
+
+00:02:02.850 --> 00:02:11.880
+Por enquanto, lembre-se de que um campo inteiro longo conterá um número maior do que um inteiro.
+
+00:02:11.880 --> 00:02:20.400
+Flutuadores, também conhecidos como duplos, retêm frações ou partes de números inteiros.
+
+00:02:20.400 --> 00:02:31.379
+Por exemplo 4.5, 19.47. O importante a lembrar aqui é que
+
+00:02:31.379 --> 00:02:39.349
+um float sempre tem casas decimais, então o número 10 será armazenado como 10,0.
+
+00:02:39.349 --> 00:02:44.330
+O número de casas decimais sendo um elemento integral do tipo.
+
+00:02:44.330 --> 00:02:52.760
+Isso tem implicações quando se trata de precisão e exatidão.
+
+00:02:52.760 --> 00:02:58.890
+Os campos alfanuméricos também são chamados de campos de texto, caractere ou string.
+
+00:02:58.890 --> 00:03:04.670
+Eles podem conter qualquer letra, número ou símbolo no conjunto de caracteres codificados e geralmente têm
+
+00:03:04.670 --> 00:03:09.420
+um limite de caracteres definido. A inserção de mais caracteres do que o
+
+00:03:09.420 --> 00:03:17.849
+limite de caracteres geralmente pode resultar em truncamento e perda de dados ao salvar.
+
+00:03:17.849 --> 00:03:23.099
+Outro tipo de campo de texto que você encontrará é o campo de texto não estruturado, também
+
+00:03:23.099 --> 00:03:30.900
+conhecido como campos memo, long char ou blob. Esses tipos de campo são usados ​​para armazenar grandes
+
+00:03:30.900 --> 00:03:38.939
+quantidades de texto não formatado e, ao contrário dos campos alfanuméricos, podem não ter um limite de caracteres óbvio.
+
+00:03:38.939 --> 00:03:44.390
+Em sistemas simples, eles são geralmente menos flexíveis em termos de processamento; por exemplo,
+
+00:03:44.390 --> 00:03:49.980
+classificação e indexação, do que seus primos alfanuméricos menores.
+
+00:03:49.980 --> 00:03:55.790
+Com a redução dos custos de armazenamento e o aumento dos programas de banco de dados orientados a documentos NoSQL,
+
+00:03:55.790 --> 00:04:03.620
+como o MongoDB, no entanto, isso está mudando.
+
+00:04:03.620 --> 00:04:08.140
+Os campos de valor do sistema têm uma natureza dupla e o que você vê na tela geralmente não é
+
+00:04:08.140 --> 00:04:12.530
+o valor real que o software está armazenando na memória.
+
+00:04:12.530 --> 00:04:16.940
+Os campos de data e hora são o exemplo mais comum desse tipo de campo.
+
+00:04:16.940 --> 00:04:26.170
+Neste exemplo, você digitou 1 de março de 1971 em uma célula do Excel e pressionou Enter.
+
+00:04:26.170 --> 00:04:36.410
+Agora diz 1-Mar-71 na célula E 01/03/1971 na barra de funções.
+
+00:04:36.410 --> 00:04:41.490
+O Excel está aplicando um formato de exibição à célula, que você pode alterar à vontade.
+
+00:04:41.490 --> 00:04:47.000
+NO ENTANTO, se você remover o formato, verá que o que realmente está sendo armazenado no
+
+00:04:47.000 --> 00:04:55.840
+campo é o número 25993,00! Então você pode ver que o campo é na verdade
+
+00:04:55.840 --> 00:05:00.880
+um float. Você deve ficar atento porque o valor do sistema
+
+00:05:00.880 --> 00:05:07.010
+não é o mesmo de software para software. As exportações devem ser verificadas para garantir que a
+
+00:05:07.010 --> 00:05:13.100
+data real seja exportada e não o valor do sistema.
+
+00:05:13.100 --> 00:05:19.700
+Os campos booleanos, também conhecidos como campos binários, contêm apenas um dos dois valores que representam
+
+00:05:19.700 --> 00:05:24.760
+um ou zero. Eles são um caso especial de um campo Valor do sistema
+
+00:05:24.760 --> 00:05:30.680
+, conforme mencionado anteriormente, em que, embora o software realmente salve um número, ele geralmente
+
+00:05:30.680 --> 00:05:37.810
+exibe valores como: Sim / Não, Sim / não, S / N, Verdadeiro / Falso.
+
+00:05:37.810 --> 00:05:44.480
+Você deve tomar cuidado para descobrir de que maneira o sistema que está usando traduz.
+
+00:05:44.480 --> 00:05:50.960
+1 é sim ou não?
+
+00:05:50.960 --> 00:05:55.660
+Os campos de texto estruturado são menos comuns, mas mencionados aqui para fins de integridade.
+
+00:05:55.660 --> 00:06:00.770
+Eles são campos que podem ser feitos de combinações dos tipos de dados simples ou
+
+00:06:00.770 --> 00:06:06.620
+mesmo definidos pelos próprios dados. Na maioria das vezes, eles são usados ​​em linguagens de programação
+
+00:06:06.620 --> 00:06:11.210
+para permitir flexibilidade e manipulação de conceitos complexos.
+
+00:06:11.210 --> 00:06:17.130
+Um exemplo é o campo de fator usado na linguagem de programação R, que é definido como
+
+00:06:17.130 --> 00:06:30.940
+um vetor de tipo contendo um conjunto de códigos numéricos com níveis com valores de caracteres.
+
+00:06:30.940 --> 00:06:36.500
+Agora que você compreende os tipos de campo usados ​​para representar seus elementos de dados,
+
+00:06:36.500 --> 00:06:42.130
+vamos falar sobre os contêineres ou estruturas, que muitos programas de banco de dados e software usam para
+
+00:06:42.130 --> 00:06:48.720
+agrupar e exibir seus dados.
+
+00:06:48.720 --> 00:06:53.720
+O primeiro é o celular. Esta é a menor estrutura de dados, ela contém
+
+00:06:53.720 --> 00:07:01.860
+um único valor e tem um único tipo de dados associado a ela.
+
+00:07:01.860 --> 00:07:06.340
+Existe um conceito com o qual você deve ter cuidado quando se trata de células: a
+
+00:07:06.340 --> 00:07:12.330
+célula vazia. Uma célula vazia não significa necessariamente um campo vazio.
+
+00:07:12.330 --> 00:07:18.180
+Alguns softwares preenchem um campo vazio com um valor de sistema com base no tipo de dados.
+
+00:07:18.180 --> 00:07:26.880
+Os exemplos são NULL NA ou mesmo zero!
+
+00:07:26.880 --> 00:07:31.180
+À medida que você começa a organizar as células, começa a construir uma grade.
+
+00:07:31.180 --> 00:07:37.460
+As grades têm uma estrutura implícita na forma de linhas.
+
+00:07:37.460 --> 00:07:45.500
+E colunas.
+
+00:07:45.500 --> 00:07:51.440
+Quando você organiza células em linhas e colunas, obviamente, o que você obtém é uma grade!
+
+00:07:51.440 --> 00:07:54.220
+Isso se parece muito com uma planilha, certo?
+
+00:07:54.220 --> 00:07:58.280
+Bem, sim. A diferença, entretanto, entre uma
+
+00:07:58.280 --> 00:08:09.080
+grade de planilha e uma tabela é a força dos laços que mantêm as linhas e colunas juntas.
+
+00:08:09.080 --> 00:08:14.770
+Portanto, vamos agora falar sobre essas conexões. Quais são as implicações para a integridade e
+
+00:08:14.770 --> 00:08:24.330
+segurança de seus dados de relacionamentos não forçados frouxos entre linhas e colunas?
+
+00:08:24.330 --> 00:08:29.320
+O que realmente torna uma tabela útil são as conexões que criamos para dar significado aos dados
+
+00:08:29.320 --> 00:08:34.439
+na estrutura. Nós intrinsecamente criamos padrões de atributos
+
+00:08:34.439 --> 00:08:42.779
+que transformam dados em informações. As linhas se tornam registros e as colunas se tornam atributos.
+
+00:08:42.779 --> 00:08:48.410
+Em uma planilha, entretanto, as conexões entre as células são idiomáticas, frouxas e não impostas.
+
+00:08:48.410 --> 00:08:54.610
+É fácil para os atributos entre as linhas se misturarem ou para os valores serem
+
+00:08:54.610 --> 00:09:05.339
+alterados e então o significado se perder.
+
+00:09:05.339 --> 00:09:11.480
+Essa falta de conexões obrigatórias torna uma planilha fácil de usar, mas essas mesmas qualidades
+
+00:09:11.480 --> 00:09:16.350
+também causam problemas. Os erros são fáceis de fazer e difíceis de detectar
+
+00:09:16.350 --> 00:09:23.930
+- Conexões e relacionamentos não são documentáveis ​​e, portanto, estão sujeitos a interpretação e mutação.
+
+00:09:23.930 --> 00:09:28.939
+As planilhas não são feitas para escalar em termos de tamanho ou número de usuários - portanto,
+
+00:09:28.939 --> 00:09:36.960
+podem ser lentas, travar e facilmente corromper. As planilhas são fáceis de copiar e enviar por e-mail - portanto
+
+00:09:36.960 --> 00:09:49.709
+, são difíceis de criar e controlar. A questão é qual é a solução?
+
+00:09:49.709 --> 00:09:53.920
+Vamos olhar para trás, para as conexões com um pouco mais de detalhes.
+
+00:09:53.920 --> 00:10:00.490
+Geralmente entendemos que os dados em cada linha de uma tabela significam algo.
+
+00:10:00.490 --> 00:10:06.790
+Por exemplo, cada linha pode representar um espécime ou taxa que foi encontrado em um determinado lugar,
+
+00:10:06.790 --> 00:10:13.600
+em um determinado momento, por uma pessoa específica. Seria estranho ter uma linha em uma tabela
+
+00:10:13.600 --> 00:10:19.560
+que representa um espécime seguida por uma linha que representa um local de coleta.
+
+00:10:19.560 --> 00:10:27.470
+Freqüentemente, também queremos analisar, classificar e comparar valores de atributos específicos entre as linhas.
+
+00:10:27.470 --> 00:10:32.779
+Por exemplo, você pode querer encontrar o peso médio de todos os morcegos quenianos.
+
+00:10:32.779 --> 00:10:39.080
+Então, idealmente, queremos usar um sistema para armazenar nossos dados que: 1) sempre mantenha as linhas juntas;
+
+00:10:39.080 --> 00:10:45.230
+2) não mistura tipos de dados; 3) e separa os dados de cada tabela em um único conceito ou
+
+00:10:45.230 --> 00:10:57.500
+tema. Essas são funções de um banco de dados!
+
+00:10:57.500 --> 00:11:03.500
+As funções em um banco de dados verdadeiro vinculam linhas inerentemente e as colunas podem ter apenas um
+
+00:11:03.500 --> 00:11:08.879
+único tipo de dados. As tabelas no banco de dados são mantidas juntas por links virtuais
+
+00:11:08.879 --> 00:11:14.089
+chamados de chaves. Essas chaves são identificadores que correspondem entre as
+
+00:11:14.089 --> 00:11:21.660
+tabelas e permitem que os dados sejam conectados de forma eficiente. São esses 2 conceitos-chave que distinguem
+
+00:11:21.660 --> 00:11:29.389
+uma planilha de um banco de dados.
+
+00:11:29.389 --> 00:11:35.649
+Na revisão, vimos os 6 tipos de dados mais comuns, os blocos básicos de construção
+
+00:11:35.649 --> 00:11:43.470
+da estrutura de dados e distinguimos entre uma grade de planilha e uma tabela de banco de dados.
+
+00:11:43.470 --> 00:11:48.139
+Compreender esses elementos e como eles interagem entre si permitirá que você
+
+00:11:48.139 --> 00:11:57.170
+determine melhor as melhores maneiras de manipular e documentar os dados que estão sob sua
+
+00:11:57.170 --> 00:11:59.510
+custódia.
+
+00:11:59.510 --> 00:12:04.990
+Lembre-se disso: Quando você perceber a diferença entre o container e o conteúdo, você
+
+00:12:04.990 --> 00:12:08.949
+terá conhecimento. Usando os termos corretos para descrever seus
+
+00:12:08.949 --> 00:12:13.930
+dados e as estruturas que você cria e usa para armazená-los; é a forma mais importante
+
+00:12:13.930 --> 00:12:19.749
+de garantir que permaneça relevante e utilizável. Nunca subestime quanto dano pode ser
+
+00:12:19.749 --> 00:12:30.810
+causado a informações inestimáveis ​​por descrições e armazenamento descuidados.
+
+00:12:30.810 --> 00:12:35.689
+Se você tiver dúvidas sobre esta apresentação, use o fórum fornecido na
+
+00:12:35.689 --> 00:12:41.089
+plataforma de e-Learning . Este vídeo é parte de uma série de apresentações
+
+00:12:41.089 --> 00:12:45.399
+usadas no curso de Mobilização de Dados sobre Biodiversidade do GBIF.
+
+00:12:45.399 --> 00:12:51.129
+O currículo de mobilização de dados sobre biodiversidade foi originalmente desenvolvido como parte do
+
+00:12:51.129 --> 00:12:55.730
+Programa de Desenvolvimento de Informações sobre Biodiversidade , financiado pela União Europeia.
+
+00:12:55.730 --> 00:13:01.860
+Esta apresentação foi originalmente criada e narrada por Sharon Grant com contribuições adicionais de
+
+00:13:01.860 --> 00:13:05.079
+Formadores, Mentores e Alunos do BID e BIFA.
+

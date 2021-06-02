@@ -1,0 +1,450 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.370 --> 00:00:05.890
+This presentation is based on “Principles
+for data quality” by Arthur Chapman
+
+00:00:05.890 --> 00:00:13.690
+During this presentation, we will explore
+the principles of data quality applied to
+
+00:00:13.690 --> 00:00:20.970
+data capture, specifically when capturing
+data from collection labels, fieldwork notebooks,
+
+00:00:20.970 --> 00:00:23.450
+spreadsheets, etc.
+
+00:00:23.450 --> 00:00:28.260
+Data quality is essential at every step of
+the data mobilization process, especially
+
+00:00:28.260 --> 00:00:30.910
+in the data capture steps.
+
+00:00:30.910 --> 00:00:35.719
+Each person involved in the data capture has
+a share of responsibility regarding the data
+
+00:00:35.719 --> 00:00:40.810
+quality, but most decisions on this topic
+quality have to be taken at the institutional
+
+00:00:40.810 --> 00:00:42.510
+level.
+
+00:00:42.510 --> 00:00:46.340
+The keywords here are: planning and documentation!
+
+00:00:46.340 --> 00:00:51.530
+As mentioned in the Foundations documentation
+presentation, use existing standards and plan
+
+00:00:51.530 --> 00:00:57.149
+your workflows to match your goals; document
+everything you can, at every step, and share
+
+00:00:57.149 --> 00:01:04.589
+or re-use documents, data, tools and standards
+as much as possible.
+
+00:01:04.589 --> 00:01:07.800
+This is an example of a data quality workflow.
+
+00:01:07.800 --> 00:01:13.050
+In this workflow, it begins with the collection
+of specimens, moves to data capture, then
+
+00:01:13.050 --> 00:01:16.550
+quality control, publishing and finally use.
+
+00:01:16.550 --> 00:01:21.110
+Data quality isn’t the sole responsibility
+of the first person in the process (here,
+
+00:01:21.110 --> 00:01:26.020
+the collector) -- it is shared at every step
+and every person in the process should have
+
+00:01:26.020 --> 00:01:27.870
+a responsibility for quality.
+
+00:01:27.870 --> 00:01:33.540
+A functioning feedback loop needs to be in
+place in order to check, complete, update
+
+00:01:33.540 --> 00:01:35.600
+or correct data.
+
+00:01:35.600 --> 00:01:40.040
+This is where documentation is essential:
+you need to know who was responsible for each
+
+00:01:40.040 --> 00:01:45.270
+step in the process in order to validate changes
+that have been made to the data (or need to
+
+00:01:45.270 --> 00:01:49.320
+be made to the data).
+
+00:01:49.320 --> 00:01:54.460
+In this simplified view of the data flow,
+you can see some of the data quality responsibilities
+
+00:01:54.460 --> 00:01:56.720
+of each group of people involved.
+
+00:01:56.720 --> 00:02:01.720
+In this example, the team in charge of the
+mobilization can be split into the ‘transcribers’
+
+00:02:01.720 --> 00:02:03.800
+and ‘curator’ roles.
+
+00:02:03.800 --> 00:02:08.860
+The transcribers team needs to ensure data
+is captured and saved as best as possible,
+
+00:02:08.860 --> 00:02:14.079
+while the ‘curator’ role has the ultimate
+responsibility for ensuring that each team
+
+00:02:14.079 --> 00:02:19.450
+is fulfilling their roles in the process.
+
+00:02:19.450 --> 00:02:23.700
+Once the data workflow is in place, the data
+capture itself can begin.
+
+00:02:23.700 --> 00:02:27.459
+In the following slides, we will explore the
+different types of information that can be
+
+00:02:27.459 --> 00:02:32.810
+captured from specimens or field observations,
+and see what are the most common mistakes
+
+00:02:32.810 --> 00:02:36.670
+that should be avoided when dealing with each
+kind of information.
+
+00:02:36.670 --> 00:02:42.410
+The main topics will be as follows: taxonomic
+information, spatial information, collection
+
+00:02:42.410 --> 00:02:45.560
+information, descriptive information.
+
+00:02:45.560 --> 00:02:50.420
+Please note that each occurrence (each row
+in your database or spreadsheet) should have
+
+00:02:50.420 --> 00:02:58.260
+information linked to these 4 main topics
+in order to be shared and reused accordingly.
+
+00:02:58.260 --> 00:03:02.319
+Taxonomic information is an essential part
+of the data capture process.
+
+00:03:02.319 --> 00:03:08.349
+Without it, a digitized specimen is useless
+and cannot be properly interpreted or reused.
+
+00:03:08.349 --> 00:03:12.409
+Note that the species name is not the only
+type of taxonomic information that can be
+
+00:03:12.409 --> 00:03:18.590
+exploited in the data capture process: sometimes
+the specimen hasn’t been identified to the
+
+00:03:18.590 --> 00:03:23.769
+species, and higher taxonomic levels such
+as the genus or family are still useful for
+
+00:03:23.769 --> 00:03:28.150
+data managers and users.
+
+00:03:28.150 --> 00:03:34.319
+Most of the time, the scientific name is the
+main way of retrieving data in a database,
+
+00:03:34.319 --> 00:03:36.120
+portal, website, browser…
+
+00:03:36.120 --> 00:03:41.769
+Any error in the spelling or authority can
+lead to wrong or null queries, thus impeding
+
+00:03:41.769 --> 00:03:44.260
+the management and potential reuse of the
+data.
+
+00:03:44.260 --> 00:03:49.049
+This is why it’s very important to check
+all categories of scientific names to fix
+
+00:03:49.049 --> 00:03:53.439
+errors and/or omissions.
+
+00:03:53.439 --> 00:03:59.400
+The most common issues occurring with taxon
+information are missing or inconsistent information,
+
+00:03:59.400 --> 00:04:03.700
+incorrect or non-atomic values, duplicates
+and uncertainty.
+
+00:04:03.700 --> 00:04:08.809
+Always check the definitions and examples
+of taxonomic Darwin Core terms to avoid nomenclatural
+
+00:04:08.809 --> 00:04:12.309
+mistakes: http://rs.tdwg.org/dwc/terms/index.htm
+ 
+
+00:04:12.309 --> 00:04:17.049
+Geographic information proves to be valuable
+in a lot of data re-use contexts, such as
+
+00:04:17.049 --> 00:04:20.169
+niche modelling or studies about species distribution.
+
+00:04:20.169 --> 00:04:25.520
+While ‘old’ collections or specimens can
+be understandably difficult, if not impossible,
+
+00:04:25.520 --> 00:04:31.280
+to geolocate precisely, it is recommended
+to share precise coordinates or textual information
+
+00:04:31.280 --> 00:04:33.360
+when possible.
+
+00:04:33.360 --> 00:04:37.780
+Coordinates should be recorded directly on
+the field when possible, along with the uncertainty
+
+00:04:37.780 --> 00:04:39.940
+and the geodetic datum used.
+
+00:04:39.940 --> 00:04:44.639
+Otherwise use relevant and verified sources
+to geolocate your data.
+
+00:04:44.639 --> 00:04:49.090
+You should note that coordinates or other
+geographic information can be generalized
+
+00:04:49.090 --> 00:04:53.879
+or not even shared at all in some contexts,
+such as with the conservation of sensitive
+
+00:04:53.879 --> 00:04:57.580
+species.
+
+00:04:57.580 --> 00:05:02.840
+Spatial information can be found in numerous
+formats, not only geographic coordinates:
+
+00:05:02.840 --> 00:05:08.960
+examples include (but are not limited to)
+grid data, point+radius, or polygons.
+
+00:05:08.960 --> 00:05:13.460
+Each of them is useful to share in order to
+check the consistency of the geographical
+
+00:05:13.460 --> 00:05:19.330
+elements (eg coordinates vs country code,
+or to ensure a given locality is consistent
+
+00:05:19.330 --> 00:05:23.650
+with a collector’s travels)
+
+00:05:23.650 --> 00:05:27.840
+Within GBIF, it is recommended to share the
+geodetic Datum that was used to derive the
+
+00:05:27.840 --> 00:05:32.090
+coordinates (decimal latitude and longitude)
+shared.
+
+00:05:32.090 --> 00:05:40.530
+In the absence of a specific geodetic datum,
+GBIF will infer WGS84 as default.
+
+00:05:40.530 --> 00:05:46.539
+This slide shows an old GBIF map with different
+types of geographical issues: the most obvious
+
+00:05:46.539 --> 00:05:52.340
+one is a mirror effect between the USA and
+China (reversed coordinates), and you can
+
+00:05:52.340 --> 00:05:57.759
+also notice an artificial line along the Greenwich
+meridian where ‘0’ values were put in
+
+00:05:57.759 --> 00:06:03.330
+the ‘decimalLongitude’ field, as well
+as another one on the Equator where ‘0’
+
+00:06:03.330 --> 00:06:06.199
+values were put in the ‘decimalLatitude’
+field.
+
+00:06:06.199 --> 00:06:12.370
+GBIF indexing now includes automatic geographical
+checks between the coordinates and countryCode
+
+00:06:12.370 --> 00:06:14.210
+shared within the dataset.
+
+00:06:14.210 --> 00:06:20.199
+Coordinates can be automatically reversed
+to match the country. 
+
+00:06:20.199 --> 00:06:23.990
+Information about the context of the data
+collection or observation are very useful
+
+00:06:23.990 --> 00:06:29.330
+to share in order to give as much detail as
+possible regarding each occurrence.
+
+00:06:29.330 --> 00:06:34.210
+Information such as the collector name, collection
+or observation protocol, habitat and other
+
+00:06:34.210 --> 00:06:42.199
+factors can prove to be important when reusing
+data for example with ecological niche modelling.
+
+00:06:42.199 --> 00:06:46.650
+Data quality factors regarding collection
+information are mainly along the lines of
+
+00:06:46.650 --> 00:06:52.330
+exactitude like the correct collector name,
+consistency for example using the same vocabulary
+
+00:06:52.330 --> 00:06:58.050
+for describing soils, habitats, and completeness
+as in providing all existing information about
+
+00:06:58.050 --> 00:07:03.409
+the description of a given species including
+the flowering period, colour of the leaves,
+
+00:07:03.409 --> 00:07:05.620
+and medicinal uses.
+
+00:07:05.620 --> 00:07:10.469
+Within the Darwin Core and within the IPT
+you can find recommended controlled vocabularies
+
+00:07:10.469 --> 00:07:13.460
+for some fields such as the ‘lifeStage’.
+
+00:07:13.460 --> 00:07:21.430
+The TDWG vocabularies task group works to
+promote and make better the ease of use across
+
+00:07:21.430 --> 00:07:23.320
+vocabularies.
+
+00:07:23.320 --> 00:07:27.770
+Keep in mind that descriptive information
+are often incomplete due to a whole array
+
+00:07:27.770 --> 00:07:29.240
+of factors.
+
+00:07:29.240 --> 00:07:35.740
+Depending on the collection state, some labels
+can be incomplete or lacking crucial information;
+
+00:07:35.740 --> 00:07:40.460
+Completeness (for example of a species description)
+is often impossible to achieve with a single
+
+00:07:40.460 --> 00:07:41.800
+individual;
+
+00:07:41.800 --> 00:07:46.460
+and you should always check for consistency
+in your database or spreadsheet, for example
+
+00:07:46.460 --> 00:07:53.009
+in the terms used for describing colours,
+in order to avoid redundant information.
+
+00:07:53.009 --> 00:07:58.770
+This presentation has focused on the topic
+of data quality applied to data capture; indeed,
+
+00:07:58.770 --> 00:08:03.389
+these are the steps where it is crucial to
+ensure that all information related to each
+
+00:08:03.389 --> 00:08:08.840
+record is correctly and completely captured,
+in order for the data to be as clear and understandable
+
+00:08:08.840 --> 00:08:11.580
+as possible for future users.
+
+00:08:11.580 --> 00:08:16.740
+This can only be done if consistent decisions
+are made at the institutional level in order
+
+00:08:16.740 --> 00:08:20.879
+to create a solid workflow for data capture
+and data management.
+
+00:08:20.879 --> 00:08:25.500
+The chain of responsibility regarding data
+quality is then split between the persons
+
+00:08:25.500 --> 00:08:30.560
+involved at each step of the process, but
+keep in mind that data can always be improved
+
+00:08:30.560 --> 00:08:37.839
+and fixed if errors or omissions are detected
+at later stages.
+
+00:08:37.839 --> 00:08:42.750
+If you have questions on this presentation,
+please use the provided forum in the e-Learning
+
+00:08:42.750 --> 00:08:43.820
+platform.
+
+00:08:43.820 --> 00:08:49.150
+This video is part of a series of presentations
+used in the GBIF Biodiversity Data Mobilization
+
+00:08:49.150 --> 00:08:50.440
+course.
+
+00:08:50.440 --> 00:08:55.980
+The biodiversity data mobilization curriculum
+was originally developed as part of the Biodiversity
+
+00:08:55.980 --> 00:08:59.750
+Information Development Programme funded by
+the European Union.
+
+00:08:59.750 --> 00:09:04.690
+This presentation was originally created and
+narrated by Sophie Pamerlon with additional
+
+00:09:04.690 --> 00:09:08.799
+contributions by Laura Russell, BID and BIFA
+Trainers, Mentors and Students.
+

@@ -1,0 +1,121 @@
+WEBVTT
+Kind: captions
+Language: pt
+
+00:00:01.120 --> 00:00:05.840
+Nesta apresentação, vamos apresentar o OpenRefine como uma ferramenta para limpeza de dados.
+
+00:00:09.040 --> 00:00:15.440
+Anteriormente conhecido como Google Refine; agora é acesso aberto e código-fonte aberto. OpenRefine pode ser usado
+
+00:00:15.440 --> 00:00:20.080
+para limpeza e padronização de dados. Você pode encontrá-lo em openrefine.org.
+
+00:00:22.400 --> 00:00:25.760
+OpenRefine é uma ferramenta poderosa para trabalhar com dados confusos.
+
+00:00:26.560 --> 00:00:32.080
+OpenRefine oferece suporte à navegação facetada como um mecanismo para ter uma visão geral de seus dados
+
+00:00:32.080 --> 00:00:36.720
+e filtrar apenas o subconjunto de linhas que você deseja alterar em massa.
+
+00:00:37.760 --> 00:00:42.320
+O recurso de clustering funciona tentando agrupar as opções na faceta de texto, de
+
+00:00:42.320 --> 00:00:45.760
+modo que as opções que "parecem semelhantes" sejam agrupadas.
+
+00:00:47.120 --> 00:00:52.800
+A reconciliação é um processo semiautomático de correspondência de nomes de texto com IDs de banco de dados (chaves).
+
+00:00:53.680 --> 00:00:58.160
+Você pode usar o OpenRefine para realizar a reconciliação de nomes em seus dados
+
+00:00:58.160 --> 00:01:01.120
+em qualquer banco de dados que exponha um serviço da web.
+
+00:01:04.560 --> 00:01:10.480
+OpenRefine, no entanto, não é como outras ferramentas que você usou. OpenRefine NÃO PODE ser usado para
+
+00:01:10.480 --> 00:01:15.280
+armazenar ou gerenciar dados; é estritamente uma ferramenta de limpeza e / ou padronização.
+
+00:01:18.720 --> 00:01:22.400
+Como o OpenRefine é um tipo diferente de ferramenta, você deve considerar quando
+
+00:01:22.400 --> 00:01:26.160
+é apropriado usá-lo em comparação com outras ferramentas.
+
+00:01:26.160 --> 00:01:30.240
+Um banco de dados fornece infraestrutura para armazenamento e indexação de dados.
+
+00:01:30.960 --> 00:01:36.000
+Geralmente, requer habilidades de programação para editar e não oferece fácil visualização.
+
+00:01:37.280 --> 00:01:42.640
+O Excel é um aplicativo de planilha. É útil para documentar dados e executar operações.
+
+00:01:43.280 --> 00:01:46.720
+E embora você possa gerenciar seus dados e tenha capacidade limitada de limpar e
+
+00:01:46.720 --> 00:01:51.040
+padronizar seus dados, geralmente é restrito à edição de célula por célula.
+
+00:01:51.920 --> 00:01:56.000
+Os dados nem sempre são visíveis e carecem de ferramentas de visualização poderosas.
+
+00:01:57.360 --> 00:02:00.880
+O OpenRefine, por outro lado, oferece edição de várias células,
+
+00:02:00.880 --> 00:02:05.040
+fácil exploração e transformação e visualização interativa.
+
+00:02:05.600 --> 00:02:09.680
+Mas, como mencionado anteriormente, não é para armazenar e gerenciar dados.
+
+00:02:13.520 --> 00:02:15.680
+Agora que você entende as diferenças,
+
+00:02:15.680 --> 00:02:19.200
+aqui está uma lista de recursos úteis que você encontrará no OpenRefine.
+
+00:02:19.760 --> 00:02:23.840
+Em breve, você terá a oportunidade de concluir um tutorial para experimentar todos os recursos.
+
+00:02:24.480 --> 00:02:28.000
+OpenRefine é um software que você instala no seu computador.
+
+00:02:28.000 --> 00:02:34.320
+Requer o JAVA JRE / JDK para ser executado. Funciona em Windows, Mac e Linux.
+
+00:02:35.120 --> 00:02:39.360
+Como o OpenRefine é gratuito e de código aberto, é suportado por uma grande comunidade
+
+00:02:39.360 --> 00:02:44.720
+de desenvolvedores e usuários. É fácil encontrar tutoriais online sobre como usar a ferramenta.
+
+00:02:48.960 --> 00:02:50.960
+Se você tiver dúvidas sobre esta apresentação,
+
+00:02:50.960 --> 00:02:53.760
+use o fórum fornecido na plataforma de e-Learning.
+
+00:02:54.480 --> 00:03:00.160
+Este vídeo é parte de uma série de apresentações usadas no curso de Mobilização de Dados sobre Biodiversidade do GBIF
+
+00:03:00.160 --> 00:03:05.600
+. O currículo de mobilização de dados sobre biodiversidade foi originalmente desenvolvido como parte
+
+00:03:05.600 --> 00:03:10.320
+do Programa de Desenvolvimento de Informações sobre Biodiversidade, financiado pela União Europeia.
+
+00:03:11.120 --> 00:03:16.080
+Esta apresentação foi originalmente criada por Nestor Beltran com contribuições adicionais
+
+00:03:16.080 --> 00:03:21.040
+de Sharon Grant, David Bloom, BID e BIFA Trainers, Mentors and Students.
+
+00:03:21.680 --> 00:03:26.560
+Esta apresentação foi narrada por Laura Anne Russell.
+

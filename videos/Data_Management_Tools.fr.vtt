@@ -1,0 +1,241 @@
+WEBVTT
+Kind: captions
+Language: fr
+
+00:00:01.480 --> 00:00:06.370
+Dans cette présentation, nous allons explorer l'importance des outils logiciels qui peuvent
+
+00:00:06.370 --> 00:00:11.830
+aider à maintenir, nettoyer et standardiser vos données.
+
+00:00:11.830 --> 00:00:16.390
+La qualité des données intervient à chaque étape du processus de mobilisation des données.
+
+00:00:16.390 --> 00:00:20.570
+Dans les rôles de votre équipe, vous devez vous assurer que quelqu'un est responsable et compétent
+
+00:00:20.570 --> 00:00:26.060
+avec la maintenance et la manipulation des données. Nous savons que les données du monde réel sont désordonnées et qu'une
+
+00:00:26.060 --> 00:00:31.480
+transformation et une normalisation sont nécessaires pour rendre les données facilement compréhensibles et
+
+00:00:31.480 --> 00:00:33.530
+utilisables.
+
+00:00:33.530 --> 00:00:38.710
+Lors de la transformation de données (par exemple la fusion de colonnes, la conversion de coordonnées, la modification de la
+
+00:00:38.710 --> 00:00:43.621
+référence, etc.), assurez-vous que vous documentez les modifications et que vous disposez d'une copie originale sur laquelle vous
+
+00:00:43.621 --> 00:00:48.230
+pouvez revenir si nécessaire.
+
+00:00:48.230 --> 00:00:52.530
+Comme indiqué dans la section Fondations, lors du choix des outils, vous devez prendre en compte
+
+00:00:52.530 --> 00:00:59.410
+certains éléments , notamment le prix, la facilité d'utilisation, la documentation et le support ainsi que toutes les exigences techniques
+
+00:00:59.410 --> 00:01:03.940
+pour exécuter l'outil. Aucun outil n'est parfait, il est important de trouver
+
+00:01:03.940 --> 00:01:09.510
+le bon équilibre et l'outil qui correspond à votre besoin.
+
+00:01:09.510 --> 00:01:14.460
+Les outils que vous choisissez peuvent ne pas être les outils que d'autres utilisent au sein de votre institution - et
+
+00:01:14.460 --> 00:01:19.910
+c'est très bien, à moins que votre organisation n'impose des mandats aux outils que vous pouvez utiliser.
+
+00:01:19.910 --> 00:01:24.320
+Vous devez trouver et utiliser les outils qui vous aident à atteindre les objectifs de votre institution.
+
+00:01:24.320 --> 00:01:29.570
+Vous devez donc créer une palette d'outils qui vous aideront, ainsi que les personnes avec lesquelles vous
+
+00:01:29.570 --> 00:01:35.150
+travaillez, à faire leur travail le plus efficacement possible.
+
+00:01:35.150 --> 00:01:40.170
+Certaines des considérations techniques lors du choix des outils doivent inclure les entrées et les
+
+00:01:40.170 --> 00:01:46.240
+sorties que l'outil utilise pour les fichiers. Permet-il d'importer et d'exporter
+
+00:01:46.240 --> 00:01:51.880
+des fichiers délimités standardisés? Pouvez-vous sélectionner l'encodage (par exemple UTF-8)
+
+00:01:51.880 --> 00:01:59.160
+lors de l'ouverture ou de l'enregistrement de fichiers pour éviter les problèmes d'encodage avec des caractères spéciaux.
+
+00:01:59.160 --> 00:02:03.630
+Toujours dans la section Fondations, nous vous avons présenté une liste d'outils logiciels compilée par les
+
+00:02:03.630 --> 00:02:06.710
+anciens formateurs, mentors et étudiants de ce cours.
+
+00:02:06.710 --> 00:02:11.180
+Pour le reste de cette présentation, nous passerons en revue certains des outils qui seront
+
+00:02:11.180 --> 00:02:18.020
+utiles pour compléter les exercices de gestion des données de ce cours.
+
+00:02:18.020 --> 00:02:22.780
+Lorsque vous travaillez avec des fichiers de données, vous aurez souvent besoin d'un éditeur de texte capable de faire plus
+
+00:02:22.780 --> 00:02:28.099
+que l'éditeur de texte par défaut fourni avec votre système d'exploitation, en particulier avec Windows
+
+00:02:28.099 --> 00:02:33.609
+et Mac. Quelques bonnes options incluent BBEdit, Notepad ++
+
+00:02:33.609 --> 00:02:37.370
+et Sublime. Lors de la création de fichiers, vous devez être cohérent
+
+00:02:37.370 --> 00:02:43.120
+et documenter vos paramètres et options locaux. Lors de l'ouverture et de la modification de fichiers, essayez différentes
+
+00:02:43.120 --> 00:02:51.170
+options et vérifiez les résultats pour vous assurer qu'il n'y a aucun problème avant de continuer.
+
+00:02:51.170 --> 00:02:54.800
+Nous examinons ici quelques outils utiles pour vérifier la taxonomie dans vos données.
+
+00:02:54.800 --> 00:03:01.670
+L'analyseur de noms GBIF vous permet de diviser le nom scientifique en ses différentes parties.
+
+00:03:01.670 --> 00:03:08.749
+Le résolveur de noms globaux utilise la correspondance floue pour afficher le taxon ou le synonyme accepté.
+
+00:03:08.749 --> 00:03:12.909
+La banque de listes de contrôle Catalog of Life propose un outil de correspondance de noms.
+
+00:03:12.909 --> 00:03:18.209
+Il indique les correspondances trouvées dans la banque de listes de contrôle avec la liste de noms fournie et renvoie
+
+00:03:18.209 --> 00:03:21.810
+la correspondance avec une taxonomie plus élevée.
+
+00:03:21.810 --> 00:03:26.870
+En plus de ces outils, il existe des outils qui traitent de
+
+00:03:26.870 --> 00:03:33.080
+catégories thématiques taxonomiques spécifiques
+
+00:03:33.080 --> 00:03:36.849
+telles que la résolution des noms taxonomiques iPlant et le Registre mondial des espèces
+
+00:03:36.849 --> 00:03:41.040
+marines. Vous trouverez souvent dans vos ensembles de données que les coordonnées ont été stockées au
+
+00:03:41.040 --> 00:03:46.569
+format degrés minutes secondes (sinon connu sous le nom de DMS) et vous devrez le convertir en
+
+00:03:46.569 --> 00:03:52.139
+degrés décimaux pour starndarize les données des champs Darwin Core de decimalLatitude
+
+00:03:52.139 --> 00:03:56.480
+et decimalLongitude. Vous pouvez le faire vous-même en utilisant cette
+
+00:03:56.480 --> 00:03:58.349
+formule mathématique .
+
+00:03:58.349 --> 00:04:09.510
+Degrés décimaux = (minutes + minutes d'arc / 60 + secondes d'arc / 3600) * hémisphère
+
+00:04:09.510 --> 00:04:15.340
+hémisphère longitudinal: ouest = -1; east = 1
+
+00:04:15.340 --> 00:04:22.380
+Cependant, il existe des outils en ligne qui peuvent vous aider avec la géolocalisation et la conversion des
+
+00:04:22.380 --> 00:04:23.380
+coordonnées.
+
+00:04:23.380 --> 00:04:27.560
+Le lien Espèces de CRIA héberge une variété d'outils de nettoyage de données.
+
+00:04:27.560 --> 00:04:33.840
+infoXY peut aider à obtenir des informations sur la localité en utilisant des coordonnées géographiques.
+
+00:04:33.840 --> 00:04:39.030
+Le calculateur de géoréférencement est un outil créé pour faciliter le géoréférencement de localités descriptives telles
+
+00:04:39.030 --> 00:04:43.630
+que celles trouvées dans les collections d'histoire naturelle des musées.
+
+00:04:43.630 --> 00:04:48.410
+En outre, vous pouvez également trouver Google Maps ou Google Earth utiles.
+
+00:04:48.410 --> 00:04:53.200
+Google Maps contient toute la navigation, la puissance de la cartographie et les points d'intérêt avec
+
+00:04:53.200 --> 00:04:59.060
+juste un petit soupçon d'imagerie satellite, tandis que Google Earth a des données satellites 3D complètes
+
+00:04:59.060 --> 00:05:05.720
+et juste un petit sous-ensemble d'informations sur les lieux, sans aucune navigation point à point.
+
+00:05:05.720 --> 00:05:09.450
+Comme nous n'enseignons pas le géoréférencement dans ce cours, il est recommandé de consulter
+
+00:05:09.450 --> 00:05:16.380
+la documentation de géoréférencement, récemment mise à jour par l'équipe VertNet sur docs.gbif.org
+
+00:05:16.380 --> 00:05:22.570
+avant de terminer un projet de géoréférencement à grande échelle.
+
+00:05:22.570 --> 00:05:33.520
+Canadensys propose deux outils qui peuvent aider à la fois à la conversion des coordonnées et de la date.
+
+00:05:33.520 --> 00:05:37.170
+Les systèmes d'exploitation sont livrés avec leur propre ensemble de consoles de ligne de commande.
+
+00:05:37.170 --> 00:05:43.060
+En outre, de nombreux outils de bureau fournissent des fonctionnalités de ligne de commande à utiliser dans ces
+
+00:05:43.060 --> 00:05:46.030
+consoles. Les outils de ligne de commande sont parfaits pour la création
+
+00:05:46.030 --> 00:05:50.430
+de scripts afin d'automatiser les processus.
+
+00:05:50.430 --> 00:05:54.980
+N'oubliez pas qu'il existe de très nombreuses sources pour valider, nettoyer et normaliser vos
+
+00:05:54.980 --> 00:05:58.010
+données. Jusqu'à ce que vous développiez votre liste préférée d'
+
+00:05:58.010 --> 00:06:04.090
+outils éprouvés et fiables, n'oubliez pas d'explorer de nombreuses options.
+
+00:06:04.090 --> 00:06:08.280
+Si vous avez des questions sur cette présentation, veuillez utiliser le forum fourni sur la
+
+00:06:08.280 --> 00:06:09.650
+plateforme e-Learning .
+
+00:06:09.650 --> 00:06:14.890
+Cette vidéo fait partie d'une série de présentations utilisées dans le cours de mobilisation des données du GBIF sur la biodiversité
+
+00:06:14.890 --> 00:06:18.520
+. Le programme de mobilisation des données sur la biodiversité
+
+00:06:18.520 --> 00:06:23.660
+a été développé à l'origine dans le cadre du programme de développement de l'information sur la biodiversité financé par
+
+00:06:23.660 --> 00:06:25.800
+l'Union européenne.
+
+00:06:25.800 --> 00:06:30.500
+Cette présentation a été créée à l'origine par Nestor Beltran avec des contributions supplémentaires
+
+00:06:30.500 --> 00:06:36.460
+de Sophie Pamerlon et David Bloom, formateurs, mentors et étudiants du BID et du BIFA.
+
+00:06:36.460 --> 00:06:39.310
+Cette présentation a été racontée par Laura Anne Russell.
+

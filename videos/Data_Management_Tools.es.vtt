@@ -1,0 +1,241 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:01.480 --> 00:00:06.370
+En esta presentación, vamos a explorar la importancia de las herramientas de software que pueden
+
+00:00:06.370 --> 00:00:11.830
+ayudar a mantener, limpiar y estandarizar sus datos.
+
+00:00:11.830 --> 00:00:16.390
+La calidad de los datos ocurre en cada paso del proceso de movilización de datos.
+
+00:00:16.390 --> 00:00:20.570
+Dentro de los roles de su equipo, debe asegurarse de que alguien sea responsable y esté capacitado
+
+00:00:20.570 --> 00:00:26.060
+con el mantenimiento y la manipulación de datos. Sabemos que los datos del mundo real son confusos y que
+
+00:00:26.060 --> 00:00:31.480
+se necesita transformación y estandarización para que los datos sean fácilmente comprensibles y
+
+00:00:31.480 --> 00:00:33.530
+aptos para su uso.
+
+00:00:33.530 --> 00:00:38.710
+Al transformar datos (por ejemplo, fusionar columnas, convertir coordenadas, cambiar
+
+00:00:38.710 --> 00:00:43.621
+datum, etc.), asegúrese de documentar los cambios y de tener una copia original a la que
+
+00:00:43.621 --> 00:00:48.230
+puede volver si es necesario.
+
+00:00:48.230 --> 00:00:52.530
+Como se cubrió en la sección de fundamentos, al elegir las herramientas, algunas cosas que debe
+
+00:00:52.530 --> 00:00:59.410
+considerar incluyen el precio, la facilidad de uso, la documentación y el soporte y cualquier requisito técnico
+
+00:00:59.410 --> 00:01:03.940
+para ejecutar la herramienta. Ninguna herramienta es perfecta, lo importante es encontrar
+
+00:01:03.940 --> 00:01:09.510
+el equilibrio adecuado y la herramienta que se adapte a sus necesidades.
+
+00:01:09.510 --> 00:01:14.460
+Es posible que las herramientas que elija no sean las que otros usan dentro de su institución, y
+
+00:01:14.460 --> 00:01:19.910
+eso está bien, a menos que su organización imponga mandatos sobre las herramientas que puede usar.
+
+00:01:19.910 --> 00:01:24.320
+Necesita encontrar y utilizar las herramientas que le ayuden a alcanzar los objetivos de su institución.
+
+00:01:24.320 --> 00:01:29.570
+Por lo tanto, debe crear una paleta de herramientas que lo ayuden a usted y a las personas con las que
+
+00:01:29.570 --> 00:01:35.150
+trabaja a hacer su trabajo de la manera más eficaz posible.
+
+00:01:35.150 --> 00:01:40.170
+Algunas de las consideraciones técnicas al elegir herramientas deben incluir las entradas y
+
+00:01:40.170 --> 00:01:46.240
+salidas que la herramienta utiliza para los archivos. ¿Permite importar y exportar
+
+00:01:46.240 --> 00:01:51.880
+archivos delimitados estandarizados? ¿Puede seleccionar la codificación (por ejemplo, UTF-8)
+
+00:01:51.880 --> 00:01:59.160
+al abrir o guardar archivos para evitar problemas de codificación con caracteres especiales?
+
+00:01:59.160 --> 00:02:03.630
+También en la sección Fundamentos, le presentamos una lista de herramientas de software compiladas por
+
+00:02:03.630 --> 00:02:06.710
+capacitadores, mentores y estudiantes anteriores de este curso.
+
+00:02:06.710 --> 00:02:11.180
+En el resto de esta presentación, repasaremos algunas de las herramientas que serán
+
+00:02:11.180 --> 00:02:18.020
+útiles para completar los ejercicios de gestión de datos de este curso.
+
+00:02:18.020 --> 00:02:22.780
+Cuando trabaje con archivos de datos, a menudo necesitará un editor de texto que pueda hacer más
+
+00:02:22.780 --> 00:02:28.099
+que el editor de texto predeterminado que venía con su sistema operativo, particularmente con Windows
+
+00:02:28.099 --> 00:02:33.609
+y Mac. Algunas buenas opciones incluyen BBEdit, Notepad ++
+
+00:02:33.609 --> 00:02:37.370
+y Sublime. Al crear archivos, debe ser coherente
+
+00:02:37.370 --> 00:02:43.120
+y documentar sus configuraciones y opciones locales. Al abrir y editar archivos, pruebe diferentes
+
+00:02:43.120 --> 00:02:51.170
+opciones y verifique los resultados para asegurarse de que no haya ningún problema antes de continuar.
+
+00:02:51.170 --> 00:02:54.800
+Aquí analizamos algunas herramientas útiles para verificar la taxonomía dentro de sus datos.
+
+00:02:54.800 --> 00:03:01.670
+El analizador de nombres de GBIF le permite dividir el nombre científico en sus partes individuales.
+
+00:03:01.670 --> 00:03:08.749
+El solucionador de nombres globales utiliza la concordancia aproximada para mostrar el taxón o el sinónimo aceptado.
+
+00:03:08.749 --> 00:03:12.909
+El banco de listas de verificación Catalog of Life ofrece una herramienta de comparación de nombres.
+
+00:03:12.909 --> 00:03:18.209
+Indica coincidencias encontradas dentro del banco de listas de verificación con la lista de nombres proporcionada y devuelve
+
+00:03:18.209 --> 00:03:21.810
+la coincidencia junto con una taxonomía superior.
+
+00:03:21.810 --> 00:03:26.870
+Además de estas herramientas, existen herramientas que se ocupan de
+
+00:03:26.870 --> 00:03:33.080
+categorías temáticas taxonómicas específicas
+
+00:03:33.080 --> 00:03:36.849
+como la resolución de nombres taxonómicos iPlant y el Registro mundial de especies
+
+00:03:36.849 --> 00:03:41.040
+marinas. A menudo, encontrará dentro de sus conjuntos de datos que las coordenadas se han almacenado en el
+
+00:03:41.040 --> 00:03:46.569
+formato de grados, minutos, segundos (de lo contrario conocido como DMS) y deberá convertir esto a
+
+00:03:46.569 --> 00:03:52.139
+grados decimales para estandarizar los datos de los campos Darwin Core de decimalLatitude
+
+00:03:52.139 --> 00:03:56.480
+y decimalLongitude. Puede hacerlo usted mismo utilizando esta
+
+00:03:56.480 --> 00:03:58.349
+fórmula matemática .
+
+00:03:58.349 --> 00:04:09.510
+Grados decimales = (minutos + arco-minutos / 60 + arco-segundos / 3600) * hemisferio
+
+00:04:09.510 --> 00:04:15.340
+Hemisferio longitudinal: oeste = -1; este = 1
+
+00:04:15.340 --> 00:04:22.380
+Sin embargo, existen herramientas en línea que pueden ayudarlo con la geofrecuencia y la conversión de
+
+00:04:22.380 --> 00:04:23.380
+coordenadas.
+
+00:04:23.380 --> 00:04:27.560
+El enlace de especies de CRIA alberga una variedad de herramientas de limpieza de datos.
+
+00:04:27.560 --> 00:04:33.840
+infoXY puede ayudar a obtener información de la localidad utilizando coordenadas geográficas.
+
+00:04:33.840 --> 00:04:39.030
+La calculadora de georreferenciación es una herramienta creada para ayudar en la georreferenciación de localidades descriptivas,
+
+00:04:39.030 --> 00:04:43.630
+como las que se encuentran en las colecciones de historia natural de los museos.
+
+00:04:43.630 --> 00:04:48.410
+Además, también puede encontrar útiles Google Maps o Google Earth.
+
+00:04:48.410 --> 00:04:53.200
+Google Maps contiene toda la navegación, el poder de mapeo y los puntos de interés con
+
+00:04:53.200 --> 00:04:59.060
+solo un pequeño indicio de imágenes de satélite, mientras que Google Earth tiene datos completos de satélite en 3D
+
+00:04:59.060 --> 00:05:05.720
+y solo un pequeño subconjunto de información sobre lugares, sin ninguna navegación de punto a punto.
+
+00:05:05.720 --> 00:05:09.450
+Como no enseñamos georreferenciación en este curso, se recomienda que revise
+
+00:05:09.450 --> 00:05:16.380
+la documentación de georreferenciación, actualizada recientemente por el equipo de VertNet en docs.gbif.org
+
+00:05:16.380 --> 00:05:22.570
+antes de completar cualquier proyecto de georreferenciación a gran escala.
+
+00:05:22.570 --> 00:05:33.520
+Canadensys ofrece dos herramientas que pueden ayudar con la conversión de coordenadas y fecha.
+
+00:05:33.520 --> 00:05:37.170
+Los sistemas operativos vienen con su propio conjunto de consolas de línea de comandos.
+
+00:05:37.170 --> 00:05:43.060
+Además, muchas herramientas de escritorio proporcionan funcionalidad de línea de comandos para ser utilizada dentro de esas
+
+00:05:43.060 --> 00:05:46.030
+consolas. Las herramientas de línea de comandos son excelentes para la creación de scripts
+
+00:05:46.030 --> 00:05:50.430
+para automatizar procesos.
+
+00:05:50.430 --> 00:05:54.980
+Recuerde que hay muchas, muchas fuentes para validar, limpiar y estandarizar sus
+
+00:05:54.980 --> 00:05:58.010
+datos. Hasta que desarrolle su lista preferida de
+
+00:05:58.010 --> 00:06:04.090
+herramientas probadas y confiables, recuerde explorar muchas opciones.
+
+00:06:04.090 --> 00:06:08.280
+Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la
+
+00:06:08.280 --> 00:06:09.650
+plataforma e-Learning .
+
+00:06:09.650 --> 00:06:14.890
+Este video es parte de una serie de presentaciones utilizadas en el curso de Movilización de Datos de Biodiversidad de GBIF
+
+00:06:14.890 --> 00:06:18.520
+. El plan de estudios de movilización de datos sobre biodiversidad
+
+00:06:18.520 --> 00:06:23.660
+se desarrolló originalmente como parte del Programa de Desarrollo de Información sobre Biodiversidad financiado por
+
+00:06:23.660 --> 00:06:25.800
+la Unión Europea.
+
+00:06:25.800 --> 00:06:30.500
+Esta presentación fue creada originalmente por Nestor Beltran con contribuciones adicionales
+
+00:06:30.500 --> 00:06:36.460
+de Sophie Pamerlon y David Bloom, instructores, mentores y estudiantes de BID y BIFA.
+
+00:06:36.460 --> 00:06:39.310
+Esta presentación ha sido narrada por Laura Anne Russell.
+

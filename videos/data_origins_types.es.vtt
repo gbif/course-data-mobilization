@@ -1,0 +1,379 @@
+WEBVTT
+Kind: captions
+Language: es
+
+00:00:00.879 --> 00:00:04.410
+En esta presentación, veremos los diferentes tipos de datos que pueden
+
+00:00:04.410 --> 00:00:08.840
+denominarse 'datos primarios de biodiversidad' y compartirse dentro de GBIF.
+
+00:00:08.840 --> 00:00:13.780
+Estos datos pueden ser complejos y tener diferentes orígenes; veremos cómo se pueden estructurar
+
+00:00:13.780 --> 00:00:18.429
+en una de las tres clases de datos aceptadas por GBIF, según el
+
+00:00:18.429 --> 00:00:25.050
+estándar de intercambio de datos Darwin Core que se utiliza dentro de la comunidad de GBIF.
+
+00:00:25.050 --> 00:00:31.400
+Como puede ver en esta diapositiva, GBIF actualmente admite cuatro tipos de conjuntos de datos: conjuntos de datos de recursos
+
+00:00:31.400 --> 00:00:41.110
+(por ejemplo, conjuntos de datos de solo metadatos), listas de verificación de especies, conjuntos de datos de ocurrencia y conjuntos de datos de eventos de muestreo.
+
+00:00:41.110 --> 00:00:46.840
+No hablaré sobre conjuntos de datos de recursos en esta presentación, ya que los
+
+00:00:46.840 --> 00:00:53.040
+programas financiados por GBIF no admiten conjuntos de datos de solo metadatos .
+
+00:00:53.040 --> 00:00:58.680
+El primer tipo de conjunto de datos que se puede publicar dentro de GBIF es la lista de verificación, también conocida como lista de
+
+00:00:58.680 --> 00:01:01.120
+especies o taxones superiores.
+
+00:01:01.120 --> 00:01:06.870
+En una lista de verificación, la unidad principal es el taxón, no la ocurrencia (individuo).
+
+00:01:06.870 --> 00:01:13.609
+Las listas de verificación y, de manera más general, los conjuntos de datos taxonómicos pueden variar en alcance:
+
+00:01:13.609 --> 00:01:17.249
+una lista de especies presentes en un área protegida es una lista de verificación.
+
+00:01:17.249 --> 00:01:23.819
+una lista nacional o temática de taxones (por ejemplo, Mariposas de Laos o Flora de Malasia),
+
+00:01:23.819 --> 00:01:29.280
+que a veces proporciona más información sobre la distribución, jerarquía taxonómica y sinónimos de los
+
+00:01:29.280 --> 00:01:31.210
+taxones, es una lista de verificación.
+
+00:01:31.210 --> 00:01:38.380
+Las listas rojas de la UICN (a nivel internacional, nacional o regional) también son listas de verificación y
+
+00:01:38.380 --> 00:01:45.299
+pueden brindar más información sobre el estado de vulnerabilidad de los taxones enumerados.
+
+00:01:45.299 --> 00:01:50.939
+GBIF proporciona a los editores de datos plantillas para cada clase de conjunto de datos.
+
+00:01:50.939 --> 00:01:56.209
+La plantilla GBIF para listas de verificación (datos de taxón) le permite compartir información vinculada a
+
+00:01:56.209 --> 00:02:03.420
+cada especie o taxón: su ID, nombre completo y autoría, relación con otros taxones,
+
+00:02:03.420 --> 00:02:05.490
+detalles geográficos, etc.
+
+00:02:05.490 --> 00:02:10.640
+En esta plantilla, una línea representa un taxón y un taxón solo puede aparecer una vez en
+
+00:02:10.640 --> 00:02:17.000
+el conjunto de datos (de lo contrario, se creará un duplicado).
+
+00:02:17.000 --> 00:02:21.570
+El segundo tipo de datos que se pueden publicar dentro de GBIF son los datos provenientes de
+
+00:02:21.570 --> 00:02:25.020
+colecciones científicas o de historia natural , también conocidos como especímenes.
+
+00:02:25.020 --> 00:02:31.310
+A diferencia de las listas de verificación, la unidad principal en una colección de especímenes será el espécimen (un solo
+
+00:02:31.310 --> 00:02:37.250
+organismo o grupo de organismos), y puede tener múltiples especímenes de la misma especie
+
+00:02:37.250 --> 00:02:41.790
+o grupo taxonómico.
+
+00:02:41.790 --> 00:02:46.720
+Las colecciones y los especímenes difieren enormemente en número, tamaño y métodos de conservación.
+
+00:02:46.720 --> 00:02:51.800
+Sin embargo, cualquier tipo de colección que contenga organismos vivos preservados puede capturarse
+
+00:02:51.800 --> 00:02:57.240
+y compartirse dentro de GBIF; colecciones de herbario o zoológicas (incluidos fósiles), por ejemplo,
+
+00:02:57.240 --> 00:03:04.010
+pero las colecciones de geología o artefactos humanos no entran en el ámbito de GBIF.
+
+00:03:04.010 --> 00:03:10.280
+Los datos de biodiversidad también se pueden encontrar en la literatura técnica y científica: es posible
+
+00:03:10.280 --> 00:03:15.920
+compilar y compartir este tipo de datos dentro de GBIF, pero debe tener mucho cuidado de no
+
+00:03:15.920 --> 00:03:21.430
+compartir datos duplicados (por ejemplo, un espécimen descrito en un artículo científico podría ya
+
+00:03:21.430 --> 00:03:27.980
+estar presente en GBIF.org en el conjunto de datos de su colección)
+
+00:03:27.980 --> 00:03:33.790
+En ausencia de conjuntos de datos digitalizados, los datos de biodiversidad se pueden extraer y compilar de
+
+00:03:33.790 --> 00:03:40.630
+artículos científicos , tesis doctorales o maestras, informes y otros documentos.
+
+00:03:40.630 --> 00:03:45.980
+¡SIEMPRE comuníquese primero con el propietario de los datos cuando recopile datos de literatura para solicitar permiso para publicarlos
+
+00:03:45.980 --> 00:03:50.060
+en GBIF!
+
+00:03:50.060 --> 00:03:55.910
+Una gran mayoría de los datos disponibles en GBIF.org ahora proviene de registros de trabajo de campo.
+
+00:03:55.910 --> 00:04:01.460
+Estos datos pueden ser observados y / o recolectados usando diferentes protocolos en el campo, por
+
+00:04:01.460 --> 00:04:09.520
+científicos, naturalistas o ciudadanos-científicos aficionados a través de programas y aplicaciones.
+
+00:04:09.520 --> 00:04:14.840
+Estos datos de campo se pueden recopilar en informes de encuestas, estudios de evaluación de impacto ambiental,
+
+00:04:14.840 --> 00:04:17.160
+notas de campo y otros registros.
+
+00:04:17.160 --> 00:04:21.670
+Se pueden vincular a otros tipos de datos, como listas de verificación, que son complementarias
+
+00:04:21.670 --> 00:04:28.820
+a los datos de ocurrencia observados o recopilados en la naturaleza.
+
+00:04:28.820 --> 00:04:33.320
+Los datos de ocurrencia representan la clase de conjuntos de datos de GBIF con la mayor cantidad de registros
+
+00:04:33.320 --> 00:04:35.150
+en GBIF.org.
+
+00:04:35.150 --> 00:04:40.790
+La recopilación (también conocida como especímenes), la literatura y los datos del trabajo de campo se pueden compartir dentro de GBIF utilizando
+
+00:04:40.790 --> 00:04:46.670
+esta plantilla, que se enfoca en el individuo observado o en el espécimen recolectado.
+
+00:04:46.670 --> 00:04:51.510
+En este tipo de conjunto de datos, se pueden registrar varios individuos o especímenes para un solo
+
+00:04:51.510 --> 00:04:56.400
+taxón, siempre que cada uno tenga un identificador único.
+
+00:04:56.400 --> 00:05:02.139
+Otros campos para los datos de ocurrencia incluyen dónde, cuándo, cómo y por quién se
+
+00:05:02.139 --> 00:05:06.720
+observó y / o recopiló cada ocurrencia en el campo.
+
+00:05:06.720 --> 00:05:13.409
+Los datos de eventos son una clase de conjuntos de datos que se agregaron en GBIF.org en 2015.
+
+00:05:13.409 --> 00:05:18.650
+Permiten a los editores de datos compartir más información sobre el contexto de la observación o recolección
+
+00:05:18.650 --> 00:05:25.180
+de especímenes y agrupar ocurrencias vinculadas al mismo evento.
+
+00:05:25.180 --> 00:05:30.240
+La plantilla GBIF para datos de eventos permite a los editores de datos compartir más información sobre
+
+00:05:30.240 --> 00:05:36.830
+el contexto de un evento de recolección / registro de datos de biodiversidad, como trampas para cámaras, trampas para insectos,
+
+00:05:36.830 --> 00:05:40.230
+relevés botánicos, sitios de observación de aves, etc.
+
+00:05:40.230 --> 00:05:45.480
+Su estructura es un poco más compleja que los conjuntos de datos taxonómicos y los conjuntos de datos de ocurrencia,
+
+00:05:45.480 --> 00:05:52.470
+ya que involucra dos archivos (por ejemplo, dos pestañas en una hoja de cálculo): uno para describir los 'eventos'
+
+00:05:52.470 --> 00:05:58.790
+(por ejemplo, cada trampa) y el otro para describir los especímenes o sucesos vinculados a cada
+
+00:05:58.790 --> 00:06:00.760
+evento.
+
+00:06:00.760 --> 00:06:06.949
+A veces, se puede encontrar información o datos adicionales utilizando otros materiales de origen
+
+00:06:06.949 --> 00:06:12.660
+distintos a los mencionados anteriormente en este video.
+
+00:06:12.660 --> 00:06:17.960
+Estas otras fuentes incluyen herramientas de detección remota, mapas y datos satelitales, y otros
+
+00:06:17.960 --> 00:06:22.790
+soportes de información como imágenes, grabaciones de audio y video de la vida silvestre.
+
+00:06:22.790 --> 00:06:28.150
+La mayoría de las veces, la información recuperada de esta manera es complementaria a los datos existentes,
+
+00:06:28.150 --> 00:06:33.910
+pero puede proporcionar información valiosa sobre los individuos y su ubicación, hábitat,
+
+00:06:33.910 --> 00:06:37.520
+rutas migratorias , etc.
+
+00:06:37.520 --> 00:06:41.680
+En las siguientes diapositivas, veremos cómo funciona el estándar Darwin Core con diferentes
+
+00:06:41.680 --> 00:06:49.460
+tipos. de datos y cómo elegir la clase de conjunto de datos que mejor se ajusta a un conjunto de datos determinado.
+
+00:06:49.460 --> 00:06:54.030
+Como aprendió en la presentación Foundations - Darwin Core, Darwin Core es un
+
+00:06:54.030 --> 00:07:00.919
+estándar de intercambio de datos desarrollado por la organización Biodiversity Information Standards (TDWG) y se
+
+00:07:00.919 --> 00:07:05.550
+usa ampliamente para publicar datos dentro de la comunidad GBIF extendida.
+
+00:07:05.550 --> 00:07:09.440
+Dependiendo del tipo de conjunto de datos con el que trabajes, tendrás que elegir uno de sus
+
+00:07:09.440 --> 00:07:16.020
+tres Cores (Ocurrencia, Taxón o Evento Core), que se puede vincular a una o más Extensiones
+
+00:07:16.020 --> 00:07:21.900
+para compartir más información (como enlaces multimedia, variables, historial de identificación,
+
+00:07:21.900 --> 00:07:22.900
+etc.).
+
+00:07:22.900 --> 00:07:29.320
+En algunos casos, un núcleo se puede usar como una extensión vinculada a otro núcleo: ese es el caso cuando se
+
+00:07:29.320 --> 00:07:34.680
+publican datos de eventos, donde se puede usar el núcleo de eventos para describir las áreas muestreadas y
+
+00:07:34.680 --> 00:07:42.620
+luego usar el núcleo de ocurrencia como una extensión para compartir el especímenes o individuos registrados.
+
+00:07:42.620 --> 00:07:47.370
+Una vez que los datos se han estandarizado utilizando el estándar Darwin Core, cada clase de conjunto de datos
+
+00:07:47.370 --> 00:07:53.650
+(solo de metadatos, eventos de muestreo, conjuntos de datos taxonómicos o de ocurrencia) se puede publicar en
+
+00:07:53.650 --> 00:07:58.120
+GBIF.org utilizando una de las herramientas mencionadas en esta figura.
+
+00:07:58.120 --> 00:08:03.169
+La herramienta más utilizada dentro de la comunidad de GBIF es el Kit de herramientas de publicación
+
+00:08:03.169 --> 00:08:09.350
+integrado (IPT) desarrollado por GBIF , que transforma los datos de origen en archivos de Darwin Core
+
+00:08:09.350 --> 00:08:13.070
+que luego son recopilados e indexados por GBIF.
+
+00:08:13.070 --> 00:08:19.500
+Luego, los datos se pueden buscar y descargar a través de GBIF.org.
+
+00:08:19.500 --> 00:08:23.540
+La elección de una clase de conjunto de datos puede llevar algún tiempo, especialmente si es nuevo en la publicación de datos
+
+00:08:23.540 --> 00:08:24.890
+dentro de GBIF.
+
+00:08:24.890 --> 00:08:30.430
+El equipo de asistencia técnica de GBIF creó este útil diagrama de flujo que se puede encontrar en el
+
+00:08:30.430 --> 00:08:31.650
+blog de datos de GBIF :
+
+00:08:31.650 --> 00:08:36.479
+si sus datos aún no están capturados en una base de datos u hoja de cálculo, o si están demasiado incompletos
+
+00:08:36.479 --> 00:08:42.599
+para compartirlos, puede publicar una descripción de sus datos como un conjunto de datos de solo metadatos (tenga en
+
+00:08:42.599 --> 00:08:47.830
+cuenta que esta opción no está permitida en el contexto de los programas BID y BIFA).
+
+00:08:47.830 --> 00:08:53.320
+Si su conjunto de datos contiene una lista de nombres científicos que no se refieren a organismos o especímenes
+
+00:08:53.320 --> 00:08:59.380
+observados y / o recolectados, puede publicarlo como un recurso taxonómico o una lista de verificación.
+
+00:08:59.380 --> 00:09:04.770
+Si su conjunto de datos incluye nombres científicos vinculados a especímenes observados y / o recolectados,
+
+00:09:04.770 --> 00:09:09.300
+así como fechas y ubicaciones, puede compartirlo como un conjunto de datos de ocurrencia.
+
+00:09:09.300 --> 00:09:14.480
+Por último, si la información sobre los protocolos utilizados en el campo está disponible, puede optar
+
+00:09:14.480 --> 00:09:19.830
+por compartir su conjunto de datos como un conjunto de datos de eventos de muestreo.
+
+00:09:19.830 --> 00:09:25.440
+Cada clase de conjunto de datos compartido dentro de GBIF debe cumplir con sus propios requisitos de calidad de datos.
+
+00:09:25.440 --> 00:09:30.870
+Algunos requisitos son obligatorios (como el ID de ocurrencia, el ID de taxón o el ID de evento, según
+
+00:09:30.870 --> 00:09:36.550
+el tipo de conjunto de datos), otros son opcionales pero muy recomendables (como las coordenadas
+
+00:09:36.550 --> 00:09:38.170
+en grados decimales).
+
+00:09:38.170 --> 00:09:44.510
+Puede encontrar estos requisitos en GBIF.org desde el menú de procedimientos.
+
+00:09:44.510 --> 00:09:49.130
+Para poder publicar datos en GBIF, es importante comprender las diferencias
+
+00:09:49.130 --> 00:09:55.190
+entre las clases de conjuntos de datos en las primeras etapas del proceso de captura y gestión de datos.
+
+00:09:55.190 --> 00:09:58.320
+Puede reflexionar sobre este tema con las siguientes preguntas:
+
+00:09:58.320 --> 00:10:02.850
+¿Su tipo de datos es diferente de lo que pensaba originalmente?
+
+00:10:02.850 --> 00:10:05.140
+¿Con qué tipo de datos trabajas?
+
+00:10:05.140 --> 00:10:12.350
+¿Cómo los publicaría en GBIF? (¿con qué núcleo y / o extensión?)
+
+00:10:12.350 --> 00:10:16.890
+Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la
+
+00:10:16.890 --> 00:10:18.320
+plataforma e-Learning
+
+00:10:18.320 --> 00:10:23.660
+. Este video es parte de una serie de presentaciones utilizadas en el
+
+00:10:23.660 --> 00:10:24.950
+curso de
+
+00:10:24.950 --> 00:10:30.459
+Movilización de Datos de Biodiversidad de GBIF . El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del
+
+00:10:30.459 --> 00:10:34.260
+Programa de Desarrollo de Información
+
+00:10:34.260 --> 00:10:39.190
+sobre Biodiversidad financiado por la Unión Europea. Esta presentación fue creada y narrada originalmente por Sophie Pamerlon con
+
+00:10:39.190 --> 00:10:43.300
+contribuciones adicionales de los instructores, mentores y estudiantes de BID y BIFA.
+
