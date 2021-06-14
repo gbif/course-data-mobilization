@@ -99,4 +99,24 @@
 	height: 75px;
 	display: inline-flex;
 }
+
+.responsive-slides, .responsive-video {
+        position: relative;
+        padding-bottom: calc(56.25% + 36px); /* 16:9 Ratio plus toolbar */
+        height: 0;
+        overflow: hidden;
+}
+
+.responsive-slides-4-3, .responsive-video-4-3 {
+        padding-bottom: calc(75% + 36px); /* 4:3 Ratio plus toolbar */
+}
+
+.responsive-slides iframe, .responsive-video iframe {
+        border: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+}
 </style>
