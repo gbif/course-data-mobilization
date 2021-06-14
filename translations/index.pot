@@ -7,11 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-<<<<<<< installation-instructions
-"POT-Creation-Date: 2021-05-20 09:33+0000\n"
-=======
-"POT-Creation-Date: 2021-05-20 08:30+0000\n"
->>>>>>> 1.0
+"POT-Creation-Date: 2021-06-14 15:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -424,13 +420,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: foundations.en.adoc:19
+#: foundations.en.adoc:20
 #, no-wrap
 msgid "Software"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:23
+#: foundations.en.adoc:24
 msgid ""
 "In this video (05:58), you will review examples of the different types of "
 "applications and software available in the world of biodiversity "
@@ -439,19 +435,14 @@ msgid ""
 "locally. (MP4 - 18.9 MB)"
 msgstr ""
 
-#. type: Plain text
-#: foundations.en.adoc:25
-msgid "video::vYfDIgBBKXY[youtube,height=540,width=960,align=center]"
-msgstr ""
-
 #. type: Title ====
-#: foundations.en.adoc:26
+#: foundations.en.adoc:28
 #, no-wrap
 msgid "Structures"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:30
+#: foundations.en.adoc:32
 msgid ""
 "In this video (13:10), you will review the field and data types that hold "
 "data, the structures that help to organize and protect that data and what "
@@ -462,13 +453,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: foundations.en.adoc:33
+#: foundations.en.adoc:36
 #, no-wrap
 msgid "Data quality"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:37
+#: foundations.en.adoc:40
 msgid ""
 "In this video (12:26), you will review terminology used in this course.  If "
 "you are unable to watch the embedded video, you can "
@@ -477,7 +468,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:44
+#: foundations.en.adoc:48
 msgid ""
 "Below you will find a selected reading from Arthur Chapman’s guide "
 "“Principles of data quality”.  "
@@ -486,7 +477,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:49
+#: foundations.en.adoc:53
 msgid ""
 "Before a detailed discussion on data quality and its application to "
 "species-occurrence data can take place, there are a number of concepts that "
@@ -496,13 +487,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:51
+#: foundations.en.adoc:55
 #, no-wrap
 msgid "*Species-occurrence data*\n"
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:55
+#: foundations.en.adoc:59
 msgid ""
 "Species-occurrence data is used here to include specimen label data attached "
 "to specimens or lots housed in museums and herbaria, observational data and "
@@ -518,7 +509,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:58
+#: foundations.en.adoc:62
 msgid ""
 "In general the data are also tied to a taxonomic name, but unidentified "
 "collections may also be included.  The term has occasionally been used "
@@ -526,13 +517,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:60
+#: foundations.en.adoc:64
 #, no-wrap
 msgid "*Primary species data*\n"
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:63
+#: foundations.en.adoc:67
 msgid ""
 "“Primary species data” is used to describe raw collection data and data "
 "without any spatial attributes.  It includes taxonomic and nomenclatural "
@@ -541,20 +532,20 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:65
+#: foundations.en.adoc:69
 #, no-wrap
 msgid "*Accuracy and Precision*\n"
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:67
+#: foundations.en.adoc:71
 msgid ""
 "Accuracy and precision are regularly confused and the differences are not "
 "generally understood."
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:69
+#: foundations.en.adoc:73
 msgid ""
 "Accuracy refers to the closeness of measured values, observations or "
 "estimates to the real or true value (or to a value that is accepted as being "
@@ -562,7 +553,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:76
+#: foundations.en.adoc:80
 msgid ""
 "Precision (or Resolution) can be divided into two main types.  Statistical "
 "precision is the closeness with which repeated observations conform to "
@@ -577,7 +568,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:79
+#: foundations.en.adoc:83
 msgid ""
 "These terms – accuracy and precision – can also be applied to non-spatial "
 "data as well as to spatial data.  For example, a collection may have an "
@@ -587,13 +578,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:81
+#: foundations.en.adoc:85
 #, no-wrap
 msgid "*Data quality*\n"
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:86
+#: foundations.en.adoc:90
 msgid ""
 "Data quality is multidimensional, and involves data management, modelling "
 "and analysis, quality control and assurance, storage and presentation.  As "
@@ -606,7 +597,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:88
+#: foundations.en.adoc:92
 msgid ""
 "Redman (2001), suggested that for data to be fit for use they must be "
 "accessible, accurate, timely, complete, consistent with other sources, "
@@ -615,7 +606,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:92
+#: foundations.en.adoc:96
 msgid ""
 "One issue that a data custodian may need to consider is what may need to be "
 "done with the database to increase its usability to a wider audience "
@@ -627,13 +618,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:94
+#: foundations.en.adoc:98
 #, no-wrap
 msgid "*Quality Assurance/ Quality Control*\n"
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:98
+#: foundations.en.adoc:102
 msgid ""
 "The difference between quality control and quality assurance is not always "
 "clear.  Taulbee (1996) makes the distinction between Quality Control and "
@@ -647,7 +638,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:100
+#: foundations.en.adoc:104
 msgid ""
 "In a more business-oriented approach, Redman (2001) defines Quality "
 "Assurance as “those activities that are designed to produce defect-free "
@@ -656,7 +647,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:102
+#: foundations.en.adoc:106
 msgid ""
 "How these terms are to be applied in practice is not clear, and in most "
 "cases the terms seem to be largely used synonymously to describe the overall "
@@ -664,13 +655,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:104
+#: foundations.en.adoc:108
 #, no-wrap
 msgid "*Uncertainty*\n"
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:109
+#: foundations.en.adoc:113
 msgid ""
 "Uncertainty may be thought of as a “measure of the incompleteness of one’s "
 "knowledge or information about an unknown quantity whose true value could be "
@@ -683,13 +674,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:111
+#: foundations.en.adoc:115
 #, no-wrap
 msgid "*Error*\n"
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:118
+#: foundations.en.adoc:122
 msgid ""
 "Error encompasses both the imprecision of data and their inaccuracies.  "
 "There are many factors that contribute to error.  Error is generally seen as "
@@ -702,7 +693,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:121
+#: foundations.en.adoc:125
 msgid ""
 "An example may be the use of a different geodetic datum1 – where, if used "
 "throughout the analysis, may not cause any major problems.  Problems will "
@@ -713,7 +704,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:125
+#: foundations.en.adoc:129
 msgid ""
 "“Because error is inescapable, it should be recognized as a fundamental "
 "dimension of data” (Chrisman 1991).  Only when error is included in a "
@@ -724,13 +715,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:127
+#: foundations.en.adoc:131
 #, no-wrap
 msgid "*Validation and Cleaning*\n"
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:133
+#: foundations.en.adoc:137
 msgid ""
 "Validation is a process used to determine if data are inaccurate, "
 "incomplete, or unreasonable.  The process may include format checks, "
@@ -746,7 +737,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block _
-#: foundations.en.adoc:138
+#: foundations.en.adoc:142
 msgid ""
 "Data cleaning refers to the process of “fixing” errors in the data that have "
 "been identified during the validation process.  The term is synonymous with "
@@ -760,13 +751,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: foundations.en.adoc:141
+#: foundations.en.adoc:145
 #, no-wrap
 msgid "Documentation"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:146
+#: foundations.en.adoc:150
 msgid ""
 "In this video (09:47), we will provide an overview of the importance of "
 "documentation as it relates to data management and data publishing.  You "
@@ -777,13 +768,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: foundations.en.adoc:149
+#: foundations.en.adoc:154
 #, no-wrap
 msgid "Digitization Workflows"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:153
+#: foundations.en.adoc:158
 msgid ""
 "This video (07:20) on Digitization Workflows identifies five clusters (or "
 "stages) in the process of digitizing natural history collection objects "
@@ -794,7 +785,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:157
+#: foundations.en.adoc:163
 msgid ""
 "As the video highlights, digitization protocols vary from institution to "
 "institution, but it is essential that the chosen protocol is agreed, "
@@ -802,7 +793,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:160
+#: foundations.en.adoc:166
 msgid ""
 "We do not teach digitization, per se, during the workshop, as it can easily "
 "stand as a week-long course on its own, instead we focus on basic "
@@ -811,7 +802,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:165
+#: foundations.en.adoc:171
 msgid ""
 "There are many ways to organize digitization efforts and so digitization can "
 "seem daunting to begin with.  It is important to remember that in most cases "
@@ -823,12 +814,12 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:167
+#: foundations.en.adoc:173
 msgid "Some steps in the process may include:"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:169
+#: foundations.en.adoc:175
 #, no-wrap
 msgid ""
 "*Pre-digitization curation and staging*: This includes the preparation of "
@@ -838,7 +829,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:170
+#: foundations.en.adoc:176
 #, no-wrap
 msgid ""
 "*Image capture*: This includes a fair amount of planning, not only on the "
@@ -848,13 +839,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:171
+#: foundations.en.adoc:177
 #, no-wrap
 msgid "*Image processing*: This includes quality control, file conversion, etc.\n"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:173
+#: foundations.en.adoc:179
 #, no-wrap
 msgid ""
 "*Electronic data capture*: The core of the digitization process, includes "
@@ -865,7 +856,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:174
+#: foundations.en.adoc:180
 #, no-wrap
 msgid ""
 "*Georeferencing*: Geographical information is very important for "
@@ -874,7 +865,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:178
+#: foundations.en.adoc:184
 msgid ""
 "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) is "
 "the coordination centre for the United States National Resource for "
@@ -888,7 +879,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:180
+#: foundations.en.adoc:186
 msgid ""
 "There are other videos in the iDigBio series that you may be interested in, "
 "if you wish to learn more about specific workflows for different specimen "
@@ -896,35 +887,35 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:182
+#: foundations.en.adoc:188
 msgid "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690[^]"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:183
+#: foundations.en.adoc:189
 msgid ""
 "“Imaging Workflows for the Digitization of Dry-preserved Vertebrate "
 "Specimens” (7:25 mins) https://vimeo.com/160615629[^]"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:184
+#: foundations.en.adoc:190
 msgid "“Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768[^]"
 msgstr ""
 
 #. type: Title ===
-#: foundations.en.adoc:185
+#: foundations.en.adoc:191
 #, no-wrap
 msgid "Software tools"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:188
+#: foundations.en.adoc:194
 msgid "Review software tools used in biodiversity informatics"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:191
+#: foundations.en.adoc:197
 msgid ""
 "During the course activities, we’ll demonstrate and work with many different "
 "software tools related to data digitization, data quality and "
@@ -933,7 +924,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:194
+#: foundations.en.adoc:200
 msgid ""
 "Community trainers, mentors and former course participants have compiled a "
 "list with information about biodiversity informatics software tools.  It "
@@ -942,7 +933,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:196
+#: foundations.en.adoc:202
 msgid ""
 "Download "
 "link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. "
@@ -950,7 +941,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:200
+#: foundations.en.adoc:206
 msgid ""
 "When analysing biodiversity software that you have not used before, you need "
 "to consider how you would adapt it for your purposes.  You will find below a "
@@ -961,7 +952,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:203
+#: foundations.en.adoc:209
 #, no-wrap
 msgid ""
 "*Price*: One of the most determining factors.\n"
@@ -971,7 +962,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:205
+#: foundations.en.adoc:211
 #, no-wrap
 msgid ""
 "*Functionality*: You need to have clarity on what do you expect the software "
@@ -981,7 +972,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:207
+#: foundations.en.adoc:213
 #, no-wrap
 msgid ""
 "*Stability*: Some solutions have been in the market for long and are "
@@ -992,7 +983,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:209
+#: foundations.en.adoc:215
 #, no-wrap
 msgid ""
 "*Scalability*: Some software performs very well when demoed out-of-the-box, "
@@ -1002,7 +993,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:211
+#: foundations.en.adoc:217
 #, no-wrap
 msgid ""
 "*Integration*: Make sure that the software accepts and produces the data "
@@ -1011,7 +1002,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:212
+#: foundations.en.adoc:218
 #, no-wrap
 msgid ""
 "*Language support*: it is essential that everyone using the software can "
@@ -1020,7 +1011,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:214
+#: foundations.en.adoc:220
 #, no-wrap
 msgid ""
 "*Documentation and technical support*: make sure to explore the existing "
@@ -1029,7 +1020,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:215
+#: foundations.en.adoc:221
 #, no-wrap
 msgid ""
 "*Learning curve*: Some software may require specific training to learn how "
@@ -1038,30 +1029,30 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: foundations.en.adoc:216
+#: foundations.en.adoc:222
 #, no-wrap
 msgid "Install OpenRefine"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:219
+#: foundations.en.adoc:225
 msgid "Install software required for activities later in the course"
 msgstr ""
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
-#: foundations.en.adoc:220
+#: foundations.en.adoc:226
 #, no-wrap
 msgid "Open Refine Logo"
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:220
+#: foundations.en.adoc:226
 #, no-wrap
 msgid "img/logos/open-refine-logo.png"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:225
+#: foundations.en.adoc:231
 msgid ""
 "https://openrefine.org/[OpenRefine^] is a tool with a set of features for "
 "working with tabular data that improves the overall quality of a dataset.  "
@@ -1071,7 +1062,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:230
+#: foundations.en.adoc:236
 msgid ""
 "We will use OpenRefine during the data mobilization portion of the course, "
 "especially during the practical exercises.  It will be necessary to install "
@@ -1083,30 +1074,30 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:232
+#: foundations.en.adoc:238
 msgid "Administrative passwords may be required to install software."
 msgstr ""
 
 #. type: Title ====
-#: foundations.en.adoc:233
+#: foundations.en.adoc:239
 #, no-wrap
 msgid "Installation Requirements"
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:236
+#: foundations.en.adoc:242
 msgid "Linux users only: Java JRE installed."
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:237
+#: foundations.en.adoc:243
 msgid ""
 "Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet "
 "Explorer is not supported."
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:239
+#: foundations.en.adoc:245
 msgid ""
 "The latest stable release is OpenRefine 3.4.1, released on September 24, "
 "2020. Detailed installation instructions are available at "
@@ -1114,13 +1105,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: foundations.en.adoc:240
+#: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on MS Windows"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:243 foundations.en.adoc:256
+#: foundations.en.adoc:249 foundations.en.adoc:262
 msgid ""
 "Download the "
 "https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows "
@@ -1128,7 +1119,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:244
+#: foundations.en.adoc:250
 msgid ""
 "Find the downloaded file.  Right click it, and choose \"Extract "
 "all…\". Unzip, and double-click on openrefine.exe or refine.bat if the "
@@ -1136,66 +1127,66 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:245
+#: foundations.en.adoc:251
 msgid ""
 "A command window will appear (don't close it) and soon after a new web "
 "browser window will show the application."
 msgstr ""
 
 #. type: Block title
-#: foundations.en.adoc:246
+#: foundations.en.adoc:252
 #, no-wrap
 msgid "Detailed instructions for MS Windows (click to expand)"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:250 foundations.en.adoc:259 foundations.en.adoc:268
-#: foundations.en.adoc:277 foundations.en.adoc:286 foundations.en.adoc:306
-#: foundations.en.adoc:315 foundations.en.adoc:324 foundations.en.adoc:333
-#: foundations.en.adoc:342 foundations.en.adoc:351 foundations.en.adoc:360
-#: foundations.en.adoc:369 foundations.en.adoc:378 foundations.en.adoc:387
-#: foundations.en.adoc:398 foundations.en.adoc:420 foundations.en.adoc:429
-#: foundations.en.adoc:438 foundations.en.adoc:447 foundations.en.adoc:456
-#: foundations.en.adoc:465
+#: foundations.en.adoc:256 foundations.en.adoc:265 foundations.en.adoc:274
+#: foundations.en.adoc:283 foundations.en.adoc:292 foundations.en.adoc:312
+#: foundations.en.adoc:321 foundations.en.adoc:330 foundations.en.adoc:339
+#: foundations.en.adoc:348 foundations.en.adoc:357 foundations.en.adoc:366
+#: foundations.en.adoc:375 foundations.en.adoc:384 foundations.en.adoc:393
+#: foundations.en.adoc:404 foundations.en.adoc:426 foundations.en.adoc:435
+#: foundations.en.adoc:444 foundations.en.adoc:453 foundations.en.adoc:462
+#: foundations.en.adoc:471
 msgid "{blank}"
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:254
+#: foundations.en.adoc:260
 #, no-wrap
 msgid "img/web/install-openrefine/win1-save-download.png"
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:263
+#: foundations.en.adoc:269
 #, no-wrap
 msgid "img/web/install-openrefine/win2-extract-all.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:265
+#: foundations.en.adoc:271
 msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:272
+#: foundations.en.adoc:278
 #, no-wrap
 msgid "img/web/install-openrefine/win3-extract-location.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:274
+#: foundations.en.adoc:280
 msgid "Click \"Extract\""
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:281
+#: foundations.en.adoc:287
 #, no-wrap
 msgid "img/web/install-openrefine/win4-create-shortcut.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:283
+#: foundations.en.adoc:289
 msgid ""
 "Find the extracted files.  Optionally, right click \"openrefine\" and choose "
 "\"Send to → Desktop (create shortcut)\" to create a shortcut on your "
@@ -1203,26 +1194,26 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:290
+#: foundations.en.adoc:296
 #, no-wrap
 msgid "img/web/install-openrefine/win5-run.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:292
+#: foundations.en.adoc:298
 msgid ""
 "A black console window opens, and a short time later the browser opens.  "
 "OpenRefine is now ready to use."
 msgstr ""
 
 #. type: Title ====
-#: foundations.en.adoc:295
+#: foundations.en.adoc:301
 #, no-wrap
 msgid "Installation on Mac"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:298
+#: foundations.en.adoc:304
 msgid ""
 "Download the "
 "https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac "
@@ -1230,31 +1221,31 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:300
+#: foundations.en.adoc:306
 msgid ""
 "Download, open, drag icon into the Applications folder.  You do not need to "
 "install Java separately."
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:301
+#: foundations.en.adoc:307
 msgid "Double click on it and a new web browser window will show the application."
 msgstr ""
 
 #. type: Block title
-#: foundations.en.adoc:302
+#: foundations.en.adoc:308
 #, no-wrap
 msgid "Detailed instructions for Mac (click to expand)"
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:310
+#: foundations.en.adoc:316
 #, no-wrap
 msgid "img/web/install-openrefine/mac01-download-open.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:312
+#: foundations.en.adoc:318
 msgid ""
 "Download the "
 "https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac "
@@ -1262,132 +1253,132 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:319
+#: foundations.en.adoc:325
 #, no-wrap
 msgid "img/web/install-openrefine/mac02-unidentified-developer.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:321
+#: foundations.en.adoc:327
 msgid "A warning is shown. Click \"OK\"."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:328
+#: foundations.en.adoc:334
 #, no-wrap
 msgid "img/web/install-openrefine/mac03-system-preferences.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:330
+#: foundations.en.adoc:336
 msgid "Open System Preferences."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:337
+#: foundations.en.adoc:343
 #, no-wrap
 msgid "img/web/install-openrefine/mac04-security-and-privacy.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:339
+#: foundations.en.adoc:345
 msgid "Open Security & Privacy"
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:346
+#: foundations.en.adoc:352
 #, no-wrap
 msgid "img/web/install-openrefine/mac05-open-anyway.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:348
+#: foundations.en.adoc:354
 msgid "Choose \"Open Anyway\" at the bottom."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:355
+#: foundations.en.adoc:361
 #, no-wrap
 msgid "img/web/install-openrefine/mac06-yes-really-open.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:357
+#: foundations.en.adoc:363
 msgid "Choose \"Open\""
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:364
+#: foundations.en.adoc:370
 #, no-wrap
 msgid "img/web/install-openrefine/mac07-copy-to-applications.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:366
+#: foundations.en.adoc:372
 msgid ""
 "Finally, the application archive is opened! Drag it to your Applications "
 "folder."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:373
+#: foundations.en.adoc:379
 #, no-wrap
 msgid "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:375
+#: foundations.en.adoc:381
 msgid "Double-click the OpenRefine icon.  Another security warning appears!"
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:382
+#: foundations.en.adoc:388
 #, no-wrap
 msgid "img/web/install-openrefine/mac09-not-the-user.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:384
+#: foundations.en.adoc:390
 msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:391
+#: foundations.en.adoc:397
 #, no-wrap
 msgid "img/web/install-openrefine/mac10-use-linux-instead.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:393
+#: foundations.en.adoc:399
 msgid ""
 "(To avoid these warnings, the OpenRefine developers would need to pay "
 "Apple.)"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:395
+#: foundations.en.adoc:401
 msgid "Click \"Open\"."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:402
+#: foundations.en.adoc:408
 #, no-wrap
 msgid "img/web/install-openrefine/mac11-run.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:404
+#: foundations.en.adoc:410
 msgid "Finally! The application is running."
 msgstr ""
 
 #. type: Title ====
-#: foundations.en.adoc:408
+#: foundations.en.adoc:414
 #, no-wrap
 msgid "Installation on Linux"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:411
+#: foundations.en.adoc:417
 msgid ""
 "Download the "
 "https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux "
@@ -1395,33 +1386,33 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:413
+#: foundations.en.adoc:419
 msgid ""
 "Download, extract, then type ./refine to start.  This requires Java to be "
 "installed on your computer."
 msgstr ""
 
 #. type: Block title
-#: foundations.en.adoc:414
+#: foundations.en.adoc:420
 #, no-wrap
 msgid "Detailed instructions for Linux (click to expand)"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:418
+#: foundations.en.adoc:424
 msgid ""
 "These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is "
 "similar for Gnome (e.g. Ubuntu, Red Hat, CentOS)."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:424
+#: foundations.en.adoc:430
 #, no-wrap
 msgid "img/web/install-openrefine/kde1-download-open.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:426
+#: foundations.en.adoc:432
 msgid ""
 "Download the "
 "https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux "
@@ -1429,78 +1420,73 @@ msgid ""
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:433
+#: foundations.en.adoc:439
 #, no-wrap
 msgid "img/web/install-openrefine/kde2-extract.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:435
+#: foundations.en.adoc:441
 msgid "Click \"Extract\" to unpack the downloaded application."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:442
+#: foundations.en.adoc:448
 #, no-wrap
 msgid "img/web/install-openrefine/kde3-extract-all.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:444
+#: foundations.en.adoc:450
 msgid ""
 "Choose a suitable place.  I also selected \"Open destination folder after "
 "extraction\" and \"Close Ark after extraction\""
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:451
+#: foundations.en.adoc:457
 #, no-wrap
 msgid "img/web/install-openrefine/kde4-open.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:453
+#: foundations.en.adoc:459
 msgid ""
 "Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you "
 "can safely exit OpenRefine later, by closing the Konsole window."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:460
+#: foundations.en.adoc:466
 #, no-wrap
 msgid "img/web/install-openrefine/kde5-execute.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:462
+#: foundations.en.adoc:468
 msgid "Confirm that you wish to execute the downloaded application."
 msgstr ""
 
 #. type: Target for macro image
-#: foundations.en.adoc:469
+#: foundations.en.adoc:475
 #, no-wrap
 msgid "img/web/install-openrefine/kde6-run.png"
 msgstr ""
 
 #. type: delimited block =
-#: foundations.en.adoc:471
+#: foundations.en.adoc:477
 msgid "OpenRefine is now running."
 msgstr ""
 
 #. type: Title ===
-#: foundations.en.adoc:475
+#: foundations.en.adoc:481
 #, no-wrap
 msgid "Foundations review"
 msgstr ""
 
 #. type: Plain text
-<<<<<<< installation-instructions
-#: foundations.en.adoc:478 planning.en.adoc:130 capture.en.adoc:60
-#: management.en.adoc:145 publishing.en.adoc:58
-=======
-#: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
-#: management.en.adoc:147 publishing.en.adoc:58
->>>>>>> 1.0
+#: foundations.en.adoc:484 planning.en.adoc:132 capture.en.adoc:63
+#: management.en.adoc:150 publishing.en.adoc:61
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
 
@@ -1509,14 +1495,14 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: foundations.en.adoc:486
+#: foundations.en.adoc:492
 msgid ""
 "For the given statement, input the correct term (database, database "
 "language, database program)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:495
+#: foundations.en.adoc:501
 #, no-wrap
 msgid ""
 "* combines and presents functions and features for manipulating data, "
@@ -1531,19 +1517,19 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: foundations.en.adoc:498
+#: foundations.en.adoc:504
 msgid ""
 "If you open a data file and see the following, what would you suspect is the "
 "issue? +"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:500 solutions.en.adoc:21
+#: foundations.en.adoc:506 solutions.en.adoc:21
 msgid "`�tre, ou ne pas �tre, c�est l� la question.`"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:507
+#: foundations.en.adoc:513
 #, no-wrap
 msgid ""
 "- [ ] Nothing\n"
@@ -1554,14 +1540,14 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: foundations.en.adoc:510
+#: foundations.en.adoc:516
 msgid ""
 "For the given software, input the type of software (data capture, data "
 "management, data cleaning, data publishing)."
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:521
+#: foundations.en.adoc:527
 #, no-wrap
 msgid ""
 "* Integrated Publishing Toolkit (IPT) +\n"
@@ -1576,14 +1562,14 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: foundations.en.adoc:524
+#: foundations.en.adoc:530
 msgid ""
 "For the given example, input the correct data type (binary, boolean, float, "
 "integer, long integer, text, unstructured text)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:541
+#: foundations.en.adoc:547
 #, no-wrap
 msgid ""
 "* 1236975 +\n"
@@ -1606,12 +1592,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: foundations.en.adoc:544
+#: foundations.en.adoc:550
 msgid "Which of these terms describes a \"field/column name\"?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:553
+#: foundations.en.adoc:559
 #, no-wrap
 msgid ""
 "- [x] Assigned\n"
@@ -1624,12 +1610,12 @@ msgstr ""
 
 #.  Question 6
 #. type: Plain text
-#: foundations.en.adoc:556
+#: foundations.en.adoc:562
 msgid "Which of these terms describes a \"field label\"?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:565
+#: foundations.en.adoc:571
 #, no-wrap
 msgid ""
 "- [ ] Assigned\n"
@@ -1642,12 +1628,12 @@ msgstr ""
 
 #.  Question 7
 #. type: Plain text
-#: foundations.en.adoc:568
+#: foundations.en.adoc:574
 msgid "For each statement, input the correct structure (row, column, table)"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:577
+#: foundations.en.adoc:583
 #, no-wrap
 msgid ""
 "* All data refers to a SINGLE concept. +\n"
@@ -1660,12 +1646,12 @@ msgstr ""
 
 #.  Question 8
 #. type: Plain text
-#: foundations.en.adoc:580
+#: foundations.en.adoc:586
 msgid "Who determines the fitness for use of your data?"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:587
+#: foundations.en.adoc:593
 #, no-wrap
 msgid ""
 "- [ ] The museum or department director\n"
@@ -1676,14 +1662,14 @@ msgstr ""
 
 #.  Question 9
 #. type: Plain text
-#: foundations.en.adoc:591
+#: foundations.en.adoc:597
 msgid ""
 "For the given statements, input the matching image. (A, B, C, D)  "
 "image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:602
+#: foundations.en.adoc:608
 #, no-wrap
 msgid ""
 "* High accuracy, low precision +\n"
@@ -1698,7 +1684,7 @@ msgstr ""
 
 #.  Question 10
 #. type: Plain text
-#: foundations.en.adoc:605
+#: foundations.en.adoc:611
 msgid ""
 "Identify the data relationships where Dataset B needs to be merged into "
 "Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are "
@@ -1706,7 +1692,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:620
+#: foundations.en.adoc:626
 #, no-wrap
 msgid ""
 "* Collector field exists in both dataset A and B +\n"
@@ -1727,12 +1713,12 @@ msgstr ""
 
 #.  Question 11
 #. type: Plain text
-#: foundations.en.adoc:623
+#: foundations.en.adoc:629
 msgid "Metadata is important because (select the TRUE statements):"
 msgstr ""
 
 #. type: delimited block .
-#: foundations.en.adoc:631
+#: foundations.en.adoc:637
 #, no-wrap
 msgid ""
 "- [x] it allows users to determine if a dataset is fit for their use.\n"
@@ -1980,13 +1966,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:15
+#: planning.en.adoc:16
 #, no-wrap
 msgid "Organizing"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:19
+#: planning.en.adoc:20
 msgid ""
 "This video (15:52) focuses on tasks and the ways that they can be organized "
 "in order to prepare practical workable plans and clear documentation.  If "
@@ -1996,54 +1982,54 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:22
+#: planning.en.adoc:24
 #, no-wrap
 msgid "Exercise 1a-c"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:26
+#: planning.en.adoc:28
 msgid ""
 "For this activity, you will be using a virtual tabletop platform.  Review "
 "the exercise instructions below."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:28
+#: planning.en.adoc:30
 #, no-wrap
 msgid "*References*\n"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:30
+#: planning.en.adoc:32
 msgid ""
 "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role "
 "definitions^]"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:31
+#: planning.en.adoc:33
 msgid ""
 "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage "
 "definitions^]"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:33
+#: planning.en.adoc:35
 msgid ""
 "To help you to work through the planning exercises for all use cases, we "
 "have made available five virtual playing card tables."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:35
+#: planning.en.adoc:37
 msgid ""
 "Because these are shared spaces, we ask that you follow these rules so that "
 "everyone who wants to use them can:"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:40
+#: planning.en.adoc:42
 msgid ""
 "Clean up after yourself.  If you use a card table, please be sure to return "
 "it to it's clean and original state when you are done.  This means putting "
@@ -2053,7 +2039,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:43
+#: planning.en.adoc:45
 msgid ""
 "If it's busy, try another table.  If you see that a card table is in use, "
 "please use one of the other card table links.  If you are unable to find an "
@@ -2063,7 +2049,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:47
+#: planning.en.adoc:49
 msgid ""
 "Don't leave a table unattended.  Please do not leave your work on a table "
 "sitting out for long periods of time.  If you need to step away for an hour "
@@ -2075,7 +2061,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:51
+#: planning.en.adoc:53
 msgid ""
 "Take screen captures often.  We cannot guarantee that your cards will not be "
 "reset accidentally by someone from the workshop or by someone from your own "
@@ -2084,7 +2070,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:53
+#: planning.en.adoc:55
 msgid ""
 "The trainers reserve the right to reset the card tables.  If we observe that "
 "one or more tables contain cards that have not been put away and have not "
@@ -2093,37 +2079,37 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:55
+#: planning.en.adoc:57
 msgid "Gameroom links (each table will open in a new window/tab):"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:57
+#: planning.en.adoc:59
 msgid "RED: https://playingcards.io/vbtkgd[^]"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:59
+#: planning.en.adoc:61
 msgid "GREEN: https://playingcards.io/m53by6[^]"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:61
+#: planning.en.adoc:63
 msgid "YELLOW: https://playingcards.io/kpen5h[^]"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:63
+#: planning.en.adoc:65
 msgid "BLUE: https://playingcards.io/8dwg98[^]"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:65
+#: planning.en.adoc:67
 msgid "PURPLE: https://playingcards.io/fah8an[^]"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:67
+#: planning.en.adoc:69
 msgid ""
 "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and "
 "helping to create the online playing tables for this exercise and to Kate "
@@ -2132,20 +2118,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: planning.en.adoc:68 use-case-invasive-species.en.adoc:72
+#: planning.en.adoc:70 use-case-invasive-species.en.adoc:72
 #: use-case-lepidoptera-sampling.en.adoc:84
 #, no-wrap
 msgid "Exercise 1a"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:70 capture.en.adoc:44 management.en.adoc:26
-#: publishing.en.adoc:43
+#: planning.en.adoc:72 capture.en.adoc:47 management.en.adoc:28
+#: publishing.en.adoc:46
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:74
+#: planning.en.adoc:76
 msgid ""
 "Using the cards select the goals that mostly closely match those the project "
 "outlines and then choose the tasks that would need to be carried out to "
@@ -2155,73 +2141,73 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:76
+#: planning.en.adoc:78
 msgid ""
 "Review the GOALS cards with the group, select and lay out the ones that fit "
 "the use case."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:77
+#: planning.en.adoc:79
 msgid "Review the TASK cards with the group."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:78
+#: planning.en.adoc:80
 msgid ""
 "Assign the TASK cards to each of the GOAL cards selected from the use case "
 "description."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:79
+#: planning.en.adoc:81
 msgid ""
 "Identify the institutions and people mentioned in the use case text and make "
 "note of them."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:80
+#: planning.en.adoc:82
 msgid "Lay out the AFFILIATIONS cards on the table."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:81
+#: planning.en.adoc:83
 msgid ""
 "Review the STAKEHOLDER cards, identify any mentioned in the use case and "
 "then decide which AFFILIATION they belong to."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:82
+#: planning.en.adoc:84
 msgid ""
 "Review the ROLE cards, identify any mentioned in the use case and decide "
 "which STAKEHOLDER group they belong to."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:83
+#: planning.en.adoc:85
 msgid "Make notes to cards as appropriate."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:84
+#: planning.en.adoc:86
 msgid "Once the cards are assigned take pictures/screenshots."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:85
+#: planning.en.adoc:87
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:88
+#: planning.en.adoc:90
 #, no-wrap
 msgid "*Question*\n"
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:90
+#: planning.en.adoc:92
 msgid ""
 "Are there resources or goals missing from the cards that you feel are "
 "critical to the successful completion of the project? Note these on the "
@@ -2229,55 +2215,55 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: planning.en.adoc:92 use-case-invasive-species.en.adoc:91
+#: planning.en.adoc:94 use-case-invasive-species.en.adoc:91
 #: use-case-lepidoptera-sampling.en.adoc:103
 #, no-wrap
 msgid "Exercise 1b"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:95
+#: planning.en.adoc:97
 msgid ""
 "Using the stakeholder and goal analysis from exercise 1a, develop a workflow "
 "using the STAGE cards."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:97
+#: planning.en.adoc:99
 msgid "Re-read the use case introduction, if necessary."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:98
+#: planning.en.adoc:100
 msgid "Decide which TASKS for which each ROLE will be responsible."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:99
+#: planning.en.adoc:101
 msgid "Review the STAGE cards and order the TASKS appropriately."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:100 capture.en.adoc:53 management.en.adoc:42
-#: management.en.adoc:68 management.en.adoc:84 publishing.en.adoc:53
+#: planning.en.adoc:102 capture.en.adoc:56 management.en.adoc:44
+#: management.en.adoc:70 management.en.adoc:87 publishing.en.adoc:56
 msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:103
+#: planning.en.adoc:105
 #, no-wrap
 msgid "*Questions*   \n"
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:106
+#: planning.en.adoc:108
 msgid ""
 "Are there obvious bottlenecks in the workflow? For example: Are there too "
 "many tasks for a particular role/resource?"
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:108
+#: planning.en.adoc:110
 msgid ""
 "What issues do you think would be important to the successful mobilization "
 "of data from the points of view of each stakeholder/role? For example: What "
@@ -2286,12 +2272,12 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:109
+#: planning.en.adoc:111
 msgid "Consolidate notes and prioritize in order of importance."
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:110
+#: planning.en.adoc:112
 msgid ""
 "If you have time you can explore different combinations as different "
 "scenarios are possible in different contexts or even try to document the "
@@ -2299,51 +2285,51 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: planning.en.adoc:112
+#: planning.en.adoc:114
 #, no-wrap
 msgid "Exercise 1c"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:115
+#: planning.en.adoc:117
 msgid ""
 "This exercise should be used when the course is taught virtually or onsite "
 "as a group activity."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:117
+#: planning.en.adoc:119
 msgid "After the exercises the presenter of each group will:"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:119
+#: planning.en.adoc:121
 msgid "Present any missing stakeholders and/or tasks saying why they were added."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:120
+#: planning.en.adoc:122
 msgid "Highlight the two most critical issues/topics that the group has identified."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:122
+#: planning.en.adoc:124
 msgid "Potential discussion points across groups:"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:124
+#: planning.en.adoc:126
 msgid "What similarities and differences can be seen in the flows?"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:125
+#: planning.en.adoc:127
 msgid "Were there common issues that came up across the groups?"
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:143
-#: publishing.en.adoc:54
+#: planning.en.adoc:128 capture.en.adoc:59 management.en.adoc:146
+#: publishing.en.adoc:57
 #, no-wrap
 msgid "Review"
 msgstr ""
@@ -2353,12 +2339,12 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: planning.en.adoc:138
+#: planning.en.adoc:140
 msgid "What is the order of the five PMBoK Process Groupings?"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:146
+#: planning.en.adoc:148
 #, no-wrap
 msgid ""
 "- [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closing\n"
@@ -2369,12 +2355,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: planning.en.adoc:149
+#: planning.en.adoc:151
 msgid "What are the types of deliverables? (multiple correct answers)"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:158
+#: planning.en.adoc:160
 #, no-wrap
 msgid ""
 "- [x] Stated\n"
@@ -2387,12 +2373,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: planning.en.adoc:161
+#: planning.en.adoc:163
 msgid "What is a bottleneck?"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:167
+#: planning.en.adoc:169
 #, no-wrap
 msgid ""
 "- [x] a blockage that delays development or progress\n"
@@ -2403,12 +2389,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: planning.en.adoc:170
+#: planning.en.adoc:172
 msgid "Which are examples of mobilization tasks? (multiple correct answers)"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:178
+#: planning.en.adoc:180
 #, no-wrap
 msgid ""
 "- [ ] Affiliation\n"
@@ -2450,13 +2436,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: capture.en.adoc:16
+#: capture.en.adoc:17
 #, no-wrap
 msgid "Data origins and types"
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:20
+#: capture.en.adoc:21
 msgid ""
 "In this video (10:45), you will review "
 "https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be "
@@ -2466,34 +2452,34 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: capture.en.adoc:25
+#: capture.en.adoc:27
 #, no-wrap
 msgid "*Questions*\n"
 msgstr ""
 
 #. type: delimited block *
-#: capture.en.adoc:27
+#: capture.en.adoc:29
 msgid "Is your data type different than you originally thought?"
 msgstr ""
 
 #. type: delimited block *
-#: capture.en.adoc:28
+#: capture.en.adoc:30
 msgid "With what kind of data do you work?"
 msgstr ""
 
 #. type: delimited block *
-#: capture.en.adoc:29
+#: capture.en.adoc:31
 msgid "How would you publish your data to GBIF (using which Core and/or extension)?"
 msgstr ""
 
 #. type: Title ===
-#: capture.en.adoc:31
+#: capture.en.adoc:33
 #, no-wrap
 msgid "Data capture, processing and quality"
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:35
+#: capture.en.adoc:37
 msgid ""
 "In this video (09:11), you will explore the principles of data quality "
 "applied to data capture, specifically when capturing data from collection "
@@ -2504,7 +2490,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: capture.en.adoc:38 use-case-invasive-species.en.adoc:112
+#: capture.en.adoc:41 use-case-invasive-species.en.adoc:112
 #: use-case-lepidoptera-sampling.en.adoc:124
 #: use-case-birds-from-literature.en.adoc:105
 #, no-wrap
@@ -2512,7 +2498,7 @@ msgid "Exercise 2"
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:42
+#: capture.en.adoc:45
 msgid ""
 "For this activity, you will complete an exercise simulating data capture.  "
 "You will begin to work with https://dwc.tdwg.org/terms/[Darwin Core terms^] "
@@ -2522,14 +2508,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:46
+#: capture.en.adoc:49
 msgid ""
 "Imagine that you are the person assigned to transcribe the data found on the "
 "herbarium sheets."
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:51
+#: capture.en.adoc:54
 msgid ""
 "Download "
 "link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. "
@@ -2541,7 +2527,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:52
+#: capture.en.adoc:55
 msgid ""
 "Download the spreadsheet template: "
 "link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] "
@@ -2550,7 +2536,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: capture.en.adoc:55
+#: capture.en.adoc:58
 msgid ""
 "you may need to add fields to the spreadsheet as you may be able to capture "
 "more information from the labels that was planned for in the template."
@@ -2561,12 +2547,12 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: capture.en.adoc:68
+#: capture.en.adoc:71
 msgid "What dataset type(s) would you choose for an ichthyology collection?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:74
+#: capture.en.adoc:77
 #, no-wrap
 msgid ""
 ":figure-caption!:\n"
@@ -2576,7 +2562,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:78 capture.en.adoc:91
+#: capture.en.adoc:81 capture.en.adoc:94
 #, no-wrap
 msgid ""
 "- [x] occurrence\n"
@@ -2586,12 +2572,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: capture.en.adoc:81
+#: capture.en.adoc:84
 msgid "What dataset type(s) would you choose for a list of invasive species?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:87
+#: capture.en.adoc:90
 #, no-wrap
 msgid ""
 ":figure-caption!:\n"
@@ -2603,14 +2589,14 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: capture.en.adoc:94
+#: capture.en.adoc:97
 msgid ""
 "What dataset type(s) would you choose for the flora and fauna of an "
 "environmental impact study?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:98
+#: capture.en.adoc:101
 #, no-wrap
 msgid ""
 "Environmental impact assessment studies are done by experts in order to "
@@ -2620,7 +2606,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:102
+#: capture.en.adoc:105
 #, no-wrap
 msgid ""
 ":figure-caption!:\n"
@@ -2630,7 +2616,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:106 capture.en.adoc:134 capture.en.adoc:166
+#: capture.en.adoc:109 capture.en.adoc:137 capture.en.adoc:169
 #, no-wrap
 msgid ""
 "- [x] occurrence\n"
@@ -2640,12 +2626,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: capture.en.adoc:109
+#: capture.en.adoc:112
 msgid "What dataset type(s) would you choose for bird tracking data?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:113
+#: capture.en.adoc:116
 #, no-wrap
 msgid ""
 "Bird-tracking data are recorded using specific devices, such as GPS trackers "
@@ -2654,7 +2640,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:117
+#: capture.en.adoc:120
 #, no-wrap
 msgid ""
 ":figure-caption!:\n"
@@ -2664,7 +2650,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:121
+#: capture.en.adoc:124
 #, no-wrap
 msgid ""
 "- [x] occurrence\n"
@@ -2674,12 +2660,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: capture.en.adoc:124
+#: capture.en.adoc:127
 msgid "What dataset type(s) would you choose for insect trap data?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:130
+#: capture.en.adoc:133
 #, no-wrap
 msgid ""
 ":figure-caption!:\n"
@@ -2690,12 +2676,12 @@ msgstr ""
 
 #.  Question 6
 #. type: Plain text
-#: capture.en.adoc:137
+#: capture.en.adoc:140
 msgid "What dataset type(s) would you choose for national park management data?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:141
+#: capture.en.adoc:144
 #, no-wrap
 msgid ""
 "Data acquired in the context of protected areas management (such as national "
@@ -2706,7 +2692,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:145
+#: capture.en.adoc:148
 #, no-wrap
 msgid ""
 ":figure-caption!:\n"
@@ -2716,7 +2702,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:149
+#: capture.en.adoc:152
 #, no-wrap
 msgid ""
 "- [x] occurrence\n"
@@ -2726,12 +2712,12 @@ msgstr ""
 
 #.  Question 7
 #. type: Plain text
-#: capture.en.adoc:152
+#: capture.en.adoc:155
 msgid "What dataset type(s) would you choose for a citizen science bioblitz?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:156
+#: capture.en.adoc:159
 #, no-wrap
 msgid ""
 "Citizen science data are often collected through thematic fieldwork days "
@@ -2741,7 +2727,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:158
+#: capture.en.adoc:161
 #, no-wrap
 msgid ""
 "Data from each participant are captured and merged into the citizen science "
@@ -2749,7 +2735,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:162
+#: capture.en.adoc:165
 #, no-wrap
 msgid ""
 ":figure-caption!:\n"
@@ -2761,12 +2747,12 @@ msgstr ""
 
 #.  Question 8
 #. type: Plain text
-#: capture.en.adoc:169
+#: capture.en.adoc:172
 msgid "What dataset type(s) would you choose for a regional species list?"
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:175
+#: capture.en.adoc:178
 #, no-wrap
 msgid ""
 ":figure-caption!:\n"
@@ -2776,7 +2762,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block .
-#: capture.en.adoc:179
+#: capture.en.adoc:182
 #, no-wrap
 msgid ""
 "- [ ] occurrence\n"
@@ -2809,13 +2795,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: management.en.adoc:14
+#: management.en.adoc:15
 #, no-wrap
 msgid "Data management tools"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:18
+#: management.en.adoc:19
 msgid ""
 "In this video (06:42), you will learn about a variety of tools that you can "
 "use to improve the quality of your data.  If you are unable to watch the "
@@ -2825,13 +2811,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: management.en.adoc:21
+#: management.en.adoc:23
 #, no-wrap
 msgid "Exercise 3a-c"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:24
+#: management.en.adoc:26
 msgid ""
 "For these exercises, you will perform technical and consistency validation "
 "checks, improve data with different tools, and learn how to use "
@@ -2839,7 +2825,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:30
+#: management.en.adoc:32
 msgid ""
 "Your institution is part of the “Global Poales Association (GPA)”.  This "
 "association has secured funding to publish an up-to-date flora on the group "
@@ -2850,19 +2836,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:31
+#: management.en.adoc:33
 #, no-wrap
 msgid "Exercise 3a"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:34
+#: management.en.adoc:36
 #, no-wrap
 msgid "*Validation checks*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:37
+#: management.en.adoc:39
 msgid ""
 "In this exercise we will focus on technical errors and perform a basic "
 "validation check to identify technical errors.  Refer to <<Validation "
@@ -2870,7 +2856,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:39
+#: management.en.adoc:41
 msgid ""
 "Download "
 "link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. "
@@ -2878,7 +2864,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:40
+#: management.en.adoc:42
 msgid ""
 "Import the CSV file in Excel using the Excel wizard. See "
 "link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] "
@@ -2887,97 +2873,97 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:41
+#: management.en.adoc:43
 msgid "Find and correct the errors manually."
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:43
+#: management.en.adoc:45
 #, no-wrap
 msgid "Exercise 3b"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:46
+#: management.en.adoc:48
 #, no-wrap
 msgid "*Other data management tools*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:48
+#: management.en.adoc:50
 msgid ""
 "The GPA association has given you a checklist of data quality elements to "
 "verify:"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:50
+#: management.en.adoc:52
 msgid "All plant names (full name) are correctly spelled"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:51
+#: management.en.adoc:53
 msgid "All plant names belong to the order"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:52
+#: management.en.adoc:54
 msgid "All records have coordinates"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:53
+#: management.en.adoc:55
 msgid ""
 "All coordinates are inside the country stated and converted to decimal "
 "format"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:54
+#: management.en.adoc:56
 msgid "All dates are in the proper column and in the format YYYY-MM-DD"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:56
+#: management.en.adoc:58
 msgid "The three categories of errors are:"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:58
+#: management.en.adoc:60
 msgid "Nomenclatural errors"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:59
+#: management.en.adoc:61
 msgid "Format errors"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:60
+#: management.en.adoc:62
 msgid "Geographic errors / outliers"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:63
+#: management.en.adoc:65
 msgid ""
 "Refer to <<Helpful tools>> in order to complete the exercise.  You are not "
 "limited to these tools, you may use any tools you like."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:64
+#: management.en.adoc:66
 msgid "Use the same file from the previous exercise."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:65
+#: management.en.adoc:67
 msgid ""
 "Make the correction ONLY for the Eriocaulaceae family (so you may want to "
 "filter the data)"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:66
+#: management.en.adoc:68
 msgid ""
 "Correct the errors found in the dataset used in exercise 3a (previous "
 "exercise), using the tools of your choice, and document the changes you "
@@ -2985,18 +2971,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:67
+#: management.en.adoc:69
 msgid "Correct the entire file if you have time."
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:69
+#: management.en.adoc:71
 #, no-wrap
 msgid "Exercise 3c"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:73
+#: management.en.adoc:75
 msgid ""
 "In this video (03:27), you will learn about "
 "https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize "
@@ -3007,20 +2993,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:77
+#: management.en.adoc:80
 #, no-wrap
 msgid "*OpenRefine*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:79
+#: management.en.adoc:82
 msgid ""
 "In this exercise we use OpenRefine to improve the quality of a dataset by "
 "using the default features, existing web services and regular expressions."
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:81
+#: management.en.adoc:84
 msgid ""
 "Download "
 "link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. "
@@ -3028,7 +3014,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:83
+#: management.en.adoc:86
 msgid ""
 "Download and complete the exercises in "
 "link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. "
@@ -3038,19 +3024,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: management.en.adoc:85
+#: management.en.adoc:88
 #, no-wrap
 msgid "Exercise tips"
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:87
+#: management.en.adoc:90
 #, no-wrap
 msgid "Validation checks"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:92
+#: management.en.adoc:95
 #, no-wrap
 msgid ""
 "*Technical errors*\n"
@@ -3061,7 +3047,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:95
+#: management.en.adoc:98
 #, no-wrap
 msgid ""
 "*Completeness*: \n"
@@ -3070,7 +3056,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:97
+#: management.en.adoc:100
 #, no-wrap
 msgid ""
 "*Bounds*: \n"
@@ -3078,7 +3064,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:99
+#: management.en.adoc:102
 #, no-wrap
 msgid ""
 "*Data type*: \n"
@@ -3086,7 +3072,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:101
+#: management.en.adoc:104
 #, no-wrap
 msgid ""
 "*Data format*: \n"
@@ -3094,13 +3080,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:103
+#: management.en.adoc:106
 #, no-wrap
 msgid "*Consistency errors*\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:109
+#: management.en.adoc:112
 msgid ""
 "Application of real-world rules to the data.  These may indicate incorrect "
 "data entry from older records, transcription errors or post processing.  "
@@ -3110,7 +3096,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:112
+#: management.en.adoc:115
 #, no-wrap
 msgid ""
 "*Taxonomic*: \n"
@@ -3119,7 +3105,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:114
+#: management.en.adoc:117
 #, no-wrap
 msgid ""
 "*Currency*: \n"
@@ -3128,7 +3114,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:117
+#: management.en.adoc:120
 #, no-wrap
 msgid ""
 "*Outliers*: \n"
@@ -3140,7 +3126,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:120
+#: management.en.adoc:123
 #, no-wrap
 msgid ""
 "*Geographic*: \n"
@@ -3150,7 +3136,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:124
+#: management.en.adoc:127
 #, no-wrap
 msgid ""
 "*Collecting patterns*: \n"
@@ -3162,7 +3148,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:126
+#: management.en.adoc:129
 #, no-wrap
 msgid ""
 "*Accuracy and precision*: \n"
@@ -3171,7 +3157,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:129
+#: management.en.adoc:132
 #, no-wrap
 msgid ""
 "*Collecting methods*: \n"
@@ -3181,25 +3167,25 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: management.en.adoc:130
+#: management.en.adoc:133
 #, no-wrap
 msgid "Helpful tools"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:133
+#: management.en.adoc:136
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:134
+#: management.en.adoc:137
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:135
+#: management.en.adoc:138
 #, no-wrap
 msgid ""
 "*Catalogue of Life name match*: "
@@ -3207,25 +3193,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:136
+#: management.en.adoc:139
 #, no-wrap
 msgid "*TNRS*: https://tnrs.biendata.org/\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:137
+#: management.en.adoc:140
 #, no-wrap
 msgid "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:138
+#: management.en.adoc:141
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:139
+#: management.en.adoc:142
 #, no-wrap
 msgid ""
 "*Georeferencing Calculator*: "
@@ -3233,7 +3219,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:140
+#: management.en.adoc:143
 #, no-wrap
 msgid ""
 "*Canadensys coordinate conversion*: "
@@ -3241,13 +3227,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:141
+#: management.en.adoc:144
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 msgstr ""
 
 #. type: Plain text
-#: management.en.adoc:142
+#: management.en.adoc:145
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
 msgstr ""
@@ -3257,12 +3243,12 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: management.en.adoc:155
+#: management.en.adoc:158
 msgid "Why is it best to clean your data?"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:162
+#: management.en.adoc:165
 #, no-wrap
 msgid ""
 "- [x] to make them as fit for use as possible\n"
@@ -3272,12 +3258,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: management.en.adoc:165
+#: management.en.adoc:168
 msgid "How should you organize your data cleaning workflow?"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:172
+#: management.en.adoc:175
 #, no-wrap
 msgid ""
 "- [ ] work alone, you know your data best\n"
@@ -3287,12 +3273,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: management.en.adoc:175
+#: management.en.adoc:178
 msgid "Which is best:"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:182
+#: management.en.adoc:185
 #, no-wrap
 msgid ""
 "- [x] prevent errors from occurring\n"
@@ -3304,12 +3290,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: management.en.adoc:185
+#: management.en.adoc:188
 msgid "Whose responsibility is data quality?"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:195
+#: management.en.adoc:198
 #, no-wrap
 msgid ""
 "- [ ] The person(s) who record data on the field\n"
@@ -3322,12 +3308,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: management.en.adoc:198
+#: management.en.adoc:201
 msgid "Which tools can be used to clean your data ?"
 msgstr ""
 
 #. type: delimited block .
-#: management.en.adoc:206
+#: management.en.adoc:209
 #, no-wrap
 msgid ""
 "- [x] Excel & other spreadsheets management tools\n"
@@ -3362,13 +3348,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: publishing.en.adoc:14
+#: publishing.en.adoc:15
 #, no-wrap
 msgid "IPT overview"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:18
+#: publishing.en.adoc:19
 msgid ""
 "In this video (06:56), you will receive an overview of the IPT data "
 "publishing interface.  If you are unable to watch the embedded video, you "
@@ -3377,13 +3363,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: publishing.en.adoc:21
+#: publishing.en.adoc:23
 #, no-wrap
 msgid "Training IPT installations"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:24
+#: publishing.en.adoc:26
 msgid ""
 "If you have not already been provided a login, please contact "
 "training@gbif.org and you will be provided with a login and password on the "
@@ -3391,28 +3377,28 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:26
+#: publishing.en.adoc:28
 msgid "https://training-ipt-a.gbif.org/[^]"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:28
+#: publishing.en.adoc:30
 msgid "https://training-ipt-b.gbif.org/[^]"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:30
+#: publishing.en.adoc:32
 msgid "https://training-ipt-c.gbif.org/[^]"
 msgstr ""
 
 #. type: Title ===
-#: publishing.en.adoc:31
+#: publishing.en.adoc:33
 #, no-wrap
 msgid "IPT demonstration"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:35
+#: publishing.en.adoc:37
 msgid ""
 "In this video (24:16), you will learn how to publish an occurrence dataset "
 "using an IPT.  If you are unable to watch the embedded video, you can "
@@ -3421,7 +3407,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: publishing.en.adoc:38 use-case-invasive-species.en.adoc:137
+#: publishing.en.adoc:41 use-case-invasive-species.en.adoc:137
 #: use-case-lepidoptera-sampling.en.adoc:148
 #: use-case-birds-from-literature.en.adoc:162
 #, no-wrap
@@ -3429,12 +3415,12 @@ msgid "Exercise 4"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:41
+#: publishing.en.adoc:44
 msgid "In this exercise, you will publish an occurrence dataset using the IPT."
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:45 assessments-certification.en.adoc:154
+#: publishing.en.adoc:48 assessments-certification.en.adoc:154
 #: use-case-invasive-species.en.adoc:140
 #: use-case-lepidoptera-sampling.en.adoc:151
 #: use-case-birds-from-literature.en.adoc:165
@@ -3443,7 +3429,7 @@ msgid "*Data publishing*\n"
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:47
+#: publishing.en.adoc:50
 msgid ""
 "After cleaning the data in the Poales dataset, the team considers that "
 "publishing the data online through the GBIF network could be a good way to "
@@ -3452,7 +3438,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:50
+#: publishing.en.adoc:53
 msgid ""
 "At this point, you need an account on one of the <<Training IPT "
 "installations,course IPTs>>.  If you have not already been provided a login, "
@@ -3461,7 +3447,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:51
+#: publishing.en.adoc:54
 msgid ""
 "Download "
 "link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. "
@@ -3469,7 +3455,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: publishing.en.adoc:52
+#: publishing.en.adoc:55
 msgid "Use the assigned IPT installation and publish this file."
 msgstr ""
 
@@ -3478,12 +3464,12 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: publishing.en.adoc:66
+#: publishing.en.adoc:69
 msgid "What does data publishing mean in the context of GBIF?"
 msgstr ""
 
 #. type: delimited block .
-#: publishing.en.adoc:73
+#: publishing.en.adoc:76
 #, no-wrap
 msgid ""
 "- [ ] Exporting a csv file of your cleaned data that you can share with your "
@@ -3496,12 +3482,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: publishing.en.adoc:76
+#: publishing.en.adoc:79
 msgid "What is an IPT?"
 msgstr ""
 
 #. type: delimited block .
-#: publishing.en.adoc:83
+#: publishing.en.adoc:86
 #, no-wrap
 msgid ""
 "- [ ] a tool that helps you manage & correct your data\n"
@@ -3511,14 +3497,14 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: publishing.en.adoc:86
+#: publishing.en.adoc:89
 msgid ""
 "Which Creative Commons licences and waivers are recommended by GBIF for data "
 "publication?"
 msgstr ""
 
 #. type: delimited block .
-#: publishing.en.adoc:93
+#: publishing.en.adoc:96
 #, no-wrap
 msgid ""
 "- [ ] CC-BY, CC-BY-SA and CC-BY-ND\n"
@@ -3528,12 +3514,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: publishing.en.adoc:96
+#: publishing.en.adoc:99
 msgid "What are the three Cores from which you can choose for an IPT resource?"
 msgstr ""
 
 #. type: delimited block .
-#: publishing.en.adoc:103
+#: publishing.en.adoc:106
 #, no-wrap
 msgid ""
 "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
@@ -3543,12 +3529,12 @@ msgstr ""
 
 #.  Question 5
 #. type: Plain text
-#: publishing.en.adoc:106
+#: publishing.en.adoc:109
 msgid "How many Extensions files can a dataset have?"
 msgstr ""
 
 #. type: delimited block .
-#: publishing.en.adoc:113
+#: publishing.en.adoc:116
 #, no-wrap
 msgid ""
 "- [ ] zero\n"
@@ -6137,41 +6123,41 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: data-papers.en.adoc:16
+#: data-papers.en.adoc:17
 msgid "You can read more about data papers on GBIF.org."
 msgstr ""
 
 #. type: Target for macro image
-#: data-papers.en.adoc:17
+#: data-papers.en.adoc:18
 #, no-wrap
 msgid "img/web/datapapers.png"
 msgstr ""
 
 #. type: Target for macro image
-#: data-papers.en.adoc:19
+#: data-papers.en.adoc:20
 #, no-wrap
 msgid "img/web/datapapersIPT.png"
 msgstr ""
 
 #. type: delimited block =
-#: data-papers.en.adoc:23
+#: data-papers.en.adoc:24
 msgid ""
 "View the links below to see a data paper as it appears on the IPT, on "
 "GBIF.org and in the Journal. Each are cross-linked."
 msgstr ""
 
 #. type: delimited block =
-#: data-papers.en.adoc:25
+#: data-papers.en.adoc:26
 msgid "Journal: https://doi.org/10.3897/BDJ.2.e4244"
 msgstr ""
 
 #. type: delimited block =
-#: data-papers.en.adoc:26
+#: data-papers.en.adoc:27
 msgid "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
 msgstr ""
 
 #. type: delimited block =
-#: data-papers.en.adoc:27
+#: data-papers.en.adoc:28
 msgid ""
 "IPT: "
 "http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
