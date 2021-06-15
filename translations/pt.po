@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-05-20 08:30+0000\n"
-"PO-Revision-Date: 2021-05-20 12:34\n"
+"POT-Creation-Date: 2021-06-14 15:30+0000\n"
+"PO-Revision-Date: 2021-06-14 15:46\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -333,258 +333,253 @@ msgid "In this video (12:02), you will review terminology used in this course.  
 msgstr "Neste vídeo (12:02), poderá rever a terminologia usada neste curso. Se não puder assistir o vídeo incorporado, utilize o link:../videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 38.5 MB)"
 
 #. type: Title ====
-#: foundations.en.adoc:19
+#: foundations.en.adoc:20
 #, no-wrap
 msgid "Software"
 msgstr "Software"
 
 #. type: Plain text
-#: foundations.en.adoc:23
+#: foundations.en.adoc:24
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
 msgstr "Neste vídeo (05:58), revisará exemplos dos diferentes tipos de aplicações e softwares disponíveis no mundo da mobilização da informática para a biodiversidade. Se não puder assistir ao vídeo, use o link:../videos/Foundations_Software.mp4[download^,opts=download] localmente. (MP4 - 18.9 MB)"
 
-#. type: Plain text
-#: foundations.en.adoc:25
-msgid "video::vYfDIgBBKXY[youtube,height=540,width=960,align=center]"
-msgstr "video::vYfDIgBBKXY[youtube,height=540,width=960,align=center]"
-
 #. type: Title ====
-#: foundations.en.adoc:26
+#: foundations.en.adoc:28
 #, no-wrap
 msgid "Structures"
 msgstr "Estructuras"
 
 #. type: Plain text
-#: foundations.en.adoc:30
+#: foundations.en.adoc:32
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
 msgstr "Neste vídeo (13:10), irá rever os tipos de campos e de dados que possuem dados, as estruturas que ajudam a organizar e proteger esses dados e o que eles significam para a integridade e a segurança de seus dados. Se não conseguir assistir ao vídeo embutido, use o link:../videos/Foundations_Structures.mp4[download^,opts=download] localmente. (MP4 - 38.8 MB)"
 
 #. type: Title ===
-#: foundations.en.adoc:33
+#: foundations.en.adoc:36
 #, no-wrap
 msgid "Data quality"
 msgstr "Qualidade dos dados"
 
 #. type: Plain text
-#: foundations.en.adoc:37
+#: foundations.en.adoc:40
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
 msgstr "Neste vídeo (12:26), poderá rever a terminologia usada neste curso. Se não puder assistir o vídeo incorporado, utilize o link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] localmente. (MP4 - 44.5 MB)"
 
 #. type: Plain text
-#: foundations.en.adoc:44
+#: foundations.en.adoc:48
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
 msgstr "Abaixo encontrará uma leitura selecionada do guia do Arthur Chapman: “Princípios da qualidade de dados”. https://www.gbif.org/document/80509/principles-of-data-quality[Documento completo^], referências e traduções podem ser encontradas em GBIF.org."
 
 #. type: delimited block _
-#: foundations.en.adoc:49
+#: foundations.en.adoc:53
 msgid "Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described.  These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data."
 msgstr "Antes que uma discussão detalhada sobre a qualidade dos dados e a sua aplicação a dados de ocorrência de espécies possa ser iniciada, há vários conceitos que precisam ser definidos e descritos. Estes, incluem o próprio termo \"qualidade de dados\", os termos \"exatidão\" e \"precisão\", que são comumente mal aplicados, e o que queremos dizer com dados de espécies primárias e dados de ocorrência de espécies."
 
 #. type: delimited block _
-#: foundations.en.adoc:51
+#: foundations.en.adoc:55
 #, no-wrap
 msgid "*Species-occurrence data*\n"
 msgstr "*Dados de ocorrência-espécie*\n"
 
 #. type: delimited block _
-#: foundations.en.adoc:55
+#: foundations.en.adoc:59
 msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
 msgstr "Os dados de ocorrência de espécies são utilizados aqui para incluir dados de etiquetas de espécimes anexados a espécimes ou coleções alojados em museus e herbaria, dados de observações e dados de pesquisas ambientais. Em geral, os dados são o que chamamos de “point-based”, embora transecto (dados de transectos de pesquisas ambientais, colheitas ao longo de um rio), polígono (observações de uma área definida como um parque nacional) e dados de grid (observações ou registos de pesquisa de uma grid regular) também são incluídos. Em geral, estamos a falar de dados georeferenciados – i.e. registros com referências geográficas que os amarram a um local em particular no espaço - seja com uma coordenada georeferenciada (e.g. latitude e longitude, UTM) ou não (descrição textual de uma localidade, altitude, profundidade) – e hora (data, hora do dia)."
 
 #. type: delimited block _
-#: foundations.en.adoc:58
+#: foundations.en.adoc:62
 msgid "In general the data are also tied to a taxonomic name, but unidentified collections may also be included.  The term has occasionally been used interchangeably with the term “primary species data”."
 msgstr "Em geral, os dados também são vinculados a um nome taxonômico, mas as coleções não identificadas também podem ser incluídas. O termo tem sido ocasionalmente utilizado indistintamente com o termo \"dados primários de espécies\"."
 
 #. type: delimited block _
-#: foundations.en.adoc:60
+#: foundations.en.adoc:64
 #, no-wrap
 msgid "*Primary species data*\n"
 msgstr "*Dados primários de espécies*\n"
 
 #. type: delimited block _
-#: foundations.en.adoc:63
+#: foundations.en.adoc:67
 msgid "“Primary species data” is used to describe raw collection data and data without any spatial attributes.  It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references."
 msgstr "\"Dados de espécies primárias\" é usado para descrever dados e dados da coleção bruta sem quaisquer atributos espaciais. Inclui dados taxonómicos e nomenclaturais sem atributos espaciais, como nomes, taxa e conceitos taxonómicos sem referências geográficas associadas."
 
 #. type: delimited block _
-#: foundations.en.adoc:65
+#: foundations.en.adoc:69
 #, no-wrap
 msgid "*Accuracy and Precision*\n"
 msgstr "*Exatidão e precisão*\n"
 
 #. type: delimited block _
-#: foundations.en.adoc:67
+#: foundations.en.adoc:71
 msgid "Accuracy and precision are regularly confused and the differences are not generally understood."
 msgstr "A exatidão e a precisão são regularmente confundidas e as diferenças não são geralmente compreendidas."
 
 #. type: delimited block _
-#: foundations.en.adoc:69
+#: foundations.en.adoc:73
 msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
 msgstr "A exatidão refere-se à proximidade de valores medidos, observações ou estimativas para o valor real ou verdadeiro (ou para um valor que é aceito como sendo verdadeiro – por exemplo, as coordenadas de um ponto de controle da pesquisa)."
 
 #. type: delimited block _
-#: foundations.en.adoc:76
+#: foundations.en.adoc:80
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
 msgstr "A precisão (ou Resolução) pode ser dividida em dois tipos principais. A precisão estatística é a proximidade com que repetidas observações se relacionam a si mesmas. Eles não têm nada a ver com a sua relação com o verdadeiro valor e podem ter uma grande precisão, mas uma baixa exatidão. Precisão numérica é o número de algarismos significativos em que uma observação é registada e tornou-se muito mais evidente com o advento dos computadores. Por exemplo, uma base de dados pode produzir um registro decimal de latitude/longitude em 10 casas decimais – i.e. ca. 1 mm quando na realidade, o registo tem uma resolução não superior a 10-100 m (3-4 casas decimais). Isto conduz frequentemente a uma falsa impressão tanto da precisão como da exatidão."
 
 #. type: delimited block _
-#: foundations.en.adoc:79
+#: foundations.en.adoc:83
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
 msgstr "Estes termos – exatidão e precisão – também podem ser aplicados aos dados não espaciais, bem como aos dados espaciais. Por exemplo, uma coleção pode ter uma identificação para o nível de subespécie (i.e. tem alta precisão), mas seja o táxon errado (ou seja, tenha baixa exatidão), ou ser identificado apenas para o nível de Família (alta exatidão, mas baixa precisão)."
 
 #. type: delimited block _
-#: foundations.en.adoc:81
+#: foundations.en.adoc:85
 #, no-wrap
 msgid "*Data quality*\n"
 msgstr "*Qualidade dos dados* \n"
 
 #. type: delimited block _
-#: foundations.en.adoc:86
+#: foundations.en.adoc:90
 msgid "Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation.  As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user.  In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful.  Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999)."
 msgstr "A qualidade dos dados é multidimensional, e envolve gestão de dados, modelação e análise, controlo de qualidade e garantia, armazenamento e apresentação. Como dito de forma independente por Chrisman (1991) e Strong et al. (1997), a qualidade dos dados está relacionada à utilização e não pode ser avaliada independentemente do utilizador. Numa base de dados, os dados não têm real qualidade ou valor (Dalcin 2004); só têm valor potencial que é reconhecido apenas quando alguém usa os dados para fazer algo útil. A qualidade da informação está relacionada com a sua capacidade de satisfazer os seus clientes e de atender as necessidades dos clientes (English 1999)."
 
 #. type: delimited block _
-#: foundations.en.adoc:88
+#: foundations.en.adoc:92
 msgid "Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret."
 msgstr "Redman (2001) sugeriu que para que os dados estejam em condições de serem utilizados, devem ser acessíveis, exactos, oportunos, completos, consistente com outras fontes, relevantes, abrangentes, fornecerem um adequado nível de detalhe, serem fáceis de ler e fáceis de interpretar."
 
 #. type: delimited block _
-#: foundations.en.adoc:92
+#: foundations.en.adoc:96
 msgid "One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.  There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.  This may require such things as atomizing data fields, adding geo-referencing information, etc."
 msgstr "Uma questão que um detentor de dados pode precisar considerar é o que pode precisar ser feito com a base de dados, para aumentar a sua utilização para um público mais amplo (i.e. aumentar seu potencial uso ou relevância) e torná-la assim adequada para um leque mais amplo de propósitos. Haverá uma troca entre o aumento da usabilidade e o volume de esforço necessário para adicionar funcionalidade e usabilidade extra. Isso pode exigir coisas como atomizar campos de dados, adicionar informações de georeferenciamento, etc."
 
 #. type: delimited block _
-#: foundations.en.adoc:94
+#: foundations.en.adoc:98
 #, no-wrap
 msgid "*Quality Assurance/ Quality Control*\n"
 msgstr "*Garantia de Qualidade/ Controle de Qualidade*\n"
 
 #. type: delimited block _
-#: foundations.en.adoc:98
+#: foundations.en.adoc:102
 msgid "The difference between quality control and quality assurance is not always clear.  Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met.  She defines Quality Control as a judgement of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgement of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality."
 msgstr "A diferença entre controlo de qualidade e garantia de qualidade nem sempre é clara. Taulbee (1996) faz a distinção entre controlo de Qualidade e Garantia de Qualidade e sublinha que uma não pode existir sem a outra, se quisermos que os objectivos de qualidade sejam cumpridos. Ela define o controlo de qualidade como um juízo de qualidade com base em normas internas, processos e procedimentos estabelecidos para controlar e monitorizar a qualidade; e a garantia da qualidade como uma avaliação da qualidade com base em normas externas ao processo e é a revisão das actividades e dos processos de controlo de qualidade para garantir que os produtos finais cumprem padrões de qualidade pré-determinados."
 
 #. type: delimited block _
-#: foundations.en.adoc:100
+#: foundations.en.adoc:104
 msgid "In a more business-oriented approach, Redman (2001) defines Quality Assurance as “those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”."
 msgstr "Numa abordagem mais orientada para as empresas, Redman (2001) define a Garantia de Qualidade como “as atividades que são concebidas para produção de produtos de informação isentos de defeito para atender às necessidades mais importantes dos clientes, pelo menor custo possível”."
 
 #. type: delimited block _
-#: foundations.en.adoc:102
+#: foundations.en.adoc:106
 msgid "How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management."
 msgstr "Como estes termos devem ser aplicados na prática não é claro, e na maioria dos casos, os termos parecem ser em grande medida utilizados como sinónimo para descrever a prática global da gestão da qualidade dos dados."
 
 #. type: delimited block _
-#: foundations.en.adoc:104
+#: foundations.en.adoc:108
 #, no-wrap
 msgid "*Uncertainty*\n"
 msgstr "*Incerteza*\n"
 
 #. type: delimited block _
-#: foundations.en.adoc:109
+#: foundations.en.adoc:113
 msgid "Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).  Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.  There is always uncertainty in data; the difficulty is in recording, understanding and visualizing that uncertainty so that others can also understand it.  Uncertainty is a key term in understanding risk and risk assessment."
 msgstr "A incerteza pode ser considerada como uma \"medida da ineficácia do conhecimento ou informação sobre uma quantidade desconhecida cujo verdadeiro valor poderia ser estabelecido se um dispositivo de medição perfeito estivesse disponível\" (Cullen e Frey 1999). A incerteza é uma propriedade da compreensão dos dados por parte do observador e tem mais a ver com o observador do que com os dados em si. Há sempre incerteza nos dados; a dificuldade é registar, compreender e visualizar essa incerteza para que os outros também a possam entender. A incerteza é um termo fundamental na compreensão dos riscos e na avaliação de riscos."
 
 #. type: delimited block _
-#: foundations.en.adoc:111
+#: foundations.en.adoc:115
 #, no-wrap
 msgid "*Error*\n"
 msgstr "*Erro*\n"
 
 #. type: delimited block _
-#: foundations.en.adoc:118
+#: foundations.en.adoc:122
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
 msgstr "Erro engloba tanto a imprecisão dos dados quanto sua inexatidão. Há muitos fatores que contribuem para o erro. O erro é geralmente visto como aleatório ou sistemático. Um erro aleatório tende a se referir ao desvio do verdadeiro estado de forma aleatória. O erro sistemático ou enviezamento advém de uma mudança uniforme nos valores e, por vezes, é descrito como tendo uma \"exatidão relativa\" no mundo cartográfico (Chrisman 1991). Ao determinar \"aptidão para o uso\", o erro sistemático pode ser aceitável para algumas aplicações, e inaptas para outras."
 
 #. type: delimited block _
-#: foundations.en.adoc:121
+#: foundations.en.adoc:125
 msgid "An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.  Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code."
 msgstr "Um exemplo pode ser a utilização de um datum1 geodésico diferente – onde, se utilizado ao longo da análise, não pode causar quaisquer maiores problemas. Os problemas surgirão no entanto onde uma análise utiliza dados de diferentes fontes e com diferentes tendências – por exemplo, fontes de dados que usam diferentes datum geodésico, ou onde as identificações podem ter sido realizadas usando uma versão anterior de um código nomenclatural."
 
 #. type: delimited block _
-#: foundations.en.adoc:125
+#: foundations.en.adoc:129
 msgid "“Because error is inescapable, it should be recognized as a fundamental dimension of data” (Chrisman 1991).  Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.  Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented."
 msgstr "\"Porque o erro é inevitável, ele deve ser reconhecido como uma dimensão fundamental dos dados\" (Chrisman 1991). Somente quando um erro é incluído em uma representação dos dados é possível responder a perguntas sobre limitações dos dados, e até mesmo limitações do conhecimento atual. Os erros conhecidos nas três dimensões do espaço, atributo e tempo têm de ser medidos, calculados, registados e documentados."
 
 #. type: delimited block _
-#: foundations.en.adoc:127
+#: foundations.en.adoc:131
 #, no-wrap
 msgid "*Validation and Cleaning*\n"
 msgstr "*Validação e Limpeza*\n"
 
 #. type: delimited block _
-#: foundations.en.adoc:133
+#: foundations.en.adoc:137
 msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
 msgstr "Validação é um processo usado para determinar se os dados são incompletos, não razoáveis ou não acurados. O processo pode incluir verificações de formato, verificações de integridade, verificações de razoabilidade, verificações de limite, revisão dos dados para identificar \"outliers\" (geográficos, estatísticos, temporais ou ambientais) ou outros erros e avaliação de dados por especialistas em áreas temáticas (e.g. especialistas taxonómicos). Estes processos resultam geralmente em sinalizadores, documentação e subsequente verificação de registos suspeitos. As validações podem também envolver o controlo da conformidade com padrões, regras e convenções aplicáveis. Uma etapa chave na validação e limpeza de dados é identificar as causas dos erros detectados e concentrar-se em impedir que esses erros ocorram novamente (Redman 2001)."
 
 #. type: delimited block _
-#: foundations.en.adoc:138
+#: foundations.en.adoc:142
 msgid "Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.  The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.  It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.  It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered."
 msgstr "Limpeza de dados refere-se ao processo de “reparação” de erros nos dados que foram identificados durante o processo de validação. O termo é sinónimo de \"limpeza de dados\", embora alguns usem a limpeza de dados para englobar a validação de dados e a limpeza de dados. No processo de limpeza de dados, é importante que os dados não se percam inadvertidamente e que as alterações à informação existente sejam efectuadas com muito cuidado. Muitas vezes é melhor manter ambos os antigos (dados originais) e os novos (dados corrigidos) lado a lado na base de dados, para que, caso sejam cometidos erros no processo de limpeza, as informações originais possam ser recuperadas."
 
 #. type: Title ===
-#: foundations.en.adoc:141
+#: foundations.en.adoc:145
 #, no-wrap
 msgid "Documentation"
 msgstr "Documentação"
 
 #. type: delimited block *
-#: foundations.en.adoc:146
+#: foundations.en.adoc:150
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
 msgstr "Neste vídeo (09:47), daremos uma visão geral da importância da documentação no que se refere à gestão e publicação de dados. Você aprenderá sobre mapeamento de dados, relações e metadados. Se não puder assistir o vídeo embutido, poderá utilizar o link:../videos/Foundations_Documentation.mp4[download^,opts=download] localmente. (MP4 - 29.2 MB)"
 
 #. type: Title ===
-#: foundations.en.adoc:149
+#: foundations.en.adoc:154
 #, no-wrap
 msgid "Digitization Workflows"
 msgstr "Fluxos de Trabalho de Digitalização"
 
 #. type: delimited block *
-#: foundations.en.adoc:153
+#: foundations.en.adoc:158
 msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
 msgstr "Este vídeo (07:20) sobre Fluxo de Trabalho de Digitalização identifica cinco clusters (ou etapas) no processo de digitalização de objectos de colecções de história natural usando imagens digitais, e estas fases podem ser facilmente adaptadas a outras fontes de dados de biodiversidade. Se não conseguir assistir ao vídeo embutido do Vimeo, poderá utilizar o link:../videos/Foundations_Workflows.mp4[download^,opts=download] localmente. (MP4 - 26,8 MB)"
 
 #. type: delimited block *
-#: foundations.en.adoc:157
+#: foundations.en.adoc:163
 msgid "As the video highlights, digitization protocols vary from institution to institution, but it is essential that the chosen protocol is agreed, documented and respected."
 msgstr "Como salienta o vídeo, os protocolos de digitalização variam de instituição para instituição, mas é essencial que o protocolo escolhido seja acordado, documentado e respeitado."
 
 #. type: delimited block *
-#: foundations.en.adoc:160
+#: foundations.en.adoc:166
 msgid "We do not teach digitization, per se, during the workshop, as it can easily stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.  However, we want to provide you with resources on digitization as we know many are interested in this."
 msgstr "Não ensinamos a digitalização por si só durante o workshop, uma vez que pode ser um curso de uma semana. Em vez disso, centramo-nos na introdução básica à captura de dados sobre biodiversidade. No entanto, queremos fornecer-lhe recursos em matéria de digitalização, como sabemos que há interessados nisso."
 
 #. type: delimited block *
-#: foundations.en.adoc:165
+#: foundations.en.adoc:171
 msgid "There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.  It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to.  In this exercise we introduce you to some practical digitization workflow resources to help get you started.  These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows."
 msgstr "Há muitas maneiras de organizar os esforços de digitalização e por isso, a digitalização pode parecer assustadora no início. É importante lembrar que, na maioria dos casos, outra pessoa já tentou digitalizar os mesmos tipos de espécimes e objectos que você planeia. Neste exercício nós apresentamos alguns recursos práticos de fluxo de trabalho de digitalização para ajudá-lo a começar. Estas constituirão também a base de trabalho que iremos desenvolver no workshop sobre a selecção, modificação e avaliação dos fluxos de trabalho."
 
 #. type: delimited block *
-#: foundations.en.adoc:167
+#: foundations.en.adoc:173
 msgid "Some steps in the process may include:"
 msgstr "Algumas etapas do processo podem incluir:"
 
 #. type: delimited block *
-#: foundations.en.adoc:169
+#: foundations.en.adoc:175
 #, no-wrap
 msgid "*Pre-digitization curation and staging*: This includes the preparation of the data source for the digitization process, including the assignment of unique identifiers that will help to refer to the source without error and to keep all derived information together.\n"
 msgstr "*Curadoria de pré-digitalização e \"staging\"*: Isso inclui a preparação da fonte de dados para o processo de digitalização, incluindo a atribuição de identificadores únicos que ajudarão a referir à fonte sem erro e a manter todas as informações derivadas juntas.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:170
+#: foundations.en.adoc:176
 #, no-wrap
 msgid "*Image capture*: This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.\n"
 msgstr "*Captura de imagem*: Isso inclui um planeamento razoável, não apenas na própria imagem capturada (e.g. definição da sequência de trabalho, seleção de hardware adequado), mas também sobre como e onde as imagens serão armazenadas e tratadas.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:171
+#: foundations.en.adoc:177
 #, no-wrap
 msgid "*Image processing*: This includes quality control, file conversion, etc.\n"
 msgstr "*Processamento de imagens*: Isso inclui controle de qualidade, conversão de ficheiro, etc.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:173
+#: foundations.en.adoc:179
 #, no-wrap
 msgid "*Electronic data capture*: The core of the digitization process, includes capturing key information in a database.\n"
 "The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.\n"
@@ -592,69 +587,69 @@ msgstr "*Captura de dados eletrônicos*: O núcleo do processo de digitalizaçã
 "O vídeo destaca que o método mais comum para inserir a informação é através de um teclado, mas cada vez mais as instituições estão a voltar-se para tecnologias avançadas de entrada de dados.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:174
+#: foundations.en.adoc:180
 #, no-wrap
 msgid "*Georeferencing*: Geographical information is very important for biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.\n"
 msgstr "*Georeferenciação*: informações geográficas são muito importantes para a análise da biodiversidade, então os projectos de digitalização devem procurar extrair as informações geográficas mais acuradas possíveis.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:178
+#: foundations.en.adoc:184
 msgid "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) is the coordination centre for the United States National Resource for Advancing Digitization of Biodiversity Collections (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]).  They lead a nation-wide effort to make data and images for millions of biological specimens available in a standard electronic format for the research community, government agencies, students, educators, and the general public.  They have produced several videos that discuss the digitization process."
 msgstr "Biocoleções Digitalizadas Integradas (https://www.idigbio.org/[iDigBio^]) é o centro de coordenação do Recurso Nacional dos Estados Unidos para Avanço da Digitalização da Coleção de Biodiversidade (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]). Estes, conduzem um esforço a nível nacional para tornar disponíveis para a comunidade científica dados e imagens de milhões de espécimes biológicos num formato electrónico normalizado, para agências governamentais, estudantes, educadores e o público em geral. Eles produziram vários vídeos que discutem o processo de digitalização."
 
 #. type: delimited block *
-#: foundations.en.adoc:180
+#: foundations.en.adoc:186
 msgid "There are other videos in the iDigBio series that you may be interested in, if you wish to learn more about specific workflows for different specimen types:"
 msgstr "Há outros vídeos na série iDigBio em que você pode estar interessado, se quiser aprender mais sobre fluxos de trabalho específicos para diferentes tipos de espécime:"
 
 #. type: delimited block *
-#: foundations.en.adoc:182
+#: foundations.en.adoc:188
 msgid "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690[^]"
 msgstr "\"Digitalização de coleções não-secas\" (4:34 minutos) https://vimeo.com/120369690[^]"
 
 #. type: delimited block *
-#: foundations.en.adoc:183
+#: foundations.en.adoc:189
 msgid "“Imaging Workflows for the Digitization of Dry-preserved Vertebrate Specimens” (7:25 mins) https://vimeo.com/160615629[^]"
 msgstr "“Fluxos de Trabalho de Imagens para a Digitalização de Espécimes de Vertebrados (Dry-preserve)” (7:25 mins) https://vimeo.com/160615629[^]"
 
 #. type: delimited block *
-#: foundations.en.adoc:184
+#: foundations.en.adoc:190
 msgid "“Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768[^]"
 msgstr "“Digitalização de espécimes de Herbarium” (7:34 mins) https://vimeo.com/120369768[^]"
 
 #. type: Title ===
-#: foundations.en.adoc:185
+#: foundations.en.adoc:191
 #, no-wrap
 msgid "Software tools"
 msgstr "Ferramentas de software"
 
 #. type: delimited block *
-#: foundations.en.adoc:188
+#: foundations.en.adoc:194
 msgid "Review software tools used in biodiversity informatics"
 msgstr "Revisar ferramentas de software utilizadas em informática para a biodiversidade"
 
 #. type: delimited block *
-#: foundations.en.adoc:191
+#: foundations.en.adoc:197
 msgid "During the course activities, we’ll demonstrate and work with many different software tools related to data digitization, data quality and transformation.  You probably already use several of them in your daily work."
 msgstr "Durante as actividades do curso, demonstraremos e trabalharemos com diversas ferramentas de software relacionadas à digitalização de dados, qualidade de dados e transformação. Você provavelmente já usa vários deles em seu trabalho diário."
 
 #. type: delimited block *
-#: foundations.en.adoc:194
+#: foundations.en.adoc:200
 msgid "Community trainers, mentors and former course participants have compiled a list with information about biodiversity informatics software tools.  It provides links for their main websites, a key facts and a summary of strong and weak points."
 msgstr "Os formadores, mentores e os participantes de cursos anteriores compilaram uma lista com informações sobre ferramentas de software sobre informática para a biodiversidade. A lista fornece ligações para os seus principais portais, fatos-chave e uma síntese de pontos fortes e fracos."
 
 #. type: delimited block *
-#: foundations.en.adoc:196
+#: foundations.en.adoc:202
 msgid "Download link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
 msgstr "Descarregue o Link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
 
 #. type: delimited block *
-#: foundations.en.adoc:200
+#: foundations.en.adoc:206
 msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^]:"
 msgstr "Ao analisar um software de biodiversidade que você não utilizou antes, é necessário considerar como o adaptaria para os seus fins. Você encontrará abaixo uma lista com a qual poderá começar a sua avaliação. É inspirada nas “características de uma boa solução de banco de dados” do manual GBIF https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Iniciando um Projecto de Digitalização”^]:"
 
 #. type: delimited block *
-#: foundations.en.adoc:203
+#: foundations.en.adoc:209
 #, no-wrap
 msgid "*Price*: One of the most determining factors.\n"
 "Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.\n"
@@ -662,7 +657,7 @@ msgstr "*Preço*: Um dos fatores mais determinantes.\n"
 "Esteja ciente de outros custos além do preço da licença do software, tal como o hardware necessário para executá-lo, manutenção, actualização e o conhecimento para executá-lo.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:205
+#: foundations.en.adoc:211
 #, no-wrap
 msgid "*Functionality*: You need to have clarity on what do you expect the software to achieve, and make sure it does it efficiently.\n"
 "Do not get distracted by additional functionality that can make the software more complex unnecessarily.\n"
@@ -670,7 +665,7 @@ msgstr "*Funcionalidade*: Você precisa ter clareza sobre o que espera que o sof
 "Não se distraia com funcionalidades adicionais que podem tornar o software mais complexo desnecessariamente.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:207
+#: foundations.en.adoc:213
 #, no-wrap
 msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
 "It will also make more likely to be updated and ported to more modern operating systems.\n"
@@ -678,7 +673,7 @@ msgstr "*Estabilidade*: Algumas soluções estão há muito tempo no mercado e s
 "Isto também tornará mais provável que seja actualizado e portabilizado para sistemas operacionais mais modernos.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:209
+#: foundations.en.adoc:215
 #, no-wrap
 msgid "*Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.\n"
 "Check the opinions of other users online.\n"
@@ -686,7 +681,7 @@ msgstr "*Escalabilidade*: Alguns softwares tem boa performance quando trabalham 
 "Verifique as opiniões de outros utilizadores on-line.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:211
+#: foundations.en.adoc:217
 #, no-wrap
 msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
 "Data transformation is a time consuming task.\n"
@@ -694,13 +689,13 @@ msgstr "*Integração*: Certifique-se de que o software aceita e produz os forma
 "Transformação de dados é uma tarefa demorada.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:212
+#: foundations.en.adoc:218
 #, no-wrap
 msgid "*Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.\n"
 msgstr "*Suporte a idioma*: É essencial que todos que usam o software possam compreender a sua interface, e a documentação que tornará possível o seu uso.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:214
+#: foundations.en.adoc:220
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
@@ -708,137 +703,414 @@ msgstr "*Documentação e suporte técnico*: Certifique-se de explorar a documen
 "Você pode ter certeza que em algum momento vai precisar.\n"
 
 #. type: delimited block *
-#: foundations.en.adoc:215
+#: foundations.en.adoc:221
 #, no-wrap
 msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learned while using them, supported by in-line help systems.\n"
 msgstr "*Curva de aprendizagem*: Alguns softwares podem necessitar de treinamento específico para aprender a usá-los, enquanto outros são mais intuitivos e podem ser aprendidos enquanto os usam, apoiados por sistemas de ajuda in-line.\n"
 
 #. type: Title ===
-#: foundations.en.adoc:216
+#: foundations.en.adoc:222
 #, no-wrap
 msgid "Install OpenRefine"
 msgstr "Instalar OpenRefine"
 
 #. type: delimited block *
-#: foundations.en.adoc:219
+#: foundations.en.adoc:225
 msgid "Install software required for activities later in the course"
 msgstr "Instalar software necessário para actividades mais tarde no curso"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
-#: foundations.en.adoc:220
+#: foundations.en.adoc:226
 #, no-wrap
 msgid "Open Refine Logo"
 msgstr "OpenRefine Logo"
 
 #. type: Target for macro image
-#: foundations.en.adoc:220
+#: foundations.en.adoc:226
 #, no-wrap
 msgid "img/logos/open-refine-logo.png"
 msgstr "img/logos/open-refine-logo.png"
 
 #. type: delimited block *
-#: foundations.en.adoc:225
+#: foundations.en.adoc:231
 msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
 msgstr "https://openrefine.org/[OpenRefine^] é uma ferramenta com um conjunto de recursos para trabalhar com dados tabulares que melhora a qualidade geral de um conjunto de dados. É uma aplicação que é executada no seu próprio computador, como um pequeno servidor web, e para usá-lo seu navegador web deve apontar para esse servidor web. Portanto, pense no OpenRefine como uma aplicação web pessoal e privada."
 
 #. type: delimited block *
-#: foundations.en.adoc:230
+#: foundations.en.adoc:236
 msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
 msgstr "Utilizaremos o OpenRefine durante a parte de mobilização de dados do curso, especialmente durante os exercícios práticos. Será necessário instalar o OpenRefine no seu portátil. Se é um utilizador qualificado de computador, pode seguir estas etapas para instalar o software no seu computador. Se não é confiante, por favor peça ajuda. Consulte https://openrefine.org/download.html[OpenRefine download page^] para obter mais detalhes."
 
 #. type: delimited block *
-#: foundations.en.adoc:232
+#: foundations.en.adoc:238
 msgid "Administrative passwords may be required to install software."
 msgstr "Palavras-passe administrativas podem ser necessárias para instalar o software."
 
 #. type: Title ====
-#: foundations.en.adoc:233
+#: foundations.en.adoc:239
 #, no-wrap
 msgid "Installation Requirements"
 msgstr "Requisitos de Instalação"
 
 #. type: delimited block *
-#: foundations.en.adoc:236
-msgid "Java JRE installed."
-msgstr "Java JRE instalado."
+#: foundations.en.adoc:242
+msgid "Linux users only: Java JRE installed."
+msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:237
-msgid "Google Chrome or Mozilla Firefox installed, avoid using Internet Explorer."
-msgstr "Google Chrome ou Mozilla Firefox instalados, evite usar o Internet Explorer."
+#: foundations.en.adoc:243
+msgid "Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet Explorer is not supported."
+msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:239
+#: foundations.en.adoc:245
 msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
 msgstr "A última versão estável é o OpenRefine 3.4.1, lançado em 24 de setembro de 2020. Instruções detalhadas de instalação estão disponíveis em https://docs.openrefine.org/manual/installing/[^]."
 
 #. type: Title ====
-#: foundations.en.adoc:240
+#: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on MS Windows"
 msgstr "Instalação no MS Windows"
 
-#. type: delimited block *
-#: foundations.en.adoc:243
-msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[Windows kit] or https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit with embedded Java]."
-msgstr "Descarregue o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-3.4.1.zip[kit do Windows] ou https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[kit do Windows com Java embutido]."
+#. type: delimited block =
+#: foundations.en.adoc:249 foundations.en.adoc:262
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
+msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:244
-msgid "Unzip, and double-click on openrefine.exe or refine.bat if the former does not work.."
-msgstr "Descomprima e faça duplo clique no openrefine.exe ou refine.bat se o primeiro não funcionar."
+#: foundations.en.adoc:250
+msgid "Find the downloaded file.  Right click it, and choose \"Extract all…\". Unzip, and double-click on openrefine.exe or refine.bat if the former does not work."
+msgstr ""
 
 #. type: delimited block *
-#: foundations.en.adoc:245
-msgid "A command window will appear (don't close it) and immediately after a new web browser window will show the application."
-msgstr "Uma janela de comando aparecerá (não feche-a) e imediatamente após uma nova janela do navegador web irá mostrar a aplicação."
+#: foundations.en.adoc:251
+msgid "A command window will appear (don't close it) and soon after a new web browser window will show the application."
+msgstr ""
+
+#. type: Block title
+#: foundations.en.adoc:252
+#, no-wrap
+msgid "Detailed instructions for MS Windows (click to expand)"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:256 foundations.en.adoc:265 foundations.en.adoc:274
+#: foundations.en.adoc:283 foundations.en.adoc:292 foundations.en.adoc:312
+#: foundations.en.adoc:321 foundations.en.adoc:330 foundations.en.adoc:339
+#: foundations.en.adoc:348 foundations.en.adoc:357 foundations.en.adoc:366
+#: foundations.en.adoc:375 foundations.en.adoc:384 foundations.en.adoc:393
+#: foundations.en.adoc:404 foundations.en.adoc:426 foundations.en.adoc:435
+#: foundations.en.adoc:444 foundations.en.adoc:453 foundations.en.adoc:462
+#: foundations.en.adoc:471
+msgid "{blank}"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:260
+#, no-wrap
+msgid "img/web/install-openrefine/win1-save-download.png"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:269
+#, no-wrap
+msgid "img/web/install-openrefine/win2-extract-all.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:271
+msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:278
+#, no-wrap
+msgid "img/web/install-openrefine/win3-extract-location.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:280
+msgid "Click \"Extract\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:287
+#, no-wrap
+msgid "img/web/install-openrefine/win4-create-shortcut.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:289
+msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:296
+#, no-wrap
+msgid "img/web/install-openrefine/win5-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:298
+msgid "A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use."
+msgstr ""
 
 #. type: Title ====
-#: foundations.en.adoc:246
+#: foundations.en.adoc:301
 #, no-wrap
 msgid "Installation on Mac"
 msgstr "Instalação no Mac"
 
-#. type: delimited block *
-#: foundations.en.adoc:249
-msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit.]"
-msgstr "Descarregue o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit.]"
+#. type: Plain text
+#: foundations.en.adoc:304
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
+msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:251
+#. type: Plain text
+#: foundations.en.adoc:306
 msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
 msgstr "Descarregue, abra, arraste o ícone para a pasta Aplicações. Não precisa instalar o Java separadamente."
 
-#. type: delimited block *
-#: foundations.en.adoc:252
+#. type: Plain text
+#: foundations.en.adoc:307
 msgid "Double click on it and a new web browser window will show the application."
 msgstr "Clique duas vezes nele e uma nova janela do navegador da Web exibirá a aplicação."
 
+#. type: Block title
+#: foundations.en.adoc:308
+#, no-wrap
+msgid "Detailed instructions for Mac (click to expand)"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:316
+#, no-wrap
+msgid "img/web/install-openrefine/mac01-download-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:318
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:325
+#, no-wrap
+msgid "img/web/install-openrefine/mac02-unidentified-developer.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:327
+msgid "A warning is shown. Click \"OK\"."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:334
+#, no-wrap
+msgid "img/web/install-openrefine/mac03-system-preferences.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:336
+msgid "Open System Preferences."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:343
+#, no-wrap
+msgid "img/web/install-openrefine/mac04-security-and-privacy.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:345
+msgid "Open Security & Privacy"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:352
+#, no-wrap
+msgid "img/web/install-openrefine/mac05-open-anyway.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:354
+msgid "Choose \"Open Anyway\" at the bottom."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:361
+#, no-wrap
+msgid "img/web/install-openrefine/mac06-yes-really-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:363
+msgid "Choose \"Open\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:370
+#, no-wrap
+msgid "img/web/install-openrefine/mac07-copy-to-applications.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:372
+msgid "Finally, the application archive is opened! Drag it to your Applications folder."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:379
+#, no-wrap
+msgid "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:381
+msgid "Double-click the OpenRefine icon.  Another security warning appears!"
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:388
+#, no-wrap
+msgid "img/web/install-openrefine/mac09-not-the-user.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:390
+msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:397
+#, no-wrap
+msgid "img/web/install-openrefine/mac10-use-linux-instead.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:399
+msgid "(To avoid these warnings, the OpenRefine developers would need to pay Apple.)"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:401
+msgid "Click \"Open\"."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:408
+#, no-wrap
+msgid "img/web/install-openrefine/mac11-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:410
+msgid "Finally! The application is running."
+msgstr ""
+
 #. type: Title ====
-#: foundations.en.adoc:253
+#: foundations.en.adoc:414
 #, no-wrap
 msgid "Installation on Linux"
 msgstr "Instalação no Linux"
 
-#. type: delimited block *
-#: foundations.en.adoc:256
-msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit.]"
-msgstr "Descarregue o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit.]"
+#. type: Plain text
+#: foundations.en.adoc:417
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
+msgstr ""
 
-#. type: delimited block *
-#: foundations.en.adoc:258
+#. type: Plain text
+#: foundations.en.adoc:419
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
 msgstr "Descarregue, extraia, em seguida digite ./refine para iniciar. Este requer que o Java esteja instalado no seu computador."
 
+#. type: Block title
+#: foundations.en.adoc:420
+#, no-wrap
+msgid "Detailed instructions for Linux (click to expand)"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:424
+msgid "These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is similar for Gnome (e.g. Ubuntu, Red Hat, CentOS)."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:430
+#, no-wrap
+msgid "img/web/install-openrefine/kde1-download-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:432
+msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].  Open it."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:439
+#, no-wrap
+msgid "img/web/install-openrefine/kde2-extract.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:441
+msgid "Click \"Extract\" to unpack the downloaded application."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:448
+#, no-wrap
+msgid "img/web/install-openrefine/kde3-extract-all.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:450
+msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:457
+#, no-wrap
+msgid "img/web/install-openrefine/kde4-open.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:459
+msgid "Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you can safely exit OpenRefine later, by closing the Konsole window."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:466
+#, no-wrap
+msgid "img/web/install-openrefine/kde5-execute.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:468
+msgid "Confirm that you wish to execute the downloaded application."
+msgstr ""
+
+#. type: Target for macro image
+#: foundations.en.adoc:475
+#, no-wrap
+msgid "img/web/install-openrefine/kde6-run.png"
+msgstr ""
+
+#. type: delimited block =
+#: foundations.en.adoc:477
+msgid "OpenRefine is now running."
+msgstr ""
+
 #. type: Title ===
-#: foundations.en.adoc:259
+#: foundations.en.adoc:481
 #, no-wrap
 msgid "Foundations review"
 msgstr "Revisão dos fundamentos"
 
 #. type: Plain text
-#: foundations.en.adoc:262 planning.en.adoc:130 capture.en.adoc:60
-#: management.en.adoc:147 publishing.en.adoc:58
+#: foundations.en.adoc:484 planning.en.adoc:132 capture.en.adoc:63
+#: management.en.adoc:150 publishing.en.adoc:61
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr "Faça um \"quiz\" sobre os conceitos aprendidos nesta secção."
 
@@ -846,13 +1118,13 @@ msgstr "Faça um \"quiz\" sobre os conceitos aprendidos nesta secção."
 #.  (. What…) is required, so I have added // comments to help separate them.
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
-#. type: Plain text
-#: foundations.en.adoc:270
+#. type: delimited block *
+#: foundations.en.adoc:492
 msgid "For the given statement, input the correct term (database, database language, database program)"
 msgstr "Para a afirmação fornecida, insira o termo correto (banco de dados, língua da base de dados, programa da base de dados)"
 
 #. type: delimited block .
-#: foundations.en.adoc:279
+#: foundations.en.adoc:501
 #, no-wrap
 msgid "* combines and presents functions and features for manipulating data, together in a unified interface +\n"
 "  __database program__\n"
@@ -869,17 +1141,17 @@ msgstr "* Combina e apresenta funções e recursos para manipular dados, em conj
 
 #.  Question 2
 #. type: Plain text
-#: foundations.en.adoc:282
+#: foundations.en.adoc:504
 msgid "If you open a data file and see the following, what would you suspect is the issue? +"
 msgstr "Se você abrir um ficheiro de dados e ver o seguinte, de qual problema suspeitaria? +"
 
 #. type: Plain text
-#: foundations.en.adoc:284 solutions.en.adoc:21
+#: foundations.en.adoc:506 solutions.en.adoc:21
 msgid "`�tre, ou ne pas �tre, c�est l� la question.`"
 msgstr "`�tre, ou ne pas �tre, c�est l� la question.`"
 
 #. type: delimited block .
-#: foundations.en.adoc:291
+#: foundations.en.adoc:513
 #, no-wrap
 msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
@@ -892,12 +1164,12 @@ msgstr "- [ ] Nenhuma das opções\n"
 
 #.  Question 3
 #. type: Plain text
-#: foundations.en.adoc:294
+#: foundations.en.adoc:516
 msgid "For the given software, input the type of software (data capture, data management, data cleaning, data publishing)."
 msgstr "Para o software fornecido, insira o tipo de software (captura de dados, gestão de dados, limpeza de dados, publicação de dados)."
 
 #. type: delimited block .
-#: foundations.en.adoc:305
+#: foundations.en.adoc:527
 #, no-wrap
 msgid "* Integrated Publishing Toolkit (IPT) +\n"
 "  __data publishing__\n"
@@ -918,12 +1190,12 @@ msgstr "* Integrado Publishing Toolkit (IPT) +\n"
 
 #.  Question 4
 #. type: Plain text
-#: foundations.en.adoc:308
+#: foundations.en.adoc:530
 msgid "For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)"
 msgstr "Para o exemplo dado, insira o tipo de dados correcto (binário, booleano, float, inteiro, inteiro longo, texto, texto não estruturado)"
 
 #. type: delimited block .
-#: foundations.en.adoc:325
+#: foundations.en.adoc:547
 #, no-wrap
 msgid "* 1236975 +\n"
 "  __long integer__\n"
@@ -956,12 +1228,12 @@ msgstr "* 1236975 +\n"
 
 #.  Question 5
 #. type: Plain text
-#: foundations.en.adoc:328
+#: foundations.en.adoc:550
 msgid "Which of these terms describes a \"field/column name\"?"
 msgstr "Qual destes termos descreve um nome de \"campo/coluna\"?"
 
 #. type: delimited block .
-#: foundations.en.adoc:337
+#: foundations.en.adoc:559
 #, no-wrap
 msgid "- [x] Assigned\n"
 "- [ ] Descriptive\n"
@@ -978,12 +1250,12 @@ msgstr "- [x] Atribuído\n"
 
 #.  Question 6
 #. type: Plain text
-#: foundations.en.adoc:340
+#: foundations.en.adoc:562
 msgid "Which of these terms describes a \"field label\"?"
 msgstr "Quais destes termos descreve uma \"etiqueta de campo\"?"
 
 #. type: delimited block .
-#: foundations.en.adoc:349
+#: foundations.en.adoc:571
 #, no-wrap
 msgid "- [ ] Assigned\n"
 "- [x] Descriptive\n"
@@ -1000,12 +1272,12 @@ msgstr "- [x] Atribuído\n"
 
 #.  Question 7
 #. type: Plain text
-#: foundations.en.adoc:352
+#: foundations.en.adoc:574
 msgid "For each statement, input the correct structure (row, column, table)"
 msgstr "Para cada afirmação, insira a estrutura correta (linha, coluna, tabela)"
 
 #. type: delimited block .
-#: foundations.en.adoc:361
+#: foundations.en.adoc:583
 #, no-wrap
 msgid "* All data refers to a SINGLE concept. +\n"
 "  __table__\n"
@@ -1022,12 +1294,12 @@ msgstr "* Todos os dados se referem a um conceito SINGLE. +\n"
 
 #.  Question 8
 #. type: Plain text
-#: foundations.en.adoc:364
+#: foundations.en.adoc:586
 msgid "Who determines the fitness for use of your data?"
 msgstr "Quem determina a aptidão para o uso de seus dados?"
 
 #. type: delimited block .
-#: foundations.en.adoc:371
+#: foundations.en.adoc:593
 #, no-wrap
 msgid "- [ ] The museum or department director\n"
 "- [x] The users of the data for research or education\n"
@@ -1040,12 +1312,12 @@ msgstr "- [ ] O director do museu ou do departamento\n"
 
 #.  Question 9
 #. type: Plain text
-#: foundations.en.adoc:375
+#: foundations.en.adoc:597
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 msgstr "Para as afirmações fornecidas, insira a imagem correspondente. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 
 #. type: delimited block .
-#: foundations.en.adoc:386
+#: foundations.en.adoc:608
 #, no-wrap
 msgid "* High accuracy, low precision +\n"
 "  __C__\n"
@@ -1066,12 +1338,12 @@ msgstr "* Alta exatidão, baixa precisão +\n"
 
 #.  Question 10
 #. type: Plain text
-#: foundations.en.adoc:389
+#: foundations.en.adoc:611
 msgid "Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are used."
 msgstr "Identifique as relações de dados em que o Dataset B precisa ser mesclado ao conjunto de dados A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Nem todas as relações são utilizadas."
 
 #. type: delimited block .
-#: foundations.en.adoc:404
+#: foundations.en.adoc:626
 #, no-wrap
 msgid "* Collector field exists in both dataset A and B +\n"
 "  __1:1__\n"
@@ -1100,12 +1372,12 @@ msgstr "* O campo de coletor de dados existe em ambos os conjuntos de dados A e 
 
 #.  Question 11
 #. type: Plain text
-#: foundations.en.adoc:407
+#: foundations.en.adoc:629
 msgid "Metadata is important because (select the TRUE statements):"
 msgstr "Metadados são importantes porque (selecione as declarações VERDADEIRAS):"
 
 #. type: delimited block .
-#: foundations.en.adoc:415
+#: foundations.en.adoc:637
 #, no-wrap
 msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [ ] it allows you to share exact coordinates for each occurrence.\n"
@@ -1289,295 +1561,295 @@ msgid "In this video (15:09), you will learn how to define the elements that wil
 msgstr "Neste vídeo (15:09), você aprenderá como definir os elementos que terão impacto em um projecto e analisará as interações entre os elementos. Se não conseguir assistir o vídeo incorporado, pode utilizar o link:../videos/Planning_Resourcing.mp4[download^,opts=download] localmente. (MP4 - 25.1 MB)"
 
 #. type: Title ===
-#: planning.en.adoc:15
+#: planning.en.adoc:16
 #, no-wrap
 msgid "Organizing"
 msgstr "Organizador"
 
 #. type: Plain text
-#: planning.en.adoc:19
+#: planning.en.adoc:20
 msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
 msgstr "Este vídeo (15:52) concentra-se em tarefas e nas formas como elas podem ser organizadas a fim de preparar planos de trabalho práticos e documentação clara. Se não puder assistir o vídeo embutido, utilize o link:../videos/Planning_Organizing.mp4[download^,opts=download] localmente. (MP4 - 26,2 MB)"
 
 #. type: Title ===
-#: planning.en.adoc:22
+#: planning.en.adoc:24
 #, no-wrap
 msgid "Exercise 1a-c"
 msgstr "Exercício 1a-c"
 
 #. type: Plain text
-#: planning.en.adoc:26
+#: planning.en.adoc:28
 msgid "For this activity, you will be using a virtual tabletop platform.  Review the exercise instructions below."
 msgstr "Para esta actividade, você usará uma plataforma de tabletop virtual. Confira as instruções do exercício abaixo."
 
 #. type: Plain text
-#: planning.en.adoc:28
+#: planning.en.adoc:30
 #, no-wrap
 msgid "*References*\n"
 msgstr "*Referências*\n"
 
 #. type: Plain text
-#: planning.en.adoc:30
+#: planning.en.adoc:32
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role definitions^]"
 msgstr "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Definição de papeis^]"
 
 #. type: Plain text
-#: planning.en.adoc:31
+#: planning.en.adoc:33
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage definitions^]"
 msgstr "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Definições de estágios^]"
 
 #. type: Plain text
-#: planning.en.adoc:33
+#: planning.en.adoc:35
 msgid "To help you to work through the planning exercises for all use cases, we have made available five virtual playing card tables."
 msgstr "Para ajudá-lo a trabalhar nos exercícios de planeamento para todos os casos, disponibilizamos cinco mesas virtuais de cartas de jogos."
 
 #. type: Plain text
-#: planning.en.adoc:35
+#: planning.en.adoc:37
 msgid "Because these are shared spaces, we ask that you follow these rules so that everyone who wants to use them can:"
 msgstr "Porque estes são espaços partilhados, nós pedimos que siga essas regras para que todos que queiram utilizá-las possam:"
 
 #. type: Plain text
-#: planning.en.adoc:40
+#: planning.en.adoc:42
 msgid "Clean up after yourself.  If you use a card table, please be sure to return it to it's clean and original state when you are done.  This means putting all of the cards away and removing/deleting any new cards that you have added to the deck.  You can do this by clicking the recall buttons below each deck of cards."
 msgstr "Limpar quando terminar. Se você utilizar uma tabela de cartão, certifique-se de devolvê-la para seu estado limpo e original quando terminar. Isso significa deitar todas as cartas fora e remover/excluir quaisquer novas cartas que tenha adicionado ao baralho. Pode fazer isso clicando nos botões de retorno abaixo de cada baralho de cartas."
 
 #. type: Plain text
-#: planning.en.adoc:43
+#: planning.en.adoc:45
 msgid "If it's busy, try another table.  If you see that a card table is in use, please use one of the other card table links.  If you are unable to find an empty card table, alert us at training@gbif.org so that we can check the tables to be sure that any tables were not left unattended (or if we need to create an additional table for you)."
 msgstr "Se estiver ocupada, tente outra mesa. Caso veja que uma mesa de cartas está em uso, utilize um dos outros links de mesas de cartas. Se não for possível encontrar uma vazia, avise-nos em training@gbif.org para que possamos verificar as mesas para ter certeza de que quaisquer mesas não foram deixadas sem participação (ou se precisarmos criar uma mesa adicional para você)."
 
 #. type: Plain text
-#: planning.en.adoc:47
+#: planning.en.adoc:49
 msgid "Don't leave a table unattended.  Please do not leave your work on a table sitting out for long periods of time.  If you need to step away for an hour or two, that is acceptable, but please do not leave the cards unattended for more than 4 hours.  If you need to leave your set up for an extended period of time, please use the eLearning platform to notify the group and trainers which link you are using, why you need to leave your cards, and when you will return to complete your work."
 msgstr "Não deixe uma mesa sem vigilância. Por favor, não deixe seu trabalho em uma mesa por longos períodos de tempo. Se tiver de se afastar durante uma ou duas horas, isso é aceitável, mas por favor não deixe as cartas sem vigilância por mais de 4 horas. Se precisar sair da sua configuração por um longo período de tempo, por favor use a plataforma eLearning para notificar o grupo e os treinadores do link que está usando, por que você precisa deixar suas cartas e quando voltará para concluir seu trabalho."
 
 #. type: Plain text
-#: planning.en.adoc:51
+#: planning.en.adoc:53
 msgid "Take screen captures often.  We cannot guarantee that your cards will not be reset accidentally by someone from the workshop or by someone from your own project.  You cannot reset the cards once they have been recalled and reset.  If you want to submit a screenshot with your exercise please do."
 msgstr "Tire capturas de tela com frequência. Não podemos garantir que as cartas não serão redefinidas acidentalmente por alguém do workshop ou por alguém do seu próprio projecto. Você não pode redefinir as cartas uma vez que elas tenham sido redefinidas. Se quiser enviar uma captura de tela com seu exercício, por favor faça."
 
 #. type: Plain text
-#: planning.en.adoc:53
+#: planning.en.adoc:55
 msgid "The trainers reserve the right to reset the card tables.  If we observe that one or more tables contain cards that have not been put away and have not been used for more than four hours without any notifications in the Forum on the eLearning platform, we will clear and reset the table for others to use."
 msgstr "Os treinadores reservam-se o direito de redefinir as mesas de cartas. Se observarmos que uma ou mais mesas contém cartas que não foram guardadas e que não foram utilizados por mais de quatro horas sem quaisquer notificações no Fórum da plataforma eLearning, vamos limpar e redefinir a mesa para outros usarem."
 
 #. type: Plain text
-#: planning.en.adoc:55
+#: planning.en.adoc:57
 msgid "Gameroom links (each table will open in a new window/tab):"
 msgstr "Links para Sala de Jogos (cada mesa será aberta em uma nova janela/aba):"
 
 #. type: Plain text
-#: planning.en.adoc:57
+#: planning.en.adoc:59
 msgid "RED: https://playingcards.io/vbtkgd[^]"
 msgstr "VERMELHA: https://playingcards.io/vbtkgd[^]"
 
 #. type: Plain text
-#: planning.en.adoc:59
+#: planning.en.adoc:61
 msgid "GREEN: https://playingcards.io/m53by6[^]"
 msgstr "VERDE: https://playingcards.io/m53by6[^]"
 
 #. type: Plain text
-#: planning.en.adoc:61
+#: planning.en.adoc:63
 msgid "YELLOW: https://playingcards.io/kpen5h[^]"
 msgstr "AMARELA: https://playingcards.io/kpen5h[^]"
 
 #. type: Plain text
-#: planning.en.adoc:63
+#: planning.en.adoc:65
 msgid "BLUE: https://playingcards.io/8dwg98[^]"
 msgstr "AZUL: https://playingcards.io/8dwg98[^]"
 
 #. type: Plain text
-#: planning.en.adoc:65
+#: planning.en.adoc:67
 msgid "PURPLE: https://playingcards.io/fah8an[^]"
 msgstr "ROXA: https://playingcards.io/fah8an[^]"
 
 #. type: Plain text
-#: planning.en.adoc:67
+#: planning.en.adoc:69
 msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
 msgstr "Muito apreço e agradecimento à Jwalant Patel e a Eric Ma por terem encontrado e ajudado a criar as mesas de jogos on-line para este exercício e à Kate Webbink pela competência artística. A plataforma online é fornecida por https://playingcards.io/."
 
 #. type: Title ====
-#: planning.en.adoc:68 use-case-invasive-species.en.adoc:72
+#: planning.en.adoc:70 use-case-invasive-species.en.adoc:72
 #: use-case-lepidoptera-sampling.en.adoc:84
 #, no-wrap
 msgid "Exercise 1a"
 msgstr "Exercício 1a"
 
 #. type: Plain text
-#: planning.en.adoc:70 capture.en.adoc:44 management.en.adoc:26
-#: publishing.en.adoc:43
+#: planning.en.adoc:72 capture.en.adoc:47 management.en.adoc:28
+#: publishing.en.adoc:46
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
 msgstr "Leia <<scenario,USE CASE I>> (se ainda não tiver lido)."
 
 #. type: Plain text
-#: planning.en.adoc:74
+#: planning.en.adoc:76
 msgid "Using the cards select the goals that mostly closely match those the project outlines and then choose the tasks that would need to be carried out to complete them.  Next, identify the people/resources that the project has available to it and assign role cards to them as appropriate.  Lastly, assign these to their stakeholder groups and affiliations."
 msgstr "Utilize os cartões e selecione os objectivos que mais se assemelham aos esboços do projecto e em seguida, escolha as tarefas que precisariam ser executadas para os completar. Depois, identifique as pessoas/recursos que o projecto tem disponível e atribua cartas para elas conforme apropriado. Por último, atribua-os aos stakeholders e afiliações."
 
 #. type: Plain text
-#: planning.en.adoc:76
+#: planning.en.adoc:78
 msgid "Review the GOALS cards with the group, select and lay out the ones that fit the use case."
 msgstr "Revise as cartas GOALS com o grupo, selecione e exponha os que atendem ao caso de uso."
 
 #. type: Plain text
-#: planning.en.adoc:77
+#: planning.en.adoc:79
 msgid "Review the TASK cards with the group."
 msgstr "Revise as cartas de TAREFA com o grupo."
 
 #. type: Plain text
-#: planning.en.adoc:78
+#: planning.en.adoc:80
 msgid "Assign the TASK cards to each of the GOAL cards selected from the use case description."
 msgstr "Atribua as cartas de TAREFA a cada uma das cartas GOAL selecionados a partir da descrição do caso."
 
 #. type: Plain text
-#: planning.en.adoc:79
+#: planning.en.adoc:81
 msgid "Identify the institutions and people mentioned in the use case text and make note of them."
 msgstr "Identifique as instituições e as pessoas mencionadas no texto de caso e tome nota das mesmas."
 
 #. type: Plain text
-#: planning.en.adoc:80
+#: planning.en.adoc:82
 msgid "Lay out the AFFILIATIONS cards on the table."
 msgstr "Exponha as cartas de AFFILIATIONS na mesa."
 
 #. type: Plain text
-#: planning.en.adoc:81
+#: planning.en.adoc:83
 msgid "Review the STAKEHOLDER cards, identify any mentioned in the use case and then decide which AFFILIATION they belong to."
 msgstr "Revise as cartas STAKEHOLDER, identifique qualquer mencionado no caso de uso e depois decida a que AFFILIATION pertencem."
 
 #. type: Plain text
-#: planning.en.adoc:82
+#: planning.en.adoc:84
 msgid "Review the ROLE cards, identify any mentioned in the use case and decide which STAKEHOLDER group they belong to."
 msgstr "Revise as cartas ROLE, identifique qualquer uma mencionada no caso de uso e decida a que grupo STAKEHOLDER pertencem."
 
 #. type: Plain text
-#: planning.en.adoc:83
+#: planning.en.adoc:85
 msgid "Make notes to cards as appropriate."
 msgstr "Crie notas as cartas, conforme apropriado."
 
 #. type: Plain text
-#: planning.en.adoc:84
+#: planning.en.adoc:86
 msgid "Once the cards are assigned take pictures/screenshots."
 msgstr "Uma vez que as cartas estejam atribuídas, tire fotos/capturas de tela."
 
 #. type: Plain text
-#: planning.en.adoc:85
+#: planning.en.adoc:87
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
 msgstr "Use o <<exercise-sheet,exercise sheet>> para escrever as suas respostas."
 
 #. type: delimited block *
-#: planning.en.adoc:88
+#: planning.en.adoc:90
 #, no-wrap
 msgid "*Question*\n"
 msgstr "*Questão*\n"
 
 #. type: delimited block *
-#: planning.en.adoc:90
+#: planning.en.adoc:92
 msgid "Are there resources or goals missing from the cards that you feel are critical to the successful completion of the project? Note these on the answer sheet."
 msgstr "Há recursos ou objectivos faltando nas cartas que você considera essenciais para a conclusão bem sucedida do projecto? Aponte-os na folha de resposta."
 
 #. type: Title ====
-#: planning.en.adoc:92 use-case-invasive-species.en.adoc:91
+#: planning.en.adoc:94 use-case-invasive-species.en.adoc:91
 #: use-case-lepidoptera-sampling.en.adoc:103
 #, no-wrap
 msgid "Exercise 1b"
 msgstr "Exercício 1b"
 
 #. type: Plain text
-#: planning.en.adoc:95
+#: planning.en.adoc:97
 msgid "Using the stakeholder and goal analysis from exercise 1a, develop a workflow using the STAGE cards."
 msgstr "Utilize a análise de stakeholders e goals do exercício 1a e desenvolva um fluxo de trabalho usando as cartas STAGE."
 
 #. type: Plain text
-#: planning.en.adoc:97
+#: planning.en.adoc:99
 msgid "Re-read the use case introduction, if necessary."
 msgstr "Re-leia a introdução do caso de uso, se necessário."
 
 #. type: Plain text
-#: planning.en.adoc:98
+#: planning.en.adoc:100
 msgid "Decide which TASKS for which each ROLE will be responsible."
 msgstr "Decida quais TASKS pelas quais cada ROLE será responsável."
 
 #. type: Plain text
-#: planning.en.adoc:99
+#: planning.en.adoc:101
 msgid "Review the STAGE cards and order the TASKS appropriately."
 msgstr "REveja os cartões STAGE e ordene as TASKS de modo apropriado."
 
 #. type: Plain text
-#: planning.en.adoc:100 capture.en.adoc:53 management.en.adoc:42
-#: management.en.adoc:68 management.en.adoc:84 publishing.en.adoc:53
+#: planning.en.adoc:102 capture.en.adoc:56 management.en.adoc:44
+#: management.en.adoc:70 management.en.adoc:87 publishing.en.adoc:56
 msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr "Use a folha de exercício descarregada anteriormente para fornecer as suas respostas."
 
 #. type: delimited block *
-#: planning.en.adoc:103
+#: planning.en.adoc:105
 #, no-wrap
 msgid "*Questions*   \n"
 msgstr "*Questões*   \n"
 
 #. type: delimited block *
-#: planning.en.adoc:106
+#: planning.en.adoc:108
 msgid "Are there obvious bottlenecks in the workflow? For example: Are there too many tasks for a particular role/resource?"
 msgstr "Há estrangulamentos óbvios no fluxo de trabalho? Por exemplo: há muitas tarefas para um determinado papel/recurso?"
 
 #. type: delimited block *
-#: planning.en.adoc:108
+#: planning.en.adoc:110
 msgid "What issues do you think would be important to the successful mobilization of data from the points of view of each stakeholder/role? For example: What are the deliverables? Thinking about the general project timeframe, are they realistic?"
 msgstr "Quais são as questões que considera importantes para o éxito da mobilização de dados, do ponto de vista de cada um dos papéis/partes interessadas? Por exemplo: o que são os resultados entregues? Pensando no calendário geral do projeto, elas são realistas?"
 
 #. type: delimited block *
-#: planning.en.adoc:109
+#: planning.en.adoc:111
 msgid "Consolidate notes and prioritize in order of importance."
 msgstr "Consolidar notas e priorizar por ordem de importância."
 
 #. type: delimited block *
-#: planning.en.adoc:110
+#: planning.en.adoc:112
 msgid "If you have time you can explore different combinations as different scenarios are possible in different contexts or even try to document the situation for your own project."
 msgstr "Se tiver tempo, pode explorar diferentes combinações, já que diferentes cenários são possíveis em diferentes contextos, ou até mesmo tentar documentar a situação para o seu próprio projeto."
 
 #. type: Title ====
-#: planning.en.adoc:112
+#: planning.en.adoc:114
 #, no-wrap
 msgid "Exercise 1c"
 msgstr "Exercício 1c"
 
 #. type: Plain text
-#: planning.en.adoc:115
+#: planning.en.adoc:117
 msgid "This exercise should be used when the course is taught virtually or onsite as a group activity."
 msgstr "Este exercício deve ser utilizado quando o curso for ensinado virtualmente ou presencial, como uma atividade em grupo."
 
 #. type: Plain text
-#: planning.en.adoc:117
+#: planning.en.adoc:119
 msgid "After the exercises the presenter of each group will:"
 msgstr "Depois dos exercícios o relator de cada grupo irá:"
 
 #. type: Plain text
-#: planning.en.adoc:119
+#: planning.en.adoc:121
 msgid "Present any missing stakeholders and/or tasks saying why they were added."
 msgstr "Apresentar as partes interessadas e/ou tarefas em falta, e explicar as razões pelas quais foram adicionadas."
 
 #. type: Plain text
-#: planning.en.adoc:120
+#: planning.en.adoc:122
 msgid "Highlight the two most critical issues/topics that the group has identified."
 msgstr "Destacar as duas questões/tópicos mais críticas que o grupo identificou."
 
 #. type: Plain text
-#: planning.en.adoc:122
+#: planning.en.adoc:124
 msgid "Potential discussion points across groups:"
 msgstr "Pontos de discussão potenciais entre grupos:"
 
 #. type: Plain text
-#: planning.en.adoc:124
+#: planning.en.adoc:126
 msgid "What similarities and differences can be seen in the flows?"
 msgstr "Que semelhanças e diferenças se podem ver nos fluxos?"
 
 #. type: Plain text
-#: planning.en.adoc:125
+#: planning.en.adoc:127
 msgid "Were there common issues that came up across the groups?"
 msgstr "Houve questões comuns que surgiram entre os grupos?"
 
 #. type: Title ===
-#: planning.en.adoc:126 capture.en.adoc:56 management.en.adoc:143
-#: publishing.en.adoc:54
+#: planning.en.adoc:128 capture.en.adoc:59 management.en.adoc:146
+#: publishing.en.adoc:57
 #, no-wrap
 msgid "Review"
 msgstr "Revisão"
@@ -1587,12 +1859,12 @@ msgstr "Revisão"
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: planning.en.adoc:138
+#: planning.en.adoc:140
 msgid "What is the order of the five PMBoK Process Groupings?"
 msgstr "Qual é a ordem dos cinco agrupamentos do Processo PMBoK?"
 
 #. type: delimited block .
-#: planning.en.adoc:146
+#: planning.en.adoc:148
 #, no-wrap
 msgid "- [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closing\n"
 "- [x] Initiating, Planning, Executing, Monitoring and Controlling, Closing\n"
@@ -1605,12 +1877,12 @@ msgstr "- [ ] Planeamento, Inicialização, Acompanhamento e Controle, Execuçã
 
 #.  Question 2
 #. type: Plain text
-#: planning.en.adoc:149
+#: planning.en.adoc:151
 msgid "What are the types of deliverables? (multiple correct answers)"
 msgstr "Quais são os tipos de resultados a entregar? (múltiplas respostas corretas)"
 
 #. type: delimited block .
-#: planning.en.adoc:158
+#: planning.en.adoc:160
 #, no-wrap
 msgid "- [x] Stated\n"
 "- [x] Implied\n"
@@ -1627,12 +1899,12 @@ msgstr "- [x] Declarado\n"
 
 #.  Question 3
 #. type: Plain text
-#: planning.en.adoc:161
+#: planning.en.adoc:163
 msgid "What is a bottleneck?"
 msgstr "O que é um estrangulamento?"
 
 #. type: delimited block .
-#: planning.en.adoc:167
+#: planning.en.adoc:169
 #, no-wrap
 msgid "- [x] a blockage that delays development or progress\n"
 "- [ ] a space where something or someone is missing\n"
@@ -1643,12 +1915,12 @@ msgstr "- [x] um bloqueio que atrasa o desenvolvimento ou progresso\n"
 
 #.  Question 4
 #. type: Plain text
-#: planning.en.adoc:170
+#: planning.en.adoc:172
 msgid "Which are examples of mobilization tasks? (multiple correct answers)"
 msgstr "Quais é que são exemplos de tarefas de mobilização? (múltiplas respostas corretas)"
 
 #. type: delimited block .
-#: planning.en.adoc:178
+#: planning.en.adoc:180
 #, no-wrap
 msgid "- [ ] Affiliation\n"
 "- [x] Publishing\n"
@@ -1678,50 +1950,50 @@ msgid "In this video (15:37), you will learn how you interact with standards eve
 msgstr "Neste vídeo (15:37), irá aprender como interagir com os padrões no dia-a-dia. Seguidamente, ser-lhe-ão apresentados os https://www.tdwg.org/[Padrões de Informações de Biodiversidade^], incluindo https://www.tdwg.org/standards/dwc/[Padrão Darwin Core^] que irá usar durante deste curso. Se não puder assistir ao vídeo integrado, poderá utilizar o link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] localmente. (MP4 - 27 MB)"
 
 #. type: Title ===
-#: capture.en.adoc:16
+#: capture.en.adoc:17
 #, no-wrap
 msgid "Data origins and types"
 msgstr "Tipos e origens de dados"
 
 #. type: Plain text
-#: capture.en.adoc:20
+#: capture.en.adoc:21
 msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
 msgstr "Neste vídeo (10:45), poderá rever https://www.gbif.org/dataset-classes[os dados primários de biodiversidade^] que podem ser partilhados através do GBIF. Se não conseguir ver o vídeo integrado, pode clicar link:../videos/data_origins_types.mp4[descarregar^,opts=download] e ver localmente. (MP4 - 19 MB)"
 
 #. type: delimited block *
-#: capture.en.adoc:25
+#: capture.en.adoc:27
 #, no-wrap
 msgid "*Questions*\n"
 msgstr "*Questões*   \n"
 
 #. type: delimited block *
-#: capture.en.adoc:27
+#: capture.en.adoc:29
 msgid "Is your data type different than you originally thought?"
 msgstr "O seus dados são de um tipo de dados diferente do que pensou originalmente?"
 
 #. type: delimited block *
-#: capture.en.adoc:28
+#: capture.en.adoc:30
 msgid "With what kind of data do you work?"
 msgstr "Com que tipo de dados trabalha?"
 
 #. type: delimited block *
-#: capture.en.adoc:29
+#: capture.en.adoc:31
 msgid "How would you publish your data to GBIF (using which Core and/or extension)?"
 msgstr "Como publicaria os seus dados através do GBIF (qual o Core e/ou extensão)?"
 
 #. type: Title ===
-#: capture.en.adoc:31
+#: capture.en.adoc:33
 #, no-wrap
 msgid "Data capture, processing and quality"
 msgstr "Captura de dados, processamento e qualidade"
 
 #. type: Plain text
-#: capture.en.adoc:35
+#: capture.en.adoc:37
 msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
 msgstr "Neste vídeo (09:11), irá explorar os princípios da qualidade de dados aplicada à captura de dados, em particular a transcrição de dados das etiquetas de colecção, notas de campo, folhas de cálculo, etc. Se não puder assistir o vídeo incorporado, poderá clicar link:../videos/Data_capture_processing_quality.mp4[descarregar^,opts=download] e ver localmente. (MP4 - 19 MB)"
 
 #. type: Title ===
-#: capture.en.adoc:38 use-case-invasive-species.en.adoc:112
+#: capture.en.adoc:41 use-case-invasive-species.en.adoc:112
 #: use-case-lepidoptera-sampling.en.adoc:124
 #: use-case-birds-from-literature.en.adoc:105
 #, no-wrap
@@ -1729,27 +2001,27 @@ msgid "Exercise 2"
 msgstr "Exercício 2"
 
 #. type: Plain text
-#: capture.en.adoc:42
+#: capture.en.adoc:45
 msgid "For this activity, you will complete an exercise simulating data capture.  You will begin to work with https://dwc.tdwg.org/terms/[Darwin Core terms^] and make decisions on data that is needed for your organization/project and you will consider which of that data will be shared later during publication."
 msgstr "Nesta atividade, irá concluir um exercício simulando a captura de dados. Começará a trabalhar com https://dwc.tdwg.org/terms/[os termos Darwin Core^] e tomar decisões sobre dados que são necessários para a sua organização/projeto, e irá considerar quais os dados que serão partilhados mais tarde durante a publicação."
 
 #. type: Plain text
-#: capture.en.adoc:46
+#: capture.en.adoc:49
 msgid "Imagine that you are the person assigned to transcribe the data found on the herbarium sheets."
 msgstr "Imagine que é a pessoa designada para transcrever os dados encontrados nas folhas de herbário."
 
 #. type: Plain text
-#: capture.en.adoc:51
+#: capture.en.adoc:54
 msgid "Download link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB).  There are 10 images. Two images per specimen for a total of five specimens.  The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels.  Remember to use both images per record to compile the information."
 msgstr "Link de download link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB). Existem 10 imagens. Duas imagens por espécime para um total de cinco espécimes As folhas de herbário estão em espanhol (os dados podem chegar-lhe por várias vias e noutras línguas que não a sua), mas deve poder reconhecer os dados contidos nos campos das etiquetas. Lembre-se de usar ambas as imagens por registro para compilar as informações."
 
 #. type: Plain text
-#: capture.en.adoc:52
+#: capture.en.adoc:55
 msgid "Download the spreadsheet template: link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) to transcribe the information found on each of the images for the five specimens."
 msgstr "Descarregue o modelo de tabela: link:../exercise-data/UC1-2-ocorrer-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) para transcrever as informações encontradas em cada uma das imagens dos cinco espécimes."
 
 #. type: Plain text
-#: capture.en.adoc:55
+#: capture.en.adoc:58
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
 msgstr "pode precisar de adicionar campos à tabela pois poderá capturar mais informações das etiquetas do que foram planeadas no modelo."
 
@@ -1758,12 +2030,12 @@ msgstr "pode precisar de adicionar campos à tabela pois poderá capturar mais i
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: capture.en.adoc:68
+#: capture.en.adoc:71
 msgid "What dataset type(s) would you choose for an ichthyology collection?"
 msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma coleção de ictiologia?"
 
 #. type: delimited block .
-#: capture.en.adoc:74
+#: capture.en.adoc:77
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
@@ -1773,7 +2045,7 @@ msgstr ":figure-caption!:\n"
 "image::img/web/QDataTypes-specimen.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
-#: capture.en.adoc:78 capture.en.adoc:91
+#: capture.en.adoc:81 capture.en.adoc:94
 #, no-wrap
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
@@ -1784,12 +2056,12 @@ msgstr "- [x] ocorrência\n"
 
 #.  Question 2
 #. type: Plain text
-#: capture.en.adoc:81
+#: capture.en.adoc:84
 msgid "What dataset type(s) would you choose for a list of invasive species?"
 msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados você escolheria para uma lista de espécies invasoras?"
 
 #. type: delimited block .
-#: capture.en.adoc:87
+#: capture.en.adoc:90
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
@@ -1800,18 +2072,18 @@ msgstr ":figure-caption!:\n"
 
 #.  Question 3
 #. type: Plain text
-#: capture.en.adoc:94
+#: capture.en.adoc:97
 msgid "What dataset type(s) would you choose for the flora and fauna of an environmental impact study?"
 msgstr "Que tipo(s) de conjunto de dados escolheria para a flora e fauna de um estudo de impacto ambiental?"
 
 #. type: delimited block .
-#: capture.en.adoc:98
+#: capture.en.adoc:101
 #, no-wrap
 msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
 msgstr "Os estudos de avaliação do impacto ambiental são realizados por peritos para avaliar a biodiversidade e os biótopos de uma determinada zona. antes, durante e depois de ser afectada por actividades humanas (obras rodoviárias, turbinas eólicas, mineração, construção civil, etc.).\n"
 
 #. type: delimited block .
-#: capture.en.adoc:102
+#: capture.en.adoc:105
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
@@ -1821,7 +2093,7 @@ msgstr ":figure-caption!:\n"
 "image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
-#: capture.en.adoc:106 capture.en.adoc:134 capture.en.adoc:166
+#: capture.en.adoc:109 capture.en.adoc:137 capture.en.adoc:169
 #, no-wrap
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
@@ -1832,18 +2104,18 @@ msgstr "- [x] ocorrência\n"
 
 #.  Question 4
 #. type: Plain text
-#: capture.en.adoc:109
+#: capture.en.adoc:112
 msgid "What dataset type(s) would you choose for bird tracking data?"
 msgstr "Qual(is) tipo(s) de conjunto de dados você escolheria para dados de rastreamento de pássaros?"
 
 #. type: delimited block .
-#: capture.en.adoc:113
+#: capture.en.adoc:116
 #, no-wrap
 msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
 msgstr "Dados de rastreamento de pássaros são obtidos com dispositivos específicos, como GPS inseridos em aves vivas, permitindo aos cientistas poderem rastrear rotas migratórias ou os locais de reprodução.\n"
 
 #. type: delimited block .
-#: capture.en.adoc:117
+#: capture.en.adoc:120
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
@@ -1853,7 +2125,7 @@ msgstr ":figure-caption!:\n"
 "image::img/web/QDataTypes-tracking.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
-#: capture.en.adoc:121
+#: capture.en.adoc:124
 #, no-wrap
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
@@ -1864,12 +2136,12 @@ msgstr "- [x] ocorrência\n"
 
 #.  Question 5
 #. type: Plain text
-#: capture.en.adoc:124
+#: capture.en.adoc:127
 msgid "What dataset type(s) would you choose for insect trap data?"
 msgstr "Qual(is) tipo(s) de conjunto de dados você escolheria para dados de armadilhas de insectos?"
 
 #. type: delimited block .
-#: capture.en.adoc:130
+#: capture.en.adoc:133
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
@@ -1880,18 +2152,18 @@ msgstr ":figure-caption!:\n"
 
 #.  Question 6
 #. type: Plain text
-#: capture.en.adoc:137
+#: capture.en.adoc:140
 msgid "What dataset type(s) would you choose for national park management data?"
 msgstr "Que tipo(s) de conjunto de dados você escolheria para gestão dados um de parque nacional?"
 
 #. type: delimited block .
-#: capture.en.adoc:141
+#: capture.en.adoc:144
 #, no-wrap
 msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
 msgstr "Os dados adquiridos no contexto da gestão de áreas protegidas (como parques nacionais, mas também reservas naturais mais pequenas) podem ser diversos e ter diferentes origens: investigação botânica, rastreio de animais marcados, observações de guardas, e até dados de ciência-cidadã ou dados inferidos de imagens partilhadas nas redes sociais.\n"
 
 #. type: delimited block .
-#: capture.en.adoc:145
+#: capture.en.adoc:148
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
@@ -1901,7 +2173,7 @@ msgstr ":figure-caption!:\n"
 "image::img/web/QDataTypes-Observations.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
-#: capture.en.adoc:149
+#: capture.en.adoc:152
 #, no-wrap
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
@@ -1912,24 +2184,24 @@ msgstr "- [x] ocorrência\n"
 
 #.  Question 7
 #. type: Plain text
-#: capture.en.adoc:152
+#: capture.en.adoc:155
 msgid "What dataset type(s) would you choose for a citizen science bioblitz?"
 msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que você escolheria para um bioblitz de ciência cidadã?"
 
 #. type: delimited block .
-#: capture.en.adoc:156
+#: capture.en.adoc:159
 #, no-wrap
 msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
 msgstr "Os dados de ciência cidadã são frequentemente recolhidos no âmbito de trabalhos de campo temáticos conhecidos como \"bioblitz. Os voluntários normalmente reúnem-se numa determinada área e passam o dia tentando observar e identificar tantas espécies quantas as que puderem nessa área.\n"
 
 #. type: delimited block .
-#: capture.en.adoc:158
+#: capture.en.adoc:161
 #, no-wrap
 msgid "Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.\n"
 msgstr "Os dados de cada participante são capturados e adicionados à ferramenta de captura ou gestão de dados do programa de ciência cidadã.\n"
 
 #. type: delimited block .
-#: capture.en.adoc:162
+#: capture.en.adoc:165
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
@@ -1940,12 +2212,12 @@ msgstr ":figure-caption!:\n"
 
 #.  Question 8
 #. type: Plain text
-#: capture.en.adoc:169
+#: capture.en.adoc:172
 msgid "What dataset type(s) would you choose for a regional species list?"
 msgstr "Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para lista regional de espécies?"
 
 #. type: delimited block .
-#: capture.en.adoc:175
+#: capture.en.adoc:178
 #, no-wrap
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
@@ -1955,7 +2227,7 @@ msgstr ":figure-caption!:\n"
 "image::img/web/QDataTypes-threatened.png[align=\"center\",width=\"640\",height=\"360\"]\n"
 
 #. type: delimited block .
-#: capture.en.adoc:179
+#: capture.en.adoc:182
 #, no-wrap
 msgid "- [ ] occurrence\n"
 "- [x] checklist\n"
@@ -1981,197 +2253,197 @@ msgid "In this video (09:49), you will review an important set of principles nec
 msgstr "Neste vídeo (09:49), irá analisar um conjunto importante de princípios necessários para melhorar os dados através dos processos de limpeza de dados. Se não conseguir assistir ao vídeo incorporado, pode carregar o link:../videos/Data_Management.mp4[descarregar^,opts=download] localmente. (MP4 - 16.6 MB)"
 
 #. type: Title ===
-#: management.en.adoc:14
+#: management.en.adoc:15
 #, no-wrap
 msgid "Data management tools"
 msgstr "Ferramentas de gestão de dados"
 
 #. type: Plain text
-#: management.en.adoc:18
+#: management.en.adoc:19
 msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
 msgstr "Neste vídeo (06:42), irá analisar um conjunto importante de princípios necessários para melhorar os dados através dos processos de limpeza de dados. Se não conseguir assistir ao vídeo incorporado, pode carregar o link:../videos/Data_Management.mp4[descarregar^,opts=download] localmente. (MP4 - 10.3 MB)"
 
 #. type: Title ===
-#: management.en.adoc:21
+#: management.en.adoc:23
 #, no-wrap
 msgid "Exercise 3a-c"
 msgstr "Exercício 3a-c"
 
 #. type: Plain text
-#: management.en.adoc:24
+#: management.en.adoc:26
 msgid "For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use https://openrefine.org/[OpenRefine^]."
 msgstr "Para esses exercícios, irá executar verificações de validação técnicas e consistentes, melhorará os dados com diferentes ferramentas e aprenderá como usar https://openrefine.org/[OpenRefine^]."
 
 #. type: Plain text
-#: management.en.adoc:30
+#: management.en.adoc:32
 msgid "Your institution is part of the “Global Poales Association (GPA)”.  This association has secured funding to publish an up-to-date flora on the group and has requested your herbarium to participate and provide any high quality records you may have on this order of plants.  The order is well represented in your collection so you think you could contribute substantially to this effort."
 msgstr "A sua instituição faz parte da “Associação Global de Poales (GPA)”. Esta associação garantiu financiamento para a publicação de uma flora atualizada para o grupo e solicitou ao seu herbário que participasse e fornecesse todos os registos de alta qualidade que possa ter para esta ordem de plantas. A ordem está bem representada na sua coleção, pelo que poderá contribuir substancialmente para este esforço."
 
 #. type: Title ====
-#: management.en.adoc:31
+#: management.en.adoc:33
 #, no-wrap
 msgid "Exercise 3a"
 msgstr "Exercício 3a"
 
 #. type: Plain text
-#: management.en.adoc:34
+#: management.en.adoc:36
 #, no-wrap
 msgid "*Validation checks*\n"
 msgstr "*Verificações de validação*\n"
 
 #. type: Plain text
-#: management.en.adoc:37
+#: management.en.adoc:39
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
 msgstr "Neste exercício, vamo-nos concentrar em erros técnicos e realizar uma verificação de validação básica para identificar erros técnicos. Consulte <<Verificações da validação>> para obter informações sobre os tipos de erros."
 
 #. type: Plain text
-#: management.en.adoc:39
+#: management.en.adoc:41
 msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 msgstr "Link de download link:../exercício-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
-#: management.en.adoc:40
+#: management.en.adoc:42
 msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
 msgstr "Importe o arquivo CSV para o Excel usando o assistente do Excel. Consulte o link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) para obter instruções de importação para o seu sistema operativo (Windows, Mac, Linux)."
 
 #. type: Plain text
-#: management.en.adoc:41
+#: management.en.adoc:43
 msgid "Find and correct the errors manually."
 msgstr "Localizar e corrigir os erros manualmente."
 
 #. type: Title ====
-#: management.en.adoc:43
+#: management.en.adoc:45
 #, no-wrap
 msgid "Exercise 3b"
 msgstr "Exercício 3b"
 
 #. type: Plain text
-#: management.en.adoc:46
+#: management.en.adoc:48
 #, no-wrap
 msgid "*Other data management tools*\n"
 msgstr "*Outras ferramentas de gestão de dados*\n"
 
 #. type: Plain text
-#: management.en.adoc:48
+#: management.en.adoc:50
 msgid "The GPA association has given you a checklist of data quality elements to verify:"
 msgstr "A associação GPA forneceu-lhe uma lista de elementos de qualidade de dados para verificar:"
 
 #. type: Plain text
-#: management.en.adoc:50
+#: management.en.adoc:52
 msgid "All plant names (full name) are correctly spelled"
 msgstr "Todos os nomes das plantas (nome completo) estão escritos corretamente"
 
 #. type: Plain text
-#: management.en.adoc:51
+#: management.en.adoc:53
 msgid "All plant names belong to the order"
 msgstr "Todos os nomes das plantas pertencem à ordem"
 
 #. type: Plain text
-#: management.en.adoc:52
+#: management.en.adoc:54
 msgid "All records have coordinates"
 msgstr "Todos os registos têm coordenadas"
 
 #. type: Plain text
-#: management.en.adoc:53
+#: management.en.adoc:55
 msgid "All coordinates are inside the country stated and converted to decimal format"
 msgstr "Todas as coordenadas estão dentro do país declarado e convertidas em formato decimal"
 
 #. type: Plain text
-#: management.en.adoc:54
+#: management.en.adoc:56
 msgid "All dates are in the proper column and in the format YYYY-MM-DD"
 msgstr "Todas as datas estão na coluna correta e no formato YYYY-MM-DD"
 
 #. type: Plain text
-#: management.en.adoc:56
+#: management.en.adoc:58
 msgid "The three categories of errors are:"
 msgstr "As três categorias de erros são:"
 
 #. type: Plain text
-#: management.en.adoc:58
+#: management.en.adoc:60
 msgid "Nomenclatural errors"
 msgstr "Erros nomenclaturais"
 
 #. type: Plain text
-#: management.en.adoc:59
+#: management.en.adoc:61
 msgid "Format errors"
 msgstr "Erros de formatação"
 
 #. type: Plain text
-#: management.en.adoc:60
+#: management.en.adoc:62
 msgid "Geographic errors / outliers"
 msgstr "Erros geográficos / outliers"
 
 #. type: Plain text
-#: management.en.adoc:63
+#: management.en.adoc:65
 msgid "Refer to <<Helpful tools>> in order to complete the exercise.  You are not limited to these tools, you may use any tools you like."
 msgstr "Consulte <<Ferramentas úteis>> para completar o exercício. Não está limitado a essas ferramentas, pode usar qualquer ferramenta que quiser."
 
 #. type: Plain text
-#: management.en.adoc:64
+#: management.en.adoc:66
 msgid "Use the same file from the previous exercise."
 msgstr "Use o mesmo arquivo do exercício anterior."
 
 #. type: Plain text
-#: management.en.adoc:65
+#: management.en.adoc:67
 msgid "Make the correction ONLY for the Eriocaulaceae family (so you may want to filter the data)"
 msgstr "Faça a correção APENAS para a família Eriocaulaceae (possivelmente, quererá filtrar os dados)"
 
 #. type: Plain text
-#: management.en.adoc:66
+#: management.en.adoc:68
 msgid "Correct the errors found in the dataset used in exercise 3a (previous exercise), using the tools of your choice, and document the changes you perform in the exercise sheet."
 msgstr "Corrija os erros encontrados no conjunto de dados usado no exercício 3a (exercício anterior), usando as ferramentas à sua escolha e documente as alterações que realizar na folha de exercícios."
 
 #. type: Plain text
-#: management.en.adoc:67
+#: management.en.adoc:69
 msgid "Correct the entire file if you have time."
 msgstr "Corrija todo o arquivo se tiver tempo."
 
 #. type: Title ====
-#: management.en.adoc:69
+#: management.en.adoc:71
 #, no-wrap
 msgid "Exercise 3c"
 msgstr "Exercício 3c"
 
 #. type: Plain text
-#: management.en.adoc:73
+#: management.en.adoc:75
 msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
 msgstr "Neste vídeo (03:27), você aprenderá sobre https://openrefine.org/[OpenRefine^]. Você pode usar o OpenRefine para padronizar e melhorar a qualidade de seus dados. Se você não conseguir assistir ao vídeo incorporado, você pode link:../videos/Data_Management_OpenRefine.mp4[descarregar^,opts=download] localmente. (MP4 - 3.8 MB)"
 
 #. type: Plain text
-#: management.en.adoc:77
+#: management.en.adoc:80
 #, no-wrap
 msgid "*OpenRefine*\n"
 msgstr "*OpenRefine*\n"
 
 #. type: Plain text
-#: management.en.adoc:79
+#: management.en.adoc:82
 msgid "In this exercise we use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
 msgstr "Neste exercício, utilizamos o OpenRefine para melhorar a qualidade de um conjunto de dados usando os recursos padrão, serviços web existentes e expressões regulares."
 
 #. type: Plain text
-#: management.en.adoc:81
+#: management.en.adoc:84
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
 msgstr "Link de download link:../exercício-data/UC1-3ab-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
-#: management.en.adoc:83
+#: management.en.adoc:86
 msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)  Also available in link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download]."
 msgstr "Descarregue e complete os exercícios pelo link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB) Também disponível no link:../course-docs/OpenRefine-Exercise3c-FR.pdf[Francês, opts=download] e link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Espanhol,opts=download]."
 
 #. type: Title ===
-#: management.en.adoc:85
+#: management.en.adoc:88
 #, no-wrap
 msgid "Exercise tips"
 msgstr "Dicas do exercício"
 
 #. type: Title ====
-#: management.en.adoc:87
+#: management.en.adoc:90
 #, no-wrap
 msgid "Validation checks"
 msgstr "Verificações da validação"
 
 #. type: Plain text
-#: management.en.adoc:92
+#: management.en.adoc:95
 #, no-wrap
 msgid "*Technical errors*\n"
 "Relatively simple, often able to be automated, *checks against the integrity of the data*. \n"
@@ -2181,7 +2453,7 @@ msgstr "*Erros técnicos*\n"
 "Isso pode indicar exportações incorretas, mapeamento de dados, deslizamento de campo (e.g. moveu 1 coluna para a direita) ou dados em falta na fonte.\n"
 
 #. type: Plain text
-#: management.en.adoc:95
+#: management.en.adoc:98
 #, no-wrap
 msgid "*Completeness*: \n"
 "Whether all the data and metadata is available – are all fields present, are all fields filled out?\n"
@@ -2189,7 +2461,7 @@ msgstr "*Integridade*: \n"
 "Se todos os dados e metadados estão disponíveis - todos os campos estão presentes, todos os campos estão preenchidos?\n"
 
 #. type: Plain text
-#: management.en.adoc:97
+#: management.en.adoc:100
 #, no-wrap
 msgid "*Bounds*: \n"
 "For example, are days given in the range 1-31 (depending on month)\n"
@@ -2197,7 +2469,7 @@ msgstr "*Limites*: \n"
 "Por exemplo, os dias foram dados no intervalo de 1-31 (dependendo do mês)\n"
 
 #. type: Plain text
-#: management.en.adoc:99
+#: management.en.adoc:102
 #, no-wrap
 msgid "*Data type*: \n"
 "For example, does the Date field contain a date or a number?\n"
@@ -2205,7 +2477,7 @@ msgstr "*Tipo de dados*: \n"
 "Por exemplo, o campo Data contém uma data ou um número?\n"
 
 #. type: Plain text
-#: management.en.adoc:101
+#: management.en.adoc:104
 #, no-wrap
 msgid "*Data format*: \n"
 "For example, are Dates provided as 01/01/2010 or 01/Jan/10?\n"
@@ -2213,18 +2485,18 @@ msgstr "*Formato de dados*: \n"
 "Por exemplo, as datas são fornecidas como 01/01/2010 ou 01/Jan/10?\n"
 
 #. type: Plain text
-#: management.en.adoc:103
+#: management.en.adoc:106
 #, no-wrap
 msgid "*Consistency errors*\n"
 msgstr "*Erros de consistência*\n"
 
 #. type: Plain text
-#: management.en.adoc:109
+#: management.en.adoc:112
 msgid "Application of real-world rules to the data.  These may indicate incorrect data entry from older records, transcription errors or post processing.  Some are complex to implement and *require reference data sets to check against*.  E.g. a list of known collectors and collecting habits.  These rules can be gathered from data users and analysts."
 msgstr "Aplicação de regras do mundo real aos dados. Isso pode indicar informações incorretas de registos antigos, erros de transcrição ou de pós-processamento. Alguns são complexos para implementar e *requerem conjuntos de dados de referência para nova verificação*. E.g. uma lista de coletores e hábitos de coleta conhecidos. Estas regras podem ser recolhidas através de utilizadores e analistas de dados."
 
 #. type: Plain text
-#: management.en.adoc:112
+#: management.en.adoc:115
 #, no-wrap
 msgid "*Taxonomic*: \n"
 "For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?\n"
@@ -2232,7 +2504,7 @@ msgstr "*Taxonomia*: \n"
 "Por exemplo, se identificado ao nível de espécies, foram fornecidos o nome científico binómio e entradas nos campos de gênero e espécie?\n"
 
 #. type: Plain text
-#: management.en.adoc:114
+#: management.en.adoc:117
 #, no-wrap
 msgid "*Currency*: \n"
 "Are dates of collection, identification, update and digitization consistent?\n"
@@ -2240,7 +2512,7 @@ msgstr "*Moeda*: \n"
 "As datas de coleção, identificação, actualização e digitalização são consistentes?\n"
 
 #. type: Plain text
-#: management.en.adoc:117
+#: management.en.adoc:120
 #, no-wrap
 msgid "*Outliers*: \n"
 "Detect outliers, but remember that not all outliers are necessarily errors. \n"
@@ -2250,7 +2522,7 @@ msgstr "*Outliers*: \n"
 "Por exemplo, compare contra uma extensão de espécies conhecidas ou um intervalo ambiental conhecido (mas lembre-se que outliers podem ser identificações erradas, ao invés de coordenadas incorretas).\n"
 
 #. type: Plain text
-#: management.en.adoc:120
+#: management.en.adoc:123
 #, no-wrap
 msgid "*Geographic*: \n"
 "Are the coordinates within the identified locality or region? \n"
@@ -2260,7 +2532,7 @@ msgstr "*Geografia*: \n"
 "Por exemplo, há alguma ocorrência terrestre no mar ou ocorrências marinhas em terra?\n"
 
 #. type: Plain text
-#: management.en.adoc:124
+#: management.en.adoc:127
 #, no-wrap
 msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
@@ -2272,7 +2544,7 @@ msgstr "*Padrões de amostragem*: \n"
 "Por exemplo, algum registo de mamíferos está atribuído a um grupo de observação de pássaros?\n"
 
 #. type: Plain text
-#: management.en.adoc:126
+#: management.en.adoc:129
 #, no-wrap
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
@@ -2280,7 +2552,7 @@ msgstr "*Exatidão e precisão*: \n"
 "Por exemplo, quaisquer registos geo-referenciados indicando uma precisão ou exatidão muito alta de um período de colheita pré-GPS (ou pré-acurácia do GPS)?\n"
 
 #. type: Plain text
-#: management.en.adoc:129
+#: management.en.adoc:132
 #, no-wrap
 msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
@@ -2290,67 +2562,67 @@ msgstr "*Métodos de colheita*: \n"
 "Os registos são consistentes com o método fornecido?\n"
 
 #. type: Title ====
-#: management.en.adoc:130
+#: management.en.adoc:133
 #, no-wrap
 msgid "Helpful tools"
 msgstr "Ferramentas úteis"
 
 #. type: Plain text
-#: management.en.adoc:133
+#: management.en.adoc:136
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 msgstr "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 
 #. type: Plain text
-#: management.en.adoc:134
+#: management.en.adoc:137
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
 msgstr "*Global Names Resolver*: http://resolver.globalnames.org\n"
 
 #. type: Plain text
-#: management.en.adoc:135
+#: management.en.adoc:138
 #, no-wrap
 msgid "*Catalogue of Life name match*: https://data.catalogueoflife.org/tools/name-match\n"
 msgstr "*Correspondência de nome para o catálogo da vida*: https://data.catalogueoflife.org/tools/name-match\n"
 
 #. type: Plain text
-#: management.en.adoc:136
+#: management.en.adoc:139
 #, no-wrap
 msgid "*TNRS*: https://tnrs.biendata.org/\n"
 msgstr "*TNRS*: https://tnrs.biendata.org\n"
 
 #. type: Plain text
-#: management.en.adoc:137
+#: management.en.adoc:140
 #, no-wrap
 msgid "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
 msgstr "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
 
 #. type: Plain text
-#: management.en.adoc:138
+#: management.en.adoc:141
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 msgstr "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 
 #. type: Plain text
-#: management.en.adoc:139
+#: management.en.adoc:142
 #, no-wrap
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
 msgstr "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
 
 #. type: Plain text
-#: management.en.adoc:140
+#: management.en.adoc:143
 #, no-wrap
 msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
 msgstr "*Conversão de coordenadas Canadensys*: http://data.canadensys.net/tools/coordinates\n"
 
 #. type: Plain text
-#: management.en.adoc:141
+#: management.en.adoc:144
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 msgstr "*Análise de datas do Canadensys*: http://data.canadensys.net/tools/dates\n"
 
 #. type: Plain text
-#: management.en.adoc:142
+#: management.en.adoc:145
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
 msgstr "*Google Maps*: https://maps.google.com/\n"
@@ -2360,12 +2632,12 @@ msgstr "*Google Maps*: https://maps.google.com/\n"
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: management.en.adoc:155
+#: management.en.adoc:158
 msgid "Why is it best to clean your data?"
 msgstr "Por que é melhor limpar seus dados?"
 
 #. type: delimited block .
-#: management.en.adoc:162
+#: management.en.adoc:165
 #, no-wrap
 msgid "- [x] to make them as fit for use as possible\n"
 "- [x] to achieve your data quality goals\n"
@@ -2376,12 +2648,12 @@ msgstr "- [x] para torná-los o mais adequados para uso possível\n"
 
 #.  Question 2
 #. type: Plain text
-#: management.en.adoc:165
+#: management.en.adoc:168
 msgid "How should you organize your data cleaning workflow?"
 msgstr "Como você deve organizar seu fluxo de trabalho de limpeza de dados?"
 
 #. type: delimited block .
-#: management.en.adoc:172
+#: management.en.adoc:175
 #, no-wrap
 msgid "- [ ] work alone, you know your data best\n"
 "- [x] ask your colleagues for expertise\n"
@@ -2392,12 +2664,12 @@ msgstr "- [ ] trabalhe sozinho, você conhece seus dados melhor\n"
 
 #.  Question 3
 #. type: Plain text
-#: management.en.adoc:175
+#: management.en.adoc:178
 msgid "Which is best:"
 msgstr "Qual é melhor:"
 
 #. type: delimited block .
-#: management.en.adoc:182
+#: management.en.adoc:185
 #, no-wrap
 msgid "- [x] prevent errors from occurring\n"
 "- [x] correct errors as soon as you find them in your database or spreadsheet\n"
@@ -2408,12 +2680,12 @@ msgstr "- [x] previnir erros de ocorrer\n"
 
 #.  Question 4
 #. type: Plain text
-#: management.en.adoc:185
+#: management.en.adoc:188
 msgid "Whose responsibility is data quality?"
 msgstr "A responsabilidade da qualidade dos dados é de quem?"
 
 #. type: delimited block .
-#: management.en.adoc:195
+#: management.en.adoc:198
 #, no-wrap
 msgid "- [ ] The person(s) who record data on the field\n"
 "- [ ] The data transcribers\n"
@@ -2430,12 +2702,12 @@ msgstr "- [ ] Da(s) pessoa(s) que registam os dados no campo\n"
 
 #.  Question 5
 #. type: Plain text
-#: management.en.adoc:198
+#: management.en.adoc:201
 msgid "Which tools can be used to clean your data ?"
 msgstr "Quais ferramentas podem ser utilizadas para limpar seus dados?"
 
 #. type: delimited block .
-#: management.en.adoc:206
+#: management.en.adoc:209
 #, no-wrap
 msgid "- [x] Excel & other spreadsheets management tools\n"
 "- [x] OpenRefine\n"
@@ -2463,55 +2735,55 @@ msgid "In this video (11:45), you will learn about data publishing concepts and 
 msgstr "Neste vídeo (11:45), irá aprender sobre os conceitos de publicação de dados e receberá uma introdução ao Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]). Se não puder assistir o vídeo integrado, poderá usar link:../videos/Data_publishing_concepts.mp4[download^,opts=download] localmente. (MP4 - 20 MB)"
 
 #. type: Title ===
-#: publishing.en.adoc:14
+#: publishing.en.adoc:15
 #, no-wrap
 msgid "IPT overview"
 msgstr "Introdução geral ao IPT"
 
 #. type: Plain text
-#: publishing.en.adoc:18
+#: publishing.en.adoc:19
 msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
 msgstr "Neste vídeo (06:56), você receberá uma visão geral da interface de publicação de dados do IPT. Se você não conseguir assistir ao vídeo incorporado, pode link:../videos/Data_publishing_IPT.mp4[descarregar^,opts=download] localmente. (MP4 - 8.7 MB)"
 
 #. type: Title ====
-#: publishing.en.adoc:21
+#: publishing.en.adoc:23
 #, no-wrap
 msgid "Training IPT installations"
 msgstr "Instalações IPT para treino"
 
 #. type: Plain text
-#: publishing.en.adoc:24
+#: publishing.en.adoc:26
 msgid "If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
 msgstr "Se ainda não recebeu um login, entre em contato com training@gbif.org e ser-lhe-á fornecido um login e senha para o IPT do curso."
 
 #. type: Plain text
-#: publishing.en.adoc:26
+#: publishing.en.adoc:28
 msgid "https://training-ipt-a.gbif.org/[^]"
 msgstr "https://training-ipt-a.gbif.org/[^]"
 
 #. type: Plain text
-#: publishing.en.adoc:28
+#: publishing.en.adoc:30
 msgid "https://training-ipt-b.gbif.org/[^]"
 msgstr "https://training-ipt-b.gbif.org/[^]"
 
 #. type: Plain text
-#: publishing.en.adoc:30
+#: publishing.en.adoc:32
 msgid "https://training-ipt-c.gbif.org/[^]"
 msgstr "https://training-ipt-c.gbif.org/[^]"
 
 #. type: Title ===
-#: publishing.en.adoc:31
+#: publishing.en.adoc:33
 #, no-wrap
 msgid "IPT demonstration"
 msgstr "Demonstração do IPT"
 
 #. type: Plain text
-#: publishing.en.adoc:35
+#: publishing.en.adoc:37
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
 msgstr "Neste vídeo (24:16), irá aprender como publicar um conjunto de dados de ocorrência usando um IPT. Se não conseguir assistir ao vídeo integrado, você pode usar o link:../videos/IPT_demo.mp4[download^,opts=download] localmente. (MP4 - 52.6 MB)"
 
 #. type: Title ===
-#: publishing.en.adoc:38 use-case-invasive-species.en.adoc:137
+#: publishing.en.adoc:41 use-case-invasive-species.en.adoc:137
 #: use-case-lepidoptera-sampling.en.adoc:148
 #: use-case-birds-from-literature.en.adoc:162
 #, no-wrap
@@ -2519,12 +2791,12 @@ msgid "Exercise 4"
 msgstr "Exercício 4"
 
 #. type: Plain text
-#: publishing.en.adoc:41
+#: publishing.en.adoc:44
 msgid "In this exercise, you will publish an occurrence dataset using the IPT."
 msgstr "Neste exercício, irá publicar um conjunto de dados de ocorrência usando o IPT."
 
 #. type: Plain text
-#: publishing.en.adoc:45 assessments-certification.en.adoc:154
+#: publishing.en.adoc:48 assessments-certification.en.adoc:154
 #: use-case-invasive-species.en.adoc:140
 #: use-case-lepidoptera-sampling.en.adoc:151
 #: use-case-birds-from-literature.en.adoc:165
@@ -2533,22 +2805,22 @@ msgid "*Data publishing*\n"
 msgstr "*Publicação de dados*\n"
 
 #. type: Plain text
-#: publishing.en.adoc:47
+#: publishing.en.adoc:50
 msgid "After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset."
 msgstr "Depois de limpar os dados no conjunto de dados de Poales, a equipa considera que a publicação dos dados on-line através da rede GBIF pode ser uma boa maneira de tornar este esforço visível. Foi solicitado que você liderasse esse trabalho de publicação, com base no conjunto de dados."
 
 #. type: Plain text
-#: publishing.en.adoc:50
+#: publishing.en.adoc:53
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
 msgstr "Neste momento, você precisa de uma conta em uma das <<Training IPT installations,course IPTs>>. Se você ainda não recebeu um login, entre em contato com training@gbif.org e será fornecido um login e senha em um dos IPT do curso."
 
 #. type: Plain text
-#: publishing.en.adoc:51
+#: publishing.en.adoc:54
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 msgstr "Link para descarregar link:../exercício-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 
 #. type: Plain text
-#: publishing.en.adoc:52
+#: publishing.en.adoc:55
 msgid "Use the assigned IPT installation and publish this file."
 msgstr "Utilize a instalação do IPT atribuído e publique este ficheiro."
 
@@ -2557,12 +2829,12 @@ msgstr "Utilize a instalação do IPT atribuído e publique este ficheiro."
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: publishing.en.adoc:66
+#: publishing.en.adoc:69
 msgid "What does data publishing mean in the context of GBIF?"
 msgstr "O que significa publicação de dados no contexto do GBIF?"
 
 #. type: delimited block .
-#: publishing.en.adoc:73
+#: publishing.en.adoc:76
 #, no-wrap
 msgid "- [ ] Exporting a csv file of your cleaned data that you can share with your colleagues\n"
 "- [ ] Writing an article describing your data, and the protocol(s) you used to collect, capture and clean them\n"
@@ -2573,12 +2845,12 @@ msgstr "- [ ] Significa exportar um ficheiro csv dos seus dados limpos que que p
 
 #.  Question 2
 #. type: Plain text
-#: publishing.en.adoc:76
+#: publishing.en.adoc:79
 msgid "What is an IPT?"
 msgstr "O que é um IPT?"
 
 #. type: delimited block .
-#: publishing.en.adoc:83
+#: publishing.en.adoc:86
 #, no-wrap
 msgid "- [ ] a tool that helps you manage & correct your data\n"
 "- [x] a tool that helps you publish your data to GBIF\n"
@@ -2589,12 +2861,12 @@ msgstr "- [ ] uma ferramenta que o ajuda a gerir e corrigir os seus dados\n"
 
 #.  Question 3
 #. type: Plain text
-#: publishing.en.adoc:86
+#: publishing.en.adoc:89
 msgid "Which Creative Commons licences and waivers are recommended by GBIF for data publication?"
 msgstr "Quais licenças e dispensas Creative Commons que são recomendadas pelo GBIF para publicação de dados?"
 
 #. type: delimited block .
-#: publishing.en.adoc:93
+#: publishing.en.adoc:96
 #, no-wrap
 msgid "- [ ] CC-BY, CC-BY-SA and CC-BY-ND\n"
 "- [x] CC0, CC-BY and CC-BY-NC\n"
@@ -2605,12 +2877,12 @@ msgstr "- [ ] CC-BY, CC-BY-SA e CC-BY-ND\n"
 
 #.  Question 4
 #. type: Plain text
-#: publishing.en.adoc:96
+#: publishing.en.adoc:99
 msgid "What are the three Cores from which you can choose for an IPT resource?"
 msgstr "Quais são os três Núcleos (Cores) que pode escolher para um recurso IPT?"
 
 #. type: delimited block .
-#: publishing.en.adoc:103
+#: publishing.en.adoc:106
 #, no-wrap
 msgid "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
 "- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
@@ -2621,12 +2893,12 @@ msgstr "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
 
 #.  Question 5
 #. type: Plain text
-#: publishing.en.adoc:106
+#: publishing.en.adoc:109
 msgid "How many Extensions files can a dataset have?"
 msgstr "Quantas ficheiros de Extensão pode um conjunto de dados ter?"
 
 #. type: delimited block .
-#: publishing.en.adoc:113
+#: publishing.en.adoc:116
 #, no-wrap
 msgid "- [ ] zero\n"
 "- [ ] one\n"
@@ -4614,39 +4886,39 @@ msgid "A data paper is a peer reviewed document describing a dataset, published 
 msgstr "Um artigo de dados é um documento publicado em periódicos revisados por pares e que descreve um conjunto de dados. É preciso esforço para preparar, selecionar e descrever os dados. Os artigos de dados permitem o reconhecimento por esse esforço por meio de um artigo científico. Não cobrimos como criar artigos de dados neste curso, no entanto, como uma atividade opcional, pode assistir a este vídeo (51:51) apresentado por Lizanne Roxburgh. Neste vídeo, aprenderá mais sobre como publicar artigos de dados. Se não conseguir assistir ao vídeo incorporado, pode usar o link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
 
 #. type: Plain text
-#: data-papers.en.adoc:16
+#: data-papers.en.adoc:17
 msgid "You can read more about data papers on GBIF.org."
 msgstr "Pode ler mais sobre artigos de dados no GBIF.org."
 
 #. type: Target for macro image
-#: data-papers.en.adoc:17
+#: data-papers.en.adoc:18
 #, no-wrap
 msgid "img/web/datapapers.png"
 msgstr "img/web/datapapers.png"
 
 #. type: Target for macro image
-#: data-papers.en.adoc:19
+#: data-papers.en.adoc:20
 #, no-wrap
 msgid "img/web/datapapersIPT.png"
 msgstr "img/web/datapapersIPT.png"
 
 #. type: delimited block =
-#: data-papers.en.adoc:23
+#: data-papers.en.adoc:24
 msgid "View the links below to see a data paper as it appears on the IPT, on GBIF.org and in the Journal. Each are cross-linked."
 msgstr "Veja os links abaixo para ver um artigo de dados tal como aparece no IPT, no GBIF.org e na revista cientifica. Qualquer deles está interligado."
 
 #. type: delimited block =
-#: data-papers.en.adoc:25
+#: data-papers.en.adoc:26
 msgid "Journal: https://doi.org/10.3897/BDJ.2.e4244"
 msgstr "Revista: https://doi.org/10.3897/BDJ.2.e4244"
 
 #. type: delimited block =
-#: data-papers.en.adoc:26
+#: data-papers.en.adoc:27
 msgid "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
 msgstr "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
 
 #. type: delimited block =
-#: data-papers.en.adoc:27
+#: data-papers.en.adoc:28
 msgid "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
 msgstr "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
 
