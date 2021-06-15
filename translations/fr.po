@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-06-14 15:30+0000\n"
-"PO-Revision-Date: 2021-06-14 15:46\n"
+"POT-Creation-Date: 2021-06-15 10:59+0000\n"
+"PO-Revision-Date: 2021-06-15 12:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1670,7 +1670,7 @@ msgstr "Un grand merci à Jwalant Patel et Eric Ma pour avoir trouvé et aidé �
 
 #. type: Title ====
 #: planning.en.adoc:70 use-case-invasive-species.en.adoc:72
-#: use-case-lepidoptera-sampling.en.adoc:84
+#: use-case-lepidoptera-sampling.en.adoc:92
 #, no-wrap
 msgid "Exercise 1a"
 msgstr "Exercice 1a"
@@ -1749,7 +1749,7 @@ msgstr "Y a-t-il des ressources ou des objectifs manquants dans les cartes que v
 
 #. type: Title ====
 #: planning.en.adoc:94 use-case-invasive-species.en.adoc:91
-#: use-case-lepidoptera-sampling.en.adoc:103
+#: use-case-lepidoptera-sampling.en.adoc:107
 #, no-wrap
 msgid "Exercise 1b"
 msgstr "Exercice 1b"
@@ -1994,7 +1994,7 @@ msgstr "Dans cette vidéo (09:11), vous allez explorer les principes de la quali
 
 #. type: Title ===
 #: capture.en.adoc:41 use-case-invasive-species.en.adoc:112
-#: use-case-lepidoptera-sampling.en.adoc:124
+#: use-case-lepidoptera-sampling.en.adoc:123
 #: use-case-birds-from-literature.en.adoc:105
 #, no-wrap
 msgid "Exercise 2"
@@ -2784,7 +2784,7 @@ msgstr "Dans cette vidéo (24:16), vous allez apprendre comment publier un jeu d
 
 #. type: Title ===
 #: publishing.en.adoc:41 use-case-invasive-species.en.adoc:137
-#: use-case-lepidoptera-sampling.en.adoc:148
+#: use-case-lepidoptera-sampling.en.adoc:147
 #: use-case-birds-from-literature.en.adoc:162
 #, no-wrap
 msgid "Exercise 4"
@@ -2798,7 +2798,7 @@ msgstr "Dans cet exercice, vous publierez un jeu de données d'occurrence en uti
 #. type: Plain text
 #: publishing.en.adoc:48 assessments-certification.en.adoc:154
 #: use-case-invasive-species.en.adoc:140
-#: use-case-lepidoptera-sampling.en.adoc:151
+#: use-case-lepidoptera-sampling.en.adoc:150
 #: use-case-birds-from-literature.en.adoc:165
 #, no-wrap
 msgid "*Data publishing*\n"
@@ -3029,7 +3029,7 @@ msgstr "Rubrique de saisie de données"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:66 use-case-invasive-species.en.adoc:115
-#: use-case-lepidoptera-sampling.en.adoc:127
+#: use-case-lepidoptera-sampling.en.adoc:126
 #: use-case-birds-from-literature.en.adoc:108
 #, no-wrap
 msgid "*Data capture*\n"
@@ -3095,7 +3095,7 @@ msgstr "Rubrique de gestion des données"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:101 use-case-invasive-species.en.adoc:128
-#: use-case-lepidoptera-sampling.en.adoc:138
+#: use-case-lepidoptera-sampling.en.adoc:137
 #: use-case-birds-from-literature.en.adoc:140
 #, no-wrap
 msgid "*Data management*\n"
@@ -3388,84 +3388,71 @@ msgstr "Exercice 1"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:71
-#: use-case-lepidoptera-sampling.en.adoc:83
 msgid "You are the local ISC Manager and, because of the success of the lesson plans and community surveys, 10 more schools on your island would like to set up their own projects the following year.  You would like to accommodate them, but your ISC funding will expire at the end of this year.  HISC has indicated that they will look favourably on a small grant application to expand your programs in the following year and BIISC has offered support."
 msgstr "Vous êtes le gestionnaire local de l'ISC et, en raison du succès des cours et des enquêtes auprès du grand public, 10 écoles de plus sur votre île aimeraient mettre en place leurs propres projets l'année suivante. Vous aimeriez les y accompagner, mais le financement de votre ISC expirera à la fin de cette année. Le HISC a indiqué qu’il se montrera favorable à une demande de subvention réduite pour étendre vos programmes au cours de l’année suivante, et le BIISC a offert de l’aide."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:75
-#: use-case-lepidoptera-sampling.en.adoc:87
 #, no-wrap
 msgid "*Analyse the financial implications of expanding the number of schools*\n"
 msgstr "*Analyser les implications financières d'augementer le nombre d'écoles*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:78
-#: use-case-lepidoptera-sampling.en.adoc:90
 msgid "Evaluate the following options to expand the number of participating schools.  You can only select TWO of these options, so you need to choose wisely."
 msgstr "Évaluez les options suivantes pour augmenter le nombre d'écoles participantes. Vous ne pouvez sélectionner que DEUX de ces options, donc vous devez choisir judicieusement."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:79 use-case-invasive-species.en.adoc:99
-#: use-case-lepidoptera-sampling.en.adoc:91
-#: use-case-lepidoptera-sampling.en.adoc:111
 #: use-case-birds-from-literature.en.adoc:104
 msgid "Use the exercise sheet to provide your answers."
 msgstr "Utilisez le fichier d'exercices pour fournir vos réponses."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:81
-#: use-case-lepidoptera-sampling.en.adoc:93
 #, no-wrap
 msgid "*Options*\n"
 msgstr "*Options*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:83
-#: use-case-lepidoptera-sampling.en.adoc:95
 msgid "Pay extra summer interns to work at the local ISC to coordinate surveys ."
 msgstr "Payer des stagiaires d'été supplémentaires pour travailler au comité ISC local afin de coordonner les enquêtes ."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:84
-#: use-case-lepidoptera-sampling.en.adoc:96
 msgid "Offer financial support to BIISC to set up websites for each new school."
 msgstr "Offrir un soutien financier au BIISC pour mettre en place des sites Web pour chaque nouvelle école."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:86
-#: use-case-lepidoptera-sampling.en.adoc:98
 msgid "Offer financial compensation to the graduate students.  You will not be able to pay all four of them the equivalent of a regular salary, but could cover the costs of part time positions for two of them."
 msgstr "Offrir une rémunération financière aux étudiants diplômés. Vous ne serez pas en mesure de leur verser à tous les quatre l'équivalent d'un salaire régulier, mais pourrez couvrir les coûts de postes à temps partiel pour deux d'entre eux."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:88
-#: use-case-lepidoptera-sampling.en.adoc:100
 msgid "Contract a software company to build a database that can automatically ingest data directly from the online form.  The system will include an admin interface to allow data manipulation and csv exports."
 msgstr "Etablir un contrat avec une société d'informatique pour construire une base de données pouvant ingérer les données automatiquement à partir du formulaire en ligne. Le système inclura une interface d'administration pour permettre la manipulation de données et les exportations de fichiers csv."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:89
-#: use-case-lepidoptera-sampling.en.adoc:101
 msgid "Fund four public outreach activities (e.g., a BioBlitz) to promote awareness in the communities and increase volunteer participation."
 msgstr "Financer quatre activités de sensibilisation du public (par exemple un inventaire éclair ou BioBlitz) pour promouvoir la sensibilisation du grand public et accroître la participation des bénévoles."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:90
-#: use-case-lepidoptera-sampling.en.adoc:102
 msgid "Prepare and carry out a reusable training a course for the teachers at the schools to teach them how to prepare data for submission to BIISC."
 msgstr "Préparer et effectuer une formation réutilisable pour les enseignants des écoles afin de leur enseigner comment préparer les données à soumettre au BIISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:94
-#: use-case-lepidoptera-sampling.en.adoc:106
+#: use-case-lepidoptera-sampling.en.adoc:110
 #, no-wrap
 msgid "*Assign roles*\n"
 msgstr "*Assigner des rôles*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:96
-#: use-case-lepidoptera-sampling.en.adoc:108
 msgid "The new project has the following people available for data processing and mobilization."
 msgstr "Les personnes suivantes sont disponibles dans le nouveau projet pour le traitement et la mobilisation des données."
 
@@ -3476,62 +3463,52 @@ msgstr "Attribuer des rôles pour maximiser l'efficacité du traitement et de la
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:101
-#: use-case-lepidoptera-sampling.en.adoc:113
 #, no-wrap
 msgid "*Roles*\n"
 msgstr "*Rôles*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:103
-#: use-case-lepidoptera-sampling.en.adoc:115
 msgid "BIISC GIS Analyst: Advanced computer use, GIS and data analysis tools."
 msgstr "Analyste SIG du BIISC : capacité avancée d'utilisation des ordinateurs, SIG et des outils d'analyse des données."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:104
-#: use-case-lepidoptera-sampling.en.adoc:116
 msgid "ISC Manager: Good computer skills."
 msgstr "Gestionnaire ISC : de bonnes compétences en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:105
-#: use-case-lepidoptera-sampling.en.adoc:117
 msgid "ISC Outreach Associate: Good field identification skills; Basic computer use. Social media expert."
 msgstr "Responsable de la communication de l'ISC : de bonnes compétences d’identification sur le terrain, compétences de base en informatique. Expert en réseaux sociaux."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:106
-#: use-case-lepidoptera-sampling.en.adoc:118
 msgid "Student Mentor 1: Basic taxonomic knowledge. Basic computer use."
 msgstr "Mentor étudiant 1 : Connaissances taxonomiques de base. Compétences de base en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:107
-#: use-case-lepidoptera-sampling.en.adoc:119
 msgid "Student Mentor 2: Basic taxonomic knowledge. Basic computer use."
 msgstr "Mentor étudiant 2 : Connaissances taxonomiques de base. Compétences de base en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:108
-#: use-case-lepidoptera-sampling.en.adoc:120
 msgid "Botany Student 1: Advanced taxonomic knowledge. Programming skills."
 msgstr "Etudiant en botanique 1 : connaissances taxonomiques avancées, compétences en programmation."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:109
-#: use-case-lepidoptera-sampling.en.adoc:121
 msgid "Botany Student 2: Advanced taxonomic knowledge."
 msgstr "Étudiant en botanique 2 : connaissances taxonomiques avancées."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:110
-#: use-case-lepidoptera-sampling.en.adoc:122
 msgid "Botany Student 3: Advanced taxonomic knowledge."
 msgstr "Étudiant en botanique 3 : connaissances taxonomiques avancées."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:111
-#: use-case-lepidoptera-sampling.en.adoc:123
 msgid "Botany student 4: Advanced taxonomic knowledge."
 msgstr "Étudiant en botanique 4 : connaissances taxonomiques avancées."
 
@@ -3552,8 +3529,8 @@ msgstr "En utilisant le jeu de données téléchargé, produisez une feuille de 
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
-#: use-case-lepidoptera-sampling.en.adoc:134
-#: use-case-lepidoptera-sampling.en.adoc:147
+#: use-case-lepidoptera-sampling.en.adoc:133
+#: use-case-lepidoptera-sampling.en.adoc:146
 #: use-case-birds-from-literature.en.adoc:134
 #: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
@@ -3561,7 +3538,7 @@ msgstr "Utilisez la feuille d'exercice pour fournir vos réponses et soumettre l
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:125
-#: use-case-lepidoptera-sampling.en.adoc:135
+#: use-case-lepidoptera-sampling.en.adoc:134
 #: use-case-birds-from-literature.en.adoc:137
 #, no-wrap
 msgid "Exercise 3"
@@ -3579,7 +3556,7 @@ msgstr "Télécharger link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-F
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:134
-#: use-case-lepidoptera-sampling.en.adoc:145
+#: use-case-lepidoptera-sampling.en.adoc:144
 msgid "Evaluate the dataset and identify which types of errors are present."
 msgstr "Évaluez le jeu de données et identifiez quels types d'erreurs il contient."
 
@@ -3600,14 +3577,14 @@ msgstr "Lien de téléchargement link:../exercise-data/UC2-IS-4-ForPublication.x
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
-#: use-case-lepidoptera-sampling.en.adoc:158
+#: use-case-lepidoptera-sampling.en.adoc:157
 #: use-case-birds-from-literature.en.adoc:172
 msgid "Use the previously provided IPT installation to publish the given dataset."
 msgstr "Utilisez l'installation IPT indiquée précédemment pour publier le jeu de données fourni."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
-#: use-case-lepidoptera-sampling.en.adoc:158
+#: use-case-lepidoptera-sampling.en.adoc:157
 #: use-case-birds-from-literature.en.adoc:172
 msgid "Use the exercise sheet to provide your answers and link to the published dataset."
 msgstr "Utilisez la feuille d'exercice pour fournir vos réponses, ainsi qu'un lien vers le jeu de données publié."
@@ -3722,52 +3699,173 @@ msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise s
 msgstr "Télécharger link:../course-docs/UC2-LS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 ko)"
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:110
-msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible."
-msgstr "Attribuer des rôles pour maximiser l'efficacité du traitement et de la transformation des données, afin de produire des données de la meilleure qualité aussi efficacement que possible."
+#: use-case-lepidoptera-sampling.en.adoc:82
+msgid "The volume of analogue data (paper logs) arriving at the IBAN headquarters will soon exceed their capacity to digitize, so the steering committee has decided to reconsider the current approach to this area of their work which has grown unmanaged for the last few years.  To date, this is how work has been organized:"
+msgstr ""
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:129
+#: use-case-lepidoptera-sampling.en.adoc:84
+msgid "The paper logs arrive via post. The secretary opens the packages and collates the logs."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:85
+msgid "There are five volunteers with basic computer skills using two shared computers to digitize the paper logs. These volunteers are also citizen scientists themselves, so they are familiar with the taxonomy of the order Lepidoptera, and with the species occurring in the country where the headquarters of IBAN are located."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:86
+msgid "The digitizers come and go whenever they have time so they usually check for computer availability via phone. Sometimes there are time clashes and some have to go home as the two computers are busy, and sometimes the two computers are unused."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:87
+msgid "When they digitize, they usually pick one paper log at a time from the pile, and digitize it (if they can). Common problems that occur are that:"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:88
+msgid "the digitizer does not know the species observed (misspellings occur),"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:89
+msgid "the digitizer does not know the area where the sampling has occurred,"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:90
+msgid "the digitizer cannot read the handwriting or the language in which some of the comments are written."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:91
+msgid "A single taxonomic expert gets all the digitized tables and produces the report and distribution maps based on them. Normally she needs to discard around 15% of the digitized data because of inconsistencies, misspellings or other errors that she does not have the time to check."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:95
+#, no-wrap
+msgid "*Analyze the financial component of their new digitization plan*\n"
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:99
+msgid "The steering committee is analyzing the following options for their new digitization plan, all of which have financial implications on their already reduced budget.  They know they can only implement TWO of these options, so they need to choose wisely.  Use the exercise sheet to provide a recommendation on which two options they should select and explain why you chose them."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:101
+msgid "Option 1: Buy three more computers so all digitizers can work simultaneously."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:102
+msgid "Option 2: Offer financial support to the national offices to buy flatbed scanners and send/share the logs electronically instead of by post."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:103
+msgid "Option 3: Offer financial compensation to the digitizers. They will not be able to pay all five of them the equivalent of a regular salary, but could cover the costs of part time positions for three of the volunteers."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:104
+msgid "Option 4: Purchase existing biodiversity digitization software in English, which comes with taxonomic entry check and in-built aids to correct geographical information."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:105
+msgid "Option 5: Contract a software development company to develop customized digitization software. For the same price of the commercial software, the developers will provide a solution in the local language, which will match the original data schema perfectly and will also provide a web data portal to expose the results of the digitization effort."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:106
+msgid "Option 6: Organize a course for the five digitizers to improve their skills in taxonomy, computer use and biodiversity informatics standards."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:114
+msgid "These are the human resources available for this digitization effort.  How would you assign roles to maximize the efficiency of the digitization process and produce data of the highest quality possible? Use the exercise sheet to provide your answers."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:116
+msgid "Administrative assistant. No taxonomic knowledge. Basic computer use. Can read 3 languages."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:117
+msgid "Volunteer 1. Basic taxonomic knowledge. Basic computer use."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:118
+msgid "Volunteer 2. Basic taxonomic knowledge. Basic computer use."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:119
+msgid "Volunteer 3. Basic taxonomic knowledge. Basic computer use. Can read 3 languages."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:120
+msgid "Volunteer 4. Basic taxonomic knowledge. Basic computer use. Can read 3 languages."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:121
+msgid "Volunteer 5. Basic taxonomic knowledge. Advanced computer use (including GIS and data analysis tools)."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:122
+msgid "Taxonomic expert. Advanced taxonomic knowledge. Advanced computer use (including GIS and data analysis tools)."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:128
 msgid "Imagine you are one of the volunteers digitizing the paper logs received at the IBAN headquarters. You have received two paper logs."
 msgstr "Imaginez que vous êtes un des bénévoles à numériser les archives papier reçues au siège de l'IBAN. Vous avez reçu deux archives papier."
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:131
+#: use-case-lepidoptera-sampling.en.adoc:130
 msgid "Download logs 1 and 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
 msgstr "Télécharger les journaux 1 et 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 ko)"
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:132
+#: use-case-lepidoptera-sampling.en.adoc:131
 msgid "What data structure would you use to reflect the data in these logs?"
 msgstr "Quelle structure de données utiliseriez-vous pour refléter les données dans ces journaux ?"
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:133
+#: use-case-lepidoptera-sampling.en.adoc:132
 msgid "Create a spreadsheet using this structure and the data from the logs."
 msgstr "Créez une feuille de calcul en utilisant cette structure et les données des journaux."
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:142
+#: use-case-lepidoptera-sampling.en.adoc:141
 msgid "Taking the role of one of the volunteers with advanced computer skills, imagine you have been assigned the responsibility for data quality issues.  Your main task is to reduce the amount of data that is currently discarded (around a 15%) before processing due to errors and inconsistencies.  You have received a dataset as the raw product of the digitization effort."
 msgstr "En assumant le rôle de l'un des bénévoles possédant des compétences informatiques avancées, imaginez qu’il vous a été assigné la responsabilité des questions de qualité des données. Votre tâche principale est de réduire la quantité de données actuellement rejetées (environ 15 %) avant traitement en raison d'erreurs et d'incohérences. Vous avez reçu un jeu de données en tant que produit brut de l'effort de numérisation."
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:144
+#: use-case-lepidoptera-sampling.en.adoc:143
 msgid "Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
 msgstr "Télécharger link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 ko)"
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:146
+#: use-case-lepidoptera-sampling.en.adoc:145
 msgid "Identify possible ways to correct those issues, and perform those corrections for as many of the errors present as you can."
 msgstr "Identifiez différentes façons de corriger ces problèmes, et effectuez ces corrections pour autant d'erreurs présentes que possible."
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:155
+#: use-case-lepidoptera-sampling.en.adoc:154
 msgid "For this exercise, you will take the role of the taxonomic expert collaborating with IBAN at their headquarters.  Some of your previous responsibilities (writing the annual report, and producing the base distribution maps) have been handed over to the volunteers, and you have now been given a new responsibility: publishing the cleaned data online through the GBIF network.  The volunteer in charge of data quality has provided a dataset to be published."
 msgstr "Pour cet exercice, vous prendrez le rôle de l’expert taxonomique qui collabore avec l’IBAN à son siège. Certaines de vos responsabilités précédentes (rédaction du rapport annuel, et production des cartes de distribution de base) ont été transmises aux volontaires, et une nouvelle responsabilité vous a été confiée : publier les données nettoyées en ligne via le réseau GBIF. Le volontaire responsable de la qualité des données a fourni un jeu de données à publier."
 
 #. type: Plain text
-#: use-case-lepidoptera-sampling.en.adoc:157
+#: use-case-lepidoptera-sampling.en.adoc:156
 msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
 msgstr "Télécharger link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 ko)"
 
