@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-06-15 10:59+0000\n"
-"PO-Revision-Date: 2021-06-16 00:06\n"
+"PO-Revision-Date: 2021-06-16 01:12\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -234,7 +234,7 @@ msgstr "Archivos para descargar"
 #. type: Plain text
 #: downloads.en.adoc:7
 msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from YouTube. Subtitles are available when playing from YouTube for most videos.  If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer."
-msgstr ""
+msgstr "Todos los archivos del curso se pueden descargar desde esta página. O si lo prefiere, todos los archivos están enlazados individualmente a lo largo del curso, tal y como aparecen en el currículum. Los archivos de vídeo también están incrustados a lo largo del curso, y se reproducen desde YouTube. Los subtítulos están disponibles cuando se reproduce desde YouTube, para la mayoría de los vídeos. Si tiene dificultades para acceder a los vídeos incorporados, descargue los archivos mp4 para reproducirlos localmente en su ordenador."
 
 #. type: Title ===
 #: downloads.en.adoc:8
@@ -245,7 +245,7 @@ msgstr "Vídeos"
 #. type: Plain text
 #: downloads.en.adoc:10
 msgid "The videos are narrated in English. Subtitles are not available for the downloaded videos."
-msgstr ""
+msgstr "Los videos están narrados en inglés. Los subtítulos no están disponibles para los videos descargados."
 
 #. type: Plain text
 #: downloads.en.adoc:12
@@ -330,7 +330,7 @@ msgstr "Definiciones"
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr ""
+msgstr "En este video (12:02), revisará la terminología utilizada en este curso. Si no puede ver el vídeo incrustado, puede enlazar:. /videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 38.5 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:20
@@ -779,13 +779,13 @@ msgstr "Encuentre el archivo descargado. Haga clic derecho en él y elija \"Extr
 #. type: delimited block *
 #: foundations.en.adoc:251
 msgid "A command window will appear (don't close it) and soon after a new web browser window will show the application."
-msgstr ""
+msgstr "Aparecerá una ventana de comandos (no la cierre) y poco después, una nueva ventana del navegador web mostrará la aplicación."
 
 #. type: Block title
 #: foundations.en.adoc:252
 #, no-wrap
 msgid "Detailed instructions for MS Windows (click to expand)"
-msgstr ""
+msgstr "Instrucciones detalladas para MS Windows (haga clic para expandir)"
 
 #. type: delimited block =
 #: foundations.en.adoc:256 foundations.en.adoc:265 foundations.en.adoc:274
@@ -814,7 +814,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:271
 msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
-msgstr ""
+msgstr "Encuentre el archivo descargado. Haga clic derecho en él y elija \"Extraer todos…\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:278
@@ -825,7 +825,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:280
 msgid "Click \"Extract\""
-msgstr ""
+msgstr "Haga clic en \"Extraer\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:287
@@ -836,7 +836,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:289
 msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
-msgstr ""
+msgstr "Encuentre los archivos extraídos. Opcionalmente, haga clic derecho en \"openrefine\" y elija \"Enviar a → Escritorio (crear acceso directo)\" para crear un acceso directo en su ordenador. Luego haga doble clic en \"openrefine\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:296
@@ -847,7 +847,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:298
 msgid "A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use."
-msgstr ""
+msgstr "Se abre una ventana de consola negra y un poco más tarde se abre el navegador. OpenRefine está listo para usarse."
 
 #. type: Title ====
 #: foundations.en.adoc:301
@@ -858,7 +858,7 @@ msgstr ""
 #. type: Plain text
 #: foundations.en.adoc:304
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
-msgstr ""
+msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
 
 #. type: Plain text
 #: foundations.en.adoc:306
@@ -874,7 +874,7 @@ msgstr ""
 #: foundations.en.adoc:308
 #, no-wrap
 msgid "Detailed instructions for Mac (click to expand)"
-msgstr ""
+msgstr "Instrucciones detalladas para Mac (haga clic para expandir)"
 
 #. type: Target for macro image
 #: foundations.en.adoc:316
@@ -885,7 +885,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:318
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it."
-msgstr ""
+msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], y elija abrirlo."
 
 #. type: Target for macro image
 #: foundations.en.adoc:325
@@ -896,7 +896,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:327
 msgid "A warning is shown. Click \"OK\"."
-msgstr ""
+msgstr "Se muestra una advertencia. Haga clic en \"OK\"."
 
 #. type: Target for macro image
 #: foundations.en.adoc:334
@@ -907,7 +907,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:336
 msgid "Open System Preferences."
-msgstr ""
+msgstr "Abre Preferencias del Sistema."
 
 #. type: Target for macro image
 #: foundations.en.adoc:343
@@ -918,7 +918,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:345
 msgid "Open Security & Privacy"
-msgstr ""
+msgstr "Abrir Seguridad y Privacidad"
 
 #. type: Target for macro image
 #: foundations.en.adoc:352
@@ -929,7 +929,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:354
 msgid "Choose \"Open Anyway\" at the bottom."
-msgstr ""
+msgstr "Elige \"Abrir de todas formas\" en la parte inferior."
 
 #. type: Target for macro image
 #: foundations.en.adoc:361
@@ -940,7 +940,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:363
 msgid "Choose \"Open\""
-msgstr ""
+msgstr "Elige \"Abrir\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:370
@@ -951,7 +951,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:372
 msgid "Finally, the application archive is opened! Drag it to your Applications folder."
-msgstr ""
+msgstr "Finalmente, ¡el archivo de aplicaciones está abierto! Arrastre a su carpeta de Aplicaciones."
 
 #. type: Target for macro image
 #: foundations.en.adoc:379
@@ -962,7 +962,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:381
 msgid "Double-click the OpenRefine icon.  Another security warning appears!"
-msgstr ""
+msgstr "Haga doble clic en el icono de OpenRefine. ¡Otra advertencia de seguridad aparece!"
 
 #. type: Target for macro image
 #: foundations.en.adoc:388
@@ -973,7 +973,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:390
 msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
-msgstr ""
+msgstr "Vuelva a \"Seguridad y Privacidad\" y haga clic en \"Abrir de todas formas\"."
 
 #. type: Target for macro image
 #: foundations.en.adoc:397
@@ -984,12 +984,12 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:399
 msgid "(To avoid these warnings, the OpenRefine developers would need to pay Apple.)"
-msgstr ""
+msgstr "(Para evitar estas advertencias, los desarrolladores de OpenRefine tendrían que pagar a Apple.)"
 
 #. type: delimited block =
 #: foundations.en.adoc:401
 msgid "Click \"Open\"."
-msgstr ""
+msgstr "Haga clic en \"Abrir\"."
 
 #. type: Target for macro image
 #: foundations.en.adoc:408
@@ -1000,7 +1000,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:410
 msgid "Finally! The application is running."
-msgstr ""
+msgstr "¡Finalmente! La aplicación se está ejecutando."
 
 #. type: Title ====
 #: foundations.en.adoc:414
@@ -1011,7 +1011,7 @@ msgstr ""
 #. type: Plain text
 #: foundations.en.adoc:417
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
-msgstr ""
+msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
 
 #. type: Plain text
 #: foundations.en.adoc:419
@@ -1022,12 +1022,12 @@ msgstr ""
 #: foundations.en.adoc:420
 #, no-wrap
 msgid "Detailed instructions for Linux (click to expand)"
-msgstr ""
+msgstr "Instrucciones detalladas para Linux (haga clic para expandir)"
 
 #. type: delimited block =
 #: foundations.en.adoc:424
 msgid "These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is similar for Gnome (e.g. Ubuntu, Red Hat, CentOS)."
-msgstr ""
+msgstr "Estas instrucciones son para KDE (por ejemplo, Kubuntu, SuSE), pero el proceso es similar para Gnome (por ejemplo, Ubuntu, Red Hat, CentOS)."
 
 #. type: Target for macro image
 #: foundations.en.adoc:430
@@ -1038,7 +1038,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:432
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].  Open it."
-msgstr ""
+msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]. Abralo."
 
 #. type: Target for macro image
 #: foundations.en.adoc:439
@@ -1049,7 +1049,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:441
 msgid "Click \"Extract\" to unpack the downloaded application."
-msgstr ""
+msgstr "Haga clic en \"Extraer\" para descomprimir la aplicación descargada."
 
 #. type: Target for macro image
 #: foundations.en.adoc:448
@@ -1060,7 +1060,7 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:450
 msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
-msgstr ""
+msgstr "Elija un lugar adecuado. También seleccioné \"Abrir carpeta de destino después de la extracción\" y \"Cerrar Ark después de la extracción\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:457
