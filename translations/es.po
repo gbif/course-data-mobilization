@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-06-15 10:59+0000\n"
-"PO-Revision-Date: 2021-06-15 12:46\n"
+"PO-Revision-Date: 2021-06-16 00:06\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -748,12 +748,12 @@ msgstr ""
 #. type: delimited block *
 #: foundations.en.adoc:242
 msgid "Linux users only: Java JRE installed."
-msgstr ""
+msgstr "Sólo usuarios de Linux: Java JRE instalado."
 
 #. type: delimited block *
 #: foundations.en.adoc:243
 msgid "Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet Explorer is not supported."
-msgstr ""
+msgstr "Google Chrome, Microsoft Edge o Mozilla Firefox instalados. Internet Explorer no es compatible."
 
 #. type: delimited block *
 #: foundations.en.adoc:245
@@ -769,12 +769,12 @@ msgstr ""
 #. type: delimited block =
 #: foundations.en.adoc:249 foundations.en.adoc:262
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
-msgstr ""
+msgstr "Descargue https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*]. Elija guardar el archivo en lugar de abrirlo."
 
 #. type: delimited block *
 #: foundations.en.adoc:250
 msgid "Find the downloaded file.  Right click it, and choose \"Extract all…\". Unzip, and double-click on openrefine.exe or refine.bat if the former does not work."
-msgstr ""
+msgstr "Encuentre el archivo descargado. Haga clic derecho en él y elija \"Extraer todo…\". Descomprima y haga doble clic en openrefine.exe o refine.bat si la primera no funciona."
 
 #. type: delimited block *
 #: foundations.en.adoc:251
