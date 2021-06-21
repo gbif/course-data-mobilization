@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-06-15 10:59+0000\n"
-"PO-Revision-Date: 2021-06-21 22:26\n"
+"PO-Revision-Date: 2021-06-21 23:35\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -352,7 +352,7 @@ msgstr "Estructura"
 #. type: Plain text
 #: foundations.en.adoc:32
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr ""
+msgstr "En este video (13:10), usted revisará el campo y los tipos de datos que contienen datos, las estructuras que ayudan a organizar y proteger esos datos y lo que estos significan para la integridad y seguridad de sus datos. Si no puedes ver el vídeo incrustado, puedes enlazar:../videos/Foundations_Structural mp4[descargar^,opts=descargar] localmente. (MP4 - 38.8 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:36
@@ -363,7 +363,7 @@ msgstr "Calidad de los datos"
 #. type: Plain text
 #: foundations.en.adoc:40
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr ""
+msgstr "En este vídeo (12:26), se repasa la terminología utilizada en este curso.  Si no puede ver el vídeo incrustado de Vimeo, puede enlazarlo:../videos/Foundations_Definitions.mp4[descarga^,opts=download] localmente. (MP4 - 38,5 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:48
@@ -373,7 +373,7 @@ msgstr "A continuación encontrará una lectura seleccionada de la guía de Arth
 #. type: delimited block _
 #: foundations.en.adoc:53
 msgid "Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described.  These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data."
-msgstr ""
+msgstr "Antes de que pueda tener lugar una discusión detallada sobre calidad de los datos y su aplicación a datos de presencia de especies, hay una serie de conceptos que necesitan ser definidos y descritos. Estos incluyen la calidad de los datos del término en sí, los términos exactitud y precisión que a menudo son mal aplicados, y lo que entendemos por datos de especies primarias y datos de presencia de especies."
 
 #. type: delimited block _
 #: foundations.en.adoc:55
@@ -384,12 +384,12 @@ msgstr "*Datos de ocurrencia de especie*\n"
 #. type: delimited block _
 #: foundations.en.adoc:59
 msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
-msgstr ""
+msgstr "Los datos de presencia de especies se utilizan aquí para incluir datos de etiquetas de espécimen adjuntos a especímenes o lotes alojados en museos y herbarios, datos de observación y estudios ambientales. En general, los datos son lo que llamamos “basado en puntos”, aunque la línea (datos de las encuestas ambientales, colecciones a lo largo de un río), también se incluyen los datos de la cuadrícula (observaciones desde un área definida como un parque nacional) y de la cuadrícula (observaciones o registros de encuestas desde una cuadrícula regular). En genEneral,eestamos hablando de datos georreferenciados, es decir, registros con referencias geográficas que los vinculan a un lugar particular en el espacio, ya sea con una coordenada georreferenciada (por ejemplo, latitud y longitud, UTM) o no (descripción textual de una localidad, altitud, profundidad). - y hora (fecha, hora del día)."
 
 #. type: delimited block _
 #: foundations.en.adoc:62
 msgid "In general the data are also tied to a taxonomic name, but unidentified collections may also be included.  The term has occasionally been used interchangeably with the term “primary species data”."
-msgstr ""
+msgstr "En general, los datos también están vinculados a un nombre taxonómico, pero las colecciones no identificadas también pueden ser incluidas. De vez en cuando, el término se ha utilizado de forma intercambiable con el término “datos primarios de especies”."
 
 #. type: delimited block _
 #: foundations.en.adoc:64
@@ -416,7 +416,7 @@ msgstr "La exactitud y la precisión se confunden a menudo y las diferencias no 
 #. type: delimited block _
 #: foundations.en.adoc:73
 msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
-msgstr ""
+msgstr "Exactitud se refiere a la cercanía de los valores medidos, las observaciones o las estimaciones con el valor real o verdadero (o con un valor que se acepta como verdadero, por ejemplo, las coordenadas de un punto de control)."
 
 #. type: delimited block _
 #: foundations.en.adoc:80
