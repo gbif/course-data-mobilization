@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-06-15 10:59+0000\n"
-"PO-Revision-Date: 2021-06-28 15:28\n"
+"PO-Revision-Date: 2021-07-12 11:42\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -250,37 +250,37 @@ msgstr "Los videos están narrados en inglés. Los subtítulos no están disponi
 #. type: Plain text
 #: downloads.en.adoc:12
 msgid "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
-msgstr ""
+msgstr "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:14
 msgid "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
-msgstr ""
+msgstr "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:16
 msgid "link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
-msgstr ""
+msgstr "link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:18
 msgid "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
-msgstr ""
+msgstr "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:20
 msgid "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
-msgstr ""
+msgstr "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:22
 msgid "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
-msgstr ""
+msgstr "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:24
 msgid "link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
-msgstr ""
+msgstr "link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
 
 #. type: Title ===
 #: downloads.en.adoc:25
@@ -684,43 +684,45 @@ msgstr ""
 #, no-wrap
 msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
 "Data transformation is a time consuming task.\n"
-msgstr ""
+msgstr "*Integración*: Asegúrese de que el software acepta y produce los formatos de datos que utiliza y necesita.\n"
+"La transformación de datos es una tarea que consume mucho tiempo.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:218
 #, no-wrap
 msgid "*Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.\n"
-msgstr ""
+msgstr "*Soporte de idioma*: es esencial que todos los usuarios del software puedan entender su interfaz y la documentación que hará posible su uso.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:220
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
-msgstr ""
+msgstr "*Soporte técnico y documentación*: asegúrese de explorar la documentación existente y los mecanismos de soporte.\n"
+"Puedes estar seguro de que en algún momento lo necesitarás.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:221
 #, no-wrap
 msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learned while using them, supported by in-line help systems.\n"
-msgstr ""
+msgstr "*Curva de aprendizaje*: Algunos programas pueden requerir capacitación específica para aprender a usarlo, mientras que otros son más intuitivos y pueden aprenderse mientras los usan, soportados por sistemas de ayuda en línea.\n"
 
 #. type: Title ===
 #: foundations.en.adoc:222
 #, no-wrap
 msgid "Install OpenRefine"
-msgstr ""
+msgstr "Instalar OpenRefine"
 
 #. type: delimited block *
 #: foundations.en.adoc:225
 msgid "Install software required for activities later in the course"
-msgstr ""
+msgstr "Instalar software necesario para las actividades posteriores en el curso"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: foundations.en.adoc:226
 #, no-wrap
 msgid "Open Refine Logo"
-msgstr ""
+msgstr "Logo de OpenRefine"
 
 #. type: Target for macro image
 #: foundations.en.adoc:226
@@ -731,23 +733,23 @@ msgstr ""
 #. type: delimited block *
 #: foundations.en.adoc:231
 msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^] es una herramienta con un conjunto de características para trabajar con datos tabulares que mejoran la calidad general de un conjunto de datos. Es una aplicación que se ejecuta en tu propio ordenador como un pequeño servidor web, y para poder usarlo su navegador debe apuntar a ese servidor web. Por lo tanto, piense en OpenRefine como una aplicación web personal y privada."
 
 #. type: delimited block *
 #: foundations.en.adoc:236
 msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
-msgstr ""
+msgstr "Utilizaremos OpenRefine durante la parte de movilización de datos del curso, especialmente durante los ejercicios prácticos. Será necesario instalar OpenRefine en su portátil. Si usted es un usuario experto en computadora, puede seguir estos pasos para instalar el software en su computadora. Si no estás seguro, por favor pide ayuda. Consulta https://openrefine.org/download.html[OpenRefine download page^] para más detalles."
 
 #. type: delimited block *
 #: foundations.en.adoc:238
 msgid "Administrative passwords may be required to install software."
-msgstr ""
+msgstr "Las contraseñas administrativas pueden ser requeridas para instalar software."
 
 #. type: Title ====
 #: foundations.en.adoc:239
 #, no-wrap
 msgid "Installation Requirements"
-msgstr ""
+msgstr "Requisitos para la instalación"
 
 #. type: delimited block *
 #: foundations.en.adoc:242
@@ -762,13 +764,13 @@ msgstr "Google Chrome, Microsoft Edge o Mozilla Firefox instalados. Internet Exp
 #. type: delimited block *
 #: foundations.en.adoc:245
 msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
-msgstr ""
+msgstr "La última versión estable es OpenRefine 3.4.1, publicada el 24 de septiembre de 2020. Las instrucciones detalladas de instalación están disponibles en https://docs.openrefine.org/manual/installing/[^]."
 
 #. type: Title ====
 #: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on MS Windows"
-msgstr ""
+msgstr "Instalación en Microsoft Windows"
 
 #. type: delimited block =
 #: foundations.en.adoc:249 foundations.en.adoc:262
@@ -801,19 +803,19 @@ msgstr "Instrucciones detalladas para MS Windows (haga clic para expandir)"
 #: foundations.en.adoc:444 foundations.en.adoc:453 foundations.en.adoc:462
 #: foundations.en.adoc:471
 msgid "{blank}"
-msgstr ""
+msgstr "{blank}"
 
 #. type: Target for macro image
 #: foundations.en.adoc:260
 #, no-wrap
 msgid "img/web/install-openrefine/win1-save-download.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win1-save-download.png"
 
 #. type: Target for macro image
 #: foundations.en.adoc:269
 #, no-wrap
 msgid "img/web/install-openrefine/win2-extract-all.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win2-extract-all.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:271
@@ -824,7 +826,7 @@ msgstr "Encuentre el archivo descargado. Haga clic derecho en él y elija \"Extr
 #: foundations.en.adoc:278
 #, no-wrap
 msgid "img/web/install-openrefine/win3-extract-location.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win3-extract-location.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:280
@@ -835,7 +837,7 @@ msgstr "Haga clic en \"Extraer\""
 #: foundations.en.adoc:287
 #, no-wrap
 msgid "img/web/install-openrefine/win4-create-shortcut.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win4-create-shortcut.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:289
@@ -846,7 +848,7 @@ msgstr "Encuentre los archivos extraídos. Opcionalmente, haga clic derecho en \
 #: foundations.en.adoc:296
 #, no-wrap
 msgid "img/web/install-openrefine/win5-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win5-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:298
@@ -857,7 +859,7 @@ msgstr "Se abre una ventana de consola negra y un poco más tarde se abre el nav
 #: foundations.en.adoc:301
 #, no-wrap
 msgid "Installation on Mac"
-msgstr ""
+msgstr "Instalación en Mac"
 
 #. type: Plain text
 #: foundations.en.adoc:304
@@ -867,12 +869,12 @@ msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/
 #. type: Plain text
 #: foundations.en.adoc:306
 msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
-msgstr ""
+msgstr "Descargar, abrir y arrastrar el icono a la carpeta de aplicaciones. No necesita instalar Java por separado."
 
 #. type: Plain text
 #: foundations.en.adoc:307
 msgid "Double click on it and a new web browser window will show the application."
-msgstr ""
+msgstr "Haga doble clic en él y una nueva ventana del navegador mostrará la aplicación."
 
 #. type: Block title
 #: foundations.en.adoc:308
@@ -884,7 +886,7 @@ msgstr "Instrucciones detalladas para Mac (haga clic para expandir)"
 #: foundations.en.adoc:316
 #, no-wrap
 msgid "img/web/install-openrefine/mac01-download-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac01-download-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:318
@@ -895,7 +897,7 @@ msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/
 #: foundations.en.adoc:325
 #, no-wrap
 msgid "img/web/install-openrefine/mac02-unidentified-developer.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac02-unidentified-developer.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:327
@@ -906,7 +908,7 @@ msgstr "Se muestra una advertencia. Haga clic en \"OK\"."
 #: foundations.en.adoc:334
 #, no-wrap
 msgid "img/web/install-openrefine/mac03-system-preferences.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac03-system-preferences.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:336
@@ -917,7 +919,7 @@ msgstr "Abre Preferencias del Sistema."
 #: foundations.en.adoc:343
 #, no-wrap
 msgid "img/web/install-openrefine/mac04-security-and-privacy.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac04-security-and-privacy.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:345
@@ -928,7 +930,7 @@ msgstr "Abrir Seguridad y Privacidad"
 #: foundations.en.adoc:352
 #, no-wrap
 msgid "img/web/install-openrefine/mac05-open-anyway.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac05-open-anyway.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:354
@@ -939,7 +941,7 @@ msgstr "Elige \"Abrir de todas formas\" en la parte inferior."
 #: foundations.en.adoc:361
 #, no-wrap
 msgid "img/web/install-openrefine/mac06-yes-really-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac06-yes-really-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:363
@@ -950,7 +952,7 @@ msgstr "Elige \"Abrir\""
 #: foundations.en.adoc:370
 #, no-wrap
 msgid "img/web/install-openrefine/mac07-copy-to-applications.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac07-copy-to-applications.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:372
@@ -961,7 +963,7 @@ msgstr "Finalmente, ¡el archivo de aplicaciones está abierto! Arrastre a su ca
 #: foundations.en.adoc:379
 #, no-wrap
 msgid "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:381
@@ -972,7 +974,7 @@ msgstr "Haga doble clic en el icono de OpenRefine. ¡Otra advertencia de segurid
 #: foundations.en.adoc:388
 #, no-wrap
 msgid "img/web/install-openrefine/mac09-not-the-user.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac09-not-the-user.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:390
@@ -1037,7 +1039,7 @@ msgstr "Estas instrucciones son para KDE (por ejemplo, Kubuntu, SuSE), pero el p
 #: foundations.en.adoc:430
 #, no-wrap
 msgid "img/web/install-openrefine/kde1-download-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde1-download-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:432
@@ -1048,7 +1050,7 @@ msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/
 #: foundations.en.adoc:439
 #, no-wrap
 msgid "img/web/install-openrefine/kde2-extract.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde2-extract.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:441
@@ -1059,7 +1061,7 @@ msgstr "Haga clic en \"Extraer\" para descomprimir la aplicación descargada."
 #: foundations.en.adoc:448
 #, no-wrap
 msgid "img/web/install-openrefine/kde3-extract-all.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde3-extract-all.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:450
@@ -1070,7 +1072,7 @@ msgstr "Elija un lugar adecuado. También seleccioné \"Abrir carpeta de destino
 #: foundations.en.adoc:457
 #, no-wrap
 msgid "img/web/install-openrefine/kde4-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde4-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:459
@@ -1081,35 +1083,35 @@ msgstr ""
 #: foundations.en.adoc:466
 #, no-wrap
 msgid "img/web/install-openrefine/kde5-execute.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde5-execute.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:468
 msgid "Confirm that you wish to execute the downloaded application."
-msgstr ""
+msgstr "Confirme que desea ejecutar la aplicación descargada."
 
 #. type: Target for macro image
 #: foundations.en.adoc:475
 #, no-wrap
 msgid "img/web/install-openrefine/kde6-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde6-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:477
 msgid "OpenRefine is now running."
-msgstr ""
+msgstr "OpenRefine se está ejecutando."
 
 #. type: Title ===
 #: foundations.en.adoc:481
 #, no-wrap
 msgid "Foundations review"
-msgstr ""
+msgstr "Revisión de fundamentos"
 
 #. type: Plain text
 #: foundations.en.adoc:484 planning.en.adoc:132 capture.en.adoc:63
 #: management.en.adoc:150 publishing.en.adoc:61
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr ""
+msgstr "Comprueba los conceptos aprendidos en este módulo."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1135,7 +1137,7 @@ msgstr ""
 #. type: Plain text
 #: foundations.en.adoc:504
 msgid "If you open a data file and see the following, what would you suspect is the issue? +"
-msgstr ""
+msgstr "Si abres un archivo de datos y ves lo siguiente, ¿Cuál sospechas que es el problema? +"
 
 #. type: Plain text
 #: foundations.en.adoc:506 solutions.en.adoc:21
@@ -1149,7 +1151,10 @@ msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
 "- [x] The wrong encoding was used to open the file\n"
 "- [ ] The sender used a weird font\n"
-msgstr ""
+msgstr "- [ ] Nada\n"
+"- [ ] Está corrupto\n"
+"- [x] La codificación incorrecta fue utilizada para abrir el archivo\n"
+"- [ ] El remitente usó una fuente extraña\n"
 
 #.  Question 3
 #. type: Plain text
@@ -1168,13 +1173,20 @@ msgid "* Integrated Publishing Toolkit (IPT) +\n"
 "  __data capture__\n"
 "* OpenRefine +\n"
 "  __data cleaning__\n"
-msgstr ""
+msgstr "* Herramienta de publicación integrada (IPT) +\n"
+"  __publicación de datos__\n"
+"* Especificar +\n"
+"  __captura de datos__ Y __gestión de datos__\n"
+"* iNaturalist +\n"
+"  __captura de datos__\n"
+"* OpenRefine +\n"
+"  __limpieza de datos__\n"
 
 #.  Question 4
 #. type: Plain text
 #: foundations.en.adoc:530
 msgid "For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)"
-msgstr ""
+msgstr "Para el ejemplo dado, introduzca el tipo de datos correcto (binario, booleano, flotante, entero, entero largo, texto, texto no estructurado)"
 
 #. type: delimited block .
 #: foundations.en.adoc:547
@@ -1193,13 +1205,27 @@ msgid "* 1236975 +\n"
 "  __boolean__\n"
 "* 6 rabbits were observed +\n"
 "  __text__\n"
-msgstr ""
+msgstr "* 1236975 +\n"
+"  __entero largo__\n"
+"* 01101111 +\n"
+"  __binario__\n"
+"* Caminamos 5 millas a lo largo de la carretera oeste desde la oficina de correos en el centro de la ciudad. Luego fuimos 2 millas al norte por un camino de tierra hacia el río, luego continuamos hacia el oeste a lo largo del río por otras 5 millas. +\n"
+"  __texto no estructurado__\n"
+"* 1024 +\n"
+"  __entero__\n"
+"* 29. +\n"
+"  __flotante__\n"
+"* Sí/No +\n"
+"  __booleano__\n"
+"* 6 conejos observados +\n"
+"  __texto__\n"
+"__binario__\n"
 
 #.  Question 5
 #. type: Plain text
 #: foundations.en.adoc:550
 msgid "Which of these terms describes a \"field/column name\"?"
-msgstr ""
+msgstr "¿Cuál de estos términos describe un nombre de \"campo/columna\"?"
 
 #. type: delimited block .
 #: foundations.en.adoc:559
@@ -1210,13 +1236,18 @@ msgid "- [x] Assigned\n"
 "- [ ] Readable\n"
 "- [x] Unique\n"
 "- [ ] User-interface\n"
-msgstr ""
+msgstr "- [x] Asignado\n"
+"- [ ] Descriptivo\n"
+"- [x] Identificador\n"
+"- [ ] Legible\n"
+"- [x] Único\n"
+"- [ ] interfaz de usuario\n"
 
 #.  Question 6
 #. type: Plain text
 #: foundations.en.adoc:562
 msgid "Which of these terms describes a \"field label\"?"
-msgstr ""
+msgstr "¿Cuál de estos términos describe una \"etiqueta de campo\"?"
 
 #. type: delimited block .
 #: foundations.en.adoc:571
@@ -1227,13 +1258,18 @@ msgid "- [ ] Assigned\n"
 "- [x] Readable\n"
 "- [ ] Unique\n"
 "- [x] User-interface\n"
-msgstr ""
+msgstr "- [x] Asignado\n"
+"- [ ] Descriptivo\n"
+"- [x] Identificador\n"
+"- [ ] Legible\n"
+"- [x] Único\n"
+"- [ ] interfaz de usuario\n"
 
 #.  Question 7
 #. type: Plain text
 #: foundations.en.adoc:574
 msgid "For each statement, input the correct structure (row, column, table)"
-msgstr ""
+msgstr "Para cada sentencia, introduzca la estructura correcta (fila, columna, tabla)"
 
 #. type: delimited block .
 #: foundations.en.adoc:583
@@ -1244,13 +1280,18 @@ msgid "* All data refers to a SINGLE concept. +\n"
 "  __column__\n"
 "* Attributes of a record ALWAYS stay together. +\n"
 "  __row__\n"
-msgstr ""
+msgstr "* Todos los datos se refieren a un concepto UNICO. +\n"
+"  __tabla__\n"
+"* Un atributo tiene el MISMO campo / tipo de datos para cada registro. +\n"
+"  __columna__\n"
+"* Los atributos de un registro SIEMPRE permanecen juntos. +\n"
+"  __fila__\n"
 
 #.  Question 8
 #. type: Plain text
 #: foundations.en.adoc:586
 msgid "Who determines the fitness for use of your data?"
-msgstr ""
+msgstr "¿Quién determina la aptitud para el uso de sus datos?"
 
 #. type: delimited block .
 #: foundations.en.adoc:593
@@ -1259,13 +1300,16 @@ msgid "- [ ] The museum or department director\n"
 "- [x] The users of the data for research or education\n"
 "- [ ] The collector of the data in the field\n"
 "- [ ] The person entering the data into the database\n"
-msgstr ""
+msgstr "- [ ] El director del museo o departamento\n"
+"- [x] Los usuarios de los datos para investigación o educación\n"
+"- [ ] El recolector de los datos en el campo\n"
+"- [ ] La persona que introduce los datos en la base de datos\n"
 
 #.  Question 9
 #. type: Plain text
 #: foundations.en.adoc:597
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
-msgstr ""
+msgstr "Para las sentencias dadas, introduzca la imagen coincidente. (A, B, C, D) image:img/web/accuracyprecision.png[align=center,width=640,height=360]"
 
 #. type: delimited block .
 #: foundations.en.adoc:608
@@ -1284,7 +1328,7 @@ msgstr ""
 #. type: Plain text
 #: foundations.en.adoc:611
 msgid "Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are used."
-msgstr ""
+msgstr "Identificar las relaciones de datos donde el conjunto de datos B necesita ser fusionado en el conjunto de datos A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). No se utilizan todas las relaciones."
 
 #. type: delimited block .
 #: foundations.en.adoc:626
@@ -1301,13 +1345,24 @@ msgid "* Collector field exists in both dataset A and B +\n"
 "  __1:0__\n"
 "* Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +\n"
 "  __1:∞__\n"
-msgstr ""
+msgstr "* El campo del colector existe en ambos conjuntos de datos A y B +\n"
+"  __1:1__\n"
+"* El campo del país sólo existe en el conjunto de datos B +\n"
+"  __0:1__\n"
+"* El campo del nombre existe en el conjunto de datos A, pero el conjunto de datos B contiene los campos de Nombre y Apellidos +\n"
+"  __1:∞__\n"
+"* El campo ID existe en ambos conjuntos de datos A y B +\n"
+"  __1:1__\n"
+"* La vinculación existe en el conjunto de datos A, pero no en el conjunto de datos B +\n"
+"  __1:0__\n"
+"* La fecha existe en el conjunto de datos A, pero el día, Mes y Año son campos separados en el conjunto de datos B +\n"
+"  __1:∞__\n"
 
 #.  Question 11
 #. type: Plain text
 #: foundations.en.adoc:629
 msgid "Metadata is important because (select the TRUE statements):"
-msgstr ""
+msgstr "Los metadatos son importantes porque (seleccione los enunciados VERDADEROS):"
 
 #. type: delimited block .
 #: foundations.en.adoc:637
@@ -1317,25 +1372,29 @@ msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [x] it allows you to know under which legal terms the reuse of data is permitted.\n"
 "- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
 "- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
-msgstr ""
+msgstr "- [x] permite a los usuarios determinar si un conjunto de datos es adecuado para su uso.\n"
+"- [ ] le permite compartir coordenadas exactas para cada ocurrencia.\n"
+"- [x] le permite saber bajo qué términos legales se permite la reutilización de datos.\n"
+"- [ ] también se aplica a todos los materiales adicionales y asociados, incluyendo imágenes, vídeo y otros medios.\n"
+"- [ ] le permite conocer la próxima exposición/horario de la institución.\n"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:3
 #, no-wrap
 msgid "Use Case I - Herbarium Specimens"
-msgstr ""
+msgstr "Usar Caso I - Especímenes de Herbario"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-species.en.adoc:6
 #: use-case-lepidoptera-sampling.en.adoc:6
 #: use-case-birds-from-literature.en.adoc:6
 msgid "Familiarize yourself with the use case scenario."
-msgstr ""
+msgstr "Familiarizarse con el escenario de casos de uso."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr ""
+msgstr "El Caso de Uso I es un caso de uso de práctica para la planificación, captura de datos, gestión de datos y módulos de publicación de datos. Se recomienda descargar el enlace:../course-docs/UC1-Herbarium-Exercise_ES. ocx[hoja de ejercicios,opts=descarga] (MS Word 345 KB) para que puedas hacer notas mientras trabajas con los ejercicios. Una solución sugerida se proporcionará en el apéndice de la solución. Caso de Uso I no es calificado."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1343,19 +1402,19 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:9
 #, no-wrap
 msgid "Scenario"
-msgstr ""
+msgstr "Escenario"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:14
 #, no-wrap
 msgid "*A Data Mobilization Project in a Regional Herbarium*\n"
-msgstr ""
+msgstr "*Un Proyecto de Movilización de Datos en un Herbario Regional*\n"
 
 #. type: Block title
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] recolectado en Guatemala por Rapid Reference Collection (RRRC) | Field Museum of Natural History - Keller Action Science Center (licenciado bajo http://creativecommons. rg/licencias/por-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
@@ -1374,7 +1433,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:22
 #, no-wrap
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:25
@@ -1401,7 +1460,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:39
 #, no-wrap
 msgid "Data collection"
-msgstr ""
+msgstr "Recopilación de datos"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:38
@@ -1412,35 +1471,35 @@ msgstr ""
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:44
 msgid "The herbarium comprises approximately 80,000 specimens collected from 1960 to 2015 concentrated mainly in the biodiversity hot spot -- Short Mountain National Park.  The collection is still growing as a result of exchanges, donations and several active research projects.  For each specimen, information about collector, time, date, location and taxonomy are documented.  So far no quality control measures have been carried out on the data and there has been no systematic imaging of specimens."
-msgstr ""
+msgstr "El herbario comprende aproximadamente 80.000 ejemplares recolectados entre 1960 y 2015 concentrados principalmente en un \"hotspot\" de biodiversidad, el Parque Nacional de Short Mountain. La colección sigue creciendo como resultado de los intercambios, donaciones y varios proyectos de investigación activos. Para cada espécimen se documenta información sobre el recolector, la hora, la fecha, la ubicación y la taxonomía. Hasta ahora no se han llevado a cabo medidas de control de calidad sobre los datos y no se ha producido una imagen sistemática de los especímenes."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:45
 #, no-wrap
 msgid "Dataset description"
-msgstr ""
+msgstr "Descripción del conjunto de datos"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:48
 msgid "The professor has a simple non-relational database on his computer which serves as an index of many but not all specimens.  Any images of the specimens that exist are held locally by the individual researchers that took them."
-msgstr ""
+msgstr "El profesor tiene una simple base de datos no relacional en su computadora que sirve como un índice de muchos pero no de todos los ejemplares. Cualquier imagen de los especímenes que existen es sostenida localmente por los investigadores individuales que los tomaron."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:49
 #, no-wrap
 msgid "Exercises"
-msgstr ""
+msgstr "Ejercicios"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:52
 msgid "The individual exercises for this use case are located in the corresponding modules."
-msgstr ""
+msgstr "Los ejercicios individuales para este caso de uso se encuentran en los módulos correspondientes."
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
 #, no-wrap
 msgid "Planning"
-msgstr ""
+msgstr "Planificación"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:56
@@ -1466,17 +1525,17 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:69
 #, no-wrap
 msgid "Exercise sheet"
-msgstr ""
+msgstr "Hoja de ejercicio"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
 msgid "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
-msgstr ""
+msgstr "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
 
 #. type: Plain text
 #: planning.en.adoc:7
 msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on USE CASE I.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
-msgstr ""
+msgstr "En el módulo de planificación, revisará las etapas clave de planificación del proyecto y aprenderá a crear un flujo de trabajo viable. Además, creará un plan idealizado de proyecto/flujo de trabajo basado en el CASO DE USO I. Usted identificará metas, tareas, actores clave y roles y asignará tareas específicas a las etapas."
 
 #. type: Title ===
 #: planning.en.adoc:8
@@ -1487,18 +1546,18 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:12
 msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded video, you can link:../videos/Planning_Resourcing.mp4[download^,opts=download] it locally. (MP4 - 25.1 MB)"
-msgstr ""
+msgstr "En este video (15:09), aprenderá cómo definir los elementos que tendrán un impacto en un proyecto y analizará las interacciones entre los elementos. Si no puedes ver el vídeo incrustado, puedes enlazar:../videos/Planning_Resourcing.mp4[descargar^,opts=descargar] localmente. (MP4 - 25.1 MB)"
 
 #. type: Title ===
 #: planning.en.adoc:16
 #, no-wrap
 msgid "Organizing"
-msgstr ""
+msgstr "Organizar"
 
 #. type: Plain text
 #: planning.en.adoc:20
 msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
-msgstr ""
+msgstr "Este video (15:52) se centra en las tareas y las formas en que pueden organizarse para preparar planes prácticos y documentación clara. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Planning_Organizing.mp4[descargar^,opts=descargar] localmente. (MP4 - 26.2 MB)"
 
 #. type: Title ===
 #: planning.en.adoc:24
@@ -1509,13 +1568,13 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:28
 msgid "For this activity, you will be using a virtual tabletop platform.  Review the exercise instructions below."
-msgstr ""
+msgstr "Para esta actividad, usará una plataforma de tabla virtual. Revise las instrucciones de ejercicio a continuación."
 
 #. type: Plain text
 #: planning.en.adoc:30
 #, no-wrap
 msgid "*References*\n"
-msgstr ""
+msgstr "*Referencias*\n"
 
 #. type: Plain text
 #: planning.en.adoc:32
@@ -1530,12 +1589,12 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:35
 msgid "To help you to work through the planning exercises for all use cases, we have made available five virtual playing card tables."
-msgstr ""
+msgstr "Para ayudarle a trabajar en los ejercicios de planificación para todos los casos de uso, hemos puesto a su disposición cinco mesas virtuales de juegos de cartas."
 
 #. type: Plain text
 #: planning.en.adoc:37
 msgid "Because these are shared spaces, we ask that you follow these rules so that everyone who wants to use them can:"
-msgstr ""
+msgstr "Debido a que se trata de espacios compartidos, le pedimos que siga estas normas para que todo el que quiera usarlas pueda:"
 
 #. type: Plain text
 #: planning.en.adoc:42
@@ -1570,27 +1629,27 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:59
 msgid "RED: https://playingcards.io/vbtkgd[^]"
-msgstr ""
+msgstr "ROJO: https://playingcards.io/vbtkgd[^]"
 
 #. type: Plain text
 #: planning.en.adoc:61
 msgid "GREEN: https://playingcards.io/m53by6[^]"
-msgstr ""
+msgstr "VERDE: https://playingcards.io/m53by6[^]"
 
 #. type: Plain text
 #: planning.en.adoc:63
 msgid "YELLOW: https://playingcards.io/kpen5h[^]"
-msgstr ""
+msgstr "AMARILLO: https://playingcards.io/kpen5h[^]"
 
 #. type: Plain text
 #: planning.en.adoc:65
 msgid "BLUE: https://playingcards.io/8dwg98[^]"
-msgstr ""
+msgstr "AZUL: https://playingcards.io/8dwg98[^]"
 
 #. type: Plain text
 #: planning.en.adoc:67
 msgid "PURPLE: https://playingcards.io/fah8an[^]"
-msgstr ""
+msgstr "PURPURA: https://playingcards.io/fah8an[^]"
 
 #. type: Plain text
 #: planning.en.adoc:69
@@ -1602,13 +1661,13 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:92
 #, no-wrap
 msgid "Exercise 1a"
-msgstr ""
+msgstr "Ejercicio 1a"
 
 #. type: Plain text
 #: planning.en.adoc:72 capture.en.adoc:47 management.en.adoc:28
 #: publishing.en.adoc:46
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
-msgstr ""
+msgstr "Leer <<scenario,USE CASE I>> (si no lo has hecho ya)."
 
 #. type: Plain text
 #: planning.en.adoc:76
@@ -1633,7 +1692,7 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:81
 msgid "Identify the institutions and people mentioned in the use case text and make note of them."
-msgstr ""
+msgstr "Identifica las instituciones y las personas mencionadas en el caso de uso y toma nota de ellas."
 
 #. type: Plain text
 #: planning.en.adoc:82
@@ -1691,7 +1750,7 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:99
 msgid "Re-read the use case introduction, if necessary."
-msgstr ""
+msgstr "Vuelve a leer la introducción del caso de uso, si es necesario."
 
 #. type: Plain text
 #: planning.en.adoc:100
@@ -1713,12 +1772,12 @@ msgstr ""
 #: planning.en.adoc:105
 #, no-wrap
 msgid "*Questions*   \n"
-msgstr ""
+msgstr "*Preguntas*   \n"
 
 #. type: delimited block *
 #: planning.en.adoc:108
 msgid "Are there obvious bottlenecks in the workflow? For example: Are there too many tasks for a particular role/resource?"
-msgstr ""
+msgstr "¿Hay cuellos de botella evidentes en el flujo de trabajo? Por ejemplo: ¿Hay demasiadas tareas para un rol/recurso concreto?"
 
 #. type: delimited block *
 #: planning.en.adoc:110
@@ -1728,23 +1787,23 @@ msgstr ""
 #. type: delimited block *
 #: planning.en.adoc:111
 msgid "Consolidate notes and prioritize in order of importance."
-msgstr ""
+msgstr "Consolidar las notas y priorizar en orden de importancia."
 
 #. type: delimited block *
 #: planning.en.adoc:112
 msgid "If you have time you can explore different combinations as different scenarios are possible in different contexts or even try to document the situation for your own project."
-msgstr ""
+msgstr "Si tienes tiempo puedes explorar diferentes combinaciones ya que diferentes escenarios son posibles en diferentes contextos o incluso intentar documentar la situación de tu propio proyecto."
 
 #. type: Title ====
 #: planning.en.adoc:114
 #, no-wrap
 msgid "Exercise 1c"
-msgstr ""
+msgstr "Ejercicio 1c"
 
 #. type: Plain text
 #: planning.en.adoc:117
 msgid "This exercise should be used when the course is taught virtually or onsite as a group activity."
-msgstr ""
+msgstr "Este ejercicio debe utilizarse cuando el curso se imparte virtualmente o in situ como una actividad en grupo."
 
 #. type: Plain text
 #: planning.en.adoc:119
@@ -1781,7 +1840,7 @@ msgstr ""
 #: publishing.en.adoc:57
 #, no-wrap
 msgid "Review"
-msgstr ""
+msgstr "Revisión"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1836,7 +1895,7 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:172
 msgid "Which are examples of mobilization tasks? (multiple correct answers)"
-msgstr ""
+msgstr "¿Cuáles son los ejemplos de las tareas de movilización? (múltiples respuestas correctas)"
 
 #. type: delimited block .
 #: planning.en.adoc:180
@@ -1868,7 +1927,7 @@ msgstr ""
 #: capture.en.adoc:17
 #, no-wrap
 msgid "Data origins and types"
-msgstr ""
+msgstr "Orígenes y tipos de datos"
 
 #. type: Plain text
 #: capture.en.adoc:21
@@ -1879,28 +1938,28 @@ msgstr ""
 #: capture.en.adoc:27
 #, no-wrap
 msgid "*Questions*\n"
-msgstr ""
+msgstr "*Preguntas*\n"
 
 #. type: delimited block *
 #: capture.en.adoc:29
 msgid "Is your data type different than you originally thought?"
-msgstr ""
+msgstr "¿Su tipo de datos es diferente de lo que se pensó originalmente?"
 
 #. type: delimited block *
 #: capture.en.adoc:30
 msgid "With what kind of data do you work?"
-msgstr ""
+msgstr "¿Con qué tipo de datos trabajas?"
 
 #. type: delimited block *
 #: capture.en.adoc:31
 msgid "How would you publish your data to GBIF (using which Core and/or extension)?"
-msgstr ""
+msgstr "¿Cómo publicarías tus datos a GBIF (usando qué núcleo y/o extensión)?"
 
 #. type: Title ===
 #: capture.en.adoc:33
 #, no-wrap
 msgid "Data capture, processing and quality"
-msgstr ""
+msgstr "Captura, procesamiento y calidad de datos"
 
 #. type: Plain text
 #: capture.en.adoc:37

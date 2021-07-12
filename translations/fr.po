@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-06-15 10:59+0000\n"
-"PO-Revision-Date: 2021-06-15 12:46\n"
+"PO-Revision-Date: 2021-07-12 11:42\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -58,7 +58,7 @@ msgstr "Ce cours permet aux participants de planifier et de mettre en œuvre eff
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "Topics include:"
-msgstr "Sujets inclus:"
+msgstr "Sujets inclus :"
 
 #. type: delimited block *
 #: description.en.adoc:12
@@ -100,7 +100,7 @@ msgstr "Public"
 #. type: Plain text
 #: description.en.adoc:24
 msgid "This course is designed for individuals who work as researchers or technicians in biodiversity research or policy institutions.  The instruction provided is particularly useful for those who have a need or desire to plan mobilization projects and/or mobilize biodiversity information for their respective institutions."
-msgstr "Ce cours s'adresse aux personnes qui travaillent en tant que chercheurs ou techniciens dans des institutions de recherche ou de politique dans le domaine de la biodiversité. Les instructions fournies sont particulièrement utiles pour ceux qui ont besoin ou souhaitent planifier des projets de mobilisation et/ou mobiliser des informations sur la biodiversité pour leurs institutions respectives."
+msgstr "Ce cours s'adresse aux personnes qui travaillent en tant que chercheurs ou techniciens dans des institutions de recherche ou politiques dans le domaine de la biodiversité. Les instructions fournies sont particulièrement utiles pour ceux qui doivent ou souhaitent planifier des projets de mobilisation et/ou mobiliser des informations sur la biodiversité pour leurs institutions respectives."
 
 #. type: Title ===
 #: description.en.adoc:25
@@ -111,12 +111,12 @@ msgstr "Prérequis"
 #. type: Plain text
 #: description.en.adoc:28
 msgid "Introduction to GBIF course"
-msgstr "Introduction au cours du GBIF"
+msgstr "Cours d'introduction au GBIF"
 
 #. type: Plain text
 #: description.en.adoc:30
 msgid "Additionally, to make best use of the activities around this course, the participants should possess the following skills and knowledge:"
-msgstr "De plus, pour tirer le meilleur parti des activités de ce cours, les participants devraient posséder les compétences et connaissances suivantes:"
+msgstr "De plus, pour tirer le meilleur parti des activités de ce cours, les participants devraient posséder les compétences et connaissances suivantes :"
 
 #. type: Plain text
 #: description.en.adoc:32
@@ -126,7 +126,7 @@ msgstr "Compétences de base en informatique et dans l'utilisation d'Internet et
 #. type: Plain text
 #: description.en.adoc:33
 msgid "Basic knowledge about geography and biodiversity informatics: geography and mapping concepts, basic taxonomy and nomenclature rules."
-msgstr "Connaissances de base sur la géographie et l'informatique sur la biodiversité: concepts de géographie et de cartographie, taxonomie et règles de nomenclature de base."
+msgstr "Connaissances de base sur la géographie et l'informatique sur la biodiversité : concepts de géographie et de cartographie, taxonomie et règles de nomenclature de base."
 
 #. type: Plain text
 #: description.en.adoc:34
@@ -136,7 +136,7 @@ msgstr "Volonté de diffuser les connaissances acquises lors de l'atelier avec l
 #. type: Plain text
 #: description.en.adoc:35
 msgid "A good command of English. While efforts are made to provide materials in other languages, instruction/videos will be in English."
-msgstr "Une bonne maîtrise de l'anglais. Bien que des efforts soient faits pour fournir du matériel dans d'autres langues, les instructions / vidéos seront en anglais."
+msgstr "Une bonne maîtrise de l'anglais. Bien que des efforts soient faits pour fournir du matériel dans d'autres langues, les instructions/vidéos seront en anglais."
 
 #. type: Title ===
 #: description.en.adoc:36
@@ -147,12 +147,12 @@ msgstr "Objectifs d'apprentissage"
 #. type: Plain text
 #: description.en.adoc:39
 msgid "Learn key concepts (foundations) of biodiversity informatics, particular to biodiversity digital data management."
-msgstr "Apprendre les concepts clés (fondements) de la biodiversité informatique, en particulier la gestion des données digitales de biodiversité."
+msgstr "Apprenez les concepts clés (fondements) de l'informatique de la biodiversité, en particulier la gestion des données numériques sur la biodiversité."
 
 #. type: Plain text
 #: description.en.adoc:40
 msgid "Receive an introduction to the Darwin Core Standard and its components."
-msgstr "Recevez une introduction au Darwin Core Standard et à ses composantes."
+msgstr "Recevez une introduction au Standard Darwin Core et à ses composantes."
 
 #. type: Plain text
 #: description.en.adoc:41
@@ -162,12 +162,12 @@ msgstr "Apprenez à comprendre les différentes étapes de la planification d'un
 #. type: Plain text
 #: description.en.adoc:42
 msgid "Evaluate a data mobilization strategy to identify potential gaps, inefficiencies and pitfalls."
-msgstr "Évaluer une stratégie de mobilisation des données pour identifier les lacunes, les inefficacités et les pièges potentiels."
+msgstr "Évaluer une stratégie de mobilisation des données pour identifier les lacunes, inefficacités et pièges potentiels."
 
 #. type: Plain text
 #: description.en.adoc:43
 msgid "Develop a data mobilization strategy customized to a given institutional framework."
-msgstr "Développer une stratégie de mobilisation de données adaptée à un cadre institutionnel donné."
+msgstr "Développez une stratégie de mobilisation de données adaptée à un cadre institutionnel donné."
 
 #. type: Plain text
 #: description.en.adoc:44
@@ -177,17 +177,17 @@ msgstr "Apprenez à identifier les types de données et comment saisir au mieux 
 #. type: Plain text
 #: description.en.adoc:45
 msgid "Use software tools designed to facilitate biodiversity data capture to produce digital biodiversity data from analogue sources."
-msgstr "Utiliser des outils logiciels conçus pour faciliter la saisie des données sur la biodiversité afin de produire des données numériques sur la biodiversité à partir de sources analogiques."
+msgstr "Utilisez des outils logiciels conçus pour faciliter la saisie des données sur la biodiversité afin de produire des données numériques sur la biodiversité à partir de sources analogiques."
 
 #. type: Plain text
 #: description.en.adoc:46
 msgid "Learn data quality concepts and receive an introduction to tools used for standardizing data, validating data, and cleaning data."
-msgstr "Apprenez les concepts de qualité des données et recevez une introduction aux outils utilisés pour normaliser, valider et nettoyer les données."
+msgstr "Apprenez les concepts de qualité des données et recevez une introduction aux outils utilisés pour standardiser, valider et nettoyer les données."
 
 #. type: Plain text
 #: description.en.adoc:47
 msgid "Use software tools to evaluate the fitness-for-use of a biodiversity dataset"
-msgstr "Utiliser des logiciels pour évaluer l'adéquation à leur utiliation prévue d'un ensemble de données sur la biodiversité"
+msgstr "Utilisez des outils logiciels pour évaluer l'adéquation d'un ensemble de données sur la biodiversité à son utilisation prévue."
 
 #. type: Plain text
 #: description.en.adoc:48
@@ -197,12 +197,12 @@ msgstr "Utilisez des logiciels conçus pour le nettoyage des données (sur la bi
 #. type: Plain text
 #: description.en.adoc:49
 msgid "Learn the process of making biodiversity data freely available online, also known as data publishing, utilizing GBIF’s Integrated Publishing Toolkit (IPT)."
-msgstr "Apprenez le processus de mise à disposition libre des données sur la biodiversité en ligne, également connu sous le terme de publication de données, en utilisant le kit de publication intégré (IPT) du GBIF."
+msgstr "Apprenez le processus permettant de mettre à disposition des données sur la biodiversité en format ouvert en ligne, également connu sous le terme de publication de données, en utilisant le kit de publication intégré (IPT) du GBIF."
 
 #. type: Plain text
 #: description.en.adoc:50
 msgid "Define the publishable data types and subtypes (if any) for a biodiversity dataset."
-msgstr "Définissez les types et sous-types de données publiables (le cas échéant) pour un ensemble de données sur la biodiversité."
+msgstr "Définissez les types et sous-types (le cas échéant) de données publiables pour un ensemble de données sur la biodiversité."
 
 #. type: Plain text
 #: description.en.adoc:51
@@ -212,7 +212,7 @@ msgstr "Utilisez le GBIF IPT pour publier des ensembles de données sur la biodi
 #. type: Plain text
 #: description.en.adoc:52
 msgid "Capacitate others in the planning, capture, management and publishing of biodiversity data."
-msgstr "Renforcer les capacité des autres dans la planification, la saisie, la gestion et la publication de données sur la biodiversité."
+msgstr "Renforcez les capacité des autres dans la planification, la saisie, la gestion et la publication de données sur la biodiversité."
 
 #. type: Title ===
 #: description.en.adoc:53
@@ -223,7 +223,7 @@ msgstr "Certification"
 #. type: Plain text
 #: description.en.adoc:56
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge].  See <<assessment-and-certification,Assessment and Certification>> for more details."
-msgstr "Une fois le cours terminé avec succès et une évaluation réussie des devoirs (par des formateurs et des mentors), les participants ont la possibilité de recevoir un certificat officiel sous la forme d'un badge https://openbadges.org/[Open Badge].  voir <<evaluation-et-certification,Evaluation et Certification>> pour de plus amples détails."
+msgstr "Une fois le cours terminé avec succès et une évaluation réussie des devoirs (par des formateurs et des mentors), les participants ont la possibilité de recevoir un certificat officiel sous la forme d'un badge https://openbadges.org/[Open Badge].  Voir <<evaluation-et-certification,Evaluation et Certification>> pour de plus amples détails."
 
 #. type: Title ==
 #: downloads.en.adoc:1
@@ -234,7 +234,7 @@ msgstr "Fichiers à télécharger"
 #. type: Plain text
 #: downloads.en.adoc:7
 msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from YouTube. Subtitles are available when playing from YouTube for most videos.  If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer."
-msgstr "Tous les fichiers du cours peuvent être téléchargés à partir de cette page. Ou si vous préférez, tous les fichiers sont liés individuellement dans le cours au fil de leur apparition dans le programme. Les fichiers vidéo sont également intégrés dans le cours et peuvent être lus à partir de YouTube. Les sous-titres sont disponibles lors de la lecture depuis YouTube pour la plupart des vidéos. Si vous avez des difficultés à accéder aux vidéos intégrées, veuillez télécharger les fichiers mp4 pour les lire localement sur votre ordinateur."
+msgstr "Tous les fichiers du cours peuvent être téléchargés à partir de cette page. Si vous préférez, tous les fichiers sont également liés individuellement dans le cours au fil de leur apparition dans le programme. De plus, les fichiers vidéo sont intégrés dans le cours et peuvent être lus à partir de YouTube. Les sous-titres sont disponibles lors de la lecture depuis YouTube pour la plupart des vidéos. Si vous avez des difficultés à accéder aux vidéos intégrées, veuillez télécharger les fichiers mp4 pour les lire localement sur votre ordinateur."
 
 #. type: Title ===
 #: downloads.en.adoc:8
@@ -245,7 +245,7 @@ msgstr "Vidéos"
 #. type: Plain text
 #: downloads.en.adoc:10
 msgid "The videos are narrated in English. Subtitles are not available for the downloaded videos."
-msgstr "Les sous-titres ne sont pas disponibles pour les vidéos téléchargées."
+msgstr "Les vidéos sont en anglais. Les sous-titres ne sont pas disponibles pour les vidéos téléchargées."
 
 #. type: Plain text
 #: downloads.en.adoc:12
@@ -302,7 +302,7 @@ msgstr "Feuilles d'exercice"
 #. type: Plain text
 #: downloads.en.adoc:30
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr "Ce link:../course-docs/ExerciseSheets.zip[fichier compressé,opts=download] (ZIP 1,4 Mo) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en Anglais et doivent être complétées en Anglais."
+msgstr "Ce link:../course-docs/ExerciseSheets.zip[fichier compressé,opts=download] (ZIP 1,4 Mo) contient les fiches d'exercices pour tous les cas pratiques. Les fiches d'exercices sont rédigées en anglais et doivent être complétées en anglais."
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -341,7 +341,7 @@ msgstr "Logiciel"
 #. type: Plain text
 #: foundations.en.adoc:24
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le demaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Software.mp4[télécharger^,opts=download] localement. (MP4 - 18,9 Mo)"
+msgstr "Dans cette vidéo (05:58), vous passerez en revue des exemples des différents types d'applications et de logiciels disponibles dans le domaine de l'informatique sur la mobilisation de la biodiversité. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Software.mp4[télécharger^,opts=download] localement. (MP4 - 18,9 Mo)"
 
 #. type: Title ====
 #: foundations.en.adoc:28
@@ -368,7 +368,7 @@ msgstr "Dans cette vidéo (12:26), vous passerez en revue la terminologie utilis
 #. type: Plain text
 #: foundations.en.adoc:48
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
-msgstr "Vous trouverez ci-dessous une sélection de recommandation de lecture du guide d’Arthur Chapman “Principles of data quality”. https://www.gbif.org/document/80509/principles-of-data-quality[Document complet^], des références et des traductions peuvent être trouvées sur GBIF.org."
+msgstr "Vous trouverez ci-dessous une sélection de recommandation de lecture du guide d’Arthur Chapman “Principles of data quality”. https://www.gbif.org/document/80509/principles-of-data-quality[Le document complet^], des références et des traductions peuvent être trouvées sur GBIF.org."
 
 #. type: delimited block _
 #: foundations.en.adoc:53
@@ -421,33 +421,33 @@ msgstr "La précision fait référence à la proximité des valeurs mesurées, d
 #. type: delimited block _
 #: foundations.en.adoc:80
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
-msgstr "La précision (ou Résolution) peut être divisée en deux types principaux: la précision statistique est la proximité avec laquelle les observations répétées sont conformes à elles-mêmes. Ils n'ont rien à voir avec leur relation avec la valeur réelle et peuvent avoir une grande précision, mais une faible exactitude. La précision numérique est le nombre de chiffres significatifs dans lesquels une observation est enregistrée et est devenue beaucoup plus évidente avec l'avènement des ordinateurs. Par exemple, une base de données peut afficher un enregistrement de latitude/longitude décimale à 10 décimales, c'est-à-dire ca . 1 mm quand en réalité l'enregistrement a une résolution de moins de 10-100 m (3-4 décimales). Cela donne souvent une fausse impression à la fois de la résolution et de la précision."
+msgstr "La précision (ou résolution) peut être divisée en deux types principaux : la précision statistique est la proximité avec laquelle les observations répétées sont conformes à elles-mêmes. Ils n'ont rien à voir avec leur relation avec la valeur réelle et peuvent avoir une grande précision, mais une faible exactitude. La précision numérique est le nombre de chiffres significatifs dans lesquels une observation est enregistrée et est devenue beaucoup plus évidente avec l'avènement des ordinateurs. Par exemple, une base de données peut afficher un enregistrement de latitude/longitude décimale à 10 décimales, c'est-à-dire ca . 1 mm quand en réalité l'enregistrement a une résolution de moins de 10-100 m (3-4 décimales). Cela donne souvent une fausse impression à la fois de la résolution et de la précision."
 
 #. type: delimited block _
 #: foundations.en.adoc:83
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
-msgstr "Ces termes – exactitude et précision – peuvent également être appliqués aux données non spatiales ainsi qu'aux données spatiales. Par exemple, une collection peut avoir une identification au niveau des sous-espèces (i.e. , ont une grande précision), mais être le mauvais taxon (c'est-à-dire avoir une faible exactitude), ou être identifié uniquement au niveau de la famille (haute exactitude, mais faible précision)."
+msgstr "Ces termes – exactitude et précision – peuvent être appliqués tant aux données non spatiales que spatiales. Par exemple, une collection peut avoir une identification au niveau des sous-espèces (i.e. avoir une grande précision), mais être le mauvais taxon (c'est-à-dire avoir une faible exactitude), ou être identifié uniquement au niveau de la famille (haute exactitude, mais faible précision)."
 
 #. type: delimited block _
 #: foundations.en.adoc:85
 #, no-wrap
 msgid "*Data quality*\n"
-msgstr "*La qualité de données*\n"
+msgstr "*Qualité des données*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:90
 msgid "Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation.  As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user.  In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful.  Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999)."
-msgstr "La qualité des données est multidimensionnelle et implique la gestion des données, l’analyse et la modélisation,  l’assurance de la qualité et le contrôle, le stockage et la présentation. Comme l'ont déclaré Chrisman (1991) et Strong et al. (1997), la qualité des données est liée à l'utilisation et ne peut être évaluée indépendamment de l'utilisateur. Dans une base de données, les données n'ont pas de qualité ni de valeur réelle (Dalcin 2004) ; ils n'ont que de la valeur potentielle, qui est aperçu que lorsque quelqu'un utilise ces données pour faire quelque chose d'utile. La qualité de l’information se rapporte à sa capacité à satisfaire ses clients et à répondre aux besoins de ses clients (Anglais 1999)."
+msgstr "La qualité des données est multidimensionnelle et implique la gestion des données, l’analyse et la modélisation,  l’assurance de la qualité et le contrôle, le stockage et la présentation. Comme l'ont déclaré Chrisman (1991) et Strong et al. (1997), la qualité des données est liée à l'utilisation et ne peut être évaluée indépendamment de l'utilisateur. Dans une base de données, les données n'ont pas de qualité ni de valeur réelle (Dalcin 2004) ; ils n'ont que de la valeur potentielle, qui est aperçu que lorsque quelqu'un utilise ces données pour faire quelque chose d'utile. La qualité de l’information se rapporte à sa capacité à satisfaire ses clients et à répondre aux besoins de ceux-ci (English 1999)."
 
 #. type: delimited block _
 #: foundations.en.adoc:92
 msgid "Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret."
-msgstr "Redman (2001), a suggéré que pour que les données soient aptes à être utilisées, elles doivent être accessibles, exactes, opportunes, complètes, cohérentes avec d'autres sources, pertinentes, compréhensives, fournissent un niveau de détail approprié, soient faciles à lire et à interpréter."
+msgstr "Redman (2001), a suggéré que pour que des données soient aptes à être utilisées, elles doivent être accessibles, exactes, opportunes, complètes, cohérentes avec d'autres sources, pertinentes, compréhensives, fournir un niveau de détail approprié, et être faciles à lire et à interpréter."
 
 #. type: delimited block _
 #: foundations.en.adoc:96
 msgid "One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.  There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.  This may require such things as atomizing data fields, adding geo-referencing information, etc."
-msgstr "Un problème que le dépositaire des données pourrait devoir examiner est ce qu'il pourrait être nécessaire de faire avec la base de données pour augmenter sa convivialité pour un public plus large (i.e . - augmenter son utilisation potentielle ou sa pertinence) et la rendre donc plus adaptée à un  large éventail de finalités. Il y aura un compromis entre une facilité d'utilisation accrue et la quantité d'efforts nécessaires pour ajouter des fonctionnalités supplémentaires et accroître cette facilité d'utilisation. Cela peut nécessiter des éléments tels que l'atomisation des champs de données, l'ajout d'informations de géo-référencement, etc."
+msgstr "Un problème que le dépositaire des données pourrait devoir examiner est ce qu'il pourrait être nécessaire de faire avec la base de données pour augmenter sa convivialité pour un public plus large (i.e . - augmenter son utilisation potentielle ou sa pertinence) et la rendre donc plus adaptée à un large éventail de finalités. Il y aura un compromis entre une facilité d'utilisation accrue et la quantité d'efforts nécessaires pour ajouter des fonctionnalités supplémentaires et accroître cette facilité d'utilisation. Cela peut nécessiter des éléments tels que l'atomisation des champs de données, l'ajout d'informations de géo-référencement, etc."
 
 #. type: delimited block _
 #: foundations.en.adoc:98
@@ -490,7 +490,7 @@ msgstr "*Erreur*\n"
 #. type: delimited block _
 #: foundations.en.adoc:122
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
-msgstr "L'erreur englobe à la fois l'imprécision des données et leurs inexactitudes, et de nombreux facteurs contribuent à l'erreur. L'erreur est généralement perçue comme étant aléatoire ou systématique. L'erreur aléatoire tend à faire référence à une déviation de l'état réel de manière aléatoire. Une erreur systématique ou un biais résulte d’un changement uniforme des valeurs et est parfois décrit comme ayant une « exactitude relative » dans le monde cartographique (Chrisman, 1991). Dans la détermination de l’« adéquation à l’usage », une erreur systématique peut être acceptable pour certaines applications et ne convient pas pour d’autres."
+msgstr "L'erreur englobe à la fois l'imprécision des données et leurs inexactitudes, et de nombreux facteurs contribuent à l'erreur. L'erreur est généralement perçue comme étant aléatoire ou systématique. L'erreur aléatoire tend à faire référence à une déviation de l'état réel de manière aléatoire. Une erreur systématique ou un biais résulte d’un changement uniforme des valeurs et est parfois décrit comme ayant une « exactitude relative » dans le monde cartographique (Chrisman, 1991). Dans la détermination de l’« adéquation à l’usage », une erreur systématique peut être acceptable pour certaines applications et ne pas convenir pour d’autres."
 
 #. type: delimited block _
 #: foundations.en.adoc:125
@@ -500,7 +500,7 @@ msgstr "Un exemple peut être l'utilisation d'un datum géodésique1 différent 
 #. type: delimited block _
 #: foundations.en.adoc:129
 msgid "“Because error is inescapable, it should be recognized as a fundamental dimension of data” (Chrisman 1991).  Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.  Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented."
-msgstr "« Parce que l’erreur est inévitable, elle devrait être reconnue comme une dimension fondamentale des données » (Chrisman, 1991). Seulement si une erreur est incluse dans une représentation des données, il est possible de répondre aux questions sur les limitations des données, et même les limites des connaissance actuelles. Les erreurs connues dans les trois dimensions de l'espace, de l'attribut et du temps doivent être mesurées, calculées, enregistrées et documentées."
+msgstr "« Parce que l’erreur est inévitable, elle devrait être reconnue comme une dimension fondamentale des données » (Chrisman, 1991). Il est seulement possible de répondre aux questions sur les limitations des données, et même sur les limites des connaissance actuelles lorsque l'erreur est incluse dans la représentation des données. Les erreurs connues dans les trois dimensions de l'espace, de l'attribut et du temps doivent être mesurées, calculées, enregistrées et documentées."
 
 #. type: delimited block _
 #: foundations.en.adoc:131
@@ -511,7 +511,7 @@ msgstr "*Validation et nettoyage*\n"
 #. type: delimited block _
 #: foundations.en.adoc:137
 msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
-msgstr "La validation est un processus utilisé pour déterminer si les données sont inexactes, incomplètes ou déraisonnables. Le processus peut inclure des vérifications de format, des vérifications de complétude, des vérifications du caractère raisonable, des vérifications de limite, un examen des données pour identifier les aspects aberrants (géographiques, statistiques, temporels ou environnementaux) ou autres erreurs, et l'évaluation des données par des experts du domaine (I.e. spécialistes  taxinomiques). Ces processus se traduisent généralement par le signalement, la documentation et la vérification ultérieure des enregistrements suspects. Les contrôles de validation peuvent également impliquer la vérification de la conformité aux standards, aux règles et aux conventions applicables. Une étape clé de la validation et du nettoyage des données est d'identifier les causes profondes des erreurs détectées et de se concentrer sur la prévention de la réapparition de ces erreurs (Redman 2001)."
+msgstr "La validation est un processus utilisé pour déterminer si les données sont inexactes, incomplètes ou déraisonnables. Le processus peut inclure des vérifications de format, des vérifications de complétude, des vérifications du caractère raisonnable, des vérifications de limite, un examen des données pour identifier les aspects aberrants (géographiques, statistiques, temporels ou environnementaux) ou autres erreurs, et l'évaluation des données par des experts du domaine (I.e. spécialistes  taxinomiques). Ces processus se traduisent généralement par le signalement, la documentation et la vérification ultérieure des enregistrements suspects. Les contrôles de validation peuvent également impliquer la vérification de la conformité aux standards, aux règles et aux conventions applicables. Une étape clé de la validation et du nettoyage des données est d'identifier les causes profondes des erreurs détectées et de se concentrer sur la prévention de la réapparition de ces erreurs (Redman 2001)."
 
 #. type: delimited block _
 #: foundations.en.adoc:142
@@ -527,7 +527,7 @@ msgstr "Documentation"
 #. type: delimited block *
 #: foundations.en.adoc:150
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr "Dans cette vidéo (09:47), nous vous donnerons un aperçu de l'importance de la documentation en ce qui concerne la gestion des données et la publication des données. Vous en apprendrez plus sur le mappage des données, les relations de données et les métadonnées. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Documentation.mp4[télécharger^,opts=download] localement. (MP4 - 29,2 Mo)"
+msgstr "Dans cette vidéo (09:47), nous vous donnerons un aperçu de l'importance de la documentation en ce qui concerne la gestion et la publication des données. Vous en apprendrez plus sur la cartographie des données (mapping), les relations entre données et les métadonnées. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Documentation.mp4[télécharger^,opts=download] localement. (MP4 - 29,2 Mo)"
 
 #. type: Title ===
 #: foundations.en.adoc:154
@@ -538,7 +538,7 @@ msgstr "Workflows de numérisation"
 #. type: delimited block *
 #: foundations.en.adoc:158
 msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
-msgstr "Cette vidéo (07:20) sur les workflows de numérisation identifie cinq clusters (ou étapes) dans le processus de numérisation des objets de collection d'histoire naturelle à l'aide d'images numériques. Ces étapes peuvent être facilement adaptées à d'autres sources de données sur la biodiversité. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Workflows.mp4[télécharger^,opts=download] localement. (MP4 - 26,8 Mo)"
+msgstr "Cette vidéo (07:20) sur les workflows de numérisation identifie cinq groupes (ou étapes) dans le processus de numérisation des objets de collection d'histoire naturelle à l'aide d'images numériques. Ces étapes peuvent être facilement adaptées à d'autres sources de données sur la biodiversité. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Workflows.mp4[télécharger^,opts=download] localement. (MP4 - 26,8 Mo)"
 
 #. type: delimited block *
 #: foundations.en.adoc:163
@@ -553,7 +553,7 @@ msgstr "Pendant cet atelier, nous n'enseignons pas la numérisation en soi, car 
 #. type: delimited block *
 #: foundations.en.adoc:171
 msgid "There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.  It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to.  In this exercise we introduce you to some practical digitization workflow resources to help get you started.  These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows."
-msgstr "Il existe de nombreuses façons d'organiser les efforts de numérisation et la numérisation peut donc paraître intimidante au départ. Il est important de se rappeler que, dans la plupart des cas, quelqu'un d'autre a déjà essayé de numériser les mêmes types de spécimens et objets que vous prévoyez. Dans cet exercice, nous vous présentons quelques ressources pratiques d'ordonnancement des tâches de  numérisation  pour vous aider à démarrer. Celles-ci constitueront également la base du travail que nous ferons au cours de l'atelier sur la sélection, la modification et l'évaluation du déroulement des tâches."
+msgstr "Il existe de nombreuses façons d'organiser les efforts de numérisation et la numérisation peut donc paraître intimidante au départ. Il est important de se rappeler que, dans la plupart des cas, quelqu'un d'autre a déjà essayé de numériser les mêmes types de spécimens et objets que vous. Dans cet exercice, nous vous présentons quelques ressources pratiques d'ordonnancement des tâches de numérisation pour vous aider à démarrer. Celles-ci constitueront également la base du travail que nous ferons au cours de l'atelier sur la sélection, la modification et l'évaluation du déroulement des tâches."
 
 #. type: delimited block *
 #: foundations.en.adoc:173
@@ -583,7 +583,7 @@ msgstr "*Traitement d'image* : Cela inclut le contrôle de qualité, la conversi
 #, no-wrap
 msgid "*Electronic data capture*: The core of the digitization process, includes capturing key information in a database.\n"
 "The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.\n"
-msgstr "*Saisie électronique des données * : Le cœur du processus de numérisation, comprend la saisie de l'information clés dans une base de données.\n"
+msgstr "*Saisie électronique des données* : Le cœur du processus de numérisation, comprend la saisie de l'information clés dans une base de données.\n"
 "La vidéo souligne que la méthode la plus commune de saisie de l'information est via un clavier, mais de plus en plus d'institutions se tournent vers des technologies avancées de saisie de données.\n"
 
 #. type: delimited block *
@@ -595,12 +595,12 @@ msgstr "*Géoréférencement* : Les informations géographiques sont très impor
 #. type: delimited block *
 #: foundations.en.adoc:184
 msgid "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) is the coordination centre for the United States National Resource for Advancing Digitization of Biodiversity Collections (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]).  They lead a nation-wide effort to make data and images for millions of biological specimens available in a standard electronic format for the research community, government agencies, students, educators, and the general public.  They have produced several videos that discuss the digitization process."
-msgstr "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) est le centre de coordination des Resources Nationales pour la Numérisation Avancée des Collections sur la Biodiversité des Etats Unis (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]). Ils mènent un effort national visant à rendre disponibles les données et les images de millions de spécimens biologiques  dans un format électronique standard pour la communauté des chercheurs,  les organismes gouvernementaux, les étudiants, les éducateurs et le grand public. Ils ont produit plusieurs vidéos qui abordent les processus de numérisation."
+msgstr "Le Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) est le centre de coordination des Resources Nationales pour la Numérisation Avancée des Collections sur la Biodiversité des Etats Unis (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]). Il mène un effort national visant à rendre disponibles les données et les images de millions de spécimens biologiques  dans un format électronique standard pour la communauté des chercheurs,  les organismes gouvernementaux, les étudiants, les éducateurs et le grand public. Il a produit plusieurs vidéos qui abordent les processus de numérisation."
 
 #. type: delimited block *
 #: foundations.en.adoc:186
 msgid "There are other videos in the iDigBio series that you may be interested in, if you wish to learn more about specific workflows for different specimen types:"
-msgstr "Il y a d'autres vidéos dans la série iDigBio qui pourraient vous intéresser, si vous souhaitez en savoir plus sur ordonnancement spécifique des tâches pour différents types de spécimens :"
+msgstr "Il y a d'autres vidéos dans la série iDigBio qui pourraient vous intéresser, si vous souhaitez en savoir plus sur l'ordonnancement spécifique des tâches pour différents types de spécimens :"
 
 #. type: delimited block *
 #: foundations.en.adoc:188
@@ -626,7 +626,7 @@ msgstr "Outils logiciels"
 #. type: delimited block *
 #: foundations.en.adoc:194
 msgid "Review software tools used in biodiversity informatics"
-msgstr "Evaluation d'outils logigiels utilisés en informatique de la biodiversité"
+msgstr "Evaluation d'outils logiciels utilisés en informatique de la biodiversité"
 
 #. type: delimited block *
 #: foundations.en.adoc:197
@@ -636,7 +636,7 @@ msgstr "Au cours des activités du cours, nous ferons des démonstrations et tra
 #. type: delimited block *
 #: foundations.en.adoc:200
 msgid "Community trainers, mentors and former course participants have compiled a list with information about biodiversity informatics software tools.  It provides links for their main websites, a key facts and a summary of strong and weak points."
-msgstr "Les formateurs , les mentors et les anciens participants au cours de notre communauté ont dressé une liste contenant des informations sur les outils informatiques de la biodiversité. Elle fournit des liens vers leurs sites internet, des informations clés et un résumé de leurs points forts et points faibles."
+msgstr "Les formateurs, les mentors et les anciens participants au cours de notre communauté ont dressé une liste contenant des informations sur les outils en informatiques de la biodiversité. Elle fournit des liens vers leurs sites internet, des informations clés et un résumé de leurs points forts et points faibles."
 
 #. type: delimited block *
 #: foundations.en.adoc:202
@@ -646,14 +646,14 @@ msgstr "Lien de téléchargement link:../course-docs/Software-database-EN.xlsx[S
 #. type: delimited block *
 #: foundations.en.adoc:206
 msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^]:"
-msgstr "Lors de l'étude d'un logiciels pour la biodiversité que vous n'avez pas encore utilisé, vous devez réfléchir à la manière dont vous l'adapterez à vos besoins. Vous trouverez ci-dessous une liste avec laquelle vous pouvez commencer votre évaluation. Ils s'inspirent du chapitre “Caractéristiques d'une bonne solution de base de données\" du manuel du GBIF https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Lancer un projet de numérisation“^] :"
+msgstr "Lors de l'analyse d'un logiciel pour la biodiversité que vous n'avez pas encore utilisé, vous devez réfléchir à la manière dont vous l'adapterez à vos besoins. Vous trouverez ci-dessous une liste à partir de laquelle vous pouvez commencer votre évaluation. Elle s'inspire du chapitre “Caractéristiques d'une bonne solution de base de données\" du manuel du GBIF https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Lancer un projet de numérisation“^] :"
 
 #. type: delimited block *
 #: foundations.en.adoc:209
 #, no-wrap
 msgid "*Price*: One of the most determining factors.\n"
 "Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.\n"
-msgstr "*Prix* : l'un des facteurs les plus determinant pour votre projet.\n"
+msgstr "*Prix* : l'un des facteurs les plus déterminant pour votre projet.\n"
 "Prenez en compte les autres coûts au-delà du prix de la licence logicielle, comme le matériel informatique nécessaire pour l'exécuter, la maintenance, les mises à jour et l'expertise nécessaire pour l'utiliser.\n"
 
 #. type: delimited block *
@@ -669,7 +669,7 @@ msgstr "*Fonctionnalité* : Vous devez avoir une vision claire de ce que vous at
 #, no-wrap
 msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
 "It will also make more likely to be updated and ported to more modern operating systems.\n"
-msgstr "*Stabilité* : Certaines solutions sont sur le marché depuis longtemps et qui sont supportées par des institutions ou des entreprises solides sont plus susceptibles d'être exemptes de bogues et/ou d'avoir de bons systèmes en place pour résoudre les problèmes qui se posent.\n"
+msgstr "*Stabilité* : Certaines solutions qui sont sur le marché depuis longtemps et qui sont supportées par des institutions ou des entreprises solides sont plus susceptibles d'être exemptes de bogues et/ou d'avoir de bons systèmes en place pour résoudre les problèmes qui se posent.\n"
 "Elles sont aussi plus susceptibles d'être mises à jour et portées par des systèmes d'exploitation plus modernes.\n"
 
 #. type: delimited block *
@@ -739,12 +739,12 @@ msgstr "https://openrefine.org/[OpenRefine^] est un outil contenant un ensemble 
 #. type: delimited block *
 #: foundations.en.adoc:236
 msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
-msgstr "Nous utiliserons OpenRefine pendant la partie du cours concernant la mobilisation des données , en particulier pendant les exercices pratiques. Il sera nécessaire d'installer OpenRefine sur votre ordinateur portable. Si vous êtes sûr de vos capacité, vous pouvez suivre les étapes fournit dans le lien ci-dessous, pour installer le logiciel sur votre ordinateur. Si vous n'êtes pas sûr d'y arriver, veuillez demander de l'aide. Reportez-vous ce lien pour l'installation: https://openrefine.org/download.html[OpenRefine download page^] pour plus de détails."
+msgstr "Nous utiliserons OpenRefine pendant la partie du cours concernant la mobilisation des données , en particulier pendant les exercices pratiques. Il sera nécessaire d'installer OpenRefine sur votre ordinateur portable. Si vous êtes sûr de vos capacités, vous pouvez suivre les étapes fournies dans le lien ci-dessous, pour installer le logiciel sur votre ordinateur. Si vous n'êtes pas sûr d'y arriver, veuillez demander de l'aide. Suivez ce lien pour l'installation : https://openrefine.org/download.html[OpenRefine download page^] pour plus de détails."
 
 #. type: delimited block *
 #: foundations.en.adoc:238
 msgid "Administrative passwords may be required to install software."
-msgstr "Des mots de passe en tant qu'administrateur peuvent être requis pour installer ces logiciels."
+msgstr "Des mots de passe administrateurs peuvent être requis pour installer ces logiciels."
 
 #. type: Title ====
 #: foundations.en.adoc:239
@@ -1106,7 +1106,7 @@ msgstr ""
 #: foundations.en.adoc:481
 #, no-wrap
 msgid "Foundations review"
-msgstr "Revue des fondations"
+msgstr "Compte-rendu des fondations"
 
 #. type: Plain text
 #: foundations.en.adoc:484 planning.en.adoc:132 capture.en.adoc:63
@@ -1121,7 +1121,7 @@ msgstr "Passez un quiz sur les concepts que vous avez appris dans cette section.
 #. type: delimited block *
 #: foundations.en.adoc:492
 msgid "For the given statement, input the correct term (database, database language, database program)"
-msgstr "Pour l'assertion donnée, entrez le terme correct (base de données, langage de la base de données, programme de base de données)"
+msgstr "Pour l'énoncé donné, entrez le terme correct (base de données, langage de base de données, programme de base de données)"
 
 #. type: delimited block .
 #: foundations.en.adoc:501
@@ -1135,7 +1135,7 @@ msgid "* combines and presents functions and features for manipulating data, tog
 msgstr "* combine et présente des fonctions et des fonctionnalités pour manipuler des données ensemble dans une interface unifiée +\n"
 "__programme de base de données__ +\n"
 "* une collection structurée et organisée de données et/ou d'informations conservées sur un ordinateur +\n"
-"__database__ +\n"
+"__base de données__ +\n"
 "* la façon dont un être humain communique avec un ordinateur +\n"
 "__langage de base de données__ +\n"
 
@@ -1143,7 +1143,7 @@ msgstr "* combine et présente des fonctions et des fonctionnalités pour manipu
 #. type: Plain text
 #: foundations.en.adoc:504
 msgid "If you open a data file and see the following, what would you suspect is the issue? +"
-msgstr ". Si vous ouvrez un fichier de données et vous voyez ce qui suit, que soupçonnerez-vous d'etre le problème ?+"
+msgstr "Si vous ouvrez un fichier de données et vous voyez ce qui suit, que soupçonnerez-vous d'être le problème ? +"
 
 #. type: Plain text
 #: foundations.en.adoc:506 solutions.en.adoc:21
@@ -1166,7 +1166,7 @@ msgstr "- [ ] Rien\n"
 #. type: Plain text
 #: foundations.en.adoc:516
 msgid "For the given software, input the type of software (data capture, data management, data cleaning, data publishing)."
-msgstr "Pour le logiciel donné, saisissez le type de logiciel (saisie de données, gestion des données, nettoyage des données, publication des données)."
+msgstr "Pour le logiciel donné, saisissez le type de logiciel (saisie des données, gestion des données, nettoyage des données, publication des données)."
 
 #. type: delimited block .
 #: foundations.en.adoc:527
@@ -1186,7 +1186,7 @@ msgstr "* Integrated Publishing Toolkit (IPT) +\n"
 "* iNaturalist +\n"
 "  __saisie des données__\n"
 "* OpenRefine +\n"
-"  __data cleaning__\n"
+"  __nettoyage des données__\n"
 
 #.  Question 4
 #. type: Plain text
@@ -1230,7 +1230,7 @@ msgstr "* 1236975 +\n"
 #. type: Plain text
 #: foundations.en.adoc:550
 msgid "Which of these terms describes a \"field/column name\"?"
-msgstr "Lequel de ces termes décrit un nom de \"champ/colonne\"?"
+msgstr "Lesquels de ces termes décrivent un \"nom de champ/colonne\" ?"
 
 #. type: delimited block .
 #: foundations.en.adoc:559
@@ -1252,7 +1252,7 @@ msgstr "- [x] Assigné\n"
 #. type: Plain text
 #: foundations.en.adoc:562
 msgid "Which of these terms describes a \"field label\"?"
-msgstr "Lequel de ces termes décrit une \"étiquette du champ\"?"
+msgstr "Lesquels de ces termes décrivent une \"étiquette du champ\" ?"
 
 #. type: delimited block .
 #: foundations.en.adoc:571
@@ -1340,7 +1340,7 @@ msgstr "* Haute exactitude, basse précision +\n"
 #. type: Plain text
 #: foundations.en.adoc:611
 msgid "Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are used."
-msgstr "Identifier les relations de données où le jeu de donnée B doit être fusionné avec le jeu de donnée A (0:1, 1:0, 1:1, 1:∞ , ∞ :1, ∞ :∞ ). Toutes les relations ne sont pas utilisées."
+msgstr "Identifier les relations de données lorsque le jeu de donnée B doit être fusionné avec le jeu de donnée A (0:1, 1:0, 1:1, 1:∞ , ∞ :1, ∞ :∞ ). Toutes les relations ne sont pas utilisées."
 
 #. type: delimited block .
 #: foundations.en.adoc:626
@@ -1367,14 +1367,14 @@ msgstr "* Le champ Collecteur existe dans les deux jeux de données A et B +\n"
 "  __1:1__\n"
 "* Élévation existe dans le jeu de données A, mais pas dans le jeu de données B +\n"
 "  __1:0__\n"
-"* La date existe dans le jeu de données A, mais le jour, Mois et Année sont des champs séparés dans le jeu de données B +\n"
+"* La date existe dans le jeu de données A, mais Jour, Mois et Année sont des champs séparés dans le jeu de données B +\n"
 "  __1:∞ __\n"
 
 #.  Question 11
 #. type: Plain text
 #: foundations.en.adoc:629
 msgid "Metadata is important because (select the TRUE statements):"
-msgstr "Les métadonnées sont importantes car (sélectionnez les affirations vraies):"
+msgstr "Les métadonnées sont importantes car (sélectionnez les affirmations vraies) :"
 
 #. type: delimited block .
 #: foundations.en.adoc:637
@@ -1384,17 +1384,17 @@ msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [x] it allows you to know under which legal terms the reuse of data is permitted.\n"
 "- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
 "- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
-msgstr "- [x] il permet aux utilisateurs de déterminer si un jeu de données convient à leur usage.\n"
-"- [ ] il vous permet de partager des coordonnées exactes pour chaque occurrence.\n"
-"- [x] il vous permet de savoir sous quelles conditions légales la réutilisation des données est autorisée.\n"
+msgstr "- [x] elles permettent aux utilisateurs de déterminer si un jeu de données convient à leur usage.\n"
+"- [ ] elles vous permettent de partager des coordonnées exactes pour chaque occurrence.\n"
+"- [x] elles vous permettent de savoir sous quelles conditions légales la réutilisation des données est autorisée.\n"
 "- [ ] cela s'applique également à tous le matériel supplémentaires et associés, y compris les images, les vidéos et autres média.\n"
-"- [ ] il vous permet de connaître les prochaines heures d'exposition/d'ouverture de l'institution.\n"
+"- [ ] elles vous permettent de connaître les prochaines heures d'exposition/d'ouverture de l'institution.\n"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:3
 #, no-wrap
 msgid "Use Case I - Herbarium Specimens"
-msgstr "Cas d'utilisation I - Spécimens d'Herbarium"
+msgstr "Cas Pratique I - Spécimens d'herbier"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-species.en.adoc:6
@@ -1406,7 +1406,7 @@ msgstr "Familiarisez-vous avec le scénario du cas d'utilisation."
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr "Le Cas d'Utilisation I est un cas d'utilisation pratique pour les modules de planification, de saisie de données, de gestion de données et de publication de données. Il est recommandé de télécharger le link:../course-docs/UC1-Herbarium-Exercise_EN.docx[feuille d'exercice,opts=download] (MS Word 345 ko) pour que vous puissiez prendre des notes tout au long des exercices. Une solution suggérée sera fournie en annexe. Le case d'utilisation I n'est pas noté."
+msgstr "Le Cas Pratique I est utilisé pour les modules de planification, de saisie de données, de gestion de données et de publication de données. Il est recommandé de télécharger la link:../course-docs/UC1-Herbarium-Exercise_EN.docx[feuille d'exercice,opts=download] (MS Word 345 ko) pour que vous puissiez prendre des notes tout au long des exercices. Une solution suggérée sera fournie en annexe. Le case pratique I n'est pas noté."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1420,7 +1420,7 @@ msgstr "Scénario"
 #: use-case-herbarium-specimens.en.adoc:14
 #, no-wrap
 msgid "*A Data Mobilization Project in a Regional Herbarium*\n"
-msgstr "*Un projet de mobilisation des données dans un Herbarium régional*\n"
+msgstr "*Un projet de mobilisation des données dans un herbier régional*\n"
 
 #. type: Block title
 #: use-case-herbarium-specimens.en.adoc:16
@@ -1437,7 +1437,7 @@ msgstr "img/web/use-case-1-Eriocaulon_bilobatum-cropped.png"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:20
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. The data are from a real dataset, but have been modified for the purposes of these exercises. It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr "Ce récit a été développé comme base pour des exercices pratiques dans le cours de mobilisation des données sur la biodiversité et le concept et le contenu de l'exercice ont été développés par Alberto Gonzaëlez-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. Les données proviennent d'un véritable jeu de données, mais ont été modifiées pour ces exercices. C'est un scénario fictif et n'est destiné qu'à des fins d'enseignement."
+msgstr "Ce récit a été développé comme base pour des exercices pratiques dans le cours de mobilisation des données sur la biodiversité. Le concept et le contenu de l'exercice ont été développés par Alberto Gonzaëlez-Talaván, Néstor Beltrán, Nicolas Noé et Sharon Grant. Les données proviennent d'un véritable jeu de données, mais ont été modifiées pour ces exercices. C'est un scénario fictif qui n'est destiné qu'à des fins d'enseignement."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:21 use-case-invasive-species.en.adoc:27
@@ -1450,29 +1450,29 @@ msgstr "Description"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:25
 msgid "The University of White Plains is a well recognized tertiary education institution in Guatemala and a national reference for biodiversity research.  The Plant Biology Department keeps a medium-size herbarium containing approximately 80,000 specimens collected in and around the local region and dating from the mid-20th century to the present.  The collection includes important specimens including types and endemics."
-msgstr "L'Université de White Plains est un établissement d'enseignement tertiaire reconnu au Guatemala et une référence nationale pour la recherche sur la biodiversité. Le département de biologie végétale héberge un herbarium de taille moyenne contenant environ 80, 00 spécimens récoltés dans et autour de la région et datant du milieu du Xxe siècle à nos jours. La collection comprend des spécimens importants, y compris des spécimens types et des espèces endémiques."
+msgstr "L'Université de White Plains est un établissement d'enseignement tertiaire reconnu au Guatemala et une référence nationale pour la recherche sur la biodiversité. Le département de biologie végétale héberge un herbier de taille moyenne contenant environ 80 000 spécimens récoltés dans et autour de la région et datant du milieu du 20ème siècle à nos jours. La collection comprend des spécimens importants, y compris des spécimens types et des espèces endémiques."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:29
 msgid "Currently, the care of the collection is assigned to the Professor of Plant Systematics, who performs curatorial tasks as well as their regular research and teaching work.  The Departmental Admin is responsible for day-to-day administrative tasks for the herbarium such as purchasing consumables including paper and labels.  Faculty staff and students collaborating within the department occasionally work on and update the identifications on the specimens and there are two retired botanists who regularly volunteer in the collection assisting the Professor to prepare loans."
-msgstr "Actuellement, les soins à la collection sont attribués au professeur de systématique végétale, qui accomplit les tâches de curateur ainsi que des travaux de recherche et d'enseignement réguliers. L'administrateur du département est responsable des tâches administratives quotidiennes de l'herbier, comme l'achat de consommables y compris le  papier et les étiquettes. Le personnel enseignant et les étudiants qui collaborent au sein du département y travaillent occasionnellement et mettent à jour les identifications des spécimens et il y a deux botaniques retraités qui se portent régulièrement volontaires dans la collections pour aider le professeur à préparer les prêts."
+msgstr "Actuellement, la conservation de la collection est la responsabilité du professeur de systématique végétale, qui accomplit les tâches de curateur ainsi que des travaux de recherche et d'enseignement réguliers. L'administrateur du département est responsable des tâches administratives quotidiennes de l'herbier, comme l'achat de consommables, incluant le papier et les étiquettes. Le personnel enseignant et les étudiants qui collaborent au sein du département y travaillent occasionnellement et mettent à jour les identifications des spécimens et il y a deux botanistes retraités qui se portent régulièrement volontaires dans la collection pour aider le professeur à préparer les prêts."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:32
 msgid "The University already has an online search for its library collections which is maintained by the University’s central web-team on externally hosted servers.  No natural history specimens are currently served via this platform."
-msgstr "L’université a déjà un système de recherche en ligne pour les collections de sa bibliothèque qui est maintenue par l’équipe web centrale de l’université sur des serveurs hébergés en externe. Aucun spécimens d'histoire naturelle n'est actuellement disponible via cette plate-forme."
+msgstr "L’université a déjà une plateforme de recherche en ligne pour les collections de sa bibliothèque qui est maintenue par l’équipe web de l’université sur des serveurs hébergés en externe. Aucun spécimens d'histoire naturelle n'est actuellement disponible via cette plate-forme."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:35
 msgid "The Head of the Plant Biology Department has recently secured a 50,000USD, two year grant to image and publish the botanical collections information online.  The team wants to use this opportunity to establish a permanent digitization and publishing protocol that will give higher visibility to the herbarium and continue attracting funding."
-msgstr "Le responsable du département de biologie végétale a récemment obtenu une subvention de 50 000 Usd de deux ans pour l'imagerie et la publication en ligne des informations sur les collections botaniques. L'équipe veut profiter de cette occasion pour établir un protocole permanent de numérisation et de publication qui donnera une plus grande visibilité à l'herbier et continuera d'attirer des fonds."
+msgstr "Le responsable du département de biologie végétale a récemment obtenu une subvention de 50 000 $USD de deux ans pour photographier et publier en ligne les informations des collections botaniques. L'équipe veut profiter de cette occasion pour établir un protocole permanent de numérisation et de publication qui donnera une plus grande visibilité à l'herbier et continuera d'attirer des fonds."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:36 use-case-invasive-species.en.adoc:42
 #: use-case-lepidoptera-sampling.en.adoc:39
 #, no-wrap
 msgid "Data collection"
-msgstr "Collection de données"
+msgstr "Collecte de données"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:38
@@ -1494,7 +1494,7 @@ msgstr "Description du jeu de données"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:48
 msgid "The professor has a simple non-relational database on his computer which serves as an index of many but not all specimens.  Any images of the specimens that exist are held locally by the individual researchers that took them."
-msgstr "Le professeur a une simple base de données non relationnelle sur son ordinateur qui sert d'index d’un grand nombre de spécimens. Toutes les images des spécimens qui existent sont conservées localement par les chercheurs indépendants qui les ont prises."
+msgstr "Le professeur a une simple base de données non relationnelle sur son ordinateur qui sert d'index pour un grand nombre de spécimens, mais pas tous. Toutes les images existantes des spécimens sont conservées localement par les chercheurs indépendants qui les ont prises."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:49
@@ -1505,7 +1505,7 @@ msgstr "Exercices"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:52
 msgid "The individual exercises for this use case are located in the corresponding modules."
-msgstr "Les exercices individuels pour ce cas d'utilisation sont situés dans les modules correspondants."
+msgstr "Les exercices individuels pour ce cas pratique sont situés dans les modules correspondants."
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
@@ -1553,7 +1553,7 @@ msgstr "Dans le module Planification, vous passerez en revue les étapes clés d
 #: planning.en.adoc:8
 #, no-wrap
 msgid "Resourcing"
-msgstr "Ressourcement"
+msgstr "Ressources"
 
 #. type: Plain text
 #: planning.en.adoc:12
@@ -1580,7 +1580,7 @@ msgstr "Exercice 1a-c"
 #. type: Plain text
 #: planning.en.adoc:28
 msgid "For this activity, you will be using a virtual tabletop platform.  Review the exercise instructions below."
-msgstr "Pour cette activité, vous utiliserez une plateforme virtuelle pour les surfaces de tables. Consultez les instructions de l'exercice ci-dessous."
+msgstr "Pour cette activité, vous utiliserez une plateforme d'exercices virtuelle. Consultez les instructions de l'exercice ci-dessous."
 
 #. type: Plain text
 #: planning.en.adoc:30
@@ -1601,37 +1601,37 @@ msgstr "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITI
 #. type: Plain text
 #: planning.en.adoc:35
 msgid "To help you to work through the planning exercises for all use cases, we have made available five virtual playing card tables."
-msgstr "Pour vous aider à réaliser les exercices de planification pour tous les études de cas, nous avons mis à disposition cinq tables virtuelles de jeu de cartes."
+msgstr "Pour vous aider à réaliser les exercices de planification pour toutes les études de cas, nous avons mis à disposition cinq tables de jeu de cartes virtuelles."
 
 #. type: Plain text
 #: planning.en.adoc:37
 msgid "Because these are shared spaces, we ask that you follow these rules so that everyone who wants to use them can:"
-msgstr "Parce qu'il s'agit d'espaces partagés, nous vous demandons de respecter ces règles afin que tous ceux qui veulent les utiliser puissent :"
+msgstr "Parce qu'il s'agit d'espaces partagés, nous vous demandons de respecter ces règles afin que tous ceux qui veulent les utiliser puissent le faire :"
 
 #. type: Plain text
 #: planning.en.adoc:42
 msgid "Clean up after yourself.  If you use a card table, please be sure to return it to it's clean and original state when you are done.  This means putting all of the cards away and removing/deleting any new cards that you have added to the deck.  You can do this by clicking the recall buttons below each deck of cards."
-msgstr "Nettoyez après vous. Si vous utilisez une table de cartes, assurez-vous de la retourner à son état propre et original lorsque vous avez terminé. Cela signifie que toutes les cartes sont retirées et supprimer/supprimer toutes les nouvelles cartes que vous avez ajoutées au plateau. Vous pouvez le faire en cliquant sur les boutons de rappel sous chaque paquet de cartes."
+msgstr "Nettoyez après vous. Si vous utilisez une table de cartes, assurez-vous de la retourner à son état propre et original lorsque vous avez terminé. Cela signifie que toutes les cartes sont retirées et enlever/supprimer toutes les nouvelles cartes que vous avez ajoutées au paquet. Vous pouvez le faire en cliquant sur les boutons de rappel sous chaque paquet de cartes."
 
 #. type: Plain text
 #: planning.en.adoc:45
 msgid "If it's busy, try another table.  If you see that a card table is in use, please use one of the other card table links.  If you are unable to find an empty card table, alert us at training@gbif.org so that we can check the tables to be sure that any tables were not left unattended (or if we need to create an additional table for you)."
-msgstr "Si elle est occupée, essayez une autre table. Si vous voyez qu'une table de cartes est utilisée, veuillez utiliser l'un des autres liens de la table de cartes. Si vous ne trouvez pas de table de cartes vide, avertissez-nous à training@gbif. rg pour que nous puissions vérifier les tables pour être sûr que toutes les tables ne sont pas laissées sans surveillance (ou si nous avons besoin de créer une table supplémentaire pour vous)."
+msgstr "Si la table est occupée, essayez une autre table. Si vous voyez qu'une table de cartes est utilisée, veuillez utiliser l'un des autres liens de table de cartes. Si vous ne trouvez pas de table de cartes vide, avertissez-nous à training@gbif.org pour que nous puissions vérifier les tables pour être sûr que toutes les tables sont réellement utilisées (ou si nous avons besoin de créer une table supplémentaire pour vous)."
 
 #. type: Plain text
 #: planning.en.adoc:49
 msgid "Don't leave a table unattended.  Please do not leave your work on a table sitting out for long periods of time.  If you need to step away for an hour or two, that is acceptable, but please do not leave the cards unattended for more than 4 hours.  If you need to leave your set up for an extended period of time, please use the eLearning platform to notify the group and trainers which link you are using, why you need to leave your cards, and when you will return to complete your work."
-msgstr "Ne laissez pas de table vide. Ne laissez pas votre travail sur une table pour vous absenter pour une longue période de temps. Si vous devez vous absenter pendant une heure ou deux, c'est acceptable, mais s'il vous plaît ne laissez pas les cartes  pendant plus de 4 heures. Si vous avez besoin de quitter votre poste de façon prolongée, veuillez utiliser la plateforme eLearning pour informer le groupe et les formateurs du lien que vous utilisez, pourquoi vous devez laisser vos cartes et quand vous reviendrez pour terminer votre travail."
+msgstr "Ne laissez pas de table vide. Ne laissez pas votre travail sur une table lorsque vous vous absentez pour une longue période de temps. Si vous devez vous absenter pendant une heure ou deux, c'est acceptable, mais s'il vous plaît ne laissez pas trainer les cartes pendant plus de 4 heures. Si vous avez besoin de quitter votre poste de façon prolongée, veuillez utiliser la plateforme eLearning pour informer le groupe et les formateurs du lien que vous utilisez, pourquoi vous devez laisser vos cartes et quand vous reviendrez pour terminer votre travail."
 
 #. type: Plain text
 #: planning.en.adoc:53
 msgid "Take screen captures often.  We cannot guarantee that your cards will not be reset accidentally by someone from the workshop or by someone from your own project.  You cannot reset the cards once they have been recalled and reset.  If you want to submit a screenshot with your exercise please do."
-msgstr "Prenez souvent des captures d'écran. Nous ne pouvons pas garantir que vos cartes ne seront pas réinitialisées accidentellement par quelqu'un de l'atelier ou par quelqu'un de votre propre projet. Vous ne pouvez pas réinitialiser les cartes une fois qu'elles ont été rappelées et réinitialisées. Si vous voulez soumettre une capture d'écran avec votre exercice, faites-le s'il vous plaît."
+msgstr "Prenez souvent des captures d'écran. Nous ne pouvons pas garantir que vos cartes ne seront pas réinitialisées accidentellement par quelqu'un de l'atelier ou par quelqu'un de votre propre projet. Vous ne pouvez pas réinitialiser les cartes une fois qu'elles ont été rappelées et réinitialisées. Si vous voulez soumettre une capture d'écran avec votre exercice, n'hésitez pas à le faire."
 
 #. type: Plain text
 #: planning.en.adoc:55
 msgid "The trainers reserve the right to reset the card tables.  If we observe that one or more tables contain cards that have not been put away and have not been used for more than four hours without any notifications in the Forum on the eLearning platform, we will clear and reset the table for others to use."
-msgstr "Les formateurs se réservent le droit de réinitialiser les tables de cartes. Si nous observons qu'une ou plusieurs tables contiennent des cartes qui n'ont pas été remises et qui n'ont pas été utilisées depuis plus de quatre heures sans aucune notification sur le forum sur la plateforme eLearning, nous effacerons et réinitialiserons la table pour que les autres puissent l'utiliser."
+msgstr "Les formateurs se réservent le droit de réinitialiser les tables de cartes. Si nous observons qu'une ou plusieurs tables contiennent des cartes qui n'ont pas été remises et qui n'ont pas été utilisées depuis plus de quatre heures sans aucune notification sur le forum de la plateforme eLearning, nous effacerons et réinitialiserons la table pour que les autres puissent l'utiliser."
 
 #. type: Plain text
 #: planning.en.adoc:57
@@ -1651,22 +1651,22 @@ msgstr "VERT : https://playingcards.io/m53by6[^]"
 #. type: Plain text
 #: planning.en.adoc:63
 msgid "YELLOW: https://playingcards.io/kpen5h[^]"
-msgstr "JAUNE: https://playingcards.io/kpen5h[^]"
+msgstr "JAUNE : https://playingcards.io/kpen5h[^]"
 
 #. type: Plain text
 #: planning.en.adoc:65
 msgid "BLUE: https://playingcards.io/8dwg98[^]"
-msgstr "BLEU: https://playingcards.io/8dwg98[^]"
+msgstr "BLEU : https://playingcards.io/8dwg98[^]"
 
 #. type: Plain text
 #: planning.en.adoc:67
 msgid "PURPLE: https://playingcards.io/fah8an[^]"
-msgstr "VIOLET: https://playingcards.io/fah8an[^]"
+msgstr "VIOLET : https://playingcards.io/fah8an[^]"
 
 #. type: Plain text
 #: planning.en.adoc:69
 msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
-msgstr "Un grand merci à Jwalant Patel et Eric Ma pour avoir trouvé et aidé à créer les tables de jeu en ligne pour cet exercice et à Kate Webbink pour son expertise artistique. La plateforme de table en ligne est fournie par https://playingcards.io/."
+msgstr "Un grand merci à Jwalant Patel et Eric Ma pour avoir trouvé et aidé à créer les tables de jeu en ligne pour cet exercice et à Kate Webbink pour son expertise artistique. La plateforme de table de jeu en ligne est fournie par https://playingcards.io/."
 
 #. type: Title ====
 #: planning.en.adoc:70 use-case-invasive-species.en.adoc:72
@@ -1679,7 +1679,7 @@ msgstr "Exercice 1a"
 #: planning.en.adoc:72 capture.en.adoc:47 management.en.adoc:28
 #: publishing.en.adoc:46
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
-msgstr "Lire <<scénario,Cas d’utilisation I>> (si vous ne l'avez pas déjà)."
+msgstr "Lire le <<scénario,Cas Pratique I>> (si vous ne l'avez pas déjà fait)."
 
 #. type: Plain text
 #: planning.en.adoc:76
@@ -1745,7 +1745,7 @@ msgstr "*Question*\n"
 #. type: delimited block *
 #: planning.en.adoc:92
 msgid "Are there resources or goals missing from the cards that you feel are critical to the successful completion of the project? Note these on the answer sheet."
-msgstr "Y a-t-il des ressources ou des objectifs manquants dans les cartes que vous estimez essentiels à la réussite du projet? Notez-les sur la feuille de réponses."
+msgstr "Y a-t-il des ressources ou des objectifs manquants dans les cartes que vous estimez essentiels à la réussite du projet ? Notez-les sur la feuille de réponses."
 
 #. type: Title ====
 #: planning.en.adoc:94 use-case-invasive-species.en.adoc:91
@@ -1794,7 +1794,7 @@ msgstr "Existe-t-il des goulets d'étranglement évidents dans le processus ? Pa
 #. type: delimited block *
 #: planning.en.adoc:110
 msgid "What issues do you think would be important to the successful mobilization of data from the points of view of each stakeholder/role? For example: What are the deliverables? Thinking about the general project timeframe, are they realistic?"
-msgstr "Selon vous, quelles questions sont importantes pour réussir la mobilisation des données du point de vue de chaque intervenant/rôle? Par exemple: Quels sont les livrables ? Sont-ils réalistes, en prenant en considération le cadre temporel du projet ?"
+msgstr "Selon vous, quelles questions sont importantes pour réussir la mobilisation des données du point de vue de chaque intervenant/rôle ? Par exemple : Quels sont les livrables ? Sont-ils réalistes, en prenant en considération le cadre temporel du projet ?"
 
 #. type: delimited block *
 #: planning.en.adoc:111
@@ -1830,7 +1830,7 @@ msgstr "Présenter les parties prenantes (STAKEHOLDERS) ou les tâches (TASKS) m
 #. type: Plain text
 #: planning.en.adoc:122
 msgid "Highlight the two most critical issues/topics that the group has identified."
-msgstr "Mettez en évidence les deux questions/sujets les plus critiques identifiés par le groupe."
+msgstr "Mettre en évidence les deux questions/sujets les plus critiques identifiés par le groupe."
 
 #. type: Plain text
 #: planning.en.adoc:124
@@ -1891,7 +1891,7 @@ msgid "- [x] Stated\n"
 "- [x] Indirect\n"
 "- [ ] Guesses\n"
 msgstr "- [x] Déterminé\n"
-"- [x] implicit \n"
+"- [x] Implicite \n"
 "- [ ] Estimé\n"
 "- [x] Direct\n"
 "- [x] Indirect\n"
@@ -1936,7 +1936,7 @@ msgstr "- [ ] Affiliation\n"
 #. type: Plain text
 #: capture.en.adoc:7
 msgid "In this module, you will learn about the concept of standards, in particular, the Darwin Core Standard and its components.  You will also learn the types of primary biodiversity data and how to best share that information within GBIF.  Lastly, you will review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
-msgstr "Dans ce module, vous apprendrez le concept de standards, en particulier le standard Darwin Core et ses composantes. Vous apprendrez également les types de données primaires sur la biodiversité et comment partager au mieux ces informations au sein du GBIF. Enfin, vous examinerez les principes de la qualité des données dans le contexte de la saisie des données et vous apprendrez sur la qualité et la cohérence des données (en particulier sur des sujets tels que le géoréférencement, dates, noms et vérification croisée des taxons)."
+msgstr "Dans ce module, vous en apprendrez sur le concept de standards, en particulier le standard Darwin Core et ses composantes. Vous découvrirez également les types de données primaires sur la biodiversité et comment partager au mieux ces informations au sein du GBIF. Enfin, vous examinerez les principes de qualité des données dans le contexte de la saisie des données et vous en apprendrez davantage sur la qualité et la cohérence des données (en particulier sur des sujets tels que le géoréférencement, les dates, noms et vérification croisée des taxons)."
 
 #. type: Title ===
 #: capture.en.adoc:8
@@ -1947,7 +1947,7 @@ msgstr "Standards et Darwin Core"
 #. type: Plain text
 #: capture.en.adoc:13
 msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
-msgstr "Dans cette vidéo (15:37), vous apprendrez comment vous interagirez avec les standards tous les jours. Puis vous serez introduits au https://www.tdwg.org/[Standards de l’information sur la biodiversité^], y compris le https://www.tdwg.org/standards/dwc/[Standard Darwin Core^] que vous continuerez à utiliser tout au long de ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Standards_Darwin_Core.mp4[télécharger^,opts=download] localement (MP4 - 27 Mo)"
+msgstr "Dans cette vidéo (15:37), vous apprendrez comment vous interagissez avec les standards tous les jours. Puis vous serez introduits au https://www.tdwg.org/[Standards de l’information sur la biodiversité^], y compris le https://www.tdwg.org/standards/dwc/[Standard Darwin Core^] que vous continuerez à utiliser tout au long de ce cours. Si vous ne parvenez pas à regarder la vidéo intégrée, vous pouvez la link:../videos/Foundations_Standards_Darwin_Core.mp4[télécharger^,opts=download] localement (MP4 - 27 Mo)"
 
 #. type: Title ===
 #: capture.en.adoc:17
@@ -1969,12 +1969,12 @@ msgstr "*Questions*\n"
 #. type: delimited block *
 #: capture.en.adoc:29
 msgid "Is your data type different than you originally thought?"
-msgstr "Votre type de données est-il différent de ce que vous pensiez initialement?"
+msgstr "Votre type de données est-il différent de ce que vous pensiez initialement ?"
 
 #. type: delimited block *
 #: capture.en.adoc:30
 msgid "With what kind of data do you work?"
-msgstr "Avec quel type de données travaillez-vous?"
+msgstr "Avec quel type de données travaillez-vous ?"
 
 #. type: delimited block *
 #: capture.en.adoc:31
@@ -1990,7 +1990,7 @@ msgstr "Saisie, traitement et qualité des données"
 #. type: Plain text
 #: capture.en.adoc:37
 msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "Dans cette vidéo (09:11), vous allez explorer les principes de la qualité des données appliqués à la saisie des données, spécifiquement lors de la capture de données à partir des étiquettes de collecte, des cahiers de travail, des feuilles de calcul, etc. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Data_capture_processing_quality.mp4[télécharger^,opts=download] localement. (MP4 - 19 Mo)"
+msgstr "Dans cette vidéo (09:11), vous allez explorer les principes de la qualité des données appliqués à la saisie des données, spécifiquement lors de la capture de données à partir des étiquettes de collecte, des cahiers de terrain, des feuilles de calcul, etc. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Data_capture_processing_quality.mp4[télécharger^,opts=download] localement. (MP4 - 19 Mo)"
 
 #. type: Title ===
 #: capture.en.adoc:41 use-case-invasive-species.en.adoc:112
@@ -2023,7 +2023,7 @@ msgstr "Téléchargez le modèle de feuille de calcul : link:../exercise-data/UC
 #. type: Plain text
 #: capture.en.adoc:58
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
-msgstr "vous devrez peut-être ajouter des champs à la feuille de calcul car vous pourrez peut-être saisir plus d'informations à partir des étiquettes prévues dans le modèle."
+msgstr "vous devrez peut-être ajouter des champs à la feuille de calcul car vous pourrez peut-être saisir plus d'informations à partir des étiquettes que ce qui est prévu dans le modèle."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2121,7 +2121,7 @@ msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
 "image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]\n"
 msgstr ":figure-caption!:\n"
-".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observé à la Réserve Naturelle de Gamla par מינוזיג - MinoZig (CC0) \n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Vautour Fauve] observé à la Réserve Naturelle de Gamla par מינוזיג - MinoZig (CC0) \n"
 "image::img/web/QDataTypes-tracking.png[align=\"center\", width=\"640\", height=\"360\"]\n"
 
 #. type: delimited block .
@@ -2261,7 +2261,7 @@ msgstr "Outils de gestion des données"
 #. type: Plain text
 #: management.en.adoc:19
 msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
-msgstr "Dans cette vidéo (06:42), vous apprendrez une variété d'outils que vous pouvez utiliser pour améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Data_Management_Tools.mp4[ télécharger,opts=download] localement. (MP4 - 10.3 Mo)"
+msgstr "Dans cette vidéo (06:42), vous en apprendrez plus une variété d'outils que vous pouvez utiliser pour améliorer la qualité de vos données. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Data_Management_Tools.mp4[ télécharger,opts=download] localement. (MP4 - 10.3 Mo)"
 
 #. type: Title ===
 #: management.en.adoc:23
@@ -2277,7 +2277,7 @@ msgstr "Pour ces exercices, vous effectuerez des vérifications techniques et co
 #. type: Plain text
 #: management.en.adoc:32
 msgid "Your institution is part of the “Global Poales Association (GPA)”.  This association has secured funding to publish an up-to-date flora on the group and has requested your herbarium to participate and provide any high quality records you may have on this order of plants.  The order is well represented in your collection so you think you could contribute substantially to this effort."
-msgstr "Votre institution fait partie de la « Global Poales Association (GPA) ». Cette association a obtenu un financement pour publier une flore à jour sur le groupe et a demandé à votre herbarium de participer et de fournir des enregistrements de haute qualité que vous pourriez avoir sur cet ordre de plantes. Cet ordre est bien représenté dans votre collection afin que vous puissiez contribuer de manière substantielle à cet effort."
+msgstr "Votre institution fait partie de la « Global Poales Association (GPA) ». Cette association a obtenu un financement pour publier une flore à jour sur le groupe et a demandé à votre herbier de participer et de fournir des enregistrements de haute qualité que vous pourriez avoir sur cet ordre de plantes. Cet ordre est bien représenté dans votre collection et vous pensez pouvoir contribuer de manière substantielle à cet effort."
 
 #. type: Title ====
 #: management.en.adoc:33
@@ -2326,7 +2326,7 @@ msgstr "*Autres outils de gestion des données*\n"
 #. type: Plain text
 #: management.en.adoc:50
 msgid "The GPA association has given you a checklist of data quality elements to verify:"
-msgstr "L'association GPA vous a donné une liste d'éléments de contrôle de qualité des données à vérifier:"
+msgstr "L'association GPA vous a donné une liste d'éléments de contrôle de qualité des données à vérifier :"
 
 #. type: Plain text
 #: management.en.adoc:52
@@ -2450,7 +2450,7 @@ msgid "*Technical errors*\n"
 "These may indicate incorrect exports, data mapping, field slippage (e.g. moving 1 column to the right) or data missing at the source.\n"
 msgstr "*Erreurs techniques*\n"
 "Relativement simples, il est souvent possible d'automatiser les *vérifications liées à l'intégrité des données*. \n"
-"Celles-ci peuvent indiquer des problèmes d'exportations de fichier, de mappage de données, de glissement de champ (par exemple le déplacement involontaire d'une colonne vers la droite) ou des données manquantes à la source.\n"
+"Celles-ci peuvent indiquer des problèmes d'exportations de fichier, de cartographie de données, de glissement de champ (par exemple le déplacement involontaire d'une colonne vers la droite) ou des données manquantes à la source.\n"
 
 #. type: Plain text
 #: management.en.adoc:98
@@ -2538,7 +2538,7 @@ msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
 "Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
 "For example, are any mammal records attributed to a bird watching group?\n"
-msgstr "*Protocoles de collecte*: \n"
+msgstr "*Protocoles de collecte* : \n"
 "Est-ce que le détail de l'occurrence correspond aux protocoles connus de collecte de l'organisation ou du collecteur ?\n"
 "Des enregistrements semblent-ils avoir été créés après la mort d'un collecteur (cela pourrait-il être un collecteur différent avec un nom similaire) ?\n"
 "Par exemple, des enregistrements de mammifères sont-ils attribués à une association d'observation d'oiseaux ?\n"
@@ -2571,13 +2571,13 @@ msgstr "Outils utiles"
 #: management.en.adoc:136
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
-msgstr "*Outil GBIF de séquençage des noms scientifiques*: https://www.gbif.org/tools/name-parser\n"
+msgstr "*Outil GBIF de séquençage des noms scientifiques* : https://www.gbif.org/tools/name-parser\n"
 
 #. type: Plain text
 #: management.en.adoc:137
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
-msgstr "*Global Names Resolver*: http://resolver.globalnames.org\n"
+msgstr "*Global Names Resolver* : http://resolver.globalnames.org\n"
 
 #. type: Plain text
 #: management.en.adoc:138
@@ -2589,43 +2589,43 @@ msgstr "*Correspondance de nom de Catalogue of Life* : https://data.catalogueofl
 #: management.en.adoc:139
 #, no-wrap
 msgid "*TNRS*: https://tnrs.biendata.org/\n"
-msgstr "*TNRS*: https://tnrs.biendata.org/\n"
+msgstr "*TNRS* : https://tnrs.biendata.org/\n"
 
 #. type: Plain text
 #: management.en.adoc:140
 #, no-wrap
 msgid "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
-msgstr "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
+msgstr "*WoRMS* : https://www.marinespecies.org/aphia.php?p=match\n"
 
 #. type: Plain text
 #: management.en.adoc:141
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
-msgstr "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
+msgstr "*InfoXY* : http://splink.cria.org.br/infoxy?criaLANG=en\n"
 
 #. type: Plain text
 #: management.en.adoc:142
 #, no-wrap
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
-msgstr "*Calculateur de coordonnées géographiques*: http://georeferencing.org/georefcalculator/gc.html\n"
+msgstr "*Calculateur de coordonnées géographiques* : http://georeferencing.org/georefcalculator/gc.html\n"
 
 #. type: Plain text
 #: management.en.adoc:143
 #, no-wrap
 msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
-msgstr "*Outil Canadensys de conversion des coordonnées*: http://data.canadensys.net/tools/coordonnées/fr_FR\n"
+msgstr "*Outil Canadensys de conversion des coordonnées* : https://data.canadensys.net/tools/coordinates?lang=fr\n"
 
 #. type: Plain text
 #: management.en.adoc:144
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
-msgstr "*Outil Canadensys de séquençage des dates*: http://data.canadensys.net/tools/dates\n"
+msgstr "*Outil Canadensys de séquençage des dates* : https://data.canadensys.net/tools/dates?lang=fr\n"
 
 #. type: Plain text
 #: management.en.adoc:145
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
-msgstr "*Google Maps*: https://maps.google.com/\n"
+msgstr "*Google Maps* : https://maps.google.com/\n"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2812,7 +2812,7 @@ msgstr "Après le nettoyage des données dans le jeu de données des Poales, l'�
 #. type: Plain text
 #: publishing.en.adoc:53
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
-msgstr "À ce stade, vous avez besoin d'un compte sur l'un des <<Installations IPT pour la formation,course IPTs>>. Si vous n'avez pas encore reçu de login, veuillez contacter training@gbif.org et vous recevrez un login et un mot de passe sur l'un des IPTs du cours."
+msgstr "À ce stade, vous avez besoin d'un compte sur l'une des <<Installations IPT pour la formation,course IPTs>>. Si vous n'avez pas encore reçu d'identifiant de connexion, veuillez contacter training@gbif.org et vous recevrez un identifiant et un mot de passe pour l'un des IPTs du cours."
 
 #. type: Plain text
 #: publishing.en.adoc:54
@@ -2879,7 +2879,7 @@ msgstr "- [ ] CC-BY, CC-BY-SA et CC-BY-ND\n"
 #. type: Plain text
 #: publishing.en.adoc:99
 msgid "What are the three Cores from which you can choose for an IPT resource?"
-msgstr "Quels sont les trois \"Cores\" que vous pouvez choisir pour une ressource sur l'IPT ?"
+msgstr "Quels sont les trois noyaux (cores) que vous pouvez choisir pour une ressource sur l'IPT ?"
 
 #. type: delimited block .
 #: publishing.en.adoc:106
@@ -2916,7 +2916,7 @@ msgstr "Evaluation et certification"
 #. type: Plain text
 #: assessments-certification.en.adoc:6
 msgid "In this module, you will review the criteria to be used to assess assignments and to achieve certification."
-msgstr "Dans ce module, vous examinerez les critères à utiliser pour évaluer les affectations et obtenir une certification."
+msgstr "Dans ce module, vous examinerez les critères à utiliser pour évaluer les devoirs et obtenir une certification."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:8
@@ -2931,14 +2931,14 @@ msgid "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,wid
 "|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=center,width=75,height=75]\n"
 "|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
 msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,width=75,height=75]\n"
-"|Un score global de 2.5-2.9 gagne un badge BASIC de mobilisation des données sur la biodiversité\n\n"
+"|Un score global de 2.5-2.9 permet de gagner un badge BASIC de mobilisation des données sur la biodiversité\n\n"
 "|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=center,width=75,height=75]\n"
-"|Un score global de 3.0-4.0 obtient un badge de mobilisation des données sur la biodiversité AVANCED\n"
+"|Un score global de 3.0-4.0 permet d'obtenir un badge de mobilisation des données sur la biodiversité ADVANCED\n"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr "Les participants doivent soumettre (en anglais) le Cas Pratique II et le Cas Pratique III (choix entre deux options). Chaque cas Pratique est évalué en fonction des rubriques pédagogiques du cours. Ces rubriques définissent les compétences et les niveaux de performance sur lesquels reposent les objectifs d'apprentissage du cours."
+msgstr "Les participants doivent soumettre (en anglais) le Cas Pratique II et le Cas Pratique III (choix entre deux options). Chaque Cas Pratique est évalué en fonction des rubriques pédagogiques du cours. Ces rubriques définissent les compétences et les niveaux de performance sur lesquels reposent les objectifs d'apprentissage du cours."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
@@ -3002,7 +3002,7 @@ msgstr "|Compétences\n"
 "4\n\n"
 "|A. Connaissance des différents éléments qui font partie d'un plan de mobilisation de données de biodiversité\n"
 "|Comprend quelques rôles et tâches nécessaires à un plan de mobilisation solide, mais n'est pas en mesure de différencier qui effectue quelle tâche dans le plan ou mélange les rôles.\n"
-"|Comprend un grand nombre des rôles et des tâches nécessaires à un plan de mobilisation, mais ne parvient pas à établir les liens et les interactions entre eux.\n"
+"|Comprend un grand nombre des rôles et tâches nécessaires à un plan de mobilisation, mais ne parvient pas à établir les liens et les interactions entre eux.\n"
 "|Comprend les tâches et les rôles clés nécessaires dans un plan de mobilisation et leurs interactions.\n"
 "|Peut identifier les rôles et les tâches supplémentaires qui peuvent être nécessaires dans des situations spécifiques.\n\n"
 "|B. Capacité à appliquer les différents éléments d'un plan de mobilisation des données de biodiversité à un contexte institutionnel donné (par exemple, le sien).\n"
@@ -3099,7 +3099,7 @@ msgstr "Rubrique de gestion des données"
 #: use-case-birds-from-literature.en.adoc:140
 #, no-wrap
 msgid "*Data management*\n"
-msgstr "*La gestion des données*\n"
+msgstr "*Gestion des données*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:149
@@ -3265,12 +3265,12 @@ msgstr "|Compétences\n"
 #: use-case-invasive-species.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Invasive species"
-msgstr "Caisse d'utilisation II - Espèces envahissantes"
+msgstr "Cas Pratique II - Espèces envahissantes"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:8 use-case-lepidoptera-sampling.en.adoc:8
 msgid "You have a choice for Use Case II between two scenarios:"
-msgstr "Vous avez le choix entre deux scénarios pour le cas d'utilisation II :"
+msgstr "Vous avez le choix entre deux scénarios pour le cas pratique II :"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:10
@@ -3288,7 +3288,7 @@ msgstr "Échantillonnage de Lepidoptera"
 #: use-case-invasive-species.en.adoc:13
 #: use-case-lepidoptera-sampling.en.adoc:13
 msgid "Your choice for Use Case II will be graded."
-msgstr "Votre choix pour Use Case II sera noté."
+msgstr "Votre choix pour le Cas Pratique II sera noté."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:16
@@ -3311,37 +3311,37 @@ msgstr "img/web/use-case-2-invasive-hawaii.png"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:22
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Sharon Grant, John Wieczorek, David Bloom and Laura Anne Russell."
-msgstr "Ce récit a été élaboré comme base pour des exercices pratiques du cours de mobilisation des données sur la biodiversité et le concept et le contenu de l'exercice a été développé par Sharon Grant, John Wieczorek, David Bloom et Laura Anne Russell."
+msgstr "Ce récit a été élaboré comme base pour des exercices pratiques du cours de mobilisation des données sur la biodiversité. Le concept et le contenu de l'exercice ont été développés par Sharon Grant, John Wieczorek, David Bloom et Laura Anne Russell."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
 msgid "It is a fictionalized scenario based on a real dataset and is meant only for instructional purposes.  The original dataset is attributed to Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
-msgstr "Il s'agit d'un scénario fictif, basé sur un jeu de données réel, dont le but est de servir de support pédagogique. Le jeu de données original est attribué à Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1. United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessibles via GBIF.org le 2017-07-13."
+msgstr "Il s'agit d'un scénario fictif, basé sur un jeu de données réel, dont le but est de servir de support pédagogique. Le jeu de données original est attribué à Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1. United States Geological Survey. https://doi.org/10.15468/hp7zwr[Jeu de données d'occurrences] accessibles via GBIF.org le 2017-07-13."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:31
 msgid "The Hawaii Invasive Species Council (HISC) received a federal grant to collaborate with high schools as part of Hawaii’s statewide curriculum on Invasive Species to increase local knowledge about invasive species, increase data collection and produce annotated checklists for under reported areas.  A full-time Project Manager is employed to oversee the project.  All funds and allocations are managed by the HISC Fiscal Associate."
-msgstr "Le Conseil sur les espèces invasives de Hawaï (Hawaii Invasive Species Council : HISC) a reçu une subvention fédérale pour collaborer avec des lycées dans le cadre du programme national d’Hawaï sur les espèces invasives. Le but du projet est d’accroître les connaissances locales sur les espèces invasives, accroître la collecte de données et générer des checklists annotées pour les zones signalées. Un manager est employé à temps plein pour superviser le projet. Tous les fonds et les allocations sont gérés par l'Associé Fiscal du HISC."
+msgstr "Le Conseil sur les espèces invasives de Hawaï (Hawaii Invasive Species Council : HISC) a reçu une subvention fédérale pour collaborer avec des écoles secondaires dans le cadre du programme national d’Hawaï sur les espèces invasives. Le but du projet est d’accroître les connaissances locales sur les espèces invasives, accroître la collecte de données et générer des listes d'espèces annotées pour les zones signalées. Un gestionnaire est employé à temps plein pour superviser le projet. Tous les fonds et les allocations sont gérés par l'Associé Fiscal du HISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:35
 msgid "The Manager of each island’s Invasive Species Committee (ISC) received a sub-award to set up local education programs and collect data.  The programs trained high school students to become Student Mentors and to facilitate image and data collection by members of the local community.  The Big Island Invasive Species Committee (BIISC) received a further sub-award to extend their central database to accommodate each ISC’s data, provide participating schools with their own websites, and maintain a single, searchable data portal to serve government, public, and scholarly research efforts."
-msgstr "Le directeur du Comité des espèces envahissantes (CSI) de chaque île a reçu un sous-prix pour la mise en place de programmes éducatifs locaux et la collecte de données. Les programmes ont formé des élèves du secondaire à devenir des mentors d'élèves et à faciliter la collecte d'images et de données par les membres de la communauté locale. Le Comité des espèces envahissantes de la Grande Île (CIIS) a reçu un nouveau sous-prix pour étendre sa base de données centrale afin de tenir compte des données de chaque ISC. de fournir aux écoles participantes leurs propres sites Web et de mettre à jour un portail de données consultable unique pour servir le gouvernement, le public et les efforts de recherche scientifique."
+msgstr "Le directeur du Comité des espèces envahissantes (CSI) de chaque île a reçu un sous-prix pour la mise en place de programmes éducatifs locaux et la collecte de données. Les programmes ont formé des élèves du secondaire à devenir des mentors d'élèves et à faciliter la collecte d'images et de données par les membres de la communauté locale. Le Comité des espèces envahissantes de la Grande Île (CIIS) a reçu un nouveau sous-prix pour étendre sa base de données centrale afin de tenir compte des données de chaque ISC, de fournir aux écoles participantes leurs propres sites Internet et de mettre à jour un portail de données consultable unique pour servir le gouvernement, le public et les efforts de recherche scientifique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:38
 msgid "Two schools on each island were selected because they were located in areas where knowledge and documentation of invasive species assessment was poor or non-existent.  Teachers worked with their local Invasive Species Council (ISC) Outreach Associate to create teaching materials detailing 21 important invasive plant species, including how to identify each species’ life stages and the most effective control methods."
-msgstr "Deux écoles de chaque île ont été sélectionnées parce qu'elles étaient situées dans des zones où les connaissances et la documentation relatives à l'évaluation des espèces envahissantes étaient médiocres ou inexistantes. Les enseignants ont travaillé avec l’associé à la sensibilisation du Conseil des espèces envahissantes (CSI) local pour créer du matériel pédagogique détaillant 21 espèces de plantes envahissantes, y compris comment identifier les étapes de vie de chaque espèce et les méthodes de contrôle les plus efficaces."
+msgstr "Deux écoles de chaque île ont été sélectionnées parce qu'elles étaient situées dans des zones où les connaissances et la documentation relatives à l'évaluation des espèces envahissantes étaient médiocres ou inexistantes. Les enseignants ont travaillé avec le responsable à la sensibilisation du Conseil des espèces envahissantes (CSI) local pour créer du matériel pédagogique détaillant 21 espèces de plantes envahissantes, y compris comment identifier les étapes de vie de chaque espèce et les méthodes de contrôle les plus efficaces."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:41
 msgid "The Graduate School of the University of Hawaii in Maui (UHM) runs a course in community outreach.  Four botany students from the University, as a part of their final course assessment, are validating the identifications from the images and descriptions submitted by each high school to their local ISC."
-msgstr "L'école doctorale de l'Université d'Hawaï à Maui (UHM) organise un cours de sensibilisation auprès du grand public. Quatre étudiants de l'Université, dans le cadre de leur évaluation finale, sont en train de valider les identifications sur base photographique, et les descriptions soumises par chaque lycée à leur SIC local."
+msgstr "L'école supérieure de l'Université d'Hawaï à Maui (UHM) organise un cours de sensibilisation auprès du grand public. Quatre étudiants de l'Université, dans le cadre de leur évaluation finale, sont en train de valider les identifications sur base photographique, et les descriptions soumises par chaque école secondaire à leur SIC local."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:47
 msgid "Students from each high school organized a series of day-long community surveys in their local neighbourhoods.  Participants, guided by local ISC Early Detection Technicians and Student Mentors, visited various locations where they were given photo guides and assigned a route to follow during collection events.  Along each route, they were tasked with identifying the target species and taking 1-3 photos of them using GPS-enabled mobile phones."
-msgstr "Des élèves de chaque lycée ont organisé une série d'enquêtes sur une journée dans leur quartier. Les participants, guidés par les techniciens locaux de l'ISC et les mentors des étudiants, ont visité différents endroits où des guides photo leur ont été donnés et où un itinéraire à suivre pour la collecte de données leur a été attribué. Le long de chaque itinéraire, ils ont été chargés d'identifier les espèces cibles et de prendre 1 à 3 photos à l'aide de téléphones portables équipés d'un GPS."
+msgstr "Des élèves de chaque école secondaire ont organisé une série d'enquêtes sur une journée dans leur quartier. Les participants, guidés par les techniciens locaux de l'ISC et les mentors des étudiants, ont visité différents endroits où des guides photo leur ont été donnés et où un itinéraire à suivre pour la collecte de données leur a été attribué. Le long de chaque itinéraire, ils ont été chargés d'identifier les espèces cibles et de prendre 1 à 3 photos à l'aide de téléphones portables équipés d'un GPS."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:51
@@ -3360,7 +3360,7 @@ msgstr "img/web/use-case-2-invasives-data-collection.png"
 #: use-case-birds-from-literature.en.adoc:71
 #, no-wrap
 msgid "Digital data description"
-msgstr "Description numérique des données"
+msgstr "Description des données numériques"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:59
@@ -3376,7 +3376,7 @@ msgstr "Feuille d'exercice des espèces envahissantes"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
 msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC2-IS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 ko)"
+msgstr "Télécharger le link:../course-docs/UC2-IS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 ko)"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:64
@@ -3395,7 +3395,7 @@ msgstr "Vous êtes le gestionnaire local de l'ISC et, en raison du succès des c
 #: use-case-invasive-species.en.adoc:75
 #, no-wrap
 msgid "*Analyse the financial implications of expanding the number of schools*\n"
-msgstr "*Analyser les implications financières d'augementer le nombre d'écoles*\n"
+msgstr "*Analyser les implications financières de l'augmentation du nombre d'écoles*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:78
@@ -3475,22 +3475,22 @@ msgstr "Analyste SIG du BIISC : capacité avancée d'utilisation des ordinateurs
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:104
 msgid "ISC Manager: Good computer skills."
-msgstr "Gestionnaire ISC : de bonnes compétences en informatique."
+msgstr "Gestionnaire ISC : bonnes compétences en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:105
 msgid "ISC Outreach Associate: Good field identification skills; Basic computer use. Social media expert."
-msgstr "Responsable de la communication de l'ISC : de bonnes compétences d’identification sur le terrain, compétences de base en informatique. Expert en réseaux sociaux."
+msgstr "Responsable de la communication de l'ISC : bonnes compétences d’identification sur le terrain, compétences de base en informatique. Expert en réseaux sociaux."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:106
 msgid "Student Mentor 1: Basic taxonomic knowledge. Basic computer use."
-msgstr "Mentor étudiant 1 : Connaissances taxonomiques de base. Compétences de base en informatique."
+msgstr "Mentor étudiant 1 : connaissances taxonomiques de base. Compétences de base en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:107
 msgid "Student Mentor 2: Basic taxonomic knowledge. Basic computer use."
-msgstr "Mentor étudiant 2 : Connaissances taxonomiques de base. Compétences de base en informatique."
+msgstr "Mentor étudiant 2 : connaissances taxonomiques de base. Compétences de base en informatique."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:108
@@ -3515,7 +3515,7 @@ msgstr "Étudiant en botanique 4 : connaissances taxonomiques avancées."
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:120
 msgid "The BIISC is now planning to make all of the data from the project publicly available by publishing datasets to GBIF.  As the BIISC’s Outreach Assistant, you must identify the relevant Darwin Core fields to accommodate the data from the online form.  You’ve noticed that additional data describing species and locations have been added to the data form by the graduate students performing validations.  To accommodate this data, you need to extend the data structure to aggregate the data from the online form with the added taxonomy and georeferences."
-msgstr "Le BIISC prévoit maintenant de rendre accessibles et publiques toutes les données du projet en publiant des jeux de données sur le GBIF. En tant qu’assistant de sensibilisation du BIISC, vous devez identifier les champs pertinents de Darwin Core correspondant le mieux aux données du formulaire en ligne. Vous avez remarqué que des données supplémentaires décrivant les espèces et les lieux ont été ajoutées au formulaire de données par les étudiants diplômés qui ont procédé à leur validation. Vous devez étendre la structure de données afin d'intégrer ces informations à partir du formulaire en ligne, avec les données taxonomiques et géographiques supplémentaires."
+msgstr "Le BIISC prévoit maintenant de rendre accessibles et publiques toutes les données du projet en publiant des jeux de données sur le GBIF. En tant qu’assistant de sensibilisation du BIISC, vous devez identifier les champs Darwin Core pertinents correspondant le mieux aux données du formulaire en ligne. Vous avez remarqué que des données supplémentaires décrivant les espèces et les lieux ont été ajoutées au formulaire de données par les étudiants diplômés qui ont procédé à leur validation. Vous devez étendre la structure de données afin d'intégrer ces informations à partir du formulaire en ligne, avec les données taxonomiques et géographiques supplémentaires."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
@@ -3525,7 +3525,7 @@ msgstr "Télécharger link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-For
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
 msgid "Using the downloaded dataset, produce a spreadsheet as example of the extended data structure and the fields you’ve identified as relevant for Darwin Core."
-msgstr "En utilisant le jeu de données téléchargé, produisez une feuille de calcul comme exemple de la structure de données étendue et des champs que vous avez identifiés comme étant pertinents pour la correspondance avec le Darwin Core."
+msgstr "En utilisant le jeu de données téléchargé, créez une feuille de calcul comme exemple de la structure de données étendue et des champs que vous avez identifiés comme étant pertinents pour la correspondance avec le Darwin Core."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
@@ -3568,12 +3568,12 @@ msgstr "Identifiez différentes façons de corriger ces problèmes et effectuez 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:144
 msgid "The HISC is now ready to publish the checklist data and associated occurrences to GBIF.  For this exercise, you will take the role of the Project Leader.  Your responsibility: publishing the cleaned checklist data and associated occurrences online through the GBIF network."
-msgstr "Le HISC est maintenant prêt à publier les données de la liste de référence taxonomique et les occurrences associées sur le GBIF. Pour cet exercice, vous assumerez le rôle de responsable du projet. Votre responsabilité: publier les données de la liste de référence nettoyée et les occurrences associées en ligne via le réseau GBIF."
+msgstr "Le HISC est maintenant prêt à publier les données de la liste de référence taxonomique et les occurrences associées sur le GBIF. Pour cet exercice, vous assumerez le rôle de responsable du projet. Votre responsabilité : publier les données de la liste de référence nettoyée et les occurrences associées en ligne via le réseau GBIF."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:146
 msgid "Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
-msgstr "Lien de téléchargement link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 ko)"
+msgstr "Téléchargez link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 ko)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
@@ -3593,13 +3593,13 @@ msgstr "Utilisez la feuille d'exercice pour fournir vos réponses, ainsi qu'un l
 #: use-case-lepidoptera-sampling.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Lepidoptera sightings"
-msgstr "Cas d'utilisation II - Observations de Lépidoptères"
+msgstr "Cas Pratique II - Observations de Lépidoptères"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:16
 #, no-wrap
 msgid "*Sampling of Lepidoptera across Countries*\n"
-msgstr "*Échantillonnage de Lepidoptera à travers les pays*\n"
+msgstr "*Échantillonnage de Lepidoptera à travers différents pays*\n"
 
 #. type: Block title
 #: use-case-lepidoptera-sampling.en.adoc:18
@@ -3616,22 +3616,22 @@ msgstr "img/web/use-case-2-Papilio_machaon.jpeg"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:23
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, based on previous work by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé.  It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr "Ce scénario a été élaboré comme base pour les exercices pratiques du cours de mobilisation des données de biodiversité. Le concept et le contenu de l'exercice ont été développés par Alberto González-Talaván, sur la base des travaux antérieurs d'Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond et Nicolas Noé.  Il s'agit d'un scénario fictif qui n'est destiné qu'à des fins pédagogiques."
+msgstr "Ce scénario a été élaboré comme base pour les exercices pratiques du cours de mobilisation des données de biodiversité. Le concept et le contenu de l'exercice ont été développés par Alberto González-Talaván, sur la base des travaux antérieurs d'Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond et Nicolas Noé. Il s'agit d'un scénario fictif qui n'est destiné qu'à des fins pédagogiques."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:29
 msgid "The International Butterfly Amateur Network (IBAN) has been providing a framework for national amateur observational groups to capture data about the occurrence of butterflies (Lepidoptera) since 2009.  An extensive network of amateur observers use a standard protocol based on Pollard walks to capture this information on paper sheets that they send to their national office.  Some of these offices digitize this information into spreadsheets, but others do not have the human resources to do this and they send the paper logs to the IBAN for processing.  IBAN produces an annual report based on the sightings provided by these national members, with updated distribution maps and analysis of population trends for some key species."
-msgstr "L'International Butterfly Amateur Network (IBAN) fournit un cadre pour les groupes d'observation amateurs nationaux pour capturer des données sur l'apparition de papillons (Lepidoptera) depuis 2009. Un vaste réseau d'observateurs amateurs utilise un protocole standard basé sur Pollard pour saisir ces renseignements sur les feuilles de papier qu'ils transmettent à leur bureau national. Certains de ces bureaux numérisent ces informations dans des feuilles de calcul, mais d'autres n'ont pas les ressources humaines pour le faire et ils envoient les journaux papier à l'IBAN pour traitement. L'IBAN produit un rapport annuel basé sur les observations fournies par ces membres nationaux, avec la mise à jour des cartes de distribution et l'analyse des tendances démographiques de certaines espèces clés."
+msgstr "L'International Butterfly Amateur Network (IBAN) fournit un cadre pour les groupes d'observation amateurs nationaux pour capturer des données sur l'apparition de papillons (Lepidoptera) depuis 2009. Un vaste réseau d'observateurs amateurs utilise un protocole standard basé sur la méthode \"Pollard walk\" pour saisir ces renseignements sur les feuilles de papier qu'ils transmettent à leur bureau national. Certains de ces bureaux numérisent ces informations dans des feuilles de calcul, mais d'autres n'ont pas les ressources humaines pour le faire et ils envoient les enregistrements papier à l'IBAN pour traitement. L'IBAN produit un rapport annuel basé sur les observations fournies par ces membres nationaux, avec la mise à jour des cartes de distribution et l'analyse des tendances démographiques de certaines espèces clés."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:35
 msgid "The IBAN headquarters is mainly staffed with volunteers.  With the increasing popularity of citizen science and the general interest in butterflies as a charismatic group of organisms, more and more data are received every year and the paper data sheets quickly pile up undigitized.  The IBAN steering committee is trying to identify a more efficient and agile workflow for the creation of digital data because they would like to start publishing these data online regularly.  They would also like to start processing digital pictures that their volunteers are already capturing with mobile devices like phones and tablets.  Their ultimate objective is to raise the profile of the network and strengthen collaborations with local and regional governments to influence conservation policies for Lepidoptera in the countries involved."
-msgstr "Le siège de l'IBAN est principalement composé de volontaires. Avec la popularité croissante de la science citoyenne et l'intérêt général pour les papillons en tant que groupe charismatique d'organismes, de plus en plus de données sont reçues chaque année et les fiches de données non numérisées s'accumulent rapidement. Le comité directeur de l’IBAN tente d'identifier un flux de travail plus efficace et plus agile pour la création de données numériques, car il souhaite commencer à publier ces données en ligne régulièrement. Ils aimeraient également commencer à traiter des images numériques que leurs bénévoles sont déjà en train de capturer avec des appareils mobiles comme des téléphones et des tablettes. Leur objectif ultime est de faire connaître le réseau et de renforcer les collaborations avec les gouvernements locaux et régionaux pour influencer les politiques de conservation de Lepidoptera dans les pays concernés."
+msgstr "Le siège de l'IBAN est principalement composé de volontaires. Avec la popularité croissante de la science citoyenne et l'intérêt général pour les papillons en tant que groupe d'organismes charismatique, de plus en plus de données sont reçues chaque année et les fiches de données non numérisées s'accumulent rapidement. Le comité directeur de l’IBAN tente d'identifier un flux de travail plus efficace et plus agile pour la création de données numériques, car il souhaite commencer à publier ces données en ligne régulièrement. Ils aimeraient également commencer à traiter des images numériques que leurs bénévoles sont déjà en train de capturer avec des appareils mobiles comme des téléphones et des tablettes. Leur objectif ultime est de faire connaître le réseau et de renforcer les collaborations avec les gouvernements locaux et régionaux pour influencer les politiques de conservation de Lepidoptera dans les pays concernés."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:38
 msgid "There is currently no formal agreement between IBAN and the amateurs capturing data, to cover the ways in which the data can be used, for example.  The steering committee has some concerns that when they start publishing the data online, they will have to formalize this arrangement."
-msgstr "Il n'existe actuellement aucun accord formel entre l'IBAN et les amateurs encodant des données, comme par exemple pour couvrir la manière dont les données peuvent être utilisées. Le comité de pilotage a quelques craintes de devoir formaliser cet accord lorsqu'ils commenceront à publier les données en ligne."
+msgstr "Il n'existe actuellement aucun accord formel entre l'IBAN et les amateurs encodant des données, comme par exemple pour couvrir la manière dont les données peuvent être utilisées. Le comité de pilotage a quelques craintes sur le fait qu'ils devront formaliser cet accord lorsqu'ils commenceront à publier les données en ligne."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:43
@@ -3696,7 +3696,7 @@ msgstr "Feuille d'exercice Lepidoptera"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC2-LS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 ko)"
+msgstr "Télécharger le link:../course-docs/UC2-LS-exercise-sheet_EN.docx[fichier d'exercice,opts=download]. (MS Word, 342 ko)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:82
@@ -3827,7 +3827,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:128
 msgid "Imagine you are one of the volunteers digitizing the paper logs received at the IBAN headquarters. You have received two paper logs."
-msgstr "Imaginez que vous êtes un des bénévoles à numériser les archives papier reçues au siège de l'IBAN. Vous avez reçu deux archives papier."
+msgstr "Imaginez que vous êtes un des bénévoles numérisant les archives papier reçues au siège de l'IBAN. Vous avez reçu deux archives papier."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:130
@@ -3837,7 +3837,7 @@ msgstr "Télécharger les journaux 1 et 2 link:../exercise-data/UC2-LS-2-ForCapt
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:131
 msgid "What data structure would you use to reflect the data in these logs?"
-msgstr "Quelle structure de données utiliseriez-vous pour refléter les données dans ces journaux ?"
+msgstr "Quelle structure de données utiliseriez-vous pour refléter les données dans ces journaux d'enregistrements ?"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:132
@@ -3873,7 +3873,7 @@ msgstr "Télécharger link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-
 #: use-case-birds-from-literature.en.adoc:3
 #, no-wrap
 msgid "Use Case III - Birds from literature"
-msgstr "Cas pratique III - Oiseaux de la littérature"
+msgstr "Cas pratique III - Oiseaux dans la littérature"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:8
@@ -3901,12 +3901,12 @@ msgstr "img/web/use-case-3-scanner.png"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:18
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Andrea Hahn, Laura Russell and Sharon Grant.  It is based upon a previous adaptation by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé."
-msgstr "Ce scénario a été élaboré comme base pour les exercices pratiques du cours de mobilisation des données de biodiversité. Le concept et le contenu de l'exercice ont été développés par Alberto González-Talaván, sur la base des travaux antérieurs d'Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond et Nicolas Noé.  Il s'agit d'un scénario fictif qui n'est destiné qu'à des fins pédagogiques."
+msgstr "Ce scénario a été élaboré comme base pour les exercices pratiques du cours de mobilisation des données de biodiversité. Le concept et le contenu de l'exercice ont été développés par Alberto González-Talaván, sur la base des travaux antérieurs d'Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond et Nicolas Noé. Il s'agit d'un scénario fictif qui n'est destiné qu'à des fins pédagogiques."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:21
 msgid "It is a fictionalized scenario based on a real project and dataset and is meant only for instructional purposes.  The https://danbif.dk/se-eksempler/fyrfaldne-fugle/[original project] and the https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[original dataset] are attributed to the Danish GBIF Node, https://danbif.dk/[DanBIF]."
-msgstr "Il s'agit d'un scénario fictif basé sur un  projet et un jeu de données véritables et qui est destiné uniquement à des fins d'instruction. Le https://danbif.dk/se-eksempler/fyrfaldne-fugle/[projet original] et le https://www. bif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[jeu de données original] sont attribués au nœud GBIF danois, https://danbif.dk/[DanBIF]."
+msgstr "Il s'agit d'un scénario fictif basé sur un  projet et un jeu de données véritables et qui est destiné uniquement à des fins d'instruction. Le https://danbif.dk/se-eksempler/fyrfaldne-fugle/[projet original] et le https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[jeu de données original] sont attribués au nœud GBIF danois, https://danbif.dk/[DanBIF]."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:27
@@ -3936,7 +3936,7 @@ msgstr "Le directeur adjoint de HHM-DK, qui coordonne ce travail a développé u
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:42
 msgid "The museum will carry out the digitization of the literature using two library staff members trained in the use of the library scanner to scan delicate volumes.  They will also extract text from the scans through OCR (Optical Character Recognition) software."
-msgstr "Le musée effectuera la numérisation de la littérature à l'aide de deux membres du personnel de la bibliothèque formés à l'utilisation du scanner de bibliothèque pour scanner des volumes délicats. Ils extraient également du texte des scans à l'aide du logiciel OCR (Optical Character Recognition)."
+msgstr "Le musée effectuera la numérisation de la littérature à l'aide de deux membres du personnel de la bibliothèque formés à l'utilisation du scanner de bibliothèque pour scanner des volumes délicats. Ils extraient également du texte des scans à l'aide d'un logiciel OCR (Optical Character Recognition)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:44
@@ -3951,7 +3951,7 @@ msgstr "Le Curateur d'Ornithologie dans le Département des Oiseaux dirigera l'�
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:49
 msgid "The DanBIF Node Manager will ensure that the institution is adequately registered in GBIF as a data publisher and that the deputy director and the ornithology curator have the proper credentials and access to DanBIF’s IPT instance to upload and publish the data."
-msgstr "Le gestionnaire du Nœud DanBIF s’assurera que l’institution est correctement enregistrée dans GBIF en tant que publieur de données et que le directeur adjoint et le conservateur de l’ornithologie disposent des références appropriées et d’un accès à l’instance IPT de DanBIF pour télécharger et publier les données."
+msgstr "Le gestionnaire du Nœud DanBIF s’assurera que l’institution est correctement enregistrée dans GBIF en tant que fournisseur de données et que le directeur adjoint et le conservateur de la collection ornithologique disposent des références appropriées et d’un accès à l’instance IPT de DanBIF pour télécharger et publier les données."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:50
@@ -4057,7 +4057,7 @@ msgstr "Feuille d'exercices sur les oiseaux de la littérature"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Télécharger link:../course-docs/UC3-DL-exercise-sheet_EN.docx[fiche exercices,opts=download]. (MS Word, 342 ko)"
+msgstr "Télécharger la link:../course-docs/UC3-DL-exercise-sheet_EN.docx[fiche d'exercices,opts=download]. (MS Word, 342 ko)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
@@ -4067,7 +4067,7 @@ msgstr "L’équipe doit développer un flux de travail durable pour numériser 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:98
 msgid "The <<scenario-4,scenario>> section of this use case includes a brief description of the workflow conceived by the deputy director.  Based on the workflow and the accompanying text complete the following:"
-msgstr "La section <<scénario-4,scénario>> de ce cas d'utilisation comprend une brève description du flux de travail conçu par le directeur adjoint.  Sur la base du flux de travail et du texte d'accompagnement, complétez ce qui suit :"
+msgstr "La section <<scénario-4,scénario>> de ce cas pratique comprend une brève description du flux de travail conçu par le directeur adjoint. Sur la base du flux de travail et du texte d'accompagnement, complétez ce qui suit :"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:100
@@ -4092,7 +4092,7 @@ msgstr "Effectuer une analyse critique du flux de travail, identifier les risque
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:111
 msgid "The scans and character recognition (OCR) of the books have been completed.  Occurrence data must now be extracted from those sources and compiled in a spreadsheet format."
-msgstr "Les scans et la reconnaissance de caractères (OCR) des livres sont terminés.  Les données sur les occurrences doivent maintenant être extraites de ces sources et compilées dans un format de feuille de calcul."
+msgstr "Les scans et la reconnaissance de caractères (OCR) des livres sont terminés. Les données sur les occurrences doivent maintenant être extraites de ces sources et compilées dans un format de feuille de calcul."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:113
@@ -4130,7 +4130,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:132
 msgid "Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences.  The occurrences will need unique numbers assigned to them."
-msgstr "Jouez le rôle d'un volontaire chargé de transformer le texte traduit en occurrences individuelles dans une feuille de calcul.  Des numéros uniques devront être attribués à ces occurrences."
+msgstr "Jouez le rôle d'un volontaire chargé de transformer le texte traduit en occurrences individuelles dans une feuille de calcul. Des numéros uniques devront être attribués à ces occurrences."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:133
@@ -4145,12 +4145,12 @@ msgstr "Dans les exemples utilisés, les occurrences individuelles ne contiennen
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:143
 msgid "Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society.  Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset."
-msgstr "Les données ont maintenant été compilées dans un format de feuille de calcul par les bénévoles de la Société ornithologique de Copenhague.  En tant que conservateur de l'ornithologie au département des oiseaux, vous êtes responsable de la qualité des données du jeu de données."
+msgstr "Les données ont maintenant été compilées dans un format de feuille de calcul par les bénévoles de la Société ornithologique de Copenhague. En tant que conservateur de la collection ornithologique au département des oiseaux, vous êtes responsable de la qualité des données du jeu de données."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:149
 msgid "Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography.  Since all the observations were made in Denmark, continent and country can easily be added.  Additionally, only the scientific name was provided.  Higher taxonomy can be derived utilizing software tools such as OpenRefine.  You are also aware that there are typographic errors that were made by the digitizers."
-msgstr "Grâce au géoréférencement rétrospectif, des coordonnées ont été ajoutées au jeu de données ainsi que la localité, mais aucune autre géographie à échelle supérieure. Étant donné que toutes les observations ont été faites au Danemark, le continent et le pays peuvent facilement être ajoutés. De plus, seul le nom scientifique a été fourni. Une taxonomie supérieure peut être dérivée en utilisant des outils logiciels tels qu'OpenRefine. Vous savez aussi qu'il y a des erreurs typographiques qui ont été faites par les digitaliseurs."
+msgstr "Grâce au géoréférencement rétrospectif, des coordonnées ont été ajoutées au jeu de données ainsi que la localité, mais aucune autre information géographique à une échelle supérieure. Étant donné que toutes les observations ont été faites au Danemark, le continent et le pays peuvent facilement être ajoutés. De plus, seul le nom scientifique a été fourni. Une taxonomie supérieure peut être dérivée en utilisant des outils logiciels tels qu'OpenRefine. Vous savez aussi qu'il y a des erreurs typographiques qui ont été faites par les numériseurs."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
@@ -4185,7 +4185,7 @@ msgstr "N'oubliez pas de conserver les informations originales fournies et de do
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:161
 msgid "dataset should contain only years 1883-1939"
-msgstr "jeu de données ne doit contenir que des années 1883-1939"
+msgstr "Le jeu de données ne doit contenir que les années 1883-1939"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:169
@@ -4217,12 +4217,12 @@ msgstr "CAS PRATIQUE II"
 #. type: Plain text
 #: assignments.en.adoc:9
 msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
-msgstr "Il y a deux options pour le CAS PRATIQUE II (<<caisse-dutilisation-ii-espèces-envahissantes,Invasive species>> OU <<cas-dutilisation-ii-observations-de-lépidoptères,Lepidoptera sightings>>). Vous n'avez qu'à sélectionner l'un d'eux pour votre travail."
+msgstr "Il y a deux options pour le CAS PRATIQUE II (<<cas-pratique-ii-espèces-envahissantes,Espèces envahissantes>> OU <<cas-pratique-ii-observations-de-lépidoptères,Observations de Lepidoptères>>). Vous n'avez qu'à sélectionner l'un d'eux pour votre travail."
 
 #. type: Plain text
 #: assignments.en.adoc:11 assignments.en.adoc:20
 msgid "Required files for submission:"
-msgstr "Fichiers requis pour la soumission:"
+msgstr "Fichiers requis pour la soumission :"
 
 #. type: Plain text
 #: assignments.en.adoc:13 assignments.en.adoc:22
@@ -4248,7 +4248,7 @@ msgstr "CAS PRATIQUE III"
 #. type: Plain text
 #: assignments.en.adoc:18
 msgid "There is only one option for USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
-msgstr "Il n'y a qu'une seule option pour Le cas d’utilisation III (<<cas-pratique-iii-oiseaux-de-la-littérature,Birds from literature>>)."
+msgstr "Il n'y a qu'une seule option pour le cas pratique III (<<cas-pratique-iii-oiseaux-de-la-littérature,Oiseaux de la littérature>>)."
 
 #. type: Plain text
 #: assignments.en.adoc:26
@@ -4763,7 +4763,7 @@ msgstr "[[ALA]]ALA"
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "Atlas of Living Australia.  The Australian node of GBIF, who developed an open source data portal now widely used within the GBIF community & partners for biodiversity national portals."
-msgstr "Atlas des vivants d’Australie. Le nœud australien du GBIF, qui a développé un portail de données open source maintenant largement utilisé au sein de la communauté GBIF et partenaires pour les portails nationaux sur la biodiversité."
+msgstr "Atlas of Living Australia. Le nœud australien du GBIF, qui a développé un portail de données open source maintenant largement utilisé au sein de la communauté GBIF et partenaires pour les portails nationaux sur la biodiversité."
 
 #. type: Labeled list
 #: glossary.en.adoc:10
@@ -4981,7 +4981,7 @@ msgstr "Annexe : Articles sur les données (data papers)"
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr "Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans un journal révisé par les pairs. Cela demande des efforts pour préparer, curer et de décrire les données. Toutefois, nous ne couvrons pas la manière de créer des data papers dans ce cours, comme activité optionnelle, vous pouvez regarder cette vidéo (51:51) présentée par Lizanne Roxburgh. Dans cette vidéo, vous en apprendrez plus sur la publication de data papers. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Webinar_data_papers.mp4[télécharger,opts=download] localement (MP4 - 99,2 Mo)"
+msgstr "Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans un journal révisé par les pairs. Cela demande des efforts pour préparer, gérer/conserver et décrire les données. Les data papers permettent une reconnaissance de ces efforts via une publication savante. Nous ne couvrons pas la manière de créer des data papers dans ce cours, néanmoins, comme activité optionnelle, vous pouvez regarder cette vidéo (51:51) présentée par Lizanne Roxburgh. Dans cette vidéo, vous en apprendrez plus sur la publication de data papers. Si vous ne pouvez pas regarder la vidéo intégrée, vous pouvez la link:../videos/Webinar_data_papers.mp4[télécharger,opts=download] localement (MP4 - 99,2 Mo)"
 
 #. type: Plain text
 #: data-papers.en.adoc:17
@@ -5008,17 +5008,17 @@ msgstr "Consultez les liens ci-dessous pour voir un data paper tel qu'il appara�
 #. type: delimited block =
 #: data-papers.en.adoc:26
 msgid "Journal: https://doi.org/10.3897/BDJ.2.e4244"
-msgstr "Journal: https://doi.org/10.3897/BDJ.2.e4244"
+msgstr "Journal : https://doi.org/10.3897/BDJ.2.e4244"
 
 #. type: delimited block =
 #: data-papers.en.adoc:27
 msgid "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
-msgstr "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
+msgstr "GBIF : https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
 
 #. type: delimited block =
 #: data-papers.en.adoc:28
 msgid "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
-msgstr "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
+msgstr "IPT : http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
 
 #. type: Title ==
 #: solutions.en.adoc:2
@@ -5073,7 +5073,7 @@ msgstr "Un mauvais encodage a été utilisé pour ouvrir le fichier"
 #: solutions.en.adoc:25
 #, no-wrap
 msgid "*For the given software, input the type of software (data capture, data management, data cleaning, data publishing).*\n"
-msgstr "*Pour le logiciel donné, saisissez le type de logiciel (saisie de données, gestion des données, nettoyage des données, publication des données).*\n"
+msgstr "*Pour le logiciel donné, saisissez le type de logiciel (saisie des données, gestion des données, nettoyage des données, publication des données).*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:28
@@ -5083,12 +5083,12 @@ msgstr "Integrated Publishing Toolkit (IPT) + *publication des données*"
 #. type: Plain text
 #: solutions.en.adoc:30
 msgid "Specify + *data capture* AND *data management*"
-msgstr "Specify + *saisie de données* ET *gestion des données*"
+msgstr "Specify + *saisie des données* ET *gestion des données*"
 
 #. type: Plain text
 #: solutions.en.adoc:32
 msgid "iNaturalist + *data capture*"
-msgstr "iNaturalist + *saisie de données*"
+msgstr "iNaturalist + *saisie des données*"
 
 #. type: Plain text
 #: solutions.en.adoc:34
@@ -5119,7 +5119,7 @@ msgstr "Nous avons marché à 5 milles sur la route vers l'ouest depuis le burea
 #. type: Plain text
 #: solutions.en.adoc:45
 msgid "1024 + *integer*"
-msgstr "1024 + *integer*"
+msgstr "1024 + *entier*"
 
 #. type: Plain text
 #: solutions.en.adoc:47
@@ -5140,7 +5140,7 @@ msgstr "6 lapins ont été observés + *texte*"
 #: solutions.en.adoc:53
 #, no-wrap
 msgid "*Which of these terms describes a \"field/column name\"?*\n"
-msgstr "*Lequel de ces termes décrit un \"champ/nom de colonne\"?*\n"
+msgstr "*Lesquels de ces termes décrivent un \"nom de champ/colonne\" ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:55
@@ -5161,7 +5161,7 @@ msgstr "Unique"
 #: solutions.en.adoc:59
 #, no-wrap
 msgid "*Which of these terms describes a \"field label\"?*\n"
-msgstr "*Lequel de ces termes décrit une \"étiquette de champ\"?*\n"
+msgstr "*Lequel de ces termes décrit une \"étiquette de champ\" ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:61
@@ -5197,13 +5197,13 @@ msgstr "Un attribut a le MÊME type de données/champ pour chaque enregistrement
 #. type: Plain text
 #: solutions.en.adoc:72
 msgid "Attributes of a record ALWAYS stay together. + *row*"
-msgstr "Les attributs d'un enregistrement de données restent TOUJOURS ensemble. + *rangée*"
+msgstr "Les attributs d'un enregistrement de données restent TOUJOURS ensemble. + *ligne*"
 
 #. type: Plain text
 #: solutions.en.adoc:74
 #, no-wrap
 msgid "*Who determines the fitness for use of your data?*\n"
-msgstr "*Qui détermine l’aptitude à l’usage de vos données?*\n"
+msgstr "*Qui détermine l’aptitude à l’usage de vos données ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:76
@@ -5278,23 +5278,23 @@ msgstr "La Date existe dans l'ensemble de données A, mais le Jour, le Mois et l
 #: solutions.en.adoc:105
 #, no-wrap
 msgid "*Metadata is important because (select the TRUE statements)*\n"
-msgstr "*Les métadonnées sont importantes car (sélectionnez les affirations qui sont VRAIES)*\n"
+msgstr "*Les métadonnées sont importantes car (sélectionnez les affirmations qui sont VRAIES)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:107
 msgid "it allows users to determine if a dataset is fit for their use."
-msgstr "il permet aux utilisateurs de déterminer si un ensemble de données convient à leur utilisation."
+msgstr "elles permettent aux utilisateurs de déterminer si un ensemble de données convient à leur utilisation."
 
 #. type: Plain text
 #: solutions.en.adoc:108
 msgid "it allows you to know under which legal terms the reuse of data is permitted."
-msgstr "il vous permet de savoir sous quelles conditions légales la réutilisation des données est autorisée."
+msgstr "elles vous permettent de savoir sous quelles conditions légales la réutilisation des données est autorisée."
 
 #. type: Title ===
 #: solutions.en.adoc:109
 #, no-wrap
 msgid "Planning review solutions"
-msgstr "Planifier des solutions de révision"
+msgstr "Solutions de la révision sur la planification"
 
 #. type: Plain text
 #: solutions.en.adoc:112
@@ -5310,13 +5310,13 @@ msgstr "Initier, planifier, exécuter, surveiller et contrôler, clôturer"
 #. type: Plain text
 #: solutions.en.adoc:116
 msgid "Learn More: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
-msgstr "En savoir plus: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
+msgstr "En savoir plus : https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
 
 #. type: Plain text
 #: solutions.en.adoc:118
 #, no-wrap
 msgid "*What are the types of deliverable?*\n"
-msgstr "*Quels sont les types de livrables?*\n"
+msgstr "*Quels sont les types de livrables ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:120
@@ -5358,12 +5358,12 @@ msgstr "*Qu'est-ce qu'un goulot d'étranglement ?*\n"
 #: solutions.en.adoc:130
 msgid "a blockage that delays development or progress - YES a space where something or someone is missing - NO, THIS IS A GAP"
 msgstr "un blocage qui retarde le développement ou le progrès - OUI \n"
-"un espace où quelque chose ou quelqu'un manque - NON, CET EST UN DÉFICIT"
+"un espace où quelque chose ou quelqu'un manque - NON, CECI EST UNE LACUNE"
 
 #. type: Plain text
 #: solutions.en.adoc:131
 msgid "a problem, or situation that prevents somebody from doing something, or that makes something impossible. NO, THIS IS A BARRIER"
-msgstr "un problème, ou une situation qui empêche quelqu'un de faire quelque chose, ou qui rend quelque chose impossible. NON, CET EST UNE BARRIÈRE"
+msgstr "un problème, ou une situation qui empêche quelqu'un de faire quelque chose, ou qui rend quelque chose impossible. NON, CECI EST UNE BARRIÈRE"
 
 #. type: Plain text
 #: solutions.en.adoc:133
@@ -5374,7 +5374,7 @@ msgstr "*Quels sont les exemples de tâches de mobilisation ?*\n"
 #. type: Plain text
 #: solutions.en.adoc:135
 msgid "Affiliation - NO, This is a Resource Type"
-msgstr "Affiliation - NON, Ceci est un type de ressource"
+msgstr "Affiliation - NON, Ceci est un type lié à la ressource"
 
 #. type: Plain text
 #: solutions.en.adoc:136
@@ -5411,12 +5411,12 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour une collection 
 #. type: Plain text
 #: solutions.en.adoc:148
 msgid "occurrence + Most of the time, specimens from collection databases are shared as occurrence data.  Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.  Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID."
-msgstr "occurrence + La plupart du temps, les spécimens des bases de données de collection sont partagés en tant que données d'occurrence. Chaque occurrence (spécimen ou groupe de spécimens) a son propre identifiant unique (parfois dérivé de son numéro de catalogue dans la collection source) et les champs Darwin Core utilisés pour les partager au sein du GBIF décrivent chaque spécimen : nom scientifique, la date à laquelle elle a été collectée sur le terrain, qui l'a collectée et/ou identifiée, où, etc. Chaque collection peut avoir plus d'un spécimen d'une même espèce, à condition que chaque spécimen soit identifié par un ID unique."
+msgstr "occurrence + La plupart du temps, les spécimens des bases de données de collection sont partagés en tant que données d'occurrence. Chaque occurrence (spécimen ou groupe de spécimens) a son propre identifiant unique (parfois dérivé de son numéro de catalogue dans la collection source) et les champs Darwin Core utilisés pour les partager au sein du GBIF décrivent chaque spécimen : nom scientifique, la date à laquelle il a été collectée sur le terrain, qui l'a collecté et/ou identifié, où, etc. Chaque collection peut avoir plus d'un spécimen d'une même espèce, à condition que chaque spécimen soit identifié par un ID unique."
 
 #. type: Plain text
 #: solutions.en.adoc:150
 msgid "checklist + It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr "checklist + Il est également possible de créer et de partager une checklist taxonomique dérivée d'une base de données de collection ; dans ce cas, il est recommandé de partager la liste de contrôle en tant que jeu de données taxonomiques, avec la liste des occurrences (spécimens) associées à elle en utilisant le Occurrence core comme extension du taxon Core sur l'IPT du GBIF."
+msgstr "liste d'espèces + Il est également possible de créer et de partager une liste d'espèce taxonomique dérivée d'une base de données de collection ; dans ce cas, il est recommandé de partager la liste de contrôle en tant que jeu de données taxonomiques, avec la liste des occurrences (spécimens) associées à elle en utilisant le Occurrence Core comme extension du Taxon Core sur l'IPT du GBIF."
 
 #. type: Plain text
 #: solutions.en.adoc:152
@@ -5432,7 +5432,7 @@ msgstr "occurrence + Certains éditeurs de données partageront des ensembles de
 #. type: Plain text
 #: solutions.en.adoc:157
 msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr "checklist + Les espèces envahissantes peuvent être suivies et surveillées à différentes échelles (régionales, nationales, thématiques…); car ce type de jeu de données se concentre davantage sur les espèces et leur distribution sur une portée géographique donnée, ils sont principalement partagés en tant que jeux de données taxonomiques au sein du GBIF (https://www. bif.org/dataset/search?project_id=GRIIS[voir les résultats de recherche GRIIS])."
+msgstr "liste d'espèces + Les espèces envahissantes peuvent être suivies et surveillées à différentes échelles (régionales, nationales, thématiques,…); car ce type de jeu de données se concentre davantage sur les espèces et leur distribution sur une portée géographique donnée, ils sont principalement partagés en tant que jeux de données taxonomiques au sein du GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[voir les résultats de recherche GRIIS])."
 
 #. type: Plain text
 #: solutions.en.adoc:159
@@ -5448,7 +5448,7 @@ msgstr "occurrence + Les données sont enregistrées par les naturalistes sur le
 #. type: Plain text
 #: solutions.en.adoc:164
 msgid "sampling event + They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr "événement d'échantillonnage + Ils peuvent également être partagés en tant que jeux de données d'événements si des protocoles standardisés (comme des placeaux de végétation, les transects, les pièges…) sont utilisés pour collecter les données."
+msgstr "événement d'échantillonnage + Ils peuvent également être partagés en tant que jeux de données d'événements si des protocoles standardisés (comme des placeaux de végétation, les transects, les pièges, …) sont utilisés pour collecter les données."
 
 #. type: Plain text
 #: solutions.en.adoc:166
@@ -5475,7 +5475,7 @@ msgstr "occurrence + Bien que ces données puissent être partagées comme de si
 #. type: Plain text
 #: solutions.en.adoc:178
 msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr "événement d'échantillonnage + Pièges d'insectes (ainsi que d'autres pièges comme les pièges à fosses, les pièges à malaise…) sont généralement utilisés dans les programmes de surveillance pour vérifier la présence (ou l’absence) de certaines espèces et/ou évaluer leur abondance spécifique. L'utilisation du champ « eventID » pour identifier chaque piège permet aux utilisateurs de récupérer tous les spécimens dans chaque piège. La même logique s'applique aux autres protocoles de terrain tels que les transects, les tracés, les caméras à distance, etc.: en utilisant le Event Core au lieu du Occurrence core, vous serez en mesure de partager beaucoup plus d'informations sur le contexte de la collecte de données, et permettre aux utilisateurs de mieux comprendre (et même de répliquer) votre travail."
+msgstr "événement d'échantillonnage + Pièges d'insectes (ainsi que d'autres pièges comme les pièges à fosses, les pièges à malaise, …) sont généralement utilisés dans les programmes de surveillance pour vérifier la présence (ou l’absence) de certaines espèces et/ou évaluer leur abondance spécifique. L'utilisation du champ « eventID » pour identifier chaque piège permet aux utilisateurs de récupérer tous les spécimens dans chaque piège. La même logique s'applique aux autres protocoles de terrain tels que les transects, les tracés, les caméras à distance, etc. : en utilisant le Event Core au lieu du Occurrence Core, vous serez en mesure de partager beaucoup plus d'informations sur le contexte de la collecte de données, et permettre aux utilisateurs de mieux comprendre (et même de répliquer) votre travail."
 
 #. type: Plain text
 #: solutions.en.adoc:180
@@ -5486,12 +5486,12 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour des données de
 #. type: Plain text
 #: solutions.en.adoc:183
 msgid "occurrence + record individuals of species"
-msgstr "occurrence + enregistrement des individus des espèces"
+msgstr "occurrence + enregistrement des individus d'une espèce"
 
 #. type: Plain text
 #: solutions.en.adoc:185
 msgid "checklist + It is important to know how many species are present in the park/reserve perimeter and their conservation status."
-msgstr "checklist + Il est important de savoir combien d'espèces sont présentes dans le périmètre du parc/réserve et leur état de conservation."
+msgstr "liste d'espèce + Il est important de savoir combien d'espèces sont présentes dans le périmètre du parc/réserve et leur état de conservation."
 
 #. type: Plain text
 #: solutions.en.adoc:187
@@ -5523,7 +5523,7 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour une liste d'esp
 #. type: Plain text
 #: solutions.en.adoc:200
 msgid "checklist + Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
-msgstr "checklist + Les listes d'espèces géographiques ou thématiques sont souvent utilisées pour partager des informations sur les espèces présentes dans une région donnée ; la plupart du temps, ces listes mentionnent également la répartition de chaque espèce ainsi que son état de conservation dans ce domaine. Les listes d'espèces régionales peuvent donner un aperçu utile de la biodiversité et des habitats d'une région, et doivent être partagées en tant qu'ensembles de données taxonomiques, avec ou sans occurrences associées."
+msgstr "liste d'espèces + Les listes d'espèces géographiques ou thématiques sont souvent utilisées pour partager des informations sur les espèces présentes dans une région donnée ; la plupart du temps, ces listes mentionnent également la répartition de chaque espèce ainsi que son état de conservation dans ce domaine. Les listes d'espèces régionales peuvent donner un aperçu utile de la biodiversité et des habitats d'une région, et doivent être partagées en tant qu'ensembles de données taxonomiques, avec ou sans occurrences associées."
 
 #. type: Title ===
 #: solutions.en.adoc:201
@@ -5535,7 +5535,7 @@ msgstr "Solutions des révisions sur la gestion des données"
 #: solutions.en.adoc:204
 #, no-wrap
 msgid "*Why is it best to clean your data?*\n"
-msgstr "*Pourquoi est-il préférable de nettoyer vos données?*\n"
+msgstr "*Pourquoi est-il préférable de nettoyer vos données ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:206
@@ -5550,7 +5550,7 @@ msgstr "pour atteindre vos objectifs de qualité des données"
 #. type: Plain text
 #: solutions.en.adoc:210
 msgid "You should always aim to manage and publish data with the highest possible quality.  This will improve your day-to-day work (it is easier to work with organized and clean data), as well as the work of potential re-users of your data, who need to understand them and trust their source before using them."
-msgstr "Vous devriez toujours vous efforcer de gérer et de publier des données avec la meilleure qualité possible. Cela améliorera votre travail quotidien (il est plus facile de travailler avec des données organisées et bien nettoyées), ainsi que le travail des réutilisateurs potentiels de vos données, qui ont besoin de les comprendre et de faire confiance à leur source avant de les utiliser."
+msgstr "Vous devriez toujours vous efforcer de gérer et de publier des données de la meilleure qualité possible. Cela améliorera votre travail quotidien (il est plus facile de travailler avec des données organisées et bien nettoyées), ainsi que le travail des réutilisateurs potentiels de vos données, qui ont besoin de les comprendre et de faire confiance à leur source avant de les utiliser."
 
 #. type: Plain text
 #: solutions.en.adoc:212
@@ -5587,7 +5587,7 @@ msgstr "empêcher les erreurs de se produire"
 #. type: Plain text
 #: solutions.en.adoc:222
 msgid "correct errors as soon as you find them in your database or spreadsheet"
-msgstr "corriger les erreurs dès que vous les avez trouvées dans votre base de données ou dans votre feuille de calcul"
+msgstr "corriger les erreurs dès que vous les trouvez dans votre base de données ou dans votre feuille de calcul"
 
 #. type: Plain text
 #: solutions.en.adoc:224
@@ -5602,7 +5602,7 @@ msgstr "Bien sûr, les erreurs sont inévitables. Vous devriez donc les nettoyer
 #. type: Plain text
 #: solutions.en.adoc:228
 msgid "If you don't have the time or resources to properly clean your data, it is best to wait before you can do so instead of publishing erroneous data that might confuse people."
-msgstr "Si vous n'avez pas le temps ou les ressources pour nettoyer correctement vos données, Il est préférable d'attendre de pouvoir le faire au lieu de publier des données erronées, qui pourraient perturber les personnes souhaitant les réutiliser."
+msgstr "Si vous n'avez pas le temps ou les ressources pour nettoyer correctement vos données, Il est préférable d'attendre de pouvoir le faire au lieu de publier des données erronées, qui pourraient perturber le travail des personnes souhaitant les réutiliser."
 
 #. type: Plain text
 #: solutions.en.adoc:230
@@ -5649,7 +5649,7 @@ msgstr "Votre logiciel de base de données"
 #. type: Plain text
 #: solutions.en.adoc:245
 msgid "Online tools such as Scientific Names Resolver or Google Maps"
-msgstr "Des outils en ligne tels que la Scientific Names Resolver ou Google Maps"
+msgstr "Des outils en ligne tels que le Scientific Names Resolver ou Google Maps"
 
 #. type: Plain text
 #: solutions.en.adoc:247
@@ -5729,7 +5729,7 @@ msgstr "Veuillez noter que vous ne devez choisir que la dérogation/licence CC0 
 #: solutions.en.adoc:276
 #, no-wrap
 msgid "*What are the three Cores from which you can choose for an IPT resource?*\n"
-msgstr "*Quels sont les trois \"Cores\" que vous pouvez choisir pour une ressource sur l'IPT ?*\n"
+msgstr "*Quels sont les trois noyaux (\"Cores\") que vous pouvez choisir pour une ressource sur l'IPT ?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:278
@@ -5739,12 +5739,12 @@ msgstr "Occurrence Core, Taxon Core, Event Core"
 #. type: Plain text
 #: solutions.en.adoc:280
 msgid "You can choose one of the three following Cores for each of your IPT resources: Occurrence, Taxon or Event Core."
-msgstr "Vous pouvez choisir l'un des trois \"Cores\" suivants pour chacune de vos ressources IPT : Occurrence, Taxon ou Event."
+msgstr "Vous pouvez choisir l'un des trois noyaux (\"Cores\") suivants pour chacune de vos ressources IPT : Occurrence, Taxon ou Event."
 
 #. type: Plain text
 #: solutions.en.adoc:282
 msgid "The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact."
-msgstr "Le standard Darwin Core vous permet également de lier des extensions au \"Core\" de votre choix, comme SimpleMultimedia ou MeasurementOrFact."
+msgstr "Le standard Darwin Core vous permet également de lier des extensions au noyau de votre choix, comme SimpleMultimedia ou MeasurementOrFact."
 
 #. type: Plain text
 #: solutions.en.adoc:284
@@ -5760,23 +5760,23 @@ msgstr "*Combien de fichiers d'extensions un jeu de données peut-il avoir ?*\n"
 #. type: Plain text
 #: solutions.en.adoc:288
 msgid "as many as needed"
-msgstr "autant de fois qu'il le faut"
+msgstr "autant que nécessaire"
 
 #. type: Plain text
 #: solutions.en.adoc:291
 msgid "Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it.  You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it."
-msgstr "Une fois que vous avez choisi un \"Core\" pour votre ressource IPT, vous pouvez y ajouter des extensions Darwin Core. Vous pouvez n'ajouter qu'une ou plusieurs extensions, selon le type de Core que vous avez choisi, et les extensions qui sont compatibles avec celui-ci."
+msgstr "Une fois que vous avez choisi un noyau pour votre ressource IPT, vous pouvez y ajouter des extensions Darwin Core. Vous pouvez n'ajouter qu'une ou plusieurs extensions, selon le type de Core que vous avez choisi, et les extensions qui sont compatibles avec celui-ci."
 
 #. type: Plain text
 #: solutions.en.adoc:293
 msgid "Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core."
-msgstr "Les extensions ne sont pas obligatoires (vous pouvez publier un jeu de données sans aucune extension) mais peuvent être utiles si vous voulez partager des informations supplémentaires que vous ne pouvez pas associer avec le \"Core\" de votre choix."
+msgstr "Les extensions ne sont pas obligatoires (vous pouvez publier un jeu de données sans aucune extension) mais peuvent être utiles si vous voulez partager des informations supplémentaires que vous ne pouvez pas associer avec le noyau de votre choix."
 
 #. type: Title ===
 #: solutions.en.adoc:294
 #, no-wrap
 msgid "Use Case I suggested solution"
-msgstr "Solution suggérée pour le cas d’utilisation I"
+msgstr "Solution suggérée pour le Cas pratique I"
 
 #. type: Plain text
 #: solutions.en.adoc:296
@@ -5798,7 +5798,7 @@ msgstr "Conception du cours et instruction"
 #. type: Plain text
 #: acknowledgements.en.adoc:8
 msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
-msgstr "Le succès de ce cours dépend fortement du soutien apporté aux participants par le réseau des mentors GBIF pour le renforcement des capacités.  Visitez la page du GBIF sur https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[mentoring pour le renforcement des capacités^] pour en savoir plus sur ces personnes et leurs contributions."
+msgstr "Le succès de ce cours dépend fortement du soutien apporté aux participants par le réseau des mentors GBIF pour le renforcement des capacités. Visitez la page du GBIF sur lehttps://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[mentorat pour le renforcement des capacités^] pour en savoir plus sur ces personnes et leurs contributions."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:10
@@ -5916,7 +5916,7 @@ msgstr "Patricia Mergen"
 #. type: Plain text
 #: acknowledgements.en.adoc:37
 msgid "Sophie PAMERLON"
-msgstr "Sophie PAMERLON"
+msgstr "Sophie Pamerlon"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:38
@@ -6068,7 +6068,7 @@ msgstr "Contributeurs"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
-msgstr "Le _Cours de mobilisation des données sur la biodiversité du GBIF_ a été développé à l'origine dans le cadre du https://www.gbif.org/bid[Biodiversity Information Development^], un programme financé par l’link:https://europa.eu[Union européenne^]. Le programme initial a été créé par Nestor Beltran, Sharon Grant, Nicolas Noee, Sophie Pamerlon, Alberto Gonzaëlez-Talaván, Melianie Raymond, Laura Anne Russell et Katia Cezón, avec des contributions supplémentaires des formateurs, mentors et étudiants du GBIF."
+msgstr "Le _Cours de mobilisation des données sur la biodiversité du GBIF_ a été développé à l'origine dans le cadre du https://www.gbif.org/bid[Biodiversity Information for Development^], un programme financé par l’link:https://europa.eu[Union européenne^]. Le programme initial a été créé par Nestor Beltran, Sharon Grant, Nicolas Noee, Sophie Pamerlon, Alberto Gonzaëlez-Talaván, Melianie Raymond, Laura Anne Russell et Katia Cezón, avec des contributions supplémentaires des formateurs, mentors et étudiants du GBIF."
 
 #. type: Title ===
 #: colophon.en.adoc:11
