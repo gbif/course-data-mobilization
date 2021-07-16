@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-16 15:38\n"
+"PO-Revision-Date: 2021-07-16 16:55\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1964,7 +1964,7 @@ msgstr "Captura, procesamiento y calidad de datos"
 #. type: Plain text
 #: capture.en.adoc:37
 msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr ""
+msgstr "En este video (09:11), explorará los principios de calidad de datos aplicados a la captura de datos, específicamente al capturar datos de etiquetas de colecciónes biológicas, cuadernos de campo, hojas de cálculo, etc. Si no puede ver el vídeo embebido, puede link:../videos/Data_capture_processing_quality.mp4[descargarlo^,opts=download] localmente. (MP4 - 19 MB)"
 
 #. type: Title ===
 #: capture.en.adoc:41 use-case-invasive-species.en.adoc:112
@@ -1977,7 +1977,7 @@ msgstr ""
 #. type: Plain text
 #: capture.en.adoc:45
 msgid "For this activity, you will complete an exercise simulating data capture.  You will begin to work with https://dwc.tdwg.org/terms/[Darwin Core terms^] and make decisions on data that is needed for your organization/project and you will consider which of that data will be shared later during publication."
-msgstr ""
+msgstr "Para esta actividad, completará un ejercicio simulando la captura de datos. Empezará a trabajar con los https://dwc.tdwg.org/terms/[términos Darwin Core^] y tomará decisiones sobre los datos necesarias para su organización/proyecto y considerará cuáles de esos datos serán compartidos más adelante durante la publicación."
 
 #. type: Plain text
 #: capture.en.adoc:49
@@ -2758,7 +2758,9 @@ msgstr ""
 msgid "- [ ] Exporting a csv file of your cleaned data that you can share with your colleagues\n"
 "- [ ] Writing an article describing your data, and the protocol(s) you used to collect, capture and clean them\n"
 "- [x] Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format\n"
-msgstr ""
+msgstr "- [ ] Exportar un archivo csv de sus datos limpios que puede compartir con sus colegas\n"
+"- [ ] Escribir un artículo que describa sus datos, y el/los protocolo(s) que utilizó para recolectarlos, capturarlos y limpiarlos\n"
+"- [x] Hacer públicamente accesible(s) sus datos de biodiversidad en un formato normalizado\n"
 
 #.  Question 2
 #. type: Plain text
@@ -2903,7 +2905,7 @@ msgstr ""
 #: assessments-certification.en.adoc:63
 #, no-wrap
 msgid "Data capture rubric"
-msgstr ""
+msgstr "Rúbrica de captura de datos"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:66 use-case-invasive-species.en.adoc:115
@@ -3304,7 +3306,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
 msgid "Download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
-msgstr ""
+msgstr "Descarga link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
@@ -3446,7 +3448,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:59
 #, no-wrap
 msgid "Analogue data capture example"
-msgstr ""
+msgstr "Ejemplo de captura de datos análoga"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:61
@@ -6359,7 +6361,10 @@ msgid "As Arthur Chapman says “Prevention is better than cure.” \n"
 "At the end of the day is always easier and less expensive to prevent an error than it is seek one out and correct it.\n"
 "The more planning you do in advance, even all the way back to the moment that data is recorded in the field, the fewer errors you are likely to find.\n"
 "Standardized vocabularies and clear procedures for data capture and data entry are only a few of the many tools you can use to prevent possible errors.\n"
-msgstr ""
+msgstr "Como dice Arthur Chapman: “Más vale prevenir que curar.\"\n"
+"Al fin y al cabo, siempre es más fácil y menos costoso prevenir un error que buscar uno y corregirlo.\n"
+"Cuanta más planificación haga previamente, incluso desde el momento en que los datos se registran en el campo, es probable que se encuentren menos errores.\n"
+"Los vocabularios estandarizados y los procedimientos claros para la captura de datos e ingres de datos son sólo algunas de las muchas herramientas que puede utilizar para prevenir posibles errores.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:71
@@ -6779,7 +6784,8 @@ msgstr ""
 #, no-wrap
 msgid "These are measures of how well the data gatherer was able to capture the true value being investigated.\n"
 "Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.\n"
-msgstr ""
+msgstr "Estas son las medidas de lo bien que el recolector de datos pudo captar el valor verdadero que se estaba investigando.\n"
+"Conocer estas propiedades de sus datos le ayudará a entender las maneras en que puede y no puede limpiar validar y procesar los datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
@@ -7248,7 +7254,7 @@ msgstr ""
 #: scripts/data-types.en.txt:109
 #, no-wrap
 msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
-msgstr ""
+msgstr "Si sus datos aún no están capturados en una base de datos u hoja de cálculo, o si son demasiado incompletos para ser compartidos todavía, puede publicar una descripción de sus datos como un conjunto de datos de sólo metadatos (tenga en cuenta que esta opción no está permitida en el contexto de los programas BID y BIFA).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:111
@@ -7294,7 +7300,7 @@ msgstr ""
 #: scripts/data-types.en.txt:125
 #, no-wrap
 msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
-msgstr ""
+msgstr "Para poder publicar datos a través de GBIF, es importante entender las diferencias entre las clases de conjuntos de datos en las primeras etapas del proceso de captura y gestión de datos.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:127
