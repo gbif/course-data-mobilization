@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-16 13:08\n"
+"PO-Revision-Date: 2021-07-16 14:08\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Biodiversity Data Mobilization Course"
-msgstr "Movilización de datos sobre biodiversidad"
+msgstr "Curso de Movilización de Datos de Biodiversidad"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -421,12 +421,12 @@ msgstr "Exactitud se refiere a la cercanía de los valores medidos, las observac
 #. type: delimited block _
 #: foundations.en.adoc:80
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
-msgstr ""
+msgstr "La precisión (o resolución) se puede dividir en dos tipos principales. La precisión estadística es la cercanía con la que las observaciones repetidas se ajustan a sí mismas. No tienen nada que ver con su relación con el valor real y pueden tener alta precisión, pero poca exactitud. La precisión numérica es la cantidad de dígitos significativos en los que se registra una observación y se ha vuelto mucho más obvia con la llegada de las computadoras. Por ejemplo, una base de datos puede generar un registro decimal de latitud / longitud con 10 lugares decimales, es decir, aproximadamente 0,01 mm cuando en realidad el registro tiene una resolución no superior a 10-100 m (3-4 lugares decimales). Esto a menudo conduce a una falsa impresión tanto de la resolución como de la exactitud."
 
 #. type: delimited block _
 #: foundations.en.adoc:83
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
-msgstr ""
+msgstr "Estos términos - exactitud y precisión - también se pueden aplicar a datos no espaciales, así como a datos espaciales. Por ejemplo, una colección puede tener una identificación a nivel de subespecie (es decir, tener alta precisión), pero ser del taxón incorrecto (es decir, tener baja exactitud) o estar identificada solo a nivel de Familia (alta exactitud, pero baja precisión)."
 
 #. type: delimited block _
 #: foundations.en.adoc:85
@@ -3072,7 +3072,7 @@ msgstr "Muestreo de Lepidoptera"
 #: use-case-invasive-species.en.adoc:13
 #: use-case-lepidoptera-sampling.en.adoc:13
 msgid "Your choice for Use Case II will be graded."
-msgstr ""
+msgstr "Su elección para el Caso de Uso II será calificada."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:16
