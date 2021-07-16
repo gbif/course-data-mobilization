@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-16 21:58\n"
+"PO-Revision-Date: 2021-07-16 22:56\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1132,7 +1132,12 @@ msgid "* combines and presents functions and features for manipulating data, tog
 "  __database__\n"
 "* the way by which a human communicates with a computer +\n"
 "  __database language__\n"
-msgstr ""
+msgstr "* combina y presenta funciones y características para manipular datos, juntas en una interfaz unificada +\n"
+"  __database program__\n"
+"* recopilación estructurada y organizada de datos y / o información almacenada en una computadora +\n"
+"  __database__\n"
+"* la forma en que un humano se comunica con una computadora +\n"
+"  __ database language__\n"
 
 #.  Question 2
 #. type: Plain text
@@ -1161,7 +1166,7 @@ msgstr "- [ ] Nada\n"
 #. type: Plain text
 #: foundations.en.adoc:516
 msgid "For the given software, input the type of software (data capture, data management, data cleaning, data publishing)."
-msgstr ""
+msgstr "Para el software dado, ingrese el tipo de software (captura de datos, gestión de datos, limpieza de datos, publicación de datos)."
 
 #. type: delimited block .
 #: foundations.en.adoc:527
@@ -1323,7 +1328,14 @@ msgid "* High accuracy, low precision +\n"
 "  __D__\n"
 "* Low accuracy, low precision +\n"
 "  __A__\n"
-msgstr ""
+msgstr "* Alta exactitud, baja precisión +\n"
+"  __C__\n"
+"* Baja exactitud, alta precisión +\n"
+"  __B__\n"
+"* Alta exactitud, alta precisión +\n"
+"  __D__\n"
+"* Baja exactitud, baja precisión +\n"
+"  __A__\n"
 
 #.  Question 10
 #. type: Plain text
@@ -1426,7 +1438,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:20
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. The data are from a real dataset, but have been modified for the purposes of these exercises. It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr ""
+msgstr "Esta narrativa fue desarrollada como base para ejercicios prácticos en el curso de movilización de datos de biodiversidad y el concepto y contenido del ejercicio fue desarrollado por Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. Los datos provienen de un conjunto de datos real, pero se han modificado para los fines de estos ejercicios. Es un escenario ficticio y solo tiene fines educativos."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:21 use-case-invasive-species.en.adoc:27
@@ -1439,22 +1451,22 @@ msgstr "Descripción"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:25
 msgid "The University of White Plains is a well recognized tertiary education institution in Guatemala and a national reference for biodiversity research.  The Plant Biology Department keeps a medium-size herbarium containing approximately 80,000 specimens collected in and around the local region and dating from the mid-20th century to the present.  The collection includes important specimens including types and endemics."
-msgstr ""
+msgstr "La Universidad de White Plains es una institución de educación terciaria reconocida en Guatemala y una referencia nacional para la investigación de la biodiversidad. El Departamento de Biología Vegetal mantiene un herbario de tamaño mediano que contiene aproximadamente 80,000 especímenes recolectados en y alrededor de la región local y que data de mediados del siglo XX hasta el presente. La colección incluye especímenes importantes, incluidos tipos y endémicos."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:29
 msgid "Currently, the care of the collection is assigned to the Professor of Plant Systematics, who performs curatorial tasks as well as their regular research and teaching work.  The Departmental Admin is responsible for day-to-day administrative tasks for the herbarium such as purchasing consumables including paper and labels.  Faculty staff and students collaborating within the department occasionally work on and update the identifications on the specimens and there are two retired botanists who regularly volunteer in the collection assisting the Professor to prepare loans."
-msgstr ""
+msgstr "Actualmente, el cuidado de la colección está encomendado al Profesor de Sistemática Vegetal, quien realiza tareas curatoriales así como su labor habitual de investigación y docencia. El Administrador Departamental es responsable de las tareas administrativas diarias del herbario, como la compra de insumos, incluidos papel y etiquetas. El personal docente y los estudiantes que colaboran dentro del departamento ocasionalmente trabajan y actualizan las identificaciones de los especímenes y hay dos botánicos jubilados que regularmente se ofrecen como voluntarios en la colección ayudando al Profesor a preparar préstamos."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:32
 msgid "The University already has an online search for its library collections which is maintained by the University’s central web-team on externally hosted servers.  No natural history specimens are currently served via this platform."
-msgstr ""
+msgstr "La Universidad ya tiene una búsqueda en línea para las colecciones de su biblioteca que es mantenida por el equipo web central de la Universidad en servidores alojados externamente. Actualmente, no están disponibles especímenes de historia natural a través de esta plataforma."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:35
 msgid "The Head of the Plant Biology Department has recently secured a 50,000USD, two year grant to image and publish the botanical collections information online.  The team wants to use this opportunity to establish a permanent digitization and publishing protocol that will give higher visibility to the herbarium and continue attracting funding."
-msgstr ""
+msgstr "El Jefe del Departamento de Biología Vegetal ha obtenido recientemente una subvención de por años de 50.000 USD para generar imágenes y publicar la información de las colecciones botánicas en línea. El equipo quiere aprovechar esta oportunidad para establecer un protocolo de digitalización y publicación permanente que le dará mayor visibilidad al herbario y seguirá atrayendo financiación."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:36 use-case-invasive-species.en.adoc:42
@@ -1505,22 +1517,22 @@ msgstr "Planificación"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:56
 msgid "<<Exercise 1a-c>>"
-msgstr ""
+msgstr "<<Ejercicio 1a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:60
 msgid "<<Exercise 2>>"
-msgstr ""
+msgstr "<<Ejercicio 2>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:64
 msgid "<<Exercise 3a-c>>"
-msgstr ""
+msgstr "<<Ejercicio 3a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:68
 msgid "<<Exercise 4>>"
-msgstr ""
+msgstr "<<Ejercicio 4>>"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:69
@@ -1542,7 +1554,7 @@ msgstr "En el módulo de planificación, revisará las etapas clave de planifica
 #: planning.en.adoc:8
 #, no-wrap
 msgid "Resourcing"
-msgstr ""
+msgstr "Recursos"
 
 #. type: Plain text
 #: planning.en.adoc:12
@@ -1564,7 +1576,7 @@ msgstr "Este video (15:52) se centra en las tareas y las formas en que pueden or
 #: planning.en.adoc:24
 #, no-wrap
 msgid "Exercise 1a-c"
-msgstr ""
+msgstr "Ejercicio 1a-c"
 
 #. type: Plain text
 #: planning.en.adoc:28
@@ -1580,12 +1592,12 @@ msgstr "*Referencias*\n"
 #. type: Plain text
 #: planning.en.adoc:32
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role definitions^]"
-msgstr ""
+msgstr "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Definiciones de Roles^]"
 
 #. type: Plain text
 #: planning.en.adoc:33
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage definitions^]"
-msgstr ""
+msgstr "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINICIONES[Definiciones de etapa^]"
 
 #. type: Plain text
 #: planning.en.adoc:35
@@ -1600,32 +1612,32 @@ msgstr "Debido a que se trata de espacios compartidos, le pedimos que siga estas
 #. type: Plain text
 #: planning.en.adoc:42
 msgid "Clean up after yourself.  If you use a card table, please be sure to return it to it's clean and original state when you are done.  This means putting all of the cards away and removing/deleting any new cards that you have added to the deck.  You can do this by clicking the recall buttons below each deck of cards."
-msgstr ""
+msgstr "Acomoda todo al finalizar. Si usa una mesa de juego, asegúrese de devolverla a su estado original y limpio cuando haya terminado. Esto significa guardar todas las cartas y quitar / eliminar cualquier carta nueva que haya agregado a la baraja. Puede hacer esto haciendo clic en los botones de recuperación debajo de cada baraja de cartas."
 
 #. type: Plain text
 #: planning.en.adoc:45
 msgid "If it's busy, try another table.  If you see that a card table is in use, please use one of the other card table links.  If you are unable to find an empty card table, alert us at training@gbif.org so that we can check the tables to be sure that any tables were not left unattended (or if we need to create an additional table for you)."
-msgstr ""
+msgstr "Si una mesa está ocupada, pruebe con otra. Si observa que una mesa de cartas está siendo utilizada, por favor, use otro enlace de mesa de cartas. Si no puede encontrar una mesa de cartas vacía, avísenos a training@gbif.org para que podamos comprobar las mesas y asegurarnos de que no se hayan dejado desatendidas (o si necesitamos crear una mesa adicional para usted)."
 
 #. type: Plain text
 #: planning.en.adoc:49
 msgid "Don't leave a table unattended.  Please do not leave your work on a table sitting out for long periods of time.  If you need to step away for an hour or two, that is acceptable, but please do not leave the cards unattended for more than 4 hours.  If you need to leave your set up for an extended period of time, please use the eLearning platform to notify the group and trainers which link you are using, why you need to leave your cards, and when you will return to complete your work."
-msgstr ""
+msgstr "No deje una mesa desatendida. Por favor, no deje su trabajo sobre una mesa durante largos períodos de tiempo. Si necesita ausentarse durante una hora o dos, eso es aceptable, pero no deje las cartas desatendidas durante más de 4 horas. Si necesita dejar su configuración por un período prolongado de tiempo, use la plataforma de eLearning para notificar al grupo y a los entrenadores qué enlace está utilizando, por qué debe dejar sus cartas y cuándo regresará para completar su trabajo."
 
 #. type: Plain text
 #: planning.en.adoc:53
 msgid "Take screen captures often.  We cannot guarantee that your cards will not be reset accidentally by someone from the workshop or by someone from your own project.  You cannot reset the cards once they have been recalled and reset.  If you want to submit a screenshot with your exercise please do."
-msgstr ""
+msgstr "Realice capturas de pantalla con frecuencia. No podemos garantizar que sus cartas no sean reiniciadas accidentalmente por alguien del taller o por alguien de su propio proyecto. No puede restablecer las cartas una vez que se hayan recuperado y restablecido. Si desea enviar una captura de pantalla con su ejercicio, hágalo."
 
 #. type: Plain text
 #: planning.en.adoc:55
 msgid "The trainers reserve the right to reset the card tables.  If we observe that one or more tables contain cards that have not been put away and have not been used for more than four hours without any notifications in the Forum on the eLearning platform, we will clear and reset the table for others to use."
-msgstr ""
+msgstr "Los entrenadores se reservan el derecho de restablecer las mesas de cartas. Si observamos que una o más mesas contienen cartas que no se han guardado y no se han utilizado durante más de cuatro horas sin ninguna notificación en el Foro en la plataforma eLearning, limpiaremos y restableceremos la mesa para que otros la usen."
 
 #. type: Plain text
 #: planning.en.adoc:57
 msgid "Gameroom links (each table will open in a new window/tab):"
-msgstr ""
+msgstr "Enlaces a la sala de juegos (cada mesa se abrirá en una nueva ventana / pestaña):"
 
 #. type: Plain text
 #: planning.en.adoc:59
@@ -1655,7 +1667,7 @@ msgstr "PURPURA: https://playingcards.io/fah8an[^]"
 #. type: Plain text
 #: planning.en.adoc:69
 msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
-msgstr ""
+msgstr "Muchas gracias y agradecimiento a Jwalant Patel y Eric Ma por encontrar y ayudar a crear las mesas de juego en línea para este ejercicio y a Kate Webbink por su experiencia artística. La plataforma de mesa en línea es proporcionada por https://playingcards.io/."
 
 #. type: Title ====
 #: planning.en.adoc:70 use-case-invasive-species.en.adoc:72
