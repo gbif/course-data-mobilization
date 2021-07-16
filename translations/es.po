@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-06-15 10:59+0000\n"
-"PO-Revision-Date: 2021-07-16 10:58\n"
+"POT-Creation-Date: 2021-07-16 11:21+0000\n"
+"PO-Revision-Date: 2021-07-16 12:11\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -100,7 +100,7 @@ msgstr "Público"
 #. type: Plain text
 #: description.en.adoc:24
 msgid "This course is designed for individuals who work as researchers or technicians in biodiversity research or policy institutions.  The instruction provided is particularly useful for those who have a need or desire to plan mobilization projects and/or mobilize biodiversity information for their respective institutions."
-msgstr "Este curso está diseñado para personas que trabajan como investigadores o técnicos en instituciones de investigación sobre biodiversidad o en la elaboración de políticas.  La instrucción proporcionada es particularmente útil para aquellos que tienen la necesidad o el deseo de planificar proyectos de movilización y/o movilizar información sobre la biodiversidad para sus respectivas instituciones."
+msgstr "Este curso está diseñado para personas que trabajan como investigadores o técnicos en instituciones de investigación o políticas sobre biodiversidad.  Las instrucciónes proporcionadas son particularmente útiles para aquellos que tienen la necesidad o el deseo de planificar proyectos de movilización y/o movilizar información sobre biodiversidad para sus respectivas instituciones."
 
 #. type: Title ===
 #: description.en.adoc:25
@@ -111,7 +111,7 @@ msgstr "Prerequisitos"
 #. type: Plain text
 #: description.en.adoc:28
 msgid "Introduction to GBIF course"
-msgstr "Introducción al Curso"
+msgstr "Curso de Introducción a GBIF"
 
 #. type: Plain text
 #: description.en.adoc:30
@@ -121,22 +121,22 @@ msgstr "Además, para aprovechar al máximo las actividades de este curso, los p
 #. type: Plain text
 #: description.en.adoc:32
 msgid "Basic skills in computer and internet use, and, in particular, in the use of spreadsheets."
-msgstr "Conocimientos básicos en el uso de ordenadores e internet y, en particular, en el uso de hojas de cálculo."
+msgstr "Conocimientos y uso básico de computadores e internet y, en particular, en el uso de hojas de cálculo."
 
 #. type: Plain text
 #: description.en.adoc:33
 msgid "Basic knowledge about geography and biodiversity informatics: geography and mapping concepts, basic taxonomy and nomenclature rules."
-msgstr "Conocimientos básicos de geografía y bioinformática: conceptos de geografía y cartografía, reglas básicas de taxonomía y nomenclatura."
+msgstr "Conocimientos básicos de geografía e informática de la biodiversidad: conceptos de geografía y cartografía, reglas básicas de taxonomía y nomenclatura."
 
 #. type: Plain text
 #: description.en.adoc:34
 msgid "Willingness to disseminate the knowledge learned in the workshop with partners and collaborators in your project by adapting the biodiversity data mobilization training materials to specific contexts and languages while maintaining their instructional value."
-msgstr "Disposición de difundir los conocimientos aprendidos en el taller con los socios y colaboradores de su proyecto, adaptando los materiales de formación sobre movilización de datos de biodiversidad a contextos e idiomas específicos, pero manteniendo su valor didáctico."
+msgstr "Disposición de difundir los conocimientos aprendidos en el taller con los socios y colaboradores de su proyecto, adaptando los materiales de formación sobre movilización de datos sobre biodiversidad a contextos e idiomas específicos, manteniendo siempre su valor didáctico."
 
 #. type: Plain text
 #: description.en.adoc:35
 msgid "A good command of English. While efforts are made to provide materials in other languages, instruction/videos will be in English."
-msgstr "Un buen dominio del inglés. Aunque se hace un esfuerzo por proporcionar materiales en otros idiomas, la información/los vídeos serán en inglés."
+msgstr "Se recomienda que los participantes tengan un buen dominio de inglés. Sin embargo se han realizado esfuerzos para proporcionar los materiales en otros idiomas, los vídeos estarán en inglés con subtítulos en otros idiomas."
 
 #. type: Title ===
 #: description.en.adoc:36
@@ -147,17 +147,17 @@ msgstr "Objetivos de aprendizaje"
 #. type: Plain text
 #: description.en.adoc:39
 msgid "Learn key concepts (foundations) of biodiversity informatics, particular to biodiversity digital data management."
-msgstr "Aprender los conceptos clave (fundamentos) de bioinformática, en particular de la gestión de datos digitales de la biodiversidad."
+msgstr "Aprender los conceptos clave (fundamentos) en informática de la biodiversidad, en particular sobre la gestión de datos digitales sobre biodiversidad."
 
 #. type: Plain text
 #: description.en.adoc:40
 msgid "Receive an introduction to the Darwin Core Standard and its components."
-msgstr "Recibir una introducción al Estándar Darwin Core y sus componentes."
+msgstr "Recibir una introducción al estándar Darwin Core y sus componentes."
 
 #. type: Plain text
 #: description.en.adoc:41
 msgid "Learn to understand the different stages for planning a mobilization project and how to adapt stages to a specific project."
-msgstr "Aprenda a entender las diferentes etapas para planificar un proyecto de movilización y cómo adaptar las etapas a un proyecto específico."
+msgstr "Entender las diferentes etapas para planificar un proyecto de movilización y cómo adaptar estas etapas a un proyecto específico."
 
 #. type: Plain text
 #: description.en.adoc:42
@@ -5857,7 +5857,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:14
-msgid "_GBIF Biodiversity Data Mobilization Course_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
+msgid "_GBIF Biodiversity Data Mobilization Course_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 msgstr ""
 
 #. type: Title ===
