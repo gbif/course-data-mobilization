@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-16 12:11\n"
+"PO-Revision-Date: 2021-07-16 13:08\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -172,7 +172,7 @@ msgstr "Desarrollar una estrategia de movilización de datos adaptada a un marco
 #. type: Plain text
 #: description.en.adoc:44
 msgid "Learn to identify the types of data and how to best capture relevant information using best practices, existing softwares, tools and techniques."
-msgstr "Aprenda a identificar los tipos de datos y la mejor manera de capturar la información pertinente utilizando las mejores prácticas, los programas informáticos existentes, las herramientas y las técnicas."
+msgstr "Identificar los tipos de datos y la mejor manera de capturar la información relevante utilizando las mejores prácticas, software existentes, herramientas y técnicas."
 
 #. type: Plain text
 #: description.en.adoc:45
@@ -1022,7 +1022,7 @@ msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/
 #. type: Plain text
 #: foundations.en.adoc:419
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
-msgstr "Descargue extraiga, luego escriba ./refine para empezar. Esto requiere que Java esté instalado en su ordenador."
+msgstr "Descargue, extraiga, luego escriba ./refine para empezar. Esto requiere que Java esté instalado en su ordenador."
 
 #. type: Block title
 #: foundations.en.adoc:420
@@ -1066,7 +1066,7 @@ msgstr "img/web/install-openrefine/kde3-extract-all.png"
 #. type: delimited block =
 #: foundations.en.adoc:450
 msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
-msgstr "Elija un lugar adecuado. También seleccioné \"Abrir carpeta de destino después de la extracción\" y \"Cerrar Ark después de la extracción\""
+msgstr "Elija un lugar adecuado. También seleccioné \"Abrir carpeta de destino después de la extracción\" y \"Cerrar el Ark después de la extracción\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:457
@@ -1111,7 +1111,7 @@ msgstr "Revisión de fundamentos"
 #: foundations.en.adoc:484 planning.en.adoc:132 capture.en.adoc:63
 #: management.en.adoc:150 publishing.en.adoc:61
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr "Comprueba los conceptos aprendidos en este módulo."
+msgstr "Comprueba los conceptos aprendidos en esta sección."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1175,7 +1175,7 @@ msgid "* Integrated Publishing Toolkit (IPT) +\n"
 "  __data cleaning__\n"
 msgstr "* Herramienta de publicación integrada (IPT) +\n"
 "  __publicación de datos__\n"
-"* Especificar +\n"
+"* Specify +\n"
 "  __captura de datos__ Y __gestión de datos__\n"
 "* iNaturalist +\n"
 "  __captura de datos__\n"
@@ -1302,7 +1302,7 @@ msgid "- [ ] The museum or department director\n"
 "- [ ] The person entering the data into the database\n"
 msgstr "- [ ] El director del museo o departamento\n"
 "- [x] Los usuarios de los datos para investigación o educación\n"
-"- [ ] El recolector de los datos en el campo\n"
+"- [ ] El colector de los datos en el campo\n"
 "- [ ] La persona que introduce los datos en la base de datos\n"
 
 #.  Question 9
@@ -1373,28 +1373,28 @@ msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
 "- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
 msgstr "- [x] permite a los usuarios determinar si un conjunto de datos es adecuado para su uso.\n"
-"- [ ] le permite compartir coordenadas exactas para cada ocurrencia.\n"
+"- [ ] le permite compartir coordenadas exactas para cada registro.\n"
 "- [x] le permite saber bajo qué términos legales se permite la reutilización de datos.\n"
-"- [ ] también se aplica a todos los materiales adicionales y asociados, incluyendo imágenes, vídeo y otros medios.\n"
-"- [ ] le permite conocer la próxima exposición/horario de la institución.\n"
+"- [ ] también se aplica a todos los materiales complementarios y asociados, incluidas imágenes, videos y otros medios.\n"
+"- [ ] le permite conocer el próximo horario de exhibición / apertura de la institución.\n"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:3
 #, no-wrap
 msgid "Use Case I - Herbarium Specimens"
-msgstr "Usar Caso I - Especímenes de Herbario"
+msgstr "Caso de Uso I - Especímenes de Herbario"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-species.en.adoc:6
 #: use-case-lepidoptera-sampling.en.adoc:6
 #: use-case-birds-from-literature.en.adoc:6
 msgid "Familiarize yourself with the use case scenario."
-msgstr "Familiarizarse con el escenario de casos de uso."
+msgstr "Familiarícese con el escenario del caso de uso."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr "El Caso de Uso I es un caso de uso de práctica para la planificación, captura de datos, gestión de datos y módulos de publicación de datos. Se recomienda descargar el enlace:../course-docs/UC1-Herbarium-Exercise_ES. ocx[hoja de ejercicios,opts=descarga] (MS Word 345 KB) para que puedas hacer notas mientras trabajas con los ejercicios. Una solución sugerida se proporcionará en el apéndice de la solución. Caso de Uso I no es calificado."
+msgstr "El caso de uso I es un caso de uso práctico para los módulos de planificación, captura, gestión y publicación de datos. Se recomienda que descargue el enlace:../ course-docs / UC1-Herbarium-Exercise_EN.docx [hoja de ejercicios, opts = download] (MS Word 345 KB) para que pueda tomar notas mientras trabaja en los ejercicios. Se proporcionará una solución sugerida en el apéndice de soluciones. El caso de uso I no está calificado."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1414,7 +1414,7 @@ msgstr "*Un Proyecto de Movilización de Datos en un Herbario Regional*\n"
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] recolectado en Guatemala por Rapid Reference Collection (RRRC) | Field Museum of Natural History - Keller Action Science Center (licenciado bajo http://creativecommons. rg/licencias/por-nc/4.0/[CC-BY-NC 4.0])"
+msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] colectado en Guatemala por Rapid Reference Collection (RRRC) | Field Museum of Natural History - Keller Action Science Center (licenciado bajo http://creativecommons. rg/licencias/por-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
@@ -1471,7 +1471,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:44
 msgid "The herbarium comprises approximately 80,000 specimens collected from 1960 to 2015 concentrated mainly in the biodiversity hot spot -- Short Mountain National Park.  The collection is still growing as a result of exchanges, donations and several active research projects.  For each specimen, information about collector, time, date, location and taxonomy are documented.  So far no quality control measures have been carried out on the data and there has been no systematic imaging of specimens."
-msgstr "El herbario comprende aproximadamente 80.000 ejemplares recolectados entre 1960 y 2015 concentrados principalmente en un \"hotspot\" de biodiversidad, el Parque Nacional de Short Mountain. La colección sigue creciendo como resultado de los intercambios, donaciones y varios proyectos de investigación activos. Para cada espécimen se documenta información sobre el recolector, la hora, la fecha, la ubicación y la taxonomía. Hasta ahora no se han llevado a cabo medidas de control de calidad sobre los datos y no se ha producido una imagen sistemática de los especímenes."
+msgstr "El herbario comprende aproximadamente 80.000 especímenes recolectados entre 1960 y 2015 concentrados principalmente en una zona de alta biodiversidad: el Parque Nacional Short Mountain. La colección sigue creciendo como resultado de intercambios, donaciones y varios proyectos de investigación activos. Para cada espécimen, se documenta información sobre colector, hora, fecha, ubicación y taxonomía. Hasta ahora no se han llevado a cabo medidas de control de calidad sobre los datos y no se han realizado imágenes sistemáticas de las muestras."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:45
@@ -1740,7 +1740,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:107
 #, no-wrap
 msgid "Exercise 1b"
-msgstr ""
+msgstr "Ejercicio 1b"
 
 #. type: Plain text
 #: planning.en.adoc:97
@@ -2152,7 +2152,7 @@ msgstr ""
 #: capture.en.adoc:161
 #, no-wrap
 msgid "Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.\n"
-msgstr ""
+msgstr "Los datos de cada participante se capturan y combinan en la captura de datos del programa de ciencia ciudadana o en la herramienta de gestión de datos.\n"
 
 #. type: delimited block .
 #: capture.en.adoc:165
@@ -2442,7 +2442,8 @@ msgstr ""
 #, no-wrap
 msgid "*Taxonomic*: \n"
 "For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?\n"
-msgstr ""
+msgstr "*Taxonómico*: \n"
+"Por ejemplo, si se identifica a nivel de especies, ¿tiene un nombre científico binomial y se proporcionan entradas en los campos de género y especies?\n"
 
 #. type: Plain text
 #: management.en.adoc:117
@@ -2457,7 +2458,9 @@ msgstr ""
 msgid "*Outliers*: \n"
 "Detect outliers, but remember that not all outliers are necessarily errors. \n"
 "For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).\n"
-msgstr ""
+msgstr "*Valores atípicos*: \n"
+"Detecta valores atípicos, pero recuerda que no todos los valores atípicos son necesariamente errores. \n"
+"Por ejemplo, compare con un rango de especies conocidas, o un rango ambiental conocido (pero recuerde que los valores atípicos pueden ser identificaciones incorrectas, en lugar de coordenadas incorrectas).\n"
 
 #. type: Plain text
 #: management.en.adoc:123
@@ -2775,7 +2778,7 @@ msgstr ""
 #. type: Plain text
 #: publishing.en.adoc:89
 msgid "Which Creative Commons licences and waivers are recommended by GBIF for data publication?"
-msgstr ""
+msgstr "¿Qué licencias y exenciones de Creative Commons son recomendadas por GBIF para la publicación de datos?"
 
 #. type: delimited block .
 #: publishing.en.adoc:96
@@ -2817,7 +2820,7 @@ msgstr ""
 #: assessments-certification.en.adoc:3
 #, no-wrap
 msgid "Assessment and certification"
-msgstr ""
+msgstr "Evaluación y certificación"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:6
@@ -2860,7 +2863,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:92
 #, no-wrap
 msgid "*Planning*\n"
-msgstr ""
+msgstr "*Planificación*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:61
@@ -2908,7 +2911,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:108
 #, no-wrap
 msgid "*Data capture*\n"
-msgstr ""
+msgstr "*Captura de datos*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:96
@@ -3063,7 +3066,7 @@ msgstr ""
 #: use-case-invasive-species.en.adoc:11
 #: use-case-lepidoptera-sampling.en.adoc:11
 msgid "Lepidoptera sampling"
-msgstr ""
+msgstr "Muestreo de Lepidoptera"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:13
@@ -3165,7 +3168,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:89
 #, no-wrap
 msgid "Exercise 1"
-msgstr ""
+msgstr "Ejercicio 1"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:71
@@ -3193,7 +3196,7 @@ msgstr ""
 #: use-case-invasive-species.en.adoc:81
 #, no-wrap
 msgid "*Options*\n"
-msgstr ""
+msgstr "*Opciones*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:83
@@ -5858,7 +5861,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "_GBIF Biodiversity Data Mobilization Course_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "_Curso de Movilización de Datos sobre Biodiversidad de GBIF_ está licenciado bajo https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:15
