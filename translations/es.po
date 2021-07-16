@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-16 21:03\n"
+"PO-Revision-Date: 2021-07-16 21:58\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -468,7 +468,7 @@ msgstr "En un enfoque más orientado a los negocios, Redman (2001) define la Gar
 #. type: delimited block _
 #: foundations.en.adoc:106
 msgid "How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management."
-msgstr ""
+msgstr "No está claro cómo se aplicarán estos términos en la práctica y, en la mayoría de los casos, los términos parecen utilizarse en gran medida como sinónimos para describir la práctica general de la gestión de la calidad de los datos."
 
 #. type: delimited block _
 #: foundations.en.adoc:108
@@ -479,7 +479,7 @@ msgstr "*Incertidumbre*\n"
 #. type: delimited block _
 #: foundations.en.adoc:113
 msgid "Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).  Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.  There is always uncertainty in data; the difficulty is in recording, understanding and visualizing that uncertainty so that others can also understand it.  Uncertainty is a key term in understanding risk and risk assessment."
-msgstr ""
+msgstr "La incertidumbre se puede considerar como una \"medida de lo incompleto del conocimiento o la información de uno sobre una cantidad desconocida cuyo valor verdadero podría establecerse si se dispusiera de un dispositivo de medición perfecto\" (Cullen y Frey 1999). La incertidumbre es una propiedad de la comprensión de los datos por parte del observador, y se trata más del observador que de los datos en sí. Siempre hay incertidumbre en los datos; la dificultad está en registrar, comprender y visualizar esa incertidumbre para que otros también puedan comprenderla. La incertidumbre es un término clave para comprender el riesgo y la evaluación del riesgo."
 
 #. type: delimited block _
 #: foundations.en.adoc:115
@@ -490,7 +490,7 @@ msgstr "*Error*\n"
 #. type: delimited block _
 #: foundations.en.adoc:122
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
-msgstr ""
+msgstr "El error abarca tanto la imprecisión de los datos como sus inexactitudes. Hay muchos factores que contribuyen al error. El error generalmente se considera aleatorio o sistemático. El error aleatorio tiende a referirse a la desviación del estado real de manera aleatoria. El error o sesgo sistemático surge de un cambio uniforme en los valores y, a veces, se describe como de \"exactitud relativa\" en el mundo cartográfico (Chrisman 1991). Al determinar la \"aptitud para el uso\", el error sistemático puede ser aceptable para algunas aplicaciones y no apto para otras."
 
 #. type: delimited block _
 #: foundations.en.adoc:125
@@ -511,12 +511,12 @@ msgstr "*Validación y Limpieza*\n"
 #. type: delimited block _
 #: foundations.en.adoc:137
 msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
-msgstr ""
+msgstr "La validación es un proceso que se utiliza para determinar si los datos son inexactos, incompletos o irrazonables. El proceso puede incluir verificaciones de formato, verificaciones de integridad, verificaciones de razonabilidad, verificaciones de límites, revisión de los datos para identificar valores atípicos (geográficos, estadísticos, temporales o ambientales) u otros errores, y evaluación de datos por expertos en el área temática (por ejemplo, especialistas en taxonomía). Estos procesos generalmente resultan en marcar, documentar y verificar posteriormente los registros sospechosos. Las comprobaciones de validación también pueden implicar la comprobación del cumplimiento con los estándares, reglas y convenciones aplicables. Una etapa clave en la validación y limpieza de datos es identificar las causas fundamentales de los errores detectados y concentrarse en evitar que esos errores vuelvan a ocurrir (Redman 2001)."
 
 #. type: delimited block _
 #: foundations.en.adoc:142
 msgid "Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.  The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.  It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.  It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered."
-msgstr ""
+msgstr "La limpieza de datos se refiere al proceso de \"corregir\" errores en los datos que se han identificado durante el proceso de validación. El término es sinónimo de \"limpieza de datos\", aunque algunos utilizan la limpieza de datos para abarcar tanto la validación como la limpieza de datos. Es importante en el proceso de limpieza de datos que los datos no se pierdan inadvertidamente y que los cambios en la información existente se lleven a cabo con mucho cuidado. A menudo es mejor conservar tanto los datos antiguos (datos originales) como los nuevos (datos corregidos) uno al lado del otro en la base de datos para que, si se cometen errores en el proceso de limpieza, se pueda recuperar la información original."
 
 #. type: Title ===
 #: foundations.en.adoc:145
@@ -605,7 +605,7 @@ msgstr "Hay otros vídeos en la serie iDigBio en los que puede estar interesado,
 #. type: delimited block *
 #: foundations.en.adoc:188
 msgid "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690[^]"
-msgstr ""
+msgstr "“Digitalización de Colecciones Húmedas” (4:34 mins) https://vimeo.com/120369690[^]"
 
 #. type: delimited block *
 #: foundations.en.adoc:189
@@ -677,7 +677,8 @@ msgstr "*Estabilidad*: Algunas soluciones han estado en el mercado durante mucho
 #, no-wrap
 msgid "*Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.\n"
 "Check the opinions of other users online.\n"
-msgstr ""
+msgstr "*Escalabilidad*: Algunos programas funcionan muy bien cuando se les hace una demostración lista para usar, pero su rendimiento se degrada después de un tiempo o cuando se usan con grandes cantidades de datos o cuando varios usuarios acceden a ellos simultáneamente.\n"
+"Consulta las opiniones de otros usuarios online.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:217
@@ -1077,7 +1078,7 @@ msgstr "img/web/install-openrefine/kde4-open.png"
 #. type: delimited block =
 #: foundations.en.adoc:459
 msgid "Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you can safely exit OpenRefine later, by closing the Konsole window."
-msgstr ""
+msgstr "Haga clic derecho en \"refinar\" y elija \"Ejecutar en Konsole\". Esto es necesario para que pueda salir de OpenRefine de forma segura más tarde, cerrando la ventana de Konsole."
 
 #. type: Target for macro image
 #: foundations.en.adoc:466
@@ -1120,7 +1121,7 @@ msgstr "Comprueba los conceptos aprendidos en esta sección."
 #. type: delimited block *
 #: foundations.en.adoc:492
 msgid "For the given statement, input the correct term (database, database language, database program)"
-msgstr ""
+msgstr "Para la declaración dada, ingrese el término correcto (base de datos, lenguaje de programación de la base de datos, programa de la base de datos)"
 
 #. type: delimited block .
 #: foundations.en.adoc:501
