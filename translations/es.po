@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 22:48\n"
+"PO-Revision-Date: 2021-07-17 23:46\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -5485,208 +5485,208 @@ msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para los datos de gestió
 #. type: Plain text
 #: solutions.en.adoc:183
 msgid "occurrence + record individuals of species"
-msgstr ""
+msgstr "registro biológico + registrar individuos de especies"
 
 #. type: Plain text
 #: solutions.en.adoc:185
 msgid "checklist + It is important to know how many species are present in the park/reserve perimeter and their conservation status."
-msgstr ""
+msgstr "lista de especies + Es importante saber cuántas especies están presentes en el perímetro del parque/reserva y su estado de conservación."
 
 #. type: Plain text
 #: solutions.en.adoc:187
 msgid "sampling event + check and track the populations"
-msgstr ""
+msgstr "evento de muestreo + comprobar y rastrear a las poblaciones"
 
 #. type: Plain text
 #: solutions.en.adoc:189
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a citizen science bioblitz?*\n"
-msgstr ""
+msgstr "*¿Qué tipo(s) de conjunto de datos elegiría(s) para un bioblitz de ciencias ciudadana?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:192
 msgid "occurrence + Bioblitz datasets are mainly shared as occurrence datasets."
-msgstr ""
+msgstr "registro biológico + los conjuntos de datos de Bioblitz se comparten principalmente como conjuntos de datos de registros biológicos."
 
 #. type: Plain text
 #: solutions.en.adoc:194
 msgid "sampling event + Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
-msgstr ""
+msgstr "evento de muestreo + Dependiendo del programa de ciencia ciudadana, los protocolos específicos de muestreo pueden ser utilizados por los voluntarios, en cuyo caso, los datos pueden ser compartidos como un conjunto de datos de evento de muestreo."
 
 #. type: Plain text
 #: solutions.en.adoc:196
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a regional species list?*\n"
-msgstr ""
+msgstr "*¿Qué tipo(s) de conjunto de datos elegiría(s) para una listado regional de especies?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:200
 msgid "checklist + Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
-msgstr ""
+msgstr "lista de especies + Las listas de especies geográficas o temáticas se utilizan a menudo para compartir información sobre las especies presentes en un área determinada; la mayoría de las veces, estas listas también mencionan la distribución de cada especie, así como su estado de conservación en esta área. Los listados regionales de especies pueden brindar una visión útil de la biodiversidad y los hábitats de una región, y deben compartirse como conjuntos de datos taxonómicos, con o sin registros biológicos asociados."
 
 #. type: Title ===
 #: solutions.en.adoc:201
 #, no-wrap
 msgid "Data management review solutions"
-msgstr ""
+msgstr "Soluciones de revisión de la gestión de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:204
 #, no-wrap
 msgid "*Why is it best to clean your data?*\n"
-msgstr ""
+msgstr "*¿Por qué es mejor limpiar tus datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:206
 msgid "to make them as fit for use as possible"
-msgstr ""
+msgstr "para hacerlos tan aptos para su uso como sea posible"
 
 #. type: Plain text
 #: solutions.en.adoc:207
 msgid "to achieve your data quality goals"
-msgstr ""
+msgstr "para lograr sus objetivos de calidad de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:210
 msgid "You should always aim to manage and publish data with the highest possible quality.  This will improve your day-to-day work (it is easier to work with organized and clean data), as well as the work of potential re-users of your data, who need to understand them and trust their source before using them."
-msgstr ""
+msgstr "Siempre debe aspirar a administrar y publicar datos con la mayor calidad posible. Esto mejorará su trabajo diario (es más fácil trabajar con datos organizados y limpios), así como el trabajo de los potenciales reutilizadores de sus datos, que necesitan comprenderlos y confiar en su fuente antes de usarlos."
 
 #. type: Plain text
 #: solutions.en.adoc:212
 #, no-wrap
 msgid "*How should you organize your data cleaning workflow?*\n"
-msgstr ""
+msgstr "*¿Cómo debe organizar su flujo de trabajo de limpieza de datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:214
 msgid "ask your colleagues for expertise"
-msgstr ""
+msgstr "pregunta a sus colegas experimentados"
 
 #. type: Plain text
 #: solutions.en.adoc:215
 msgid "work at an institutional level to harmonize data quality workflows"
-msgstr ""
+msgstr "trabajar a nivel institucional para armonizar los flujos de trabajo de calidad de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:217
 msgid "Nobody is expected to know everything about biodiversity data; you should seek help and advice from your colleagues or other knowledgeable people, and ensure that you're applying the good practices recommended by your institution as you clean your data."
-msgstr ""
+msgstr "No se espera que alguien sepa todo sobre datos de biodiversidad; debe buscar ayuda y consejo de sus colegas u otras personas con conocimientos, y asegurarse de que está aplicando las buenas prácticas recomendadas por su institución a medida que limpia sus datos."
 
 #. type: Plain text
 #: solutions.en.adoc:219
 #, no-wrap
 msgid "*Which is best:*\n"
-msgstr ""
+msgstr "*Cuál es el mejor:*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:221
 msgid "prevent errors from occurring"
-msgstr ""
+msgstr "evitar que los errores ocurran"
 
 #. type: Plain text
 #: solutions.en.adoc:222
 msgid "correct errors as soon as you find them in your database or spreadsheet"
-msgstr ""
+msgstr "corregir los errores tan pronto como los encuentre en su base de datos o hoja de cálculo"
 
 #. type: Plain text
 #: solutions.en.adoc:224
 msgid "The best way to avoid spreading errors in your data is to prevent them from occurring at the start of the data collecting/recording process."
-msgstr ""
+msgstr "La mejor manera de evitar la propagación de errores en sus datos es evitar que ocurran al inicio del proceso de colecta/registro de datos."
 
 #. type: Plain text
 #: solutions.en.adoc:226
 msgid "Of course, mistakes are unavoidable so you should also clean them as soon as you find them, and document the cleaning process."
-msgstr ""
+msgstr "Por supuesto, los errores son inevitables, así que deberías limpiarlos tan pronto como los encuentres, y documentar el proceso de limpieza."
 
 #. type: Plain text
 #: solutions.en.adoc:228
 msgid "If you don't have the time or resources to properly clean your data, it is best to wait before you can do so instead of publishing erroneous data that might confuse people."
-msgstr ""
+msgstr "Si no tiene tiempo o recursos para limpiar sus datos correctamente es mejor esperar antes de poder hacerlo en lugar de publicar datos erróneos que podrían confundir a la gente."
 
 #. type: Plain text
 #: solutions.en.adoc:230
 #, no-wrap
 msgid "*Whose responsibility is data quality?*\n"
-msgstr ""
+msgstr "*¿Quién es responsable por la calidad de los datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:232
 msgid "Everyone involved in the management of data"
-msgstr ""
+msgstr "Todos los involucrados en la gestión de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:234
 msgid "Every person involved in your data management workflow is at least partly responsible for their quality, from the field technicians to the database manager(s)."
-msgstr ""
+msgstr "Cada persona involucrada en la gestión del flujo de trabajo de datos es, al menos parcialmente, responsable por su calidad, desde los técnicos de campo hasta los administradores de bases de datos."
 
 #. type: Plain text
 #: solutions.en.adoc:236
 msgid "People who might later use your data can inform you of any remaining error in your data, and should use them responsibly for their own research, but the initial data quality is not their responsibility."
-msgstr ""
+msgstr "Las personas que puedan usar sus datos más adelante, pueden informarle de cualquier error restante en sus datos y deben usarlos de manera responsable para su propia investigación, pero la calidad de los datos iniciales no es su responsabilidad."
 
 #. type: Plain text
 #: solutions.en.adoc:238
 msgid "GBIF can perform automatic checks on your data (e.g. detection of missing values, geographic outliers, unknown scientific names) but should not be held responsible for errors that occurred earlier in the data management process."
-msgstr ""
+msgstr "GBIF puede realizar comprobaciones automáticas de sus datos (por ej., detección de valores perdidos, valores geográficos atípicos, nombres científicos desconocidos), pero no debe responsabilizarse de los errores que hayan ocurrido anteriormente en el proceso de gestión de datos."
 
 #. type: Plain text
 #: solutions.en.adoc:240
 #, no-wrap
 msgid "*Which tools can be used to clean your data?*\n"
-msgstr ""
+msgstr "*¿Qué herramientas se pueden utilizar para limpiar tus datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:242
 msgid "Excel & other spreadsheets management tools"
-msgstr ""
+msgstr "Excel y otras herramientas de gestión de hojas de cálculo"
 
 #. type: Plain text
 #: solutions.en.adoc:244
 msgid "Your database software"
-msgstr ""
+msgstr "Su software de base de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:245
 msgid "Online tools such as Scientific Names Resolver or Google Maps"
-msgstr ""
+msgstr "Herramientas online como el Scientific Names Resolver o Google Maps"
 
 #. type: Plain text
 #: solutions.en.adoc:247
 msgid "All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful-tools,helpful tools>> listed in the data management section."
-msgstr ""
+msgstr "Se pueden usar todo tipo de herramientas para limpiar sus datos, pero debe identificar cuáles responderán a sus necesidades en términos de resolución taxonómica, georreferenciación, eliminación de duplicados, etc. Puede encontrar <<helpful-tools,helpful tools>> enumeradas en la sección de gestión de datos."
 
 #. type: Title ===
 #: solutions.en.adoc:248
 #, no-wrap
 msgid "Data publishing review solutions"
-msgstr ""
+msgstr "Soluciones de revisión de publicación de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:251
 #, no-wrap
 msgid "*What does data publishing mean in the context of GBIF?*\n"
-msgstr ""
+msgstr "*¿Qué significa la publicación de datos en el contexto de GBIF?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:253
 msgid "Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format"
-msgstr ""
+msgstr "Hacer públicamente accesibles su(s) conjunto(s) de dato(s) de biodiversidad y se puede hallar en un formato estandarizado"
 
 #. type: Plain text
 #: solutions.en.adoc:255
 msgid "Data publishing within GBIF means making your biodiversity dataset(s) publicly accessible in a standardized format (most of the time, Darwin Core), so that it can be discovered and reused by other people."
-msgstr ""
+msgstr "La publicación de datos en GBIF significa hacer públicamente accesibles su(s) conjunto(s) de dato(s) de biodiversidad en un formato estandarizado (la mayoría de las veces, Darwin Core), para que pueda ser descubierto y reutilizado por otras personas."
 
 #. type: Plain text
 #: solutions.en.adoc:257
 #, no-wrap
 msgid "*What is an IPT?*\n"
-msgstr ""
+msgstr "*¿Qué es un IPT?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:259
 msgid "a tool that helps you publish your data to GBIF"
-msgstr ""
+msgstr "una herramienta que te ayuda a publicar tus datos en GBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:260
