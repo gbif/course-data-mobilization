@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 00:58\n"
+"PO-Revision-Date: 2021-07-17 01:53\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2169,7 +2169,9 @@ msgstr "Los datos adquiridos en el contexto de la gestión de áreas protegidas 
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
 "image::img/web/QDataTypes-Observations.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[elefantes de Sri Lankan] observado por pen_ash.\n"
+"image::img/web/QDataTypes-Observations.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:152
@@ -2177,19 +2179,21 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [x] sampling event\n"
-msgstr ""
+msgstr "- [x] registro biológico\n"
+"- [x] lista de especies\n"
+"- [x] evento de muestreo\n"
 
 #.  Question 7
 #. type: Plain text
 #: capture.en.adoc:155
 msgid "What dataset type(s) would you choose for a citizen science bioblitz?"
-msgstr ""
+msgstr "¿Qué tipos de conjuntos de datos elegiría(s) para un bioblitz de ciencia ciudadana?"
 
 #. type: delimited block .
 #: capture.en.adoc:159
 #, no-wrap
 msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
-msgstr ""
+msgstr "Los datos de ciencia ciudadana a menudo se recopilan a través de días de trabajo de campo temáticos conocidos como \"bioblitz\". Los voluntarios generalmente se reúnen en un área determinada y pasan el día tratando de observar e identificar tantas especies como puedan en esta área.\n"
 
 #. type: delimited block .
 #: capture.en.adoc:161
@@ -2203,13 +2207,15 @@ msgstr "Los datos de cada participante se capturan y combinan en la captura de d
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
 "image::img/web/QDataTypes-citizen.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Buscando aves con personal del parque] por el Servicio de Parques Nacionales de EE. UU. (reutilización autorizada en la búsqueda de imágenes de Google)\n"
+"image::img/web/QDataTypes-citizen.png[align=center,width=640,height=360]\n"
 
 #.  Question 8
 #. type: Plain text
 #: capture.en.adoc:172
 msgid "What dataset type(s) would you choose for a regional species list?"
-msgstr ""
+msgstr "¿Qué tipo(s) de connjuntos de datos elegiría(s) para una lista regional de especies?"
 
 #. type: delimited block .
 #: capture.en.adoc:178
@@ -2217,7 +2223,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
 "image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Rinoceronte negro] observado en el zoológico de Magdeburg en Alemania por Mani300\n"
+"image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:182
@@ -2225,213 +2233,215 @@ msgstr ""
 msgid "- [ ] occurrence\n"
 "- [x] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [ ] registro biológico\n"
+"- [x] lista de especies\n"
+"- [ ] evento de muestreo\n"
 
 #. type: Plain text
 #: management.en.adoc:6
 msgid "In this module, you will review the main concepts, related tools and best practices for data management, particularly, data cleaning and standardization."
-msgstr ""
+msgstr "En este módulo, usted revisará los conceptos principales, herramientas relacionadas y buenas prácticas para la gestión de datos, en particular, la limpieza y estandarización de datos."
 
 #. type: Title ===
 #: management.en.adoc:7
 #, no-wrap
 msgid "Principles of data management"
-msgstr ""
+msgstr "Principios de la gestión de datos"
 
 #. type: Plain text
 #: management.en.adoc:11
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr ""
+msgstr "En este video (09:49), usted revisará un importante conjunto de principios necesarios para mejorar los datos a través de los procesos de limpieza de datos. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Data_Management.mp4[download^,opts=download] localmente. (MP4 - 16.6 MB)"
 
 #. type: Title ===
 #: management.en.adoc:15
 #, no-wrap
 msgid "Data management tools"
-msgstr ""
+msgstr "Herramientas de gestión de datos"
 
 #. type: Plain text
 #: management.en.adoc:19
 msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
-msgstr ""
+msgstr "En este video (06:42), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 10.3 MB)"
 
 #. type: Title ===
 #: management.en.adoc:23
 #, no-wrap
 msgid "Exercise 3a-c"
-msgstr ""
+msgstr "Ejercicio 3a-c"
 
 #. type: Plain text
 #: management.en.adoc:26
 msgid "For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use https://openrefine.org/[OpenRefine^]."
-msgstr ""
+msgstr "Para estos ejercicios, realizará verificaciones técnicas y controles de validación de consistencia, mejorará los datos con diferentes herramientas y aprenderá a usar https://openrefine.org/[OpenRefine^]."
 
 #. type: Plain text
 #: management.en.adoc:32
 msgid "Your institution is part of the “Global Poales Association (GPA)”.  This association has secured funding to publish an up-to-date flora on the group and has requested your herbarium to participate and provide any high quality records you may have on this order of plants.  The order is well represented in your collection so you think you could contribute substantially to this effort."
-msgstr ""
+msgstr "Su institución es parte de la “Asociación Global de Poales (GPA)”. Esta asociación ha obtenido fondos para publicar una flora actualizada sobre el grupo y ha solicitado a su herbario que participe y proporcione los registros de alta calidad que pueda tener sobre este orden de plantas. El pedido está bien representado en su colección, por lo que cree que podría contribuir sustancialmente a este esfuerzo."
 
 #. type: Title ====
 #: management.en.adoc:33
 #, no-wrap
 msgid "Exercise 3a"
-msgstr ""
+msgstr "Ejercicio 3a"
 
 #. type: Plain text
 #: management.en.adoc:36
 #, no-wrap
 msgid "*Validation checks*\n"
-msgstr ""
+msgstr "*Comprobaciones de validación*\n"
 
 #. type: Plain text
 #: management.en.adoc:39
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
-msgstr ""
+msgstr "En este ejercicio nos centraremos en errores técnicos y realizaremos una comprobación básica de validación para identificar errores técnicos. Consulte <<Validation checks>> para obtener información sobre los tipos de errores."
 
 #. type: Plain text
 #: management.en.adoc:41
 msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Enlace de descarga:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:42
 msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
-msgstr ""
+msgstr "Importe el archivo CSV en Excel usando el asistente de Excel. Consulte este enlace:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) para obtener instrucciones de importación para su sistema operativo (Windows, Mac, Linux)."
 
 #. type: Plain text
 #: management.en.adoc:43
 msgid "Find and correct the errors manually."
-msgstr ""
+msgstr "Encuentra y corrige los errores manualmente."
 
 #. type: Title ====
 #: management.en.adoc:45
 #, no-wrap
 msgid "Exercise 3b"
-msgstr ""
+msgstr "Ejercicio 3b"
 
 #. type: Plain text
 #: management.en.adoc:48
 #, no-wrap
 msgid "*Other data management tools*\n"
-msgstr ""
+msgstr "*Otras herramientas de gestión de datos*\n"
 
 #. type: Plain text
 #: management.en.adoc:50
 msgid "The GPA association has given you a checklist of data quality elements to verify:"
-msgstr ""
+msgstr "La asociación GPA le ha proporcionado una lista de elementos de calidad de datos para verificar:"
 
 #. type: Plain text
 #: management.en.adoc:52
 msgid "All plant names (full name) are correctly spelled"
-msgstr ""
+msgstr "Todos los nombres de las plantas (nombre completo) están escritos correctamente"
 
 #. type: Plain text
 #: management.en.adoc:53
 msgid "All plant names belong to the order"
-msgstr ""
+msgstr "Todos los nombres de las plantas pertenecen al pedido"
 
 #. type: Plain text
 #: management.en.adoc:54
 msgid "All records have coordinates"
-msgstr ""
+msgstr "Todos los registros tienen coordenadas"
 
 #. type: Plain text
 #: management.en.adoc:55
 msgid "All coordinates are inside the country stated and converted to decimal format"
-msgstr ""
+msgstr "Todas las coordenadas están dentro del país indicado y convertidas en formato decimal"
 
 #. type: Plain text
 #: management.en.adoc:56
 msgid "All dates are in the proper column and in the format YYYY-MM-DD"
-msgstr ""
+msgstr "Todas las fechas están en la columna correspondiente y en el formato AAAA-MM-DD"
 
 #. type: Plain text
 #: management.en.adoc:58
 msgid "The three categories of errors are:"
-msgstr ""
+msgstr "Las tres categorías de errores son:"
 
 #. type: Plain text
 #: management.en.adoc:60
 msgid "Nomenclatural errors"
-msgstr ""
+msgstr "Errores nomenclaturales"
 
 #. type: Plain text
 #: management.en.adoc:61
 msgid "Format errors"
-msgstr ""
+msgstr "Errores de formato"
 
 #. type: Plain text
 #: management.en.adoc:62
 msgid "Geographic errors / outliers"
-msgstr ""
+msgstr "Errores geográficos / valores atípicos"
 
 #. type: Plain text
 #: management.en.adoc:65
 msgid "Refer to <<Helpful tools>> in order to complete the exercise.  You are not limited to these tools, you may use any tools you like."
-msgstr ""
+msgstr "Consulte <<Herramientas útiles>> para completar el ejercicio. No está limitado a estas herramientas, puede utilizar cualquier herramienta que desee."
 
 #. type: Plain text
 #: management.en.adoc:66
 msgid "Use the same file from the previous exercise."
-msgstr ""
+msgstr "Utilice el mismo archivo del ejercicio anterior."
 
 #. type: Plain text
 #: management.en.adoc:67
 msgid "Make the correction ONLY for the Eriocaulaceae family (so you may want to filter the data)"
-msgstr ""
+msgstr "Hacer la corrección SOLO para la familia Eriocaulaceae (por lo que puede querer filtrar los datos)"
 
 #. type: Plain text
 #: management.en.adoc:68
 msgid "Correct the errors found in the dataset used in exercise 3a (previous exercise), using the tools of your choice, and document the changes you perform in the exercise sheet."
-msgstr ""
+msgstr "Corregir los errores encontrados en el conjunto de datos usado en el ejercicio 3a (ejercicio anterior), usando las herramientas de su elección, y documentar los cambios que realiza en la hoja de ejercicio."
 
 #. type: Plain text
 #: management.en.adoc:69
 msgid "Correct the entire file if you have time."
-msgstr ""
+msgstr "Corrija todo el archivo si tiene tiempo."
 
 #. type: Title ====
 #: management.en.adoc:71
 #, no-wrap
 msgid "Exercise 3c"
-msgstr ""
+msgstr "Ejercicio 3c"
 
 #. type: Plain text
 #: management.en.adoc:75
 msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
-msgstr ""
+msgstr "En este video (03:27), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 3.8 MB)"
 
 #. type: Plain text
 #: management.en.adoc:80
 #, no-wrap
 msgid "*OpenRefine*\n"
-msgstr ""
+msgstr "*OpenRefine*\n"
 
 #. type: Plain text
 #: management.en.adoc:82
 msgid "In this exercise we use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
-msgstr ""
+msgstr "En este ejercicio utilizamos OpenRefine para mejorar la calidad de un conjunto de datos utilizando las características predeterminadas, los servicios web existentes y las expresiones regulares."
 
 #. type: Plain text
 #: management.en.adoc:84
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Enlace de descarga:../exercise-data/UC1-3ab-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:86
 msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)  Also available in link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download]."
-msgstr ""
+msgstr "Descargue y complete los ejercicios en el enlace:../course-docs/OpenRefine-Ejercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB) También disponible en el enlace:../course-docs/OpenRefine-Ejercise3c-FR.pdf[Frenco,opts=download] y en el enlace:../course-docs/OpenRefine-Ejercise3c-ES.pdf[Span,opts=download]."
 
 #. type: Title ===
 #: management.en.adoc:88
 #, no-wrap
 msgid "Exercise tips"
-msgstr ""
+msgstr "Consejos para el ejercicio"
 
 #. type: Title ====
 #: management.en.adoc:90
 #, no-wrap
 msgid "Validation checks"
-msgstr ""
+msgstr "Comprobaciones de validación"
 
 #. type: Plain text
 #: management.en.adoc:95
@@ -2439,46 +2449,52 @@ msgstr ""
 msgid "*Technical errors*\n"
 "Relatively simple, often able to be automated, *checks against the integrity of the data*. \n"
 "These may indicate incorrect exports, data mapping, field slippage (e.g. moving 1 column to the right) or data missing at the source.\n"
-msgstr ""
+msgstr "*Errores técnicos*\n"
+"Relativamente simples, a menudo pueden automatizarse, *verifica la integridad de los datos*. \n"
+"Estas pueden indicar exportaciones incorrectas, mapeo de datos, deslizamiento de campo (ej. mover 1 columna a la derecha) o datos que faltan en la fuente.\n"
 
 #. type: Plain text
 #: management.en.adoc:98
 #, no-wrap
 msgid "*Completeness*: \n"
 "Whether all the data and metadata is available – are all fields present, are all fields filled out?\n"
-msgstr ""
+msgstr "*Completitud*:\n"
+"Si todos los datos y metadatos están disponibles, ¿están todos los campos presentes, todos los campos están completos?\n"
 
 #. type: Plain text
 #: management.en.adoc:100
 #, no-wrap
 msgid "*Bounds*: \n"
 "For example, are days given in the range 1-31 (depending on month)\n"
-msgstr ""
+msgstr "*Límites*: \n"
+"Por ejemplo, son días dados en el rango 1-31 (dependiendo del mes)\n"
 
 #. type: Plain text
 #: management.en.adoc:102
 #, no-wrap
 msgid "*Data type*: \n"
 "For example, does the Date field contain a date or a number?\n"
-msgstr ""
+msgstr "*Tipo de datos*: \n"
+"Por ejemplo, ¿el campo Fecha contiene una fecha o un número?\n"
 
 #. type: Plain text
 #: management.en.adoc:104
 #, no-wrap
 msgid "*Data format*: \n"
 "For example, are Dates provided as 01/01/2010 or 01/Jan/10?\n"
-msgstr ""
+msgstr "*Formato de datos*: \n"
+"Por ejemplo, ¿las fechas se proporcionan como 01/01/2010 o 01/ene/10?\n"
 
 #. type: Plain text
 #: management.en.adoc:106
 #, no-wrap
 msgid "*Consistency errors*\n"
-msgstr ""
+msgstr "*Errores de consistencia*\n"
 
 #. type: Plain text
 #: management.en.adoc:112
 msgid "Application of real-world rules to the data.  These may indicate incorrect data entry from older records, transcription errors or post processing.  Some are complex to implement and *require reference data sets to check against*.  E.g. a list of known collectors and collecting habits.  These rules can be gathered from data users and analysts."
-msgstr ""
+msgstr "Aplicación de reglas del mundo real a los datos. Estos pueden indicar una entrada de datos incorrecta de registros más antiguos, errores de transcripción o procesamiento posterior. Algunos son complejos de implementar y * requieren conjuntos de datos de referencia para verificarlos *. P.ej. una lista de coleccionistas conocidos y hábitos de colecta. Estas reglas se pueden recopilar de los usuarios y analistas de datos."
 
 #. type: Plain text
 #: management.en.adoc:115
@@ -2493,7 +2509,8 @@ msgstr "*Taxonómico*: \n"
 #, no-wrap
 msgid "*Currency*: \n"
 "Are dates of collection, identification, update and digitization consistent?\n"
-msgstr ""
+msgstr "*Aceptación general*:\n"
+"¿Son coherentes las fechas de recopilación, identificación, actualización y digitalización?\n"
 
 #. type: Plain text
 #: management.en.adoc:120
@@ -2511,7 +2528,9 @@ msgstr "*Valores atípicos*: \n"
 msgid "*Geographic*: \n"
 "Are the coordinates within the identified locality or region? \n"
 "For example, are there any terrestrial occurrences in the sea or marine occurrences on land?\n"
-msgstr ""
+msgstr "*Geográfico*:\n"
+"¿Están las coordenadas dentro de la localidad o región identificada?\n"
+"Por ejemplo, ¿hay registros terrestres en el mar o registros marinos en tierra?\n"
 
 #. type: Plain text
 #: management.en.adoc:127
@@ -2520,14 +2539,18 @@ msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
 "Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
 "For example, are any mammal records attributed to a bird watching group?\n"
-msgstr ""
+msgstr "* Recolección de patrones *:\n"
+"¿El detalle del registro coincide con los patrones de colecta conocidos de la organización o el colector?\n"
+"¿Parece que se han creado registros después de la muerte de un colector (¿podría ser un colector diferente con un nombre similar)?\n"
+"Por ejemplo, ¿se atribuyen registros de mamíferos a un grupo de observación de aves?\n"
 
 #. type: Plain text
 #: management.en.adoc:129
 #, no-wrap
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
-msgstr ""
+msgstr "*Exactitud y precisión*:\n"
+"Por ejemplo, ¿hay algún registro georreferenciado que indique una precisión o exactitud muy alta de un período de recopilación anterior al GPS (o GPS pre-exacto)?\n"
 
 #. type: Plain text
 #: management.en.adoc:132
@@ -2535,13 +2558,15 @@ msgstr ""
 msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
 "Are the records consistent with the method provided?\n"
-msgstr ""
+msgstr "* Métodos de coleta*:\n"
+"Los diferentes métodos de relevo (por ejemplo, transectas y levantamientos de área) tienen características particulares.\n"
+"¿Los registros son consistentes con el método proporcionado?\n"
 
 #. type: Title ====
 #: management.en.adoc:133
 #, no-wrap
 msgid "Helpful tools"
-msgstr ""
+msgstr "Herramientas útiles"
 
 #. type: Plain text
 #: management.en.adoc:136
