@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 21:51\n"
+"PO-Revision-Date: 2021-07-17 22:48\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -5198,18 +5198,18 @@ msgstr "Un atributo tiene el MISMO campo/tipo de datos para cada registro. + *co
 #. type: Plain text
 #: solutions.en.adoc:72
 msgid "Attributes of a record ALWAYS stay together. + *row*"
-msgstr ""
+msgstr "Atributos de un registro SIEMPRE permanecen juntos. + *fila*"
 
 #. type: Plain text
 #: solutions.en.adoc:74
 #, no-wrap
 msgid "*Who determines the fitness for use of your data?*\n"
-msgstr ""
+msgstr "*¿Quién determina la aptitud para el uso de tus datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:76
 msgid "The users of the data for research or education"
-msgstr ""
+msgstr "Los usuarios de los datos para investigación o educación"
 
 #. type: Plain text
 #: solutions.en.adoc:79
@@ -5221,266 +5221,266 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:82
 msgid "High accuracy, low precision + *C*"
-msgstr ""
+msgstr "Alta exactitud, baja precisión + *C*"
 
 #. type: Plain text
 #: solutions.en.adoc:84
 msgid "Low accuracy, high precision + *B*"
-msgstr ""
+msgstr "Baja exactitud, alta precisión + *B*"
 
 #. type: Plain text
 #: solutions.en.adoc:86
 msgid "High accuracy, high precision + *D*"
-msgstr ""
+msgstr "Alta exactitud, alta precisión + *D*"
 
 #. type: Plain text
 #: solutions.en.adoc:88
 msgid "Low accuracy, low precision + *A*"
-msgstr ""
+msgstr "Baja exactitud, baja precisión + *A*"
 
 #. type: Plain text
 #: solutions.en.adoc:90
 #, no-wrap
 msgid "*Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.*\n"
-msgstr ""
+msgstr "*Identificar las relaciones de datos en las que el conjunto de datos B debe fusionarse con el conjunto de datos A (0: 1, 1: 0, 1: 1, 1: ∞, ∞: 1, ∞: ∞). No todas las relaciones son utilizadas.*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:93
 msgid "Collector field exists in both dataset A and B + *1:1*"
-msgstr ""
+msgstr "El campo del colector existe en ambos conjuntos de datos A y B + *1:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:95
 msgid "Country field only exists in dataset B + *0:1*"
-msgstr ""
+msgstr "El campo del país sólo existe en el conjunto de datos B + *0:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:97
 msgid "Name field exists in dataset A, but dataset B contains First Name and Last Name fields + *1:∞*"
-msgstr ""
+msgstr "El campo de nombre existe en el dataset A, pero el conjunto de datos B contiene campos de Nombre y Apellidos + *1:∞*"
 
 #. type: Plain text
 #: solutions.en.adoc:99
 msgid "ID field exists in both dataset A and B + *1:1*"
-msgstr ""
+msgstr "El campo ID existe en ambos conjuntos de datos A y B + *1:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:101
 msgid "Elevation exists in dataset A, but not in dataset B + *1:0*"
-msgstr ""
+msgstr "La elevación existe en el conjunto de datos A, pero no en el conjunto de datos B + *1: 0*"
 
 #. type: Plain text
 #: solutions.en.adoc:103
 msgid "Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B + *1:∞*"
-msgstr ""
+msgstr "La fecha existe en el dataset A, pero el Día, el Mes y el Año son campos separados en el dataset B + *1:∞*"
 
 #. type: Plain text
 #: solutions.en.adoc:105
 #, no-wrap
 msgid "*Metadata is important because (select the TRUE statements)*\n"
-msgstr ""
+msgstr "*Los metadatos son importantes porque (seleccione los enunciados VERDADEROS)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:107
 msgid "it allows users to determine if a dataset is fit for their use."
-msgstr ""
+msgstr "permite a los usuarios determinar si un conjunto de datos es adecuado para su uso."
 
 #. type: Plain text
 #: solutions.en.adoc:108
 msgid "it allows you to know under which legal terms the reuse of data is permitted."
-msgstr ""
+msgstr "le permite saber bajo qué términos legales se permite la reutilización de datos."
 
 #. type: Title ===
 #: solutions.en.adoc:109
 #, no-wrap
 msgid "Planning review solutions"
-msgstr ""
+msgstr "Planificación de soluciones de revisión"
 
 #. type: Plain text
 #: solutions.en.adoc:112
 #, no-wrap
 msgid "*What is the order of the five PMBoK Process Groupings?*\n"
-msgstr ""
+msgstr "*¿Cuál es el orden de los cinco Grupos de Procesos PMBoK?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:114
 msgid "Initiating, Planning, Executing, Monitoring and Controlling, Closing"
-msgstr ""
+msgstr "Iniciar, Planear, Ejecutar, Monitoreo y Control, Cerrar"
 
 #. type: Plain text
 #: solutions.en.adoc:116
 msgid "Learn More: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
-msgstr ""
+msgstr "Aprende más: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
 
 #. type: Plain text
 #: solutions.en.adoc:118
 #, no-wrap
 msgid "*What are the types of deliverable?*\n"
-msgstr ""
+msgstr "*¿Cuáles son los tipos de entregables?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:120
 msgid "Stated - YES"
-msgstr ""
+msgstr "Declarado - SÍ"
 
 #. type: Plain text
 #: solutions.en.adoc:121
 msgid "Implied - YES"
-msgstr ""
+msgstr "Implícito - SÍ"
 
 #. type: Plain text
 #: solutions.en.adoc:122
 msgid "Estimated - NO"
-msgstr ""
+msgstr "Estimado - NO"
 
 #. type: Plain text
 #: solutions.en.adoc:123
 msgid "Direct - YES"
-msgstr ""
+msgstr "Directo - SÍ"
 
 #. type: Plain text
 #: solutions.en.adoc:124
 msgid "Indirect - YES"
-msgstr ""
+msgstr "Indirecto - SÍ"
 
 #. type: Plain text
 #: solutions.en.adoc:125
 msgid "Guesses - NO"
-msgstr ""
+msgstr "Suposiciones - NO"
 
 #. type: Plain text
 #: solutions.en.adoc:127
 #, no-wrap
 msgid "*What is a bottleneck?*\n"
-msgstr ""
+msgstr "*¿Qué es un cuello de botella?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:130
 msgid "a blockage that delays development or progress - YES a space where something or someone is missing - NO, THIS IS A GAP"
-msgstr ""
+msgstr "un bloqueo que retrasa el desarrollo o el progreso - SÍ un espacio donde falta algo o alguien - NO, ESTO ES UNA BRECHA"
 
 #. type: Plain text
 #: solutions.en.adoc:131
 msgid "a problem, or situation that prevents somebody from doing something, or that makes something impossible. NO, THIS IS A BARRIER"
-msgstr ""
+msgstr "un problema, o situación que impide a alguien hacer algo, o que hace algo imposible. NO, ESTO ES UN BARRERA"
 
 #. type: Plain text
 #: solutions.en.adoc:133
 #, no-wrap
 msgid "*Which are examples of mobilization tasks?*\n"
-msgstr ""
+msgstr "*¿Cuáles son los ejemplos de las tareas de movilización?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:135
 msgid "Affiliation - NO, This is a Resource Type"
-msgstr ""
+msgstr "Afiliación - NO, Este es un Tipo de Recurso"
 
 #. type: Plain text
 #: solutions.en.adoc:136
 msgid "Publishing - YES"
-msgstr ""
+msgstr "Publicación - SÍ"
 
 #. type: Plain text
 #: solutions.en.adoc:137
 msgid "Imaging - YES"
-msgstr ""
+msgstr "Imagen - SÍ"
 
 #. type: Plain text
 #: solutions.en.adoc:138
 msgid "Georeferencing - YES"
-msgstr ""
+msgstr "Georreferenciación - SÍ"
 
 #. type: Plain text
 #: solutions.en.adoc:139
 msgid "Increased Public Awareness - NO, This is an implied goal."
-msgstr ""
+msgstr "Mayor conciencia pública - NO, Este es un objetivo implícito."
 
 #. type: Title ===
 #: solutions.en.adoc:140
 #, no-wrap
 msgid "Data capture review solutions"
-msgstr ""
+msgstr "Soluciones de revisión de captura de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:143
 #, no-wrap
 msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
-msgstr ""
+msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para una colección ictiológica?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:148
 msgid "occurrence + Most of the time, specimens from collection databases are shared as occurrence data.  Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.  Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID."
-msgstr ""
+msgstr "registro biológico + La mayoría de las veces, las muestras de las bases de datos de la colección se comparten como datos de registros biológicos. Cada registro (espécimen o grupo de especímenes) tiene su propio identificador único (a veces derivado de su número de catálogo en la colección fuente) y los campos Darwin Core usados ​​para compartirlos dentro de GBIF describen cada espécimen: nombre científico, la fecha en que fue recolectado el campo, quién lo recolectó y / o identificó, dónde, etc. Cada colección puede tener más de un espécimen de una misma especie, siempre que cada espécimen esté identificado por una identificador único."
 
 #. type: Plain text
 #: solutions.en.adoc:150
 msgid "checklist + It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr ""
+msgstr "lista de especies + También es posible crear y compartir una lista de especies taxonómica derivada de una base de datos de colección; en este caso, se recomienda compartir la lista de especies como un conjunto de datos taxonómicos, con la lista de registros (espécimen) asociada a ella mediante el uso del núcleo de registros como una extensión del Taxon Core en el IPT de GBIF."
 
 #. type: Plain text
 #: solutions.en.adoc:152
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a list of invasive species?*\n"
-msgstr ""
+msgstr "*¿Qué tipo(s) de conjunto de datos elegiría(s) para una lista de especies invasoras?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:155
 msgid "occurrence + Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
-msgstr ""
+msgstr "registros biológicos + Algunos editores de datos compartirán conjuntos de datos de registros biológicos provenientes de estudios o programas que rastrean especímenes de algunas especies invasoras específicas; cuando los datos se enfocan en individuos en lugar de en especies invasoras, en general, se pueden compartir como datos de registros biológicos."
 
 #. type: Plain text
 #: solutions.en.adoc:157
 msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr ""
+msgstr "lista de especies + Las especies invasoras pueden ser rastreadas y monitoreadas a diferentes escalas (regional, nacional, temática…); Dado que este tipo de conjunto de datos se centra más en las especies y su distribución en un ámbito geográfico determinado, se comparten principalmente como conjuntos de datos taxonómicos dentro de GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[ver resultados de búsqueda de GRIIS])."
 
 #. type: Plain text
 #: solutions.en.adoc:159
 #, no-wrap
 msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
-msgstr ""
+msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para la flora y fauna de un estudio de impacto ambiental?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:162
 msgid "occurrence + Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
-msgstr ""
+msgstr "resgistro biológico + Los datos son registrados por naturalistas en el campo y pueden ser compartidos como conjuntos de datos de registros biológicos simples."
 
 #. type: Plain text
 #: solutions.en.adoc:164
 msgid "sampling event + They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr ""
+msgstr "evento de muestreo + También pueden ser compartidos como conjuntos de datos de eventos si se estandarizan protocolos (como parcelas de vegetación, transectas, trampas…) se utilizan para recopilar los datos."
 
 #. type: Plain text
 #: solutions.en.adoc:166
 #, no-wrap
 msgid "*What dataset type(s) would you choose for bird tracking data?*\n"
-msgstr ""
+msgstr "*¿Qué tipo(s) de conjunto de datos elegiría(s) para los datos de seguimiento de aves?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:169
 msgid "occurrence + These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
-msgstr ""
+msgstr "registro biológico + Estos datos se comparten como conjuntos de datos de registros biológicos: idealmente, cada ave se identifica con su organismID, y cada registro (ping GPS) tiene su propio occurrenceID, que es útil para rastrear las diferentes ubicaciones GPS de la misma ave en el alcance seguimiento del programa o proyecto. (Ver https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
 
 #. type: Plain text
 #: solutions.en.adoc:171
 #, no-wrap
 msgid "*What dataset type(s) would you choose for insect trap data?*\n"
-msgstr ""
+msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para los datos de trampas para insectos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:174
 msgid "occurrence + Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
-msgstr ""
+msgstr "registro biológico + Aunque dichos datos se pueden compartir como conjuntos de datos de registros biológicos simples, es mejor si se comparten como conjuntos de datos de eventos de muestreo, donde la ubicación, el identificador y el contenido de cada trampa se pueden detallar mejor."
 
 #. type: Plain text
 #: solutions.en.adoc:178
 msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr ""
+msgstr "evento de muestreo + Las trampas para insectos (así como otras trampas, como trampas de caída, trampas Malaise…) se utilizan típicamente en programas de monitoreo para verificar la presencia (o ausencia) de algunas especies y/o evaluar su abundancia específica. El uso del campo \"eventID\" para identificar cada trampa permite a los usuarios obtener todas las muestras recolectadas dentro de cada trampa. La misma lógica se aplica a otros protocolos de campo, como transectas, parcelas, cámaras remotas, etc.: al utilizar el Core de eventos de muestreo en lugar del Core de registros biológicos, podrá compartir mucha más información sobre el contexto de la recopilación de datos y permitirá que los usuarios comprendan mejor (e incluso reproduzcan) su trabajo."
 
 #. type: Plain text
 #: solutions.en.adoc:180
 #, no-wrap
 msgid "*What dataset type(s) would you choose for national park management data?*\n"
-msgstr ""
+msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para los datos de gestión de parques nacionales?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:183
