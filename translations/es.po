@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 02:58\n"
+"PO-Revision-Date: 2021-07-17 03:55\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2992,7 +2992,35 @@ msgid "|Skills\n"
 "|Can identify most elements of a mobilization plan and match them to tasks and roles when they are identical to references used. Has difficulties assessing the feasibility of some elements of the plan.\n"
 "|Can recognize all existing elements in a mobilization plan, and can identify gaps, duplicated efforts, and inconsistencies. Can evaluate the quality of the individual components. Can evaluate potential points of success and weak points of the plan as a whole.\n"
 "|Can suggest solutions to fix issues identified in the plan evaluated.\n"
-msgstr ""
+msgstr "|Habilidades\n"
+"|Desempeño basal\n"
+"1\n"
+"|Desempeño en desarrollo\n"
+"2\n"
+"|Desempeño logrado\n"
+"3\n"
+"|Desempeño excepcional\n"
+"4\n\n"
+"| A. Conocimiento de los diferentes elementos que forman parte de un plan de movilización de datos de biodiversidad\n"
+"| Muestra comprensión de algunos roles y tareas requeridos en un plan de movilización sólido, pero no es capaz de diferenciar quién realiza cada tarea en el plan o confunde los roles.\n"
+"| Comprende muchos de los roles y tareas necesarios en un plan de movilización, pero aún no tiene vínculos e interacciones entre ellos.\n"
+"| Comprende las tareas y roles clave necesarios en un plan de movilización y cómo interactúan.\n"
+"| Puede identificar roles y tareas adicionales que pueden ser necesarios para situaciones específicas\n\n"
+"| B. Capacidad para aplicar los diferentes elementos de un plan de movilización de datos de biodiversidad a un contexto institucional dado (por ejemplo, el suyo propio)\n"
+"| Puede ver cómo algunas de las tareas y roles se relacionan con un contexto institucional dado, pero tiene dificultades cuando el contexto cambia aunque sea levemente de las referencias genéricas utilizadas.\n"
+"| Puede ver cómo la mayoría de las tareas y roles se pueden aplicar a un contexto institucional dado, pero aún tiene lagunas cuando la situación es diferente a las referencias genéricas utilizadas.\n"
+"| Puede identificar todas las tareas y roles relevantes y cómo se pueden traducir a un contexto institucional dado, incluso si la situación no es idéntica a la de las referencias genéricas utilizadas.\n"
+"| Saber aplicar creativamente los diferentes elementos de un plan de movilización, incorporando elementos nuevos que no se encuentran en las referencias genéricas utilizadas.\n\n"
+"| C. Capacidad para escribir / redactar un documento de planificación claro\n"
+"| Puede recopilar materia prima que sería la base de un plan (por ejemplo, como viñetas), pero tiene dificultades para traducir esto en una narrativa.\n"
+"| Puede construir un plan de trabajo básico, pero carece de coherencia entre sus elementos.\n"
+"| Puede redactar un documento coherente y bien articulado que incluya todos los elementos relevantes de un plan de trabajo.\n"
+"| Puede redactar planes concisos, con resúmenes efectivos y niveles de detalle cada vez mayores.\n\n"
+"| D. Capacidad para evaluar un plan de movilización de datos sobre biodiversidad\n"
+"| Puede identificar algunos elementos de un plan de movilización genérico en un ejemplo dado, pero tiene dificultades para relacionarlos con tareas y roles.\n"
+"| Puede identificar la mayoría de los elementos de un plan de movilización y relacionarlos con tareas y roles cuando son idénticos a las referencias utilizadas. Tiene dificultades para evaluar la viabilidad de algunos elementos del plan.\n"
+"| Puede reconocer todos los elementos existentes en un plan de movilización y puede identificar brechas, esfuerzos duplicados e inconsistencias. Puede evaluar la calidad de los componentes individuales. Puede evaluar los puntos potenciales de éxito y los puntos débiles del plan en su conjunto.\n"
+"| Puede sugerir soluciones para solucionar problemas identificados en el plan evaluado.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:63
@@ -3035,13 +3063,36 @@ msgid "|Skills\n"
 "|Knows some of most generic principles of data quality (e.g. avoid misspellings) but shows limited knowledge on how to apply more specific principles to the data capture process.\n"
 "|Knows all the basic principles of data quality and how to apply these in simple ways to the data capture process. Uses formats consistently during the data capture process (e.g. in dates, country names). Documents all procedures and changes connected to data quality in a simple manner.\n"
 "|Shows good knowledge of all common principles of data quality and how to use them to improve the data capture process. Uses data formats consistently and can use gazetteers, reference lists, or software-specific features to improve quality from the original. Documents clearly all changes and decisions taken in connection to data quality.\n"
-msgstr ""
+msgstr "|Habilidades\n"
+"|Desempeño basal\n"
+"1\n"
+"|Desempeño en desarrollo\n"
+"2\n"
+"|Desempeño logrado\n"
+"3\n"
+"|Desempeño excepcional\n"
+"4\n\n"
+"| A. Capacidad para identificar el tipo de datos digitales que se pueden extraer de una fuente de datos de biodiversidad (es decir, que se pueden publicar utilizando la red GBIF)\n"
+"| Puede identificar solo los tipos de datos más evidentes de fuentes comunes de datos de biodiversidad (por ejemplo, registros biológicos de especímenes recolectados de historia natural). Muestra poca comprensión del potencial de la publicación en línea con GBIF.\n"
+"| Puede identificar correctamente, con frecuencia, al menos un tipo de datos digitales que se pueden extraer de fuentes comunes de datos. Tiene dificultad para identificar cuáles se pueden publicar actualmente con GBIF.\n"
+"| Siempre puede identificar uno (o más) tipos de datos digitales que se pueden extraer de fuentes comunes de datos. Puede identificar cuál de esos tipos se puede publicar actualmente con GBIF.\n"
+"| Siempre puede identificar uno o más tipos de datos digitales que se pueden extraer de fuentes de datos comunes y poco comunes. Puede identificar cuál de esos tipos se puede publicar actualmente utilizando GBIF y cuáles están en discusión. Puede identificar núcleos de datos y extensiones que se utilizan para publicar esos tipos de datos.\n\n"
+"| B. Capacidad para extraer información relevante de una fuente de datos de biodiversidad en estructuras de datos simples (por ejemplo, hojas de cálculo) que siguen los estándares internacionales.\n"
+"| Solo puede extraer grandes piezas de información obvia (por ejemplo, toda la información geográfica como una sola unidad) que son evidentes en la fuente de datos. Muestra poco conocimiento de los estándares actuales para el registro de datos de biodiversidad.\n"
+"| Puede recuperar varios elementos de información de la fuente de datos (pero no todos) y puede desglosarlos en partes significativas. Muestra algunos conocimientos básicos de los estándares más comunes (por ejemplo, DwC) y los campos de datos más utilizados en esos estándares.\n"
+"| Puede identificar toda la información valiosa en una fuente de datos y extraer los elementos obligatorios en una estructura de datos estándar (por ejemplo, una hoja de cálculo basada en Simple DwC). Puede identificar la información que falta e inferir de la información existente (por ejemplo, derivar el nombre de un país a partir de una provincia).\n"
+"| Puede identificar toda la información valiosa en una fuente de datos compleja y dividirla en partes significativas que luego se traducen directamente en estándares internacionales. Puede identificar la información crítica que falta en la fuente e inferirla de los datos existentes o de información adicional sobre la fuente (metadatos).\n\n"
+"| C. Capacidad para comprender y aplicar los principios básicos de la calidad de los datos al proceso de captura de datos.\n"
+"| Muestra una comprensión limitada de cómo la aplicación de principios simples de calidad de datos puede tener un gran impacto en el producto final, evitando una limpieza adicional necesaria después.\n"
+"| Conoce algunos de los principios más genéricos de la calidad de los datos (por ejemplo, evitar errores ortográficos) pero muestra un conocimiento limitado sobre cómo aplicar principios más específicos al proceso de captura de datos.\n"
+"| Conoce todos los principios básicos de la calidad de los datos y cómo aplicarlos de forma sencilla al proceso de captura de datos. Utiliza formatos de manera consistente durante el proceso de captura de datos (por ejemplo, en fechas, nombres de países). Documenta todos los procedimientos y cambios relacionados con la calidad de los datos de una manera sencilla.\n"
+"| Demuestra un buen conocimiento de todos los principios comunes de la calidad de los datos y cómo utilizarlos para mejorar el proceso de captura de datos. Utiliza formatos de datos de forma coherente y puede utilizar nomencladores, listas de referencias o funciones específicas del software para mejorar la calidad del original. Documenta claramente todos los cambios y decisiones tomadas en relación con la calidad de los datos.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:98
 #, no-wrap
 msgid "Data management rubric"
-msgstr ""
+msgstr "Rúbrica de gestión de datos"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:101 use-case-invasive-species.en.adoc:128
@@ -3049,7 +3100,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:140
 #, no-wrap
 msgid "*Data management*\n"
-msgstr ""
+msgstr "*Gestión de datos*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:149
@@ -3093,13 +3144,51 @@ msgid "|Skills\n"
 "|Describes changes made most of the time. Doesn’t describe changes consistently or fully (e.g. describes the change, but not the author).\n"
 "|Always remembers to describe changes made. Always describes changes consistently, so that all edits of the same type can be easily identified.\n"
 "|Can accurately and consistently describe changes made in a repeatable way.\n"
-msgstr ""
+msgstr "|Habilidades\n"
+"|Desempeño basal\n"
+"1\n"
+"|Desempeño en desarrollo\n"
+"2\n"
+"|Desempeño logrado\n"
+"3\n"
+"|Desempeño excepcional\n"
+"4\n\n"
+"| A. Capacidad para evaluar la calidad (es decir, identificar problemas y sus tipos) de un conjunto de datos de biodiversidad.\n"
+"| Solo utiliza controles visuales para analizar la calidad. No se puede diferenciar entre tipos de errores. Puede detectar valores faltantes en los campos obligatorios y graves inconsistencias de datos.\n"
+"| Solo puede utilizar técnicas muy básicas (por ejemplo, clasificación) para analizar la calidad de los datos. Puede detectar discrepancias entre los nombres de campo y el contenido. Puede identificar errores técnicos de manera consistente, pero solo los errores de coherencia más típicos en un conjunto de datos.\n"
+"| Puede utilizar herramientas y técnicas específicas para evaluar la calidad. Reconoce el nivel mínimo de desagregación / normalización necesario para el uso común y la publicación. Puede identificar consistentemente errores técnicos y la mayoría de los errores de coherencia en un conjunto de datos.\n"
+"| Utiliza un enfoque sistemático para el análisis de conjuntos de datos que cubre todos los dominios de datos principales. Puede identificar consistentemente errores técnicos y de coherencia en un conjunto de datos. Puede utilizar otras fuentes de datos (por ejemplo, metadatos u otros conjuntos de datos) para identificar o inferir errores de coherencia en un conjunto de datos.\n\n"
+"| B. Capacidad para realizar corrección de formato de datos.\n"
+"| Solo se pueden realizar correcciones manualmente en las tablas. Muestra conocimientos genéricos sobre el uso de tipos de formato en datos digitales (por ejemplo, fechas, cadenas, números)\n"
+"| Puede identificar al menos una herramienta específica para corregir automáticamente errores de formato, pero solo puede usarla en casos específicos. De lo contrario, utiliza mecanismos simples (por ejemplo, \"buscar y reemplazar\") para resolver problemas.\n"
+"| Puede utilizar al menos una herramienta para corregir automáticamente los errores de formato.\n"
+"| Puede utilizar funciones avanzadas de más de una herramienta para corregir errores de formato.\n\n"
+"| C. Capacidad para realizar corrección de datos nomenclaturales.\n"
+"| Solo se pueden realizar correcciones manualmente en las tablas. Solo utiliza el conocimiento personal de grupos taxonómicos conocidos.\n"
+"| Puede identificar al menos una herramienta específica para corregir automáticamente errores de nomenclatura, pero solo puede usarla en casos específicos. De lo contrario, utiliza mecanismos simples (por ejemplo, \"buscar y reemplazar\") para resolver problemas.\n"
+"| Puede utilizar al menos una herramienta para corregir automáticamente errores de nomenclatura. Puede encontrar y utilizar información de nomenclatura de referencia adecuada para los grupos taxonómicos con los que trabaja habitualmente.\n"
+"| Puede utilizar más de una herramienta para corregir errores de nomenclatura. Puede encontrar y utilizar información de nomenclatura de referencia adecuada para grupos taxonómicos fuera de sus áreas de especialización.\n\n"
+"| D. Capacidad para realizar corrección de datos geográficos.\n"
+"| Solo se pueden realizar correcciones manualmente en las tablas. Solo utiliza el conocimiento personal de áreas geográficas conocidas.\n"
+"| Puede identificar al menos una herramienta específica para mapear y / o corregir automáticamente errores en la información geográfica, pero solo puede usarla en casos específicos. De lo contrario, utiliza mecanismos simples (por ejemplo, \"buscar y reemplazar\") para resolver problemas.\n"
+"| Puede utilizar al menos una herramienta para mapear y / o corregir automáticamente errores en la información geográfica. Puede encontrar y utilizar información geográfica de referencia adecuada en un formato adecuado para las áreas con las que trabaja habitualmente.\n"
+"| Puede utilizar más de una herramienta para mapear y / o corregir automáticamente errores en la información geográfica. Puede encontrar y utilizar información geográfica de referencia en un formato adecuado para áreas fuera de sus áreas de especialización.\n\n"
+"| E. Capacidad para utilizar software específico (por ejemplo, OpenRefine) como herramienta para la limpieza de datos.\n"
+"| Puede identificar al menos una herramienta de limpieza de datos. Puede identificar las características principales de una herramienta de limpieza de datos (por ejemplo, OpenRefine).\n"
+"| Puede identificar varias herramientas de limpieza de datos. Puede usar una o algunas de las características básicas del software de limpieza de datos para limpiar un conjunto de datos (por ejemplo, crear un proyecto OpenRefine, usar facetado, filtrado, agrupamiento o reconciliación).\n"
+"| Puede utilizar todas las funciones básicas de un software de limpieza de datos para limpiar un conjunto de datos (por ejemplo, en OpenRefine: facetado, filtrado, agrupación, reconciliación).\n"
+"| Puede usar las funciones avanzadas de uno o más paquetes de software de limpieza de datos para limpiar conjuntos de datos (por ejemplo, en OpenRefine: usar API, expresiones regulares, Google Refine Expression Language).\n\n"
+"| F. Capacidad para documentar procedimientos de transformación de datos.\n"
+"| Rara vez describe los cambios realizados durante la conservación, el formato o la transformación de los datos.\n"
+"| Describe los cambios realizados la mayor parte del tiempo. No describe los cambios de manera consistente o completa (por ejemplo, describe el cambio, pero no el autor).\n"
+"| Recuerda siempre describir los cambios realizados. Siempre describe los cambios de forma coherente, de modo que todas las ediciones del mismo tipo se puedan identificar fácilmente.\n"
+"| Puede describir con precisión y coherencia los cambios realizados de forma repetible.\n"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:151
 #, no-wrap
 msgid "Data publishing rubric"
-msgstr ""
+msgstr "Rúbrica de publicación de datos"
 
 #. type: Table
 #: assessments-certification.en.adoc:196
@@ -3138,24 +3227,57 @@ msgid "|Skills\n"
 "|Can update an existing, published dataset by uploading a new source file. Can republish the file, error free.\n"
 "|Can successfully publish and register a new dataset. Can understand and act upon publishing error messages in IPT.\n"
 "|Shows understanding of dataset versioning in IPT.\n"
-msgstr ""
+msgstr "|Habilidades\n"
+"|Desempeño basal\n"
+"1\n"
+"|Desempeño en desarrollo\n"
+"2\n"
+"|Desempeño logrado\n"
+"3\n"
+"|Desempeño excepcional\n"
+"4\n\n"
+"| A. Conocimiento sobre estándares de datos de información sobre biodiversidad (IBD).\n"
+"| Muestra conocimiento limitado o nulo sobre los estándares de datos IBD y cuáles de esos estándares de datos son aceptados por GBIF.\n"
+"| Puede identificar los estándares IBD y sabe cuáles son aceptados por GBIF, pero no sabe dónde encontrar información sobre cómo utilizarlos. No se puede identificar qué términos son obligatorios.\n"
+"| Conoce los estándares IBD aceptados por GBIF. Puede encontrar una lista de los núcleos y extensiones de datos aceptados. Publica conjuntos de datos de acuerdo con los estándares GBIF requeridos y / o recomendados para términos de datos y metadatos y sabe cómo encontrar las definiciones de los términos.\n"
+"| Demuestra comprensión sobre las características y limitaciones de los distintos estándares IBD.\n\n"
+"| B. Capacidad para analizar la idoneidad de un conjunto de datos de biodiversidad para su publicación a través de GBIF.\n"
+"| Muestra un conocimiento limitado o nulo de los criterios formales que debe cumplir un conjunto de datos para poder publicarse a través de GBIF.\n"
+"| Conoce los criterios formales que debe cumplir un conjunto de datos para poder publicarse a través de GBIF, pero no puede evaluar si un conjunto de datos determinado los cumple.\n"
+"| Puede evaluar correctamente si un conjunto de datos se puede publicar actualmente a través de GBIF. Puede asignar al menos un tipo de datos válido (= núcleo) a un conjunto de datos según la descripción proporcionada por el titular de los datos y después de haber analizado el conjunto de datos.\n"
+"| Puede identificar más de una opción de publicación para un conjunto de datos (cuando sea posible).\n\n"
+"| C. Uso de IPT: capacidad para producir / analizar metadatos de alta calidad.\n"
+"| Muestra un conocimiento limitado o nulo sobre las características de los buenos metadatos.\n"
+"| Conoce las características de los buenos metadatos, pero tiene dificultades para reconocerlos.\n"
+"| Conoce las características de los buenos metadatos y cómo reconocerlos. Puede producir recomendaciones sobre cómo mejorar los metadatos existentes.\n"
+"| Conoce las características de los metadatos de alta calidad y cómo producirlos.\n\n"
+"| D. Uso de IPT: capacidad para cargar / conectar datos y asignarlos a núcleos y extensiones existentes.\n"
+"| Puede cargar conjuntos de datos de un solo archivo en IPT, pero no puede asignarlos a ningún núcleo.\n"
+"| Solo se pueden cargar conjuntos de datos de un solo archivo en IPT y asignarlos a un solo tipo de núcleo sin extensiones.\n"
+"| Puede cargar varios archivos en un IPT como parte de un único conjunto de datos y asignarlos correctamente a un núcleo y al menos una extensión. Puede utilizar la función de valor constante de IPT.\n"
+"| Puede cargar varios archivos en un IPT como parte de un único conjunto de datos y asignarlos correctamente a un núcleo y varias extensiones. Puede utilizar la función de traducción de datos IPT.\n\n"
+"| E. Uso de IPT: capacidad de usar la herramienta para publicar y registrar conjuntos de datos.\n"
+"| Puede ver un conjunto de datos publicado y metadatos asociados en un IPT. Puede descargar un archivo DwC-A de un IPT. Puede navegar por un conjunto de datos registrado desde el IPT al portal de GBIF.\n"
+"| Puede actualizar un conjunto de datos publicado existente cargando un nuevo archivo de origen. Puede volver a publicar el archivo sin errores.\n"
+"| Puede publicar y registrar correctamente un nuevo conjunto de datos. Puede comprender y actuar sobre la publicación de mensajes de error en IPT.\n"
+"| Muestra comprensión del control de versiones de conjuntos de datos en IPT.\n"
 
 #. type: Title ==
 #: use-case-invasive-species.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Invasive species"
-msgstr ""
+msgstr "Caso de Uso II - Especies invasoras"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:8 use-case-lepidoptera-sampling.en.adoc:8
 msgid "You have a choice for Use Case II between two scenarios:"
-msgstr ""
+msgstr "Tiene la opción de elegir para el Caso de Uso II entre dos escenarios:"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:10
 #: use-case-lepidoptera-sampling.en.adoc:10
 msgid "Invasive species checklist"
-msgstr ""
+msgstr "Lista de especies invasoras"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:11
@@ -3173,13 +3295,13 @@ msgstr "Su elección para el Caso de Uso II será calificada."
 #: use-case-invasive-species.en.adoc:16
 #, no-wrap
 msgid "*Tracking invasive species*\n"
-msgstr ""
+msgstr "*Seguimiento de especies invasoras*\n"
 
 #. type: Block title
 #: use-case-invasive-species.en.adoc:18
 #, no-wrap
 msgid "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam.) de Wit] observed in Hawaii by Sharon Grant (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam.) de Wit] observada en Hawaii por Sharon Grant (licenciada bajo http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-invasive-species.en.adoc:19
@@ -3190,48 +3312,48 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:22
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Sharon Grant, John Wieczorek, David Bloom and Laura Anne Russell."
-msgstr ""
+msgstr "Esta narrativa se desarrolló como una base para ejercicios prácticos en el curso de movilización de datos de biodiversidad y el concepto y el contenido del ejercicio fueron desarrollados por Sharon Grant, John Wieczorek, David Bloom y Laura Anne Russell."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
 msgid "It is a fictionalized scenario based on a real dataset and is meant only for instructional purposes.  The original dataset is attributed to Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
-msgstr ""
+msgstr "Es un escenario ficticio basado en un conjunto de datos reales y está destinado solo para fines educativos. El conjunto de datos original se atribuye a Simpson A (2016). Comité de especies invasoras de Big Island - Informes de plagas - 2005-2010. Versión 4.1. Encuesta geológica de los Estados Unidos. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accedido a través de GBIF.org el 2017-07-13."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:31
 msgid "The Hawaii Invasive Species Council (HISC) received a federal grant to collaborate with high schools as part of Hawaii’s statewide curriculum on Invasive Species to increase local knowledge about invasive species, increase data collection and produce annotated checklists for under reported areas.  A full-time Project Manager is employed to oversee the project.  All funds and allocations are managed by the HISC Fiscal Associate."
-msgstr ""
+msgstr "El Consejo de Especies Invasoras de Hawái (HISC) recibió una subvención federal para colaborar con las escuelas secundarias como parte del plan de estudios de todo el estado de Hawái sobre especies invasoras para aumentar el conocimiento local sobre las especies invasoras, aumentar la recopilación de datos y producir listas de verificación anotadas para áreas que no se informan. Se contrata a un director de proyecto a tiempo completo para supervisar el proyecto. Todos los fondos y asignaciones son administrados por el Asociado Fiscal de HISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:35
 msgid "The Manager of each island’s Invasive Species Committee (ISC) received a sub-award to set up local education programs and collect data.  The programs trained high school students to become Student Mentors and to facilitate image and data collection by members of the local community.  The Big Island Invasive Species Committee (BIISC) received a further sub-award to extend their central database to accommodate each ISC’s data, provide participating schools with their own websites, and maintain a single, searchable data portal to serve government, public, and scholarly research efforts."
-msgstr ""
+msgstr "El Gerente del Comité de Especies Invasoras (ISC) de cada isla recibió un premio secundario para establecer programas educativos locales y recopilar datos. Los programas capacitaron a los estudiantes de secundaria para que se convirtieran en mentores de estudiantes y para facilitar la recopilación de imágenes y datos por parte de los miembros de la comunidad local. El Comité de Especies Invasoras de Big Island (BIISC) recibió un sub-premio adicional para ampliar su base de datos central para acomodar los datos de cada ISC, proporcionar a las escuelas participantes sus propios sitios web y mantener un portal de datos único y de búsqueda para servir al gobierno, al público y a los académicos y a esfuerzos de investigación."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:38
 msgid "Two schools on each island were selected because they were located in areas where knowledge and documentation of invasive species assessment was poor or non-existent.  Teachers worked with their local Invasive Species Council (ISC) Outreach Associate to create teaching materials detailing 21 important invasive plant species, including how to identify each species’ life stages and the most effective control methods."
-msgstr ""
+msgstr "Se seleccionaron dos escuelas en cada isla porque estaban ubicadas en áreas donde el conocimiento y la documentación de la evaluación de especies invasoras era deficiente o inexistente. Los maestros trabajaron con su Asociado de Alcance del Consejo de Especies Invasoras (ISC) local para crear materiales didácticos que detallen 21 especies de plantas invasoras importantes, incluida la forma de identificar las etapas de vida de cada especie y los métodos de control más efectivos."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:41
 msgid "The Graduate School of the University of Hawaii in Maui (UHM) runs a course in community outreach.  Four botany students from the University, as a part of their final course assessment, are validating the identifications from the images and descriptions submitted by each high school to their local ISC."
-msgstr ""
+msgstr "La Escuela de Graduados de la Universidad de Hawái en Maui (UHM) imparte un curso de extensión comunitaria. Cuatro estudiantes de botánica de la Universidad, como parte de la evaluación final del curso, están validando las identificaciones de las imágenes y descripciones enviadas por cada escuela secundaria a su Consejo de Especies Invasoras (ISC) local."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:47
 msgid "Students from each high school organized a series of day-long community surveys in their local neighbourhoods.  Participants, guided by local ISC Early Detection Technicians and Student Mentors, visited various locations where they were given photo guides and assigned a route to follow during collection events.  Along each route, they were tasked with identifying the target species and taking 1-3 photos of them using GPS-enabled mobile phones."
-msgstr ""
+msgstr "Los estudiantes de cada escuela secundaria organizaron una serie de encuestas comunitarias de un día de duración en sus vecindarios. Los participantes, guiados por técnicos de detección temprana y mentores de estudiantes locales de ISC, visitaron varios lugares donde se les entregaron guías fotográficas y se les asignó una ruta a seguir durante los eventos de recolección. A lo largo de cada ruta, se les asignó la tarea de identificar las especies objetivo y tomar de 1 a 3 fotos de ellas utilizando teléfonos móviles con GPS."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:51
 msgid "Details, describing every observation of the 21 invasive species of interest, were recorded using a digital data collection form during each community collection event.  Participants uploaded the images captured on mobile phones and were encouraged to click their locations using a Google map, embedded in the form, to assign latitude and longitude to each observation.  The form’s design was based on the HISC pest reporting form."
-msgstr ""
+msgstr "Los detalles, que describen cada observación de las 21 especies invasoras de interés, se registraron utilizando un formulario de recopilación de datos digitales durante cada evento de recopilación de la comunidad. Los participantes cargaron las imágenes capturadas en teléfonos móviles y se les animó a hacer clic en sus ubicaciones utilizando un mapa de Google, incrustado en el formulario, para asignar latitud y longitud a cada observación. El diseño del formulario se basó en el formulario de notificación de plagas de HISC."
 
 #. type: Target for macro image
 #: use-case-invasive-species.en.adoc:52
 #, no-wrap
 msgid "img/web/use-case-2-invasives-data-collection.png"
-msgstr ""
+msgstr "img/web/use-case-2-invasives-data-collection.png"
 
 #. type: Title ====
 #: use-case-invasive-species.en.adoc:54
@@ -3239,23 +3361,23 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:71
 #, no-wrap
 msgid "Digital data description"
-msgstr ""
+msgstr "Descripción de datos digitales"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:59
 msgid "A database, created and hosted by the Computing Department at UHM, holds the imagery and data from the online form, but these data are not accessible publicly.  Data were exported as comma separated value (.csv) files and given to the four UHM graduate students for taxonomic validation using the images and descriptions submitted.  The BIISC GIS Analyst used the Google Maps coordinates and image EXIF data to check observations for quality and to add any missing georeferences.  Student mentors renamed all image files to match the observation number for cross referencing later at BIISC."
-msgstr ""
+msgstr "Una base de datos, creada y alojada por el Departamento de Computación de UHM, contiene las imágenes y los datos del formulario en línea, pero estos datos no son de acceso público. Los datos se exportaron como archivos de valores separados por comas (.csv) y se entregaron a los cuatro estudiantes de posgrado de la UHM para su validación taxonómica utilizando las imágenes y descripciones enviadas. El analista SIG de BIISC utilizó las coordenadas de Google Maps y los datos EXIF ​​de la imagen para verificar la calidad de las observaciones y agregar las georreferencias faltantes. Los estudiantes mentores cambiaron el nombre de todos los archivos de imágenes para que coincidan con el número de observación para referencias cruzadas más adelante en BIISC."
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:60
 #, no-wrap
 msgid "Invasives exercise sheet"
-msgstr ""
+msgstr "Hoja de ejercicios de Invasoras"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
 msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "Descargar el enlace:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:64
@@ -3268,24 +3390,24 @@ msgstr "Ejercicio 1"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:71
 msgid "You are the local ISC Manager and, because of the success of the lesson plans and community surveys, 10 more schools on your island would like to set up their own projects the following year.  You would like to accommodate them, but your ISC funding will expire at the end of this year.  HISC has indicated that they will look favourably on a small grant application to expand your programs in the following year and BIISC has offered support."
-msgstr ""
+msgstr "Usted es el Administrador local de ISC y, debido al éxito de los planes de lecciones y las encuestas de la comunidad, 10 escuelas más en su isla desearían establecer sus propios proyectos el año siguiente. Le gustaría acomodarlos, pero su financiamiento de ISC vencerá a fines de este año. HISC ha indicado que verán favorablemente una pequeña solicitud de subvención para ampliar sus programas el año siguiente y BIISC ha ofrecido su apoyo."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:75
 #, no-wrap
 msgid "*Analyse the financial implications of expanding the number of schools*\n"
-msgstr ""
+msgstr "*Analizar las implicaciones financieras de ampliar el número de escuelas*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:78
 msgid "Evaluate the following options to expand the number of participating schools.  You can only select TWO of these options, so you need to choose wisely."
-msgstr ""
+msgstr "Evalúe las siguientes opciones para ampliar el número de escuelas participantes. Solo puede seleccionar DOS de estas opciones, por lo que debe elegir sabiamente."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:79 use-case-invasive-species.en.adoc:99
 #: use-case-birds-from-literature.en.adoc:104
 msgid "Use the exercise sheet to provide your answers."
-msgstr ""
+msgstr "Utilice la hoja de ejercicios para proporcionar sus respuestas."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:81
@@ -3296,60 +3418,60 @@ msgstr "*Opciones*\n"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:83
 msgid "Pay extra summer interns to work at the local ISC to coordinate surveys ."
-msgstr ""
+msgstr "Pagar extra a los pasantes de verano para trabajar en el ISC local para coordinar encuestas ."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:84
 msgid "Offer financial support to BIISC to set up websites for each new school."
-msgstr ""
+msgstr "Ofrecer apoyo financiero a BIISC para configurar sitios web para cada escuela nueva."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:86
 msgid "Offer financial compensation to the graduate students.  You will not be able to pay all four of them the equivalent of a regular salary, but could cover the costs of part time positions for two of them."
-msgstr ""
+msgstr "Ofrecer una compensación económica a los estudiantes de posgrado. No podrá pagarles a los cuatro el equivalente a un salario regular, pero podría cubrir los costos de los puestos de tiempo parcial para dos de ellos."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:88
 msgid "Contract a software company to build a database that can automatically ingest data directly from the online form.  The system will include an admin interface to allow data manipulation and csv exports."
-msgstr ""
+msgstr "Contratar a una empresa de software para crear una base de datos que pueda adquirir datos de forma automática directamente desde el formulario en línea. El sistema incluirá una interfaz de administración para permitir la manipulación de datos y las exportaciones csv."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:89
 msgid "Fund four public outreach activities (e.g., a BioBlitz) to promote awareness in the communities and increase volunteer participation."
-msgstr ""
+msgstr "Financia cuatro actividades de divulgación pública (por ejemplo, un BioBlitz) para promover la conciencia en las comunidades y aumentar la participación de voluntarios."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:90
 msgid "Prepare and carry out a reusable training a course for the teachers at the schools to teach them how to prepare data for submission to BIISC."
-msgstr ""
+msgstr "Elaborar y realizar un curso de formación reutilizable para los profesores de las escuelas, para enseñarles cómo preparar datos para su envío a BIISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:94
 #: use-case-lepidoptera-sampling.en.adoc:110
 #, no-wrap
 msgid "*Assign roles*\n"
-msgstr ""
+msgstr "*Asignar roles*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:96
 msgid "The new project has the following people available for data processing and mobilization."
-msgstr ""
+msgstr "El nuevo proyecto cuenta con las siguientes personas disponibles para el procesamiento y la movilización de datos."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:98
 msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible?"
-msgstr ""
+msgstr "¿Asignar roles para maximizar la eficiencia del procesamiento y la transformación de datos para producir datos de la más alta calidad de la manera más eficiente posible?"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:101
 #, no-wrap
 msgid "*Roles*\n"
-msgstr ""
+msgstr "*Roles*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:103
 msgid "BIISC GIS Analyst: Advanced computer use, GIS and data analysis tools."
-msgstr ""
+msgstr "Analista SIG de BIISC: uso avanzado de computadoras, herramientas de análisis de datos y SIG."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:104
