@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-16 23:59\n"
+"PO-Revision-Date: 2021-07-17 00:58\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1720,33 +1720,33 @@ msgstr "Revise las cartas de PARTES INTERESADAS, identifique cualquiera menciona
 #. type: Plain text
 #: planning.en.adoc:84
 msgid "Review the ROLE cards, identify any mentioned in the use case and decide which STAKEHOLDER group they belong to."
-msgstr ""
+msgstr "Revise las caras de ROL, identifique las mencionadas en el caso de uso y decida a qué grupo de PARTES INTERESADAS pertenecen."
 
 #. type: Plain text
 #: planning.en.adoc:85
 msgid "Make notes to cards as appropriate."
-msgstr ""
+msgstr "Tome notas en las cartas según corresponda."
 
 #. type: Plain text
 #: planning.en.adoc:86
 msgid "Once the cards are assigned take pictures/screenshots."
-msgstr ""
+msgstr "Una vez que las cartas sean asignadas, tome fotografías / capturas de pantallas."
 
 #. type: Plain text
 #: planning.en.adoc:87
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
-msgstr ""
+msgstr "Usa el <<exercise-sheet,exercise sheet>> para proporcionar tus respuestas."
 
 #. type: delimited block *
 #: planning.en.adoc:90
 #, no-wrap
 msgid "*Question*\n"
-msgstr ""
+msgstr "*Pregunta*\n"
 
 #. type: delimited block *
 #: planning.en.adoc:92
 msgid "Are there resources or goals missing from the cards that you feel are critical to the successful completion of the project? Note these on the answer sheet."
-msgstr ""
+msgstr "¿Faltan recursos o metas en las cartas que considere que son fundamentales para la finalización exitosa del proyecto? Anótelos en la hoja de respuestas."
 
 #. type: Title ====
 #: planning.en.adoc:94 use-case-invasive-species.en.adoc:91
@@ -1758,7 +1758,7 @@ msgstr "Ejercicio 1b"
 #. type: Plain text
 #: planning.en.adoc:97
 msgid "Using the stakeholder and goal analysis from exercise 1a, develop a workflow using the STAGE cards."
-msgstr ""
+msgstr "Utilizando el análisis de las partes interesadas y las metas del ejercicio 1a, desarrolle un flujo de trabajo utilizando las cartas ETAPA."
 
 #. type: Plain text
 #: planning.en.adoc:99
@@ -1768,18 +1768,18 @@ msgstr "Vuelve a leer la introducción del caso de uso, si es necesario."
 #. type: Plain text
 #: planning.en.adoc:100
 msgid "Decide which TASKS for which each ROLE will be responsible."
-msgstr ""
+msgstr "Decida de qué TAREAS será responsable cada ROL."
 
 #. type: Plain text
 #: planning.en.adoc:101
 msgid "Review the STAGE cards and order the TASKS appropriately."
-msgstr ""
+msgstr "Revisa las cartas ETAPA y ordena las TAREAS de forma apropiada."
 
 #. type: Plain text
 #: planning.en.adoc:102 capture.en.adoc:56 management.en.adoc:44
 #: management.en.adoc:70 management.en.adoc:87 publishing.en.adoc:56
 msgid "Use the previously downloaded exercise sheet to provide your answers."
-msgstr ""
+msgstr "Utilice la hoja de ejercicios, previamente descargada, para proporcionar sus respuestas."
 
 #. type: delimited block *
 #: planning.en.adoc:105
@@ -1795,7 +1795,7 @@ msgstr "¿Hay cuellos de botella evidentes en el flujo de trabajo? Por ejemplo: 
 #. type: delimited block *
 #: planning.en.adoc:110
 msgid "What issues do you think would be important to the successful mobilization of data from the points of view of each stakeholder/role? For example: What are the deliverables? Thinking about the general project timeframe, are they realistic?"
-msgstr ""
+msgstr "¿Qué cuestiones cree que serían importantes para la movilización exitosa de datos desde el punto de vista de cada parte interesada / rol? Por ejemplo: ¿Cuáles son los entregables? Pensando en el cronograma general del proyecto, ¿son realistas?"
 
 #. type: delimited block *
 #: planning.en.adoc:111
@@ -1821,32 +1821,32 @@ msgstr "Este ejercicio debe utilizarse cuando el curso se imparte virtualmente o
 #. type: Plain text
 #: planning.en.adoc:119
 msgid "After the exercises the presenter of each group will:"
-msgstr ""
+msgstr "Después de los ejercicios el presentador de cada grupo será:"
 
 #. type: Plain text
 #: planning.en.adoc:121
 msgid "Present any missing stakeholders and/or tasks saying why they were added."
-msgstr ""
+msgstr "Presente las partes interesadas y / o las tareas que faltan y explique por qué se agregaron."
 
 #. type: Plain text
 #: planning.en.adoc:122
 msgid "Highlight the two most critical issues/topics that the group has identified."
-msgstr ""
+msgstr "Destacar los dos problemas/temas más críticos que el grupo ha identificado."
 
 #. type: Plain text
 #: planning.en.adoc:124
 msgid "Potential discussion points across groups:"
-msgstr ""
+msgstr "Posibles puntos de discusión entre grupos:"
 
 #. type: Plain text
 #: planning.en.adoc:126
 msgid "What similarities and differences can be seen in the flows?"
-msgstr ""
+msgstr "¿Qué similitudes y diferencias se pueden ver en los flujos?"
 
 #. type: Plain text
 #: planning.en.adoc:127
 msgid "Were there common issues that came up across the groups?"
-msgstr ""
+msgstr "¿Hubo problemas comunes que surgieron en los grupos?"
 
 #. type: Title ===
 #: planning.en.adoc:128 capture.en.adoc:59 management.en.adoc:146
@@ -1862,7 +1862,7 @@ msgstr "Revisión"
 #. type: delimited block *
 #: planning.en.adoc:140
 msgid "What is the order of the five PMBoK Process Groupings?"
-msgstr ""
+msgstr "¿Cuál es el orden de las cinco Agrupaciones de Procesos de PMBoK?"
 
 #. type: delimited block .
 #: planning.en.adoc:148
@@ -1871,13 +1871,16 @@ msgid "- [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closin
 "- [x] Initiating, Planning, Executing, Monitoring and Controlling, Closing\n"
 "- [ ] Initiating, Planning, Executing, Closing, Monitoring and Controlling\n"
 "- [ ] Initiating, Planning, Monitoring and Controlling, Executing, Closing\n"
-msgstr ""
+msgstr "- [ ] Planear, Iniciar, Monitorear y Controlar, Ejecutar, Cerrar\n"
+"- [x] Iniciar, Planear, Ejecutar, Monitorear y Controlar, Cerrar\n"
+"- [ ] Iniciar, Planear, Ejecutar, Cerrar, Monitorear y Controlar\n"
+"- [ ] Iniciar, Planear, Monitorear y Controlar, Ejecutar, Cerrar\n"
 
 #.  Question 2
 #. type: Plain text
 #: planning.en.adoc:151
 msgid "What are the types of deliverables? (multiple correct answers)"
-msgstr ""
+msgstr "¿Cuáles son los tipos de entregables? (múltiples respuestas correctas)"
 
 #. type: delimited block .
 #: planning.en.adoc:160
@@ -1888,13 +1891,18 @@ msgid "- [x] Stated\n"
 "- [x] Direct\n"
 "- [x] Indirect\n"
 "- [ ] Guesses\n"
-msgstr ""
+msgstr "- [x] Declarado\n"
+"- [x] Implícito\n"
+"- [ ] Estimado\n"
+"- [x] Directo\n"
+"- [x] Indirecto\n"
+"- [ ] Suposiciones\n"
 
 #.  Question 3
 #. type: Plain text
 #: planning.en.adoc:163
 msgid "What is a bottleneck?"
-msgstr ""
+msgstr "¿Qué es un cuello de botella?"
 
 #. type: delimited block .
 #: planning.en.adoc:169
@@ -1902,7 +1910,9 @@ msgstr ""
 msgid "- [x] a blockage that delays development or progress\n"
 "- [ ] a space where something or someone is missing\n"
 "- [ ] a problem, or situation that prevents somebody from doing something, or that makes something impossible.\n"
-msgstr ""
+msgstr "- [x] un bloqueo que retrasa el desarrollo o el progreso\n"
+"- [ ] un espacio donde falta algo o alguien\n"
+"- [ ] un problema o situación que impide que alguien haga algo, o que hace que algo sea imposible.\n"
 
 #.  Question 4
 #. type: Plain text
@@ -1918,7 +1928,11 @@ msgid "- [ ] Affiliation\n"
 "- [x] Imaging\n"
 "- [x] Georeferencing\n"
 "- [ ] Increased Public Awareness\n"
-msgstr ""
+msgstr "- [ ] Afiliación\n"
+"- [x] Publicación\n"
+"- [x] Imágenes\n"
+"- [x] Georreferenciación\n"
+"- [ ] Mayor conciencia pública\n"
 
 #. type: Plain text
 #: capture.en.adoc:7
@@ -1929,12 +1943,12 @@ msgstr "En este módulo, aprenderá sobre el concepto de estándares, en particu
 #: capture.en.adoc:8
 #, no-wrap
 msgid "Standards and Darwin Core"
-msgstr ""
+msgstr "Estándares y Darwin Core"
 
 #. type: Plain text
 #: capture.en.adoc:13
 msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
-msgstr ""
+msgstr "En este video (15:37), aprenderá cómo interactúa con los estándares diariamente. Luego, se le presentará https://www.tdwg.org/[Biodiversity Information Standards ^], incluido el https://www.tdwg.org/standards/dwc/[Darwin Core Standard ^] con el que continuará para utilizar a lo largo de este curso. Si no puede ver el video incrustado, puede vincularlo:../ videos / Foundations_Standards_Darwin_Core.mp4 [descargar ^, opts = descargar] localmente. (MP4 - 27 MB)"
 
 #. type: Title ===
 #: capture.en.adoc:17
@@ -1945,7 +1959,7 @@ msgstr "Orígenes y tipos de datos"
 #. type: Plain text
 #: capture.en.adoc:21
 msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr ""
+msgstr "En este video (10:45), revisará https://www.gbif.org/dataset-classes[datos primarios de biodiversidad ^] que se pueden compartir dentro de GBIF. Si no puede ver el video incrustado, puede vincularlo:../ videos / data_origins_types.mp4 [download ^, opts = download] localmente. (MP4 - 19 MB)"
 
 #. type: delimited block *
 #: capture.en.adoc:27
@@ -1985,7 +1999,7 @@ msgstr "En este video (09:11), explorará los principios de calidad de datos apl
 #: use-case-birds-from-literature.en.adoc:105
 #, no-wrap
 msgid "Exercise 2"
-msgstr ""
+msgstr "Ejercicio 2"
 
 #. type: Plain text
 #: capture.en.adoc:45
@@ -1995,22 +2009,22 @@ msgstr "Para esta actividad, completará un ejercicio simulando la captura de da
 #. type: Plain text
 #: capture.en.adoc:49
 msgid "Imagine that you are the person assigned to transcribe the data found on the herbarium sheets."
-msgstr ""
+msgstr "Imagine que usted es la persona asignada a transcribir los datos encontrados en los ejemplares de herbario."
 
 #. type: Plain text
 #: capture.en.adoc:54
 msgid "Download link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB).  There are 10 images. Two images per specimen for a total of five specimens.  The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels.  Remember to use both images per record to compile the information."
-msgstr ""
+msgstr "Enlace de descarga:../ exercise-data / UC1-2-base-material.zip [UC1-2-base-material.zip, opts = download]. (34,4 MB). Hay 10 imágenes. Dos imágenes por muestra para un total de cinco muestras. Los materiales de herbario están en español (los datos pueden llegar a usted en varios medios y en otros idiomas distintos al suyo), pero debe poder reconocer los datos contenidos en los campos de las etiquetas. Recuerde utilizar ambas imágenes por registro para recopilar la información."
 
 #. type: Plain text
 #: capture.en.adoc:55
 msgid "Download the spreadsheet template: link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) to transcribe the information found on each of the images for the five specimens."
-msgstr ""
+msgstr "Descargue la plantilla de la hoja de cálculo: enlace::../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) para transcribir la información que se encuentra en cada una de las imágenes de los cinco ejemplares."
 
 #. type: Plain text
 #: capture.en.adoc:58
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
-msgstr ""
+msgstr "es posible que deba agregar campos a la hoja de cálculo, ya que es posible que pueda capturar más información de las etiquetas que lo planificado en la plantilla."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2019,7 +2033,7 @@ msgstr ""
 #. type: delimited block *
 #: capture.en.adoc:71
 msgid "What dataset type(s) would you choose for an ichthyology collection?"
-msgstr ""
+msgstr "¿Qué tipos de conjuntos de datos elegiría(s) para una colección ictiológica?"
 
 #. type: delimited block .
 #: capture.en.adoc:77
@@ -2027,7 +2041,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
 "image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
+"image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:81 capture.en.adoc:94
@@ -2035,13 +2051,15 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [x] registro biológico\n"
+"- [x] lista de especies\n"
+"- [ ] evento de muestreo\n"
 
 #.  Question 2
 #. type: Plain text
 #: capture.en.adoc:84
 msgid "What dataset type(s) would you choose for a list of invasive species?"
-msgstr ""
+msgstr "¿Qué tipo(s) de conjunto de datos elegiría(s) para una lista de especies invasoras?"
 
 #. type: delimited block .
 #: capture.en.adoc:90
@@ -2049,19 +2067,21 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
 "image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".Jacinto de agua (Eichhornia crassipes) observada en Bourail, Nueva Caledonia, donde es una especie introducida e invasora de acuerdo a GRIIS. Foto por gérard (2016) licenciada bajo CC BY-SA 2.0\n"
+"image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
 
 #.  Question 3
 #. type: Plain text
 #: capture.en.adoc:97
 msgid "What dataset type(s) would you choose for the flora and fauna of an environmental impact study?"
-msgstr ""
+msgstr "¿Qué tipos de conjuntos de datos elegiría(s) para la flora y fauna de un estudio de impacto ambiental?"
 
 #. type: delimited block .
 #: capture.en.adoc:101
 #, no-wrap
 msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
-msgstr ""
+msgstr "Los estudios de evaluación de impacto ambiental son realizados por expertos para evaluar la biodiversidad y los biotopos de una zona determinada, antes, durante y después de que se vea afectada por las actividades humanas (obras viables, turbinas eólicas, minería, construcción de edificios, etc.).\n"
 
 #. type: delimited block .
 #: capture.en.adoc:105
@@ -2069,7 +2089,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
 "image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomólogo cazando mariposas] por Matthieu Gauvain (CC-BY-SA)\n"
+"image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:109 capture.en.adoc:137 capture.en.adoc:169
@@ -2077,19 +2099,21 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [x] sampling event\n"
-msgstr ""
+msgstr "- [x] registro biológico\n"
+"- [x] lista de especies\n"
+"- [ ] evento de muestreo\n"
 
 #.  Question 4
 #. type: Plain text
 #: capture.en.adoc:112
 msgid "What dataset type(s) would you choose for bird tracking data?"
-msgstr ""
+msgstr "¿Qué tipo(s) de conjunto de datos elegiría(s) para los datos de seguimiento de aves?"
 
 #. type: delimited block .
 #: capture.en.adoc:116
 #, no-wrap
 msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
-msgstr ""
+msgstr "Los datos de seguimiento de aves se registran utilizando dispositivos específicos, como rastreadores GPS montados en aves vivas, lo que permite a los científicos rastrear sus rutas migratorias o sitios de cría.\n"
 
 #. type: delimited block .
 #: capture.en.adoc:120
@@ -2097,7 +2121,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
 "image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Buitre leonado] observado en la Reserva Natural de Gamla por מינוזיג - MinoZig (CC0) \n"
+"image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:124
@@ -2105,13 +2131,15 @@ msgstr ""
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [x] registro biológico\n"
+"- [ ] lista de especies\n"
+"- [ ] evento de muestreo\n"
 
 #.  Question 5
 #. type: Plain text
 #: capture.en.adoc:127
 msgid "What dataset type(s) would you choose for insect trap data?"
-msgstr ""
+msgstr "¿Qué tipos de conjuntos de datos elegiría(s) para los datos de trampas de insectos?"
 
 #. type: delimited block .
 #: capture.en.adoc:133
@@ -2119,19 +2147,21 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
 "image::img/web/QDataTypes-traps.png[align=\"center\",width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.flickr.com/photos/miheco/215305679/[Trampa para insectos] por miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=640,height=360]\n"
 
 #.  Question 6
 #. type: Plain text
 #: capture.en.adoc:140
 msgid "What dataset type(s) would you choose for national park management data?"
-msgstr ""
+msgstr "¿Qué tipos de conjuntos de datos elegiría(s) para los datos de gestión de parques nacionales?"
 
 #. type: delimited block .
 #: capture.en.adoc:144
 #, no-wrap
 msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
-msgstr ""
+msgstr "Los datos adquiridos en el contexto de la gestión de áreas protegidas (como parques nacionales, pero también reservas naturales más pequeñas) pueden ser diversos y tener diferentes orígenes: estudios botánicos, seguimiento de animales marcados, observaciones de guardabosques y guardias, e incluso datos de 'ciencia ciudadana' o datos inferidos de imágenes compartidas en las redes sociales. \n"
 
 #. type: delimited block .
 #: capture.en.adoc:148
