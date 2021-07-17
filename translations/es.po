@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 16:16\n"
+"PO-Revision-Date: 2021-07-17 17:16\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -3848,232 +3848,232 @@ msgstr "Crear una hoja de cálculo utilizando esta estructura y los datos de los
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:141
 msgid "Taking the role of one of the volunteers with advanced computer skills, imagine you have been assigned the responsibility for data quality issues.  Your main task is to reduce the amount of data that is currently discarded (around a 15%) before processing due to errors and inconsistencies.  You have received a dataset as the raw product of the digitization effort."
-msgstr ""
+msgstr "Tomando el rol de uno de los voluntarios con habilidades informáticas avanzadas, imagine que se le ha asignado la responsabilidad de los asuntos de calidad de los datos. Tu tarea principal es reducir la cantidad de datos que se descartan actualmente (alrededor de un 15%) antes de procesarlos debido a errores e inconsistencias. Ha recibido un conjunto de datos como producto bruto del esfuerzo de digitalización."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:143
 msgid "Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
-msgstr ""
+msgstr "Descargar enlace:../ejercicio-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:145
 msgid "Identify possible ways to correct those issues, and perform those corrections for as many of the errors present as you can."
-msgstr ""
+msgstr "Identifique posibles formas de corregir esos problemas y realice esas correcciones para tantos errores como pueda."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:154
 msgid "For this exercise, you will take the role of the taxonomic expert collaborating with IBAN at their headquarters.  Some of your previous responsibilities (writing the annual report, and producing the base distribution maps) have been handed over to the volunteers, and you have now been given a new responsibility: publishing the cleaned data online through the GBIF network.  The volunteer in charge of data quality has provided a dataset to be published."
-msgstr ""
+msgstr "Para este ejercicio, asumirás el rol de experto taxonómico que colabora con IBAN en su sede. Algunas de sus responsabilidades anteriores (redactar el informe anual y producir los mapas de distribución base) se han transferido a los voluntarios, y ahora se le ha dado una nueva responsabilidad: publicar los datos limpios en línea a través de la red GBIF. El voluntario a cargo de la calidad de los datos ha proporcionado un conjunto de datos para su publicación."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:156
 msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
-msgstr ""
+msgstr "Descargar enlace:../ejercicio-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
 
 #. type: Title ==
 #: use-case-birds-from-literature.en.adoc:3
 #, no-wrap
 msgid "Use Case III - Birds from literature"
-msgstr ""
+msgstr "Caso de Uso III: Aves de la literatura"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:8
 msgid "Use Case III will be graded."
-msgstr ""
+msgstr "El Caso de Uso III será calificado."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:11
 #, no-wrap
 msgid "*Data Mobilization Project from Literature “Birds fallen at Danish Lighthouses, 1883–1939”*\n"
-msgstr ""
+msgstr "*Proyecto de Movilización de Datos de la Literatura \"Aves caídas en los faros daneses, 1883–1939\"*\n"
 
 #. type: Block title
 #: use-case-birds-from-literature.en.adoc:13
 #, no-wrap
 msgid "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG[High resolution scanner] for book digitization project by Heiko Hornig (licensed under https://creativecommons.org/licenses/by-sa/2.5/deed.en[CC BY-SA 2.5])"
-msgstr ""
+msgstr "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG[Escáner de alta resolución] para proyecto de digitalización de libros de Heiko Hornig (licenciado bajo https://creativecommons.org/licenses/by-sa/2.5/deed.es[CC BY-SA 2.5])"
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:14
 #, no-wrap
 msgid "img/web/use-case-3-scanner.png"
-msgstr ""
+msgstr "img/web/use-case-3-scanner.png"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:18
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Andrea Hahn, Laura Russell and Sharon Grant.  It is based upon a previous adaptation by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé."
-msgstr ""
+msgstr "Esta narrativa fue desarrollada como base para ejercicios prácticos en el curso de movilización de datos de biodiversidad y el concepto y contenido del ejercicio fue desarrollado por Alberto González-Talaván, Andrea Hahn, Laura Russell y Sharon Grant. Se basa en una adaptación previa de Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond y Nicolas Noé."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:21
 msgid "It is a fictionalized scenario based on a real project and dataset and is meant only for instructional purposes.  The https://danbif.dk/se-eksempler/fyrfaldne-fugle/[original project] and the https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[original dataset] are attributed to the Danish GBIF Node, https://danbif.dk/[DanBIF]."
-msgstr ""
+msgstr "Es un escenario ficticio basado en un proyecto y un conjunto de datos reales y está destinado a fines educativos únicamente. Se atribuyen el https://danbif.dk/se-eksempler/fyrfaldne-fugle/[original project] y el https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[original dataset] al nodo GBIF danés, https://danbif.dk/[DanBIF]."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:27
 msgid "The Natural History Museum of Denmark (NHM-DK) is a research centre associated with the University of Copenhagen.  Their library is a member of the national library association who recently received state funding to make available online the resources held by its members.  The NHM-DK would like to begin digitization of the field notebooks, journal publications and books held in their library, some of which have significant historic value."
-msgstr ""
+msgstr "El Museo de Historia Natural de Dinamarca (NHM-DK) es un centro de investigación asociado con la Universidad de Copenhague. Su biblioteca es miembro de la asociación nacional de bibliotecas que recientemente recibió fondos estatales para poner a disposición en línea los recursos que poseen sus miembros. El NHM-DK desea comenzar a digitalizar los cuadernos de campo, las publicaciones de revistas y los libros que se encuentran en su biblioteca, algunos de los cuales tienen un valor histórico significativo."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:31
 msgid "After a short consultation with their regular partners, NHM-DK received a suggestion from the Head of the management office of the Nordjylland National Park.  They would like the contents of a particular classic literature compilation digitized for a project they are running: ‘Birds at the Danish Lighthouses, 1883–1939’ (In Danish, ‘Fuglene ved de danske Fyr, 1883–1939’).  They want to use any occurrence data recorded in those books from two lighthouses (Lodbjerg Fyr and Hanstholm Fyr) for an on-site exhibition project."
-msgstr ""
+msgstr "Después de una breve consulta con sus socios habituales, NHM-DK recibió una sugerencia del director de la oficina de gestión del Parque Nacional Nordjylland. Les gustaría que se digitalizara el contenido de una recopilación de literatura clásica particular para un proyecto que están ejecutando: \"Aves en los Faros Daneses, 1883-1939\" (en danés, \"Fuglene ved de danske Fyr, 1883-1939\"). Quieren utilizar cualquier dato de registros biológicos registrado en los libros de dos faros (Lodbjerg Fyr y Hanstholm Fyr) para un proyecto de exhibición en el lugar."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:35
 msgid "The NHM-DK has started discussions with their national GBIF node, DanBIF, about the mobilization of the information contained in these volumes, namely to preserve their contents for the future and provide online access for everyone.  With the involvement of DanBIF, there is intent to publish and register the resulting extracted data with GBIF.  As GBIF requires a license be applied with all published data, the museum has decided to publish the data with a Creative Commons license allowing use of data with attribution (CC-BY)."
-msgstr ""
+msgstr "El NHM-DK ha iniciado conversaciones con su nodo nacional de GBIF, DanBIF, sobre la movilización de la información contenida en estos volúmenes, es decir, para preservar sus contenidos para el futuro y proporcionar acceso en línea para todos. Con la participación de DanBIF, existe la intención de publicar y registrar los datos extraídos resultantes con GBIF. Como GBIF requiere que se aplique una licencia con todos los datos publicados, el museo ha decidido publicar los datos con una licencia Creative Commons que permite el uso de datos con atribución (CC-BY)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:37
 msgid "The IT services required are provided by the Technology Unit of the University of Copenhagen, as for all museum digital projects."
-msgstr ""
+msgstr "Los servicios de TI necesarios son proporcionados por la Unidad de Tecnología de la Universidad de Copenhague, como para todos los proyectos digitales de museos."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:39
 msgid "The HHM-DK deputy director, who is coordinating this piece of work has developed a general outline for the work:"
-msgstr ""
+msgstr "El director adjunto del HHM-DK, que está coordinando este trabajo, ha desarrollado un esquema general para el trabajo:"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:42
 msgid "The museum will carry out the digitization of the literature using two library staff members trained in the use of the library scanner to scan delicate volumes.  They will also extract text from the scans through OCR (Optical Character Recognition) software."
-msgstr ""
+msgstr "El museo llevará a cabo la digitalización de la literatura contando con dos miembros del personal de la biblioteca, capacitados en el uso del escáner de la biblioteca, para escanear volúmenes delicados. También extraerán texto de los escaneos a través del software OCR (reconocimiento óptico de caracteres)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:44
 msgid "Three volunteers from the Copenhagen Ornithological Society (COS) who regularly collaborate with the museum and are familiar with the birds of the region have been enlisted to assist and will complete the transfer of data from the scanned PDFs into spreadsheet format.  They will need to go to the museum and use the computers available in the library to gain access to the files stored in the museum intranet (private network)."
-msgstr ""
+msgstr "Tres voluntarios de la Sociedad Ornitológica de Copenhague (COS), que colaboran regularmente con el museo y están familiarizados con las aves de la región, han sido reclutados para ayudar y completarán la transferencia de datos de los PDF escaneados al formato de hoja de cálculo. Deberán ir al museo y utilizar las computadoras disponibles en la biblioteca para acceder a los archivos almacenados en la intranet del museo (red privada)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:48
 msgid "The Ornithology Curator in the Bird Department will lead the team responsible for taxonomic checking, data curation, cleaning, format and transformation, and will oversee the entry of metadata for the published dataset.  The team includes a collaborating researcher from Sweden, and two postdoctoral students.  They have been selected for this task because they are used to working with digital biodiversity data.  They will all use their own work computers."
-msgstr ""
+msgstr "El Curador de Ornitología del Departamento de Aves dirigirá el equipo responsable de la verificación taxonómica, la curación de datos, la limpieza, el formato y la transformación, y supervisará la entrada de metadatos para el conjunto de datos publicado. El equipo incluye un investigador colaborador de Suecia y dos estudiantes postdoctorales. Han sido seleccionados para esta tarea porque están acostumbrados a trabajar con datos digitales de biodiversidad. Todos usarán sus propias computadoras de trabajo."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:49
 msgid "The DanBIF Node Manager will ensure that the institution is adequately registered in GBIF as a data publisher and that the deputy director and the ornithology curator have the proper credentials and access to DanBIF’s IPT instance to upload and publish the data."
-msgstr ""
+msgstr "El administrador de nodo de DanBIF se asegurará de que la institución esté debidamente registrada en GBIF como publicador de datos y de que el director adjunto y el curador de ornitología tengan las credenciales adecuadas y el acceso a la instancia de IPT de DanBIF para cargar y publicar los datos."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:50
 #, no-wrap
 msgid "Original data collection"
-msgstr ""
+msgstr "Recopilación de datos originales"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:57
 msgid "In the period 1883-1939, there were 45 lighthouses and lightships functioning in Denmark.  These lighthouses were used by several species of birds during the nights of the bird migration period from the years 1886 through 1939.  The presence and activities of these birds were recorded, especially by the keepers of these lighthouses who also collected specimens that were sent to the museum in Copenhagen.  These birds were carefully preserved and catalogued by collection managers at the museum and the specimens can still be found there today.  Observations of weather conditions during the nights when birds were observed by the keepers were also documented."
-msgstr ""
+msgstr "En el período 1883-1939, había 45 faros y buques faro en funcionamiento en Dinamarca. Estos faros fueron utilizados por varias especies de aves durante las noches del período de migración de aves desde los años 1886 hasta 1939. Se registró la presencia y actividad de estas aves, especialmente por los cuidadores de estos faros quienes también recolectaron ejemplares que fueron enviados al museo en Copenhague. Estas aves fueron cuidadosamente conservadas y catalogadas por los administradores de la colección en el museo y los especímenes aún se pueden encontrar allí hoy. También se documentaron las observaciones de las condiciones meteorológicas durante las noches en las que los cuidadores observaron las aves."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:58
 #, no-wrap
 msgid "Analogue data description"
-msgstr ""
+msgstr "Descripción de datos analógicos"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:61
 msgid "This is an example of the description of a series of species observations from one of the books (in German, except the common name for the species which is provided in Danish)."
-msgstr ""
+msgstr "Este es un ejemplo de la descripción de una serie de observaciones de especies de uno de los libros (en alemán, excepto el nombre común de la especie que se proporciona en danés)."
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:62
 #, no-wrap
 msgid "img/web/use-case-3-analogue.png"
-msgstr ""
+msgstr "img/web/use-case-3-analogue.png"
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:64
 #, no-wrap
 msgid "Scanned and translated data description"
-msgstr ""
+msgstr "Descripción de datos escaneados y traducidos"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:67
 msgid "This is an example of the scanned and translated output from the analogue example above."
-msgstr ""
+msgstr "Este es un ejemplo de la salida escaneada y traducida del ejemplo analógico anterior."
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:68
 #, no-wrap
 msgid "img/web/use-case-3-scanned.png"
-msgstr ""
+msgstr "img/web/use-case-3-scanned.png"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:74
 msgid "Studying the extract from the book, the volunteers from the Copenhagen Ornithology Society suggest extracting the following data from the scanned and translated text:"
-msgstr ""
+msgstr "Al estudiar el extracto del libro, los voluntarios de la Sociedad de Ornitología de Copenhague sugieren extraer los siguientes datos del texto escaneado y traducido:"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:76
 msgid "Scientific name as appearing in the book"
-msgstr ""
+msgstr "Nombre científico que aparece en el libro"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:77
 msgid "Common name(s) in Danish as appearing in the book"
-msgstr ""
+msgstr "Nombre(s) comunes en danés que aparecen en el libro"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:78
 msgid "Locality"
-msgstr ""
+msgstr "Localidad"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:79
 msgid "Year/month/day"
-msgstr ""
+msgstr "Año/mes/día"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:80
 msgid "Observed number of individuals"
-msgstr ""
+msgstr "Número observado de individuos"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:81
 msgid "Sex"
-msgstr ""
+msgstr "Sexo"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:82
 msgid "Lifestage"
-msgstr ""
+msgstr "Etapa de la vida"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:83
 msgid "Remarks"
-msgstr ""
+msgstr "Comentarios"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:84
 msgid "URL of the digitized book page in which the occurrence is provided"
-msgstr ""
+msgstr "URL de la página de libro digitalizada en la que se proporciona el registro biológico"
 
 #. type: Title ===
 #: use-case-birds-from-literature.en.adoc:85
 #, no-wrap
 msgid "Birds from literature exercise sheet"
-msgstr ""
+msgstr "Hoja de ejercicios de aves de la literatura"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "Descargar el enlace:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
 msgid "The team needs to develop a sustainable workflow to digitize literature resources, extract any valuable biodiversity information on them and publish it online via GBIF.  They need to develop a plan that can be sustained in the future once the funding from the national library association is over."
-msgstr ""
+msgstr "El equipo debe desarrollar un flujo de trabajo sostenible para digitalizar los recursos bibliográficos, extraer información valiosa de biodiversidad y publicarla en línea a través de GBIF. Necesitan desarrollar un plan que pueda sostenerse en el futuro una vez que finalice la financiación de la asociación nacional de bibliotecas."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:98
 msgid "The <<scenario-4,scenario>> section of this use case includes a brief description of the workflow conceived by the deputy director.  Based on the workflow and the accompanying text complete the following:"
-msgstr ""
+msgstr "La sección <<escenario-4,escenario>> de este caso de uso incluye una breve descripción del flujo de trabajo concebido por el director adjunto. Según el flujo de trabajo y el texto que lo acompaña, complete lo siguiente:"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:100
 msgid "Identify the different stakeholders participating in this project"
-msgstr ""
+msgstr "Identificar las diferentes partes interesadas que participan en este proyecto"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:101
