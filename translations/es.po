@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 01:53\n"
+"PO-Revision-Date: 2021-07-17 02:58\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2572,61 +2572,61 @@ msgstr "Herramientas útiles"
 #: management.en.adoc:136
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
-msgstr ""
+msgstr "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 
 #. type: Plain text
 #: management.en.adoc:137
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
-msgstr ""
+msgstr "*Global Names Resolver*: http://resolver.globalnames.org\n"
 
 #. type: Plain text
 #: management.en.adoc:138
 #, no-wrap
 msgid "*Catalogue of Life name match*: https://data.catalogueoflife.org/tools/name-match\n"
-msgstr ""
+msgstr "*Catalogue of Life name match*: https://data.catalogueoflife.org/tools/name-match\n"
 
 #. type: Plain text
 #: management.en.adoc:139
 #, no-wrap
 msgid "*TNRS*: https://tnrs.biendata.org/\n"
-msgstr ""
+msgstr "*TNRS*: https://tnrs.biendata.org/\n"
 
 #. type: Plain text
 #: management.en.adoc:140
 #, no-wrap
 msgid "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
-msgstr ""
+msgstr "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
 
 #. type: Plain text
 #: management.en.adoc:141
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
-msgstr ""
+msgstr "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 
 #. type: Plain text
 #: management.en.adoc:142
 #, no-wrap
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
-msgstr ""
+msgstr "*Calculadora de Georreferenciación: http://georeferencing.org/georefcalculator/gc.html\n"
 
 #. type: Plain text
 #: management.en.adoc:143
 #, no-wrap
 msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
-msgstr ""
+msgstr "*Convertidor de coordenadas Canadensys*: http://data.canadensys.net/tools/coordinates\n"
 
 #. type: Plain text
 #: management.en.adoc:144
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
-msgstr ""
+msgstr "*Análisis de fechas de Canadensys*: http://data.canadensys.net/tools/dates\n"
 
 #. type: Plain text
 #: management.en.adoc:145
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
-msgstr ""
+msgstr "*Google Maps*: https://maps.google.com/\n"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2635,7 +2635,7 @@ msgstr ""
 #. type: delimited block *
 #: management.en.adoc:158
 msgid "Why is it best to clean your data?"
-msgstr ""
+msgstr "¿Por qué es mejor limpiar sus datos?"
 
 #. type: delimited block .
 #: management.en.adoc:165
@@ -2643,13 +2643,15 @@ msgstr ""
 msgid "- [x] to make them as fit for use as possible\n"
 "- [x] to achieve your data quality goals\n"
 "- [ ] data should be cleaned by the users, not the providers\n"
-msgstr ""
+msgstr "- [x] para hacerlos tan aptos para su uso como sea posible \n"
+"- [x] para lograr sus objetivos de calidad de datos\n"
+"- [ ] los datos deben ser limpiados por los usuarios. no por los proveedores\n"
 
 #.  Question 2
 #. type: Plain text
 #: management.en.adoc:168
 msgid "How should you organize your data cleaning workflow?"
-msgstr ""
+msgstr "¿Cómo debe organizar su flujo de trabajo de limpieza de datos?"
 
 #. type: delimited block .
 #: management.en.adoc:175
@@ -2657,13 +2659,15 @@ msgstr ""
 msgid "- [ ] work alone, you know your data best\n"
 "- [x] ask your colleagues for expertise\n"
 "- [x] work at an institutional level to harmonize data quality workflows\n"
-msgstr ""
+msgstr "- [ ] trabajar solo, usted conoce mejor sus datos\n"
+"- [x] pida ayuda a sus colegas expertos\n"
+"- [x] trabajar a nivel institucional para armonizar los flujos de trabajo de calidad de los datos\n"
 
 #.  Question 3
 #. type: Plain text
 #: management.en.adoc:178
 msgid "Which is best:"
-msgstr ""
+msgstr "Cuál es el mejor:"
 
 #. type: delimited block .
 #: management.en.adoc:185
@@ -2671,13 +2675,15 @@ msgstr ""
 msgid "- [x] prevent errors from occurring\n"
 "- [x] correct errors as soon as you find them in your database or spreadsheet\n"
 "- [ ] not cleaning errors but documenting them as you go, so people who reuse your data know where they are\n"
-msgstr ""
+msgstr "- [x] prevenir que se generen errores\n"
+"- [x] corregir los errores tan pronto como los encuentre en su base de datos u hoja de cálculo\n"
+"- [] no limpiar los errores, sino documentarlos sobre la marcha, para que las personas que reutilizan sus datos sepan dónde están\n"
 
 #.  Question 4
 #. type: Plain text
 #: management.en.adoc:188
 msgid "Whose responsibility is data quality?"
-msgstr ""
+msgstr "¿Quién es responsable por la calidad de los datos?"
 
 #. type: delimited block .
 #: management.en.adoc:198
@@ -2688,13 +2694,18 @@ msgid "- [ ] The person(s) who record data on the field\n"
 "- [x] Everyone involved in the management of data\n"
 "- [ ] The people who use your data\n"
 "- [ ] GBIF\n"
-msgstr ""
+msgstr "- [ ] La (s) persona (s) que registran los datos en el campo\n"
+"- [ ] Los transcriptores de datos\n"
+"- [ ] El administrador de la base de datos\n"
+"- [x] Todas las personas involucradas en la gestión de datos.\n"
+"- [ ] Las personas que utilizan sus datos\n"
+"- [ ] GBIF\n"
 
 #.  Question 5
 #. type: Plain text
 #: management.en.adoc:201
 msgid "Which tools can be used to clean your data ?"
-msgstr ""
+msgstr "¿Qué herramientas se pueden utilizar para limpiar sus datos?"
 
 #. type: delimited block .
 #: management.en.adoc:209
@@ -2703,71 +2714,74 @@ msgid "- [x] Excel & other spreadsheets management tools\n"
 "- [x] OpenRefine\n"
 "- [x] Your database software\n"
 "- [x] Online tools such as Scientific Names Resolver or Google Maps\n"
-msgstr ""
+msgstr "- [x] Excel y otras herramientas de gestión de hojas de cálculo\n"
+"- [x] OpenRefine\n"
+"- [x] Su software de base de datos\n"
+"- [x] Herramientas en línea como Scientific Names Resolver o Google Maps\n"
 
 #. type: Plain text
 #: publishing.en.adoc:6
 msgid "In this module, you will learn about data publishing concepts, including the IPT, cores and extensions, and the importance of licenses, metadata, mandatory fields and hosting of datasets."
-msgstr ""
+msgstr "En este módulo, aprenderá sobre conceptos de publicación de datos, incluyendo IPT, núcleos y extensiones, y la importancia de las licencias, metadatos, campos obligatorios y alojamiento de conjuntos de datos."
 
 #. type: Title ===
 #: publishing.en.adoc:7
 #, no-wrap
 msgid "Data publishing concepts"
-msgstr ""
+msgstr "Conceptos de publicación de datos"
 
 #. type: Plain text
 #: publishing.en.adoc:11
 msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr ""
+msgstr "En este video (11:45), aprenderá sobre los conceptos de publicación de datos y recibirá una introducción a la Herramienta de Publicación Integrada (https://www.gbif. rg/ipt[IPT^]). Si no puedes ver el vídeo incrustado, puedes enlazar:../videos/Data_publishing_concepts.mp4[download^,opts=download] localmente. (MP4 - 20 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:15
 #, no-wrap
 msgid "IPT overview"
-msgstr ""
+msgstr "Descripción general de IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:19
 msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
-msgstr ""
+msgstr "En este video (06:56), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 8.7 MB)"
 
 #. type: Title ====
 #: publishing.en.adoc:23
 #, no-wrap
 msgid "Training IPT installations"
-msgstr ""
+msgstr "Capacitación en instalaciones de IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:26
 msgid "If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
-msgstr ""
+msgstr "Si aún no le han proporcionado un usuario, por favor contacte con training@gbif.org y se le proporcionará un nombre de usuario y contraseña en el curso IPT."
 
 #. type: Plain text
 #: publishing.en.adoc:28
 msgid "https://training-ipt-a.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-a.gbif.org/[^]"
 
 #. type: Plain text
 #: publishing.en.adoc:30
 msgid "https://training-ipt-b.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-b.gbif.org/[^]"
 
 #. type: Plain text
 #: publishing.en.adoc:32
 msgid "https://training-ipt-c.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-c.gbif.org/[^]"
 
 #. type: Title ===
 #: publishing.en.adoc:33
 #, no-wrap
 msgid "IPT demonstration"
-msgstr ""
+msgstr "Demostración de IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:37
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr ""
+msgstr "En este video (24:16), aprenderá a publicar un conjunto de datos de registros biológicos usando un IPT. Si no puede ver el vídeo incrustado, puede enlazar:../videos/IPT_demo.mp4[download^,opts=download] localmente. (MP4 - 52.6 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:41 use-case-invasive-species.en.adoc:137
@@ -2775,12 +2789,12 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:162
 #, no-wrap
 msgid "Exercise 4"
-msgstr ""
+msgstr "Ejercicio 4"
 
 #. type: Plain text
 #: publishing.en.adoc:44
 msgid "In this exercise, you will publish an occurrence dataset using the IPT."
-msgstr ""
+msgstr "En este ejercicio, publicará un conjunto de datos de registros biológicos usando el IPT."
 
 #. type: Plain text
 #: publishing.en.adoc:48 assessments-certification.en.adoc:154
@@ -2789,27 +2803,27 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:165
 #, no-wrap
 msgid "*Data publishing*\n"
-msgstr ""
+msgstr "*Publicación de datos*\n"
 
 #. type: Plain text
 #: publishing.en.adoc:50
 msgid "After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset."
-msgstr ""
+msgstr "Después de limpiar los datos en el conjunto de datos de Poales, el equipo considera que publicar los datos en línea a través de la red GBIF podría ser una buena manera de hacer visible este esfuerzo. Se le ha solicitado que lidere ese trabajo de publicación, basado en el conjunto de datos."
 
 #. type: Plain text
 #: publishing.en.adoc:53
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
-msgstr ""
+msgstr "En este punto, necesita una cuenta en una de las <<Instalaciones de formación de IPT, cursos de IPT >>. Si ún no se le ha proporcionado un usuario, comuníquese con training@gbif.org y se le proporcionará un nombre de usuario y una contraseña en uno de los IPT del curso."
 
 #. type: Plain text
 #: publishing.en.adoc:54
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
-msgstr ""
+msgstr "Descargar enlace:../ejercicio-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 
 #. type: Plain text
 #: publishing.en.adoc:55
 msgid "Use the assigned IPT installation and publish this file."
-msgstr ""
+msgstr "Utilice la instalación IPT asignada y publique este archivo."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2818,7 +2832,7 @@ msgstr ""
 #. type: delimited block *
 #: publishing.en.adoc:69
 msgid "What does data publishing mean in the context of GBIF?"
-msgstr ""
+msgstr "¿Qué significa la publicación de datos en el contexto de GBIF?"
 
 #. type: delimited block .
 #: publishing.en.adoc:76
@@ -2834,7 +2848,7 @@ msgstr "- [ ] Exportar un archivo csv de sus datos limpios que puede compartir c
 #. type: Plain text
 #: publishing.en.adoc:79
 msgid "What is an IPT?"
-msgstr ""
+msgstr "¿Qué es un IPT?"
 
 #. type: delimited block .
 #: publishing.en.adoc:86
@@ -2842,7 +2856,9 @@ msgstr ""
 msgid "- [ ] a tool that helps you manage & correct your data\n"
 "- [x] a tool that helps you publish your data to GBIF\n"
 "- [x] a tool that helps you produce a Data paper\n"
-msgstr ""
+msgstr "- [ ] una herramienta que lo ayuda a administrar y corregir sus datos\n"
+"- [x] una herramienta que le ayuda a publicar sus datos en GBIF\n"
+"- [x] una herramienta que le ayuda a producir una publicación de datos (Data Paper)\n"
 
 #.  Question 3
 #. type: Plain text
@@ -2856,13 +2872,15 @@ msgstr "¿Qué licencias y exenciones de Creative Commons son recomendadas por G
 msgid "- [ ] CC-BY, CC-BY-SA and CC-BY-ND\n"
 "- [x] CC0, CC-BY and CC-BY-NC\n"
 "- [ ] CC0, CC-BY and CC-BY-SA\n"
-msgstr ""
+msgstr "- [ ] CC-BY, CC-BY-SA y CC-BY-ND\n"
+"- [x] CC0, CC-BY y CC-BY-NC\n"
+"- [ ] CC0, CC-BY y CC-BY-SA\n"
 
 #.  Question 4
 #. type: Plain text
 #: publishing.en.adoc:99
 msgid "What are the three Cores from which you can choose for an IPT resource?"
-msgstr ""
+msgstr "¿Cuáles son los tres Núcleos (Cores) entre los que puedes elegir un recurso IPT?"
 
 #. type: delimited block .
 #: publishing.en.adoc:106
@@ -2870,13 +2888,15 @@ msgstr ""
 msgid "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
 "- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
 "- [x] Occurrence Core, Taxon Core, Event Core\n"
-msgstr ""
+msgstr "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
+"- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
+"- [x] Occurrence Core, Taxon Core, Event Core\n"
 
 #.  Question 5
 #. type: Plain text
 #: publishing.en.adoc:109
 msgid "How many Extensions files can a dataset have?"
-msgstr ""
+msgstr "¿Cuántos archivos de Extensiones puede tener un conjunto de datos?"
 
 #. type: delimited block .
 #: publishing.en.adoc:116
@@ -2884,7 +2904,9 @@ msgstr ""
 msgid "- [ ] zero\n"
 "- [ ] one\n"
 "- [x] as many as needed\n"
-msgstr ""
+msgstr "- [ ] cero\n"
+"- [ ] una\n"
+"- [x] tantos como sea necesario\n"
 
 #. type: Title ==
 #: assessments-certification.en.adoc:3
@@ -2895,12 +2917,12 @@ msgstr "Evaluación y certificación"
 #. type: Plain text
 #: assessments-certification.en.adoc:6
 msgid "In this module, you will review the criteria to be used to assess assignments and to achieve certification."
-msgstr ""
+msgstr "En este módulo, usted revisará los criterios a utilizar para evaluar las asignaciones y lograr la certificación."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:8
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge]."
-msgstr ""
+msgstr "Una vez completado el curso y la evaluación de de las asignaciones (por parte de capacitadores y mentores) de forma exitosa, los participantes tienen la oportunidad de recibir una certificación oficial en forma de https://openbadges.org/[Open Badge]."
 
 #. type: Table
 #: assessments-certification.en.adoc:16
@@ -2909,23 +2931,26 @@ msgid "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,wid
 "|An overall score of 2.5-2.9 earns a BASIC Biodiversity Data Mobilization badge\n\n"
 "|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=center,width=75,height=75]\n"
 "|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
-msgstr ""
+msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,width=75,height=75]\n"
+"|Un puntaje general de 2.5-2.9 otorga una insignia BÁSICA de Movilización de Datos de Biodiversidad\n\n"
+"|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=center,width=75,height=75]\n"
+"|Un puntaje general de 3.0-4.0 otorga una insignia AVANZADA de Movilización de Datos de Biodiversidad \n"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr ""
+msgstr "Los participantes deben enviar (en inglés) el Caso de Uso II (elegir entre dos opciones) y el Caso de Uso III, y cada caso de uso se califica según las rúbricas educativas del curso. Las rúbricas definen las habilidades y los niveles de desempeño sobre los que se construyen los objetivos de aprendizaje del curso."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
 msgid "Review the rubrics to ensure understanding of the skills that will be assessed for certification."
-msgstr ""
+msgstr "Revise las rúbricas para asegurarse de comprender las habilidades que se evaluarán para la certificación."
 
 #. type: Title ===
 #: assessments-certification.en.adoc:22
 #, no-wrap
 msgid "Planning rubric"
-msgstr ""
+msgstr "Planificación de la rúbrica"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:25 use-case-invasive-species.en.adoc:67
