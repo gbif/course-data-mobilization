@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 03:55\n"
+"PO-Revision-Date: 2021-07-17 04:52\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -3476,47 +3476,47 @@ msgstr "Analista SIG de BIISC: uso avanzado de computadoras, herramientas de an�
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:104
 msgid "ISC Manager: Good computer skills."
-msgstr ""
+msgstr "Administrador de ISC: Buenas habilidades informáticas."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:105
 msgid "ISC Outreach Associate: Good field identification skills; Basic computer use. Social media expert."
-msgstr ""
+msgstr "Profesionales de Intercambio de Medios de Comunicación Social: Buenas habilidades de identificación de campo; uso básico de computadoras."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:106
 msgid "Student Mentor 1: Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "Estudiante Mentor 1: Conocimiento taxonómico básico. Uso básico de computadoras."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:107
 msgid "Student Mentor 2: Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "Estudiante Mentor 2: Conocimiento taxonómico básico. Uso básico de computadoras."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:108
 msgid "Botany Student 1: Advanced taxonomic knowledge. Programming skills."
-msgstr ""
+msgstr "Estudiante de Botánica 1: Conocimiento taxonómico avanzado. Habilidades de programación."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:109
 msgid "Botany Student 2: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "Estudiante de Botánica 1: Conocimiento taxonómico avanzado."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:110
 msgid "Botany Student 3: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "Estudiante de Botánica 3: Conocimiento taxonómico avanzado."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:111
 msgid "Botany student 4: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "Estudiante de Botánica 4: Conocimiento taxonómico avanzado."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:120
 msgid "The BIISC is now planning to make all of the data from the project publicly available by publishing datasets to GBIF.  As the BIISC’s Outreach Assistant, you must identify the relevant Darwin Core fields to accommodate the data from the online form.  You’ve noticed that additional data describing species and locations have been added to the data form by the graduate students performing validations.  To accommodate this data, you need to extend the data structure to aggregate the data from the online form with the added taxonomy and georeferences."
-msgstr ""
+msgstr "BIISC ahora planea hacer que todos los datos del proyecto estén disponibles públicamente mediante la publicación de conjuntos de datos en GBIF. Como asistente de extensión de BIISC, usted debe identificar los campos de Darwin Core relevantes para acomodar los datos del formulario en línea. Ha notado que los estudiantes graduados que realizaron validaciones agregaron datos adicionales que describen especies y ubicaciones al formulario de datos. Para acomodar estos datos, debe ampliar la estructura de datos para agregar los datos del formulario en línea con la taxonomía y las georreferencias agregadas."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
@@ -3526,7 +3526,7 @@ msgstr "Descarga link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCaptu
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
 msgid "Using the downloaded dataset, produce a spreadsheet as example of the extended data structure and the fields you’ve identified as relevant for Darwin Core."
-msgstr ""
+msgstr "Con el conjunto de datos descargado, genere una hoja de cálculo como ejemplo de la estructura de datos extendida y los campos que ha identificado como relevantes para Darwin Core."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
@@ -3535,7 +3535,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:134
 #: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
-msgstr ""
+msgstr "Utilice la hoja de ejercicios para proporcionar sus respuestas y enviar la hoja de cálculo."
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:125
@@ -3543,121 +3543,121 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:137
 #, no-wrap
 msgid "Exercise 3"
-msgstr ""
+msgstr "Ejercicio 3"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:131
 msgid "Over the summer, interns at the HISC main office created checklists from the original occurrence data that were collected and augmented from the online form.  Taking the role of the HSC Project Leader, you must now carry out final quality checks prior to publication."
-msgstr ""
+msgstr "Durante el verano, los pasantes de la oficina principal de HISC crearon listas de verificación a partir de los datos de registros biológicos originales que se recopilaron y ampliaron del formulario en línea. Al asumir el papel de líder del proyecto HSC, ahora debe realizar controles de calidad finales antes de la publicación."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:133
 msgid "Download link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
-msgstr ""
+msgstr "Descarga link:../exercise-data/UC3-IS-3-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (156 MB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:134
 #: use-case-lepidoptera-sampling.en.adoc:144
 msgid "Evaluate the dataset and identify which types of errors are present."
-msgstr ""
+msgstr "Evaluar el conjunto de datos e identificar qué tipos de errores están presentes."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:135
 msgid "Identify possible ways to correct those issues and perform those corrections for as many of the errors as you can."
-msgstr ""
+msgstr "Identificar formas posibles de corregir esos problemas y realizar las correcciones para tantos errores como pueda."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:144
 msgid "The HISC is now ready to publish the checklist data and associated occurrences to GBIF.  For this exercise, you will take the role of the Project Leader.  Your responsibility: publishing the cleaned checklist data and associated occurrences online through the GBIF network."
-msgstr ""
+msgstr "El HISC ahora está listo para publicar los datos de la lista de especies y los registros biológicos asociados en GBIF. Para este ejercicio, asumirá el papel de Líder del Proyecto. Su responsabilidad: publicar los datos de la lista de especies limpia y los registros biológicos asociados en línea a través de la red GBIF."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:146
 msgid "Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
-msgstr ""
+msgstr "Descargar enlace:../ejercicio-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
 #: use-case-lepidoptera-sampling.en.adoc:157
 #: use-case-birds-from-literature.en.adoc:172
 msgid "Use the previously provided IPT installation to publish the given dataset."
-msgstr ""
+msgstr "Utilice la instalación IPT previamente proporcionada para publicar el conjunto de datos dado."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
 #: use-case-lepidoptera-sampling.en.adoc:157
 #: use-case-birds-from-literature.en.adoc:172
 msgid "Use the exercise sheet to provide your answers and link to the published dataset."
-msgstr ""
+msgstr "Utilice la hoja de ejercicios para proporcionar sus respuestas y enlace al conjunto de datos publicado."
 
 #. type: Title ==
 #: use-case-lepidoptera-sampling.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Lepidoptera sightings"
-msgstr ""
+msgstr "Caso de Uso II - Avistamiento de Lepidópteros"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:16
 #, no-wrap
 msgid "*Sampling of Lepidoptera across Countries*\n"
-msgstr ""
+msgstr "* Muestreo de Lepidópteros en todos los Países *\n"
 
 #. type: Block title
 #: use-case-lepidoptera-sampling.en.adoc:18
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/3039469018[Papilio machaon Linnaeus, 1758] observed in Israel by עומר וינר (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/3039469018[Papilio machaon Linnaeus, 1758] observada en Israel por עומר וינר (licenciada bajo http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:19
 #, no-wrap
 msgid "img/web/use-case-2-Papilio_machaon.jpeg"
-msgstr ""
+msgstr "img/web/use-case-2-Papilio_machaon.jpeg"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:23
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, based on previous work by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé.  It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr ""
+msgstr "Esta narrativa fue desarrollada como base para ejercicios prácticos en el curso de movilización de datos de biodiversidad y el concepto y contenido del ejercicio fue desarrollado por Alberto González-Talaván, basado en trabajos previos de Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond y Nicolas Noé. Es un escenario ficticio y solo tiene fines educativos."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:29
 msgid "The International Butterfly Amateur Network (IBAN) has been providing a framework for national amateur observational groups to capture data about the occurrence of butterflies (Lepidoptera) since 2009.  An extensive network of amateur observers use a standard protocol based on Pollard walks to capture this information on paper sheets that they send to their national office.  Some of these offices digitize this information into spreadsheets, but others do not have the human resources to do this and they send the paper logs to the IBAN for processing.  IBAN produces an annual report based on the sightings provided by these national members, with updated distribution maps and analysis of population trends for some key species."
-msgstr ""
+msgstr "La Red Internacional de Aficionados de Mariposas (IBAN) ha proporcionado un marco para que los grupos nacionales de observación de aficionados capturen datos sobre la aparición de mariposas (Lepidoptera) desde 2009. Una extensa red de observadores aficionados utiliza un protocolo estándar basado en las caminatas de Pollard para capturar esta información en hojas de papel que envían a su oficina nacional. Algunas de estas oficinas digitalizan esta información en hojas de cálculo, pero otras no cuentan con los recursos humanos para hacerlo y envían los registros en papel al IBAN para su procesamiento. IBAN produce un informe anual basado en los avistamientos proporcionados por estos miembros nacionales, con mapas de distribución actualizados y análisis de tendencias poblacionales para algunas especies clave."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:35
 msgid "The IBAN headquarters is mainly staffed with volunteers.  With the increasing popularity of citizen science and the general interest in butterflies as a charismatic group of organisms, more and more data are received every year and the paper data sheets quickly pile up undigitized.  The IBAN steering committee is trying to identify a more efficient and agile workflow for the creation of digital data because they would like to start publishing these data online regularly.  They would also like to start processing digital pictures that their volunteers are already capturing with mobile devices like phones and tablets.  Their ultimate objective is to raise the profile of the network and strengthen collaborations with local and regional governments to influence conservation policies for Lepidoptera in the countries involved."
-msgstr ""
+msgstr "La sede de IBAN está compuesta principalmente por voluntarios. Con la creciente popularidad de la ciencia ciudadana y el interés general en las mariposas como un grupo carismático de organismos, cada año se reciben más y más datos y las hojas de datos en papel se apilan rápidamente sin digitalizar. El comité directivo de IBAN está tratando de identificar un flujo de trabajo más eficiente y ágil para la creación de datos digitales porque les gustaría comenzar a publicar estos datos en línea con regularidad. También les gustaría comenzar a procesar imágenes digitales que sus voluntarios ya están capturando con dispositivos móviles como teléfonos y tabletas. Su objetivo final es dar a conocer la red y fortalecer las colaboraciones con los gobiernos locales y regionales para influir en las políticas de conservación de los lepidópteros en los países involucrados."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:38
 msgid "There is currently no formal agreement between IBAN and the amateurs capturing data, to cover the ways in which the data can be used, for example.  The steering committee has some concerns that when they start publishing the data online, they will have to formalize this arrangement."
-msgstr ""
+msgstr "Actualmente, no existe un acuerdo formal entre IBAN y los aficionados que capturan datos, para cubrir las formas en que se pueden usar los datos, por ejemplo. El comité directivo tiene algunas preocupaciones de que cuando comiencen a publicar los datos en línea, tendrán que formalizar este acuerdo."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:43
 msgid "The recommended protocol —Pollard walks— is based on transects that range between 300 and 600 m in length, divided into 50 m sections.  Each transect should cover a single habitat type."
-msgstr ""
+msgstr "El protocolo recomendado —la caminata de Pollard— se basa en transectas que oscilan entre 300 y 600 m de longitud, divididos en tramos de 50 m. Cada transecta debe cubrir un solo tipo de hábitat."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:46
 msgid "In each visit, transect-walkers have to count all species of Lepidoptera that can be seen within 5 m of the transect line.  Special behaviours (egg laying or nectaring), as well as developmental stage (e.g., larvae or eggs), should be recorded as well."
-msgstr ""
+msgstr "En cada visita, los caminantes de transectas deben contar todas las especies de lepidópteros que se pueden ver dentro de los 5 m de la línea de la transecta. También se deben registrar los comportamientos especiales (puesta de huevos o libación de néctar), así como la etapa de desarrollo (por ejemplo, larvas o huevos)."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:48
 msgid "For most countries, these sampling efforts happen once every two weeks from the beginning of October to the end of June."
-msgstr ""
+msgstr "En la mayoría de los países, estos esfuerzos de muestreo se realizan una vez cada dos semanas desde principios de octubre hasta finales de junio."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:52
 msgid "There are quality control measures in place: every reported record is flagged \"Pending approval\".  Record status is only changed to \"Approved\" after verification by a designated taxonomic expert.  Species spotted out of their regular season or distribution area are flagged for additional verification."
-msgstr ""
+msgstr "Existen medidas de control de calidad: cada registro notificado se marca como \"Pendiente de aprobación\". El estado del registro solo se cambia a \"Aprobado\" después de la verificación por parte de un experto taxonómico designado. Las especies detectadas fuera de su temporada regular o área de distribución se marcan para verificación adicional."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:58
 msgid "Time of day and weather conditions are recorded at the beginning of the transect.  Along the transect, the number of individuals of every species seen is counted.  Un-identified species are counted and recorded either by family or as a predefined complex of two or three similar species.  Butterflies seen outside the 5 meter range are recorded as “Extra+the number of the nearest section” (e.g. 5-extra).  The end time of the transect is also recorded."
-msgstr ""
+msgstr "La hora del día y las condiciones climáticas se registran al comienzo de la transecta. A lo largo de la transecta, se cuenta el número de individuos de cada especie vista. Las especies no identificadas se cuentan y registran por familia o como un complejo predefinido de dos o tres especies similares. Las mariposas que se ven fuera del rango de 5 metros se registran como \"Extra + el número de la sección más cercana\" (por ejemplo, 5-extra). También se registra la hora de finalización de la transecta."
 
 #. type: Title ====
 #: use-case-lepidoptera-sampling.en.adoc:59
@@ -3669,156 +3669,156 @@ msgstr "Ejemplo de captura de datos análoga"
 #: use-case-lepidoptera-sampling.en.adoc:61
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-analogue.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-analogue.png"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:68
 msgid "Some national offices use groups of volunteers to digitize the paper logs and produce digital spreadsheets.  The spreadsheets are very simple and include three datasheets.  One captures the information linked to the sampling efforts, the second the weather conditions and the third the species encountered and the number of individuals observed by the amateur."
-msgstr ""
+msgstr "Algunas oficinas nacionales utilizan grupos de voluntarios para digitalizar los registros en papel y producir hojas de cálculo digitales. Las hojas de cálculo son muy simples e incluyen tres hojas de datos. Una captura la información relacionada con los esfuerzos de muestreo, la segunda las condiciones climáticas y la tercera las especies encontradas y el número de individuos observados por el aficionado."
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:69
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-digital-1.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-analogue.png"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:70
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-digital-2.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-analogue.png"
 
 #. type: Title ===
 #: use-case-lepidoptera-sampling.en.adoc:72
 #, no-wrap
 msgid "Lepidoptera exercise sheet"
-msgstr ""
+msgstr "Hoja de ejercicios Lepidoptera"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "Descargue el enlace:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:82
 msgid "The volume of analogue data (paper logs) arriving at the IBAN headquarters will soon exceed their capacity to digitize, so the steering committee has decided to reconsider the current approach to this area of their work which has grown unmanaged for the last few years.  To date, this is how work has been organized:"
-msgstr ""
+msgstr "El volumen de datos analógicos (registros en papel) que llegan a la sede del IBAN pronto superará su capacidad de digitalización, por lo que el comité directivo ha decidido reconsiderar el enfoque actual de esta área de su trabajo que no ha sido gestionada durante los últimos años. Hasta la fecha, así se ha organizado el trabajo:"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:84
 msgid "The paper logs arrive via post. The secretary opens the packages and collates the logs."
-msgstr ""
+msgstr "Los registros en papel llegan por correo. El secretario abre los paquetes y recopila los registros."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:85
 msgid "There are five volunteers with basic computer skills using two shared computers to digitize the paper logs. These volunteers are also citizen scientists themselves, so they are familiar with the taxonomy of the order Lepidoptera, and with the species occurring in the country where the headquarters of IBAN are located."
-msgstr ""
+msgstr "Hay cinco voluntarios con habilidades informáticas básicas que utilizan dos computadoras compartidas para digitalizar los registros en papel. Estos voluntarios también son científicos ciudadanos, por lo que están familiarizados con la taxonomía del orden Lepidoptera y con las especies que se encuentran en el país donde se encuentra la sede del IBAN."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:86
 msgid "The digitizers come and go whenever they have time so they usually check for computer availability via phone. Sometimes there are time clashes and some have to go home as the two computers are busy, and sometimes the two computers are unused."
-msgstr ""
+msgstr "Los digitalizadores van y vienen siempre que tienen tiempo, por lo que generalmente verifican la disponibilidad de computadoras por teléfono. A veces hay conflictos de tiempo y algunos tienen que irse a casa porque las dos computadoras están ocupadas y, a veces, las dos computadoras no se utilizan."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:87
 msgid "When they digitize, they usually pick one paper log at a time from the pile, and digitize it (if they can). Common problems that occur are that:"
-msgstr ""
+msgstr "Cuando digitalizan, generalmente toman un registro de papel a la vez de la pila y lo digitalizan (si pueden). Los problemas más comunes que ocurren son los siguientes:"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:88
 msgid "the digitizer does not know the species observed (misspellings occur),"
-msgstr ""
+msgstr "el digitalizador no conoce la especie observada (se producen errores ortográficos),"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:89
 msgid "the digitizer does not know the area where the sampling has occurred,"
-msgstr ""
+msgstr "el digitalizador no conoce el área donde se ha realizado el muestreo,"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:90
 msgid "the digitizer cannot read the handwriting or the language in which some of the comments are written."
-msgstr ""
+msgstr "el digitalizador no puede leer la escritura a mano o el idioma en el que están escritos algunos de los comentarios."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:91
 msgid "A single taxonomic expert gets all the digitized tables and produces the report and distribution maps based on them. Normally she needs to discard around 15% of the digitized data because of inconsistencies, misspellings or other errors that she does not have the time to check."
-msgstr ""
+msgstr "Un solo experto taxonómico obtiene todas las tablas digitalizadas y produce el informe y los mapas de distribución basados ​​en ellas. Normalmente, necesita descartar alrededor del 15% de los datos digitalizados debido a inconsistencias, errores ortográficos u otros errores que no tiene tiempo de verificar."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:95
 #, no-wrap
 msgid "*Analyze the financial component of their new digitization plan*\n"
-msgstr ""
+msgstr "*Analizar el componente financiero de su nuevo plan de digitalización*\n"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:99
 msgid "The steering committee is analyzing the following options for their new digitization plan, all of which have financial implications on their already reduced budget.  They know they can only implement TWO of these options, so they need to choose wisely.  Use the exercise sheet to provide a recommendation on which two options they should select and explain why you chose them."
-msgstr ""
+msgstr "El comité directivo está analizando las siguientes opciones para su nuevo plan de digitalización, todas las cuales tienen implicaciones financieras en su presupuesto ya reducido. Saben que solo pueden implementar DOS de estas opciones, por lo que deben elegir sabiamente. Use la hoja de ejercicios para brindar una recomendación sobre las dos opciones que deben seleccionar y explique por qué las eligió."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:101
 msgid "Option 1: Buy three more computers so all digitizers can work simultaneously."
-msgstr ""
+msgstr "Opción 1: Compra tres computadoras más, para que todos los digitalizadores puedan trabajar simultáneamente."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:102
 msgid "Option 2: Offer financial support to the national offices to buy flatbed scanners and send/share the logs electronically instead of by post."
-msgstr ""
+msgstr "Opción 2: Ofrezca apoyo financiero a las oficinas nacionales para comprar escáneres de superficie plana y enviar / compartir los registros electrónicamente en lugar de por correo."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:103
 msgid "Option 3: Offer financial compensation to the digitizers. They will not be able to pay all five of them the equivalent of a regular salary, but could cover the costs of part time positions for three of the volunteers."
-msgstr ""
+msgstr "Opción 3: Ofrecer una compensación económica a los digitalizadores. No podrán pagarles a los cinco el equivalente a un salario regular, pero podrían cubrir los costos de los puestos de tiempo parcial para tres de los voluntarios."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:104
 msgid "Option 4: Purchase existing biodiversity digitization software in English, which comes with taxonomic entry check and in-built aids to correct geographical information."
-msgstr ""
+msgstr "Opción 4: Adquiera el software de digitalización de la biodiversidad existente en inglés, que viene con verificación de entrada taxonómica y ayudas integradas para corregir la información geográfica."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:105
 msgid "Option 5: Contract a software development company to develop customized digitization software. For the same price of the commercial software, the developers will provide a solution in the local language, which will match the original data schema perfectly and will also provide a web data portal to expose the results of the digitization effort."
-msgstr ""
+msgstr "Opción 5: Contratar a una empresa de desarrollo de software para desarrollar software de digitalización personalizado. Por el mismo precio del software comercial, los desarrolladores proporcionarán una solución en el idioma local, que coincidirá perfectamente con el esquema de datos original y también proporcionará un portal de datos web para exponer los resultados del esfuerzo de digitalización."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:106
 msgid "Option 6: Organize a course for the five digitizers to improve their skills in taxonomy, computer use and biodiversity informatics standards."
-msgstr ""
+msgstr "Opción 6: Organizar un curso para que los cinco digitalizadores mejoren sus habilidades en taxonomía, el uso de computadoras y estándares de informática de la biodiversidad."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:114
 msgid "These are the human resources available for this digitization effort.  How would you assign roles to maximize the efficiency of the digitization process and produce data of the highest quality possible? Use the exercise sheet to provide your answers."
-msgstr ""
+msgstr "Estos son los recursos humanos disponibles para este esfuerzo de digitalización. ¿Cómo asignaría roles para maximizar la eficiencia del proceso de digitalización y producir datos de la mejor calidad posible? Utilice la hoja de ejercicios para proporcionar sus respuestas."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:116
 msgid "Administrative assistant. No taxonomic knowledge. Basic computer use. Can read 3 languages."
-msgstr ""
+msgstr "Asistente Administrativo. Sin conocimientos taxonómicos. Uso básico de la computadora. Puede leer 3 idiomas."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:117
 msgid "Volunteer 1. Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "Voluntario 1. Conocimientos taxonómicos básicos. Uso básico de la computadora."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:118
 msgid "Volunteer 2. Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "Voluntario 2. Conocimientos taxonómicos básicos. Uso básico de la computadora."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:119
 msgid "Volunteer 3. Basic taxonomic knowledge. Basic computer use. Can read 3 languages."
-msgstr ""
+msgstr "Voluntario 3. Conocimientos taxonómicos básicos. Uso básico de la computadora. Puede leer 3 idiomas."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:120
 msgid "Volunteer 4. Basic taxonomic knowledge. Basic computer use. Can read 3 languages."
-msgstr ""
+msgstr "Voluntario 4. Conocimientos taxonómicos básicos. Uso básico de la computadora. Puede leer 3 idiomas."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:121
 msgid "Volunteer 5. Basic taxonomic knowledge. Advanced computer use (including GIS and data analysis tools)."
-msgstr ""
+msgstr "Voluntario 5. Conocimientos taxonómicos básicos. Uso avanzado de computadoras (incluidas herramientas de análisis de datos y SIG)."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:122
