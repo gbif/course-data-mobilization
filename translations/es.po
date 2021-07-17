@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 17:16\n"
+"PO-Revision-Date: 2021-07-17 18:51\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -4078,27 +4078,27 @@ msgstr "Identificar las diferentes partes interesadas que participan en este pro
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:101
 msgid "Identify their affiliation and assign each of them to a stakeholder group"
-msgstr ""
+msgstr "Identificar su afiliación y asignar a cada uno de ellos a un grupo de partes interesadas"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:102
 msgid "Identify the roles associated to them and assign the tasks for which they are currently responsible"
-msgstr ""
+msgstr "Identificar los roles asociados a ellos y asignar las tareas de las que son responsables actualmente"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:103
 msgid "Perform a critical analysis of the workflow, identify potential risks and gaps, and suggest ways to improve the workflow, maximize the efficiency of the digitization project and produce data of the highest quality possible."
-msgstr ""
+msgstr "Realice un análisis crítico del flujo de trabajo, identifique riesgos y brechas potenciales, y sugiera formas de mejorar el flujo de trabajo, maximizar la eficiencia del proyecto de digitalización y producir datos de la más alta calidad posible."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:111
 msgid "The scans and character recognition (OCR) of the books have been completed.  Occurrence data must now be extracted from those sources and compiled in a spreadsheet format."
-msgstr ""
+msgstr "Se han completado los escaneos y el reconocimiento de caracteres (OCR) de los libros. Los datos de registros biológicos ahora deben extraerse de esas fuentes y compilarse en un formato de hoja de cálculo."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:113
 msgid "The original data was in German and, to make it more widely usable when published online, the project manager would like to make it available in English."
-msgstr ""
+msgstr "Los datos originales estaban en alemán y, para que sean más utilizables cuando se publiquen en línea, el director del proyecto desea que estén disponibles en inglés."
 
 #. Do not translate this block
 #. The {empty} is to prevent the "2." producing a numbered list.
@@ -4131,17 +4131,17 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:132
 msgid "Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences.  The occurrences will need unique numbers assigned to them."
-msgstr ""
+msgstr "Asuma el rol de un voluntario encargado de transformar el texto traducido en una hoja de cálculo como registros biológicos individuales. Los registros biológicos necesitarán que se les asignen números únicos."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:133
 msgid "Create a spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken."
-msgstr ""
+msgstr "Cree una hoja de cálculo utilizando los campos de datos enumerados en la <<birds-digital-data-description>> utilizando los datos encontrados en el ejemplo anterior registrados por: Chr. P. Lütken."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:136
 msgid "In the examples used, the individual occurrences do not always contain data to complete all of the columns in the spreadsheet."
-msgstr ""
+msgstr "En los ejemplos utilizados, los registros biológicos individuales no siempre contienen datos para completar todas las columnas de la hoja de cálculo."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:143
