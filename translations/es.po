@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 18:51\n"
+"PO-Revision-Date: 2021-07-17 19:51\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -4146,384 +4146,384 @@ msgstr "En los ejemplos utilizados, los registros biológicos individuales no si
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:143
 msgid "Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society.  Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset."
-msgstr ""
+msgstr "Los voluntarios de la Sociedad Ornitológica de Copenhague han recopilado los datos en un formato de hoja de cálculo. Al asumir el rol del curador de ornitología en el departamento de aves, se le ha asignado la responsabilidad de los problemas de calidad de los datos en el conjunto de datos."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:149
 msgid "Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography.  Since all the observations were made in Denmark, continent and country can easily be added.  Additionally, only the scientific name was provided.  Higher taxonomy can be derived utilizing software tools such as OpenRefine.  You are also aware that there are typographic errors that were made by the digitizers."
-msgstr ""
+msgstr "A través de la georreferenciación retrospectiva, se agregaron coordenadas al conjunto de datos junto con la localidad, pero ninguna otra geografía superior. Dado que todas las observaciones se realizaron en Dinamarca, el continente y el país se pueden agregar fácilmente. Además, solo se proporcionó el nombre científico. Se puede obtener una taxonomía más alta utilizando herramientas de software como OpenRefine. También es consciente de que los digitalizadores cometieron errores tipográficos."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
 msgid "Download link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
-msgstr ""
+msgstr "Enlace de descarga:../ejercicio-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
 msgid "Identify and correct any invalid years."
-msgstr ""
+msgstr "Identificar y corregir cualquier año inválido."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:153
 msgid "Verify and correct taxonomy."
-msgstr ""
+msgstr "Verificar y corregir la taxonomía."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:156
 msgid "Verify coordinates are correct for the two given localities.  Correct any that are not.  Coordinates should be in decimal format."
-msgstr ""
+msgstr "Verifique que las coordenadas sean correctas para las dos localidades dadas. Corrija las que no lo sean. Las coordenadas deben estar en formato decimal."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:157
 msgid "Add any data for missing elements that can be derived using the available data"
-msgstr ""
+msgstr "Agregue cualquier dato de los elementos faltantes que puedan derivarse utilizando los datos disponibles"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:158
 msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
-msgstr ""
+msgstr "Recuerde conservar la información original proporcionada y documentar sus cambios y suposiciones como parte de los registros individuales y los metadatos."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:161
 msgid "dataset should contain only years 1883-1939"
-msgstr ""
+msgstr "el conjunto de datos debe contener sólo años entre 1883-1939"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:169
 msgid "For this exercise, you will take the role of the person responsible for publishing the cleaned data online via the GBIF network.  You have been supplied with a multimedia file and an identification history file that should be published along with the observations.  The staff member in charge of data quality has provided cleaned datasets for you to publish."
-msgstr ""
+msgstr "Para este ejercicio, asumirá el rol de la persona responsable de publicar los datos limpios en línea a través de la red GBIF. Se le ha proporcionado un archivo multimedia y un archivo histórico de identificación que debe publicarse junto con las observaciones. El miembro del personal a cargo de la calidad de los datos, le ha proporcionado conjuntos de datos limpios para que los publique."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:171
 msgid "Download link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
-msgstr ""
+msgstr "Enlace de descarga:../ejercicio-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
 
 #. type: Title ==
 #: assignments.en.adoc:1
 #, no-wrap
 msgid "Final assignments"
-msgstr ""
+msgstr "Asignaciones finales"
 
 #. type: Plain text
 #: assignments.en.adoc:5
 msgid "For your final activities, you will complete and submit Use Case II and Use Case III for evaluation."
-msgstr ""
+msgstr "Para sus actividades finales, completará y enviará el Caso de Uso II y el Caso de Uso III para su evaluación."
 
 #. type: Title ===
 #: assignments.en.adoc:6
 #, no-wrap
 msgid "USE CASE II"
-msgstr ""
+msgstr "CASO DE USO II"
 
 #. type: Plain text
 #: assignments.en.adoc:9
 msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
-msgstr ""
+msgstr "Hay dos opciones para el CASO DE USO II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>). Solo necesita seleccionar uno de ellos para su tarea."
 
 #. type: Plain text
 #: assignments.en.adoc:11 assignments.en.adoc:20
 msgid "Required files for submission:"
-msgstr ""
+msgstr "Archivos requeridos para su envío:"
 
 #. type: Plain text
 #: assignments.en.adoc:13 assignments.en.adoc:22
 msgid "completed exercise sheet (MS Word Doc or similar is acceptable)"
-msgstr ""
+msgstr "hoja completa del ejercicio (documento de MS Word o similar es aceptable)"
 
 #. type: Plain text
 #: assignments.en.adoc:14 assignments.en.adoc:23
 msgid "data capture spreadsheet (MS Excel, csv, txt or similar is acceptable)"
-msgstr ""
+msgstr "hoja de cálculo de captura de datos (MS Excel, csv, txt o similar es aceptable)"
 
 #. type: Plain text
 #: assignments.en.adoc:15 assignments.en.adoc:24
 msgid "cleaned/standardized dataset (MS Excel, csv, txt or similar is acceptable)"
-msgstr ""
+msgstr "conjunto de datos limpios / estandarizados (MS Excel, csv, txt o similar es aceptable)"
 
 #. type: Title ===
 #: assignments.en.adoc:16
 #, no-wrap
 msgid "USE CASE III"
-msgstr ""
+msgstr "CASO DE USO III"
 
 #. type: Plain text
 #: assignments.en.adoc:18
 msgid "There is only one option for USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
-msgstr ""
+msgstr "Solo hay una opción para el CASO DE USO III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
 
 #. type: Plain text
 #: assignments.en.adoc:26
 msgid "Include the use case and exercise number along with your name on all files submitted. For example, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted in English*. Contact training@gbif.org if you have any questions."
-msgstr ""
+msgstr "Incluya el caso de uso y el número de ejercicio junto con su nombre en todos los archivos enviados. Por ejemplo, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *Todos los archivos deben enviarse en inglés*. Póngase en contacto con training@gbif.org si tiene alguna pregunta."
 
 #. type: Title ===
 #: assignments.en.adoc:27
 #, no-wrap
 msgid "Assignment submission"
-msgstr ""
+msgstr "Envío de la Tarea"
 
 #. type: Plain text
 #: assignments.en.adoc:31
 msgid "Assignments can be submitted from the online (HTML) version of the course."
-msgstr ""
+msgstr "Las tareas pueden enviarse desde la versión en línea (HTML) del curso."
 
 #. type: Plain text
 #: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
-msgstr ""
+msgstr "Por favor, envíe sus archivos de tareas mediante el formulario a continuación. Si no ve un formulario, también puede visitar el https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site ^] en una nueva ventana."
 
 #. type: delimited block +
 #: assignments.en.adoc:38
 #, no-wrap
 msgid "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
-msgstr ""
+msgstr "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
 
 #. type: Title ==
 #: course-evaluation.en.adoc:1
 #, no-wrap
 msgid "Course evaluation"
-msgstr ""
+msgstr "Evaluación del curso"
 
 #. type: Plain text
 #: course-evaluation.en.adoc:5
 msgid "Complete the course evaluation"
-msgstr ""
+msgstr "Completa la evaluación del curso"
 
 #. type: Title ==
 #: keydocs.en.adoc:1
 #, no-wrap
 msgid "Key documentation"
-msgstr ""
+msgstr "Documentación clave"
 
 #. type: Plain text
 #: keydocs.en.adoc:6
 msgid "The following references provide further detail on the topics covered in this course.  All links open in a new window/tab."
-msgstr ""
+msgstr "Las siguientes referencias proporcionan más detalles sobre los temas cubiertos en este curso. Todos los enlaces se abren en una nueva ventana / pestaña."
 
 #. type: Title ===
 #: keydocs.en.adoc:7
 #, no-wrap
 msgid "Darwin Core"
-msgstr ""
+msgstr "Darwin Core"
 
 #. type: Plain text
 #: keydocs.en.adoc:10
 msgid "http://rs.tdwg.org/dwc/terms/[Darwin Core Terms: A quick reference guide^]"
-msgstr ""
+msgstr "http://rs.tdwg.org/dwc/terms/[Darwin Core Terms: A quick reference guide^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:11
 msgid "https://dwc.tdwg.org/simple/[Simple DarwinCore^]"
-msgstr ""
+msgstr "https://dwc.tdwg.org/simple/[Simple DarwinCore^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:12
 msgid "https://github.com/tdwg/dwc-qa[Darwin Core Questions & Answers^]"
-msgstr ""
+msgstr "https://github.com/tdwg/dwc-qa[Darwin Core Questions & Answers^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:13
 msgid "https://tools.gbif.org/dwca-validator/extensions.do[Darwin Core extensions registered with GBIF^]"
-msgstr ""
+msgstr "https://tools.gbif.org/dwca-validator/extensions.do[Darwin Core extensions registered with GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:17
 msgid "https://www.gbif.org/publishing-data[Quick guide to publishing data through GBIF^]"
-msgstr ""
+msgstr "https://www.gbif.org/es/publishing-data[Guía rápida para publicar datos a través de GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:18
 msgid "https://github.com/gbif/ipt/wiki/howToPublish[How to publish biodiversity data through GBIF.org^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/howToPublish[How to publish biodiversity data through GBIF.org^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:19
 msgid "https://www.gbif.org/become-a-publisher[Become a data publisher with GBIF^]"
-msgstr ""
+msgstr "https://www.gbif.org/es/become-a-publisher[Conviértete en un publicador de datos con GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:21
 msgid "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^] + GBIF Secretariat & IAIA: International Association for Impact Assessment (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^] + GBIF Secretariat & IAIA: Ie IAIA: Asociación Internacional para la Evaluación de Impacto (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:23
 msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
-msgstr ""
+msgstr "https://doi.org/10. 5035/doc-b8hq-me03[Guía para que las empresas privadas se conviertan en publicadores de datos a través de GBIF: Documento de plantilla para apoyar el proceso interno de autorización para convertirse en un publicador de GBIF^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:26
 msgid "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] + *COMMUNITY REVIEW DRAFT* + Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] + *COMMUNITY REVIEW DRAFT* + Anders F.Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen y Dmitry Schigel (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:27
 msgid "https://www.gbif.org/dataset-classes[Classes of datasets supported by GBIF^]"
-msgstr ""
+msgstr "https://www.gbif.org/es/dataset-classes[Tipos de conjuntos de datos soportados por GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:28
 msgid "https://www.gbif.org/data-quality-requirements[GBIF data quality requirements for publishing^]"
-msgstr ""
+msgstr "https://www.gbif.org/data-quality-requirements[GBIF data quality requirements for publishing^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:29
 msgid "https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[GBIF data licenses^]"
-msgstr ""
+msgstr "https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[GBIF data licenses^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:30
 msgid "https://github.com/gbif/ipt/wiki/checklistData#templates[Checklist core templates^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/checklistData#templates[Checklist core templates^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:31
 msgid "https://github.com/gbif/ipt/wiki/occurrenceData#templates[Occurrence core templates^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/occurrenceData#templates[Ocurrence core templates^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:32
 msgid "https://github.com/gbif/ipt/wiki/samplingEventData#templates[Sampling event core templates^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/samplingEventData#templates[Sampling event core templates^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:33
 msgid "https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData[Sampling event data best practices^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData[Sampling event data best practices^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:34
 msgid "https://data-blog.gbif.org/post/gbif-multimedia/[Sharing images, sounds and videos on GBIF^]"
-msgstr ""
+msgstr "https://data-blog.gbif.org/post/gbif-multimedia/[Compartiendo imágenes, sonidos y videos en GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:35
 msgid "https://www.gbif.org/data-papers[Data papers^]"
-msgstr ""
+msgstr "https://www.gbif.org/es/data-papers[Artículos de datos^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:36
 msgid "https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED[Published data papers^]"
-msgstr ""
+msgstr "https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED[Artículos de datos publicados^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:37
 #, no-wrap
 msgid "Data publishing: IPT"
-msgstr ""
+msgstr "Publicación de datos: IPT"
 
 #. type: Plain text
 #: keydocs.en.adoc:41
 msgid "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^] + Robertson et al. (2014)"
-msgstr ""
+msgstr "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^] + Robertson et al. (2014)"
 
 #. type: Plain text
 #: keydocs.en.adoc:42
 msgid "https://github.com/gbif/ipt/wiki/PublisherProfiles[To install IPT or not to install IPT^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/PublisherProfiles[To install IPT or not to install IPT^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:43
 msgid "https://github.com/gbif/ipt/wiki/dataHostingCentres[IPT data hosting centres^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/dataHostingCentres[IPT data hosting centres^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:44
 msgid "http://idigbio.adobeconnect.com/p4dfquy4bsf/[IPT Install / Set up webinar^]"
-msgstr ""
+msgstr "http://idigbio.adobeconnect.com/p4dfquy4bsf/[IPT Install / Set up webinar^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:45
 msgid "https://vimeo.com/116142276[Installing the IPT video^]"
-msgstr ""
+msgstr "https://vimeo.com/116142276[Installing the IPT video^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:46
 msgid "https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]"
-msgstr ""
+msgstr "https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:47
 #, no-wrap
 msgid "Digitization"
-msgstr ""
+msgstr "Digitalización"
 
 #. type: Plain text
 #: keydocs.en.adoc:50
 msgid "https://www.idigbio.org/wiki/index.php/Digitization_Resources[iDigBio Digitization Resources^]"
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/index.php/Digitization_Resources[iDigBio Digitization Resources^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:51
 msgid "https://www.idigbio.org/wiki/index.php/Collections_Digitization_Workflows[iDigBio Collections Digitization Workflows^]"
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/index.php/Collections_Digitization_Workflows[iDigBio Collections Digitization Workflows^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:52
 msgid "https://www.idigbio.org/wiki/index.php/Digitization_Workflows_and_Protocols[iDigBio Digitization Workflows and Protocols^]"
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/index.php/Digitization_Workflows_and_Protocols[iDigBio Digitization Workflows and Protocols^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:53
 msgid "https://www.idigbio.org/wiki/index.php/Specimen_Image_Capture[iDigBio specimen image capture guide^]"
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/index.php/Specimen_Image_Capture[iDigBio specimen image capture guide^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:54
 msgid "http://www.canadensys.net/publication/multimedia-publication-guide[Canadensys 10-step guide to managing images with your biodiversity data^]"
-msgstr ""
+msgstr "http://www.canadensys.net/publication/multimedia-publication-guide[Canadensys 10-step guide to managing images with your biodiversity data^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:55
 #, no-wrap
 msgid "GBIF"
-msgstr ""
+msgstr "GBIF"
 
 #. type: Plain text
 #: keydocs.en.adoc:58
 msgid "https://www.gbif.org/what-is-gbif[What is GBIF^]"
-msgstr ""
+msgstr "https://www.gbif.org/es/what-is-gbif[Qué es GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:59
 msgid "https://www.gbif.org/strategic-plan[Strategic Plan^]"
-msgstr ""
+msgstr "https://www.gbif.org/es/strategic-plan[Plan estratégico^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:60
 msgid "https://www.gbif.org/become-member[Become a member^]"
-msgstr ""
+msgstr "https://www.gbif.org/es/become-member[Hágase miembro^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:61
 msgid "https://www.gbif.org/science-review[Science Review^]"
-msgstr ""
+msgstr "https://www.gbif.org/science-review[Science Review^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:63
 msgid "https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^] + GBIF Secretariat (2019)."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-z79c-sa53[Establecimiento de un nodo participante de GBIF efectivo: conceptos y consideraciones generales^] + Secretariado de GBIF (2019)."
 
 #. type: Title ===
 #: keydocs.en.adoc:64
 #, no-wrap
 msgid "Georeferencing"
-msgstr ""
+msgstr "Georreferenciación"
 
 #. type: Plain text
 #: keydocs.en.adoc:68
 msgid "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] + Arthur D. Chapman & John R. Wieczorek (2020)."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] + Arthur D. Chapman & John R. Wieczorek (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:70
 msgid "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:72
 msgid "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:73
