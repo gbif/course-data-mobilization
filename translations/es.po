@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-17 23:46\n"
+"PO-Revision-Date: 2021-07-18 00:49\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -5691,389 +5691,389 @@ msgstr "una herramienta que te ayuda a publicar tus datos en GBIF"
 #. type: Plain text
 #: solutions.en.adoc:260
 msgid "a tool that helps you produce a Data paper"
-msgstr ""
+msgstr "una herramienta que te ayuda a producir un Documento de Datos"
 
 #. type: Plain text
 #: solutions.en.adoc:263
 msgid "The IPT (Integrated Publishing Toolkit) is a Java-coded software that allows you to upload and publish data to GBIF.  It is not to be used as a data management or data cleaning tool."
-msgstr ""
+msgstr "El IPT (Integrated Publishing Toolkit) es un software codificado en Java que le permite cargar y publicar datos en GBIF. No se debe utilizar como herramienta de gestión o limpieza de datos."
 
 #. type: Plain text
 #: solutions.en.adoc:265
 msgid "The IPT can also help you with the process of writing and submitting a data paper, thanks to the EML file it generates automatically when you fill in the metadata for your data resource."
-msgstr ""
+msgstr "El IPT también puede ayudarle en el proceso de escribir y enviar un documento de datos, gracias al archivo EML que se genera automáticamente cuando se rellenan los metadatos del recurso de datos."
 
 #. type: Plain text
 #: solutions.en.adoc:267
 #, no-wrap
 msgid "*Which Creative Commons licences and waivers are recommended by GBIF for data publication?*\n"
-msgstr ""
+msgstr "*¿Qué licencias y exenciones de Creative Commons son recomendadas por GBIF para publicación de datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:269
 msgid "CC0, CC-BY and CC-BY-NC"
-msgstr ""
+msgstr "C0, CC-BY y CC-BY-NC"
 
 #. type: Plain text
 #: solutions.en.adoc:272
 msgid "The Creative Commons licences and waivers recommended to publish your dataset(s) to GBIF are CC0, CC-BY and CC-BY-NC.  They are widely recognized licenses and/or waivers that align with international open-data requirements for data sharing and re-use."
-msgstr ""
+msgstr "Las licencias de Creative Commons y exenciones recomendadas para publicar su(s) conjuntos de datos en GBIF son CC0, CC-BY y CC-BY-NC. Son licencias y/o exenciones ampliamente reconocidas que se ajustan a los requisitos internacionales de datos abiertos para compartir y reutilizar datos."
 
 #. type: Plain text
 #: solutions.en.adoc:274
 msgid "Please note that you should only choose CC0 or CC-BY waiver/license for your BID-related dataset(s)."
-msgstr ""
+msgstr "Tenga en cuenta que sólo debe elegir CC0 o CC-BY licencia/exención para su(s) conjunto(s) de dato(s) relacionados con BID."
 
 #. type: Plain text
 #: solutions.en.adoc:276
 #, no-wrap
 msgid "*What are the three Cores from which you can choose for an IPT resource?*\n"
-msgstr ""
+msgstr "*¿Cuáles son los tres Cores entre los que puedes elegir un recurso IPT?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:278
 msgid "Occurrence Core, Taxon Core, Event Core"
-msgstr ""
+msgstr "Occurrence Core, Taxon Core, Event Core"
 
 #. type: Plain text
 #: solutions.en.adoc:280
 msgid "You can choose one of the three following Cores for each of your IPT resources: Occurrence, Taxon or Event Core."
-msgstr ""
+msgstr "Puedes elegir uno de los tres núcleos siguientes para cada uno de tus recursos IPT: registro biológico, taxón o eventos."
 
 #. type: Plain text
 #: solutions.en.adoc:282
 msgid "The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact."
-msgstr ""
+msgstr "El estándar de Darwin Core también te permite enlazar extensiones a tu núcleo elegido, como SimpleMultimedia o MeasurementOrFact."
 
 #. type: Plain text
 #: solutions.en.adoc:284
 msgid "The metadata are filled in a separate section of the IPT and are shared using the EML standard, not the Darwin Core (which is used for data only)."
-msgstr ""
+msgstr "Los metadatos se completan en una sección separada del IPT y se comparten utilizando el estándar EML, no el Darwin Core (que se utiliza sólo para datos)."
 
 #. type: Plain text
 #: solutions.en.adoc:286
 #, no-wrap
 msgid "*How many Extensions files can a dataset have?*\n"
-msgstr ""
+msgstr "*¿Cuántos archivos de extensiones puede tener un conjunto de datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:288
 msgid "as many as needed"
-msgstr ""
+msgstr "tantos como sea necesario"
 
 #. type: Plain text
 #: solutions.en.adoc:291
 msgid "Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it.  You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it."
-msgstr ""
+msgstr "Una vez que hayas elegido un núcleo para tu recurso IPT, puedes añadirle extensiones de Darwin Core. Puedes añadir una o varias extensiones, dependiendo del tipo de núcleo que elijas, y qué extensiones son compatibles con ella."
 
 #. type: Plain text
 #: solutions.en.adoc:293
 msgid "Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core."
-msgstr ""
+msgstr "Las extensiones no son obligatorias (puedes publicar un conjunto de datos sin ninguna extensión) pero pueden ser útiles si quieres compartir información adicional que no podrías mapear con el Core elegido."
 
 #. type: Title ===
 #: solutions.en.adoc:294
 #, no-wrap
 msgid "Use Case I suggested solution"
-msgstr ""
+msgstr "Solución sugerida del Caso de Uso I"
 
 #. type: Plain text
 #: solutions.en.adoc:296
 msgid "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested solution^,opts=download] (PDF 144 KB)"
-msgstr ""
+msgstr "link:../course-docs/UC1-Herbarium-Suggested-Solution_ES.pdf[solución sugerida^,opts=download] (PDF 144 KB)"
 
 #. type: Title ==
 #: acknowledgements.en.adoc:2
 #, no-wrap
 msgid "Acknowledgements "
-msgstr ""
+msgstr "Agradecimientos "
 
 #. type: Title ===
 #: acknowledgements.en.adoc:4
 #, no-wrap
 msgid "Course design and instruction"
-msgstr ""
+msgstr "Diseño del curso e instrucción"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:8
 msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
-msgstr ""
+msgstr "El éxito de este curso depende en gran medida del apoyo brindado a los participantes de la red de mentores de mejora de capacidad de GBIF. Visite la página de GBIF en https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[tutoría de mejora de la capacidad^] para leer más sobre estas personas y sus contribuciones."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:10
 msgid "The following individuals are recognized for their significant contributions to the course design, materials and instruction:"
-msgstr ""
+msgstr "Los siguientes individuos son reconocidos por sus contribuciones significativas al diseño, materiales e instrucción del curso:"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:12
 msgid "Nestor Beltran*"
-msgstr ""
+msgstr "Néstor Beltrán*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:13
 msgid "David Bloom"
-msgstr ""
+msgstr "David Bloom"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:14
 msgid "Katia Cezón*"
-msgstr ""
+msgstr "Katia Cezón*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:15
 msgid "Dag Endresen"
-msgstr ""
+msgstr "Dag Endresen"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:16
 msgid "Alberto González-Talaván*"
-msgstr ""
+msgstr "Alberto González-Talaván*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:17
 msgid "Sharon Grant*"
-msgstr ""
+msgstr "Sharon Grant*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:18
 msgid "Marie-Elise Lecoq"
-msgstr ""
+msgstr "Marie-Elise Lecoq"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:19
 msgid "Sophie Pamerlon*"
-msgstr ""
+msgstr "Sophie Pamerlon*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:20
 msgid "Nicolas Noé*"
-msgstr ""
+msgstr "Nicolas Noé*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:21
 msgid "Mélianie Raymond*"
-msgstr ""
+msgstr "Mélianie Raymond*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:22
 msgid "Laura Anne Russell*"
-msgstr ""
+msgstr "Laura Anne Russell*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:23
 msgid "John Wieczorek"
-msgstr ""
+msgstr "John Wieczorek"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:24 acknowledgements.en.adoc:52
 msgid "Paula Zermoglio"
-msgstr ""
+msgstr "Paula Zermoglio"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:26
 #, no-wrap
 msgid "*Originators of the curriculum\n"
-msgstr ""
+msgstr "* Creadores del plan de estudios\n"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:28
 msgid "Special acknowledgement to Arthur Chapman for the reuse of his materials on Data Quality."
-msgstr ""
+msgstr "Reconocimiento especial a Arthur Chapman por la reutilización de sus materiales sobre Calidad de Datos."
 
 #. type: Title ===
 #: acknowledgements.en.adoc:29
 #, no-wrap
 msgid "Translators"
-msgstr ""
+msgstr "Traductores"
 
 #. type: Title ====
 #: acknowledgements.en.adoc:31
 #, no-wrap
 msgid "French"
-msgstr ""
+msgstr "Francés"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:33
 msgid "Maxime Coupremanne"
-msgstr ""
+msgstr "Maxime Coupremanne"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:34
 msgid "Jaures Gbètoho"
-msgstr ""
+msgstr "Jaures Gbètoho"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:35
 msgid "Marie Grosjean"
-msgstr ""
+msgstr "Marie Grosjean"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:36
 msgid "Patricia Mergen"
-msgstr ""
+msgstr "Patricia Mergen"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:37
 msgid "Sophie PAMERLON"
-msgstr ""
+msgstr "Sophie Parmelon"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:38
 msgid "Andry Jean Marc Rakotomanjaka"
-msgstr ""
+msgstr "Andry Jean Marc Rakotomanjaka"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:39
 msgid "Y. Sabastian Wirsiy"
-msgstr ""
+msgstr "Y. Sabastian Wirsiy"
 
 #. type: Title ====
 #: acknowledgements.en.adoc:40
 #, no-wrap
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugués"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:42
 msgid "Rui Figueira"
-msgstr ""
+msgstr "Rui Figueira"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:43
 msgid "Clara Baringo Fonseca"
-msgstr ""
+msgstr "Clara Baringo Fonseca"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:44
 msgid "Keila Elizabeth Macfadem Juarez"
-msgstr ""
+msgstr "Keila Elizabeth Macfadem Juarez"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:45
 msgid "Tainan Messina"
-msgstr ""
+msgstr "Tainan Messina"
 
 #. type: Title ====
 #: acknowledgements.en.adoc:46
 #, no-wrap
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:48
 msgid "Victor Chocho"
-msgstr ""
+msgstr "Victor Chocho"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:49
 msgid "Anabela Plos"
-msgstr ""
+msgstr "Anabela Plos"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:50
 msgid "Miguel Vega Ruiz"
-msgstr ""
+msgstr "Miguel Vega Ruiz"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:51
 msgid "Cristina Villaverde"
-msgstr ""
+msgstr "Cristina Villaverde"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:53
 #, no-wrap
 msgid "Resources"
-msgstr ""
+msgstr "Recursos"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:56
 msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
-msgstr ""
+msgstr "La plataforma de mesa en línea es proporcionada por https://playingcards.io/[PlayingCards.io^]. Muchas gracias y nuestro agradecimiento a Jwalant Patel y Eric Ma por encontrar y ayudar a crear las mesas de juego en línea y a Kate Webbink por su experiencia artística."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:57
 msgid "Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]"
-msgstr ""
+msgstr "Los iconos usados en este curso son hechos por Freepik desde https://www.flaticon.com/[www.flaticon.com^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:58
 msgid "https://openrefine.org/[OpenRefine^]"
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:59
 msgid "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
-msgstr ""
+msgstr "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:60
 #, no-wrap
 msgid "Resource support"
-msgstr ""
+msgstr "Apoyo de recursos"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:63
 msgid "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
-msgstr ""
+msgstr "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:64
 msgid "http://www.gbif.fr/[GBIF France^]"
-msgstr ""
+msgstr "http://www.gbif.fr/[GBIF France^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:65
 msgid "https://www.gbif.es/[GBIF Spain^]"
-msgstr ""
+msgstr "https://www.gbif.es/[GBIF España^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:66
 msgid "https://sibcolombia.net/[SiB Colombia^]"
-msgstr ""
+msgstr "https://sibcolombia.net/[SiB Colombia^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:67
 msgid "https://www.fieldmuseum.org/[The Field Museum^]"
-msgstr ""
+msgstr "https://www.fieldmuseum.org/[The Field Museum^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:67
 msgid "http://vertnet.org/[VertNet^]"
-msgstr ""
+msgstr "http://vertnet.org/[VertNet^]"
 
 #. type: Title ==
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colofón"
 
 #. type: Title ===
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Cita sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:6
 msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
-msgstr ""
+msgstr "Curso de Movilización de Datos de Biodiversidad GBIF (2021) GBIF. 12ª edición. Secretariado de GBIF:. https://doi.org/10.35035/ce-c6cr-6w42. [Fecha de curso.]"
 
 #. type: Title ===
 #: colophon.en.adoc:7
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Colaboradores"
 
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
-msgstr ""
+msgstr "El _Curso de Movilización de Datos sobre Biodiversidad de GBIF_ se desarrolló originalmente como parte de https://www.gbif.org/bid[Información de Biodiversidad para el Desarrollo^], un programa financiado por https://europa.eu [Unión Europea^]. El plan de estudios original fue creado por Néstor Beltrán, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell y Katia Cezón, con contribuciones adicionales de entrenadores, mentores y estudiantes de GBIF."
 
 #. type: Title ===
 #: colophon.en.adoc:11
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licencia"
 
 #. type: Plain text
 #: colophon.en.adoc:14
@@ -6084,23 +6084,23 @@ msgstr "_Curso de Movilización de Datos sobre Biodiversidad de GBIF_ está lice
 #: colophon.en.adoc:15
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI persistente"
 
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://doi.org/10.35035/ce-c6cr-6w42"
-msgstr ""
+msgstr "https://doi.org/10.35035/ce-c6cr-6w42"
 
 #. type: Title ===
 #: colophon.en.adoc:19
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Control de documentos"
 
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "12th edition, May 2021"
-msgstr ""
+msgstr "12ª edición, mayo 2021"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:2 scripts/data-management.en.txt:2
@@ -6111,13 +6111,13 @@ msgstr ""
 #: scripts/structures.en.txt:2
 #, no-wrap
 msgid "// Slide 1\n"
-msgstr ""
+msgstr "// Diapositiva 1\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:4
 #, no-wrap
 msgid "This presentation is based on “Principles for data quality” by Arthur Chapman\n"
-msgstr ""
+msgstr "Esta presentación se basa en \"Principios para la calidad de los datos\" de Arthur Chapman\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:6 scripts/data-management.en.txt:6
@@ -6128,13 +6128,13 @@ msgstr ""
 #: scripts/structures.en.txt:7
 #, no-wrap
 msgid "// Slide 2\n"
-msgstr ""
+msgstr "// Diapositiva 2\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:8
 #, no-wrap
 msgid "During this presentation, we will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.\n"
-msgstr ""
+msgstr "Durante esta presentación, exploraremos los principios de calidad de datos aplicados a la captura de datos, específicamente al capturar datos de etiquetas de colecciones, cuadernos de campo, hojas de cálculo, etc.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:10 scripts/data-management.en.txt:11
@@ -6145,7 +6145,7 @@ msgstr ""
 #: scripts/structures.en.txt:12
 #, no-wrap
 msgid "// Slide 3\n"
-msgstr ""
+msgstr "// Diapositiva 3\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:15
@@ -6154,13 +6154,16 @@ msgid "Data quality is essential at every step of the data mobilization process,
 "Each person involved in the data capture has a share of responsibility regarding the data quality, but most decisions on this topic quality have to be taken at the institutional level.\n"
 "The keywords here are: planning and documentation! \n"
 "As mentioned in the Foundations documentation presentation, use existing standards and plan your workflows to match your goals; document everything you can, at every step, and share or re-use documents, data, tools and standards as much as possible.\n"
-msgstr ""
+msgstr "La calidad de los datos es esencial en cada paso del proceso de movilización de datos, especialmente en los pasos de captura de datos.\n"
+"Cada persona involucrada en la captura de datos tiene una parte de responsabilidad con respecto a la calidad de los datos, pero la mayoría de las decisiones sobre la calidad de datos deben tomarse a nivel institucional.\n"
+"Las palabras clave aquí son: planificación y documentación.\n"
+"Como se mencionó en la presentación de la documentación de Fundamentos, use los estándares existentes y planifique sus flujos de trabajo para que coincidan con sus objetivos; documente todo lo que pueda, en cada paso, y comparta o reutilice documentos, datos, herramientas y estándares tanto como sea posible.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:17
 #, no-wrap
 msgid "// Slide 4 \n"
-msgstr ""
+msgstr "// Diapositiva 4\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:23
@@ -6170,7 +6173,11 @@ msgid "This is an example of a data quality workflow.\n"
 "Data quality isn’t the sole responsibility of the first person in the process (here, the collector) -- it is shared at every step and every person in the process should have a responsibility for quality.\n"
 "A functioning feedback loop needs to be in place in order to check, complete, update or correct data.\n"
 "This is where documentation is essential: you need to know who was responsible for each step in the process in order to validate changes that have been made to the data (or need to be made to the data).\n"
-msgstr ""
+msgstr "Este es un ejemplo de un flujo de trabajo de calidad de datos.\n"
+"En este flujo de trabajo, comienza con la colecta de especímenes, pasa a la captura de datos, luego al control de calidad, la publicación y finalmente el uso.\n"
+"La calidad de los datos no es responsabilidad exclusiva de la primera persona en el proceso (en este caso, el colector); se comparte en cada paso y cada persona en el proceso debe tener la responsabilidad de la calidad.\n"
+"Es necesario que exista un circuito de retroalimentación funcional para verificar, completar, actualizar o corregir los datos.\n"
+"Aquí es donde la documentación es esencial: necesita saber quién fue el responsable de cada paso del proceso para validar los cambios que se han realizado en los datos (o que deben realizarse en los datos).\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:25 scripts/data-management.en.txt:35
@@ -6180,7 +6187,7 @@ msgstr ""
 #: scripts/standards.en.txt:53 scripts/structures.en.txt:20
 #, no-wrap
 msgid "// Slide 5\n"
-msgstr ""
+msgstr "// Diapositiva 5\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:29
@@ -6188,7 +6195,9 @@ msgstr ""
 msgid "In this simplified view of the data flow, you can see some of the data quality responsibilities of each group of people involved.\n"
 "In this example, the team in charge of the mobilization can be split into the ‘transcribers’ and ‘curator’ roles.\n"
 "The transcribers team needs to ensure data is captured and saved as best as possible, while the ‘curator’ role has the ultimate responsibility for ensuring that each team is fulfilling their roles in the process.\n"
-msgstr ""
+msgstr "En esta vista simplificada del flujo de datos, puede ver algunas de las responsabilidades de calidad de los datos de cada grupo de personas involucradas.\n"
+"En este ejemplo, el equipo a cargo de la movilización se puede dividir en los roles de \"transcriptores\" y \"curador\".\n"
+"El equipo de transcriptores debe asegurarse de que los datos se capturen y guarden de la mejor manera posible, mientras que el rol de \"curador\" tiene la responsabilidad final de garantizar que cada equipo cumpla con sus roles en el proceso.\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:31 scripts/data-management.en.txt:41
@@ -6199,7 +6208,7 @@ msgstr ""
 #: scripts/structures.en.txt:28
 #, no-wrap
 msgid "// Slide 6\n"
-msgstr ""
+msgstr "// Diapositiva 6\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:36
@@ -6214,7 +6223,7 @@ msgstr ""
 #: scripts/data-capture.en.txt:38
 #, no-wrap
 msgid "// Slide 7 \n"
-msgstr ""
+msgstr "// Diapositiva 7\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:42
@@ -6231,7 +6240,7 @@ msgstr ""
 #: scripts/software.en.txt:50 scripts/structures.en.txt:47
 #, no-wrap
 msgid "// Slide 8\n"
-msgstr ""
+msgstr "// Diapositiva 8\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:47
@@ -6248,7 +6257,7 @@ msgstr ""
 #: scripts/standards.en.txt:132 scripts/structures.en.txt:54
 #, no-wrap
 msgid "// Slide 9\n"
-msgstr ""
+msgstr "// Diapositiva 9\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:54
@@ -6278,7 +6287,7 @@ msgstr ""
 #: scripts/standards.en.txt:178 scripts/structures.en.txt:73
 #, no-wrap
 msgid "// Slide 11\n"
-msgstr ""
+msgstr "// Diapositiva 11\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:65
@@ -6294,7 +6303,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:109 scripts/structures.en.txt:80
 #, no-wrap
 msgid "// Slide 12\n"
-msgstr ""
+msgstr "// Diapositiva 12\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:70
@@ -6310,7 +6319,7 @@ msgstr ""
 #: scripts/standards.en.txt:205 scripts/structures.en.txt:84
 #, no-wrap
 msgid "// Slide 13\n"
-msgstr ""
+msgstr "// Diapositiva 13\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:76
@@ -6327,7 +6336,7 @@ msgstr ""
 #: scripts/structures.en.txt:89
 #, no-wrap
 msgid "// Slide 14\n"
-msgstr ""
+msgstr "// Diapositiva 14\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:81
@@ -6352,7 +6361,7 @@ msgstr ""
 #: scripts/structures.en.txt:100
 #, no-wrap
 msgid "// Slide 16\n"
-msgstr ""
+msgstr "// Diapositiva 16\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:90
