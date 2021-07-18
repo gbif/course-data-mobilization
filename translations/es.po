@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-18 04:51\n"
+"PO-Revision-Date: 2021-07-18 22:31\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -7416,19 +7416,19 @@ msgstr "Listas de especies, y más generalmente, los conjuntos de datos taxonóm
 #: scripts/data-types.en.txt:21
 #, no-wrap
 msgid "a list of species present in a protected area is a checklist.\n"
-msgstr ""
+msgstr "un listado de las especies presentes en un área protegida es una lista de especies.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:23
 #, no-wrap
 msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
-msgstr ""
+msgstr "un listado nacional o temática de taxones (p. ej. Mariposas de Laos, o la flora de Malaya), que a veces proporcionan más información sobre la distribución, jerarquía taxonómica y sinónimos de los taxones son una lista de especies.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:25
 #, no-wrap
 msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
-msgstr ""
+msgstr "Listas rojas de la UICN (ya sea a nivel internacional, nacional o regional) también son listas de especies y pueden proporcionar más información sobre el estado de vulnerabilidad de los taxones listados\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:31
@@ -7436,7 +7436,9 @@ msgstr ""
 msgid "GBIF provides data publishers with templates for each class of dataset.\n"
 "The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
 "In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
-msgstr ""
+msgstr "GBIF proporciona a los publicadores de datos plantillas para cada clase de conjunto de datos.\n"
+"La plantilla GBIF para listas de especies (datos de taxón) le permite compartir información vinculada a cada especie o taxón: su ID, nombre completo y autoría, relación con otros taxones, detalles geográficos, etc.\n"
+"En esta plantilla, una línea representa un taxón y un taxón solo puede aparecer una vez en el conjunto de datos (de lo contrario, se creará un duplicado).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:36
