@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-18 03:48\n"
+"PO-Revision-Date: 2021-07-18 04:51\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -7192,19 +7192,19 @@ msgstr "Veamos otro ejemplo.\n"
 #: scripts/data-quality.en.txt:158
 #, no-wrap
 msgid "We must ask ourselves:\n"
-msgstr ""
+msgstr "Debemos preguntarnos:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:160
 #, no-wrap
 msgid "Is 49007 the right postal code for Kalamazoo?\n"
-msgstr ""
+msgstr "¿Es 49007 el código postal correcto para Kalamazoo?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:162
 #, no-wrap
 msgid "Did Richard Spruce collect in Michigan?\n"
-msgstr ""
+msgstr "¿Coleccionó Richard Spruce en Michigan?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:164
@@ -7216,7 +7216,7 @@ msgstr "// DIAPOSITIVA 18\n"
 #: scripts/data-quality.en.txt:166
 #, no-wrap
 msgid "In this case, the answer is yes to our first question, 49007 is a postal code for Kalamazoo, so the accuracy of the locality is good, but what about the collector, Richard Spruce?\n"
-msgstr ""
+msgstr "En este caso, la respuesta es sí a nuestra primera pregunta, 49007 es un código postal para Kalamazoo, por lo que la precisión de la localidad es buena, pero ¿qué pasa con el coleccionista, Richard Spruce?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:168
@@ -7230,7 +7230,9 @@ msgstr "// DIAPOSITIVA 19\n"
 msgid "There is, in fact, a famous botanist named Richard Spruce.\n"
 "He was born in 1817 and died in 1893, but he conducted his collecting in the Amazon Basin and Andes mountains in South America.\n"
 "Something is not quite right, so we need to find out more about the collector before we can be confident in the correctness of these data.\n"
-msgstr ""
+msgstr "De hecho, existe un famoso botánico llamado Richard Spruce.\n"
+"Nació en 1817 y murió en 1893, pero realizó sus colectas en la cuenca del Amazonas y en los Andes en Sudamérica.\n"
+"Algo no está del todo bien, por lo que debemos averiguar más sobre el recopilador antes de poder confiar en la exactitud de estos datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:174
@@ -7242,13 +7244,13 @@ msgstr "// DIAPOSITIVA 20\n"
 #: scripts/data-quality.en.txt:176
 #, no-wrap
 msgid "Let’s take a look now at what Consistency, or precision, means to data.\n"
-msgstr ""
+msgstr "Echemos un vistazo ahora a lo que significa la consistencia o precisión para los datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:178
 #, no-wrap
 msgid "Consistency represents how many times you get the same answer, regardless of where the center of the target lies.\n"
-msgstr ""
+msgstr "La consistencia representa cuántas veces obtiene la misma respuesta, independientemente de dónde se encuentre el centro del objetivo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:182
@@ -7256,7 +7258,9 @@ msgstr ""
 msgid "For example, your dataset contains botanical occurrences including a field, or column, named “Full Name”.\n"
 "This field contains the name of the specimen collector.\n"
 "As you can see there are five different names, but how many unique collectors are there? Can you tell just by looking at the names?\n"
-msgstr ""
+msgstr "Por ejemplo, su conjunto de datos contiene registros botánicos, incluido un campo o columna, denominado \"Nombre completo\".\n"
+"Este campo contiene el nombre del colector de muestras.\n"
+"Como puede ver, hay cinco nombres diferentes, pero ¿cuántos coleccionistas únicos hay? ¿Puedes saberlo con solo mirar los nombres?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:184
@@ -7268,26 +7272,27 @@ msgstr "// DIAPOSITIVA 21\n"
 #: scripts/data-quality.en.txt:186
 #, no-wrap
 msgid "Sometimes, if you are familiar with the dataset, you might know how many collectors are represented just by looking at the data, but if you don’t know these data well, you might need to do some research, ask some questions or look at the original field notes.\n"
-msgstr ""
+msgstr "A veces, si está familiarizado con el conjunto de datos, es posible que sepa cuántos colectores están representados con solo mirar los datos, pero si no conoce bien estos datos, es posible que deba investigar un poco, hacer algunas preguntas o mirar las notas de campo originales.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:188
 #, no-wrap
 msgid "In this example, if you guessed that these five names represent two or three unique collectors, you would be right.\n"
-msgstr ""
+msgstr "En este ejemplo, si adivinó que estos cinco nombres representan dos o tres coleccionistas únicos, estaría en lo cierto.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:191
 #, no-wrap
 msgid "In blue, Joseph Dalton Hooker AND Hook.f.\n"
 "are the same person.\n"
-msgstr ""
+msgstr "En azul, Joseph Dalton Hooker Y Hook.f.\n"
+"son la misma persona.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:193
 #, no-wrap
 msgid "Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).\n"
-msgstr ""
+msgstr "Hook.f. es la abreviatura utilizada para Joseph Dalton Hooker (1817-1911).\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:197
@@ -7295,7 +7300,9 @@ msgstr ""
 msgid "In green, W.J. Hooker and Hook. are the same person.\n"
 "Period is the abbreviation for William Jackson Hooker (1785-1865).\n"
 "William was actually Joseph’s father.\n"
-msgstr ""
+msgstr "En verde, W.J. Hooker y Hook. son la misma persona.\n"
+"Hook. es la abreviatura de William Jackson Hooker (1785-1865).\n"
+"William era en realidad el padre de Joseph.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:201
@@ -7303,7 +7310,9 @@ msgstr ""
 msgid "Finally, in the red, there is “Hooker, J.” \n"
 "This entry could be an error or typo of either Joseph or William Hooker, OR it could be a third person with a similar name.\n"
 "Thus, more research would be needed to clarify these data.\n"
-msgstr ""
+msgstr "Finalmente, en rojo, está \"Hooker, J.\"\n"
+"Esta entrada podría ser un error o un error tipográfico de Joseph o William Hooker, O podría ser una tercera persona con un nombre similar.\n"
+"Por lo tanto, se necesitaría más investigación para aclarar estos datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:203
@@ -7316,45 +7325,48 @@ msgstr "// DIAPOSITIVA 22\n"
 #, no-wrap
 msgid "We have just discussed several simple illustrations of two measures of data quality.\n"
 "These examples should give you a basic understanding about how to identify the inaccuracies and imprecisions in data.\n"
-msgstr ""
+msgstr "Acabamos de analizar varias ilustraciones sencillas de dos medidas de calidad de los datos.\n"
+"Estos ejemplos deberían brindarle una comprensión básica sobre cómo identificar las inexactitudes e imprecisiones en los datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:208
 #, no-wrap
 msgid "How we document and fix these issues or errors is a process that we call data cleaning.\n"
-msgstr ""
+msgstr "La forma en que documentamos y solucionamos estos problemas o errores es un proceso que llamamos limpieza de datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:210
 #, no-wrap
 msgid "More specifically:\n"
-msgstr ""
+msgstr "Más específicamente:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:213
 #, no-wrap
 msgid "Data cleaning is the process of correcting or removing dirty data caused by contradictions, disparities, keying mistakes, missing bits, and more.\n"
 "It also includes validation of the changes made, and may require normalization.\n"
-msgstr ""
+msgstr "La limpieza de datos es el proceso de corregir o eliminar datos sucios causados ​​por contradicciones, disparidades, errores de tipeo, bits faltantes y más.\n"
+"También incluye la validación de los cambios realizados y puede requerir normalización.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:215
 #, no-wrap
 msgid "Our data cleaning, or lack thereof, will affect how data users perceive your data’s fitness for use.\n"
-msgstr ""
+msgstr "Nuestra limpieza de datos, o la falta de ella, afectará la forma en que los usuarios de datos perciban la aptitud para el uso.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:217
 #, no-wrap
 msgid "It is not necessary for you to do all the data cleaning yourself, in fact, a common misconception is that all errors MUST be fixed before you can share your data.\n"
-msgstr ""
+msgstr "No es necesario que usted mismo realice toda la limpieza de datos, de hecho, un error común es que todos los errores DEBEN corregirse antes de poder compartir sus datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:220
 #, no-wrap
 msgid "The truth is that you can only clean as much data as your time, knowledge, and resources permit.\n"
 "As a result, it is essential to document what you know and what you do not know about your data so that when you do share them, data users will know the level of the quality of your data.\n"
-msgstr ""
+msgstr "La verdad es que solo puede limpiar la cantidad de datos que le permitan su tiempo, conocimientos y recursos.\n"
+"Como resultado, es esencial documentar lo que sabe y lo que no sabe acerca de sus datos para que cuando los comparta, los usuarios de datos conozcan el nivel de calidad de sus datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:222
@@ -7367,34 +7379,38 @@ msgstr "// DIAPOSITIVA 23\n"
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant with additional contributions by Dag Endresen, David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "Esta presentación fue creada originalmente por Sharon Grant con contribuciones adicionales de Dag Endresen, David Bloom, Entrenadores, Mentores y Estudiantes de BID y BIFA.\n"
+"Esta presentación ha sido narrada por David Bloom.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:5
 #, no-wrap
 msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
 "These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
-msgstr ""
+msgstr "En esta presentación, veremos los diferentes tipos de datos que pueden denominarse \"datos primarios de biodiversidad\" y compartirse dentro de GBIF.\n"
+"Estos datos pueden ser complejos y tener diferentes orígenes; veremos cómo se pueden estructurar en una de las tres clases de datos aceptadas por GBIF, según el estándar de intercambio de datos Darwin Core que se utiliza en la comunidad de GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:10
 #, no-wrap
 msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
 "I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
-msgstr ""
+msgstr "Como puede ver en esta diapositiva, GBIF actualmente admite cuatro tipos de conjuntos de datos: conjuntos de datos de recursos (por ejemplo, conjuntos de datos de solo metadatos), listas de especies, conjuntos de datos de registros biológicos y conjuntos de datos de eventos de muestreo.\n"
+"No hablaré sobre conjuntos de datos de recursos en esta presentación, ya que los programas financiados por GBIF no admiten conjuntos de datos de solo metadatos.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:15
 #, no-wrap
 msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
 "In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
-msgstr ""
+msgstr "El primer tipo de conjunto de datos que se puede publicar dentro de GBIF es la lista de especies, o de taxones superiores.\n"
+"En una lista de especies, la unidad principal es el taxón, no el registro biológico (individuo).\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:19
 #, no-wrap
 msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
-msgstr ""
+msgstr "Listas de especies, y más generalmente, los conjuntos de datos taxonómicos pueden variar en el alcance: \n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:21
