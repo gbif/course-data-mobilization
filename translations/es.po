@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-18 01:55\n"
+"PO-Revision-Date: 2021-07-18 02:51\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -6543,19 +6543,19 @@ msgstr "Cuando decidimos cuál es el mejor medio para hacer las correcciones, qu
 #: scripts/data-management.en.txt:33
 #, no-wrap
 msgid "Finally, we want to modify how data entry is practiced to reduce future errors of the same type. (Maletic & Marcus, 2000)\n"
-msgstr ""
+msgstr "Finalmente, queremos modificar la forma en que se practica la entrada de datos para reducir futuros errores del mismo tipo. (Maletic y Marcus, 2000)\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:37
 #, no-wrap
 msgid "One thing is certain: Errors are common and we can always expect to find them in the data we maintain.\n"
-msgstr ""
+msgstr "Una cosa es segura: los errores son comunes y siempre podemos esperar encontrarlos en los datos que mantenemos.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:39
 #, no-wrap
 msgid "Our goal is to apply the best practices, including principles, processes, and tools, to make the data as fit for use as possible, even if we don’t know how data users will use the data.\n"
-msgstr ""
+msgstr "Nuestro objetivo es aplicar las mejores prácticas, incluidos principios, procesos y herramientas, para que los datos sean lo más aptos para su uso posible, incluso si no sabemos cómo los usuarios utilizarán los datos.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:45
@@ -6563,13 +6563,15 @@ msgstr ""
 msgid "Let’s take a look at several of the recommended principles of data cleaning.\n"
 "These principles are presented for your consideration so that you can develop and improve upon your own data quality workflow.\n"
 "The workflow that you create should represent the most efficient and effective process to achieve the highest data quality given your institution’s resources and expertise.\n"
-msgstr ""
+msgstr "Echemos un vistazo a varios de los principios recomendados de limpieza de datos.\n"
+"Estos principios se presentan para su consideración para que pueda desarrollar y mejorar su propio flujo de trabajo de calidad de datos.\n"
+"El flujo de trabajo que genere debe representar el proceso más eficiente y efectivo para lograr la más alta calidad de datos, dados los recursos y la experiencia de su institución.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:47
 #, no-wrap
 msgid "Talk to your colleagues to learn about their workflows, but ultimately you should strive to create a workflow that will help you to achieve your data quality goals.\n"
-msgstr ""
+msgstr "Hable con sus colegas para conocer sus flujos de trabajo, pero en última instancia, debe esforzarse por crear un flujo de trabajo que lo ayude a lograr sus objetivos de calidad de datos.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:49
@@ -6581,7 +6583,7 @@ msgstr "// Diapositiva 7: Planificar y Organizar\n"
 #: scripts/data-management.en.txt:51
 #, no-wrap
 msgid "The first two principles in data cleaning are planning and organization.\n"
-msgstr ""
+msgstr "Los dos primeros principios de la limpieza de datos son la planificación y la organización.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:56
@@ -6590,7 +6592,10 @@ msgid "Plan how you want the cleaning process to go.\n"
 "A scattered or random approach is not likely to produce consistent results.\n"
 "Develop and implement a strategy that fits with your institution’s resources and expertise.\n"
 "A solid plan will improve both your data and the reputation of your institution among data users.\n"
-msgstr ""
+msgstr "Planifique cómo desea que se desarrolle el proceso de limpieza.\n"
+"No es probable que un enfoque disperso o aleatorio produzca resultados consistentes.\n"
+"Desarrolle e implemente una estrategia que se ajuste a los recursos y la experiencia de su institución.\n"
+"Un plan sólido mejorará tanto sus datos como la reputación de su institución entre los usuarios de datos.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:61
@@ -6599,7 +6604,10 @@ msgid "One of the first steps of your plan should be to organize the data.\n"
 "For example, you could organize your data by taxon and then send the appropriate subset of data to individuals with the knowledge or resources to clean based on names.\n"
 "This can be done by geography or basis of record, or even in specifically sized packages of data in numeric order.\n"
 "Work to the strengths of your institution.\n"
-msgstr ""
+msgstr "Uno de los primeros pasos de su plan debe ser organizar los datos.\n"
+"Por ejemplo, puede organizar sus datos por taxón y luego enviar el subconjunto apropiado de datos a las personas con el conocimiento o los recursos para limpiar en función de los nombres.\n"
+"Esto se puede hacer por geografía o tipo de registro, o incluso en paquetes de datos de tamaño específico en orden numérico.\n"
+"Trabaje con las fortalezas de su institución.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:68
@@ -6618,7 +6626,8 @@ msgstr "Como dice Arthur Chapman: “Más vale prevenir que curar.\"\n"
 #, no-wrap
 msgid "Be sure that everyone in your organization understands that data quality is everyone’s responsibility.\n"
 "Of course, the primary responsibility lies with the people who maintain the data, but everyone, from field technicians to students performing data entry to emeritus curators have a responsibility to treat the data with care and to communicate any errors or inconsistencies they might discover.\n"
-msgstr ""
+msgstr "Asegúrese de que todos en su organización comprendan que la calidad de los datos es responsabilidad de todos.\n"
+"Por supuesto, la responsabilidad principal recae en las personas que mantienen los datos, pero todos, desde los técnicos de campo hasta los estudiantes que realizan la entrada de datos y los curadores eméritos, tienen la responsabilidad de tratar los datos con cuidado y comunicar cualquier error o inconsistencia que puedan descubrir.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:77
@@ -6626,7 +6635,9 @@ msgstr ""
 msgid "Data maintenance is only as effective as the expertise that support the process and no single individual can be expected to know everything about everything.\n"
 "Developing partnerships with data users and content experts can help to make the data quality process more successful.\n"
 "Reach out to your user community, both inside and outside of your institution, and work with them to help maintain your data at the highest quality.\n"
-msgstr ""
+msgstr "El mantenimiento de datos es tan efectivo como la experiencia que respalda el proceso y no se puede esperar que una sola persona sepa todo sobre todo.\n"
+"El desarrollo de asociaciones con usuarios de datos y expertos en contenido puede ayudar a que el proceso de calidad de los datos sea más exitoso.\n"
+"Comuníquese con su comunidad de usuarios, tanto dentro como fuera de su institución, y trabaje con ellos para ayudar a mantener sus datos con la más alta calidad.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:82
@@ -6635,7 +6646,10 @@ msgid "Prioritize your cleaning to take advantage of the resources and knowledge
 "For example, you may choose to review all of the data recorded by collectors who are still alive so that important data is not lost later.\n"
 "If you maintain a large dataset you might choose to prioritize data that can be cleaned at the lowest cost using automated processes and then prioritize the more difficult errors that require individual attention.\n"
 "Ultimately, you should prioritize the data that is of the greatest value to the work of your institution and then move through the data in a logical and orderly manner.\n"
-msgstr ""
+msgstr "Prioriza tu limpieza para aprovechar los recursos y conocimientos que posee tu institución.\n"
+"Por ejemplo, puede optar por revisar todos los datos registrados por los colectores que aún están vivos para que los datos importantes no se pierdan más adelante.\n"
+"Si mantiene un gran conjunto de datos, puede optar por priorizar los datos que se pueden limpiar al menor costo mediante procesos automatizados y luego priorizar los errores más difíciles que requieren atención individual.\n"
+"En última instancia, debe priorizar los datos que son de mayor valor para el trabajo de su institución y luego moverse a través de los datos de una manera lógica y ordenada.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:84 scripts/data-types.en.txt:52
@@ -6653,26 +6667,29 @@ msgstr "// Diapositiva 10\n"
 msgid "Some times it can be an effective strategy to set some measures of performance before the cleaning process begins.\n"
 "One performance measure might be to complete the cleaning of 500 records every week.\n"
 "Another measure might be to provide a statistical report of the accuracy of the corrections being made, such as:\n"
-msgstr ""
+msgstr "Algunas veces puede ser eficaz la estrategia de establecer algunas medidas de rendimiento antes de que comience el proceso de limpieza.\n"
+"Una medida de desempeño podría ser completar la limpieza de 500 registros cada semana.\n"
+"Otra medida podría ser proporcionar un informe estadístico de la precisión de las correcciones que se están realizando, como por ejemplo:\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:90
 #, no-wrap
 msgid "“95% of all georeferences corrected this week now have an uncertainty in meters of less than 1000 meters.”\n"
-msgstr ""
+msgstr "“El 95% de todas las georreferencias corregidas esta semana ahora tienen una incertidumbre de menos de 1000 metros.”\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:92
 #, no-wrap
 msgid "These kinds of measures can give direction and guidance to the people performing the cleaning, as well as, to serve as a means to report on successes and areas in need of improvement.\n"
-msgstr ""
+msgstr "Este tipo de medidas pueden orientar y guiar a las personas que realizan la limpieza, además de servir como un medio para informar sobre los éxitos y las áreas que necesitan mejoras.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:95
 #, no-wrap
 msgid "In an ideal world, you will have developed a data maintenance plan that has been optimized to be as efficient and effective as possible.\n"
 "Optimization can be achieved in many different ways including taking advantage of your institution’s strengths, setting clear objectives and measure of success, and regular adjustment of your priorities based on available resources.\n"
-msgstr ""
+msgstr "En un mundo ideal, habrá desarrollado un plan de mantenimiento de datos que se ha optimizado para que sea lo más eficiente y eficaz posible.\n"
+"La optimización se puede lograr de muchas maneras diferentes, incluido el aprovechamiento de las fortalezas de su institución, el establecimiento de objetivos claros y una medida de éxito, y el ajuste regular de sus prioridades en función de los recursos disponibles.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:103
@@ -6682,7 +6699,11 @@ msgid "One of the best ways to learn how successful your data cleaning and data 
 "Once such way is to review the way that GBIF presents your data.\n"
 "You can view the comparison between the verbatim data published to GBIF and the interpreted data that GBIF might have corrected or updated.\n"
 "These comparisons can help you to optimize your data cleaning process, but you can also help GBIF to improve its data quality processes, too, when you provide expert feedback back to them.\n"
-msgstr ""
+msgstr "Una de las mejores formas de saber qué tan exitosos son sus procesos de limpieza y mantenimiento de datos es buscar comentarios de los usuarios de datos en su comunidad.\n"
+"Esto se puede lograr a través de las asociaciones que discutimos anteriormente, pero también puede buscar comentarios de otras maneras.\n"
+"Una vez así, es revisar la forma en que GBIF presenta sus datos.\n"
+"Puede ver la comparación entre los datos textuales publicados en GBIF y los datos interpretados que GBIF podría haber corregido o actualizado.\n"
+"Estas comparaciones pueden ayudarlo a optimizar su proceso de limpieza de datos, pero también puede ayudar a GBIF a mejorar sus procesos de calidad de datos cuando les brinda retroalimentación de expertos.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:107
@@ -6690,14 +6711,17 @@ msgstr ""
 msgid "One of the best ways to achieve success with data cleaning is to provide training and education to everyone who works with your data.\n"
 "These may be trainings that you organize yourself, local or regional trainings in partnership with, or presented by, other institutions in your area, or workshops and courses provided by other groups, such as GBIF.\n"
 "If you need training, please check the GBIF web site regularly or contact GBIF’s Community Mentors or GBIF’s Biodiversity Open Data Ambassadors who also can be good resources for training and education opportunities.\n"
-msgstr ""
+msgstr "Una de las mejores formas de lograr el éxito con la limpieza de datos es brindar capacitación y educación a todos los que trabajan con sus datos.\n"
+"Estas pueden ser capacitaciones que usted mismo organiza, capacitaciones locales o regionales en asociación con, o presentadas por, otras instituciones en su área, o talleres y cursos brindados por otros grupos, como GBIF.\n"
+"Si necesita capacitación, consulte el sitio web de GBIF con regularidad o comuníquese con la Comunidad de Mentores de GBIF o los Embajadores de Datos Abiertos de Biodiversidad de GBIF, quienes también pueden ser buenos recursos para oportunidades de capacitación y educación.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:112
 #, no-wrap
 msgid "Documentation is one of the most important principles of data cleaning.\n"
 "This is true in two key ways.\n"
-msgstr ""
+msgstr "La documentación es uno de los principios más importantes de la limpieza de datos.\n"
+"Esto es cierto de dos maneras claves.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:117
@@ -6706,7 +6730,10 @@ msgid "First, whatever processes you use to maintain your data, it is important 
 "This transparency can be truly successful when the data cleaning process is well documented.\n"
 "Without clear and accessible documentation, you run the risk of losing best practices, building redundant processes and losing optimization.\n"
 "Good documentation will help you to avoid recurring errors.\n"
-msgstr ""
+msgstr "En primer lugar, independientemente de los procesos que utilice para mantener sus datos, es importante ser transparente sobre cómo se descubren y corrigen los errores.\n"
+"Esta transparencia puede tener un verdadero éxito cuando el proceso de limpieza de datos está bien documentado.\n"
+"Sin una documentación clara y accesible, corre el riesgo de perder las mejores prácticas, crear procesos redundantes y perder la optimización.\n"
+"Una buena documentación le ayudará a evitar errores recurrentes.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:122
@@ -6715,7 +6742,10 @@ msgid "Documentation is also key to good data quality.\n"
 "Good documentation, in metadata, for example, allows data users to determine the fitness for use of your data.\n"
 "Your documentation should not only include good metadata, it should also include the best practices, standardized vocabularies, and taxonomic and geographic authorities used.\n"
 "Documenting what data was cleaned by whom will help you to improve your optimization, reach performance measures, and ultimately, tell a more complete story of where your data came from and how it was improved over time.\n"
-msgstr ""
+msgstr "La documentación también es clave para una buena calidad de los datos.\n"
+"Una buena documentación, en metadatos, por ejemplo, permite a los usuarios de datos determinar la idoneidad para el uso de sus datos.\n"
+"Su documentación no solo debe incluir buenos metadatos, también debe incluir las mejores prácticas, vocabularios estandarizados y autoridades taxonómicas y geográficas utilizadas.\n"
+"Documentar qué datos fueron limpiados por quién lo ayudará a mejorar su optimización, alcanzar medidas de rendimiento y, en última instancia, contar una historia más completa de dónde provienen sus datos y cómo se mejoraron con el tiempo.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:129 scripts/data-quality.en.txt:227
@@ -6723,45 +6753,48 @@ msgstr ""
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "Este video es parte de una serie de presentaciones utilizadas en el curso de Movilización de Datos de Biodiversidad de GBIF.\n"
+"El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del Programa Información sobre Biodiversidad para el Desarrollo financiado por la Unión Europea.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:131
 #, no-wrap
 msgid "This presentation was originally created by Nestor Beltran with additional contributions by David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "Esta presentación fue creada originalmente por Néstor Beltrán con contribuciones adicionales de David Bloom, Entrenadores, Mentores y Estudiantes de BID y BIFA.\n"
+"Esta presentación ha sido narrada por David Bloom.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:2
 #, no-wrap
 msgid "// SLIDE 1\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 1\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:4
 #, no-wrap
 msgid "In this presentation, we are going to introduce some of the concepts that are important to understand basic data quality.\n"
-msgstr ""
+msgstr "En esta presentación, vamos a introducir algunos de los conceptos que son importantes para comprender la calidad básica de los datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:6
 #, no-wrap
 msgid "// SLIDE 2\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 2\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:9
 #, no-wrap
 msgid "The two primary concepts that we will explore are Fitness for Use and Measures of Quality.\n"
 "These two ideas will lay the foundation for more detailed data quality concepts and techniques in the future.\n"
-msgstr ""
+msgstr "Los dos conceptos principales que exploraremos son Aptitud para el Uso y Medidas de Calidad.\n"
+"Estas dos ideas sentarán las bases para conceptos y técnicas de calidad de datos más detallados en el futuro.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:11
 #, no-wrap
 msgid "// SLIDE 3\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 3\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:16
@@ -6776,13 +6809,13 @@ msgstr ""
 #: scripts/data-quality.en.txt:18
 #, no-wrap
 msgid "// SLIDE 4\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 4\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:20
 #, no-wrap
 msgid "Stepping back into the domain of biodiversity informatics, the classic definition of data quality was coined in 2005 by Arthur Chapman.\n"
-msgstr ""
+msgstr "Volviendo al dominio de la informática de la biodiversidad, Arthur Chapman acuñó en 2005 la definición clásica de la calidad de los datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:24
@@ -6790,7 +6823,9 @@ msgstr ""
 msgid "He wrote: “Data quality is related to use and cannot be assessed independently of the user.\n"
 "In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized when someone uses the data to do something useful.\n"
 "Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).”\n"
-msgstr ""
+msgstr "Escribió: “La calidad de los datos está relacionada con el uso y no se puede evaluar independientemente del usuario. \n"
+"En una base de datos, los datos no tienen calidad o valor real (Dalcin 2004); solo tienen un valor potencial que se materializa cuando alguien usa los datos para hacer algo útil.\n"
+"La calidad de la información se relaciona con su capacidad para satisfacer a sus clientes y sus necesidades (inglés 1999).\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:27
@@ -6803,7 +6838,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:29
 #, no-wrap
 msgid "// SLIDE 5\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 5\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:32
@@ -6822,7 +6857,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:36
 #, no-wrap
 msgid "// SLIDE 6\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 6\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:39
@@ -6835,7 +6870,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:41
 #, no-wrap
 msgid "// SLIDE 7\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 7\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:43
@@ -6847,13 +6882,13 @@ msgstr ""
 #: scripts/data-quality.en.txt:45
 #, no-wrap
 msgid "Maybe.\n"
-msgstr ""
+msgstr "Tal vez.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:47
 #, no-wrap
 msgid "// SLIDE 8\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 8\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:49
@@ -6867,7 +6902,8 @@ msgstr ""
 msgid "Maybe not.\n"
 " \n"
 "// SLIDE 9\n"
-msgstr ""
+msgstr "Tal vez no.\n\n"
+"// DIAPOSITIVA 9\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:56
