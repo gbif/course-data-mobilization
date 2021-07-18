@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-18 02:51\n"
+"PO-Revision-Date: 2021-07-18 03:48\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -6832,7 +6832,8 @@ msgstr "Escribió: “La calidad de los datos está relacionada con el uso y no 
 #, no-wrap
 msgid "And so, for us, as individuals who are responsible for maintaining data, we want the data we publish to be as satisfying to all of our potential users as possible.\n"
 "To do this, we seek to provide the highest quality data.\n"
-msgstr ""
+msgstr "Por eso, para nosotros, como personas responsables de mantener los datos, queremos que los datos que publicamos sean lo más satisfactorios posible para todos nuestros usuarios potenciales.\n"
+"Para ello, buscamos brindar datos de la más alta calidad.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:29
@@ -6845,13 +6846,14 @@ msgstr "// DIAPOSITIVA 5\n"
 #, no-wrap
 msgid "To help you to accomplish this task, we will explore Fitness for Use.\n"
 "We will also explore the Measures of Quality, specifically, Correctness and Consistency.\n"
-msgstr ""
+msgstr "Para ayudarlo a realizar esta tarea, exploraremos la Aptitud para el Uso.\n"
+"También exploraremos las Medidas de Calidad, específicamente, Corrección y Consistencia.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:34
 #, no-wrap
 msgid "These are important concepts that you will need to know and be able to articulate about your own data or data that you maintain.\n"
-msgstr ""
+msgstr "Estos son conceptos importantes que necesitará conocer y poder articular sobre sus propios datos o los datos que mantiene.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:36
@@ -6864,7 +6866,8 @@ msgstr "// DIAPOSITIVA 6\n"
 #, no-wrap
 msgid "Let’s begin with an example of Fitness for Use.\n"
 "A shoemaker creates a pair of clogs for the purpose of covering a person’s feet, just like those at the top of this image.\n"
-msgstr ""
+msgstr "Comencemos con un ejemplo de Aptitud para el Uso.\n"
+"Un zapatero crea un par de zuecos con el fin de cubrir los pies de una persona, como los que aparecen en la parte superior de esta imagen.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:41
@@ -6876,7 +6879,7 @@ msgstr "// DIAPOSITIVA 7\n"
 #: scripts/data-quality.en.txt:43
 #, no-wrap
 msgid "When the shoemaker made these shoes, did he know that this girl would use them for dancing?\n"
-msgstr ""
+msgstr "Cuando el zapatero hizo estos zapatos, ¿sabía que esta chica los usaría para bailar?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:45
@@ -6894,7 +6897,7 @@ msgstr "// DIAPOSITIVA 8\n"
 #: scripts/data-quality.en.txt:49
 #, no-wrap
 msgid "Do you think that the same shoemaker knew that a gardener might one day use the shoes as plant pots?\n"
-msgstr ""
+msgstr "¿Crees que el mismo zapatero sabía que un jardinero algún día podría usar los zapatos como maceteros?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:53
@@ -6910,39 +6913,42 @@ msgstr "Tal vez no.\n\n"
 #, no-wrap
 msgid "We often hear people talk about data’s Fitness for Use in the ecological sciences, but what we need to remember is that data is not inherently good or bad.\n"
 "Rather it is the user of the data who gives data its value.\n"
-msgstr ""
+msgstr "A menudo escuchamos a la gente hablar sobre la Aptitud para el Uso de los datos en las ciencias ecológicas, pero lo que debemos recordar es que los datos no son inherentemente buenos o malos.\n"
+"Más bien, es el usuario de los datos quien les da su valor.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:59
 #, no-wrap
 msgid "For example, for one person, data identified to the level of Genus may be sufficient to run predictive models of ecological niches.\n"
 "For a person studying a particular taxon, that same genus-level data will be much less useful than more detailed occurrences with subspecies information.\n"
-msgstr ""
+msgstr "Por ejemplo, para una persona, los datos identificados al nivel de género pueden ser suficientes para ejecutar modelos predictivos de nichos ecológicos.\n"
+"Para una persona que estudia un taxón en particular, esos mismos datos a nivel de género serán mucho menos útiles que registros más detalladas con información de subespecies.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:61
 #, no-wrap
 msgid "// SLIDE 10\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 10\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:63
 #, no-wrap
 msgid "So, what is Fitness for Use and how does it relate to data?\n"
-msgstr ""
+msgstr "Entonces, ¿qué es la Aptitud para el Uso y cómo se relaciona con los datos?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:65
 #, no-wrap
 msgid "When Chapman discusses Fitness for Use, he says that once a dataset has been created and shared there are two primary perspectives on how those data might be used; the perspective of the creator and the perspective of the user.\n"
-msgstr ""
+msgstr "Cuando Chapman analiza la Aptitud para el Uso, dice que una vez que se ha creado y compartido un conjunto de datos, hay dos perspectivas principales sobre cómo se pueden usar esos datos; la perspectiva del creador y la perspectiva del usuario.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:68
 #, no-wrap
 msgid "To help somebody to decide if your data is trustworthy or useful enough for them to use, you have to understand your data and how to convey those data to the potential user.\n"
 "These are some of the important questions about the metadata, or characteristics of your data, that you should be able to answer and share with others:\n"
-msgstr ""
+msgstr "Para ayudar a alguien a decidir si sus datos son confiables o lo suficientemente útiles para que los usen, debe comprender sus datos y cómo transmitirlos al usuario potencial.\n"
+"Estas son algunas de las preguntas importantes sobre los metadatos, o las características de sus datos, que debería poder responder y compartir con otros:\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:72
@@ -6950,7 +6956,9 @@ msgstr ""
 msgid "How Accessible are your data? \n"
 "How easily can someone access your data? \n"
 "People can’t use the data if they can’t find the data.\n"
-msgstr ""
+msgstr "¿Qué tan Accesibles son sus datos?\n"
+"¿Con qué facilidad puede alguien acceder a sus datos?\n"
+"Las personas no pueden usar los datos si no pueden encontrarlos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:76
@@ -6958,7 +6966,9 @@ msgstr ""
 msgid "How Accurate are your data? \n"
 "Can your data be trusted? \n"
 "For example, are your identifications current and were they made by known experts?\n"
-msgstr ""
+msgstr "¿Qué tan Exactos son sus datos?\n"
+"¿Se puede confiar en sus datos?\n"
+"Por ejemplo, ¿sus identificaciones están actualizadas y fueron realizadas por expertos conocidos?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:80
@@ -6966,7 +6976,9 @@ msgstr ""
 msgid "How Timely are they? \n"
 "When will the data be made available? \n"
 "How often are they updated? \n"
-msgstr ""
+msgstr "¿Cuán Oportunos son?\n"
+"¿Cuándo estarán disponibles los datos?\n"
+"¿Con qué frecuencia se actualizan?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:84
@@ -6974,7 +6986,9 @@ msgstr ""
 msgid "How Complete or Comprehensive are the data? \n"
 "Which parts of your dataset are documented fully? \n"
 "How well do the data cover a particular time, place, or domain?\n"
-msgstr ""
+msgstr "¿Qué tan Completos o Exhaustivos son los datos?\n"
+"¿Qué partes de su conjunto de datos están completamente documentadas?\n"
+"¿Cuán bien cubren los datos un momento, lugar o dominio en particular?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:88
@@ -6982,14 +6996,17 @@ msgstr ""
 msgid "How Consistent are they? \n"
 "Is the data in each field always of the same type? \n"
 "Was the data collected using the same documented protocols?\n"
-msgstr ""
+msgstr "¿Qué tan Consistentes son?\n"
+"¿Los datos de cada campo son siempre del mismo tipo?\n"
+"¿Se recopilaron los datos utilizando los mismos protocolos documentados?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:91
 #, no-wrap
 msgid "How Relevant are they? \n"
 "How similar is this dataset to others that have been used successfully for the same purpose?\n"
-msgstr ""
+msgstr "¿Qué tan Relevantes son?\n"
+"¿Qué tan similar es este conjunto de datos a otros que se han utilizado con éxito para el mismo propósito?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:95
@@ -6997,7 +7014,9 @@ msgstr ""
 msgid "How Detailed are the data? \n"
 "How much resolution is there in your data? \n"
 "At what scale can they be used for mapping?\n"
-msgstr ""
+msgstr "¿Qué tan Detallados son los datos? \n"
+"¿Cuánta resolución hay en tus datos? \n"
+"¿En qué escala se pueden utilizar para el mapeo?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:99
@@ -7005,62 +7024,65 @@ msgstr ""
 msgid "Is the data Easy to interpret? \n"
 "Is the dataset documented in a clear and concise way? \n"
 "If your documents are handwritten, are they legible?\n"
-msgstr ""
+msgstr "¿Los datos son Fáciles de interpretar? \n"
+"¿Está el conjunto de datos documentado de una manera clara y concisa? \n"
+"Si tus documentos están escritos a mano, ¿son legibles?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:101
 #, no-wrap
 msgid "// SLIDE 11\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 11\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:103
 #, no-wrap
 msgid "While Fitness for Use is subjective, measures of data quality are much less so.\n"
-msgstr ""
+msgstr "Si bien la Aptitud para el Uso es subjetiva, las medidas de calidad de los datos lo son mucho menos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:106
 #, no-wrap
 msgid "Chapman states that: \"All data include error – there is no escaping it! \n"
 "It is knowing what the error is that is important, and knowing if the error is within acceptable limits for the purpose to which the data are to be put.”\n"
-msgstr ""
+msgstr "Chapman afirma que: \"Todos los datos incluyen errores, ¡no hay forma de escapar!\n"
+"Es saber cuál es el error lo que es importante y saber si el error se encuentra dentro de los límites aceptables para el propósito al que se destinarán los datos.\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:108
 #, no-wrap
 msgid "// SLIDE 12\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 12\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:110
 #, no-wrap
 msgid "We can use two measures of quality, Correctness and Consistency, to help us to document these inherent errors in data.\n"
-msgstr ""
+msgstr "Podemos utilizar dos medidas de calidad, Corrección y Consistencia, para ayudarnos a documentar estos errores inherentes a los datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:112
 #, no-wrap
 msgid "Correctness, sometimes called accuracy, is “How close the recorded value is to the actual, real-world value”.\n"
-msgstr ""
+msgstr "La Corrección, a veces denominada exactitud, es \"qué tan cerca está el valor registrado del valor real del mundo real\".\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:114
 #, no-wrap
 msgid "In this diagram accuracy is how close a given dot is to the centre of the target.\n"
-msgstr ""
+msgstr "En este diagrama, la exactitud es qué tan cerca está un punto dado del centro del objetivo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:116
 #, no-wrap
 msgid "Consistency, sometimes called precision, is “How often you get it right”\n"
-msgstr ""
+msgstr "La Consistencia, a veces llamada precisión, es \"la frecuencia con la que lo haces bien\"\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:118
 #, no-wrap
 msgid "In this diagram, precision is how close the dots are together irrespective of how close they are to the centre of the target.\n"
-msgstr ""
+msgstr "En este diagrama, la precisión es qué tan cerca están los puntos, independientemente de qué tan cerca estén del centro del objetivo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:121
@@ -7074,70 +7096,73 @@ msgstr "Estas son las medidas de lo bien que el recolector de datos pudo captar 
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
 #, no-wrap
 msgid "// SLIDE 13\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 13\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:126
 #, no-wrap
 msgid "This image provides a clear set of illustrations of accuracy and precision.\n"
 "This may be a good image to keep with you when you have to explain these concepts to others.\n"
-msgstr ""
+msgstr "Esta imagen proporciona un conjunto claro de ilustraciones de exactitud y precisión.\n"
+"Esta puede ser una buena imagen para tenerla con usted cuando tenga que explicar estos conceptos a otras personas.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:128
 #, no-wrap
 msgid "// SLIDE 14\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 14\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:131
 #, no-wrap
 msgid "Let’s look at some examples of Correctness, or accuracy, and how it can help us think about the practicalities of data cleaning.\n"
 "Remember that Correctness is how close you are to the center of a target.\n"
-msgstr ""
+msgstr "Veamos algunos ejemplos de Corrección o exactitud y cómo puede ayudarnos a pensar en los aspectos prácticos de la limpieza de datos.\n"
+"Recuerda que la Corrección es lo cerca que estás del centro de un objetivo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:133
 #, no-wrap
 msgid "Let’s look at an example.\n"
-msgstr ""
+msgstr "Veamos un ejemplo.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:135
 #, no-wrap
 msgid "// SLIDE 15\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 15\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:138
 #, no-wrap
 msgid "For this example, let’s imagine your dataset contains records of fossil bird specimens from the Early Triassic Period.\n"
 "The taxonomic name for a number of specimens in your dataset is recorded as Thismia.\n"
-msgstr ""
+msgstr "Para este ejemplo, imaginemos que su conjunto de datos contiene registros de especímenes de aves fósiles del período Triásico Temprano.\n"
+"El nombre taxonómico de varios especímenes de su conjunto de datos se registra como Thismia.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:140
 #, no-wrap
 msgid "Do you know if Thismia is a taxon of ancient birds?\n"
-msgstr ""
+msgstr "¿Sabes si Thismia es un taxón de aves antiguas?\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:143
 #, no-wrap
 msgid "// SLIDE 16\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 16\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:145
 #, no-wrap
 msgid "In this case, the answer is no! \n"
-msgstr ""
+msgstr "En este caso, la respuesta es no! \n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:147
 #, no-wrap
 msgid "Thismia is a very rare plant from the State of Illinois in the United States.\n"
-msgstr ""
+msgstr "Thismia es una planta muy rara del estado de Illinois en los Estados Unidos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:151
@@ -7145,20 +7170,23 @@ msgstr ""
 msgid "As a result, the correctness, or accuracy, of the taxonomic name is low.\n"
 "Perhaps because the data entry technician was not a paleontologist.\n"
 "As a result, all of the names in the dataset might need to be checked and corrected by an expert before the data could be used.\n"
-msgstr ""
+msgstr "Como resultado, la corrección o exactitud del nombre taxonómico es baja.\n"
+"Quizás porque el técnico de entrada de datos no era paleontólogo.\n"
+"Como resultado, es posible que un experto deba verificar y corregir todos los nombres en el conjunto de datos antes de que se puedan usar los datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:153
 #, no-wrap
 msgid "// SLIDE 17\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 17\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:156
 #, no-wrap
 msgid "Let’s look at another example.\n"
 "Here, your dataset contains specimens collected in a place called Kalamazoo by a scientist named Richard Spruce.\n"
-msgstr ""
+msgstr "Veamos otro ejemplo.\n"
+"Aquí, su conjunto de datos contiene muestras recolectadas en un lugar llamado Kalamazoo por un científico llamado Richard Spruce.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:158
@@ -7182,7 +7210,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:164
 #, no-wrap
 msgid "// SLIDE 18\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 18\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:166
@@ -7194,7 +7222,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:168
 #, no-wrap
 msgid "// SLIDE 19\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 19\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:172
@@ -7208,7 +7236,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:174
 #, no-wrap
 msgid "// SLIDE 20\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 20\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:176
@@ -7234,7 +7262,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:184
 #, no-wrap
 msgid "// SLIDE 21\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 21\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:186
@@ -7281,7 +7309,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:203
 #, no-wrap
 msgid "// SLIDE 22\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 22\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:206
@@ -7332,7 +7360,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:222
 #, no-wrap
 msgid "// SLIDE 23\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 23\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:229
@@ -7408,7 +7436,7 @@ msgstr ""
 #: scripts/standards.en.txt:93 scripts/structures.en.txt:41
 #, no-wrap
 msgid "// Slide 7\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 7\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:41
@@ -7473,7 +7501,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:151 scripts/structures.en.txt:95
 #, no-wrap
 msgid "// Slide 15\n"
-msgstr ""
+msgstr "// DIAPOSITVA 15\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:81
@@ -7492,7 +7520,7 @@ msgstr ""
 #: scripts/data-types.en.txt:90
 #, no-wrap
 msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
-msgstr ""
+msgstr "En las siguientes diapositivas, veremos cómo funciona el estándar Darwin Core con diferentes tipos de datos y cómo elegir la clase de conjunto de datos que mejor se adapta a un conjunto de datos determinado.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:96
@@ -7500,7 +7528,9 @@ msgstr ""
 msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
 "Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
 "In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
-msgstr ""
+msgstr "Como aprendió en la presentación Bases - Darwin Core, Darwin Core es un estándar de intercambio de datos desarrollado por la organización Biodiversity Information Standards (TDWG) y se usa ampliamente para publicar datos dentro de la comunidad extendida de GBIF.\n"
+"Dependiendo del tipo de conjunto de datos con el que trabajes, tendrás que elegir uno de sus tres Cores (Registro biológico, Taxón o Evento), que se puede vincular a una o más Extensiones para compartir más información (como enlaces multimedia, variables, historial de identificación, etc.).\n"
+"En algunos casos, un Core se puede usar como una extensión vinculada a otro Core: ese es el caso cuando se publican datos de eventos, donde se puede usar el Core de eventos para describir las áreas muestreadas y luego usar el Core de registros biológicos como una extensión para compartir el especímenes o individuos registrados.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:98 scripts/definitions.en.txt:189
@@ -7508,7 +7538,7 @@ msgstr ""
 #: scripts/structures.en.txt:116
 #, no-wrap
 msgid "// Slide 19\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 19\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:102
@@ -7524,7 +7554,7 @@ msgstr ""
 #: scripts/standards.en.txt:287
 #, no-wrap
 msgid "// Slide 20\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 20\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:107
@@ -7562,7 +7592,7 @@ msgstr ""
 #: scripts/organizing.en.txt:182 scripts/structures.en.txt:132
 #, no-wrap
 msgid "// Slide 21\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 21\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:121
@@ -7577,7 +7607,7 @@ msgstr ""
 #: scripts/structures.en.txt:143
 #, no-wrap
 msgid "// Slide 22\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 22\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:125
@@ -7614,7 +7644,7 @@ msgstr ""
 #: scripts/structures.en.txt:150
 #, no-wrap
 msgid "// Slide 23\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 23\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:142
