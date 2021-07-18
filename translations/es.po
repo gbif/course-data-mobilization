@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-18 22:31\n"
+"PO-Revision-Date: 2021-07-18 23:26\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -6803,7 +6803,10 @@ msgid "Before we begin, I’d like to take a moment to explain why data quality 
 "Cleanliness is next to Godliness is an expression that we sometimes use to describe the importance of data quality.\n"
 "In this case, Godliness can be understood as holiness, and when something is holy it is considered by many to be worthy of our trust.\n"
 "So, in the case of data quality, we are more likely to trust and to use data that has been cleaned and cared for.\n"
-msgstr ""
+msgstr "Antes de comenzar, me gustaría tomarme un momento para explicar por qué la calidad de los datos es importante.\n"
+"La Limpieza está al lado de lo Divino, es una expresión que a veces usamos para describir la importancia de la calidad de los datos.\n"
+"En este caso, lo Divino puede entenderse como santidad, y cuando algo es santo, muchos lo consideran digno de nuestra confianza.\n"
+"Entonces, en el caso de la calidad de los datos, es más probable que confiemos y usemos los datos que se han limpiado y cuidado.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:18
@@ -7445,7 +7448,8 @@ msgstr "GBIF proporciona a los publicadores de datos plantillas para cada clase 
 #, no-wrap
 msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
 "Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
-msgstr ""
+msgstr "El segundo tipo de datos que se pueden publicar dentro de GBIF son los datos provenientes de colecciones científicas o de historia natural, también conocidos como especímenes.\n"
+"A diferencia de las listas de especies, la unidad principal en una colección de especímenes será el espécimen (un solo organismo o grupo de organismos), y puede tener múltiples especímenes de la misma especie o grupo taxonómico.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:38 scripts/definitions.en.txt:44
@@ -7461,34 +7465,38 @@ msgstr "// DIAPOSITIVA 7\n"
 #, no-wrap
 msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
 "However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
-msgstr ""
+msgstr "Las colecciones y los especímenes difieren enormemente en número, tamaño y métodos de conservación.\n"
+"Sin embargo, cualquier tipo de colección que contenga organismos vivos preservados puede capturarse y compartirse dentro de GBIF; colecciones de herbario o zoológicas (incluidos fósiles), por ejemplo, pero las colecciones de geología o artefactos humanos no entran en el ámbito de GBIF.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:45
 #, no-wrap
 msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
-msgstr ""
+msgstr "Los datos de biodiversidad también se pueden encontrar en la literatura técnica y científica: es posible compilar y compartir este tipo de datos dentro de GBIF, pero debe tener mucho cuidado de no compartir datos duplicados (por ejemplo, un espécimen descripto en un artículo científico podría ya estar presente en GBIF.org en el conjunto de datos de su colección)\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:50
 #, no-wrap
 msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
 "ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
-msgstr ""
+msgstr "En ausencia de conjuntos de datos digitalizados, los datos sobre biodiversidad pueden extraerse y compilarse a partir de artículos científicos, tesis doctorales o de maestrías, informes y otros documentos.\n"
+"¡Comuníquese SIEMPRE primero con el propietario de los datos cuando recopile datos de literatura para solicitar permiso para publicarlos en GBIF!\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:55
 #, no-wrap
 msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
 "These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
-msgstr ""
+msgstr "Una gran mayoría de los datos disponibles en GBIF.org ahora proviene de registros de trabajo de campo.\n"
+"Estos datos pueden ser observados y / o recolectados usando diferentes protocolos en el campo, por científicos, naturalistas o científicos ciudadanos aficionados, a través de programas y aplicaciones.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:60
 #, no-wrap
 msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
 "They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
-msgstr ""
+msgstr "Estos datos de campo se pueden recopilar en informes de encuestas, estudios de evaluación de impacto ambiental, notas de campo y otros registros.\n"
+"Se pueden vincular a otros tipos de datos, como listas de especies, que son complementarias a los datos de registros biológicos observados o recopilados en la naturaleza.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:67
@@ -7497,21 +7505,26 @@ msgid "Occurrence data represents the GBIF class of datasets with the largest nu
 "Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
 "In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
 "Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
-msgstr ""
+msgstr "Los datos de registros biológicos representan la clase de conjuntos de datos de GBIF con la mayor cantidad de registros en GBIF.org.\n"
+"Las colecciones (también conocida como especímenes), la literatura y los datos del trabajo de campo se pueden compartir dentro de GBIF utilizando esta plantilla, que se enfoca en el individuo observado o en el espécimen recolectado.\n"
+"En este tipo de conjunto de datos, se pueden registrar varios individuos o especímenes para un solo taxón, siempre que cada uno tenga un identificador único.\n"
+"Otros campos para los datos de registros biológicos incluyen dónde, cuándo, cómo y por quién se observó y / o recopiló cada registro en el campo.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:72
 #, no-wrap
 msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
 "They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
-msgstr ""
+msgstr "Los datos de eventos de muestreo es un tipo de conjuntos de datos que fue incluído en GBIF.org en 2015. \n"
+"Permiten que los publicadores de datos compartan más información acerca del contexto de la observación o de la colecta de especímenes, y agrupa a los registros vinculados al mismo evento.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:77
 #, no-wrap
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
-msgstr ""
+msgstr "La plantilla GBIF para datos de eventos de muestreo permite a los publicadores de datos compartir más información sobre el contexto de un evento de colecta / registro de datos de biodiversidad, como trampas cámaras, trampas para insectos, relevés botánicos, sitios de observación de aves, etc.\n"
+"Su estructura es un poco más compleja que los conjuntos de datos taxonómicos y los conjuntos de datos de registros biológicos, ya que involucra dos archivos (por ejemplo, dos pestañas en una hoja de cálculo): uno para describir los 'eventos' (por ejemplo, cada trampa) y el otro para describir los especímenes o sucesos vinculados a cada evento.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -7525,14 +7538,15 @@ msgstr "// DIAPOSITVA 15\n"
 #: scripts/data-types.en.txt:81
 #, no-wrap
 msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
-msgstr ""
+msgstr "A veces, se puede encontrar información o datos adicionales utilizando otros materiales de origen distintos a los mencionados anteriormente en este video.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:86
 #, no-wrap
 msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
 "Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
-msgstr ""
+msgstr "Estas otras fuentes incluyen herramientas de teledetección, mapas y datos satelitales, y otros soportes de información, tales como imágenes, grabaciones de audio y vídeo de la vida salvaje.\n"
+"La mayoría de las veces, la información obtenida de esta manera es suplementaria a los datos existentes, pero puede proporcionar información valiosa sobre los individuos y su ubicación, hábitat, rutas migratorias, etc.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:90
@@ -7564,7 +7578,9 @@ msgstr "// DIAPOSITIVA 19\n"
 msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
 "The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
 "The data are then searchable and downloadable via GBIF.org.\n"
-msgstr ""
+msgstr "Una vez que los datos han sido estandarizados usando el estándar Darwin Core, cada clase de conjunto de datos (sólo metadatos, eventos de muestreo, listas de especies o conjuntos de datos de registros biológicos) pueden ser publicados en GBIF.org usando una de las herramientas mencionadas en esta figura.\n"
+"La herramienta de uso más frecuente dentro de la comunidad GBIF es la Herramienta de Publicación Integrada - Integrated Publishing Toolkit- desarrollada por GBIF (IPT), que transforma los datos de origen en archivos de Darwin Core que luego son recogidos e indexados por GBIF.\n"
+"Los datos se pueden buscar y descargar mediante GBIF.org.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:104 scripts/definitions.en.txt:201
@@ -7579,7 +7595,8 @@ msgstr "// DIAPOSITIVA 20\n"
 #, no-wrap
 msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
 "The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
-msgstr ""
+msgstr "La elección de una clase de conjunto de datos puede llevar algún tiempo, especialmente si es nuevo en la publicación de datos dentro de GBIF.\n"
+"El equipo de asistencia técnica de GBIF creó este útil diagrama de flujo que se puede encontrar en el Blog de Datos de GBIF:\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:109
