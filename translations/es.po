@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-19 00:27\n"
+"PO-Revision-Date: 2021-07-19 01:30\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -7717,464 +7717,465 @@ msgstr "En la sección de DEFINICIONES intentaremos primero aclarar el uso de la
 #: scripts/definitions.en.txt:14
 #, no-wrap
 msgid "We will then look at the terminology surrounding Fields, Labels and Lists.\n"
-msgstr ""
+msgstr "Luego, veremos la terminología relativa a Campos, Etiquetas y Listas.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:16
 #, no-wrap
 msgid "And lastly, we will straighten out some concepts around characters and their mappings that will help prevent unwanted data messes.\n"
-msgstr ""
+msgstr "Y, por último, aclararemos algunos conceptos en torno a los carateres y sus mapeos que ayudarán a evitar errores de datos no deseados.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:20
 #, no-wrap
 msgid "First definitions.\n"
-msgstr ""
+msgstr "Primeras definiciones.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:22
 #, no-wrap
 msgid "In this section we will look at some of the many different terms and phrases that exist within the world of data and information management. \n"
-msgstr ""
+msgstr "En esta sección veremos algunos de los muchos términos y frases diferentes que existen en el mundo de datos y de gestión de la información.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:24
 #, no-wrap
 msgid "We will be using these throughout the course and it is important that you be familiar with, when and how to use them.\n"
-msgstr ""
+msgstr "Los usaremos a lo largo del curso y es importante que se familiarice con cuándo y cómo usarlos.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:28
 #, no-wrap
 msgid "Let’s focus for a moment on some common words and phrases that contain the word data.\n"
-msgstr ""
+msgstr "Centrémonos por un momento en algunas palabras y frases comunes que contienen la palabra datos.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:32
 #, no-wrap
 msgid "All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  \n"
-msgstr ""
+msgstr "Todas las frases aquí incluyen la palabra datos, pero ¿son todas iguales? Si no, ¿cuál es la diferencia?\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:36
 #, no-wrap
 msgid "So, what is a “Database”?\n"
-msgstr ""
+msgstr "Entonces, ¿qué es una \"base de datos\"?\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:38
 #, no-wrap
 msgid "There are many definitions, but what they all have in common is the theme that a database is a structured and organized collection of data and/or information held on a computer.\n"
-msgstr ""
+msgstr "Hay muchas definiciones, pero lo que todas tienen en común es que una base de datos es una colección estructurada y organizada de datos y / o información almacenada en una computadora.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:40
 #, no-wrap
 msgid "Everything else in the list is just a way to help you achieve this data nirvana! \n"
-msgstr ""
+msgstr "¡Todo lo demás en la lista es solo una forma de ayudarlo a lograr este nirvana de datos!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:42
 #, no-wrap
 msgid "Let’s dig a little deeper then into those other terms.\n"
-msgstr ""
+msgstr "Profundicemos un poco más en esos otros términos.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:46
 #, no-wrap
 msgid "Let us take a look at the phrase “database language”.\n"
-msgstr ""
+msgstr "Echemos un vistazo a la frase \"lenguaje de la base de datos\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:48
 #, no-wrap
 msgid "According to the Oxford English dictionary “language” is the method of human communication, […], consisting of the use of words [or symbols] in a structured and conventional way.\n"
-msgstr ""
+msgstr "Según el diccionario de inglés de Oxford, “lenguaje” es el método de comunicación humana, […], que consiste en el uso de palabras [o símbolos] de forma estructurada y convencional.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:50
 #, no-wrap
 msgid "For our purposes, database languages and their close allies the array languages are the way by which a human communicates with a computer to manipulate and move around data. \n"
-msgstr ""
+msgstr "Para nuestros propósitos, los lenguajes de bases de datos y sus aliados cercanos, los lenguajes de matriz, son la forma en que un ser humano se comunica con una computadora para manipular y mover datos.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:52
 #, no-wrap
 msgid "Examples that you may have come across are:\n"
-msgstr ""
+msgstr "Ejemplos que puede haber encontrado son:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:54
 #, no-wrap
 msgid "Java, SPARQL, SQL and Python\n"
-msgstr ""
+msgstr "Java, SPARQL, SQL y Python\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:56
 #, no-wrap
 msgid "They are simply methods used to define and create tables, views and queries and also allow users to access, update, store and move data around.\n"
-msgstr ""
+msgstr "Son simplemente métodos que se utilizan para definir y crear tablas, vistas y consultas y también permiten a los usuarios acceder, actualizar, almacenar y mover datos.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:60
 #, no-wrap
 msgid "Now let’s look at the phrase “database program or software”.\n"
-msgstr ""
+msgstr "Ahora veamos la frase \"programa o software de la base de datos\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:62
 #, no-wrap
 msgid "Again going to the Oxford English dictionary a “program/programme” is a set of related measures or activities with a particular long-term aim.\n"
-msgstr ""
+msgstr "Una vez más, acudiendo al diccionario de inglés de Oxford, un “programa” es un conjunto de medidas o actividades relacionadas con un objetivo particular a largo plazo.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:64
 #, no-wrap
 msgid "In this context, a “database program or software” combines and presents functions and features for manipulating data, together is a unified interface. \n"
-msgstr ""
+msgstr "En este contexto, un “programa o software de base de datos” combina y presenta funciones y características para manipular datos, juntos es una interfaz unificada.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:66
 #, no-wrap
 msgid "Examples that you may come across are:\n"
-msgstr ""
+msgstr "Algunos ejemplos que puede encontrar son:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:68
 #, no-wrap
 msgid "Microsoft Access, FilemakerPro and Oracle\n"
-msgstr ""
+msgstr "Microsoft Access, FilemakerPro y Oracle\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:70
 #, no-wrap
 msgid "So, database programs or software are grouped utilities which allow a user, via a database language, to store, manage, query and report data held in the system.\n"
-msgstr ""
+msgstr "Por lo tanto, los programas o software de base de datos son utilidades agrupadas que permiten a un usuario, a través de un lenguaje de base de datos, almacenar, administrar, consultar y reportar datos almacenados en el sistema.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:74
 #, no-wrap
 msgid "The last term is “data cleaning tool”.\n"
-msgstr ""
+msgstr "El último término es \"herramienta de limpieza de datos\".\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:76
 #, no-wrap
 msgid "Data cleaning tools are systems whose utilities focus is on the manipulation of data with the aim of increasing fitness for use. \n"
-msgstr ""
+msgstr "Las herramientas de limpieza de datos son sistemas cuyas utilidades se centran en la manipulación de datos con el objetivo de aumentar la aptitud para su uso \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:78
 #, no-wrap
 msgid "Examples that you may be familiar or will learn about during the course are:\n"
-msgstr ""
+msgstr "Algunos ejemplos con los que puede estar familiarizado o que aprenderá durante el curso son:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:80
 #, no-wrap
 msgid "OpenRefine, MatLab  and spreadsheets\n"
-msgstr ""
+msgstr "OpenRefine, MatLab y hojas de cálculo\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:82
 #, no-wrap
 msgid "A data cleaning tool should assist the user in the discovery and repair of messy data in order to increase quality.\n"
-msgstr ""
+msgstr "Una herramienta de limpieza de datos debería ayudar al usuario a descubrir y reparar los datos desordenados para aumentar la calidad.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:86
 #, no-wrap
 msgid "Continuing on with some more terms that you should be familiar with we will look at the differences between the terms Field, Label and List.\n"
-msgstr ""
+msgstr "Continuando con algunos términos más con los que debería estar familiarizado, veremos las diferencias entre los términos Campo, Etiqueta y Lista.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:90
 #, no-wrap
 msgid "You will often hear reference made to field or column names and field labels or headings. \n"
-msgstr ""
+msgstr "A menudo escuchará referencias a nombres de campos o columnas y etiquetas o encabezados de campos. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:92
 #, no-wrap
 msgid "Often they will be used interchangeably, however they are different things. \n"
-msgstr ""
+msgstr "A menudo se usarán indistintamente, sin embargo, son cosas diferentes. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:94
 #, no-wrap
 msgid "Field or column names refer to the actual column in the database table. \n"
-msgstr ""
+msgstr "Los nombres de campo o columna se refieren a la columna real en la tabla de la base de datos. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:96
 #, no-wrap
 msgid "They are a often short, not always in plain language, sometimes computer generated; but in a properly formed database they are ALWAYS unique. \n"
-msgstr ""
+msgstr "Son a menudo breves, no siempre en un lenguaje sencillo, a veces generados por computadora; pero, en una base de datos debidamente formada, SIEMPRE son únicos. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:98
 #, no-wrap
 msgid "Field names are almost always used by database languages, because the avoid ambiguity.\n"
-msgstr ""
+msgstr "Los nombres de campo casi siempre son usados ​​por lenguajes de bases de datos porque evitan la ambigüedad.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:100
 #, no-wrap
 msgid "Labels and headers on the other hand, refer to the human readable versions of the field names. \n"
-msgstr ""
+msgstr "Las etiquetas y los encabezados, por otro lado, se refieren a las versiones legibles por humanos de los nombres de los campos. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:102
 #, no-wrap
 msgid "Most often you will see these in the graphical user interface of your software and on exports and reports. \n"
-msgstr ""
+msgstr "La mayoría de las veces los verá en la interfaz gráfica de usuario de su software y en exportaciones e informes. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:104
 #, no-wrap
 msgid "In some software you can in fact have different labels to the same field on a user by user or group basis!\n"
-msgstr ""
+msgstr "¡En algunos programas puede tener etiquetas diferentes para el mismo campo en un usuario por usuario o por grupo!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:108
 #, no-wrap
 msgid "As you work with your data you will come across the phrases “drop-down list” and “controlled vocabulary” and on the surface they can appear to be the same. \n"
-msgstr ""
+msgstr "A medida que trabaja con sus datos, encontrará las frases \"lista desplegable\" y \"vocabulario controlado\" y, en la superficie, pueden parecer iguales. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:110
 #, no-wrap
 msgid "Indeed they are both powerful tools to help you keep your data clean, but they are different.\n"
-msgstr ""
+msgstr "De hecho, ambas son herramientas potentes para ayudarlo a mantener sus datos limpios, pero son diferentes.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:112
 #, no-wrap
 msgid "A drop-down list, also sometimes called a lookup table is a data entry element that is created in your database software. \n"
-msgstr ""
+msgstr "Una lista desplegable, también llamada a veces tabla de búsqueda, es un elemento de entrada de datos que se crea en el software de su base de datos. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:114
 #, no-wrap
 msgid "It allows to you select a value from a predefined set of options. \n"
-msgstr ""
+msgstr "Le permite seleccionar un valor de un conjunto de opciones predefinidas. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:116
 #, no-wrap
 msgid "They can also be generated from the data itself on the fly.\n"
-msgstr ""
+msgstr "También se pueden generar a partir de los propios datos sobre la marcha.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:118
 #, no-wrap
 msgid "A controlled vocabulary on the other hand, is a very strictly defined, domain specific set of values that should be applied to a particular field. \n"
-msgstr ""
+msgstr "Un vocabulario controlado, por otro lado, es un conjunto de valores estrictamente definidos, de dominio específico que debe aplicarse a un campo en particular. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:120
 #, no-wrap
 msgid "They are an integral part of a well defined standard. \n"
-msgstr ""
+msgstr "Son una parte integral de un estándar bien definido. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:122
 #, no-wrap
 msgid "Such values can be used in a drop-down list as mentioned previously.\n"
-msgstr ""
+msgstr "Tales valores pueden ser usados en una lista desplegable como se mencionó previamente.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:126
 #, no-wrap
 msgid "In this section we will look at what the term character means in relation to data and computers.\n"
-msgstr ""
+msgstr "En esta sección veremos qué significa el término carácter en relación con los datos y las computadoras.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:130
 #, no-wrap
 msgid "As a reminder computers “see” in binary. Everything that you type in, is held in memory as a series of ones and zeros. \n"
-msgstr ""
+msgstr "Como recordatorio, las computadoras \"ven\" en binario. Todo lo que escribe se guarda en la memoria como una serie de unos y ceros. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:132
 #, no-wrap
 msgid "The computer does not “see” the repertoire of letters and symbols on your keyboard.\n"
-msgstr ""
+msgstr "La computadora no “ve” el repertorio de letras y símbolos en su teclado.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:134
 #, no-wrap
 msgid "It needs a map to translate the character set that you would write or type, into its binary language and then back again to show it to you on the screen or a printer. \n"
-msgstr ""
+msgstr "Necesita un mapa para traducir el conjunto de caracteres que escribiría o tipearía, a su lenguaje binario y luego volver a mostrarlo en la pantalla o en una impresora. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:136
 #, no-wrap
 msgid "This map is made up of two parts:\n"
-msgstr ""
+msgstr "Este mapa está compuesto por dos partes:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:138
 #, no-wrap
 msgid "The “coded character set” and \n"
-msgstr ""
+msgstr "El \"conjunto de caracteres codificados\" y \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:140
 #, no-wrap
 msgid "The “character encoding”\n"
-msgstr ""
+msgstr "La \"codificación de caracteres\"\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:142
 #, no-wrap
 msgid "Each symbol or glyph is assigned a numeric value and that number is then converted to binary.\n"
-msgstr ""
+msgstr "A cada símbolo o glifo se le asigna un valor numérico y ese número luego se convierte a binario.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:146
 #, no-wrap
 msgid "In this example we see how character encoding is used to map the capital letter A in the western alphabet.\n"
-msgstr ""
+msgstr "En este ejemplo, vemos cómo se usa la codificación de caracteres para mapear la letra A mayúscula en el alfabeto occidental.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:148
 #, no-wrap
 msgid "The ASCII value for the capital letter A is the decimal number 65 \n"
-msgstr ""
+msgstr "El valor ASCII de la letra A mayúscula es el número decimal 65 \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:150
 #, no-wrap
 msgid "which in HEXIDECIMAL is 041 \n"
-msgstr ""
+msgstr "que en HEXADECIMAL es 041 \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:152
 #, no-wrap
 msgid "and in BINARY 01000001\n"
-msgstr ""
+msgstr "y en BINARIO 01000001\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:154
 #, no-wrap
 msgid "Try mapping your own name to Binary using the link at the bottom of the screen.\n"
-msgstr ""
+msgstr "Intente asignar su propio nombre a Binary usando el enlace en la parte inferior de la pantalla.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:158
 #, no-wrap
 msgid "In effect what is happening is that when you type into a keyboard and save a file the software that you are using will select an encoding to save with it. \n"
-msgstr ""
+msgstr "En efecto, lo que está sucediendo es que cuando escribe en un teclado y guarda un archivo, el software que está utilizando seleccionará una codificación para guardar con él. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:160
 #, no-wrap
 msgid "When you open that file again the software needs to know which encoding (map) to use to redisplay the information back to you correctly.\n"
-msgstr ""
+msgstr "Cuando abra ese archivo nuevamente, el software necesita saber qué codificación (mapa) usar para volver a mostrarle la información correctamente.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:164
 #, no-wrap
 msgid "So why is this important to you as a data custodian?\n"
-msgstr ""
+msgstr "Entonces, ¿por qué es esto importante para usted como custodio de datos?\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:166
 #, no-wrap
 msgid "Let’s say that you translate the start of Hamlet’s soliloquy\n"
-msgstr ""
+msgstr "Digamos que traduces el comienzo del soliloquio de Hamlet\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:168
 #, no-wrap
 msgid " ”To be or not to be, that is the question”\n"
-msgstr ""
+msgstr " ”Ser o no ser, esa es la cuestión”\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:170
 #, no-wrap
 msgid "into French and then save the file with a text editor that uses the encoding Latin-1\n"
-msgstr ""
+msgstr "en francés y luego guarde el archivo con un editor de texto que usa la codificación Latin-1\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:172
 #, no-wrap
 msgid "Then you send it to a colleague to check the translation. Voila!\n"
-msgstr ""
+msgstr "Luego se lo envía a un colega para que verifique la traducción. ¡Voila!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:176
 #, no-wrap
 msgid "When they open the file in MicroSoft Word this is what they see…\n"
-msgstr ""
+msgstr "Cuando abren el archivo en MicroSoft Word, esto es lo que ven…\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:178
 #, no-wrap
 msgid "Mon dieu!\n"
-msgstr ""
+msgstr "Mon dieu!\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:180
 #, no-wrap
 msgid "There are some unexpected characters.\n"
-msgstr ""
+msgstr "Hay algunos personajes inesperados.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:182
 #, no-wrap
 msgid "You forgot to tell your colleague that you where using Latin-1 as the encoding. \n"
-msgstr ""
+msgstr "Olvidó decirle a su colega que estaba usando Latin-1 como codificación. \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:185
 #, no-wrap
 msgid "MicroSoft Word on their end was set to use the encoding set Unicode UTF-8. \n"
 "The maps did not match.\n"
-msgstr ""
+msgstr "MicroSoft Word en su extremo se configuró para usar el conjunto de codificación Unicode UTF-8. \n"
+"Los mapas no coincidían.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:187
 #, no-wrap
 msgid "Depending on the software the data may be irretrievably corrupted.\n"
-msgstr ""
+msgstr "Dependiendo del software, los datos pueden estar irremediablemente dañados.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:191
 #, no-wrap
 msgid "In review we have looked at the differences between the phrases:\n"
-msgstr ""
+msgstr "En repaso, hemos analizado las diferencias entre las frases:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:193
 #, no-wrap
 msgid "Database; database language; database program, data-cleaning tool;\n"
-msgstr ""
+msgstr "Base de datos; lenguaje de la base de datos; programa de base de datos, herramienta de limpieza de datos;\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:195
 #, no-wrap
 msgid "Field names & Field labels; Drop-down lists & Controlled vocabularies and between\n"
-msgstr ""
+msgstr "Nombres de campo y Etiquetas de campo; Listas desplegables y Vocabularios controlados y entre \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:197
 #, no-wrap
 msgid "Repertoires, Coded sets & Encodings \n"
-msgstr ""
+msgstr "Repertorios, Conjuntos codificados y Codificaciones \n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:199
 #, no-wrap
 msgid "And shown that although the terms may seem similar the in fact have very different definitions.\n"
-msgstr ""
+msgstr "Y demostró que aunque los términos pueden parecer similares, de hecho tienen definiciones muy diferentes.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:203
 #, no-wrap
 msgid "Remember that:\n"
-msgstr ""
+msgstr "Recuerda que:\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:205
