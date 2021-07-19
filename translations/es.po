@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-18 23:26\n"
+"PO-Revision-Date: 2021-07-19 00:27\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -7608,19 +7608,19 @@ msgstr "Si sus datos aún no están capturados en una base de datos u hoja de c�
 #: scripts/data-types.en.txt:111
 #, no-wrap
 msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
-msgstr ""
+msgstr "Si su conjunto de datos contiene una lista de nombres científicos que no se refieren a organismos o especímenes observados y / o recolectados, puede publicarlo como recurso taxonómico o lista de especies.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:113
 #, no-wrap
 msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
-msgstr ""
+msgstr "Si su conjunto de datos incluye nombres científicos vinculados a especímenes observados y / o colectados, así como fechas y ubicaciones, puede compartirlo como un conjunto de datos de registros biológicos.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:115
 #, no-wrap
 msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
-msgstr ""
+msgstr "Por último, si la información sobre los protocolos utilizados en el campo está disponible, puede optar por compartir su conjunto de datos como un conjunto de datos de eventos de muestreo.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:117 scripts/definitions.en.txt:210
@@ -7635,7 +7635,9 @@ msgstr "// DIAPOSITIVA 21\n"
 msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
 "Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
 "You can find these requirements on GBIF.org from the How-to menu.\n"
-msgstr ""
+msgstr "Cada clase de conjunto de datos compartido dentro de GBIF debe cumplir con sus propios requisitos de calidad de datos.\n"
+"Algunos requisitos son obligatorios (como el occurrenceID, taxonID o eventID, según el tipo de conjunto de datos), otros son opcionales pero muy recomendables (como las coordenadas en grados decimales).\n"
+"Puede encontrar estos requisitos en GBIF.org desde el menú de instrucciones.\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:123 scripts/organizing.en.txt:191
@@ -7654,25 +7656,25 @@ msgstr "Para poder publicar datos a través de GBIF, es importante entender las 
 #: scripts/data-types.en.txt:127
 #, no-wrap
 msgid "You can reflect on this topic with the following questions:\n"
-msgstr ""
+msgstr "Puedes reflexionar sobre este tema con las siguientes preguntas:\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:129
 #, no-wrap
 msgid "Is your data type different than you originally thought?\n"
-msgstr ""
+msgstr "¿Su tipo de datos es diferente de lo que se pensó originalmente?\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:131
 #, no-wrap
 msgid "With what kind of data do you work?\n"
-msgstr ""
+msgstr "¿Con qué tipo de datos trabajas?\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:133
 #, no-wrap
 msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
-msgstr ""
+msgstr "¿Cómo los publicarías en GBIF? (¿usando qué Core y/o extensión?)\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:135 scripts/organizing.en.txt:203
@@ -7685,31 +7687,31 @@ msgstr "// DIAPOSITIVA 23\n"
 #: scripts/data-types.en.txt:142
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Esta presentación fue creada y narrada originalmente por Sophie Pamerlon con contribuciones adicionales de los Entrenadores, Mentores y Estudiantes de BID y BIFA.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:4
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section.\n"
-msgstr ""
+msgstr "Esta sesión trabajará en los fundamentos y en parte de la sección de Terminología.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:6
 #, no-wrap
 msgid "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
+msgstr "Te presentaremos el lenguaje, la terminología y las definiciones de algunos de los conceptos, funciones y procesos básicos que pondrás en uso durante el resto del curso.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:10
 #, no-wrap
 msgid "First let’s review the structure of this session.\n"
-msgstr ""
+msgstr "Primero revisaremos la estructura de esta sesión.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:12
 #, no-wrap
 msgid "In the section on DEFINITIONS we will first try to clarify the use of the word “Data”.\n"
-msgstr ""
+msgstr "En la sección de DEFINICIONES intentaremos primero aclarar el uso de la palabra “Datos”.\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:14
