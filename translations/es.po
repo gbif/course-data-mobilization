@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-19 05:04\n"
+"PO-Revision-Date: 2021-07-19 06:02\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -8979,39 +8979,41 @@ msgstr "COMPROBACIÓN DE NOMBRE\n"
 #: scripts/organizing.en.txt:158
 #, no-wrap
 msgid "Followed by PHOTOGRAPHY\n"
-msgstr ""
+msgstr "Seguido por FOTOGRAFÍA\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:160
 #, no-wrap
 msgid "Then DATA ENTRY\n"
-msgstr ""
+msgstr "Luego ENTRADA DE DATOS\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:162
 #, no-wrap
 msgid "And finally PROOFREADING\n"
-msgstr ""
+msgstr "Y finalmente CORRECCIÓN\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:167
 #, no-wrap
 msgid "Rules driven workflows often have an underlying sequential element as described previously. \n"
 "However, within each task cluster, rules and logic can alter the progress of the workflow.\n"
-msgstr ""
+msgstr "Los flujos de trabajo impulsados ​​por reglas a menudo tienen un elemento secuencial subyacente, como se describió anteriormente. \n"
+"Sin embargo, dentro de cada grupo de tareas, las reglas y la lógica pueden alterar el progreso del flujo de trabajo.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:171
 #, no-wrap
 msgid "In this example in the lower right corner in the PHOTOGRAPHY task cluster there is a quality check logic gate.\n"
-msgstr ""
+msgstr "En este ejemplo, en la esquina inferior derecha del grupo de tareas FOTOGRAFÍA, hay una puerta lógica de control de calidad.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:174
 #, no-wrap
 msgid "If there is a problem with the image it is discarded and the specimen goes back to be photographed again.\n"
 "Only when the quality check has been passed can the workflow continue.\n"
-msgstr ""
+msgstr "Si hay algún problema con la imagen se descarta y la muestra se vuelve a fotografiar.\n"
+"Solo cuando se ha pasado el control de calidad, el flujo de trabajo puede continuar.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:180
@@ -9019,122 +9021,125 @@ msgstr ""
 msgid "Machine State workflows are the next most complex form.\n"
 "Here, the steps within each task cluster can happen asynchronously i.e they are not necessarily performed one after another, but instead can be triggered by actions and states in previous steps.\n"
 "One state is assigned as the start state, and then, based on an event, a transition is made to another state and so on.\n"
-msgstr ""
+msgstr "Los flujos de trabajo del estado de las máquinas son la siguiente forma más compleja.\n"
+"Aquí, los pasos dentro de cada grupo de tareas pueden suceder de forma asincrónica, es decir, no necesariamente se realizan uno tras otro, sino que pueden activarse mediante acciones y estados en pasos anteriores.\n"
+"Se asigna un estado como estado de inicio y luego, en función de un evento, se realiza una transición a otro estado y así sucesivamente.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:185
 #, no-wrap
 msgid "If we take this example from Allard 2012.\n"
 "Let’s say that the photography lab is only allowed to hold 60 herbarium sheets at any one time.\n"
-msgstr ""
+msgstr "Si tomamos este ejemplo de Allard 2012.\n"
+"Digamos que el laboratorio de fotografía solo puede contener 60 hojas de herbario a la vez.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:187
 #, no-wrap
 msgid "The NAME CHECKING task cluster can continue to prep specimens but there is a check that means: Specimens cannot pass to the PHOTOGRAPHY task cluster until there is space again.\n"
-msgstr ""
+msgstr "El grupo de tareas VERIFICACIÓN DE NOMBRE puede continuar preparando muestras, pero hay una verificación que significa que: Las muestras no pueden pasar al grupo de tareas FOTOGRAFÍA hasta que haya espacio nuevamente.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:189
 #, no-wrap
 msgid "Meanwhile the other clusters can also carry on as long as they have specimens or images to work on.\n"
-msgstr ""
+msgstr "Mientras tanto, los otros grupos también pueden continuar siempre que tengan muestras o imágenes en las que trabajar.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:193
 #, no-wrap
 msgid "In this next short section, ELEMENTS OF A GOOD PLAN we will look at how good documentation aids good planning. we will:\n"
-msgstr ""
+msgstr "En esta próxima sección corta, ELEMENTOS DE UN BUEN PLAN, veremos cómo una buena documentación ayuda a una buena planificación. Lo haremos:\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:195
 #, no-wrap
 msgid "highlight the benefits of good documentation;\n"
-msgstr ""
+msgstr "destacar los beneficios de una buena documentación;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:197
 #, no-wrap
 msgid "make connections between the proposal, planning and implementation documents;\n"
-msgstr ""
+msgstr "hacer conexiones entre los documentos de propuesta, planificación e implementación;\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:199
 #, no-wrap
 msgid "and show how the elements of each build together, thereby reducing the agony of the last \n"
-msgstr ""
+msgstr "y mostrar cómo los elementos de cada uno se construyen juntos, reduciendo así la agonía del último \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:201
 #, no-wrap
 msgid "minute end of project report.\n"
-msgstr ""
+msgstr "minuto final del informe del proyecto.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:205
 #, no-wrap
 msgid "The definition of a plan is a detailed proposal for doing or achieving something.\n"
-msgstr ""
+msgstr "La definición de un plan es una propuesta detallada para hacer o lograr algo.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:207
 #, no-wrap
 msgid "Documentation of your project should describe not only what you planned to do but also what you actually did.\n"
-msgstr ""
+msgstr "La documentación de su proyecto debe describir no solo lo que planeaba hacer, sino también lo que realmente hizo.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:209
 #, no-wrap
 msgid "Its primary purpose is to communicate with all stakeholders in order to provide an exact account of expectations, responsibilities and achievements.\n"
-msgstr ""
+msgstr "Su propósito principal es comunicarse con todas las partes interesadas para proporcionar una descripción exacta de las expectativas, responsabilidades y logros.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:211 scripts/structures.en.txt:155
 #, no-wrap
 msgid "// Slide 24\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 24\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:213
 #, no-wrap
 msgid "Thorough documentation has many benefits.\n"
-msgstr ""
+msgstr "La documentación completa tiene muchos beneficios.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:215
 #, no-wrap
 msgid "It provides accountability - everyone should know what they are responsible for and also what others are responsible for.\n"
-msgstr ""
+msgstr "Proporciona responsabilidad - todos deben saber de qué son responsables y también de qué son responsables los demás.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:217
 #, no-wrap
 msgid "It ensures integrity - do what you say you will do, especially where sensitive data is concerned.\n"
-msgstr ""
+msgstr "Garantiza la integridad - haga lo que dice que hará, especialmente cuando se trate de información delicada.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:219
 #, no-wrap
 msgid "It provides protection - a good plan helps you avoid scope creep and unexpected requests.\n"
-msgstr ""
+msgstr "Proporciona protección - un buen plan lo ayuda a evitar arrastramiento del alcance y solicitudes inesperadas.\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:221
 #, no-wrap
 msgid "It provides proof of compliance - allows you to show that you have followed the standards that you said you would\n"
-msgstr ""
+msgstr "Proporciona prueba de cumplimiento - le permite demostrar que ha seguido los estándares que dijo que seguiría\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:223
 #, no-wrap
 msgid "It enhances availability - your plan should be available, there shouldn't be anything hidden at this stage. \n"
-msgstr ""
+msgstr "Mejora la disponibilidad - su plan debe estar disponible, no debe haber nada oculto en esta etapa. \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:225
 #, no-wrap
 msgid "It documents retention - How long will the data created by this project remain \"fresh\", what needs to happen to keep it up to date. \n"
-msgstr ""
+msgstr "Documenta la retención - cuánto tiempo permanecerán \"frescos\" los datos creados por este proyecto, qué debe suceder para mantenerlos actualizados. \n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:227
