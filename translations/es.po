@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-16 11:21+0000\n"
-"PO-Revision-Date: 2021-07-20 20:42\n"
+"PO-Revision-Date: 2021-07-21 00:30\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1937,7 +1937,7 @@ msgstr "- [ ] Afiliación\n"
 #. type: Plain text
 #: capture.en.adoc:7
 msgid "In this module, you will learn about the concept of standards, in particular, the Darwin Core Standard and its components.  You will also learn the types of primary biodiversity data and how to best share that information within GBIF.  Lastly, you will review principles of data quality in the context of data capture and will learn about data quality and coherence (especially on subjects such as georeferencing, dates, names and taxa cross-checking)."
-msgstr "En este módulo, aprenderá sobre el concepto de estándares, en particular, el estándar Darwin Core y sus componentes. También aprenderá los tipos de datos primarios sobre biodiversidad y la mejor manera de compartir esa información a través de GBIF. Por último, revisará los principios de calidad de los datos en el contexto de la captura de datos y aprenderá sobre la calidad y coherencia de los datos (especialmente en temas como georeferenciación, fechas, nombres y verificación de taxones)."
+msgstr "En este módulo, aprenderá sobre el concepto de estándares, en particular, el estándar Darwin Core y sus componentes. También aprenderá los tipos de datos primarios sobre biodiversidad y la mejor manera de compartir esa información a través de GBIF. Por último, revisará los principios de calidad de los datos en el contexto de la captura de datos y aprenderá sobre la calidad y coherencia de los datos (especialmente en temas como georreferenciación, fechas, nombres y verificación de taxones)."
 
 #. type: Title ===
 #: capture.en.adoc:8
@@ -6619,7 +6619,7 @@ msgid "As Arthur Chapman says “Prevention is better than cure.” \n"
 msgstr "Como dice Arthur Chapman: “Más vale prevenir que curar.\"\n"
 "Al fin y al cabo, siempre es más fácil y menos costoso prevenir un error que buscar uno y corregirlo.\n"
 "Cuanta más planificación haga previamente, incluso desde el momento en que los datos se registran en el campo, es probable que se encuentren menos errores.\n"
-"Los vocabularios estandarizados y los procedimientos claros para la captura de datos e ingres de datos son sólo algunas de las muchas herramientas que puede utilizar para prevenir posibles errores.\n"
+"Los vocabularios estandarizados y los procedimientos claros para la captura e ingreso de datos son sólo algunas de las muchas herramientas que puede utilizar para prevenir posibles errores.\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:71
@@ -7093,7 +7093,7 @@ msgstr "En este diagrama, la precisión es qué tan cerca están los puntos, ind
 msgid "These are measures of how well the data gatherer was able to capture the true value being investigated.\n"
 "Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.\n"
 msgstr "Estas son las medidas de lo bien que el recolector de datos pudo captar el valor verdadero que se estaba investigando.\n"
-"Conocer estas propiedades de sus datos le ayudará a entender las maneras en que puede y no puede limpiar validar y procesar los datos.\n"
+"Conocer estas propiedades de sus datos le ayudará a entender las maneras en que puede y no puede limpiar, validar y procesar los datos.\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
