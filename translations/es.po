@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-22 13:19+0000\n"
-"PO-Revision-Date: 2021-07-22 21:01\n"
+"PO-Revision-Date: 2021-07-22 22:17\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -11000,13 +11000,14 @@ msgstr "Hay muchas más extensiones. \n"
 #, no-wrap
 msgid "There are many layers in our biodiversity informatics community. \n"
 "The image here shows the relationships between these layers and where they intersect with the Darwin Core and where extensions maybe necessary in order to fully share data.\n"
-msgstr ""
+msgstr "Hay muchas capas en nuestra comunidad de informática de la biodiversidad.\n"
+"La imagen aquí muestra las relaciones entre estas capas y dónde se intersectan con Darwin Core y dónde pueden ser necesarias extensiones para compartir datos completos.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:252
 #, no-wrap
 msgid "Data shared to GBIF is submitted via a Darwin Core Archive or DwCA\n"
-msgstr ""
+msgstr "Los datos compartidos con GBIF se envían a través de un Archivo de Darwin Core o DwCA\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:256
@@ -11014,31 +11015,33 @@ msgstr ""
 msgid "A DwCA is an expression of the Darwin Core text guide. \n"
 "It is a compressed file containing a minimum of three files. \n"
 "It is encoded as UTF-8. \n"
-msgstr ""
+msgstr "Un DwCA es una expresión de la guía de texto de Darwin Core. \n"
+"Es un archivo comprimido que contiene un mínimo de tres archivos. \n"
+"Está codificado como UTF-8. \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:259
 #, no-wrap
 msgid "In this example, these three files are: \n"
-msgstr ""
+msgstr "En este ejemplo, estos tres archivos son: \n"
 
 #. type: Bullet: '1.	'
 #: scripts/standards.en.txt:261
 #, markdown-text, no-wrap
 msgid "A data file (occurrence.txt) conforming to the SIMPLEDWC in a CSV format where the first row includes Darwin Core standard term names.\n"
-msgstr ""
+msgstr "Un archivo de datos (occurrence.txt) conforme al SIMPLE DWC en un formato CSV donde la primera fila incluye nombres de término estándar de Darwin Core.\n"
 
 #. type: Bullet: '2.	'
 #: scripts/standards.en.txt:263
 #, markdown-text, no-wrap
 msgid "A meta file (meta.xml) in XML format containing technical details to instruct a computer in how to use the data file.\n"
-msgstr ""
+msgstr "Un archivo meta (meta.xml) en formato XML que contiene detalles técnicos para instruir a una computadora sobre cómo usar el archivo de datos.\n"
 
 #. type: Bullet: '3.	'
 #: scripts/standards.en.txt:265
 #, markdown-text, no-wrap
 msgid "A meta file (eml.xml) in an XML format containing explanatory details about the records contained within the data file to instruct a user if the data will be fit for their use.\n"
-msgstr ""
+msgstr "Un archivo meta (eml. ml) en un formato XML que contiene detalles explicativos sobre los registros contenidos en el archivo de datos para indicar al usuario si los datos serán aptos para su uso.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:269
@@ -11046,26 +11049,28 @@ msgstr ""
 msgid "A more complex structure can be obtained by sharing multiple related csv files to extend the data. \n"
 "They are related to the core file by way of a unique id. \n"
 "In an occurrence dataset, these related csv files are related by the occurrenceID.\n"
-msgstr ""
+msgstr "Una estructura más compleja se puede obtener compartiendo múltiples archivos csv relacionados para extender los datos. \n"
+"Están relacionados con el archivo del núcleo a través de un id único. \n"
+"En un conjunto de datos de registros biológicos, estos archivos csv relacionados están relacionados por el identificador del registro (occurrenceID).\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:272
 #, no-wrap
 msgid " \n"
 "// Slide 18\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 18\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:274
 #, no-wrap
 msgid "We’ve covered What Darwin Core Is and hopefully you’ve started to develop a sense of why you should use it.\n"
-msgstr ""
+msgstr "Hemos cubierto lo Qué es Darwin Core y esperamos que haya comenzado a desarrollar una idea de por qué debería usarlo.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:276
 #, no-wrap
 msgid "It is a standard and standards are good! Standards provide us with the rules and protocols we need to share our data with others.\n"
-msgstr ""
+msgstr "¡Es un estándar y los estándares son buenos! Los estándares nos brindan las reglas y protocolos que necesitamos para compartir nuestros datos con otros.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:281
@@ -11074,7 +11079,10 @@ msgid "Darwin Core also provides us with a common language. \n"
 "As we saw in the Foundations – Documentation presentation, source data can be tricky when trying to compare datasets. \n"
 "The fields in your source data might be different than the fields in another institutions data source. \n"
 "When we all use Darwin Core to share our data, we understand that data has been shared with a common language.\n"
-msgstr ""
+msgstr "Darwin Core también nos proporciona un lenguaje común. \n"
+"Como vimos en los Fundamentos – Presentación de documentación, los datos de origen pueden resultar complicados al intentar comparar conjuntos de datos. \n"
+"Los campos en sus datos de origen pueden ser diferentes a los campos de otras instituciones fuente de datos. \n"
+"Cuando todos usamos Darwin Core para compartir nuestros datos, entendemos que los datos han sido compartidos con un idioma común.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:285
@@ -11082,39 +11090,43 @@ msgstr ""
 msgid "// Slide 19\n"
 "And it’s not only the data holders that understand this common language, the data users do as well. \n"
 "And after all, what could be better than a user finding a data set that is fit for their use, shared in a common language, that allows them to do better science.\n"
-msgstr ""
+msgstr "// DIAPOSITIVA 19\n"
+"Y no solo los custodios de datos entienden este lenguaje común, sino también los usuarios de datos. \n"
+"Y después de todo, qué podría ser mejor que un usuario encuentre un conjunto de datos que sea adecuado para su uso compartido, en un lenguaje común, que le permita hacer mejor ciencia.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:296
 #, no-wrap
 msgid "This presentation was originally created by Paula Zermoglio and John Wieczorek with additional contributions by Sharon Grant, Sophie Pamerlon, Laura Anne Russell and Dag Endresen, BID and BIFA Trainers, Mentors and students. \n"
-msgstr ""
+msgstr "Esta presentación fue originalmente creada por Paula Zermoglio y John Wieczorek con contribuciones adicionales de Sharon Grant, Sophie Pamerlon, Laura Anne Russell y Dag Endresen, Entrenadores, Mentores y Estudiantes de BID y BIFA. \n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:5
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section. \n"
 "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
+msgstr "Esta sesión es un trabajo fundamental y parte de la sección de Terminología. \n"
+"Te presentaremos el lenguaje, la terminología y las definiciones de algunos de los conceptos, funciones y procesos básicos que pondrá en uso durante el resto del curso.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:10
 #, no-wrap
 msgid "First let us review the structure of this session. \n"
 "In the section on STRUCTURES we will be working on understanding the field and data types that hold data, the structures that help to organize and protect that data and lastly look at what these mean for the integrity and security of your data.\n"
-msgstr ""
+msgstr "Primero revisemos la estructura de esta sesión. \n"
+"En la sección de ESTRUCTURAS, trabajaremos en comprender el campo y los tipos de datos que contienen los datos, las estructuras que ayudan a organizar y proteger esos datos y, por último, veremos qué significan para la integridad y seguridad de sus datos.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:14
 #, no-wrap
 msgid "In this section on basic database Structures, we will focus on the different elements that databases, software tools and languages use to handle the data that you enter.\n"
-msgstr ""
+msgstr "En esta sección sobre Estructuras básicas de bases de datos, nos centraremos en los diferentes elementos que utilizan las bases de datos, las herramientas de software y los lenguajes para manejar los datos que ingresa.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:18
 #, no-wrap
 msgid "First, let us look at field types, also known as data types.\n"
-msgstr ""
+msgstr "Primero, veamos los tipos de campos, también conocidos como tipos de datos.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:26
@@ -11124,7 +11136,11 @@ msgid "Data Types let the computer know what kind of data is expected in a parti
 "They can be simple and encompass a single concept or combine concepts depending on the software or language you are using. \n"
 "Either way the essential building blocks are the same. \n"
 "So let us look at six that you will come across most frequently.\n"
-msgstr ""
+msgstr "Los tipos de datos le permiten a la computadora saber qué tipo de datos se espera en un campo en particular. \n"
+"Esto luego dicta las funciones que se pueden realizar en él. \n"
+"Pueden ser simples y abarcar un solo concepto o combinar conceptos según el software o el lenguaje que esté utilizando. \n"
+"De cualquier manera, los bloques de construcción esenciales son los mismos. \n"
+"Así que veamos seis con los que se encontrará con mayor frecuencia.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:39
@@ -11139,7 +11155,16 @@ msgid "First Numeric fields. \n"
 "The important thing to remember here is that a float always has decimal places so the number 10 will be stored as 10.0. \n"
 "The number of decimal places being an integral element of the type. \n"
 "This has implications when it comes to precision and accuracy.\n"
-msgstr ""
+msgstr "Primero, Campos Numéricos. \n"
+"Este tipo de datos contiene números y hay 2 tipos: enteros (integers) y enteros largos (long integers) y números enteros. \n"
+"Por ejemplo 1, 2, 3, 99, 2000.\n"
+"El tamaño del número depende del número de bits asignados al campo (más sobre esto más adelante). \n"
+"Por ahora, recuerde que un campo de entero largo (long integers) contendrá un número mayor que un entero. \n"
+"Los flotadores (floats), también conocidos como dobles, contienen fracciones o partes de números enteros. \n"
+"Por ejemplo 4.5, 19.47. \n"
+"Lo importante a recordar aquí es que un flotante siempre tiene posiciones decimales, por lo que el número 10 se almacenará como 10.0. \n"
+"El número de posiciones decimales es un elemento integral del tipo. \n"
+"Esto tiene implicaciones cuando se trata de precisión y exactitud.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:45
@@ -11147,7 +11172,9 @@ msgstr ""
 msgid "Alphanumeric fields are also referred to as text, character or string fields. \n"
 "They can hold any letter, number or symbol in the coded character set and usually have a defined character limit. \n"
 "Entering more characters than the character limit can often result in truncation and loss of data on save.\n"
-msgstr ""
+msgstr "Los campos alfanuméricos también se denominan campos de texto (text), caracteres (character) o cadenas (string). \n"
+"Pueden contener cualquier letra, número o símbolo en el conjunto de caracteres codificados y, por lo general, tienen un límite de caracteres definido. \n"
+"Ingresar más caracteres que el límite de caracteres a menudo puede resultar en el truncamiento y la pérdida de datos al guardar.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:52
@@ -11156,7 +11183,10 @@ msgid "Another type of text field that you will come across is the Unstructured 
 "These types of field are used to hold large amounts of unformatted text and unlike alphanumeric fields may not have an obvious character limit. \n"
 "In simple systems, they are generally less flexible in terms of processing; for example sorting and indexing, than their smaller alphanumeric cousins. \n"
 "With decreased storage costs and the rise of NoSQL document-oriented database programs, such as MongoDB however, this is changing.\n"
-msgstr ""
+msgstr "Otro tipo de campo de texto con el que se encontrará es el campo de texto No Estructurado, también conocido como memo, long char o campos blob (Binary Large OBject). \n"
+"Estos tipos de campo se utilizan para contener grandes cantidades de texto sin formato y, a diferencia de los campos alfanuméricos, es posible que no tengan un límite de caracteres obvio. \n"
+"En sistemas simples, generalmente son menos flexibles en términos de procesamiento; por ejemplo, clasificación e indexación, que sus primos alfanuméricos más pequeños. \n"
+"Sin embargo, con la disminución de los costos de almacenamiento y el aumento de los programas de bases de datos orientados a documentos NoSQL, como MongoDB, esto está cambiando.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:64
@@ -11170,7 +11200,15 @@ msgid "System Value fields have a double nature and what you see on the screen i
 "So you can see that the field is actually a float. \n"
 "You should beware because that system value not be the same from software to software.\n"
 "Exports should to checked to make sure the actual date is exported and not the system value.\n"
-msgstr ""
+msgstr "Los campos de Valor del Sistema tienen una naturaleza doble y lo que ve en la pantalla no suele ser el valor real que el software almacena en la memoria. \n"
+"Los campos de fecha y hora son el ejemplo más común de este tipo de campo. \n"
+"En este ejemplo, escribió el 1 de marzo de 1971 en una celda de Excel y presionó enter. \n"
+"Ahora dice 1-Mar-71 en la celda Y 3/1/1971 en la barra de funciones.\n"
+"Excel está aplicando un formato de visualización a la celda, que puede cambiar a voluntad. \n"
+"SIN EMBARGO, si elimina el formato, verá que lo que realmente se está almacenando en el campo ¡es el número 25993.00!. \n"
+"Entonces puede ver que el campo es en realidad un flotador (float). \n"
+"Debe tener cuidado porque el valor del sistema no es el mismo de un software a otro.\n"
+"Las exportaciones deben comprobarse para asegurarse de que se exporta la fecha real y no el valor del sistema.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:71
@@ -11179,7 +11217,10 @@ msgid "Boolean fields, also known as Binary fields, only contain one of two valu
 "They are a special case of a System Value field as mentioned previously in that whilst the software actually saves a number it often displays values such as: Yes/No, Yes/no, Y/N, True/False.\n"
 "You should take care to find out which way around the system you are using translates. \n"
 "Is a 1 a yes or no?\n"
-msgstr ""
+msgstr "Los campos Booleanos, también conocidos como campos Binarios, solo contienen uno de los dos valores que representan un uno o un cero. \n"
+"Se trata de un caso especial de un campo de Valor del Sistema, como se mencionó anteriormente, ya que aunque el software realmente guarda un número, a menudo muestra valores como: Sí / No, Sí / no, Y / N, Verdadero / Falso.\n"
+"Debe tener cuidado y averiguar en qué sentido se traduce el sistema que está utilizando.\n"
+"¿Un 1 es un sí o un no?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:78
@@ -11188,20 +11229,24 @@ msgid "Structured Text fields are less common but mentioned here for completenes
 "They are fields which can be either made up of combinations of the simple data types or even be defined by the data itself. \n"
 "Most often these are used in programming languages to allow flexibility and handling of complex concepts. \n"
 "An example is the factor field used in the R programming language, which is defined as a type vector containing a set of numeric codes with character-valued levels.\n"
-msgstr ""
+msgstr "Los campos de Texto Estructurado son menos comunes, pero se mencionan aquí para que estén completos. \n"
+"Son campos que pueden estar formados por combinaciones de tipos de datos simples o incluso estar definidos por los propios datos. \n"
+"La mayoría de las veces se utilizan en lenguajes de programación para permitir la flexibilidad y el manejo de conceptos complejos. \n"
+"Un ejemplo es el campo de factor utilizado en el lenguaje de programación R, que se define como un vector de tipo que contiene un conjunto de códigos numéricos con niveles con valores de carácter.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:82
 #, no-wrap
 msgid "Now that you have an understanding of the field types used to represent your data elements let us talk about the containers or structures, that many database programs and software use collate and display your data.\n"
-msgstr ""
+msgstr "Ahora que comprende los tipos de campos utilizados para representar sus elementos de datos, permítanos hablar sobre los contenedores o estructuras, que muchos programas de bases de datos y software utilizan recopilar y mostrar sus datos.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:87
 #, no-wrap
 msgid "First is the cell. \n"
 "This is the smallest data structure, it holds a single value and has a single data type associated with it.\n"
-msgstr ""
+msgstr "Primero está la celda. \n"
+"Esta es la estructura de datos más pequeña, tiene un solo valor y tiene un solo tipo de datos asociado.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:93
@@ -11209,20 +11254,23 @@ msgstr ""
 msgid "There is one concept that you should beware of when it comes to cells and that is the empty cell. An empty cell doesn't necessarily mean an empty field.\n"
 "Some software fills an empty field with a System value based on the data type. \n"
 "Examples are NULL N A or even zero!\n"
-msgstr ""
+msgstr "Hay un concepto con el que debe tener cuidado cuando se trata de celdas y es la celda vacía. Una celda vacía no significa necesariamente un campo vacío.\n"
+"Algún software llena un campo vacío con un valor de Sistema basado en el tipo de datos. \n"
+"Los ejemplos son NULL N/A o ¡incluso cero!.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:98
 #, no-wrap
 msgid "As you start to organize cells you begin to build a grid. \n"
 "Grids have implied structure in the form of Rows.\n"
-msgstr ""
+msgstr "A medida que comienza a organizar las celdas, comienza a construir una cuadrícula.\n"
+"Las cuadrículas tienen una estructura implícita en forma de Filas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:102
 #, no-wrap
 msgid "And columns.\n"
-msgstr ""
+msgstr "Y columnas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:109
@@ -11231,14 +11279,18 @@ msgid "When you organize cells into rows and columns, obviously, what you get is
 "This is looks very much like a spreadsheet right? \n"
 "Well, yes. \n"
 "The difference however between a spreadsheet grid and a table are the strength of the ties that hold the rows and columns together.\n"
-msgstr ""
+msgstr "Cuando organizas las celdas en filas y columnas, obviamente, ¡lo que obtienes es una cuadrícula!\n"
+"Esto se parece mucho a una hoja de cálculo, ¿verdad? \n"
+"Bueno, sí. \n"
+"Sin embargo, la diferencia entre una cuadrícula de hoja de cálculo y una tabla es la fuerza de los lazos que mantienen unidas las filas y columnas.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:114
 #, no-wrap
 msgid "So let us now talk about those connections. \n"
 "What the implications for the integrity and security of your data of loose unenforced relationships between rows and columns?\n"
-msgstr ""
+msgstr "Así que hablemos ahora de esas conexiones. \n"
+"¿Cuáles son las implicaciones para la integridad y la seguridad de sus datos de relaciones flexibles y no forzadas entre filas y columnas?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:124
@@ -11250,7 +11302,13 @@ msgid "What actually makes a table useful are the connections that we create to 
 "It is easy for the attributes between the rows to get jumbled up or for the values get changed and then the meaning is lost.\n"
 "`\n"
 "// Slide 20\n"
-msgstr ""
+msgstr "Lo que realmente hace que una tabla sea útil son las conexiones que creamos para dar significado a los datos en la estructura. \n"
+"Intrínsecamente generamos patrones de atributos que convierten los datos en información. \n"
+"Las Filas se convierten en registros y las Columnas en atributos. \n"
+"Sin embargo, en una hoja de cálculo, las conexiones entre las celdas son idiomáticas, sueltas y no se aplican. \n"
+"Es fácil que los atributos entre las filas se mezclen o que los valores se cambien y luego se pierda el significado.\n"
+"'\n"
+"// DIAPOSITIVA 20\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:130
@@ -11260,7 +11318,11 @@ msgid "This lack of enforced connections makes a spreadsheet easy to use but the
 "Spreadsheets are not built to scale either in terms of size or numbers of users -- So can be slow, crashy and easily corruptible. \n"
 "Spreadsheets are easy to copy and email -- So they are hard to version and keep track of.\n"
 "The question is what is the solution?\n"
-msgstr ""
+msgstr "Esta falta de conexiones forzadas hace que una hoja de cálculo sea fácil de usar, pero estas mismas cualidades también causan problemas. \n"
+"Los errores son fáciles de cometer y difíciles de detectar -- Las conexiones y las relaciones no son documentables y, por lo tanto, están sujetas a interpretación y mutación. \n"
+"Las hojas de cálculo no están diseñadas para escalar ni en términos de tamaño ni de cantidad de usuarios -- Por lo que pueden ser lentas, fallar y son fácilmente corruptibles. \n"
+"Las hojas de cálculo son fáciles de copiar y enviar por correo electrónico -- Por lo que son difíciles de actualizar y realizar un seguimiento.\n"
+"La pregunta es ¿cuál es la solución?\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:141
