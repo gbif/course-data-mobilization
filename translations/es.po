@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-22 13:19+0000\n"
-"PO-Revision-Date: 2021-07-22 22:17\n"
+"PO-Revision-Date: 2021-07-22 23:12\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Biodiversity Data Mobilization Course"
-msgstr "Curso de Movilización de Datos de Biodiversidad"
+msgstr "Curso de Movilización de Datos sobre Biodiversidad"
 
 #. type: Plain text
 #: index.en.adoc:3
@@ -58,7 +58,7 @@ msgstr "Este curso permitirá a los participantes planificar e implementar de ma
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "Topics include:"
-msgstr "Temas:"
+msgstr "Los temas incluyen:"
 
 #. type: delimited block *
 #: description.en.adoc:12
@@ -95,7 +95,7 @@ msgstr "Este curso se compone de instrucciones en vídeo combinadas con cuestion
 #: description.en.adoc:20
 #, no-wrap
 msgid "Audience"
-msgstr "Público"
+msgstr "Audiencia"
 
 #. type: Plain text
 #: description.en.adoc:24
@@ -182,7 +182,7 @@ msgstr "Utilizar herramientas de software diseñadas para facilitar la captura d
 #. type: Plain text
 #: description.en.adoc:46
 msgid "Learn data quality concepts and receive an introduction to tools used for standardizing data, validating data, and cleaning data."
-msgstr "Aprende conceptos de calidad de datos y recibe una introducción a las herramientas utilizadas para estandarizar, validar y limpiar datos."
+msgstr "Aprender conceptos de calidad de datos y recibir una introducción a las herramientas utilizadas para estandarizar, validar y limpiar datos."
 
 #. type: Plain text
 #: description.en.adoc:47
@@ -11335,7 +11335,14 @@ msgid "Let us look back, at the connections in a bit more detail. \n"
 "For example you may want find the mean weight of all the Kenyan bats. \n"
 "So ideally we want to use a system to store our data that: 1) always holds the rows together; 2)does not mix data types; 3) and segregates data in each table to a single concept or theme. \n"
 "These are functions of a database!\n"
-msgstr ""
+msgstr "Miremos hacia atrás, a las conexiones con un poco más de detalle. \n"
+"Generalmente, entendemos que los datos en cada fila de una tabla significan algo. \n"
+"Por ejemplo, cada fila puede representar un espécimen o un taxón que fue encontrado en un lugar particular, en un momento particular, por una persona en particular. \n"
+"Sería extraño tener una fila en una tabla que represente una muestra seguida de una fila que represente un sitio de recolección. \n"
+"A menudo también queremos analizar, ordenar y comparar valores de atributos particulares entre filas. \n"
+"Por ejemplo, es posible que desee encontrar el peso medio de todos los murciélagos de Kenia. \n"
+"Entonces, idealmente queremos usar un sistema para almacenar nuestros datos que: 1) siempre mantenga las filas juntas; 2) no mezcle tipos de datos; 3) y segrega los datos de cada tabla en un solo concepto o tema. \n"
+"¡Estas son funciones de una base de datos!\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:148
@@ -11344,14 +11351,18 @@ msgid "Functions in a true database inherently bind rows together and columns ma
 "Tables in database are held together by virtual links called keys. \n"
 "These keys are identifiers that match between tables and allow data to be connected efficiently. \n"
 "It is these 2 key concepts that distinguish a spreadsheet from a database.\n"
-msgstr ""
+msgstr "Las funciones en una verdadera base de datos unen filas juntas de forma inherente y las columnas solo pueden tener un único tipo de datos. \n"
+"Las tablas de la base de datos se mantienen juntas mediante enlaces virtuales llamados llaves (keys). \n"
+"Estas llaves son identificadores que coinciden entre tablas y permiten que los datos se conecten de manera eficiente. \n"
+"Son estos 2 conceptos clave los que distinguen una hoja de cálculo de una base de datos.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:153
 #, no-wrap
 msgid "In review then, we have looked at the 6 most common data types, the basic building blocks of data structure and distinguished between a spreadsheet grid and database table.\n"
 "Understanding these elements and how they interact with one another will allow you to better determine the best ways to manipulate and document the data that falls under your custodianship.\n"
-msgstr ""
+msgstr "Entonces, en revisión, hemos analizado los 6 tipos de datos más comunes, los bloques de construcción básicos de la estructura de datos y hemos distinguido entre una cuadrícula de hoja de cálculo y una tabla de base de datos.\n"
+"Comprender estos elementos y cómo interactúan entre sí le permitirá determinar mejor las mejores formas de manipular y documentar los datos que están bajo su custodia.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:159
@@ -11359,7 +11370,9 @@ msgstr ""
 msgid "Remember that: When you realize the difference between the container and the content, you will have knowledge. \n"
 "Using the correct terms to describe both your data and the structures that you create and use to store it; is the most important way to ensure that it remains relevant and useable.\n"
 "Never underestimate how much damage can be done to priceless information by careless descriptions and storage.\n"
-msgstr ""
+msgstr "Recuerde que: cuando se de cuenta de la diferencia entre el contenedor y el contenido, tendrás conocimiento. \n"
+"Usar los términos correctos para describir tanto sus datos como las estructuras que crea y usa para almacenarlos; es la forma más importante de garantizar que siga siendo relevante y utilizable.\n"
+"Nunca subestime cuánto daño se puede hacer a información invaluable mediante descripciones y almacenamiento descuidados.\n"
 
 #. type: Plain text
 #: scripts/structures.en.txt:165
@@ -11368,5 +11381,8 @@ msgid "If you have questions on this presentation, please use the provided forum
 "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
 "This presentation was originally created and narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la plataforma e-Learning. \n"
+"Este video es parte de una serie de presentaciones utilizadas en el curso de Movilización de Datos de Biodiversidad de GBIF. \n"
+"El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del Programa Información sobre Biodiversidad para el Desarrollo, financiado por la Unión Europea. \n"
+"Esta presentación fue creada y narrada originalmente por Sharon Grant con contribuciones adicionales de los Entrenadores, Mentores y Estudiantes de BID y BIFA.\n"
 
