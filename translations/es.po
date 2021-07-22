@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-22 13:19+0000\n"
-"PO-Revision-Date: 2021-07-22 16:54\n"
+"PO-Revision-Date: 2021-07-22 18:01\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -10001,26 +10001,27 @@ msgstr "Realizar un seguimiento de la gestión del equipo del proyecto, para que
 #: scripts/resourcing.en.txt:98
 #, no-wrap
 msgid "Monitor and control the work of producing the products, and results that the project has committed to and ultimately be responsible for the Success of the project as measured by quality, timeliness and budget compliance.\n"
-msgstr ""
+msgstr "Monitorear y controlar el trabajo de generación de los productos y los resultados con los que se ha comprometido el proyecto y, en última instancia, ser responsable del éxito del proyecto medido por la calidad, la puntualidad y el cumplimiento del presupuesto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:102
 #, no-wrap
 msgid "The second element of the definition of the term mobilize is USES.\n"
-msgstr ""
+msgstr "El segundo elemento de la definición del término movilizar es USOS.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:104
 #, no-wrap
 msgid "These work tasks represent WHICH things you will need to do, in order to successfully do what you said you would do. \n"
-msgstr ""
+msgstr "Estas tareas de trabajo representan CUALES son las cosas que necesitarás hacer para cumplir con éxito lo que dijiste que harías. \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:107
 #, no-wrap
 msgid "The specific set of tasks carried out by the individuals assigned to the roles and working on your project, is dependent on the type of digitization that you need to do in order to create your publishable dataset. \n"
 "However, they will most likely include some or all of the following tasks: Specimen/Object Staging, Curation, Data Review, Database Review, Image Capture, Transcription, Data Cleaning, Quality Checking, Georeferencing and Publishing.\n"
-msgstr ""
+msgstr "El conjunto específico de tareas realizadas por las personas asignadas a los roles y que trabajan en su proyecto, depende del tipo de digitalización que necesita hacer para crear su conjunto de datos publicables. \n"
+"Sin embargo, lo más probable es que incluyan algunas o todas las siguientes tareas: Preparación de especímenes/ Preparación de objetos,  Curación,  Revisión de los Datos, Revisión de Bases de Datos, Captura de Imágenes,  Transcripción,  Limpieza de Datos, Control de Calidad,  Georreferenciación y  Publicación.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:114
@@ -10029,20 +10030,24 @@ msgid "Once identified, tasks will need to be scheduled and ordered to be effect
 "There are many way to arrange tasks, some of course will be more efficient than others.\n"
 "We will look more closely at the application of several methods for manging TASKS for data mobilization in the session on ORGANISING.\n"
 "These will include: Groupings, Clustering and Workflows.\n"
-msgstr ""
+msgstr "Una vez identificadas, las tareas tendrán que programarse y ordenarse para que sean eficaces.\n"
+"Hay muchas maneras de organizar tareas, algunas por supuesto serán más eficientes que otras.\n"
+"Estudiaremos más de cerca la aplicación de varios métodos para gestionar TAREAS para la movilización de datos en la sesión sobre ORGANIZACIÓN.\n"
+"Estos incluirán: Grupos, Agrupamientos y Flujos de trabajo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:117
 #, no-wrap
 msgid "Remember that whilst there is no perfect ”one size fits all”, digitization activities most have been tried at least once by someone else! \n"
 "There are many existing repositories of digitization protocols available online, and many are included in the course resources in the eLearning platform.\n"
-msgstr ""
+msgstr "Recuerde que, si bien no existe una \"talla única\" perfecta, ¡la mayoría de las actividades de digitalización han sido probadas al menos una vez por otra persona!. \n"
+"Hay muchos repositorios de protocolos de digitalización disponibles en línea, y muchos están incluidos en los recursos del curso en la plataforma eLearning.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:121
 #, no-wrap
 msgid "The third and final element of the definition is the outcome or outcomes.\n"
-msgstr ""
+msgstr "El tercer y último elemento de la definición es  el resultado o los resultados.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:127
@@ -10052,37 +10057,41 @@ msgid "GOALS are the “WHAT are you going to do” of the project, and will hav
 "Clearly re-articulating the stated deliverables of a project and when they are due is the critical first step in creating a successful implementation plan.\n"
 "Time should also be spent documenting any implied goals.\n"
 "Whilst these are often more difficult to metricize, they often speak directly to the sustainability of the project and its impact outside of its target audience.\n"
-msgstr ""
+msgstr "Las METAS son el “QUÉ vas a hacer” del proyecto y se habrán establecido en la propuesta de proyecto original.\n"
+"De hecho, este es realmente el lugar para comenzar.\n"
+"Re-articular claramente los entregables declarados de un proyecto y cuando vencen, es el primer paso crítico para crear un plan de implementación exitoso.\n"
+"También se debe dedicar tiempo a documentar cualquier objetivo implícito.\n"
+"Si bien estos son a menudo más difíciles de medir, frecuentemente hablan de forma directa de la sostenibilidad del proyecto y su impacto fuera de su audiencia principal.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:131
 #, no-wrap
 msgid "Examples of explicit stated data mobilization goals are: \n"
-msgstr ""
+msgstr "Ejemplos de metas explícitas de movilización de datos son: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:133
 #, no-wrap
 msgid "Publishing Data to GBIF and doing it regularly; \n"
-msgstr ""
+msgstr "Publicar datos a GBIF y hacerlo de forma regular; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:135
 #, no-wrap
 msgid "Inclusion of additional supporting metadata over and above the basic fields if available; \n"
-msgstr ""
+msgstr "Incluir metadatos de soporte adicionales sobre los campos básicos, si están disponibles; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:137
 #, no-wrap
 msgid "Taking Images of an object/specimen from from multiple angles, or using advanced techniques such as; CT Scanning or Electron Microscopy; \n"
-msgstr ""
+msgstr "Tomar imágenes de un objeto/espécimen desde múltiples ángulos, o usar técnicas avanzadas tales como: Tomografía Computarizada o Microscopía de Elctrónica; \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:139
 #, no-wrap
 msgid "Imaging all specimens in a collection as opposed to just of type specimens;  \n"
-msgstr ""
+msgstr "Imágenes de todos los especímenes de una colección, en lugar de solo los especímenes tipo;  \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:141
