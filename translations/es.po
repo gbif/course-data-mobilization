@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-22 13:19+0000\n"
-"PO-Revision-Date: 2021-07-22 15:46\n"
+"PO-Revision-Date: 2021-07-22 16:54\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -9854,73 +9854,82 @@ msgid "Specific hardware choices are unfortunately, outside of the scope of this
 "Don’t be shy to ask your mentors and colleagues who have done similar projects for help.\n"
 "In general though, which hardware you need, depends on both the type of digitization being carried out (for example herbarium sheets or pinned insects etc) as well as the combination of people who will do the digitization and publication.\n"
 "Do NOT fall into the trap of buying equipment before identifying the people. \n"
-msgstr ""
+msgstr "Desafortunadamente, las opciones específicas de hardware están fuera del alcance de esta presentación, pero hay referencias a recursos existentes en la plataforma e-Learning que pueden ser útiles.\n"
+"No dude en pedir ayuda a sus mentores y colegas que han realizado proyectos similares.\n"
+"Sin embargo, en general, qué hardware necesita depende tanto del tipo de digitalización que se esté llevando a cabo (por ejemplo, especímenes de herbario o insectos en alfileres, etc.) como también de la combinación de personas que realizarán la digitalización y la publicación.\n"
+"NO caiga en la trampa de comprar equipo antes de identificar a las personas. \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:39
 #, no-wrap
 msgid "So to the people.\n"
 "People come in many types and can be organized in may ways, and it is the connections between that will have the most impact on the successful completion of your mobilization project.\n"
-msgstr ""
+msgstr "Entonces, las personas.\n"
+"Las personas son de muchos tipos y pueden organizarse de muchas maneras, y son las conexiones entre ellas las que tendrán el mayor impacto en la finalización exitosa de su proyecto de movilización.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:41
 #, no-wrap
 msgid "They can be broadly grouped into 3 levels: AFFLIATIONS, STAKEHOLDERS and ROLES.\n"
-msgstr ""
+msgstr "Se pueden agrupar, a grandes rasgos, en 3 niveles: AFILIACIONES, PARTES INTERESADAS y ROLES.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:44
 #, no-wrap
 msgid "Affiliations are very high level and most broadly represent the entity that is responsible for the management and pay of the team or individual.\n"
 "They are often strategic in nature.\n"
-msgstr ""
+msgstr "Las afiliaciones son de muy alto nivel y, en general, representan a la entidad responsable de la gestión y el pago del equipo o del individuo.\n"
+"A menudo son de naturaleza estratégica.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:47
 #, no-wrap
 msgid "Stakeholders are groups or teams who may or may not be part of a formal management structure.\n"
 "They share an affiliation and a tactical theme.\n"
-msgstr ""
+msgstr "Las partes interesadas son grupos o equipos que pueden o no formar parte de una estructura de gestión formal.\n"
+"Comparten una afiliación y un tema táctico.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:49
 #, no-wrap
 msgid "Roles in this context, represent jobs or positions with a title that an individual may hold.\n"
-msgstr ""
+msgstr "Los roles, en este contexto, representan trabajos o posiciones con un título que un individuo puede sostener.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:53
 #, no-wrap
 msgid "Three affiliations are commonly a part of the biodiversity data mobilization landscape.\n"
-msgstr ""
+msgstr "Tres afiliaciones son comúnmente parte del ámbito de movilización de datos sobre biodiversidad.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:56
 #, no-wrap
 msgid "An “INSTITUTIONAL” affiliation usually accounts for teams who work for the institution that is running the project.\n"
 "In the context of the project they are NOT specifically paid by the project. \n"
-msgstr ""
+msgstr "Una afiliación “INSTITUTIONAL” normalmente responde de los equipos que trabajan para la institución que está ejecutando el proyecto.\n"
+"En el contexto del proyecto NO son pagados específicamente por el proyecto. \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:58
 #, no-wrap
 msgid "A “PROJECT” affiliation covers those teams that ARE specifically paid by the project for any part of their time.\n"
-msgstr ""
+msgstr "Una afiliación \"PROYECTO\" cubre aquellos equipos que son específicamente pagados por el proyecto por cualquier parte de su tiempo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:61
 #, no-wrap
 msgid "Those teams or groups who do not work for the institution and are not paid by the project specifically, but whose input is required for success, have an “EXTERNAL” affiliation.\n"
 "Three often encountered examples of these are Local Government, Regional Government and NGOs.\n"
-msgstr ""
+msgstr "Los equipos o grupos que no trabajan para la institución y no son pagados por el proyecto específicamente, pero cuya entrada es necesaria para el éxito, tienen una afiliación “EXTERNA”.\n"
+"Tres ejemplos encontrados a menudo son el gobierno local, el gobierno regional y las ONG.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:64
 #, no-wrap
 msgid "Knowing the affiliations of the teams working on your project will give you a good idea of any potentially competing or supporting strategic goals, priorities, projects and agenda’s.\n"
 "It is often at this level that long to medium term plans and policies come into play, such as Laws, Intellectual Property Rights, and Retention Policies which can have a high impact on your project and its goals.\n"
-msgstr ""
+msgstr "Conocer las afiliaciones de los equipos que trabajan en su proyecto le dará una buena idea de cualquier objetivo estratégico, prioridad, proyecto y agenda, potencialmente competitivos o de apoyo.\n"
+"A menudo, en este nivel entran en juego los planes y políticas de largo a mediano plazo, como las Leyes, los Derechos de Propiedad Intelectual y las Políticas de Retención, que pueden tener un gran impacto en su proyecto y sus objetivos.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:72
@@ -9930,7 +9939,11 @@ msgid "Stakeholders represent the next level of the WHO in your project. \n"
 "They have responsibility for day to day running such as managing infrastructure, curating the collection, doing the research and paying the bills.\n"
 "Stakeholders may or may not be part of the same formal management structure but they share an affiliation and come together to do something practical.\n"
 "It is important to remember that no two affiliations organize their stakeholder groups in the same way you should never assume that someone else’s structure is the same as yours.\n"
-msgstr ""
+msgstr "Las partes interesadas representan el siguiente nivel de QUIEN en tu proyecto. \n"
+"Estas son las unidades tácticas dentro de una afiliación compartida.\n"
+"Ellos tienen la responsabilidad de funcionar día a día como la gestión de la infraestructura, la curación de la colecta, la investigación y el pago de las facturas.\n"
+"Los participantes pueden o no formar parte de la misma estructura de gestión formal, pero comparten una afiliación y se reúnen para hacer algo práctico.\n"
+"Es importante recordar que no hay dos afiliaciones que organicen sus grupos de interés de la misma manera que nunca debes asumir que la estructura de otra persona es la misma que la tuya.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:81
@@ -9941,43 +9954,48 @@ msgid "Each stakeholder group is made up of one or more Roles.\n"
 "It is important to understand how these roles are distributed across the different stakeholder groups.\n"
 "Be aware that a named role at your institution may not be in the same stakeholder group somewhere else.\n"
 "In some case even though the name of the role may be the same they may have different responsibilities.\n"
-msgstr ""
+msgstr "Cada grupo de partes interesadas está formado por uno o más Roles.\n"
+"En este contexto, los roles representan trabajos o posiciones con un título que un individuo puede sostener.\n"
+"Cada uno de estos roles está en manos de un individuo que tendrá al menos un rol.\n"
+"Es importante entender cómo estos roles se distribuyen entre los diferentes grupos de interés.\n"
+"Tenga en cuenta que un rol nombrado en su institución puede no estar en el mismo grupo de partes interesadas en otro lugar.\n"
+"En algún caso, aunque el nombre del rol sea el mismo, pueden tener diferentes responsabilidades.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:86
 #, no-wrap
 msgid "There is one particular role that we should spend a little time on.\n"
-msgstr ""
+msgstr "Hay un rol en particular al que le deberíamos dedicar un poco de tiempo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:88
 #, no-wrap
 msgid "The project manager.\n"
-msgstr ""
+msgstr "El administrador del proyecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:90
 #, no-wrap
 msgid "This is the person who must: \n"
-msgstr ""
+msgstr "Esta es la persona que debe: \n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:92
 #, no-wrap
 msgid "Keep track of Scope, Manage, control and mitigate Change of everything.\n"
-msgstr ""
+msgstr "Mantener un Seguimiento del Alcance, Gestionar, controlar y mitigar el Cambio de todo.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:94
 #, no-wrap
 msgid "Articulate and keep track of the planning process by turning high-level information into detailed executable plans.\n"
-msgstr ""
+msgstr "Articular y realizar un seguimiento del proceso de planificación, convirtiendo la información de alto nivel en planes ejecutables detallados.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:96
 #, no-wrap
 msgid "Follow through on the Management of the project team so they can meet the project objectives.\n"
-msgstr ""
+msgstr "Realizar un seguimiento de la gestión del equipo del proyecto, para que puedan cumplir con los objetivos del proyecto.\n"
 
 #. type: Plain text
 #: scripts/resourcing.en.txt:98
