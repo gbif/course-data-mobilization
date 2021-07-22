@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-22 13:19+0000\n"
-"PO-Revision-Date: 2021-07-22 19:00\n"
+"PO-Revision-Date: 2021-07-22 19:55\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -10372,20 +10372,26 @@ msgid "Planning further ahead to the sharing of your data through GBIF to the in
 "But there are others if this is not the case. \n"
 "You can consider partnering with an existing ipt provider or selecting a database management system that includes a publishing pathway of its own. \n"
 "Whichever you choose, make sure that your system allows you to export data as csv or txt files and you will ultimately be able to publish your data. \n"
-msgstr ""
+msgstr "Al planificar con mayor anticipación el intercambio de sus datos a través de GBIF con la comunidad científica internacional y de tomadores de decisiones, deberá elegir una herramienta de publicación. \n"
+"La elección dependerá en gran medida del nivel de soporte de infraestructura en su institución. \n"
+"Si es alto y estable, instalar una aplicación IPT o BioCASe puede ser la opción correcta. \n"
+"Pero hay otros si este no es el caso. \n"
+"Puede considerar asociarse con un proveedor de IPT existente o seleccionar un sistema de administración de base de datos que incluya una vía de publicación propia. \n"
+"Cualquiera que elija, asegúrese de que su sistema le permita exportar datos como archivos csv o txt y, en última instancia, podrá publicar sus datos. \n"
 
 #. type: Plain text
 #: scripts/software.en.txt:62
 #, no-wrap
 msgid "This is a summary of the information collected in the course survey of software in use by students, mentors and trainers in the GBIF community. \n"
 "The link and reference to more details of each section, is at the bottom of the slide.\n"
-msgstr ""
+msgstr "Este es un resumen de la información recopilada en la encuesta del curso sobre el software que utilizan los estudiantes, mentores y entrenadores en la comunidad de GBIF.\n"
+"El enlace y la referencia a más detalles de cada sección se encuentran en la parte inferior de la diapositiva.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:66
 #, no-wrap
 msgid "Remember that: The purpose of software is to help people and not the other way around. Your choice of solution should make your life easier but it should also not sacrifice the long term viability of the data that it is meant to work with.\n"
-msgstr ""
+msgstr "Recuerde que: El propósito del software es ayudar a las personas y no al revés. Su elección de solución debería facilitarle la vida, pero tampoco debería sacrificar la viabilidad a largo plazo de los datos con los que debe trabajar.\n"
 
 #. type: Plain text
 #: scripts/software.en.txt:72
@@ -10394,59 +10400,66 @@ msgid "If you have questions on this presentation, please use the provided forum
 "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course. \n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union. \n"
 "This presentation was originally created by Sophie Pamerlon and is narrated by Sharon Grant with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "Si tiene preguntas sobre esta presentación, utilice el foro proporcionado en la plataforma e-Learning. \n"
+"Este video es parte de una serie de presentaciones utilizadas en el curso de Movilización de Datos de Biodiversidad de GBIF. \n"
+"El plan de estudios de movilización de datos sobre biodiversidad se desarrolló originalmente como parte del Programa Información sobre Biodiversidad para el Desarrollo, financiado por la Unión Europea. \n"
+"Esta presentación fue creada originalmente por Sophie Pamerlon y está narrada por Sharon Grant con contribuciones adicionales de los Entrenadores, Mentores y Estudiantes de BID y BIFA.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:5
 #, no-wrap
 msgid "In this presentation, we will introduce you to data standards as they relate to biodiversity data. \n"
 "In particular, we will focus on the Darwin Core standard.\n"
-msgstr ""
+msgstr "En esta presentación, le presentaremos los estándares de datos en lo que respecta a los datos de biodiversidad.\n"
+"En particular, nos centraremos en el estándar Darwin Core.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:9
 #, no-wrap
 msgid "The engineer and industrialist W. Edwards Deming said:\n"
-msgstr ""
+msgstr "El ingeniero e industrial W. Edwards Deming dijo:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:12
 #, no-wrap
 msgid "“Standardisation does not mean that we all wear the same colour and weave of cloth, eat standard sandwiches, or live in standard rooms with standard furnishing. \n"
 "Homes of infinite variety of design are built with a few types of bricks, and with lumber of standard sizes, and with water and heating pipes and fitting of standard dimensions.” \n"
-msgstr ""
+msgstr "“La estandarización no significa que todos usemos el mismo color y tejido de tela, comamos sándwiches estándar o vivamos en habitaciones estándar con muebles estándar. \n"
+"Las casas de infinita variedad de diseño se construyen con algunos tipos de ladrillos y con madera de tamaños estándar, y con tuberías de agua y calefacción y accesorios de dimensiones estándar.\" \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:15
 #, no-wrap
 msgid "What he was trying to say is that using standardization does not prevent us from being creative. \n"
 "He was also showing us that we already live with standards all around us.\n"
-msgstr ""
+msgstr "Lo que estaba intentando decir es que el uso de la normalización no nos impide ser creativos. \n"
+"Él también nos estaba mostrando que ya vivimos con estándares alrededor de nosotros.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:18
 #, no-wrap
 msgid "As we move forward, we will define the term “Standard” and we’ll look at how we interact with standards every day. \n"
 "We will then introduce you to biodiversity information standards, including the Darwin Core Standard with which you will continue to use throughout this course.\n"
-msgstr ""
+msgstr "A medida que avancemos, definiremos el término \"Estándar\" y veremos cómo interactuamos con los estándares todos los días.\n"
+"Luego, le presentaremos los estándares de información sobre biodiversidad, incluido el estándar Darwin Core, que continuará utilizando a lo largo de este curso.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:22
 #, no-wrap
 msgid "So what is a Standard?\n"
-msgstr ""
+msgstr "Entonces, ¿Qué es un Estándar?\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:24
 #, no-wrap
 msgid "At its simplest, it is:\n"
-msgstr ""
+msgstr "En su forma más sencilla es:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:26
 #, no-wrap
 msgid "“An agreed way of doing something.”\n"
-msgstr ""
+msgstr "\"Una forma acordada de hacer algo.\"\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:30
@@ -10454,123 +10467,126 @@ msgstr ""
 msgid "Standards are combinations of norms, conventions, specifications, requirements, restrictions, and rules.\n"
 " \n"
 "// Slide 4\n"
-msgstr ""
+msgstr "Los estándares son combinaciones de normas, convenciones, especificaciones, requisitos, restricciones y reglas.\n\n"
+"// DIAPOSITIVA 4\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:33
 #, no-wrap
 msgid "The main purpose for standards is to create a framework of “mutual understanding”. \n"
 "They should provide clarity and help communication.\n"
-msgstr ""
+msgstr "El propósito principal de los estándares es crear un marco de \"comprensión mutua\". \n"
+"Deben proporcionar claridad y ayudar a la comunicación.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:35
 #, no-wrap
 msgid "Examples of everyday things that we encounter which make use of standards to aid communication of information are:\n"
-msgstr ""
+msgstr "Ejemplos de cosas cotidianas que encontramos y que utilizan los estándares para ayudar a la comunicación de información son:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:37
 #, no-wrap
 msgid "Units of Measurement\n"
-msgstr ""
+msgstr "Unidades de Medición\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:39
 #, no-wrap
 msgid "Numeral Systems\n"
-msgstr ""
+msgstr "Sistemas Numéricos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:41
 #, no-wrap
 msgid "Alphabets\n"
-msgstr ""
+msgstr "Alfabetos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:43
 #, no-wrap
 msgid "Languages\n"
-msgstr ""
+msgstr "Idiomas\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:45
 #, no-wrap
 msgid "Emojis\n"
-msgstr ""
+msgstr "Emojis\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:47
 #, no-wrap
 msgid "Postal Addressing\n"
-msgstr ""
+msgstr "Dirección Postal\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:49
 #, no-wrap
 msgid "Morse Code\n"
-msgstr ""
+msgstr "Código Morse\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:51
 #, no-wrap
 msgid "Barcoding\n"
-msgstr ""
+msgstr "Código de Barras\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:56
 #, no-wrap
 msgid "Let’s take a very specific example and break it down. \n"
 "Here in order to communicate accurately and repeatedly a position on the earth – a latitude and longitude – is actually a combination of at least 8 standards.\n"
-msgstr ""
+msgstr "Tomemos un ejemplo muy específico y desglosémoslo. \n"
+"En orden de comunicar, de manera precisa y repetida una posición en la tierra – una latitud y una longitud – es en realidad una combinación de al menos 8 estándares.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:58
 #, no-wrap
 msgid "measurement - geographic coordinates \n"
-msgstr ""
+msgstr "medición - coordenadas geográficas \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:60
 #, no-wrap
 msgid "format - degrees, minutes, seconds\n"
-msgstr ""
+msgstr "formato - grados, minutos, segundos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:62
 #, no-wrap
 msgid "numeric system - sexagesimal\n"
-msgstr ""
+msgstr "sistema numérico - sexagesimal\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:64
 #, no-wrap
 msgid "numbers - Indo-Arabic\n"
-msgstr ""
+msgstr "números - Indoárabe\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:66
 #, no-wrap
 msgid "language - English\n"
-msgstr ""
+msgstr "idioma - Español\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:68
 #, no-wrap
 msgid "alphabet - Latin\n"
-msgstr ""
+msgstr "alfabeto - Latín\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:70
 #, no-wrap
 msgid "symbols - typography\n"
-msgstr ""
+msgstr "símbolos - tipografía\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:72
 #, no-wrap
 msgid "font - Roboto\n"
-msgstr ""
+msgstr "fuente - Roboto\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:78
@@ -10578,7 +10594,9 @@ msgstr ""
 msgid "Standards provide ways of constraining the array of possibilities. \n"
 "In the earlier Foundations presentations, you learned about types of data, schemas, formats and character encodings. \n"
 "Each of these can be used to constrain the array of possibilities within the terms of a Standard.\n"
-msgstr ""
+msgstr "Los estándares proporcionan formas de limitar la gama de posibilidades. \n"
+"En las presentaciones anteriores de Bases, aprendió sobre tipos de datos, esquemas, formatos y codificaciones de caracteres. \n"
+"Cada uno de estos se puede utilizar para restringir el conjunto de posibilidades dentro de los términos de un Estándar.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:82
@@ -10586,35 +10604,41 @@ msgstr ""
 msgid "Types of data can restrict the values of a field. \n"
 "So alphanumeric text in a text field, decimals in a float. \n"
 "Yes/No in a Boolean.\n"
-msgstr ""
+msgstr "Los tipos de datos pueden restringir los valores de un campo. \n"
+"Entonces, texto alfanumérico en un campo de texto, decimales en un flotante. \n"
+"Sí / No en un booleano.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:85
 #, no-wrap
 msgid "An encoding schema can restrict the range of values in a field. \n"
 "For example, the list of possible latitude values have a range: between -90 and 90.\n"
-msgstr ""
+msgstr "Un esquema de codificación puede restringir el rango de valores en un campo. \n"
+"Por ejemplo, la lista de posibles valores de latitud tiene un rango: entre -90 y 90.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:88
 #, no-wrap
 msgid "A format can restrict the representation of a data in a field. \n"
 "For example, whether a data appears as year month day, or day month year, or month day year.\n"
-msgstr ""
+msgstr "Un formato puede restringir la representación de datos en un campo. \n"
+"Por ejemplo, si un dato aparece como día del mes del año, o año del mes del día, o año del mes.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:91
 #, no-wrap
 msgid "And then, character encoding provides the rules for interpreting bytes of data. \n"
 "For our purposes, we’ll use UTF-8.\n"
-msgstr ""
+msgstr "Y entonces, la codificación de caracteres proporciona las reglas para interpretar bytes de datos. \n"
+"Para nuestros propósitos, usaremos UTF-8.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:96
 #, no-wrap
 msgid "During this course, you will be learning how to share your data. \n"
 "As such, you will encounter standards for transferring data.\n"
-msgstr ""
+msgstr "Durante este curso, aprenderás cómo compartir sus datos. \n"
+"Como tal, encontrará estándares para transferir datos.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:100
@@ -10622,78 +10646,85 @@ msgstr ""
 msgid "An application schema, allows for the combination of data standards for a specific purpose. \n"
 "For example, using Darwin Core terms within Darwin Core Archives. \n"
 "We’ll delve more into both in just a few moments.\n"
-msgstr ""
+msgstr "Un esquema de aplicación, permite la combinación de estándares de datos para un propósito específico. \n"
+"Por ejemplo, utilizando términos de Darwin Core dentro de los Archivos de Darwin Core. \n"
+"Profundizaremos más en ambos en solo unos momentos.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:103
 #, no-wrap
 msgid "Again, you will make use of format, but this time the format restricts dataset structures. \n"
 "A dataset may make use of csv, xml, json and rdf.\n"
-msgstr ""
+msgstr "Nuevamente, utilizará el formato, pero esta vez el formato restringe las estructuras del conjunto de datos.\n"
+"Un conjunto de datos puede hacer uso de csv, xml, json y rdf.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:106
 #, no-wrap
 msgid "And lastly, you will have a transfer protocol, which provides information on how and where to send information. \n"
 "These might include http (hypertext transfer protocol), ftp (file transfer protocol), and smtp (simple mail transfer protocol or if you like, send mail to people).\n"
-msgstr ""
+msgstr "Y por último, dispondrá de un protocolo de transferencia, que proporciona información sobre cómo y dónde enviar la información. \n"
+"Estos pueden incluir http (protocolo de transferencia de hipertexto), ftp (protocolo de transferencia de archivos) y smtp (protocolo simple de transferencia de correo o, si lo desea, enviar correo a las personas).\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:112
 #, no-wrap
 msgid "In the domain of biodiversity informatics there are many standards already available that can help you work with your data. \n"
 "The USGS has a very specific definition of these:\n"
-msgstr ""
+msgstr "En el campo de la informática de la biodiversidad, ya hay muchos estándares disponibles que pueden ayudarlo a trabajar con sus datos. \n"
+"El USGS tiene una definición muy específica de estos:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:115
 #, no-wrap
 msgid "“Data standards are the rules by which data are described and recorded. \n"
 "In order to share, exchange, and understand data, we must standardize the format as well as the meaning.\n"
-msgstr ""
+msgstr "“Los estándares de datos son las reglas mediante las cuales se describen y registran los datos. \n"
+"Para compartir, intercambiar y comprender datos, debemos estandarizar tanto el formato como el significado.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:117
 #, no-wrap
 msgid "The result of using these standards, where appropriate, is that you will increase data integrity, accuracy and consistency by clarifying ambiguous meaning and minimizing redundant data.\n"
-msgstr ""
+msgstr "El resultado de utilizar estos estándares, cuando corresponda, es que aumentará la integridad, exactitud y coherencia de los datos al aclarar el significado ambiguo y minimizar los datos redundantes.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:119
 #, no-wrap
 msgid "Those that you are likely to encounter or use on a regular basis may include:\n"
-msgstr ""
+msgstr "Aquellos que es probable que encuentre o utilices de manera regular pueden incluir:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:121
 #, no-wrap
 msgid "Ecological Metadata Language Standard (EML) \n"
-msgstr ""
+msgstr "Estándar del Lenguaje de Metadatos Ecológico (EML - Ecological Metadata Language Standard) \n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:123 scripts/standards.en.txt:236
 #, no-wrap
 msgid "Audubon Media Description (aka Audubon Core)\n"
-msgstr ""
+msgstr "Descripción de Medios de Audubon (también conocido como Estándar Audubon - Audubon Core)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:125
 #, no-wrap
 msgid "Global Genome Biodiversity Network(GGBN)\n"
-msgstr ""
+msgstr "Red Global de Biodiversidad de Genomas (GGBN - Global Genome Biodiversity Network)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:127
 #, no-wrap
 msgid "Ocean Data Standards and Best Practices Project (ODSBP)\n"
-msgstr ""
+msgstr "Proyecto de Estándares y Mejores Prácticas de Datos Oceánicos (ODSBP - Ocean Data Standards and Best Practices Project)\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:130
 #, no-wrap
 msgid "And last, but not least, we’ll spend the rest of this discussion on Darwin Core. \n"
 "The Darwin Core standard will allow you to share your occurrence, taxonomic, and event datasets.\n"
-msgstr ""
+msgstr "Y por último, pero no menos importante, dedicaremos el resto de esta discusión a Darwin Core. \n"
+"El estándar Darwin Core le permitirá compartir sus conjuntos de datos de registros biológicos, listas de especies y eventos de muestreo.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:137
@@ -10702,46 +10733,51 @@ msgid "Darwin Core is a biodiversity standard developed by the Biodiversity Info
 "It was originally developed under the Taxonimic Databases Working Group or T D W G, pronounced TDWG. \n"
 "In recent years, the group has been renamed, Biodiversity Information Standards. \n"
 "But the acronym persists as the community is quite fond of the name TDWG.\n"
-msgstr ""
+msgstr "Darwin Core es un estándar de biodiversidad desarrollado por la comunidad de Biodiversity Informatics. \n"
+"Originalmente fue desarrollado bajo el Grupo de Trabajo de Bases de Datos Taxonómicos (Taxonomic Databases Working Group) o T D W G, pronunciado TDWG. \n"
+"En los últimos años, el grupo ha cambiado de nombre, Estándares de Información sobre Biodiversidad (Biodiversity Information Standards). \n"
+"Pero el acrónimo persiste ya que a la comunidad le gusta mucho el nombre TDWG.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:140
 #, no-wrap
 msgid "“The standard includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. \n"
 "Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information.”\n"
-msgstr ""
+msgstr "“El estándar incluye un glosario de términos (en otros contextos, estos pueden denominarse propiedades, elementos, campos, columnas, atributos o conceptos) destinados a facilitar el intercambio de información sobre la diversidad biológica proporcionando identificadores, etiquetas y definiciones. \n"
+"Darwin Core se basa principalmente en taxones, su presencia en la naturaleza según lo documentado por observaciones, especímenes, muestras e información relacionada.\"\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:142
 #, no-wrap
 msgid "So in short, Darwin Core is a “List of fields and their definitions, as they relate to biodiversity data.”\n"
-msgstr ""
+msgstr "Entonces, en resumen, Darwin Core es una \"Lista de campos y sus definiciones, en lo que respecta a los datos de biodiversidad.\"\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:145
 #, no-wrap
 msgid " \n"
 "// Slide 10\n"
-msgstr ""
+msgstr "// DIAPOSITVA 10\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:148
 #, no-wrap
 msgid "As we dive deeper into Darwin Core or as it is abbreviated, DwC, you’ll learn it is more than JUST a list of fields. \n"
 "We will use Simple Darwin Core which is a predefined subset of the terms that have common use across a wide variety of biodiversity applications.\n"
-msgstr ""
+msgstr "A medida que profundicemos en Darwin Core o como se abrevia, DwC, aprenderá que es más que SOLO una lista de campos. \n"
+"Usaremos Simple Darwin Core, que es un subconjunto predefinido de los términos que tienen un uso común en una amplia variedad de aplicaciones de biodiversidad.\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:150
 #, no-wrap
 msgid "This subset contains greater than 150 fields, that are placed into a set of field classes comprised of:\n"
-msgstr ""
+msgstr "Este subconjunto contiene más de 150 campos, que se colocan en un conjunto de clases de campo compuesto por:\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:152
 #, no-wrap
 msgid "Record & Dataset\n"
-msgstr ""
+msgstr "Registro y Conjunto de Datos\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:154
