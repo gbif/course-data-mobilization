@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2021-07-22 13:19+0000\n"
-"PO-Revision-Date: 2021-07-22 23:12\n"
+"POT-Creation-Date: 2021-07-23 09:04+0000\n"
+"PO-Revision-Date: 2021-07-23 10:33\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -223,7 +223,7 @@ msgstr "Certificación"
 #. type: Plain text
 #: description.en.adoc:56
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge].  See <<assessment-and-certification,Assessment and Certification>> for more details."
-msgstr "Una vez completado con éxito el curso y la evaluación de las tareas (por parte de los formadores y mentores), los participantes tienen la oportunidad de recibir una certificación oficial en forma de https://openbadges.org/[Open Badge]. Ver <<assessment-and-certification,Assessment and Certification>> para más detalles."
+msgstr "Una vez completado con éxito el curso y la evaluación de las tareas (por parte de los formadores y mentores), los participantes tienen la oportunidad de recibir una certificación oficial en forma de https://openbadges.org/[Open Badge]. Ver <<evaluación-y-certificación,Evaluación y certificación>> para más detalles."
 
 #. type: Title ==
 #: downloads.en.adoc:1
@@ -291,7 +291,7 @@ msgstr "Datos del ejercicio"
 #. type: Plain text
 #: downloads.en.adoc:27
 msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
-msgstr "Este enlace:../exercise-data/UseCaseExerciseData.zip[archivo comprimido,opts=download] (ZIP 37.7 MB) contiene los datos del ejercicio para todos los casos de uso."
+msgstr "Este link:../exercise-data/UseCaseExerciseData.zip[archivo comprimido,opts=download] (ZIP 37.7 MB) contiene los datos del ejercicio para todos los casos de uso."
 
 #. type: Title ===
 #: downloads.en.adoc:28
@@ -302,7 +302,7 @@ msgstr "Hojas de ejercicio"
 #. type: Plain text
 #: downloads.en.adoc:30
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr "Este enlace:../course-docs/ExerciseSheets.zip[archivo comprimido,opts=download] (ZIP 1.4 MB) contiene las hojas de ejercicio para todos los casos de uso. Las hojas de ejercicios están escritas en inglés y deben completarse en inglés."
+msgstr "Este link:../course-docs/ExerciseSheets.zip[archivo comprimido,opts=download] (ZIP 1.4 MB) contiene las hojas de ejercicio para todos los casos de uso. Las hojas de ejercicios están escritas en inglés y deben completarse en inglés."
 
 #. type: Title ==
 #: foundations.en.adoc:2
@@ -330,7 +330,7 @@ msgstr "Definiciones"
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr "En este video (12:02), revisará la terminología utilizada en este curso. Si no puede ver el vídeo incrustado, puede enlazar:. /videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 38.5 MB)"
+msgstr "En este video (12:02), revisará la terminología utilizada en este curso. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 38.5 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:20
@@ -341,7 +341,7 @@ msgstr "Software"
 #. type: Plain text
 #: foundations.en.adoc:24
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr "En este video (05:58), usted revisará ejemplos de los diferentes tipos de aplicaciones y software disponibles en el mundo de la informática para la movilización de la biodiversidad. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Foundations_Software.mp4[descargar^,opts=descargar] localmente. (MP4 - 18.9 MB)"
+msgstr "En este video (05:58), usted revisará ejemplos de los diferentes tipos de aplicaciones y software disponibles en el mundo de la informática para la movilización de la biodiversidad. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Software.mp4[descargar^,opts=descargar] localmente. (MP4 - 18.9 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:28
@@ -352,7 +352,7 @@ msgstr "Estructura"
 #. type: Plain text
 #: foundations.en.adoc:32
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr "En este video (13:10), usted revisará el campo y los tipos de datos que contienen datos, las estructuras que ayudan a organizar y proteger esos datos y lo que estos significan para la integridad y seguridad de sus datos. Si no puedes ver el vídeo incrustado, puedes enlazar:../videos/Foundations_Structural mp4[descargar^,opts=descargar] localmente. (MP4 - 38.8 MB)"
+msgstr "En este video (13:10), usted revisará el campo y los tipos de datos que contienen datos, las estructuras que ayudan a organizar y proteger esos datos y lo que estos significan para la integridad y seguridad de sus datos. Si no puedes ver el vídeo incrustado, puedes link:../videos/Foundations_Structural mp4[descargar^,opts=descargar] localmente. (MP4 - 38.8 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:36
@@ -363,7 +363,7 @@ msgstr "Calidad de los datos"
 #. type: Plain text
 #: foundations.en.adoc:40
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr "En este vídeo (12:26), se repasa la terminología utilizada en este curso.  Si no puede ver el vídeo incrustado de Vimeo, puede enlazarlo:../videos/Foundations_Definitions.mp4[descarga^,opts=download] localmente. (MP4 - 38,5 MB)"
+msgstr "En este vídeo (12:26), se repasa la terminología utilizada en este curso.  Si no puede ver el vídeo incrustado de Vimeo, puede link:../videos/Foundations_Definitions.mp4[descarga^,opts=download] localmente. (MP4 - 38,5 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:48
@@ -641,7 +641,7 @@ msgstr "Los instructores, mentores y antiguos participantes de cursos han compil
 #. type: delimited block *
 #: foundations.en.adoc:202
 msgid "Download link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
-msgstr "Enlace de descarga:../course-docs/Software-database-ES.xlsx[Software-database-ES.xlsx,opts=download]. (23 KB)"
+msgstr "Enlace de link:../course-docs/Software-database-ES.xlsx[Software-database-ES.xlsx,opts=download]. (23 KB)"
 
 #. type: delimited block *
 #: foundations.en.adoc:206
@@ -1225,7 +1225,6 @@ msgstr "* 1236975 +\n"
 "  __booleano__\n"
 "* 6 conejos observados +\n"
 "  __texto__\n"
-"__binario__\n"
 
 #.  Question 5
 #. type: Plain text
@@ -1407,7 +1406,7 @@ msgstr "Familiarícese con el escenario del caso de uso."
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr "El caso de uso I es un caso de uso práctico para los módulos de planificación, captura, gestión y publicación de datos. Se recomienda que descargue el enlace:../ course-docs / UC1-Herbarium-Exercise_EN.docx [hoja de ejercicios, opts = download] (MS Word 345 KB) para que pueda tomar notas mientras trabaja en los ejercicios. Se proporcionará una solución sugerida en el apéndice de soluciones. El caso de uso I no está calificado."
+msgstr "El caso de uso I es un caso de uso práctico para los módulos de planificación, captura, gestión y publicación de datos. Se recomienda que descargue link:../course-docs/UC1-Herbarium-Exercise_EN.docx[hoja de ejercicios, opts = download] (MS Word 345 KB) para que pueda tomar notas mientras trabaja en los ejercicios. Se proporcionará una solución sugerida en el apéndice de soluciones. El caso de uso I no está calificado."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1427,7 +1426,7 @@ msgstr "*Un Proyecto de Movilización de Datos en un Herbario Regional*\n"
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] colectado en Guatemala por Rapid Reference Collection (RRRC) | Field Museum of Natural History - Keller Action Science Center (licenciado bajo http://creativecommons. rg/licencias/por-nc/4.0/[CC-BY-NC 4.0])"
+msgstr "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] colectado en Guatemala por Rapid Reference Collection (RRRC) | Field Museum of Natural History - Keller Action Science Center (licenciado bajo http://creativecommons.org/licencias/por-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
@@ -1559,7 +1558,7 @@ msgstr "Recursos"
 #. type: Plain text
 #: planning.en.adoc:12
 msgid "In this video (15:09), you will learn how to define the elements that will have an impact on a project and will look at the interactions between the elements.  If you are unable to watch the embedded video, you can link:../videos/Planning_Resourcing.mp4[download^,opts=download] it locally. (MP4 - 25.1 MB)"
-msgstr "En este video (15:09), aprenderá cómo definir los elementos que tendrán un impacto en un proyecto y analizará las interacciones entre los elementos. Si no puedes ver el vídeo incrustado, puedes enlazar:../videos/Planning_Resourcing.mp4[descargar^,opts=descargar] localmente. (MP4 - 25.1 MB)"
+msgstr "En este video (15:09), aprenderá cómo definir los elementos que tendrán un impacto en un proyecto y analizará las interacciones entre los elementos. Si no puedes ver el vídeo incrustado, puedes link:../videos/Planning_Resourcing.mp4[descargar^,opts=descargar] localmente. (MP4 - 25.1 MB)"
 
 #. type: Title ===
 #: planning.en.adoc:16
@@ -1570,7 +1569,7 @@ msgstr "Organizar"
 #. type: Plain text
 #: planning.en.adoc:20
 msgid "This video (15:52) focuses on tasks and the ways that they can be organized in order to prepare practical workable plans and clear documentation.  If you are unable to watch the embedded video, you can link:../videos/Planning_Organizing.mp4[download^,opts=download] it locally. (MP4 - 26.2 MB)"
-msgstr "Este video (15:52) se centra en las tareas y las formas en que pueden organizarse para preparar planes prácticos y documentación clara. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Planning_Organizing.mp4[descargar^,opts=descargar] localmente. (MP4 - 26.2 MB)"
+msgstr "Este video (15:52) se centra en las tareas y las formas en que pueden organizarse para preparar planes prácticos y documentación clara. Si no puede ver el vídeo incrustado, puede link:../videos/Planning_Organizing.mp4[descargar^,opts=descargar] localmente. (MP4 - 26.2 MB)"
 
 #. type: Title ===
 #: planning.en.adoc:24
@@ -1948,7 +1947,7 @@ msgstr "Estándares y Darwin Core"
 #. type: Plain text
 #: capture.en.adoc:13
 msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
-msgstr "En este video (15:37), aprenderá cómo interactúa con los estándares diariamente. Luego, se le presentará https://www.tdwg.org/[Biodiversity Information Standards ^], incluido el https://www.tdwg.org/standards/dwc/[Darwin Core Standard ^] con el que continuará para utilizar a lo largo de este curso. Si no puede ver el video incrustado, puede vincularlo:../ videos / Foundations_Standards_Darwin_Core.mp4 [descargar ^, opts = descargar] localmente. (MP4 - 27 MB)"
+msgstr "En este video (15:37), aprenderá cómo interactúa con los estándares diariamente. Luego, se le presentará https://www.tdwg.org/[Biodiversity Information Standards ^], incluido el https://www.tdwg.org/standards/dwc/[Darwin Core Standard ^] con el que continuará para utilizar a lo largo de este curso. Si no puede ver el video incrustado, puede link:../videos/Foundations_Standards_Darwin_Core.mp4[descargar ^, opts = descargar] localmente. (MP4 - 27 MB)"
 
 #. type: Title ===
 #: capture.en.adoc:17
@@ -1959,7 +1958,7 @@ msgstr "Orígenes y tipos de datos"
 #. type: Plain text
 #: capture.en.adoc:21
 msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "En este video (10:45), revisará https://www.gbif.org/dataset-classes[datos primarios de biodiversidad ^] que se pueden compartir dentro de GBIF. Si no puede ver el video incrustado, puede vincularlo:../ videos / data_origins_types.mp4 [download ^, opts = download] localmente. (MP4 - 19 MB)"
+msgstr "En este video (10:45), revisará https://www.gbif.org/dataset-classes[datos primarios de biodiversidad ^] que se pueden compartir dentro de GBIF. Si no puede ver el video incrustado, puede link:../videos/data_origins_types.mp4[download ^, opts = download] localmente. (MP4 - 19 MB)"
 
 #. type: delimited block *
 #: capture.en.adoc:27
@@ -2014,12 +2013,12 @@ msgstr "Imagine que usted es la persona asignada a transcribir los datos encontr
 #. type: Plain text
 #: capture.en.adoc:54
 msgid "Download link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip,opts=download]. (34.4 MB).  There are 10 images. Two images per specimen for a total of five specimens.  The herbarium sheets are in Spanish (data may come to you in various means and in other languages than your own), but you should be able to recognize the data contained in the fields on the labels.  Remember to use both images per record to compile the information."
-msgstr "Enlace de descarga:../ exercise-data / UC1-2-base-material.zip [UC1-2-base-material.zip, opts = download]. (34,4 MB). Hay 10 imágenes. Dos imágenes por muestra para un total de cinco muestras. Los materiales de herbario están en español (los datos pueden llegar a usted en varios medios y en otros idiomas distintos al suyo), pero debe poder reconocer los datos contenidos en los campos de las etiquetas. Recuerde utilizar ambas imágenes por registro para recopilar la información."
+msgstr "Enlace de link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material.zip, opts = download]. (34,4 MB). Hay 10 imágenes. Dos imágenes por muestra para un total de cinco muestras. Los materiales de herbario están en español (los datos pueden llegar a usted en varios medios y en otros idiomas distintos al suyo), pero debe poder reconocer los datos contenidos en los campos de las etiquetas. Recuerde utilizar ambas imágenes por registro para recopilar la información."
 
 #. type: Plain text
 #: capture.en.adoc:55
 msgid "Download the spreadsheet template: link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) to transcribe the information found on each of the images for the five specimens."
-msgstr "Descargue la plantilla de la hoja de cálculo: enlace::../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) para transcribir la información que se encuentra en cada una de las imágenes de los cinco ejemplares."
+msgstr "Descargue la plantilla de la hoja de cálculo: link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) para transcribir la información que se encuentra en cada una de las imágenes de los cinco ejemplares."
 
 #. type: Plain text
 #: capture.en.adoc:58
@@ -2251,7 +2250,7 @@ msgstr "Principios de la gestión de datos"
 #. type: Plain text
 #: management.en.adoc:11
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr "En este video (09:49), usted revisará un importante conjunto de principios necesarios para mejorar los datos a través de los procesos de limpieza de datos. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Data_Management.mp4[download^,opts=download] localmente. (MP4 - 16.6 MB)"
+msgstr "En este video (09:49), usted revisará un importante conjunto de principios necesarios para mejorar los datos a través de los procesos de limpieza de datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management.mp4[download^,opts=download] localmente. (MP4 - 16.6 MB)"
 
 #. type: Title ===
 #: management.en.adoc:15
@@ -2262,7 +2261,7 @@ msgstr "Herramientas de gestión de datos"
 #. type: Plain text
 #: management.en.adoc:19
 msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
-msgstr "En este video (06:42), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 10.3 MB)"
+msgstr "En este video (06:42), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 10.3 MB)"
 
 #. type: Title ===
 #: management.en.adoc:23
@@ -2300,12 +2299,12 @@ msgstr "En este ejercicio nos centraremos en errores técnicos y realizaremos un
 #. type: Plain text
 #: management.en.adoc:41
 msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
-msgstr "Enlace de descarga:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
+msgstr "Enlace de link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:42
 msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
-msgstr "Importe el archivo CSV en Excel usando el asistente de Excel. Consulte este enlace:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) para obtener instrucciones de importación para su sistema operativo (Windows, Mac, Linux)."
+msgstr "Importe el archivo CSV en Excel usando el asistente de Excel. Consulte este link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) para obtener instrucciones de importación para su sistema operativo (Windows, Mac, Linux)."
 
 #. type: Plain text
 #: management.en.adoc:43
@@ -2408,7 +2407,7 @@ msgstr "Ejercicio 3c"
 #. type: Plain text
 #: management.en.adoc:75
 msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
-msgstr "En este video (03:27), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 3.8 MB)"
+msgstr "En este video (03:27), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 3.8 MB)"
 
 #. type: Plain text
 #: management.en.adoc:80
@@ -2424,12 +2423,12 @@ msgstr "En este ejercicio utilizamos OpenRefine para mejorar la calidad de un co
 #. type: Plain text
 #: management.en.adoc:84
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
-msgstr "Enlace de descarga:../exercise-data/UC1-3ab-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
+msgstr "Enlace de link:../exercise-data/UC1-3ab-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:86
 msgid "Download and complete the exercises in link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB)  Also available in link:../course-docs/OpenRefine-Exercise3c-FR.pdf[French,opts=download] and link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Spanish,opts=download]."
-msgstr "Descargue y complete los ejercicios en el enlace:../course-docs/OpenRefine-Ejercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB) También disponible en el enlace:../course-docs/OpenRefine-Ejercise3c-FR.pdf[Frenco,opts=download] y en el enlace:../course-docs/OpenRefine-Ejercise3c-ES.pdf[Span,opts=download]."
+msgstr "Descargue y complete los ejercicios en el link:../course-docs/OpenRefine-Exercise3c-EN.pdf[OpenRefine-Exercise3c-EN.pdf,opts=download]. (PDF, 1.1 MB) También disponible en el link:../course-docs/OpenRefine-Exercise3c-FR.pdf[Frenco,opts=download] y en el link:../course-docs/OpenRefine-Exercise3c-ES.pdf[Span,opts=download]."
 
 #. type: Title ===
 #: management.en.adoc:88
@@ -2733,7 +2732,7 @@ msgstr "Conceptos de publicación de datos"
 #. type: Plain text
 #: publishing.en.adoc:11
 msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr "En este video (11:45), aprenderá sobre los conceptos de publicación de datos y recibirá una introducción a la Herramienta de Publicación Integrada (https://www.gbif. rg/ipt[IPT^]). Si no puedes ver el vídeo incrustado, puedes enlazar:../videos/Data_publishing_concepts.mp4[download^,opts=download] localmente. (MP4 - 20 MB)"
+msgstr "En este video (11:45), aprenderá sobre los conceptos de publicación de datos y recibirá una introducción a la Herramienta de Publicación Integrada (https://www.gbif.org/ipt[IPT^]). Si no puedes ver el vídeo incrustado, puedes link:../videos/Data_publishing_concepts.mp4[download^,opts=download] localmente. (MP4 - 20 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:15
@@ -2744,7 +2743,7 @@ msgstr "Descripción general de IPT"
 #. type: Plain text
 #: publishing.en.adoc:19
 msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
-msgstr "En este video (06:56), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede enlazar:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 8.7 MB)"
+msgstr "En este video (06:56), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 8.7 MB)"
 
 #. type: Title ====
 #: publishing.en.adoc:23
@@ -2781,7 +2780,7 @@ msgstr "Demostración de IPT"
 #. type: Plain text
 #: publishing.en.adoc:37
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr "En este video (24:16), aprenderá a publicar un conjunto de datos de registros biológicos usando un IPT. Si no puede ver el vídeo incrustado, puede enlazar:../videos/IPT_demo.mp4[download^,opts=download] localmente. (MP4 - 52.6 MB)"
+msgstr "En este video (24:16), aprenderá a publicar un conjunto de datos de registros biológicos usando un IPT. Si no puede ver el vídeo incrustado, puede link:../videos/IPT_demo.mp4[download^,opts=download] localmente. (MP4 - 52.6 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:41 use-case-invasive-species.en.adoc:137
@@ -2818,7 +2817,7 @@ msgstr "En este punto, necesita una cuenta en una de las <<Instalaciones de form
 #. type: Plain text
 #: publishing.en.adoc:54
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
-msgstr "Descargar enlace:../ejercicio-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
+msgstr "Descargar link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 
 #. type: Plain text
 #: publishing.en.adoc:55
@@ -3377,7 +3376,7 @@ msgstr "Hoja de ejercicios de Invasoras"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
 msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Descargar el enlace:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
+msgstr "Descargar el link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:64
@@ -3574,7 +3573,7 @@ msgstr "El HISC ahora está listo para publicar los datos de la lista de especie
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:146
 msgid "Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
-msgstr "Descargar enlace:../ejercicio-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
+msgstr "Descargar link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
@@ -3697,7 +3696,7 @@ msgstr "Hoja de ejercicios Lepidoptera"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Descargue el enlace:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
+msgstr "Descargue el link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:82
@@ -3833,7 +3832,7 @@ msgstr "Imagina que eres uno de los voluntarios que digitalizan los registros en
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:130
 msgid "Download logs 1 and 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
-msgstr "Descargar los registros 1 y 2 enlaces:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
+msgstr "Descargar los registros 1 y 2 link:../exercise-data/UC2-LS-2-ForCapture.zip[UC2-LS-2-ForCapture.zip]. (943 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:131
@@ -3853,7 +3852,7 @@ msgstr "Tomando el rol de uno de los voluntarios con habilidades informáticas a
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:143
 msgid "Download link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
-msgstr "Descargar enlace:../ejercicio-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
+msgstr "Descargar link:../exercise-data/UC2-LS-3-ForCleaning.xlsx[UC2-LS-3-ForCleaning.xlsx]. (44 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:145
@@ -3868,7 +3867,7 @@ msgstr "Para este ejercicio, asumirás el rol de experto taxonómico que colabor
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:156
 msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
-msgstr "Descargar enlace:../ejercicio-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
+msgstr "Descargar link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
 
 #. type: Title ==
 #: use-case-birds-from-literature.en.adoc:3
@@ -4058,7 +4057,7 @@ msgstr "Hoja de ejercicios de aves de la literatura"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Descargar el enlace:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
+msgstr "Descargar el link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
@@ -4156,7 +4155,7 @@ msgstr "A través de la georreferenciación retrospectiva, se agregaron coordena
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
 msgid "Download link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
-msgstr "Enlace de descarga:../ejercicio-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
+msgstr "Enlace de link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
@@ -4196,7 +4195,7 @@ msgstr "Para este ejercicio, asumirá el rol de la persona responsable de public
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:171
 msgid "Download link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
-msgstr "Enlace de descarga:../ejercicio-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
+msgstr "Enlace de link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
 
 #. type: Title ==
 #: assignments.en.adoc:1
@@ -4982,7 +4981,7 @@ msgstr "Apéndice: Documentos de Datos"
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr "Un documento de datos es un documento revisado por pares que describe un conjunto de datos, publicado en una revista revisada por pares. Se necesita un esfuerzo para preparar, curar y describir los datos. Los documentos de datos reconocen este esfuerzo por medio de un artículo académico. No nos rereferiremos a cómo crear documentos de datos en este curso; sin embargo, como actividad opcional, puede ver este video (51:51) presentado por Lizanne Roxburgh. En este video, aprenderá más sobre la publicación de artículos de datos. Si no puede ver el video incrustado, puede vincularlo:../ videos / Webinar_data_papers.mp4 [descargar, opts = descargar] localmente. (MP4 - 99,2 MB)"
+msgstr "Un documento de datos es un documento revisado por pares que describe un conjunto de datos, publicado en una revista revisada por pares. Se necesita un esfuerzo para preparar, curar y describir los datos. Los documentos de datos reconocen este esfuerzo por medio de un artículo académico. No nos rereferiremos a cómo crear documentos de datos en este curso; sin embargo, como actividad opcional, puede ver este video (51:51) presentado por Lizanne Roxburgh. En este video, aprenderá más sobre la publicación de artículos de datos. Si no puede ver el video incrustado, puede link:../videos/Webinar_data_papers.mp4[descargar, opts = descargar] localmente. (MP4 - 99,2 MB)"
 
 #. type: Plain text
 #: data-papers.en.adoc:17
@@ -5865,7 +5864,7 @@ msgid "John Wieczorek"
 msgstr "John Wieczorek"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:24 acknowledgements.en.adoc:52
+#: acknowledgements.en.adoc:24 acknowledgements.en.adoc:53
 msgid "Paula Zermoglio"
 msgstr "Paula Zermoglio"
 
@@ -5961,83 +5960,88 @@ msgstr "Español"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:48
+msgid "Leonardo Buitrago"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:49
 msgid "Victor Chocho"
 msgstr "Victor Chocho"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:49
+#: acknowledgements.en.adoc:50
+msgid "Camila Plata"
+msgstr ""
+
+#. type: Plain text
+#: acknowledgements.en.adoc:51
 msgid "Anabela Plos"
 msgstr "Anabela Plos"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:50
-msgid "Miguel Vega Ruiz"
-msgstr "Miguel Vega Ruiz"
-
-#. type: Plain text
-#: acknowledgements.en.adoc:51
-msgid "Cristina Villaverde"
-msgstr "Cristina Villaverde"
+#: acknowledgements.en.adoc:52
+msgid "William Ulate"
+msgstr ""
 
 #. type: Title ===
-#: acknowledgements.en.adoc:53
+#: acknowledgements.en.adoc:54
 #, no-wrap
 msgid "Resources"
 msgstr "Recursos"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:56
+#: acknowledgements.en.adoc:57
 msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
 msgstr "La plataforma de mesa en línea es proporcionada por https://playingcards.io/[PlayingCards.io^]. Muchas gracias y nuestro agradecimiento a Jwalant Patel y Eric Ma por encontrar y ayudar a crear las mesas de juego en línea y a Kate Webbink por su experiencia artística."
 
 #. type: Plain text
-#: acknowledgements.en.adoc:57
+#: acknowledgements.en.adoc:58
 msgid "Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]"
 msgstr "Los iconos usados en este curso son hechos por Freepik desde https://www.flaticon.com/[www.flaticon.com^]"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:58
+#: acknowledgements.en.adoc:59
 msgid "https://openrefine.org/[OpenRefine^]"
 msgstr "https://openrefine.org/[OpenRefine^]"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:59
+#: acknowledgements.en.adoc:60
 msgid "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
 msgstr "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
 
 #. type: Title ===
-#: acknowledgements.en.adoc:60
+#: acknowledgements.en.adoc:61
 #, no-wrap
 msgid "Resource support"
 msgstr "Apoyo de recursos"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:63
+#: acknowledgements.en.adoc:64
 msgid "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
 msgstr "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:64
+#: acknowledgements.en.adoc:65
 msgid "http://www.gbif.fr/[GBIF France^]"
 msgstr "http://www.gbif.fr/[GBIF France^]"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:65
+#: acknowledgements.en.adoc:66
 msgid "https://www.gbif.es/[GBIF Spain^]"
 msgstr "https://www.gbif.es/[GBIF España^]"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:66
+#: acknowledgements.en.adoc:67
 msgid "https://sibcolombia.net/[SiB Colombia^]"
 msgstr "https://sibcolombia.net/[SiB Colombia^]"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:67
+#: acknowledgements.en.adoc:68
 msgid "https://www.fieldmuseum.org/[The Field Museum^]"
 msgstr "https://www.fieldmuseum.org/[The Field Museum^]"
 
 #. type: Plain text
-#: acknowledgements.en.adoc:67
+#: acknowledgements.en.adoc:68
 msgid "http://vertnet.org/[VertNet^]"
 msgstr "http://vertnet.org/[VertNet^]"
 
@@ -7295,7 +7299,7 @@ msgstr "En azul, Joseph Dalton Hooker Y Hook.f.\n"
 #: scripts/data-quality.en.txt:193
 #, no-wrap
 msgid "Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).\n"
-msgstr "Hook.f. es la abreviatura utilizada para Joseph Dalton Hooker (1817-1911).\n"
+msgstr "Hook. f. es la abreviatura utilizada para Joseph Dalton Hooker (1817-1911). \n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:197
