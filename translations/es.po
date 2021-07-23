@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-23 09:04+0000\n"
-"PO-Revision-Date: 2021-07-23 10:33\n"
+"PO-Revision-Date: 2021-07-23 11:41\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -330,7 +330,7 @@ msgstr "Definiciones"
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr "En este video (12:02), revisará la terminología utilizada en este curso. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Definitions.mp4[download^,opts=download] localmente. (MP4 - 38.5 MB)"
+msgstr "En este video (12:02), revisará la terminología utilizada en este curso. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Definitions.mp4[descarga^,opts=download] localmente. (MP4 - 38.5 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:20
@@ -352,7 +352,7 @@ msgstr "Estructura"
 #. type: Plain text
 #: foundations.en.adoc:32
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr "En este video (13:10), usted revisará el campo y los tipos de datos que contienen datos, las estructuras que ayudan a organizar y proteger esos datos y lo que estos significan para la integridad y seguridad de sus datos. Si no puedes ver el vídeo incrustado, puedes link:../videos/Foundations_Structural mp4[descargar^,opts=descargar] localmente. (MP4 - 38.8 MB)"
+msgstr "En este video (13:10), usted revisará el campo y los tipos de datos que contienen datos, las estructuras que ayudan a organizar y proteger esos datos y lo que estos significan para la integridad y seguridad de sus datos. Si no puedes ver el vídeo incrustado, puedes link:../videos/Foundations_Structures.mp4[descargar^,opts=descargar] localmente. (MP4 - 38.8 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:36
@@ -527,7 +527,7 @@ msgstr "Documentación"
 #. type: delimited block *
 #: foundations.en.adoc:150
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr "En este video (09:47), proporcionaremos una visión general de la importancia de la documentación en relación con la gestión de datos y la publicación de datos. Aprenderá sobre mapeo de datos, relaciones de datos y metadatos. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Documentation.mp4[download^,opts=descargarlo] localmente. (MP4 - 29.2 MB)"
+msgstr "En este video (09:47), proporcionaremos una visión general de la importancia de la documentación en relación con la gestión de datos y la publicación de datos. Aprenderá sobre mapeo de datos, relaciones de datos y metadatos. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Documentation.mp4[descarga^,opts=descargarlo] localmente. (MP4 - 29.2 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:154
@@ -538,7 +538,7 @@ msgstr "Flujos del trabajo de digitalización"
 #. type: delimited block *
 #: foundations.en.adoc:158
 msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
-msgstr "Este video (07:20) sobre los flujos de trabajo de digitalización identifica cinco clusters (o etapas) en el proceso de digitalización de objetos de colección de historia natural usando imágenes digitales, y estas etapas se pueden adaptar fácilmente a otras fuentes de datos de biodiversidad. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Workflows.mp4[download^,opts=descargarlo] localmente. (MP4 - 26.8 MB)"
+msgstr "Este video (07:20) sobre los flujos de trabajo de digitalización identifica cinco clusters (o etapas) en el proceso de digitalización de objetos de colección de historia natural usando imágenes digitales, y estas etapas se pueden adaptar fácilmente a otras fuentes de datos de biodiversidad. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Workflows.mp4[descarga^,opts=descargarlo] localmente. (MP4 - 26.8 MB)"
 
 #. type: delimited block *
 #: foundations.en.adoc:163
@@ -1958,7 +1958,7 @@ msgstr "Orígenes y tipos de datos"
 #. type: Plain text
 #: capture.en.adoc:21
 msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "En este video (10:45), revisará https://www.gbif.org/dataset-classes[datos primarios de biodiversidad ^] que se pueden compartir dentro de GBIF. Si no puede ver el video incrustado, puede link:../videos/data_origins_types.mp4[download ^, opts = download] localmente. (MP4 - 19 MB)"
+msgstr "En este video (10:45), revisará https://www.gbif.org/dataset-classes[datos primarios de biodiversidad ^] que se pueden compartir dentro de GBIF. Si no puede ver el video incrustado, puede link:../videos/data_origins_types.mp4[descarga ^, opts = download] localmente. (MP4 - 19 MB)"
 
 #. type: delimited block *
 #: capture.en.adoc:27
@@ -2250,7 +2250,7 @@ msgstr "Principios de la gestión de datos"
 #. type: Plain text
 #: management.en.adoc:11
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr "En este video (09:49), usted revisará un importante conjunto de principios necesarios para mejorar los datos a través de los procesos de limpieza de datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management.mp4[download^,opts=download] localmente. (MP4 - 16.6 MB)"
+msgstr "En este video (09:49), usted revisará un importante conjunto de principios necesarios para mejorar los datos a través de los procesos de limpieza de datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management.mp4[descarga^,opts=download] localmente. (MP4 - 16.6 MB)"
 
 #. type: Title ===
 #: management.en.adoc:15
@@ -2261,7 +2261,7 @@ msgstr "Herramientas de gestión de datos"
 #. type: Plain text
 #: management.en.adoc:19
 msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
-msgstr "En este video (06:42), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 10.3 MB)"
+msgstr "En este video (06:42), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[descarga^,opts=download] localmente. (MP4 - 10.3 MB)"
 
 #. type: Title ===
 #: management.en.adoc:23
@@ -2407,7 +2407,7 @@ msgstr "Ejercicio 3c"
 #. type: Plain text
 #: management.en.adoc:75
 msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
-msgstr "En este video (03:27), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 3.8 MB)"
+msgstr "En este video (03:27), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[descarga^,opts=download] localmente. (MP4 - 3.8 MB)"
 
 #. type: Plain text
 #: management.en.adoc:80
@@ -2732,7 +2732,7 @@ msgstr "Conceptos de publicación de datos"
 #. type: Plain text
 #: publishing.en.adoc:11
 msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr "En este video (11:45), aprenderá sobre los conceptos de publicación de datos y recibirá una introducción a la Herramienta de Publicación Integrada (https://www.gbif.org/ipt[IPT^]). Si no puedes ver el vídeo incrustado, puedes link:../videos/Data_publishing_concepts.mp4[download^,opts=download] localmente. (MP4 - 20 MB)"
+msgstr "En este video (11:45), aprenderá sobre los conceptos de publicación de datos y recibirá una introducción a la Herramienta de Publicación Integrada (https://www.gbif.org/ipt[IPT^]). Si no puedes ver el vídeo incrustado, puedes link:../videos/Data_publishing_concepts.mp4[descarga^,opts=download] localmente. (MP4 - 20 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:15
@@ -2743,7 +2743,7 @@ msgstr "Descripción general de IPT"
 #. type: Plain text
 #: publishing.en.adoc:19
 msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
-msgstr "En este video (06:56), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[download,opts=download] localmente. (MP4 - 8.7 MB)"
+msgstr "En este video (06:56), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[descarga^,opts=download] localmente. (MP4 - 8.7 MB)"
 
 #. type: Title ====
 #: publishing.en.adoc:23
@@ -2780,7 +2780,7 @@ msgstr "Demostración de IPT"
 #. type: Plain text
 #: publishing.en.adoc:37
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr "En este video (24:16), aprenderá a publicar un conjunto de datos de registros biológicos usando un IPT. Si no puede ver el vídeo incrustado, puede link:../videos/IPT_demo.mp4[download^,opts=download] localmente. (MP4 - 52.6 MB)"
+msgstr "En este video (24:16), aprenderá a publicar un conjunto de datos de registros biológicos usando un IPT. Si no puede ver el vídeo incrustado, puede link:../videos/IPT_demo.mp4[descarga^,opts=download] localmente. (MP4 - 52.6 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:41 use-case-invasive-species.en.adoc:137
@@ -4981,7 +4981,7 @@ msgstr "Apéndice: Documentos de Datos"
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr "Un documento de datos es un documento revisado por pares que describe un conjunto de datos, publicado en una revista revisada por pares. Se necesita un esfuerzo para preparar, curar y describir los datos. Los documentos de datos reconocen este esfuerzo por medio de un artículo académico. No nos rereferiremos a cómo crear documentos de datos en este curso; sin embargo, como actividad opcional, puede ver este video (51:51) presentado por Lizanne Roxburgh. En este video, aprenderá más sobre la publicación de artículos de datos. Si no puede ver el video incrustado, puede link:../videos/Webinar_data_papers.mp4[descargar, opts = descargar] localmente. (MP4 - 99,2 MB)"
+msgstr "Un documento de datos es un documento revisado por pares que describe un conjunto de datos, publicado en una revista revisada por pares. Se necesita un esfuerzo para preparar, curar y describir los datos. Los documentos de datos reconocen este esfuerzo por medio de un artículo académico. No nos rereferiremos a cómo crear documentos de datos en este curso; sin embargo, como actividad opcional, puede ver este video (51:51) presentado por Lizanne Roxburgh. En este video, aprenderá más sobre la publicación de artículos de datos. Si no puede ver el video incrustado, puede link:../videos/Webinar_data_papers.mp4[descargar^,opts=download] localmente. (MP4 - 99,2 MB)"
 
 #. type: Plain text
 #: data-papers.en.adoc:17
