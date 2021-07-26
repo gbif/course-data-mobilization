@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-23 09:04+0000\n"
-"PO-Revision-Date: 2021-07-23 13:49\n"
+"PO-Revision-Date: 2021-07-26 12:18\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2538,7 +2538,7 @@ msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
 "Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
 "For example, are any mammal records attributed to a bird watching group?\n"
-msgstr "* Recolección de patrones *:\n"
+msgstr "*Recolección de patrones*:\n"
 "¿El detalle del registro coincide con los patrones de colecta conocidos de la organización o el colector?\n"
 "¿Parece que se han creado registros después de la muerte de un colector (¿podría ser un colector diferente con un nombre similar)?\n"
 "Por ejemplo, ¿se atribuyen registros de mamíferos a un grupo de observación de aves?\n"
@@ -2557,7 +2557,7 @@ msgstr "*Exactitud y precisión*:\n"
 msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
 "Are the records consistent with the method provided?\n"
-msgstr "* Métodos de coleta*:\n"
+msgstr "*Métodos de coleta*:\n"
 "Los diferentes métodos de relevo (por ejemplo, transectas y levantamientos de área) tienen características particulares.\n"
 "¿Los registros son consistentes con el método proporcionado?\n"
 
@@ -2607,7 +2607,7 @@ msgstr "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 #: management.en.adoc:142
 #, no-wrap
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
-msgstr "*Calculadora de Georreferenciación: http://georeferencing.org/georefcalculator/gc.html\n"
+msgstr "*Calculadora de Georreferenciación*: http://georeferencing.org/georefcalculator/gc.html\n"
 
 #. type: Plain text
 #: management.en.adoc:143
@@ -2676,7 +2676,7 @@ msgid "- [x] prevent errors from occurring\n"
 "- [ ] not cleaning errors but documenting them as you go, so people who reuse your data know where they are\n"
 msgstr "- [x] prevenir que se generen errores\n"
 "- [x] corregir los errores tan pronto como los encuentre en su base de datos u hoja de cálculo\n"
-"- [] no limpiar los errores, sino documentarlos sobre la marcha, para que las personas que reutilizan sus datos sepan dónde están\n"
+"- [ ] no limpiar los errores, sino documentarlos sobre la marcha, para que las personas que reutilizan sus datos sepan dónde están\n"
 
 #.  Question 4
 #. type: Plain text
@@ -2812,7 +2812,7 @@ msgstr "Después de limpiar los datos en el conjunto de datos de Poales, el equi
 #. type: Plain text
 #: publishing.en.adoc:53
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
-msgstr "En este punto, necesita una cuenta en una de las <<Instalaciones de formación de IPT, cursos de IPT >>. Si ún no se le ha proporcionado un usuario, comuníquese con training@gbif.org y se le proporcionará un nombre de usuario y una contraseña en uno de los IPT del curso."
+msgstr "En este punto, necesita una cuenta en una de las <<Capacitación en instalaciones de IPT,cursos de IPT >>. Si ún no se le ha proporcionado un usuario, comuníquese con training@gbif.org y se le proporcionará un nombre de usuario y una contraseña en uno de los IPT del curso."
 
 #. type: Plain text
 #: publishing.en.adoc:54
@@ -3599,7 +3599,7 @@ msgstr "Caso de Uso II - Avistamiento de Lepidópteros"
 #: use-case-lepidoptera-sampling.en.adoc:16
 #, no-wrap
 msgid "*Sampling of Lepidoptera across Countries*\n"
-msgstr "* Muestreo de Lepidópteros en todos los Países *\n"
+msgstr "*Muestreo de Lepidópteros en todos los Países*\n"
 
 #. type: Block title
 #: use-case-lepidoptera-sampling.en.adoc:18
@@ -4217,7 +4217,7 @@ msgstr "CASO DE USO II"
 #. type: Plain text
 #: assignments.en.adoc:9
 msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
-msgstr "Hay dos opciones para el CASO DE USO II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>). Solo necesita seleccionar uno de ellos para su tarea."
+msgstr "Hay dos opciones para el CASO DE USO II (<<caso-de-uso-ii-especies-invasoras,Especies invasoras>> OR <<caso-de-uso-ii-avistamiento-de-lepidópteros,Muestreo de Lepidoptera>>). Solo necesita seleccionar uno de ellos para su tarea."
 
 #. type: Plain text
 #: assignments.en.adoc:11 assignments.en.adoc:20
@@ -4248,7 +4248,7 @@ msgstr "CASO DE USO III"
 #. type: Plain text
 #: assignments.en.adoc:18
 msgid "There is only one option for USE CASE III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
-msgstr "Solo hay una opción para el CASO DE USO III (<<use-case-iii-birds-from-literature,Birds from literature>>)."
+msgstr "Solo hay una opción para el CASO DE USO III (<<caso-de-uso-iii-aves-de-la-literatura,Aves de la literatura>>)."
 
 #. type: Plain text
 #: assignments.en.adoc:26
@@ -4348,7 +4348,7 @@ msgstr "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Bio
 #. type: Plain text
 #: keydocs.en.adoc:23
 msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
-msgstr "https://doi.org/10. 5035/doc-b8hq-me03[Guía para que las empresas privadas se conviertan en publicadores de datos a través de GBIF: Documento de plantilla para apoyar el proceso interno de autorización para convertirse en un publicador de GBIF^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
+msgstr "https://doi.org/10.35035/doc-b8hq-me03[Guía para que las empresas privadas se conviertan en publicadores de datos a través de GBIF: Documento de plantilla para apoyar el proceso interno de autorización para convertirse en un publicador de GBIF^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:25
@@ -5779,7 +5779,7 @@ msgstr "Solución sugerida del Caso de Uso I"
 #. type: Plain text
 #: solutions.en.adoc:296
 msgid "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested solution^,opts=download] (PDF 144 KB)"
-msgstr "link:../course-docs/UC1-Herbarium-Suggested-Solution_ES.pdf[solución sugerida^,opts=download] (PDF 144 KB)"
+msgstr "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[solución sugerida^,opts=download] (PDF 144 KB)"
 
 #. type: Title ==
 #: acknowledgements.en.adoc:2
@@ -6071,7 +6071,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
-msgstr "El _Curso de Movilización de Datos sobre Biodiversidad de GBIF_ se desarrolló originalmente como parte de https://www.gbif.org/bid[Información de Biodiversidad para el Desarrollo^], un programa financiado por https://europa.eu [Unión Europea^]. El plan de estudios original fue creado por Néstor Beltrán, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell y Katia Cezón, con contribuciones adicionales de entrenadores, mentores y estudiantes de GBIF."
+msgstr "El _Curso de Movilización de Datos sobre Biodiversidad de GBIF_ se desarrolló originalmente como parte de https://www.gbif.org/bid[Información de Biodiversidad para el Desarrollo^], un programa financiado por https://europa.eu[Unión Europea^]. El plan de estudios original fue creado por Néstor Beltrán, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell y Katia Cezón, con contribuciones adicionales de entrenadores, mentores y estudiantes de GBIF."
 
 #. type: Title ===
 #: colophon.en.adoc:11
