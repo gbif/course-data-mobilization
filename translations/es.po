@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-23 09:04+0000\n"
-"PO-Revision-Date: 2021-07-23 11:41\n"
+"PO-Revision-Date: 2021-07-23 13:49\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1314,7 +1314,7 @@ msgstr "- [ ] El director del museo o departamento\n"
 #. type: Plain text
 #: foundations.en.adoc:597
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
-msgstr "Para las sentencias dadas, introduzca la imagen coincidente. (A, B, C, D) image:img/web/accuracyprecision.png[align=center,width=640,height=360]"
+msgstr "Para las sentencias dadas, introduzca la imagen coincidente. (A, B, C, D) image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 
 #. type: delimited block .
 #: foundations.en.adoc:608
@@ -1679,7 +1679,7 @@ msgstr "Ejercicio 1a"
 #: planning.en.adoc:72 capture.en.adoc:47 management.en.adoc:28
 #: publishing.en.adoc:46
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
-msgstr "Leer <<scenario,USE CASE I>> (si no lo has hecho ya)."
+msgstr "Leer <<escenario,USE CASE I>> (si no lo has hecho ya)."
 
 #. type: Plain text
 #: planning.en.adoc:76
@@ -1734,7 +1734,7 @@ msgstr "Una vez que las cartas sean asignadas, tome fotografías / capturas de p
 #. type: Plain text
 #: planning.en.adoc:87
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
-msgstr "Usa el <<exercise-sheet,exercise sheet>> para proporcionar tus respuestas."
+msgstr "Usa el <<hoja-de-ejercicio,hoja de ejercicio>> para proporcionar tus respuestas."
 
 #. type: delimited block *
 #: planning.en.adoc:90
@@ -1947,7 +1947,7 @@ msgstr "Estándares y Darwin Core"
 #. type: Plain text
 #: capture.en.adoc:13
 msgid "In this video (15:37), you will learn how you interact with standards every day.  Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)"
-msgstr "En este video (15:37), aprenderá cómo interactúa con los estándares diariamente. Luego, se le presentará https://www.tdwg.org/[Biodiversity Information Standards ^], incluido el https://www.tdwg.org/standards/dwc/[Darwin Core Standard ^] con el que continuará para utilizar a lo largo de este curso. Si no puede ver el video incrustado, puede link:../videos/Foundations_Standards_Darwin_Core.mp4[descargar ^, opts = descargar] localmente. (MP4 - 27 MB)"
+msgstr "En este video (15:37), aprenderá cómo interactúa con los estándares diariamente. Luego, se le presentará https://www.tdwg.org/[Biodiversity Information Standards^], incluido el https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] con el que continuará para utilizar a lo largo de este curso. Si no puede ver el video incrustado, puede link:../videos/Foundations_Standards_Darwin_Core.mp4[descargar ^, opts = descargar] localmente. (MP4 - 27 MB)"
 
 #. type: Title ===
 #: capture.en.adoc:17
@@ -1958,7 +1958,7 @@ msgstr "Orígenes y tipos de datos"
 #. type: Plain text
 #: capture.en.adoc:21
 msgid "In this video (10:45), you will review https://www.gbif.org/dataset-classes[primary biodiversity data^] that can be shared within GBIF.  If you are unable to watch the embedded video, you can link:../videos/data_origins_types.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr "En este video (10:45), revisará https://www.gbif.org/dataset-classes[datos primarios de biodiversidad ^] que se pueden compartir dentro de GBIF. Si no puede ver el video incrustado, puede link:../videos/data_origins_types.mp4[descarga ^, opts = download] localmente. (MP4 - 19 MB)"
+msgstr "En este video (10:45), revisará https://www.gbif.org/dataset-classes[datos primarios de biodiversidad^] que se pueden compartir dentro de GBIF. Si no puede ver el video incrustado, puede link:../videos/data_origins_types.mp4[descarga^, opts = download] localmente. (MP4 - 19 MB)"
 
 #. type: delimited block *
 #: capture.en.adoc:27
@@ -2294,7 +2294,7 @@ msgstr "*Comprobaciones de validación*\n"
 #. type: Plain text
 #: management.en.adoc:39
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
-msgstr "En este ejercicio nos centraremos en errores técnicos y realizaremos una comprobación básica de validación para identificar errores técnicos. Consulte <<Validation checks>> para obtener información sobre los tipos de errores."
+msgstr "En este ejercicio nos centraremos en errores técnicos y realizaremos una comprobación básica de validación para identificar errores técnicos. Consulte <<Comprobaciones de validación>> para obtener información sobre los tipos de errores."
 
 #. type: Plain text
 #: management.en.adoc:41
@@ -4269,7 +4269,7 @@ msgstr "Las tareas pueden enviarse desde la versión en línea (HTML) del curso.
 #. type: Plain text
 #: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
-msgstr "Por favor, envíe sus archivos de tareas mediante el formulario a continuación. Si no ve un formulario, también puede visitar el https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site ^] en una nueva ventana."
+msgstr "Por favor, envíe sus archivos de tareas mediante el formulario a continuación. Si no ve un formulario, también puede visitar el https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] en una nueva ventana."
 
 #. type: delimited block +
 #: assignments.en.adoc:38
@@ -5961,7 +5961,7 @@ msgstr "Español"
 #. type: Plain text
 #: acknowledgements.en.adoc:48
 msgid "Leonardo Buitrago"
-msgstr ""
+msgstr "Leonardo Buitrago"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:49
@@ -5971,7 +5971,7 @@ msgstr "Victor Chocho"
 #. type: Plain text
 #: acknowledgements.en.adoc:50
 msgid "Camila Plata"
-msgstr ""
+msgstr "Camila Plata"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:51
@@ -5981,7 +5981,7 @@ msgstr "Anabela Plos"
 #. type: Plain text
 #: acknowledgements.en.adoc:52
 msgid "William Ulate"
-msgstr ""
+msgstr "William Ulate"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:54
