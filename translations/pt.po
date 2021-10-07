@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-07-23 09:04+0000\n"
-"PO-Revision-Date: 2021-07-23 09:35\n"
+"PO-Revision-Date: 2021-09-15 12:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -111,7 +111,7 @@ msgstr "Pré-requisitos"
 #. type: Plain text
 #: description.en.adoc:28
 msgid "https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF course^]"
-msgstr ""
+msgstr "https://docs.gbif.org/course-introduction-to-gbif[Introdução ao curso do GBIF^]"
 
 #. type: Plain text
 #: description.en.adoc:30
@@ -755,12 +755,12 @@ msgstr "Requisitos de Instalação"
 #. type: delimited block *
 #: foundations.en.adoc:242
 msgid "Linux users only: Java JRE installed."
-msgstr ""
+msgstr "Apenas para utilizadores do Linux: Java JRE instalado."
 
 #. type: delimited block *
 #: foundations.en.adoc:243
 msgid "Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet Explorer is not supported."
-msgstr ""
+msgstr "Google Chrome, Microsoft Edge ou Mozilla Firefox instalado. Internet Explorer não é suportado."
 
 #. type: delimited block *
 #: foundations.en.adoc:245
@@ -776,23 +776,23 @@ msgstr "Instalação no MS Windows"
 #. type: delimited block =
 #: foundations.en.adoc:249 foundations.en.adoc:262
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
-msgstr ""
+msgstr "Transfira o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[kit Windows *com Java embutido*]. Escolha gravar o ficheiro em vez de abri-lo."
 
 #. type: delimited block *
 #: foundations.en.adoc:250
 msgid "Find the downloaded file.  Right click it, and choose \"Extract all…\". Unzip, and double-click on openrefine.exe or refine.bat if the former does not work."
-msgstr ""
+msgstr "Encontre o ficheiro transferido. Clique com o botão direito e escolha \"Extrair todos…\". Descompactação e um duplo clique no openrefine.exe ou refine.bat, se o primeiro não funcionar."
 
 #. type: delimited block *
 #: foundations.en.adoc:251
 msgid "A command window will appear (don't close it) and soon after a new web browser window will show the application."
-msgstr ""
+msgstr "Uma janela de comando aparecerá (não a feche) e de seguida uma nova janela do navegador web irá mostrar a aplicação."
 
 #. type: Block title
 #: foundations.en.adoc:252
 #, no-wrap
 msgid "Detailed instructions for MS Windows (click to expand)"
-msgstr ""
+msgstr "Instruções detalhadas para o MS Windows (clique para expandir)"
 
 #. type: delimited block =
 #: foundations.en.adoc:256 foundations.en.adoc:265 foundations.en.adoc:274
@@ -804,57 +804,57 @@ msgstr ""
 #: foundations.en.adoc:444 foundations.en.adoc:453 foundations.en.adoc:462
 #: foundations.en.adoc:471
 msgid "{blank}"
-msgstr ""
+msgstr "{blank}"
 
 #. type: Target for macro image
 #: foundations.en.adoc:260
 #, no-wrap
 msgid "img/web/install-openrefine/win1-save-download.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win1-save-download.png"
 
 #. type: Target for macro image
 #: foundations.en.adoc:269
 #, no-wrap
 msgid "img/web/install-openrefine/win2-extract-all.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win2-extract-all.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:271
 msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
-msgstr ""
+msgstr "Encontre o ficheiro que transferiu. Clique com o botão direito do rato e escolha \"Extrair Todos…\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:278
 #, no-wrap
 msgid "img/web/install-openrefine/win3-extract-location.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win3-extract-location.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:280
 msgid "Click \"Extract\""
-msgstr ""
+msgstr "Clique \"Extrair\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:287
 #, no-wrap
 msgid "img/web/install-openrefine/win4-create-shortcut.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win4-create-shortcut.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:289
 msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
-msgstr ""
+msgstr "Encontre os ficheiros extraídos. Opcionalmente, clique com o botão direito em \"openrefine\" e escolha \"Enviar para → Desktop (criar atalho)\" para criar um atalho na sua área de trabalho. Em seguida, clique duas vezes em \"openrefine\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:296
 #, no-wrap
 msgid "img/web/install-openrefine/win5-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win5-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:298
 msgid "A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use."
-msgstr ""
+msgstr "Uma janela preta da consola irá abrir, e de seguida também o navegador. O OpenRefine está pronto para ser usado."
 
 #. type: Title ====
 #: foundations.en.adoc:301
@@ -865,7 +865,7 @@ msgstr "Instalação no Mac"
 #. type: Plain text
 #: foundations.en.adoc:304
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
-msgstr ""
+msgstr "Transfira o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
 
 #. type: Plain text
 #: foundations.en.adoc:306
@@ -881,133 +881,133 @@ msgstr "Clique duas vezes nele e uma nova janela do navegador da Web exibirá a 
 #: foundations.en.adoc:308
 #, no-wrap
 msgid "Detailed instructions for Mac (click to expand)"
-msgstr ""
+msgstr "Instruções detalhadas para Mac (clique para expandir)"
 
 #. type: Target for macro image
 #: foundations.en.adoc:316
 #, no-wrap
 msgid "img/web/install-openrefine/mac01-download-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac01-download-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:318
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it."
-msgstr ""
+msgstr "Transfira o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], e escolha abrir."
 
 #. type: Target for macro image
 #: foundations.en.adoc:325
 #, no-wrap
 msgid "img/web/install-openrefine/mac02-unidentified-developer.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac02-unidentified-developer.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:327
 msgid "A warning is shown. Click \"OK\"."
-msgstr ""
+msgstr "Um aviso é mostrado. Clique em \"OK\"."
 
 #. type: Target for macro image
 #: foundations.en.adoc:334
 #, no-wrap
 msgid "img/web/install-openrefine/mac03-system-preferences.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac03-system-preferences.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:336
 msgid "Open System Preferences."
-msgstr ""
+msgstr "Abrir Preferências do Sistema."
 
 #. type: Target for macro image
 #: foundations.en.adoc:343
 #, no-wrap
 msgid "img/web/install-openrefine/mac04-security-and-privacy.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac04-security-and-privacy.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:345
 msgid "Open Security & Privacy"
-msgstr ""
+msgstr "Abrir Segurança & Privacidade"
 
 #. type: Target for macro image
 #: foundations.en.adoc:352
 #, no-wrap
 msgid "img/web/install-openrefine/mac05-open-anyway.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac05-open-anyway.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:354
 msgid "Choose \"Open Anyway\" at the bottom."
-msgstr ""
+msgstr "Escolha \"Abrir de qualquer forma\" em baixo."
 
 #. type: Target for macro image
 #: foundations.en.adoc:361
 #, no-wrap
 msgid "img/web/install-openrefine/mac06-yes-really-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac06-yes-really-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:363
 msgid "Choose \"Open\""
-msgstr ""
+msgstr "Escolha \"Abrir\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:370
 #, no-wrap
 msgid "img/web/install-openrefine/mac07-copy-to-applications.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac07-copy-to-applications.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:372
 msgid "Finally, the application archive is opened! Drag it to your Applications folder."
-msgstr ""
+msgstr "Finalmente, o arquivo da aplicação está aberto! Arraste-o para a pasta Aplicativos."
 
 #. type: Target for macro image
 #: foundations.en.adoc:379
 #, no-wrap
 msgid "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:381
 msgid "Double-click the OpenRefine icon.  Another security warning appears!"
-msgstr ""
+msgstr "Faça duplo click no ícone OpenRefine. Aparece outro aviso de segurança!"
 
 #. type: Target for macro image
 #: foundations.en.adoc:388
 #, no-wrap
 msgid "img/web/install-openrefine/mac09-not-the-user.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac09-not-the-user.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:390
 msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
-msgstr ""
+msgstr "Volte para \"Segurança e Privacidade\" e clique em \"Abrir de qualquer forma\" — novamente."
 
 #. type: Target for macro image
 #: foundations.en.adoc:397
 #, no-wrap
 msgid "img/web/install-openrefine/mac10-use-linux-instead.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac10-use-linux-instead.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:399
 msgid "(To avoid these warnings, the OpenRefine developers would need to pay Apple.)"
-msgstr ""
+msgstr "(Para evitar esses avisos, os programadores OpenRefine teriam de pagar à Apple.)"
 
 #. type: delimited block =
 #: foundations.en.adoc:401
 msgid "Click \"Open\"."
-msgstr ""
+msgstr "Clique em \"Abrir\"."
 
 #. type: Target for macro image
 #: foundations.en.adoc:408
 #, no-wrap
 msgid "img/web/install-openrefine/mac11-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac11-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:410
 msgid "Finally! The application is running."
-msgstr ""
+msgstr "Finalmente! A aplicaação está em execução."
 
 #. type: Title ====
 #: foundations.en.adoc:414
@@ -1018,7 +1018,7 @@ msgstr "Instalação no Linux"
 #. type: Plain text
 #: foundations.en.adoc:417
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
-msgstr ""
+msgstr "Transfira o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
 
 #. type: Plain text
 #: foundations.en.adoc:419
@@ -1029,78 +1029,78 @@ msgstr "Descarregue, extraia, em seguida digite ./refine para iniciar. Este requ
 #: foundations.en.adoc:420
 #, no-wrap
 msgid "Detailed instructions for Linux (click to expand)"
-msgstr ""
+msgstr "Instruções detalhadas para Linux (clique para expandir)"
 
 #. type: delimited block =
 #: foundations.en.adoc:424
 msgid "These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is similar for Gnome (e.g. Ubuntu, Red Hat, CentOS)."
-msgstr ""
+msgstr "Estas instruções são para o KDE (por exemplo, Kubuntu, SuSE), mas o processo é similar para Gnome (por exemplo, Ubuntu, Red Hat, CentOS)."
 
 #. type: Target for macro image
 #: foundations.en.adoc:430
 #, no-wrap
 msgid "img/web/install-openrefine/kde1-download-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde1-download-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:432
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].  Open it."
-msgstr ""
+msgstr "Transfira o https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]. Abra-o."
 
 #. type: Target for macro image
 #: foundations.en.adoc:439
 #, no-wrap
 msgid "img/web/install-openrefine/kde2-extract.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde2-extract.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:441
 msgid "Click \"Extract\" to unpack the downloaded application."
-msgstr ""
+msgstr "Clique em \"Extrair\" para descompactar o aplicativo transferido."
 
 #. type: Target for macro image
 #: foundations.en.adoc:448
 #, no-wrap
 msgid "img/web/install-openrefine/kde3-extract-all.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde3-extract-all.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:450
 msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
-msgstr ""
+msgstr "Escolha o local adequado. Eu também selecionei \"Abrir pasta de destino após a extração\" e \"Fechar Ark após a extração\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:457
 #, no-wrap
 msgid "img/web/install-openrefine/kde4-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde4-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:459
 msgid "Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you can safely exit OpenRefine later, by closing the Konsole window."
-msgstr ""
+msgstr "Clique com o botão direito em \"refine\" e escolha \"Executar em Konsole\". Isso é necessário para possa sair do OpenRefine mais tarde, fechando a janela do Konsole."
 
 #. type: Target for macro image
 #: foundations.en.adoc:466
 #, no-wrap
 msgid "img/web/install-openrefine/kde5-execute.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde5-execute.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:468
 msgid "Confirm that you wish to execute the downloaded application."
-msgstr ""
+msgstr "Confirme que deseja executar a aplicação transferida."
 
 #. type: Target for macro image
 #: foundations.en.adoc:475
 #, no-wrap
 msgid "img/web/install-openrefine/kde6-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde6-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:477
 msgid "OpenRefine is now running."
-msgstr ""
+msgstr "O OpenRefine está a correr agora."
 
 #. type: Title ===
 #: foundations.en.adoc:481
@@ -3701,128 +3701,128 @@ msgstr "Link de download link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exerc
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:82
 msgid "The volume of analogue data (paper logs) arriving at the IBAN headquarters will soon exceed their capacity to digitize, so the steering committee has decided to reconsider the current approach to this area of their work which has grown unmanaged for the last few years.  To date, this is how work has been organized:"
-msgstr ""
+msgstr "O volume de dados analógicos (registos em papel) que chegam na sede IBAN logo excederá a sua capacidade de digitalizar. Assim, a direcção decidiu reconsiderar a actual abordagem desta área de trabalho que tem vindo a crescer sem gestão nos últimos anos. Até à data, é assim que o trabalho tem sido organizado:"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:84
 msgid "The paper logs arrive via post. The secretary opens the packages and collates the logs."
-msgstr ""
+msgstr "Os registos de papel chegam através dos correios. A secretária abre os pacotes e recolhe os registos."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:85
 msgid "There are five volunteers with basic computer skills using two shared computers to digitize the paper logs. These volunteers are also citizen scientists themselves, so they are familiar with the taxonomy of the order Lepidoptera, and with the species occurring in the country where the headquarters of IBAN are located."
-msgstr ""
+msgstr "Há cinco voluntários com capacidades básicas em informática usando dois computadores partilhados para digitalizar os registos de papel. Esses voluntários também são cientistas cidadãos e portanto estão familiarizados com a taxonomia da ordem Lepidoptera, e com as espécies que ocorrem no país onde se situa a sede do IBAN."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:86
 msgid "The digitizers come and go whenever they have time so they usually check for computer availability via phone. Sometimes there are time clashes and some have to go home as the two computers are busy, and sometimes the two computers are unused."
-msgstr ""
+msgstr "Os voluntários que fazem a digitalização aparecem sempre que têm tempo, para que normalmente verifiquem por telefone a disponibilidade de computadores. Por vezes, há incompatibilidades de tempo e alguns têm de ir para casa, uma vez que os dois computadores estão ocupados. Outras vezes, ambos os dois computadores estão desocupados."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:87
 msgid "When they digitize, they usually pick one paper log at a time from the pile, and digitize it (if they can). Common problems that occur are that:"
-msgstr ""
+msgstr "Quando eles digitalizam, geralmente escolhem um papel de registo de cada vez a partir do monte de registos, e digitalizam-no (se puderem). Os problemas comuns que ocorrem são:"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:88
 msgid "the digitizer does not know the species observed (misspellings occur),"
-msgstr ""
+msgstr "o voluntário não sabe se as espécies observadas (ocorrem erros de escrita),"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:89
 msgid "the digitizer does not know the area where the sampling has occurred,"
-msgstr ""
+msgstr "o voluntário não sabe onde ocorreu a amostragem"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:90
 msgid "the digitizer cannot read the handwriting or the language in which some of the comments are written."
-msgstr ""
+msgstr "o voluntário não consegue ler a caligrafia ou a linguagem em que alguns dos comentários são escritos."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:91
 msgid "A single taxonomic expert gets all the digitized tables and produces the report and distribution maps based on them. Normally she needs to discard around 15% of the digitized data because of inconsistencies, misspellings or other errors that she does not have the time to check."
-msgstr ""
+msgstr "Uma única especialista taxonómico recebe todas as tabelas digitalizadas e produz os mapas de relatório e distribuição com base nelas. Normalmente ela tem de descartar cerca de 15% dos dados digitalizados por causa de inconsistências, erros ou outros erros que não tem tempo para verificar."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:95
 #, no-wrap
 msgid "*Analyze the financial component of their new digitization plan*\n"
-msgstr ""
+msgstr "*Analisar a componente financeira de seu novo plano de digitalização*\n"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:99
 msgid "The steering committee is analyzing the following options for their new digitization plan, all of which have financial implications on their already reduced budget.  They know they can only implement TWO of these options, so they need to choose wisely.  Use the exercise sheet to provide a recommendation on which two options they should select and explain why you chose them."
-msgstr ""
+msgstr "A direcção está a analisar as seguintes opções para o seu novo plano de digitalização, que tem todas as implicações financeiras no seu já reduzido orçamento. Sabem que só podem implementar DUAS destas opções, pelo que têm de escolher com sensatez. Use a folha de exercícios para fornecer uma recomendação sobre quais duas opções eles devem seleccionar e explicar por que as escolheu."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:101
 msgid "Option 1: Buy three more computers so all digitizers can work simultaneously."
-msgstr ""
+msgstr "Opção 1: Compre mais três computadores para que todos os voluntários possam digitalizar simultaneamente."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:102
 msgid "Option 2: Offer financial support to the national offices to buy flatbed scanners and send/share the logs electronically instead of by post."
-msgstr ""
+msgstr "Opção 2: Oferecer suporte financeiro aos escritórios nacionais para comprar scanners de mesa e enviar/partilhar os registos eletronicamente, ao invés de por correio."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:103
 msgid "Option 3: Offer financial compensation to the digitizers. They will not be able to pay all five of them the equivalent of a regular salary, but could cover the costs of part time positions for three of the volunteers."
-msgstr ""
+msgstr "Opção 3: Oferecer compensação financeira aos voluntários. Eles não poderão pagar a todos os cinco o equivalente a um salário normal, mas poderão cobrir os custos de posições a tempo parcial para três dos voluntários."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:104
 msgid "Option 4: Purchase existing biodiversity digitization software in English, which comes with taxonomic entry check and in-built aids to correct geographical information."
-msgstr ""
+msgstr "Opção 4: Adquira um software de digitalização de biodiversidade existente em inglês, que inclua a verificação de entrada taxonómica e ferramentas auxiliares para corrigir a informação geográfica."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:105
 msgid "Option 5: Contract a software development company to develop customized digitization software. For the same price of the commercial software, the developers will provide a solution in the local language, which will match the original data schema perfectly and will also provide a web data portal to expose the results of the digitization effort."
-msgstr ""
+msgstr "Opção 5: Contrate de uma empresa de software para desenvolver um programa de digitalização personalizado. Pelo mesmo preço do software comercial, os programadores fornecerão uma solução na linguagem local, que corresponderá perfeitamente ao esquema de dados original e também fornecerá um portal de dados web para expor os resultados do esforço de digitalização."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:106
 msgid "Option 6: Organize a course for the five digitizers to improve their skills in taxonomy, computer use and biodiversity informatics standards."
-msgstr ""
+msgstr "Opção 6: Organize um curso para que os cinco voluntários melhorem suas capacidades em taxonomia, uso de computadores e padrões de informática para a biodiversidade."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:114
 msgid "These are the human resources available for this digitization effort.  How would you assign roles to maximize the efficiency of the digitization process and produce data of the highest quality possible? Use the exercise sheet to provide your answers."
-msgstr ""
+msgstr "Estes são os recursos humanos disponíveis para este esforço de digitalização. Como designar os papéis para maximizar a eficiência do processo de digitalização e produzir dados da maior qualidade possível? Use a folha de exercícios para fornecer as suas respostas."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:116
 msgid "Administrative assistant. No taxonomic knowledge. Basic computer use. Can read 3 languages."
-msgstr ""
+msgstr "Assistente administrativo. Nenhum conhecimento taxonómico. Uso básico de computador. Pode ler 3 idiomas."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:117
 msgid "Volunteer 1. Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "Voluntário 1. Conhecimento taxonómico básico. Uso básico de computador."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:118
 msgid "Volunteer 2. Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "Voluntário 2. Conhecimento taxonómico básico. Uso básico de computador."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:119
 msgid "Volunteer 3. Basic taxonomic knowledge. Basic computer use. Can read 3 languages."
-msgstr ""
+msgstr "Voluntário 3. Conhecimento taxonómico básico. Uso básico de computador. Pode ler 3 idiomas."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:120
 msgid "Volunteer 4. Basic taxonomic knowledge. Basic computer use. Can read 3 languages."
-msgstr ""
+msgstr "Voluntário 4. Conhecimento taxonómico básico. Uso básico de computador. Pode ler 3 idiomas."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:121
 msgid "Volunteer 5. Basic taxonomic knowledge. Advanced computer use (including GIS and data analysis tools)."
-msgstr ""
+msgstr "Voluntário 5. Conhecimento taxonómico básico. Uso avançado do computador (incluindo GIS e ferramentas de análise de dados)."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:122
 msgid "Taxonomic expert. Advanced taxonomic knowledge. Advanced computer use (including GIS and data analysis tools)."
-msgstr ""
+msgstr "Especialista taxonómico. Conhecimento taxonómico avançado. Uso avançado do computador (incluindo GIS e ferramentas de análise de dados)."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:128
@@ -4308,7 +4308,7 @@ msgstr "Darwin Core"
 #. type: Plain text
 #: keydocs.en.adoc:10
 msgid "https://dwc.tdwg.org/terms/[Darwin Core Terms: A quick reference guide^]"
-msgstr ""
+msgstr "https://dwc.tdwg.org/terms/[Darwin Core Terms: A quick reference guide^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:11
@@ -4353,7 +4353,7 @@ msgstr "https://doi.org/10.35035/doc-b8hq-me03[Guia para empresas privadas torna
 #. type: Plain text
 #: keydocs.en.adoc:25
 msgid "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] + Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] + Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:26
@@ -5962,7 +5962,7 @@ msgstr "Espanhol"
 #. type: Plain text
 #: acknowledgements.en.adoc:48
 msgid "Leonardo Buitrago"
-msgstr ""
+msgstr "Leonardo Buitrago"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:49
@@ -5972,7 +5972,7 @@ msgstr "Victor Chocho"
 #. type: Plain text
 #: acknowledgements.en.adoc:50
 msgid "Camila Plata"
-msgstr ""
+msgstr "Camila Plata"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:51
@@ -5982,7 +5982,7 @@ msgstr "Anabela Plos"
 #. type: Plain text
 #: acknowledgements.en.adoc:52
 msgid "William Ulate"
-msgstr ""
+msgstr "William Ulate"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:54
@@ -6083,7 +6083,7 @@ msgstr "Licença"
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "_GBIF Biodiversity Data Mobilization Course_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "_GBIF Biodiversity Data Mobilization Course_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:15
