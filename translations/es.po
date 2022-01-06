@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-06 16:33\n"
+"PO-Revision-Date: 2022-01-06 17:29\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -234,18 +234,18 @@ msgstr "Archivos para descargar"
 #. type: Plain text
 #: downloads.en.adoc:7
 msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from YouTube. Subtitles are available when playing from YouTube for most videos.  If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer."
-msgstr "Todos los archivos del curso se pueden descargar desde esta página. O si lo prefiere, todos los archivos están enlazados individualmente a lo largo del curso, tal y como aparecen en el currículum. Los archivos de vídeo también están incrustados a lo largo del curso, y se reproducen desde YouTube. Los subtítulos están disponibles cuando se reproduce desde YouTube, para la mayoría de los vídeos. Si tiene dificultades para acceder a los vídeos incorporados, descargue los archivos mp4 para reproducirlos localmente en su ordenador."
+msgstr "Todos los archivos del curso se pueden descargar desde esta página. O si lo prefiere, todos los archivos están enlazados individualmente a lo largo del curso, tal y como aparecen en el currículum. Los archivos de vídeo también están incrustados a lo largo del curso, y se reproducen desde YouTube. Los subtítulos están disponibles cuando se reproduce desde YouTube, para la mayoría de los vídeos. Si tiene dificultades para acceder a los vídeos incrustados, descargue los archivos mp4 para reproducirlos localmente en su computador."
 
 #. type: Title ===
 #: downloads.en.adoc:8
 #, no-wrap
 msgid "Videos"
-msgstr "Vídeos"
+msgstr "Videos"
 
 #. type: Plain text
 #: downloads.en.adoc:10
 msgid "The videos are narrated in English. Subtitles are not available for the downloaded videos."
-msgstr "Los videos están narrados en inglés. Los subtítulos no están disponibles para los videos descargados."
+msgstr "Los videos están narrados en inglés. Los subtítulos no están disponibles para los videos que sean descargados."
 
 #. type: Plain text
 #: downloads.en.adoc:12
@@ -313,7 +313,7 @@ msgstr "Bases "
 #. type: Plain text
 #: foundations.en.adoc:9
 msgid "This module includes instruction to ensure all participants are at the same level before delving into the data mobilization topics.  You will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.  You will also receive an introduction to data quality and learn the importance of documentation.  Lastly, you will be asked to install the OpenRefine software as part of this module."
-msgstr "Este módulo incluye instrucciones para garantizar que todos los participantes estén al mismo nivel antes de profundizar en los temas de movilización de datos.  Recibirá una introducción al lenguaje, la terminología y las definiciones de algunos de los conceptos, funciones y procesos básicos que va a poner en práctica durante el resto del curso.  También recibirá una introducción a la calidad de los datos y aprenderá la importancia de la documentación.  Por último, se le pedirá que instale el software OpenRefine como parte de este módulo."
+msgstr "Este módulo incluye instrucciones para garantizar que todos los participantes estén al mismo nivel antes de profundizar en los temas de movilización de datos.  Recibirá una introducción al lenguaje, la terminología y las definiciones de algunos de los conceptos, funciones y procesos básicos que pondrá en práctica durante el resto del curso.  También recibirá una introducción a la calidad de los datos y aprenderá la importancia de la documentación.  Por último, como parte de este módulo, se le pedirá que instale el software OpenRefine."
 
 #. type: Title ===
 #: foundations.en.adoc:10
@@ -347,12 +347,12 @@ msgstr "En este video (05:58), usted revisará ejemplos de los diferentes tipos 
 #: foundations.en.adoc:28
 #, no-wrap
 msgid "Structures"
-msgstr "Estructura"
+msgstr "Estructuras"
 
 #. type: Plain text
 #: foundations.en.adoc:32
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr "En este video (13:10), usted revisará el campo y los tipos de datos que contienen datos, las estructuras que ayudan a organizar y proteger esos datos y lo que estos significan para la integridad y seguridad de sus datos. Si no puedes ver el vídeo incrustado, puedes link:../videos/Foundations_Structures.mp4[descargar^,opts=descargar] localmente. (MP4 - 38.8 MB)"
+msgstr "En este video (13:10), usted revisará los tipos de datos y campos que contienen datos, las estructuras que ayudan a organizar y proteger los datos y lo que estos significan para la integridad y seguridad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Structures.mp4[descargarlo^,opts=download] localmente. (MP4 - 38.8 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:36
@@ -363,23 +363,23 @@ msgstr "Calidad de los datos"
 #. type: Plain text
 #: foundations.en.adoc:40
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr "En este vídeo (12:26), se repasa la terminología utilizada en este curso.  Si no puede ver el vídeo incrustado de Vimeo, puede link:../videos/Foundations_Definitions.mp4[descarga^,opts=download] localmente. (MP4 - 38,5 MB)"
+msgstr "En este vídeo (12:26), se repasa la terminología utilizada en este curso.  Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Definitions.mp4[descargalo^,opts=download] localmente. (MP4 - 38,5 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:48
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
-msgstr "A continuación encontrará una lectura seleccionada de la guía de Arthur Chapman “Principles of data quality”. https://www.gbif.org/document/80509/principles-of-data-quality[Documento completo^], referencias y traducciones se pueden encontrar en GBIF.org."
+msgstr "A continuación encontrará una lectura seleccionada de la guía de Arthur Chapman “Principles of data quality”. Puede encontrar el https://www.gbif.org/document/80509/principles-of-data-quality[documento completo^], las referencias y traducciones en GBIF.org."
 
 #. type: delimited block _
 #: foundations.en.adoc:53
 msgid "Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described.  These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data."
-msgstr "Antes de que pueda tener lugar una discusión detallada sobre calidad de los datos y su aplicación a datos de presencia de especies, hay una serie de conceptos que necesitan ser definidos y descritos. Estos incluyen la calidad de los datos del término en sí, los términos exactitud y precisión que a menudo son mal aplicados, y lo que entendemos por datos de especies primarias y datos de presencia de especies."
+msgstr "Antes de que pueda tener lugar una discusión detallada sobre calidad de los datos y su aplicación a datos de presencia de especies, hay una serie de conceptos que necesitan ser definidos y descritos. Estos incluyen el término calidad de los datos en sí, los términos exactitud y precisión que a menudo son mal aplicados, y lo que entendemos por datos de especies primarias y datos de presencia de especies."
 
 #. type: delimited block _
 #: foundations.en.adoc:55
 #, no-wrap
 msgid "*Species-occurrence data*\n"
-msgstr "*Datos de ocurrencia de especie*\n"
+msgstr "*Datos de presencia de especies*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:59
