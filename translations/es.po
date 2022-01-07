@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-06 23:01\n"
+"PO-Revision-Date: 2022-01-07 00:04\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -384,12 +384,12 @@ msgstr "*Datos de presencia de especies*\n"
 #. type: delimited block _
 #: foundations.en.adoc:59
 msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
-msgstr "Los datos de presencia de especies se utilizan aquí para incluir datos de etiquetas de espécimen adjuntos a especímenes o lotes alojados en museos y herbarios, datos de observación y estudios ambientales. En general, los datos son lo que llamamos “basado en puntos”, aunque la línea (datos de las encuestas ambientales, colecciones a lo largo de un río), también se incluyen los datos de la cuadrícula (observaciones desde un área definida como un parque nacional) y de la cuadrícula (observaciones o registros de encuestas desde una cuadrícula regular). En genEneral,eestamos hablando de datos georreferenciados, es decir, registros con referencias geográficas que los vinculan a un lugar particular en el espacio, ya sea con una coordenada georreferenciada (por ejemplo, latitud y longitud, UTM) o no (descripción textual de una localidad, altitud, profundidad). - y hora (fecha, hora del día)."
+msgstr "El término datos de presencia de especies se utiliza aquí para incluir los datos de las etiquetas de los especímenes o los lotes que se encuentran en los museos y herbarios, los datos de observaciones y de estudios ambientales. En general, los datos son lo que denominamos \"basados en puntos\", aunque también se incluyen los datos lineales (datos de transectos de estudios ambientales, colectas a lo largo de un río), poligonales (observaciones dentro de un área definida, como un parque nacional) y cuadriculados (observaciones o registros de encuestas de una cuadrícula regular). En general, se trata de datos georreferenciados, es decir, registros con referencias geográficas que los vinculan a un lugar concreto en el espacio, ya sea con una coordenada georreferenciada (por ejemplo, latitud y longitud, UTM) o no (descripción textual de una localidad, altitud, profundidad), y tiempo (fecha, hora del día)."
 
 #. type: delimited block _
 #: foundations.en.adoc:62
 msgid "In general the data are also tied to a taxonomic name, but unidentified collections may also be included.  The term has occasionally been used interchangeably with the term “primary species data”."
-msgstr "En general, los datos también están vinculados a un nombre taxonómico, pero las colecciones no identificadas también pueden ser incluidas. De vez en cuando, el término se ha utilizado de forma intercambiable con el término “datos primarios de especies”."
+msgstr "En general, los datos también están vinculados a un nombre taxonómico, pero las colectas no identificadas también pueden ser incluidas. De vez en cuando, el término se ha utilizado de forma intercambiable con el término “datos primarios de especies”."
 
 #. type: delimited block _
 #: foundations.en.adoc:64
@@ -400,33 +400,33 @@ msgstr "*Datos primarios de especies*\n"
 #. type: delimited block _
 #: foundations.en.adoc:67
 msgid "“Primary species data” is used to describe raw collection data and data without any spatial attributes.  It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references."
-msgstr "Los \"datos primarios de especies\" se utilizan para describir los datos crudos de recolección y los datos sin atributos espaciales.  Incluye datos taxonómicos y de nomenclatura sin atributos espaciales, como nombres, taxones y conceptos taxonómicos sin referencias geográficas asociadas."
+msgstr "El término \"datos primarios de especies\" se utiliza para describir los datos crudos de colecta y los datos sin atributos espaciales.  Incluye datos taxonómicos y de nomenclatura sin atributos espaciales, como nombres, taxones y conceptos taxonómicos sin referencias geográficas asociadas."
 
 #. type: delimited block _
 #: foundations.en.adoc:69
 #, no-wrap
 msgid "*Accuracy and Precision*\n"
-msgstr "*Exactitud y Precisión*\n"
+msgstr "*Exactitud y precisión*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:71
 msgid "Accuracy and precision are regularly confused and the differences are not generally understood."
-msgstr "La exactitud y la precisión se confunden a menudo y las diferencias no se entienden generalmente."
+msgstr "La exactitud y la precisión se confunden a menudo y generalmente las diferencias no se entienden."
 
 #. type: delimited block _
 #: foundations.en.adoc:73
 msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
-msgstr "Exactitud se refiere a la cercanía de los valores medidos, las observaciones o las estimaciones con el valor real o verdadero (o con un valor que se acepta como verdadero, por ejemplo, las coordenadas de un punto de control)."
+msgstr "Exactitud se refiere a la cercanía de los valores medidos, de las observaciones o de las estimaciones al valor real o verdadero (o con un valor que se acepta como verdadero, por ejemplo, las coordenadas de un punto de control)."
 
 #. type: delimited block _
 #: foundations.en.adoc:80
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
-msgstr "La precisión (o resolución) se puede dividir en dos tipos principales. La precisión estadística es la cercanía con la que las observaciones repetidas se ajustan a sí mismas. No tienen nada que ver con su relación con el valor real y pueden tener alta precisión, pero poca exactitud. La precisión numérica es la cantidad de dígitos significativos en los que se registra una observación y se ha vuelto mucho más obvia con la llegada de las computadoras. Por ejemplo, una base de datos puede generar un registro decimal de latitud / longitud con 10 lugares decimales, es decir, aproximadamente 0,01 mm cuando en realidad el registro tiene una resolución no superior a 10-100 m (3-4 lugares decimales). Esto a menudo conduce a una falsa impresión tanto de la resolución como de la exactitud."
+msgstr "La precisión (o resolución) se puede dividir en dos tipos principales. La precisión estadística es la cercanía con la que las observaciones repetidas se ajustan a sí mismas. No tienen nada que ver con su relación con el valor real y pueden tener alta precisión, pero poca exactitud. La precisión numérica es la cantidad de dígitos significativos en los que se registra una observación y se ha vuelto mucho más obvia con la llegada de las computadoras. Por ejemplo, una base de datos puede mostrar un registro de latitud/longitud con 10 decimales, es decir, unos 0.01 mm, cuando en realidad el registro tiene una resolución no superior a 10-100 m (3-4 decimales).  Esto a menudo conduce a una falsa impresión tanto de la resolución como de la precisión."
 
 #. type: delimited block _
 #: foundations.en.adoc:83
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
-msgstr "Estos términos - exactitud y precisión - también se pueden aplicar a datos no espaciales, así como a datos espaciales. Por ejemplo, una colección puede tener una identificación a nivel de subespecie (es decir, tener alta precisión), pero ser del taxón incorrecto (es decir, tener baja exactitud) o estar identificada solo a nivel de Familia (alta exactitud, pero baja precisión)."
+msgstr "Estos términos (exactitud y precisión) pueden aplicarse tanto a los datos no espaciales como a los espaciales.  Por ejemplo, una colecta puede tener una identificación a nivel de subespecie (es decir, tener alta precisión), pero ser del taxón incorrecto (es decir, tener baja exactitud) o estar identificada solo a nivel de Familia (alta exactitud, pero baja precisión)."
 
 #. type: delimited block _
 #: foundations.en.adoc:85
@@ -437,38 +437,38 @@ msgstr "*Calidad de los datos*\n"
 #. type: delimited block _
 #: foundations.en.adoc:90
 msgid "Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation.  As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user.  In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful.  Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999)."
-msgstr "La calidad de los datos es multidimensional e implica gestión de datos, modelado y análisis, control de calidad y seguridad, almacenamiento y presentación. Como se indica de forma independiente por Chrisman (1991) y Strong et al. (1997), la calidad de los datos está relacionada con el uso y no puede evaluarse independientemente del usuario. En una base de datos, los datos no tienen calidad ni valor real (Dalcin 2004); sólo tienen un valor potencial que se realiza sólo cuando alguien utiliza los datos para hacer algo útil. La calidad de la información se relaciona con su capacidad para satisfacer las necesidades de sus clientes (inglés 1999)."
+msgstr "La calidad de los datos es multidimensional e implica la gestión, el modelado y el análisis de los datos, así como el control de calidad y de seguridad, el almacenamiento y la presentación. Como se indica de forma independiente por Chrisman (1991) y Strong et al. (1997), la calidad de los datos está relacionada con el uso y no puede evaluarse independientemente del usuario. En una base de datos, los datos no tienen calidad ni valor real (Dalcin 2004); sólo tienen un valor potencial que se realiza sólo cuando alguien utiliza los datos para hacer algo útil. La calidad de la información está relacionada con su capacidad de satisfacer a sus clientes y de responder a sus necesidades (English 1999)."
 
 #. type: delimited block _
 #: foundations.en.adoc:92
 msgid "Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret."
-msgstr "Redman (2001), sugiere que para que los datos sean aptos para el uso deben ser accesibles, precisos, oportunos, completos, coherentes con otras fuentes, pertinentes y exhaustivos, proporcionar un nivel adecuado de detalle, ser fáciles de leer e interpretar."
+msgstr "Redman (2001), sugiere que para que los datos sean aptos para el uso deben ser accesibles, precisos, oportunos, completos, coherentes con otras fuentes, pertinentes, exhaustivos, proporcionar un nivel de detalle adecuado, ser fáciles de leer y fáciles de interpretar."
 
 #. type: delimited block _
 #: foundations.en.adoc:96
 msgid "One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.  There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.  This may require such things as atomizing data fields, adding geo-referencing information, etc."
-msgstr "Un tema que un custodio de datos necesita considerar es lo que puede ser necesario hacer con la base de datos para aumentar su usabilidad a un público más amplio (i. Aumentar su potencial de uso o relevancia) y así hacerlo apto para una gama más amplia de fines. Habrá una compensación en este sentido entre el aumento de la usabilidad y la cantidad de esfuerzo necesario para añadir funcionalidad y usabilidad adicionales. Esto puede requerir cosas como la atomización de campos de datos, la adición de información georeferenciada, etc."
+msgstr "Un tema que un custodio de datos necesita considerar es lo que puede ser necesario hacer con la base de datos para aumentar su usabilidad a un público más amplio (es decir, aumentar su potencial uso o relevancia) y, por lo tanto, hacerla apta para una gama más amplia de propósitos. En este caso, habrá un equilibrio entre el aumento de la usabilidad y la cantidad de esfuerzo necesario para añadir funcionalidad y usabilidad adicionales.  Esto puede requerir cosas como segmentar los campos de datos, añadir información de georreferenciación, etc."
 
 #. type: delimited block _
 #: foundations.en.adoc:98
 #, no-wrap
 msgid "*Quality Assurance/ Quality Control*\n"
-msgstr "*Garantía de calidad/Control de calidad/ *\n"
+msgstr "*Garantía de calidad/Control de calidad*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:102
 msgid "The difference between quality control and quality assurance is not always clear.  Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met.  She defines Quality Control as a judgement of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgement of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality."
-msgstr "La diferencia entre control de calidad y garantía de calidad no siempre es clara. Taulbee (1996) hace la distinción entre Control de Calidad y Garantía de Calidad y enfatiza que uno no puede existir sin el otro, si se quieren alcanzar los objetivos de calidad. Ella define el Control de Calidad como un juicio de calidad basado en estándares, procesos y procedimientos internos establecidos para controlar y monitorear la calidad; y Garantía de la Calidad como un juicio de calidad basado en estándares externos al proceso y es la revisión de las actividades y los procesos de control de calidad para asegurar que los productos finales cumplan con los estándares de calidad predeterminados."
+msgstr "La diferencia entre control de calidad y garantía de calidad no siempre es clara. Taulbee (1996) hace la distinción entre \"control de calidad\" y \"garantía de calidad\" y enfatiza que uno no puede existir sin el otro si se quieren alcanzar los objetivos de calidad. Ella define el \"control de calidad\" como un juicio sobre la calidad basado en estándares, procesos y procedimientos internos establecidos para controlar y monitorear la calidad; y \"garantía de calidad\" como un juicio sobre la calidad basado en estándares externos al proceso y es la revisión de las actividades y los procesos de control de calidad para asegurar que los productos finales cumplan con los estándares de calidad predeterminados."
 
 #. type: delimited block _
 #: foundations.en.adoc:104
 msgid "In a more business-oriented approach, Redman (2001) defines Quality Assurance as “those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”."
-msgstr "En un enfoque más orientado a los negocios, Redman (2001) define la Garantía de Calidad como “aquellas actividades que están diseñadas para producir productos de información libres de defectos para satisfacer las necesidades más importantes de los clientes más importantes, al menor costo posible”."
+msgstr "En un enfoque más orientado a los negocios, Redman (2001) define la garantía de calidad como “aquellas actividades que están diseñadas para producir productos de información libres de defectos para satisfacer las necesidades más importantes de los clientes más importantes, al menor costo posible”."
 
 #. type: delimited block _
 #: foundations.en.adoc:106
 msgid "How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management."
-msgstr "No está claro cómo se aplicarán estos términos en la práctica y, en la mayoría de los casos, los términos parecen utilizarse en gran medida como sinónimos para describir la práctica general de la gestión de la calidad de los datos."
+msgstr "No está claro cómo deben aplicarse estos términos en la práctica y, en la mayoría de los casos, parecen utilizarse como sinónimos para describir la práctica general de la gestión de la calidad de los datos."
 
 #. type: delimited block _
 #: foundations.en.adoc:108
@@ -479,7 +479,7 @@ msgstr "*Incertidumbre*\n"
 #. type: delimited block _
 #: foundations.en.adoc:113
 msgid "Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).  Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.  There is always uncertainty in data; the difficulty is in recording, understanding and visualizing that uncertainty so that others can also understand it.  Uncertainty is a key term in understanding risk and risk assessment."
-msgstr "La incertidumbre se puede considerar como una \"medida de lo incompleto del conocimiento o la información de uno sobre una cantidad desconocida cuyo valor verdadero podría establecerse si se dispusiera de un dispositivo de medición perfecto\" (Cullen y Frey 1999). La incertidumbre es una propiedad de la comprensión de los datos por parte del observador, y se trata más del observador que de los datos en sí. Siempre hay incertidumbre en los datos; la dificultad está en registrar, comprender y visualizar esa incertidumbre para que otros también puedan comprenderla. La incertidumbre es un término clave para comprender el riesgo y la evaluación del riesgo."
+msgstr "La incertidumbre puede considerarse como una \"medida del grado de incompletitud del conocimiento o de la información sobre una cantidad desconocida cuyo valor real podría establecerse si se dispusiera de un dispositivo de medición perfecto\" (Cullen y Frey 1999). La incertidumbre es una propiedad de la comprensión de los datos por parte del observador, y se trata más del observador que de los datos en sí. Siempre hay incertidumbre en los datos; la dificultad está en registrar, comprender y visualizar esa incertidumbre para que otros también puedan comprenderla. La incertidumbre es un término clave para comprender el riesgo y la evaluación del riesgo."
 
 #. type: delimited block _
 #: foundations.en.adoc:115
@@ -490,33 +490,33 @@ msgstr "*Error*\n"
 #. type: delimited block _
 #: foundations.en.adoc:122
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
-msgstr "El error abarca tanto la imprecisión de los datos como sus inexactitudes. Hay muchos factores que contribuyen al error. El error generalmente se considera aleatorio o sistemático. El error aleatorio tiende a referirse a la desviación del estado real de manera aleatoria. El error o sesgo sistemático surge de un cambio uniforme en los valores y, a veces, se describe como de \"exactitud relativa\" en el mundo cartográfico (Chrisman 1991). Al determinar la \"aptitud para el uso\", el error sistemático puede ser aceptable para algunas aplicaciones y no apto para otras."
+msgstr "El error abarca tanto la imprecisión de los datos como su inexactitud. Hay muchos factores que contribuyen al error. En general, se considera que el error es aleatorio o sistemático. El error aleatorio suele referirse a la desviación del estado real de manera aleatoria. El error o sesgo sistemático surge de un cambio uniforme en los valores y a veces se describe como de \"exactitud relativa\" en el mundo cartográfico (Chrisman 1991). Al determinar la \"aptitud para el uso\", el error sistemático puede ser aceptable para algunas aplicaciones y no apto para otras."
 
 #. type: delimited block _
 #: foundations.en.adoc:125
 msgid "An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.  Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code."
-msgstr "Un ejemplo puede ser el uso de un datum geodésico1 diferente –donde, si se utiliza a lo largo del análisis, no puede causar problemas importantes. Los problemas surgirán cuando un análisis utiliza datos de diferentes fuentes y con diferentes sesgos – por ejemplo, fuentes de datos que utilizan diferentes datos geodésicos, o donde se hayan realizado identificaciones utilizando una versión anterior de un código nomenclatural."
+msgstr "Un ejemplo puede ser el uso de un datum geodésico diferente, que, si se utiliza en todo el análisis, puede no causar ningún problema importante. Sin embargo, los problemas surgirán cuando un análisis utilice datos de diferentes fuentes y con diferentes sesgos, por ejemplo, fuentes de datos que utilicen diferentes datums geodésicos, o cuando las identificaciones se hayan realizado utilizando una versión anterior de un código de nomenclatura."
 
 #. type: delimited block _
 #: foundations.en.adoc:129
 msgid "“Because error is inescapable, it should be recognized as a fundamental dimension of data” (Chrisman 1991).  Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.  Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented."
-msgstr "“Dado que el error es inescapable, debe ser reconocido como una dimensión fundamental de los datos” (Chrisman 1991). Sólo cuando el error se incluye en una representación de los datos es posible responder preguntas sobre limitaciones en los datos, e incluso limitaciones en el conocimiento actual. Los errores conocidos en las tres dimensiones del espacio, atributo y tiempo necesitan ser medidos, calculados, grabados y documentados."
+msgstr "\"Dado que el error es ineludible, debe reconocerse como una dimensión fundamental de los datos\" (Chrisman 1991).  Sólo cuando el error se incluye en una representación de los datos es posible responder a preguntas sobre las limitaciones de los datos e incluso sobre las limitaciones del conocimiento actual.  Los errores conocidos en las tres dimensiones de espacio, atributo y tiempo deben medirse, calcularse, registrarse y documentarse."
 
 #. type: delimited block _
 #: foundations.en.adoc:131
 #, no-wrap
 msgid "*Validation and Cleaning*\n"
-msgstr "*Validación y Limpieza*\n"
+msgstr "*Validación y limpieza*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:137
 msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
-msgstr "La validación es un proceso que se utiliza para determinar si los datos son inexactos, incompletos o irrazonables. El proceso puede incluir verificaciones de formato, verificaciones de integridad, verificaciones de razonabilidad, verificaciones de límites, revisión de los datos para identificar valores atípicos (geográficos, estadísticos, temporales o ambientales) u otros errores, y evaluación de datos por expertos en el área temática (por ejemplo, especialistas en taxonomía). Estos procesos generalmente resultan en marcar, documentar y verificar posteriormente los registros sospechosos. Las comprobaciones de validación también pueden implicar la comprobación del cumplimiento con los estándares, reglas y convenciones aplicables. Una etapa clave en la validación y limpieza de datos es identificar las causas fundamentales de los errores detectados y concentrarse en evitar que esos errores vuelvan a ocurrir (Redman 2001)."
+msgstr "La validación es un proceso que se utiliza para determinar si los datos son inexactos, incompletos o irrazonables. El proceso puede incluir verificaciones de formato, verificaciones de integridad, verificaciones de razonabilidad, verificaciones de límites, revisión de los datos para identificar valores atípicos (geográficos, estadísticos, temporales o ambientales) u otros errores, y evaluación de datos por expertos en el área temática (por ejemplo, especialistas en taxonomía). Estos procesos suelen dar lugar a la señalización, documentación y posterior comprobación de los registros sospechosos.  Los controles de validación también pueden implicar la comprobación del cumplimiento de los estándares, reglas y convenciones aplicables.  Una etapa clave en la validación y limpieza de datos es identificar las causas fundamentales de los errores detectados y centrarse en evitar que esos errores vuelvan a producirse (Redman 2001)."
 
 #. type: delimited block _
 #: foundations.en.adoc:142
 msgid "Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.  The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.  It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.  It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered."
-msgstr "La limpieza de datos se refiere al proceso de \"corregir\" errores en los datos que se han identificado durante el proceso de validación. El término es sinónimo de \"limpieza de datos\", aunque algunos utilizan la limpieza de datos para abarcar tanto la validación como la limpieza de datos. Es importante en el proceso de limpieza de datos que los datos no se pierdan inadvertidamente y que los cambios en la información existente se lleven a cabo con mucho cuidado. A menudo es mejor conservar tanto los datos antiguos (datos originales) como los nuevos (datos corregidos) uno al lado del otro en la base de datos para que, si se cometen errores en el proceso de limpieza, se pueda recuperar la información original."
+msgstr "La limpieza de datos se refiere al proceso de \"corregir\" errores en los datos que se han identificado durante el proceso de validación. El término es sinónimo de \"limpieza de datos\", aunque algunos utilizan la limpieza de datos para abarcar tanto la validación como la limpieza de datos. Es importante que en el proceso de limpieza de datos no se pierdan datos por descuido y que los cambios en la información existente se realicen con mucho cuidado. A menudo es mejor conservar tanto los datos antiguos (datos originales) como los nuevos (datos corregidos) uno al lado del otro en la base de datos para que, si se cometen errores en el proceso de limpieza, se pueda recuperar la información original."
 
 #. type: Title ===
 #: foundations.en.adoc:145
