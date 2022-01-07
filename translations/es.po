@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-07 00:04\n"
+"PO-Revision-Date: 2022-01-07 01:13\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -527,18 +527,18 @@ msgstr "Documentación"
 #. type: delimited block *
 #: foundations.en.adoc:150
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr "En este video (09:47), proporcionaremos una visión general de la importancia de la documentación en relación con la gestión de datos y la publicación de datos. Aprenderá sobre mapeo de datos, relaciones de datos y metadatos. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Documentation.mp4[descarga^,opts=descargarlo] localmente. (MP4 - 29.2 MB)"
+msgstr "En este video (09:47), proporcionaremos una visión general de la importancia de la documentación en relación con la gestión de datos y la publicación de datos. Aprenderá sobre mapeo de datos, relaciones de datos y metadatos. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Documentation.mp4[descargalo^,opts=download] localmente. (MP4 - 29.2 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:154
 #, no-wrap
 msgid "Digitization Workflows"
-msgstr "Flujos del trabajo de digitalización"
+msgstr "Flujos de trabajo de digitalización"
 
 #. type: delimited block *
 #: foundations.en.adoc:158
 msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
-msgstr "Este video (07:20) sobre los flujos de trabajo de digitalización identifica cinco clusters (o etapas) en el proceso de digitalización de objetos de colección de historia natural usando imágenes digitales, y estas etapas se pueden adaptar fácilmente a otras fuentes de datos de biodiversidad. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Workflows.mp4[descarga^,opts=descargarlo] localmente. (MP4 - 26.8 MB)"
+msgstr "Este video (07:20) sobre flujos de trabajo de digitalización identifica cinco grupos (o etapas) en el proceso de digitalización de objetos de colección de historia natural mediante imágenes digitales, y estas etapas se pueden adaptar fácilmente a otras fuentes de datos de biodiversidad. Si no puede ver el vídeo incrustado, puede link:../videos/Foundations_Workflows.mp4[descargalo^,opts=download] localmente. (MP4 - 26.8 MB)"
 
 #. type: delimited block *
 #: foundations.en.adoc:163
@@ -548,12 +548,12 @@ msgstr "Como destaca el vídeo, los protocolos de digitalización varían de una
 #. type: delimited block *
 #: foundations.en.adoc:166
 msgid "We do not teach digitization, per se, during the workshop, as it can easily stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.  However, we want to provide you with resources on digitization as we know many are interested in this."
-msgstr "No profundizaremos en la digitalización, per se, durante el taller, ya que puede ser un curso de una semana de duración por sí solo En su lugar, nos centramos en la introducción básica a la captura de datos sobre biodiversidad. Sin embargo, queremos proporcionarle recursos en materia de digitalización, ya que sabemos que muchos están interesados en ello."
+msgstr "No profundizaremos en la digitalización, per se, durante el taller, ya que puede ser un curso de una semana de duración por sí solo, en su lugar, nos centramos en la introducción básica a la captura de datos sobre biodiversidad. Sin embargo, queremos proporcionarle recursos en materia de digitalización, ya que sabemos que muchos están interesados en ello."
 
 #. type: delimited block *
 #: foundations.en.adoc:171
 msgid "There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.  It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to.  In this exercise we introduce you to some practical digitization workflow resources to help get you started.  These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows."
-msgstr "Hay muchas maneras de organizar los esfuerzos de digitalización y, por lo tanto, la digitalización puede parecer desalentador para empezar. Es importante recordar que en la mayoría de los casos alguien ya ha intentado digitar los mismos tipos de especímenes y objetos que usted está planeando. En este ejercicio le presentamos algunos recursos prácticos del flujo de trabajo de la digitalización para ayudarle a empezar. Estas también constituirán la base para el trabajo que realizaremos en el taller sobre la selección, modificación y evaluación de los flujos de trabajo."
+msgstr "Hay muchas maneras de organizar los esfuerzos de digitalización y, por lo tanto, la digitalización puede parecer desalentadora al principio. Es importante recordar que en la mayoría de los casos alguien ya ha intentado digitalizar los mismos tipos de especímenes y objetos que usted está planeando. En este ejercicio le presentamos algunos recursos prácticos del flujo de trabajo de la digitalización para ayudarle a empezar. Estas también constituirán la base para el trabajo que realizaremos en el taller sobre la selección, modificación y evaluación de los flujos de trabajo."
 
 #. type: delimited block *
 #: foundations.en.adoc:173
@@ -564,26 +564,26 @@ msgstr "Algunos pasos en el proceso pueden incluir:"
 #: foundations.en.adoc:175
 #, no-wrap
 msgid "*Pre-digitization curation and staging*: This includes the preparation of the data source for the digitization process, including the assignment of unique identifiers that will help to refer to the source without error and to keep all derived information together.\n"
-msgstr "*Curación y etapa de pre-digitalización*: Esto incluye la preparación de la fuente de datos para el proceso de digitalización, incluyendo la asignación de identificadores únicos que ayudarán a referirse a la fuente sin error y a mantener unida toda la información derivada.\n"
+msgstr "*Curación y etapa de pre-digitalización*: incluye la preparación de la fuente de datos para el proceso de digitalización, incluyendo la asignación de identificadores únicos que ayudarán a referirse a la fuente sin errores y a mantener junta toda la información derivada.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:176
 #, no-wrap
 msgid "*Image capture*: This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.\n"
-msgstr "*Captura de imagen*: Esto incluye una gran cantidad de planificación, no sólo en la propia captura de imagen (p. ej. definición de la secuencia de trabajo, selección de hardware adecuado), pero también sobre cómo y dónde se almacenarán y manejarán las imágenes.\n"
+msgstr "*Captura de imagen*: incluye una gran cantidad de planificación, no sólo sobre la captura de imágenes en sí (por ejemplo, la definición de la secuencia de trabajo, la selección del hardware adecuado), sino también sobre cómo y dónde se almacenarán y manejarán las imágenes.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:177
 #, no-wrap
 msgid "*Image processing*: This includes quality control, file conversion, etc.\n"
-msgstr "*Procesamiento de imagen*: Esto incluye control de calidad, conversión de archivos, etc.\n"
+msgstr "*Procesamiento de imagen*: incluye el control de calidad, conversión de archivos, etc.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:179
 #, no-wrap
 msgid "*Electronic data capture*: The core of the digitization process, includes capturing key information in a database.\n"
 "The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.\n"
-msgstr "*Captura electrónica de datos*: El núcleo del proceso de digitalización, incluye la captura de información clave en una base de datos.\n"
+msgstr "*Captura electrónica de datos*: es el núcleo del proceso de digitalización, incluye la captura de información clave en una base de datos.\n"
 "El vídeo resalta que el método más común de introducir la información es a través de un teclado, pero cada vez son más las instituciones que recurren a tecnologías avanzadas de entrada de datos.\n"
 
 #. type: delimited block *
@@ -595,17 +595,17 @@ msgstr "*Georreferenciación*: La información geográfica es muy importante par
 #. type: delimited block *
 #: foundations.en.adoc:184
 msgid "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) is the coordination centre for the United States National Resource for Advancing Digitization of Biodiversity Collections (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]).  They lead a nation-wide effort to make data and images for millions of biological specimens available in a standard electronic format for the research community, government agencies, students, educators, and the general public.  They have produced several videos that discuss the digitization process."
-msgstr "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) es el centro de coordinación de los Recursos Nacionales de los Estados Unidos para la digitalización de colecciones de biodiversidad (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]). Lideran un esfuerzo nacional para poner a disposición datos e imágenes de millones de especímenes biológicos en un formato electrónico estándar para la comunidad investigadora, organismos gubernamentales, estudiantes, educadores y el público en general. Han producido varios videos que discuten el proceso de digitalización."
+msgstr "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) es el centro de coordinación del United States National Resource for Advancing Digitization of Biodiversity Collections (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]). Lideran un esfuerzo nacional para poner a disposición datos e imágenes de millones de especímenes biológicos en un formato electrónico estándar para la comunidad investigadora, organismos gubernamentales, estudiantes, educadores y el público en general. Han producido varios videos que discuten el proceso de digitalización."
 
 #. type: delimited block *
 #: foundations.en.adoc:186
 msgid "There are other videos in the iDigBio series that you may be interested in, if you wish to learn more about specific workflows for different specimen types:"
-msgstr "Hay otros vídeos en la serie iDigBio en los que puede estar interesado, si desea aprender más sobre flujos de trabajo específicos para diferentes tipos de espécimenes:"
+msgstr "Hay otros vídeos en la serie iDigBio en los que puede estar interesado si desea aprender más sobre flujos de trabajo específicos para diferentes tipos de espécimenes:"
 
 #. type: delimited block *
 #: foundations.en.adoc:188
 msgid "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690[^]"
-msgstr "“Digitalización de Colecciones Húmedas” (4:34 mins) https://vimeo.com/120369690[^]"
+msgstr "“Digitalización de colecciones húmedas” (4:34 mins) https://vimeo.com/120369690[^]"
 
 #. type: delimited block *
 #: foundations.en.adoc:189
@@ -626,58 +626,55 @@ msgstr "Herramientas de software"
 #. type: delimited block *
 #: foundations.en.adoc:194
 msgid "Review software tools used in biodiversity informatics"
-msgstr "Revisión de herramientas de software utilizadas en bioinformática"
+msgstr "Revisión de herramientas de software utilizadas en informática de la biodiversidad"
 
 #. type: delimited block *
 #: foundations.en.adoc:197
 msgid "During the course activities, we’ll demonstrate and work with many different software tools related to data digitization, data quality and transformation.  You probably already use several of them in your daily work."
-msgstr "Durante las actividades del curso, demostraremos y trabajaremos con muchas herramientas de software relacionadas con la digitalización de datos, la calidad de los datos y la transformación. Probablemente ya utilices varias de ellas en tu trabajo diario."
+msgstr "Durante las actividades del curso, demostraremos y trabajaremos con muchas herramientas de software relacionadas con la digitalización de datos, la calidad de los datos y la transformación. Probablemente ya utilice varias de ellas en su trabajo diario."
 
 #. type: delimited block *
 #: foundations.en.adoc:200
 msgid "Community trainers, mentors and former course participants have compiled a list with information about biodiversity informatics software tools.  It provides links for their main websites, a key facts and a summary of strong and weak points."
-msgstr "Los instructores, mentores y antiguos participantes de cursos han compilado una lista con información sobre herramientas informáticas de biodiversidad. Proporciona enlaces para sus sitios web principales, hechos clave y un resumen de puntos fuertes y débiles."
+msgstr "Los instructores, mentores y antiguos participantes de los cursos han compilado una lista con información sobre herramientas informáticas de biodiversidad. En ella se ofrecen enlaces a sus principales sitios web, datos clave y un resumen de los puntos fuertes y débiles."
 
 #. type: delimited block *
 #: foundations.en.adoc:202
 msgid "Download link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
-msgstr "Enlace de link:../course-docs/Software-database-ES.xlsx[Software-database-ES.xlsx,opts=download]. (23 KB)"
+msgstr "Enlace de descarga link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
 
 #. type: delimited block *
 #: foundations.en.adoc:206
 msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^]:"
-msgstr "Al analizar el software de biodiversidad que usted no ha utilizado antes, debe considerar cómo lo adaptaría para sus propósitos. A continuación encontrará una lista con la que puede comenzar su evaluación. Se inspiran en el capítulo “características de una buena solución de base de datos” del manual de GBIF https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Iniciar un proyecto de digitalización”^]:"
+msgstr "Cuando analice un software de biodiversidad que no haya utilizado antes, debe considerar cómo lo adaptaría a sus fines.  A continuación encontrará una lista con la que puede comenzar su evaluación.  Están inspiradas en el capítulo \"características de una buena solución de base de datos\" del manual de GBIF https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Iniciar un proyecto de digitalización”^]:"
 
 #. type: delimited block *
 #: foundations.en.adoc:209
 #, no-wrap
 msgid "*Price*: One of the most determining factors.\n"
 "Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.\n"
-msgstr "*Precio: *: Uno de los factores más determinantes.\n"
-"Tenga cuidado con otros costes más allá del precio de la licencia de software, como hardware necesario para ejecutarlo, mantenimiento, actualizaciones y la experiencia para ejecutarlo.\n"
+msgstr "*Precio: *: uno de los factores más determinantes. Tenga cuidado con otros costes más allá del precio de la licencia de software, como hardware necesario para ejecutarlo, mantenimiento, actualizaciones y la experiencia para ejecutarlo.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:211
 #, no-wrap
 msgid "*Functionality*: You need to have clarity on what do you expect the software to achieve, and make sure it does it efficiently.\n"
 "Do not get distracted by additional functionality that can make the software more complex unnecessarily.\n"
-msgstr "*Funcionalidad*: Necesitas claridad sobre lo que espera que el software consiga, y asegurarte de que lo haga eficientemente.\n"
-"No te distraigas con funciones adicionales que puedan hacer el software innecesariamente más complejo.\n"
+msgstr "*Funcionalidad*: hay que tener claro qué se espera que consiga el software y asegurarse de que lo hace con eficacia. No se distraigas con funcionalidades adicionales que puedan hacer el software innecesariamente más complejo.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:213
 #, no-wrap
 msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
 "It will also make more likely to be updated and ported to more modern operating systems.\n"
-msgstr "*Estabilidad*: Algunas soluciones han estado en el mercado durante mucho tiempo y son apoyadas por instituciones o empresas sólidas son más propensas a estar libres de errores y/o tener buenos sistemas para resolver cualquier problema que surja.\n"
-"También tendrá más probabilidades de ser actualizado y portado a sistemas operativos más modernos.\n"
+msgstr "*Estabilidad*: algunas soluciones llevan mucho tiempo en el mercado y cuentan con el apoyo de instituciones o empresas sólidas, por lo que es más probable que no tengan errores o que dispongan de buenos sistemas para resolver cualquier problema que surja. También será más probable que se actualicen y porten a sistemas operativos más modernos.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:215
 #, no-wrap
 msgid "*Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.\n"
 "Check the opinions of other users online.\n"
-msgstr "*Escalabilidad*: Algunos programas funcionan muy bien cuando se les hace una demostración lista para usar, pero su rendimiento se degrada después de un tiempo o cuando se usan con grandes cantidades de datos o cuando varios usuarios acceden a ellos simultáneamente.\n"
+msgstr "*Escalabilidad*: algunos programas funcionan muy bien cuando se les hace una demostración lista para usar, pero su rendimiento se degrada después de un tiempo o cuando se usan con grandes cantidades de datos o cuando varios usuarios acceden a ellos simultáneamente.\n"
 "Consulta las opiniones de otros usuarios online.\n"
 
 #. type: delimited block *
@@ -685,7 +682,7 @@ msgstr "*Escalabilidad*: Algunos programas funcionan muy bien cuando se les hace
 #, no-wrap
 msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
 "Data transformation is a time consuming task.\n"
-msgstr "*Integración*: Asegúrese de que el software acepta y produce los formatos de datos que utiliza y necesita.\n"
+msgstr "*Integración*: asegúrese de que el software acepta y produce los formatos de datos que utiliza y necesita.\n"
 "La transformación de datos es una tarea que consume mucho tiempo.\n"
 
 #. type: delimited block *
@@ -699,14 +696,14 @@ msgstr "*Soporte de idioma*: es esencial que todos los usuarios del software pue
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
-msgstr "*Soporte técnico y documentación*: asegúrese de explorar la documentación existente y los mecanismos de soporte.\n"
-"Puedes estar seguro de que en algún momento lo necesitarás.\n"
+msgstr "*Soporte técnico y documentación*: asegúrese de explorar la documentación y los mecanismos de apoyo existentes.\n"
+"Puede estar seguro de que en algún momento la necesitará.\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:221
 #, no-wrap
 msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learned while using them, supported by in-line help systems.\n"
-msgstr "*Curva de aprendizaje*: Algunos programas pueden requerir capacitación específica para aprender a usarlo, mientras que otros son más intuitivos y pueden aprenderse mientras los usan, soportados por sistemas de ayuda en línea.\n"
+msgstr "*Curva de aprendizaje*: algunos software pueden requerir capacitación específica para aprender a usarlo, mientras que otros son más intuitivos y pueden aprenderse mientras se usan, con el apoyo de sistemas de ayuda en línea.\n"
 
 #. type: Title ===
 #: foundations.en.adoc:222
@@ -717,7 +714,7 @@ msgstr "Instalar OpenRefine"
 #. type: delimited block *
 #: foundations.en.adoc:225
 msgid "Install software required for activities later in the course"
-msgstr "Instalar software necesario para las actividades posteriores en el curso"
+msgstr "Instalar el software necesario para las actividades posteriores del curso"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: foundations.en.adoc:226
