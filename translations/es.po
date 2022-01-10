@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-10 20:08\n"
+"PO-Revision-Date: 2022-01-10 21:04\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -737,12 +737,12 @@ msgstr "https://openrefine.org/[OpenRefine^] es una herramienta con un conjunto 
 #. type: delimited block *
 #: foundations.en.adoc:236
 msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
-msgstr "Utilizaremos OpenRefine durante la parte de movilización de datos del curso, especialmente durante los ejercicios prácticos. Será necesario instalar OpenRefine en su portátil. Si usted es un usuario experto en computadora, puede seguir estos pasos para instalar el software en su computadora. Si no estás seguro, por favor pide ayuda. Consulta https://openrefine.org/download.html[OpenRefine download page^] para más detalles."
+msgstr "Utilizaremos OpenRefine durante la parte de movilización de datos del curso, especialmente durante los ejercicios prácticos. Será necesario instalar OpenRefine en su computador. Si tiene conocimientos de informática, puede seguir estos pasos para instalar el software. Si no se siente seguro, pida ayuda. Consulte la página https://openrefine.org/download.html[página de descarga de OpenRefine^] para más detalles."
 
 #. type: delimited block *
 #: foundations.en.adoc:238
 msgid "Administrative passwords may be required to install software."
-msgstr "Las contraseñas administrativas pueden ser requeridas para instalar software."
+msgstr "Es posible que se necesiten contraseñas administrativas para instalar el software."
 
 #. type: Title ====
 #: foundations.en.adoc:239
@@ -753,7 +753,7 @@ msgstr "Requisitos para la instalación"
 #. type: delimited block *
 #: foundations.en.adoc:242
 msgid "Linux users only: Java JRE installed."
-msgstr "Sólo usuarios de Linux: Java JRE instalado."
+msgstr "Sólo para usuarios de Linux: Java JRE instalado."
 
 #. type: delimited block *
 #: foundations.en.adoc:243
@@ -763,18 +763,18 @@ msgstr "Google Chrome, Microsoft Edge o Mozilla Firefox instalados. Internet Exp
 #. type: delimited block *
 #: foundations.en.adoc:245
 msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
-msgstr "La última versión estable es OpenRefine 3.4.1, publicada el 24 de septiembre de 2020. Las instrucciones detalladas de instalación están disponibles en https://docs.openrefine.org/manual/installing/[^]."
+msgstr "La última versión estable es OpenRefine 3.5.1, publicada el 19 de diciembre de 2021. Las instrucciones detalladas de instalación están disponibles en https://docs.openrefine.org/manual/installing/[^]."
 
 #. type: Title ====
 #: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on MS Windows"
-msgstr "Instalación en Microsoft Windows"
+msgstr "Instalación en MS Windows"
 
 #. type: delimited block =
 #: foundations.en.adoc:249 foundations.en.adoc:262
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
-msgstr "Descargue https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*]. Elija guardar el archivo en lugar de abrirlo."
+msgstr "Descargue https://github.com/OpenRefine/OpenRefine/releases/download/3.5.1/openrefine-win-with-java-3.5.1.zip[Windows kit *with embedded Java*]. Elija guardar el archivo en lugar de abrirlo."
 
 #. type: delimited block *
 #: foundations.en.adoc:250
@@ -841,7 +841,7 @@ msgstr "img/web/install-openrefine/win4-create-shortcut.png"
 #. type: delimited block =
 #: foundations.en.adoc:289
 msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
-msgstr "Encuentre los archivos extraídos. Opcionalmente, haga clic derecho en \"openrefine\" y elija \"Enviar a → Escritorio (crear acceso directo)\" para crear un acceso directo en su ordenador. Luego haga doble clic en \"openrefine\""
+msgstr "Busque los archivos extraídos. Opcionalmente, haga clic derecho en \"openrefine\" y elija \"Enviar a → Escritorio (crear acceso directo)\" para crear un acceso directo en su computador. Luego haga doble clic en \"openrefine\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:296
@@ -852,7 +852,7 @@ msgstr "img/web/install-openrefine/win5-run.png"
 #. type: delimited block =
 #: foundations.en.adoc:298
 msgid "A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use."
-msgstr "Se abre una ventana de consola negra y un poco más tarde se abre el navegador. OpenRefine está listo para usarse."
+msgstr "Se abre una ventana de consola negra y poco después se abre el navegador. OpenRefine ya está listo para usarse."
 
 #. type: Title ====
 #: foundations.en.adoc:301
@@ -863,12 +863,12 @@ msgstr "Instalación en Mac"
 #. type: Plain text
 #: foundations.en.adoc:304
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
-msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
+msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.5.1/openrefine-mac-3.5.1.dmg[Mac kit]."
 
 #. type: Plain text
 #: foundations.en.adoc:306
 msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
-msgstr "Descargar, abrir y arrastrar el icono a la carpeta de aplicaciones. No necesita instalar Java por separado."
+msgstr "Descargue, abra y arrastre el icono a la carpeta de aplicaciones.  No es necesario instalar Java por separado."
 
 #. type: Plain text
 #: foundations.en.adoc:307
@@ -890,7 +890,7 @@ msgstr "img/web/install-openrefine/mac01-download-open.png"
 #. type: delimited block =
 #: foundations.en.adoc:318
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it."
-msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], y elija abrirlo."
+msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit] y elija abrirlo."
 
 #. type: Target for macro image
 #: foundations.en.adoc:325
@@ -912,7 +912,7 @@ msgstr "img/web/install-openrefine/mac03-system-preferences.png"
 #. type: delimited block =
 #: foundations.en.adoc:336
 msgid "Open System Preferences."
-msgstr "Abre Preferencias del Sistema."
+msgstr "Abra las Preferencias del Sistema."
 
 #. type: Target for macro image
 #: foundations.en.adoc:343
@@ -934,7 +934,7 @@ msgstr "img/web/install-openrefine/mac05-open-anyway.png"
 #. type: delimited block =
 #: foundations.en.adoc:354
 msgid "Choose \"Open Anyway\" at the bottom."
-msgstr "Elige \"Abrir de todas formas\" en la parte inferior."
+msgstr "Elija \"Abrir de todas formas\" en la parte inferior."
 
 #. type: Target for macro image
 #: foundations.en.adoc:361
@@ -945,7 +945,7 @@ msgstr "img/web/install-openrefine/mac06-yes-really-open.png"
 #. type: delimited block =
 #: foundations.en.adoc:363
 msgid "Choose \"Open\""
-msgstr "Elige \"Abrir\""
+msgstr "Elija \"Abrir\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:370
@@ -956,7 +956,7 @@ msgstr "img/web/install-openrefine/mac07-copy-to-applications.png"
 #. type: delimited block =
 #: foundations.en.adoc:372
 msgid "Finally, the application archive is opened! Drag it to your Applications folder."
-msgstr "Finalmente, ¡el archivo de aplicaciones está abierto! Arrastre a su carpeta de Aplicaciones."
+msgstr "¡Finalmente se abre el archivo de la aplicación! Arrástrelo a su carpeta de Aplicaciones."
 
 #. type: Target for macro image
 #: foundations.en.adoc:379
@@ -967,7 +967,7 @@ msgstr "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
 #. type: delimited block =
 #: foundations.en.adoc:381
 msgid "Double-click the OpenRefine icon.  Another security warning appears!"
-msgstr "Haga doble clic en el icono de OpenRefine. ¡Otra advertencia de seguridad aparece!"
+msgstr "Haga doble clic en el icono de OpenRefine. ¡Aparece otra advertencia de seguridad!"
 
 #. type: Target for macro image
 #: foundations.en.adoc:388
@@ -1016,12 +1016,12 @@ msgstr "Instalación en Linux"
 #. type: Plain text
 #: foundations.en.adoc:417
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
-msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
+msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.5.1/openrefine-linux-3.5.1.tar.gz[Linux kit]."
 
 #. type: Plain text
 #: foundations.en.adoc:419
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
-msgstr "Descargue, extraiga, luego escriba ./refine para empezar. Esto requiere que Java esté instalado en su ordenador."
+msgstr "Descargue, extraiga y escriba ./refine para empezar. Esto requiere que Java esté instalado en su ordenador."
 
 #. type: Block title
 #: foundations.en.adoc:420
@@ -1043,7 +1043,7 @@ msgstr "img/web/install-openrefine/kde1-download-open.png"
 #. type: delimited block =
 #: foundations.en.adoc:432
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].  Open it."
-msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]. Abralo."
+msgstr "Descargue el https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]. Ábralo."
 
 #. type: Target for macro image
 #: foundations.en.adoc:439
@@ -1076,7 +1076,7 @@ msgstr "img/web/install-openrefine/kde4-open.png"
 #. type: delimited block =
 #: foundations.en.adoc:459
 msgid "Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you can safely exit OpenRefine later, by closing the Konsole window."
-msgstr "Haga clic derecho en \"refinar\" y elija \"Ejecutar en Konsole\". Esto es necesario para que pueda salir de OpenRefine de forma segura más tarde, cerrando la ventana de Konsole."
+msgstr "Haga clic derecho en \"refine\" y elija \"Ejecutar en Konsole\". Esto es necesario para que pueda salir de OpenRefine de forma segura más tarde, cerrando la ventana de Konsole."
 
 #. type: Target for macro image
 #: foundations.en.adoc:466
@@ -1132,7 +1132,7 @@ msgid "* combines and presents functions and features for manipulating data, tog
 "  __database language__\n"
 msgstr "* combina y presenta funciones y características para manipular datos, juntas en una interfaz unificada +\n"
 "  __programa de la base de datos__\n"
-"* recopilación estructurada y organizada de datos y / o información almacenada en una computadora +\n"
+"* recopilación estructurada y organizada de datos y/o información almacenada en una computadora +\n"
 "  __base de datos__\n"
 "* la forma en que un humano se comunica con una computadora +\n"
 "  __lenguaje de programación de la base de datos__\n"
@@ -1141,7 +1141,7 @@ msgstr "* combina y presenta funciones y características para manipular datos, 
 #. type: Plain text
 #: foundations.en.adoc:504
 msgid "If you open a data file and see the following, what would you suspect is the issue? +"
-msgstr "Si abres un archivo de datos y ves lo siguiente, ¿Cuál sospechas que es el problema? +"
+msgstr "Si abre un archivo de datos y ve lo siguiente, ¿cuál sospecha que es el problema? +"
 
 #. type: Plain text
 #: foundations.en.adoc:506 solutions.en.adoc:21
@@ -1228,7 +1228,7 @@ msgstr "* 1236975 +\n"
 #. type: Plain text
 #: foundations.en.adoc:550
 msgid "Which of these terms describes a \"field/column name\"?"
-msgstr "¿Cuál de estos términos describe un nombre de \"campo/columna\"?"
+msgstr "¿Cuál de estos términos describe un \"nombre de campo/columna\"?"
 
 #. type: delimited block .
 #: foundations.en.adoc:559
@@ -1272,7 +1272,7 @@ msgstr "- [x] Asignado\n"
 #. type: Plain text
 #: foundations.en.adoc:574
 msgid "For each statement, input the correct structure (row, column, table)"
-msgstr "Para cada sentencia, introduzca la estructura correcta (fila, columna, tabla)"
+msgstr "Para cada afirmación, introduzca la estructura correcta (fila, columna, tabla)"
 
 #. type: delimited block .
 #: foundations.en.adoc:583
@@ -1294,7 +1294,7 @@ msgstr "* Todos los datos se refieren a un concepto UNICO. +\n"
 #. type: Plain text
 #: foundations.en.adoc:586
 msgid "Who determines the fitness for use of your data?"
-msgstr "¿Quién determina la aptitud para el uso de sus datos?"
+msgstr "¿Quién determina la aptitud para el uso (\"fitness for use\") de sus datos?"
 
 #. type: delimited block .
 #: foundations.en.adoc:593
@@ -1363,9 +1363,9 @@ msgstr "* El campo del colector existe en ambos conjuntos de datos A y B +\n"
 "  __1:∞__\n"
 "* El campo ID existe en ambos conjuntos de datos A y B +\n"
 "  __1:1__\n"
-"* La vinculación existe en el conjunto de datos A, pero no en el conjunto de datos B +\n"
+"* La elevación existe en el conjunto de datos A, pero no en el conjunto de datos B +\n"
 "  __1:0__\n"
-"* La fecha existe en el conjunto de datos A, pero el día, Mes y Año son campos separados en el conjunto de datos B +\n"
+"* La fecha existe en el conjunto de datos A, pero el Día, Mes y Año son campos separados en el conjunto de datos B +\n"
 "  __1:∞__\n"
 
 #.  Question 11
@@ -1382,17 +1382,17 @@ msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [x] it allows you to know under which legal terms the reuse of data is permitted.\n"
 "- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
 "- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
-msgstr "- [x] permite a los usuarios determinar si un conjunto de datos es adecuado para su uso.\n"
-"- [ ] le permite compartir coordenadas exactas para cada registro.\n"
-"- [x] le permite saber bajo qué términos legales se permite la reutilización de datos.\n"
+msgstr "- [x] permiten a los usuarios determinar si un conjunto de datos es adecuado para su uso.\n"
+"- [ ] le permiten compartir coordenadas exactas para cada registro.\n"
+"- [x] le permiten saber bajo qué términos legales se permite la reutilización de datos.\n"
 "- [ ] también se aplica a todos los materiales complementarios y asociados, incluidas imágenes, videos y otros medios.\n"
-"- [ ] le permite conocer el próximo horario de exhibición / apertura de la institución.\n"
+"- [ ] le permiten conocer el próximo horario de exhibición/apertura de la institución.\n"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:3
 #, no-wrap
 msgid "Use Case I - Herbarium Specimens"
-msgstr "Caso de Uso I - Especímenes de Herbario"
+msgstr "Caso de uso I: especímenes de herbario"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-species.en.adoc:6
@@ -1418,7 +1418,7 @@ msgstr "Escenario"
 #: use-case-herbarium-specimens.en.adoc:14
 #, no-wrap
 msgid "*A Data Mobilization Project in a Regional Herbarium*\n"
-msgstr "*Un Proyecto de Movilización de Datos en un Herbario Regional*\n"
+msgstr "*Un proyecto de movilización de datos en un herbario regional*\n"
 
 #. type: Block title
 #: use-case-herbarium-specimens.en.adoc:16
