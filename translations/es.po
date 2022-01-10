@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-10 21:04\n"
+"PO-Revision-Date: 2022-01-10 22:06\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1453,7 +1453,7 @@ msgstr "La Universidad de White Plains es una institución de educación terciar
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:29
 msgid "Currently, the care of the collection is assigned to the Professor of Plant Systematics, who performs curatorial tasks as well as their regular research and teaching work.  The Departmental Admin is responsible for day-to-day administrative tasks for the herbarium such as purchasing consumables including paper and labels.  Faculty staff and students collaborating within the department occasionally work on and update the identifications on the specimens and there are two retired botanists who regularly volunteer in the collection assisting the Professor to prepare loans."
-msgstr "Actualmente, el cuidado de la colección está encomendado al Profesor de Sistemática Vegetal, quien realiza tareas curatoriales así como su labor habitual de investigación y docencia. El Administrador Departamental es responsable de las tareas administrativas diarias del herbario, como la compra de insumos, incluidos papel y etiquetas. El personal docente y los estudiantes que colaboran dentro del departamento ocasionalmente trabajan y actualizan las identificaciones de los especímenes y hay dos botánicos jubilados que regularmente se ofrecen como voluntarios en la colección ayudando al Profesor a preparar préstamos."
+msgstr "Actualmente, el cuidado de la colección está a cargo del profesor de Sistemática Vegetal, quien realiza tareas curatoriales así como su labor habitual de investigación y docencia. El Administrador Departamental es responsable de las tareas administrativas diarias del herbario, como la compra de insumos, incluidos papel y etiquetas. El personal docente y los estudiantes que colaboran dentro del departamento ocasionalmente trabajan y actualizan las identificaciones de los especímenes, y hay dos botánicos jubilados que regularmente se ofrecen como voluntarios en la colección, ayudando al profesor a preparar los préstamos."
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:32
@@ -1481,7 +1481,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:44
 msgid "The herbarium comprises approximately 80,000 specimens collected from 1960 to 2015 concentrated mainly in the biodiversity hot spot -- Short Mountain National Park.  The collection is still growing as a result of exchanges, donations and several active research projects.  For each specimen, information about collector, time, date, location and taxonomy are documented.  So far no quality control measures have been carried out on the data and there has been no systematic imaging of specimens."
-msgstr "El herbario comprende aproximadamente 80.000 especímenes recolectados entre 1960 y 2015 concentrados principalmente en una zona de alta biodiversidad: el Parque Nacional Short Mountain. La colección sigue creciendo como resultado de intercambios, donaciones y varios proyectos de investigación activos. Para cada espécimen, se documenta información sobre colector, hora, fecha, ubicación y taxonomía. Hasta ahora no se han llevado a cabo medidas de control de calidad sobre los datos y no se han realizado imágenes sistemáticas de las muestras."
+msgstr "El herbario comprende aproximadamente 80.000 especímenes colectados entre 1960 y 2015 concentrados principalmente en una zona de alta biodiversidad: el Parque Nacional Short Mountain. La colección sigue creciendo como resultado de intercambios, donaciones y varios proyectos de investigación activos. Para cada espécimen, se documenta información sobre el colector, la hora, la fecha, la ubicación y la taxonomía. Hasta ahora no se han llevado a cabo medidas de control de calidad sobre los datos y no se ha realizado una toma de imágenes sistemática de los especímenes."
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:45
@@ -1492,7 +1492,7 @@ msgstr "Descripción del conjunto de datos"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:48
 msgid "The professor has a simple non-relational database on his computer which serves as an index of many but not all specimens.  Any images of the specimens that exist are held locally by the individual researchers that took them."
-msgstr "El profesor tiene una simple base de datos no relacional en su computadora que sirve como un índice de muchos pero no de todos los ejemplares. Cualquier imagen de los especímenes que existen es sostenida localmente por los investigadores individuales que los tomaron."
+msgstr "El profesor dispone de una sencilla base de datos no relacional en su computador que sirve como un índice de muchos de los especímenes, pero no de todos.  Cualquier imagen existente de los especímenes es mantenida localmente por los investigadores que la tomaron."
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:49
@@ -1545,7 +1545,7 @@ msgstr "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercis
 #. type: Plain text
 #: planning.en.adoc:7
 msgid "In the planning module, you will review key project planning stages and will learn how to create a viable workflow.  Additionally, you will create an idealized project plan/workflow based on USE CASE I.  You will identify goals, tasks, key stakeholders and roles and will assign specific tasks to stages."
-msgstr "En el módulo de planificación, revisará las etapas clave de planificación del proyecto y aprenderá a crear un flujo de trabajo viable. Además, creará un plan idealizado de proyecto/flujo de trabajo basado en el CASO DE USO I. Usted identificará metas, tareas, actores clave y roles y asignará tareas específicas a las etapas."
+msgstr "En el módulo de planificación, revisará las etapas clave de planificación del proyecto y aprenderá a crear un flujo de trabajo viable. Además, creará un plan idealizado de proyecto/flujo de trabajo basado en el CASO DE USO I. Usted identificará metas, tareas, actores clave y roles, también asignará tareas específicas a las etapas."
 
 #. type: Title ===
 #: planning.en.adoc:8
@@ -1578,7 +1578,7 @@ msgstr "Ejercicio 1a-c"
 #. type: Plain text
 #: planning.en.adoc:28
 msgid "For this activity, you will be using a virtual tabletop platform.  Review the exercise instructions below."
-msgstr "Para esta actividad, usará una plataforma de tabla virtual. Revise las instrucciones de ejercicio a continuación."
+msgstr "Para esta actividad, usará una plataforma de tabla virtual. Revise las instrucciones del ejercicio a continuación."
 
 #. type: Plain text
 #: planning.en.adoc:30
@@ -1589,12 +1589,12 @@ msgstr "*Referencias*\n"
 #. type: Plain text
 #: planning.en.adoc:32
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role definitions^]"
-msgstr "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Definiciones de Roles^]"
+msgstr "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Definiciones de los roles^]"
 
 #. type: Plain text
 #: planning.en.adoc:33
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage definitions^]"
-msgstr "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINICIONES[Definiciones de etapa^]"
+msgstr "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINICIONES[Definiciones de las etapas^]"
 
 #. type: Plain text
 #: planning.en.adoc:35
@@ -1604,12 +1604,12 @@ msgstr "Para ayudarle a trabajar en los ejercicios de planificación para todos 
 #. type: Plain text
 #: planning.en.adoc:37
 msgid "Because these are shared spaces, we ask that you follow these rules so that everyone who wants to use them can:"
-msgstr "Debido a que se trata de espacios compartidos, le pedimos que siga estas normas para que todo el que quiera usarlas pueda:"
+msgstr "Debido a que se trata de espacios compartidos, le pedimos que siga estas normas para que todos los que quieran utilizarlos puedan hacerlo:"
 
 #. type: Plain text
 #: planning.en.adoc:42
 msgid "Clean up after yourself.  If you use a card table, please be sure to return it to it's clean and original state when you are done.  This means putting all of the cards away and removing/deleting any new cards that you have added to the deck.  You can do this by clicking the recall buttons below each deck of cards."
-msgstr "Acomoda todo al finalizar. Si usa una mesa de juego, asegúrese de devolverla a su estado original y limpio cuando haya terminado. Esto significa guardar todas las cartas y quitar / eliminar cualquier carta nueva que haya agregado a la baraja. Puede hacer esto haciendo clic en los botones de recuperación debajo de cada baraja de cartas."
+msgstr "Acomode todo al finalizar. Si usa una mesa de juego, asegúrese de devolverla a su estado original cuando haya terminado. Esto significa guardar todas las cartas y quitar/eliminar cualquier carta nueva que haya agregado a la baraja. Puede hacer esto haciendo clic en los botones de recuperación debajo de cada baraja de cartas."
 
 #. type: Plain text
 #: planning.en.adoc:45
@@ -1619,22 +1619,22 @@ msgstr "Si una mesa está ocupada, pruebe con otra. Si observa que una mesa de c
 #. type: Plain text
 #: planning.en.adoc:49
 msgid "Don't leave a table unattended.  Please do not leave your work on a table sitting out for long periods of time.  If you need to step away for an hour or two, that is acceptable, but please do not leave the cards unattended for more than 4 hours.  If you need to leave your set up for an extended period of time, please use the eLearning platform to notify the group and trainers which link you are using, why you need to leave your cards, and when you will return to complete your work."
-msgstr "No deje una mesa desatendida. Por favor, no deje su trabajo sobre una mesa durante largos períodos de tiempo. Si necesita ausentarse durante una hora o dos, eso es aceptable, pero no deje las cartas desatendidas durante más de 4 horas. Si necesita dejar su configuración por un período prolongado de tiempo, use la plataforma de eLearning para notificar al grupo y a los entrenadores qué enlace está utilizando, por qué debe dejar sus cartas y cuándo regresará para completar su trabajo."
+msgstr "No deje una mesa desatendida. Por favor, no deje su trabajo sobre una mesa durante largos períodos de tiempo. Si necesita ausentarse durante una hora o dos, es aceptable, pero no deje las cartas desatendidas durante más de 4 horas. Si necesita dejar su configuración por un período prolongado de tiempo, use la plataforma de eLearning para notificar al grupo y a los entrenadores el enlace que está utilizando, por qué debe dejar sus cartas y cuándo regresará para completar su trabajo."
 
 #. type: Plain text
 #: planning.en.adoc:53
 msgid "Take screen captures often.  We cannot guarantee that your cards will not be reset accidentally by someone from the workshop or by someone from your own project.  You cannot reset the cards once they have been recalled and reset.  If you want to submit a screenshot with your exercise please do."
-msgstr "Realice capturas de pantalla con frecuencia. No podemos garantizar que sus cartas no sean reiniciadas accidentalmente por alguien del taller o por alguien de su propio proyecto. No puede restablecer las cartas una vez que se hayan recuperado y restablecido. Si desea enviar una captura de pantalla con su ejercicio, hágalo."
+msgstr "Realice capturas de pantalla con frecuencia. No podemos garantizar que sus cartas no sean reiniciadas accidentalmente por alguien del taller o por alguien de su propio proyecto. No puede restablecer las cartas una vez que se hayan retirado y restablecido. Si desea enviar una captura de pantalla con su ejercicio, hágalo."
 
 #. type: Plain text
 #: planning.en.adoc:55
 msgid "The trainers reserve the right to reset the card tables.  If we observe that one or more tables contain cards that have not been put away and have not been used for more than four hours without any notifications in the Forum on the eLearning platform, we will clear and reset the table for others to use."
-msgstr "Los entrenadores se reservan el derecho de restablecer las mesas de cartas. Si observamos que una o más mesas contienen cartas que no se han guardado y no se han utilizado durante más de cuatro horas sin ninguna notificación en el Foro en la plataforma eLearning, limpiaremos y restableceremos la mesa para que otros la usen."
+msgstr "Los entrenadores se reservan el derecho de restablecer las mesas de cartas. Si observamos que una o más mesas contienen cartas que no se han guardado y no se han utilizado durante más de cuatro horas sin ninguna notificación en el Foro de la plataforma eLearning, limpiaremos y restableceremos la mesa para que otros la usen."
 
 #. type: Plain text
 #: planning.en.adoc:57
 msgid "Gameroom links (each table will open in a new window/tab):"
-msgstr "Enlaces a la sala de juegos (cada mesa se abrirá en una nueva ventana / pestaña):"
+msgstr "Enlaces a la sala de juegos (cada mesa se abrirá en una nueva ventana/pestaña):"
 
 #. type: Plain text
 #: planning.en.adoc:59
@@ -1664,7 +1664,7 @@ msgstr "PURPURA: https://playingcards.io/fah8an[^]"
 #. type: Plain text
 #: planning.en.adoc:69
 msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
-msgstr "Muchas gracias y agradecimiento a Jwalant Patel y Eric Ma por encontrar y ayudar a crear las mesas de juego en línea para este ejercicio y a Kate Webbink por su experiencia artística. La plataforma de mesa en línea es proporcionada por https://playingcards.io/."
+msgstr "Muchas gracias a Jwalant Patel y Eric Ma por encontrar y ayudar a crear las mesas de juego en línea para este ejercicio y a Kate Webbink por su experiencia artística. La plataforma de mesa en línea es proporcionada por https://playingcards.io/."
 
 #. type: Title ====
 #: planning.en.adoc:70 use-case-invasive-species.en.adoc:72
@@ -1682,7 +1682,7 @@ msgstr "Leer <<escenario,USE CASE I>> (si no lo has hecho ya)."
 #. type: Plain text
 #: planning.en.adoc:76
 msgid "Using the cards select the goals that mostly closely match those the project outlines and then choose the tasks that would need to be carried out to complete them.  Next, identify the people/resources that the project has available to it and assign role cards to them as appropriate.  Lastly, assign these to their stakeholder groups and affiliations."
-msgstr "Con las cartas, seleccione los objetivos que más coincidan con los delineados en el proyecto y luego, elija las tareas que deberían llevarse a cabo para completarlos. A continuación, identifique las personas / recursos que el proyecto tiene disponibles y asígneles cartas de función según corresponda. Por último, asígnelas a sus grupos de interés y afiliaciones."
+msgstr "Utilizando las tarjetas, seleccione los objetivos que más se ajusten a los del proyecto y luego, elija las tareas que habría que llevar a cabo para completarlos.  A continuación, identifique a las personas/recursos que el proyecto tiene disponibles y asígneles cartas de función según corresponda. Por último, asigne los grupos de interés y afiliaciones."
 
 #. type: Plain text
 #: planning.en.adoc:78
@@ -1692,22 +1692,22 @@ msgstr "Revise las cartas de METAS con el grupo, seleccione y diseñe las que se
 #. type: Plain text
 #: planning.en.adoc:79
 msgid "Review the TASK cards with the group."
-msgstr "Revise las cartas TAREAS con el grupo."
+msgstr "Revise las cartas de TAREAS con el grupo."
 
 #. type: Plain text
 #: planning.en.adoc:80
 msgid "Assign the TASK cards to each of the GOAL cards selected from the use case description."
-msgstr "Asigne las cartas TAREAS a cada una de las cartas METAS seleccionadas de la descripción del caso de uso."
+msgstr "Asigne las cartas de TAREAS a cada una de las cartas de METAS seleccionadas en la descripción del caso de uso."
 
 #. type: Plain text
 #: planning.en.adoc:81
 msgid "Identify the institutions and people mentioned in the use case text and make note of them."
-msgstr "Identifica las instituciones y las personas mencionadas en el caso de uso y toma nota de ellas."
+msgstr "Identifique las instituciones y las personas mencionadas en el caso de uso y tome nota de ellas."
 
 #. type: Plain text
 #: planning.en.adoc:82
 msgid "Lay out the AFFILIATIONS cards on the table."
-msgstr "Disponga las cartas AFILIACIONES sobre la mesa."
+msgstr "Disponga las cartas de AFILIACIONES sobre la mesa."
 
 #. type: Plain text
 #: planning.en.adoc:83
@@ -1717,7 +1717,7 @@ msgstr "Revise las cartas de PARTES INTERESADAS, identifique cualquiera menciona
 #. type: Plain text
 #: planning.en.adoc:84
 msgid "Review the ROLE cards, identify any mentioned in the use case and decide which STAKEHOLDER group they belong to."
-msgstr "Revise las caras de ROL, identifique las mencionadas en el caso de uso y decida a qué grupo de PARTES INTERESADAS pertenecen."
+msgstr "Revise las cartas de ROL, identifique los mencionados en el caso de uso y decida a qué grupo de PARTES INTERESADAS pertenecen."
 
 #. type: Plain text
 #: planning.en.adoc:85
@@ -1727,12 +1727,12 @@ msgstr "Tome notas en las cartas según corresponda."
 #. type: Plain text
 #: planning.en.adoc:86
 msgid "Once the cards are assigned take pictures/screenshots."
-msgstr "Una vez que las cartas sean asignadas, tome fotografías / capturas de pantallas."
+msgstr "Una vez que las cartas sean asignadas, tome fotografías/capturas de pantalla."
 
 #. type: Plain text
 #: planning.en.adoc:87
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
-msgstr "Usa el <<hoja-de-ejercicio,hoja de ejercicio>> para proporcionar tus respuestas."
+msgstr "Use la <<hoja-de-ejercicio,hoja de ejercicio>> para proporcionar sus respuestas."
 
 #. type: delimited block *
 #: planning.en.adoc:90
