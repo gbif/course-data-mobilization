@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-11 19:46\n"
+"PO-Revision-Date: 2022-01-11 20:44\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -3882,7 +3882,7 @@ msgstr "El caso de uso III será calificado."
 #: use-case-birds-from-literature.en.adoc:11
 #, no-wrap
 msgid "*Data Mobilization Project from Literature “Birds fallen at Danish Lighthouses, 1883–1939”*\n"
-msgstr "*Proyecto de movilización de datos de la literatura “Birds fallen at Danish Lighthouses, 1883–1939”*\n"
+msgstr "*Proyecto de movilización de datos de la literatura \"Aves caídas en los faros daneses, 1883–1939\"*\n"
 
 #. type: Block title
 #: use-case-birds-from-literature.en.adoc:13
@@ -3909,22 +3909,22 @@ msgstr "Es un escenario ficticio basado en un proyecto y en un conjunto de datos
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:27
 msgid "The Natural History Museum of Denmark (NHM-DK) is a research centre associated with the University of Copenhagen.  Their library is a member of the national library association who recently received state funding to make available online the resources held by its members.  The NHM-DK would like to begin digitization of the field notebooks, journal publications and books held in their library, some of which have significant historic value."
-msgstr "El Museo de Historia Natural de Dinamarca (NHM-DK) es un centro de investigación asociado con la Universidad de Copenhague. Su biblioteca es miembro de la asociación nacional de bibliotecas que recientemente recibió fondos estatales para poner a disposición en línea los recursos que poseen sus miembros. El NHM-DK desea comenzar a digitalizar los cuadernos de campo, las publicaciones de revistas y los libros que se encuentran en su biblioteca, algunos de los cuales tienen un valor histórico significativo."
+msgstr "El Museo de Historia Natural de Dinamarca (NHM-DK) es un centro de investigación asociado con la Universidad de Copenhague. Su biblioteca es miembro de la asociación nacional de bibliotecas que recientemente recibió fondos estatales para poner en línea los recursos que poseen sus miembros. El NHM-DK desea comenzar a digitalizar los cuadernos de campo, las publicaciones de revistas y los libros que se encuentran en su biblioteca, algunos de los cuales tienen un valor histórico significativo."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:31
 msgid "After a short consultation with their regular partners, NHM-DK received a suggestion from the Head of the management office of the Nordjylland National Park.  They would like the contents of a particular classic literature compilation digitized for a project they are running: ‘Birds at the Danish Lighthouses, 1883–1939’ (In Danish, ‘Fuglene ved de danske Fyr, 1883–1939’).  They want to use any occurrence data recorded in those books from two lighthouses (Lodbjerg Fyr and Hanstholm Fyr) for an on-site exhibition project."
-msgstr "Después de una breve consulta con sus socios habituales, NHM-DK recibió una sugerencia del director de la oficina de gestión del Parque Nacional Nordjylland. Les gustaría que se digitalizara el contenido de una recopilación de literatura clásica particular para un proyecto que están ejecutando: \"Aves en los Faros Daneses, 1883-1939\" (en danés, \"Fuglene ved de danske Fyr, 1883-1939\"). Quieren utilizar cualquier dato de registros biológicos registrado en los libros de dos faros (Lodbjerg Fyr y Hanstholm Fyr) para un proyecto de exhibición en el lugar."
+msgstr "Después de una breve consulta con sus socios habituales, NHM-DK recibió una sugerencia del director de la oficina de gestión del Parque Nacional Nordjylland. Les gustaría que se digitalizara el contenido de una recopilación de literatura clásica particular para un proyecto que están ejecutando: \"Aves en los faros daneses, 1883-1939\" (en danés, \"Fuglene ved de danske Fyr, 1883-1939\"). Quieren utilizar cualquier dato de registros biológicos consignado en los libros de dos faros (Lodbjerg Fyr y Hanstholm Fyr) para un proyecto de exhibición en el lugar."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:35
 msgid "The NHM-DK has started discussions with their national GBIF node, DanBIF, about the mobilization of the information contained in these volumes, namely to preserve their contents for the future and provide online access for everyone.  With the involvement of DanBIF, there is intent to publish and register the resulting extracted data with GBIF.  As GBIF requires a license be applied with all published data, the museum has decided to publish the data with a Creative Commons license allowing use of data with attribution (CC-BY)."
-msgstr "El NHM-DK ha iniciado conversaciones con su nodo nacional de GBIF, DanBIF, sobre la movilización de la información contenida en estos volúmenes, es decir, para preservar sus contenidos para el futuro y proporcionar acceso en línea para todos. Con la participación de DanBIF, existe la intención de publicar y registrar los datos extraídos resultantes con GBIF. Como GBIF requiere que se aplique una licencia con todos los datos publicados, el museo ha decidido publicar los datos con una licencia Creative Commons que permite el uso de datos con atribución (CC-BY)."
+msgstr "El NHM-DK ha iniciado conversaciones con el nodo nacional de GBIF, DanBIF, sobre la movilización de la información contenida en estos volúmenes, es decir, para preservar sus contenidos para el futuro y proporcionar acceso en línea para todos. Con la participación de DanBIF, existe la intención de publicar y registrar los datos extraídos resultantes en GBIF. Como GBIF requiere que se aplique una licencia con todos los datos publicados, el museo ha decidido publicar los datos con una licencia Creative Commons que permite el uso de datos con atribución (CC-BY)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:37
 msgid "The IT services required are provided by the Technology Unit of the University of Copenhagen, as for all museum digital projects."
-msgstr "Los servicios de TI necesarios son proporcionados por la Unidad de Tecnología de la Universidad de Copenhague, como para todos los proyectos digitales de museos."
+msgstr "Los servicios informáticos necesarios son proporcionados por la Unidad de Tecnología de la Universidad de Copenhagen, como para todos los proyectos digitales de los museos."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:39
@@ -3934,7 +3934,7 @@ msgstr "El subdirector del HHM-DK, que está coordinando este trabajo, ha elabor
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:42
 msgid "The museum will carry out the digitization of the literature using two library staff members trained in the use of the library scanner to scan delicate volumes.  They will also extract text from the scans through OCR (Optical Character Recognition) software."
-msgstr "El museo llevará a cabo la digitalización de la literatura contando con dos miembros del personal de la biblioteca, capacitados en el uso del escáner de la biblioteca, para escanear volúmenes delicados. También extraerán texto de los escaneos a través del software OCR (reconocimiento óptico de caracteres)."
+msgstr "El museo llevará a cabo la digitalización de la literatura mediante dos miembros del personal de la biblioteca, capacitados en el uso del escáner de la biblioteca, para escanear volúmenes delicados. También extraerán el texto de los escaneos mediante un software de reconocimiento óptico de caracteres (OCR)."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:44
@@ -3944,12 +3944,12 @@ msgstr "Tres voluntarios de la Sociedad Ornitológica de Copenhague (COS), que c
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:48
 msgid "The Ornithology Curator in the NHM-DK Bird Department will lead the team responsible for taxonomic checking, data curation, cleaning, format and transformation, and will oversee the entry of metadata for the published dataset.  The team includes a collaborating researcher from Sweden, and two postdoctoral students.  They have been selected for this task because they are used to working with digital biodiversity data.  They will all use their own work computers."
-msgstr "El Curador de Ornitología del Departamento de Aves del NHM-DK dirigirá el equipo responsable de la verificación taxonómica, la curación, la limpieza, el formato y la transformación de los datos, y supervisará la introducción de metadatos para el conjunto de datos publicado.  El equipo incluye un investigador colaborador de Suecia y dos estudiantes postdoctorales. Han sido seleccionados para esta tarea porque están acostumbrados a trabajar con datos sobre biodiversidad. Todos ellos utilizarán sus propios ordenadores de trabajo."
+msgstr "El curador de ornitología del Departamento de Aves del NHM-DK dirigirá el equipo responsable de la verificación taxonómica, la curación, la limpieza, el formato y la transformación de los datos, y supervisará la introducción de metadatos para el conjunto de datos publicado.  El equipo incluye un investigador colaborador de Suecia y dos estudiantes posdoctorales. Han sido seleccionados para esta tarea porque están acostumbrados a trabajar con datos sobre biodiversidad. Todos ellos utilizarán sus propios computadores de trabajo."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:49
 msgid "The DanBIF Node Manager will ensure that the institution is adequately registered in GBIF as a data publisher and that the deputy director and the ornithology curator have the proper credentials and access to DanBIF’s IPT instance to upload and publish the data."
-msgstr "El administrador de nodo de DanBIF se asegurará de que la institución esté debidamente registrada en GBIF como publicador de datos y de que el director adjunto y el curador de ornitología tengan las credenciales adecuadas y el acceso a la instancia de IPT de DanBIF para cargar y publicar los datos."
+msgstr "El administrador de nodo de DanBIF se asegurará de que la institución esté debidamente registrada en GBIF como publicador de datos, y de que el director adjunto y el curador de ornitología tengan las credenciales adecuadas y el acceso a la instancia de IPT de DanBIF para cargar y publicar los datos."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:50
@@ -3960,13 +3960,13 @@ msgstr "Recopilación de datos originales"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:57
 msgid "In the period 1883-1939, there were 45 lighthouses and lightships functioning in Denmark.  These lighthouses were used by several species of birds during the nights of the bird migration period from the years 1886 through 1939.  The presence and activities of these birds were recorded, especially by the keepers of these lighthouses who also collected specimens that were sent to the museum in Copenhagen.  These birds were carefully preserved and catalogued by collection managers at the museum and the specimens can still be found there today.  Observations of weather conditions during the nights when birds were observed by the keepers were also documented."
-msgstr "En el período 1883-1939, había 45 faros y buques faro en funcionamiento en Dinamarca. Estos faros fueron utilizados por varias especies de aves durante las noches del período de migración de aves desde los años 1886 hasta 1939. Se registró la presencia y actividad de estas aves, especialmente por los cuidadores de estos faros quienes también recolectaron ejemplares que fueron enviados al museo en Copenhague. Estas aves fueron cuidadosamente conservadas y catalogadas por los administradores de la colección en el museo y los especímenes aún se pueden encontrar allí hoy. También se documentaron las observaciones de las condiciones meteorológicas durante las noches en las que los cuidadores observaron las aves."
+msgstr "En el período 1883-1939, había 45 faros y buques faro en funcionamiento en Dinamarca. Estos faros fueron utilizados por varias especies de aves durante las noches del período de migración de aves desde los años 1886 hasta 1939. La presencia y las actividades de estas aves fueron registradas, especialmente por los guardianes de estos faros que también colectaban especímenes que se enviaban al museo de Copenhagen. Estas aves fueron cuidadosamente conservadas y catalogadas por los encargados de la colección en el museo y los especímenes aún se pueden encontrar allí hoy en día. También se documentaron las observaciones de las condiciones meteorológicas durante las noches en las que los cuidadores observaron las aves."
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:58
 #, no-wrap
 msgid "Analogue data description"
-msgstr "Descripción de datos analógicos"
+msgstr "Descripción de datos análogos"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:61
@@ -3988,7 +3988,7 @@ msgstr "Descripción de datos escaneados y traducidos"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:67
 msgid "This is an example of the scanned and translated output from the analogue example above."
-msgstr "Este es un ejemplo de la salida escaneada y traducida del ejemplo analógico anterior."
+msgstr "Este es un ejemplo de la salida escaneada y traducida del ejemplo análogo anterior."
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:68
@@ -4009,7 +4009,7 @@ msgstr "Nombre científico que aparece en el libro"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:77
 msgid "Common name(s) in Danish as appearing in the book"
-msgstr "Nombre(s) comunes en danés que aparecen en el libro"
+msgstr "Nombre(s) común(es) en danés que aparece(n) en el libro"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:78
@@ -4044,7 +4044,7 @@ msgstr "Comentarios"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:84
 msgid "URL of the digitized book page in which the occurrence is provided"
-msgstr "URL de la página de libro digitalizada en la que se proporciona el registro biológico"
+msgstr "URL de la página del libro digitalizado en la que se proporciona el registro biológico"
 
 #. type: Title ===
 #: use-case-birds-from-literature.en.adoc:85
@@ -4055,7 +4055,7 @@ msgstr "Hoja de ejercicios de aves de la literatura"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr "Descargar el link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
+msgstr "Descargar la link:../course-docs/UC3-DL-exercise-sheet_EN.docx[hoja de ejercicios,opts=download]. (MS Word, 342 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
@@ -4070,17 +4070,17 @@ msgstr "La sección <<escenario-4,escenario>> de este caso de uso incluye una br
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:100
 msgid "Identify the different stakeholders participating in this project"
-msgstr "Identificar las diferentes partes interesadas que participan en este proyecto"
+msgstr "Identifique las diferentes partes interesadas que participan en este proyecto"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:101
 msgid "Identify their affiliation and assign each of them to a stakeholder group"
-msgstr "Identificar su afiliación y asignar a cada uno de ellos a un grupo de partes interesadas"
+msgstr "Identifique su afiliación y asigne a cada uno de ellos a un grupo de partes interesadas"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:102
 msgid "Identify the roles associated to them and assign the tasks for which they are currently responsible"
-msgstr "Identificar los roles asociados a ellos y asignar las tareas de las que son responsables actualmente"
+msgstr "Identifique los roles asociados a ellos y asigne las tareas de las que son responsables actualmente"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:103
@@ -4095,7 +4095,7 @@ msgstr "Se han completado los escaneos y el reconocimiento de caracteres (OCR) d
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:113
 msgid "The original data was in German and, to make it more widely usable when published online, the project manager would like to make it available in English."
-msgstr "Los datos originales estaban en alemán y, para que sean más utilizables cuando se publiquen en línea, el director del proyecto desea que estén disponibles en inglés."
+msgstr "Los datos originales estaban en alemán y, para facilitar su uso cuando se publiquen en línea, el director del proyecto desea que estén disponibles en inglés."
 
 #. Do not translate this block
 #. The {empty} is to prevent the "2." producing a numbered list.
@@ -4143,7 +4143,7 @@ msgstr "En los ejemplos utilizados, los registros biológicos individuales no si
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:143
 msgid "Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society.  Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset."
-msgstr "Los voluntarios de la Sociedad Ornitológica de Copenhague han recopilado los datos en un formato de hoja de cálculo. Al asumir el rol del curador de ornitología en el departamento de aves, se le ha asignado la responsabilidad de los problemas de calidad de los datos en el conjunto de datos."
+msgstr "Los voluntarios de la Sociedad Ornitológica de Copenhague han recopilado los datos en un formato de hoja de cálculo. Al asumir el rol de curador de ornitología en el departamento de aves, se le ha asignado la responsabilidad de los problemas relativos a la calidad de los datos."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:149
