@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-11 15:06\n"
+"PO-Revision-Date: 2022-01-11 16:34\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -3225,17 +3225,17 @@ msgid "|Skills\n"
 "|Can successfully publish and register a new dataset. Can understand and act upon publishing error messages in IPT.\n"
 "|Shows understanding of dataset versioning in IPT.\n"
 msgstr "|Habilidades\n"
-"|Desempeño basal\n"
+"|Desempeño básico\n"
 "1\n"
-"|Desempeño en desarrollo\n"
+"|Desempeño intermedio\n"
 "2\n"
-"|Desempeño logrado\n"
+"|Desempeño avanzado\n"
 "3\n"
 "|Desempeño excepcional\n"
 "4\n\n"
 "| A. Conocimiento sobre estándares de datos de información sobre biodiversidad (IBD).\n"
-"| Muestra conocimiento limitado o nulo sobre los estándares de datos IBD y cuáles de esos estándares de datos son aceptados por GBIF.\n"
-"| Puede identificar los estándares IBD y sabe cuáles son aceptados por GBIF, pero no sabe dónde encontrar información sobre cómo utilizarlos. No se puede identificar qué términos son obligatorios.\n"
+"| Muestra conocimiento limitado o nulo sobre los estándares de datos IBD y cuáles son aceptados por GBIF.\n"
+"| Puede identificar los estándares IBD y sabe cuáles son aceptados por GBIF, pero no sabe dónde encontrar información sobre cómo utilizarlos. No puede identificar qué términos son obligatorios.\n"
 "| Conoce los estándares IBD aceptados por GBIF. Puede encontrar una lista de los núcleos y extensiones de datos aceptados. Publica conjuntos de datos de acuerdo con los estándares GBIF requeridos y / o recomendados para términos de datos y metadatos y sabe cómo encontrar las definiciones de los términos.\n"
 "| Demuestra comprensión sobre las características y limitaciones de los distintos estándares IBD.\n\n"
 "| B. Capacidad para analizar la idoneidad de un conjunto de datos de biodiversidad para su publicación a través de GBIF.\n"
@@ -3243,32 +3243,32 @@ msgstr "|Habilidades\n"
 "| Conoce los criterios formales que debe cumplir un conjunto de datos para poder publicarse a través de GBIF, pero no puede evaluar si un conjunto de datos determinado los cumple.\n"
 "| Puede evaluar correctamente si un conjunto de datos se puede publicar actualmente a través de GBIF. Puede asignar al menos un tipo de datos válido (= núcleo) a un conjunto de datos según la descripción proporcionada por el titular de los datos y después de haber analizado el conjunto de datos.\n"
 "| Puede identificar más de una opción de publicación para un conjunto de datos (cuando sea posible).\n\n"
-"| C. Uso de IPT: capacidad para producir / analizar metadatos de alta calidad.\n"
+"| C. Uso de IPT: capacidad para producir/analizar metadatos de alta calidad.\n"
 "| Muestra un conocimiento limitado o nulo sobre las características de los buenos metadatos.\n"
 "| Conoce las características de los buenos metadatos, pero tiene dificultades para reconocerlos.\n"
 "| Conoce las características de los buenos metadatos y cómo reconocerlos. Puede producir recomendaciones sobre cómo mejorar los metadatos existentes.\n"
 "| Conoce las características de los metadatos de alta calidad y cómo producirlos.\n\n"
-"| D. Uso de IPT: capacidad para cargar / conectar datos y asignarlos a núcleos y extensiones existentes.\n"
-"| Puede cargar conjuntos de datos de un solo archivo en IPT, pero no puede asignarlos a ningún núcleo.\n"
-"| Solo se pueden cargar conjuntos de datos de un solo archivo en IPT y asignarlos a un solo tipo de núcleo sin extensiones.\n"
-"| Puede cargar varios archivos en un IPT como parte de un único conjunto de datos y asignarlos correctamente a un núcleo y al menos una extensión. Puede utilizar la función de valor constante de IPT.\n"
-"| Puede cargar varios archivos en un IPT como parte de un único conjunto de datos y asignarlos correctamente a un núcleo y varias extensiones. Puede utilizar la función de traducción de datos IPT.\n\n"
-"| E. Uso de IPT: capacidad de usar la herramienta para publicar y registrar conjuntos de datos.\n"
-"| Puede ver un conjunto de datos publicado y metadatos asociados en un IPT. Puede descargar un archivo DwC-A de un IPT. Puede navegar por un conjunto de datos registrado desde el IPT al portal de GBIF.\n"
-"| Puede actualizar un conjunto de datos publicado existente cargando un nuevo archivo de origen. Puede volver a publicar el archivo sin errores.\n"
-"| Puede publicar y registrar correctamente un nuevo conjunto de datos. Puede comprender y actuar sobre la publicación de mensajes de error en IPT.\n"
-"| Muestra comprensión del control de versiones de conjuntos de datos en IPT.\n"
+"| D. Uso de IPT: capacidad para cargar/conectar datos y asignarlos a núcleos y extensiones existentes.\n"
+"| Puede cargar conjuntos de datos de un solo archivo en un IPT, pero no puede asignarlos a ningún núcleo.\n"
+"| Solo puede cargar conjuntos de datos de un solo archivo en un IPT y asignarlos a un solo tipo de núcleo sin extensiones.\n"
+"| Puede cargar varios archivos en un IPT como parte de un único conjunto de datos y asignarlos correctamente a un núcleo y al menos una extensión. Puede utilizar la función de valor constante del IPT.\n"
+"| Puede cargar varios archivos en un IPT como parte de un único conjunto de datos y asignarlos correctamente a un núcleo y a varias extensiones. Puede utilizar la función de traducción de datos del IPT.\n\n"
+"| E. Uso del IPT: capacidad de usar la herramienta para publicar y registrar conjuntos de datos.\n"
+"| Puede ver un conjunto de datos publicado y los metadatos asociados en un IPT. Puede descargar un archivo DwC-A de un IPT. Puede navegar por un conjunto de datos registrado desde el IPT al portal de GBIF.\n"
+"| Puede actualizar un conjunto de datos existente y publicado cargando un nuevo archivo de origen. Puede volver a publicar el archivo sin errores.\n"
+"| Puede publicar y registrar correctamente un nuevo conjunto de datos. Puede comprender y actuar sobre la publicación de mensajes de error en el IPT.\n"
+"| Muestra comprensión del control de versiones de conjuntos de datos en el IPT.\n"
 
 #. type: Title ==
 #: use-case-invasive-species.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Invasive species"
-msgstr "Caso de Uso II - Especies invasoras"
+msgstr "Caso de uso II: especies invasoras"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:8 use-case-lepidoptera-sampling.en.adoc:8
 msgid "You have a choice for Use Case II between two scenarios:"
-msgstr "Tiene la opción de elegir para el Caso de Uso II entre dos escenarios:"
+msgstr "Para el caso de uso II puede elegir entre dos escenarios:"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:10
@@ -3286,7 +3286,7 @@ msgstr "Muestreo de Lepidoptera"
 #: use-case-invasive-species.en.adoc:13
 #: use-case-lepidoptera-sampling.en.adoc:13
 msgid "Your choice for Use Case II will be graded."
-msgstr "Su elección para el Caso de Uso II será calificada."
+msgstr "Se calificará su elección para el caso de uso II."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:16
@@ -3314,12 +3314,12 @@ msgstr "Esta narrativa se desarrolló como una base para ejercicios prácticos e
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
 msgid "It is a fictionalized scenario based on a real dataset and is meant only for instructional purposes.  The original dataset is attributed to Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
-msgstr "Es un escenario ficticio basado en un conjunto de datos reales y está destinado solo para fines educativos. El conjunto de datos original se atribuye a Simpson A (2016). Comité de especies invasoras de Big Island - Informes de plagas - 2005-2010. Versión 4.1. Encuesta geológica de los Estados Unidos. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accedido a través de GBIF.org el 2017-07-13."
+msgstr "Es un escenario ficticio basado en un conjunto de datos reales y está destinado únicamente para fines educativos. El conjunto de datos original se atribuye a Simpson A (2016).  Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accedido a través de GBIF.org el 2017-07-13."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:31
 msgid "The Hawaii Invasive Species Council (HISC) received a federal grant to collaborate with high schools as part of Hawaii’s statewide curriculum on Invasive Species to increase local knowledge about invasive species, increase data collection and produce annotated checklists for under reported areas.  A full-time Project Manager is employed to oversee the project.  All funds and allocations are managed by the HISC Fiscal Associate."
-msgstr "El Consejo de Especies Invasoras de Hawái (HISC) recibió una subvención federal para colaborar con las escuelas secundarias como parte del plan de estudios de todo el estado de Hawái sobre especies invasoras para aumentar el conocimiento local sobre las especies invasoras, aumentar la recopilación de datos y producir listas de verificación anotadas para áreas que no se informan. Se contrata a un director de proyecto a tiempo completo para supervisar el proyecto. Todos los fondos y asignaciones son administrados por el Asociado Fiscal de HISC."
+msgstr "El Hawaii Invasive Species Council (HISC) recibió una subvención federal para colaborar con las escuelas secundarias como parte del plan de estudios de todo el estado de Hawái sobre especies invasoras para aumentar el conocimiento local sobre las especies invasoras, aumentar la recopilación de datos y producir listas de verificación anotadas para áreas con reportes escasos. Se ha contratado a un director de proyecto a tiempo completo para supervisar el proyecto. Todos los fondos y asignaciones son administrados por el Asociado fiscal de HISC."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:35
