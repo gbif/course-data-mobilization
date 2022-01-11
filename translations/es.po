@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-10 23:09\n"
+"PO-Revision-Date: 2022-01-11 00:10\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2640,7 +2640,7 @@ msgstr "¿Por qué es mejor limpiar sus datos?"
 msgid "- [x] to make them as fit for use as possible\n"
 "- [x] to achieve your data quality goals\n"
 "- [ ] data should be cleaned by the users, not the providers\n"
-msgstr "- [x] para hacerlos tan aptos para su uso como sea posible \n"
+msgstr "- [x] para hacerlos tan aptos para el uso (\"fitness for use\") como sea posible \n"
 "- [x] para lograr sus objetivos de calidad de datos\n"
 "- [ ] los datos deben ser limpiados por los usuarios. no por los proveedores\n"
 
@@ -2657,7 +2657,7 @@ msgid "- [ ] work alone, you know your data best\n"
 "- [x] ask your colleagues for expertise\n"
 "- [x] work at an institutional level to harmonize data quality workflows\n"
 msgstr "- [ ] trabajar solo, usted conoce mejor sus datos\n"
-"- [x] pida ayuda a sus colegas expertos\n"
+"- [x] pregunte a sus colegas por su experiencia\n"
 "- [x] trabajar a nivel institucional para armonizar los flujos de trabajo de calidad de los datos\n"
 
 #.  Question 3
@@ -2730,29 +2730,29 @@ msgstr "Conceptos de publicación de datos"
 #. type: Plain text
 #: publishing.en.adoc:11
 msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr "En este video (11:45), aprenderá sobre los conceptos de publicación de datos y recibirá una introducción a la Herramienta de Publicación Integrada (https://www.gbif.org/ipt[IPT^]). Si no puedes ver el vídeo incrustado, puedes link:../videos/Data_publishing_concepts.mp4[descarga^,opts=download] localmente. (MP4 - 20 MB)"
+msgstr "En este video (11:45), aprenderá sobre los conceptos de publicación de datos y recibirá una introducción a la Herramienta de Publicación Integrada (https://www.gbif.org/ipt[IPT^]). Si no puede ver el vídeo incrustado, puede link:../videos/Data_publishing_concepts.mp4[descargarlo^,opts=download] localmente. (MP4 - 20 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:15
 #, no-wrap
 msgid "IPT overview"
-msgstr "Descripción general de IPT"
+msgstr "Descripción general del IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:19
 msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
-msgstr "En este video (06:56), aprenderá sobre una variedad de herramientas que puede utilizar para mejorar la calidad de sus datos. Si no puede ver el vídeo incrustado, puede link:../videos/Data_Management_Tools.mp4[descarga^,opts=download] localmente. (MP4 - 8.7 MB)"
+msgstr "En este vídeo (06:56), recibirá una visión general de la interfaz de publicación de datos IPT.  Si no puede ver el vídeo incrustado, puede link:../videos/Data_publishing_IPT.mp4[descargarlo^,opts=download] it locally. (MP4 - 8.7 MB)"
 
 #. type: Title ====
 #: publishing.en.adoc:23
 #, no-wrap
 msgid "Training IPT installations"
-msgstr "Capacitación en instalaciones de IPT"
+msgstr "Instalaciones IPT de capacitación"
 
 #. type: Plain text
 #: publishing.en.adoc:26
 msgid "If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
-msgstr "Si aún no le han proporcionado un usuario, por favor contacte con training@gbif.org y se le proporcionará un nombre de usuario y contraseña en el curso IPT."
+msgstr "Si aún no se le ha proporcionado un usuario, póngase en contacto con training@gbif.org y se le proporcionará un nombre de usuario y una contraseña en el IPT del curso."
 
 #. type: Plain text
 #: publishing.en.adoc:28
@@ -2773,12 +2773,12 @@ msgstr "https://training-ipt-c.gbif.org/[^]"
 #: publishing.en.adoc:33
 #, no-wrap
 msgid "IPT demonstration"
-msgstr "Demostración de IPT"
+msgstr "Demostración del IPT"
 
 #. type: Plain text
 #: publishing.en.adoc:37
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr "En este video (24:16), aprenderá a publicar un conjunto de datos de registros biológicos usando un IPT. Si no puede ver el vídeo incrustado, puede link:../videos/IPT_demo.mp4[descarga^,opts=download] localmente. (MP4 - 52.6 MB)"
+msgstr "En este video (24:16), aprenderá a publicar un conjunto de datos de registros biológicos usando un IPT. Si no puede ver el vídeo incrustado, puede link:../videos/IPT_demo.mp4[descargarlo^,opts=download] localmente. (MP4 - 52.6 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:41 use-case-invasive-species.en.adoc:137
@@ -2805,17 +2805,17 @@ msgstr "*Publicación de datos*\n"
 #. type: Plain text
 #: publishing.en.adoc:50
 msgid "After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset."
-msgstr "Después de limpiar los datos en el conjunto de datos de Poales, el equipo considera que publicar los datos en línea a través de la red GBIF podría ser una buena manera de hacer visible este esfuerzo. Se le ha solicitado que lidere ese trabajo de publicación, basado en el conjunto de datos."
+msgstr "Después de limpiar los datos del conjunto de datos de Poales, el equipo considera que publicar los datos en línea a través de la red GBIF podría ser una buena manera de hacer visible este esfuerzo. Se le ha solicitado que lidere ese trabajo de publicación, basándose en el conjunto de datos."
 
 #. type: Plain text
 #: publishing.en.adoc:53
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
-msgstr "En este punto, necesita una cuenta en una de las <<Capacitación en instalaciones de IPT,cursos de IPT >>. Si ún no se le ha proporcionado un usuario, comuníquese con training@gbif.org y se le proporcionará un nombre de usuario y una contraseña en uno de los IPT del curso."
+msgstr "En este punto, necesita una cuenta en uno de los <<Instalaciones IPT de capacitación, IPT  del curso>>. Si aún no se le ha proporcionado un usuario, comuníquese con training@gbif.org y se le proporcionará un nombre de usuario y una contraseña en uno de los IPT del curso."
 
 #. type: Plain text
 #: publishing.en.adoc:54
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
-msgstr "Descargar link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
+msgstr "Descargue link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 
 #. type: Plain text
 #: publishing.en.adoc:55
@@ -2839,7 +2839,7 @@ msgid "- [ ] Exporting a csv file of your cleaned data that you can share with y
 "- [x] Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format\n"
 msgstr "- [ ] Exportar un archivo csv de sus datos limpios que puede compartir con sus colegas\n"
 "- [ ] Escribir un artículo que describa sus datos, y el/los protocolo(s) que utilizó para recolectarlos, capturarlos y limpiarlos\n"
-"- [x] Hacer públicamente accesible(s) sus datos de biodiversidad en un formato normalizado\n"
+"- [x] Hacer públicamente accesibles sus datos de biodiversidad en un formato estandarizado\n"
 
 #.  Question 2
 #. type: Plain text
@@ -2914,7 +2914,7 @@ msgstr "Evaluación y certificación"
 #. type: Plain text
 #: assessments-certification.en.adoc:6
 msgid "In this module, you will review the criteria to be used to assess assignments and to achieve certification."
-msgstr "En este módulo, usted revisará los criterios a utilizar para evaluar las asignaciones y lograr la certificación."
+msgstr "En este módulo, revisará los criterios que se utilizarán para evaluar las tareas y conseguir la certificación."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:8
@@ -2936,7 +2936,7 @@ msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,wi
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr "Los participantes deben enviar (en inglés) el Caso de Uso II (elegir entre dos opciones) y el Caso de Uso III, y cada caso de uso se califica según las rúbricas educativas del curso. Las rúbricas definen las habilidades y los niveles de desempeño sobre los que se construyen los objetivos de aprendizaje del curso."
+msgstr "Los participantes deben enviar (en inglés) el Caso de Uso II (elegir entre las dos opciones) y el Caso de Uso III, cada caso de uso se califica según las rúbricas educativas del curso. Las rúbricas definen las habilidades y los niveles de desempeño sobre los que se construyen los objetivos de aprendizaje del curso."
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
@@ -2947,7 +2947,7 @@ msgstr "Revise las rúbricas para asegurarse de comprender las habilidades que s
 #: assessments-certification.en.adoc:22
 #, no-wrap
 msgid "Planning rubric"
-msgstr "Planificación de la rúbrica"
+msgstr "Rúbrica de planificación"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:25 use-case-invasive-species.en.adoc:67
@@ -2990,7 +2990,7 @@ msgid "|Skills\n"
 "|Can recognize all existing elements in a mobilization plan, and can identify gaps, duplicated efforts, and inconsistencies. Can evaluate the quality of the individual components. Can evaluate potential points of success and weak points of the plan as a whole.\n"
 "|Can suggest solutions to fix issues identified in the plan evaluated.\n"
 msgstr "|Habilidades\n"
-"|Desempeño basal\n"
+"|Desempeño principiante\n"
 "1\n"
 "|Desempeño en desarrollo\n"
 "2\n"
@@ -3003,13 +3003,13 @@ msgstr "|Habilidades\n"
 "| Comprende muchos de los roles y tareas necesarios en un plan de movilización, pero aún no tiene vínculos e interacciones entre ellos.\n"
 "| Comprende las tareas y roles clave necesarios en un plan de movilización y cómo interactúan.\n"
 "| Puede identificar roles y tareas adicionales que pueden ser necesarios para situaciones específicas\n\n"
-"| B. Capacidad para aplicar los diferentes elementos de un plan de movilización de datos de biodiversidad a un contexto institucional dado (por ejemplo, el suyo propio)\n"
+"| B. Capacidad para aplicar los diferentes elementos de un plan de movilización de datos de biodiversidad a un contexto institucional dado (p. ej. el propio)\n"
 "| Puede ver cómo algunas de las tareas y roles se relacionan con un contexto institucional dado, pero tiene dificultades cuando el contexto cambia aunque sea levemente de las referencias genéricas utilizadas.\n"
-"| Puede ver cómo la mayoría de las tareas y roles se pueden aplicar a un contexto institucional dado, pero aún tiene lagunas cuando la situación es diferente a las referencias genéricas utilizadas.\n"
+"| Puede ver cómo la mayoría de las tareas y roles se pueden aplicar a un contexto institucional dado, pero aún tiene vacíos cuando la situación es diferente a las referencias genéricas utilizadas.\n"
 "| Puede identificar todas las tareas y roles relevantes y cómo se pueden traducir a un contexto institucional dado, incluso si la situación no es idéntica a la de las referencias genéricas utilizadas.\n"
 "| Saber aplicar creativamente los diferentes elementos de un plan de movilización, incorporando elementos nuevos que no se encuentran en las referencias genéricas utilizadas.\n\n"
-"| C. Capacidad para escribir / redactar un documento de planificación claro\n"
-"| Puede recopilar materia prima que sería la base de un plan (por ejemplo, como viñetas), pero tiene dificultades para traducir esto en una narrativa.\n"
+"| C. Capacidad para escribir/redactar un documento de planificación claro\n"
+"| Puede recopilar materia prima que sería la base de un plan (p. ej. como puntos clave), pero tiene dificultades para traducir esto en una narrativa.\n"
 "| Puede construir un plan de trabajo básico, pero carece de coherencia entre sus elementos.\n"
 "| Puede redactar un documento coherente y bien articulado que incluya todos los elementos relevantes de un plan de trabajo.\n"
 "| Puede redactar planes concisos, con resúmenes efectivos y niveles de detalle cada vez mayores.\n\n"
