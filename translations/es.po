@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-12 14:24\n"
+"PO-Revision-Date: 2022-01-12 15:44\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1104,7 +1104,7 @@ msgstr "OpenRefine se está ejecutando."
 #: foundations.en.adoc:481
 #, no-wrap
 msgid "Foundations review"
-msgstr "Revisión de fundamentos"
+msgstr "Revisión de las bases"
 
 #. type: Plain text
 #: foundations.en.adoc:484 planning.en.adoc:132 capture.en.adoc:63
@@ -1141,7 +1141,7 @@ msgstr "* combina y presenta funciones y características para manipular datos, 
 #. type: Plain text
 #: foundations.en.adoc:504
 msgid "If you open a data file and see the following, what would you suspect is the issue? +"
-msgstr "Si abre un archivo de datos y ve lo siguiente, ¿cuál sospecha que es el problema? +"
+msgstr "Si abre un archivo de datos y ve lo siguiente, ¿cuál sospecharía que es el problema?+"
 
 #. type: Plain text
 #: foundations.en.adoc:506 solutions.en.adoc:21
@@ -1261,12 +1261,12 @@ msgid "- [ ] Assigned\n"
 "- [x] Readable\n"
 "- [ ] Unique\n"
 "- [x] User-interface\n"
-msgstr "- [x] Asignado\n"
-"- [ ] Descriptivo\n"
-"- [x] Identificador\n"
-"- [ ] Legible\n"
-"- [x] Único\n"
-"- [ ] interfaz de usuario\n"
+msgstr "- [ ] Asignado\n"
+"- [x] Descriptivo\n"
+"- [ ] Identificador\n"
+"- [x] Legible\n"
+"- [ ] Único\n"
+"- [x] interfaz de usuario\n"
 
 #.  Question 7
 #. type: Plain text
@@ -1859,7 +1859,7 @@ msgstr "Revisión"
 #. type: delimited block *
 #: planning.en.adoc:140
 msgid "What is the order of the five PMBoK Process Groupings?"
-msgstr "¿Cuál es el orden de las cinco Agrupaciones de Procesos de PMBoK?"
+msgstr "¿Cuál es el orden de los cinco Grupos de Procesos PMBoK?"
 
 #. type: delimited block .
 #: planning.en.adoc:148
@@ -4230,12 +4230,12 @@ msgstr "hoja de ejercicios completa (se acepta documento de MS Word o similar)"
 #. type: Plain text
 #: assignments.en.adoc:14 assignments.en.adoc:23
 msgid "data capture spreadsheet (MS Excel, csv, txt or similar is acceptable)"
-msgstr "hoja de cálculo de captura de datos (MS Excel, csv, txt o similar es aceptable)"
+msgstr "hoja de cálculo de captura de datos (Se acepta MS Excel, csv, txt o similar)"
 
 #. type: Plain text
 #: assignments.en.adoc:15 assignments.en.adoc:24
 msgid "cleaned/standardized dataset (MS Excel, csv, txt or similar is acceptable)"
-msgstr "conjunto de datos limpios / estandarizados (MS Excel, csv, txt o similar es aceptable)"
+msgstr "conjunto de datos limpios/estandarizados (Se acepta MS Excel, csv, txt o similar)"
 
 #. type: Title ===
 #: assignments.en.adoc:16
@@ -4251,23 +4251,23 @@ msgstr "Solo hay una opción para el CASO DE USO III (<<caso-de-uso-iii-aves-de-
 #. type: Plain text
 #: assignments.en.adoc:26
 msgid "Include the use case and exercise number along with your name on all files submitted. For example, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted in English*. Contact training@gbif.org if you have any questions."
-msgstr "Incluya el caso de uso y el número de ejercicio junto con su nombre en todos los archivos enviados. Por ejemplo, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *Todos los archivos deben enviarse en inglés*. Póngase en contacto con training@gbif.org si tiene alguna pregunta."
+msgstr "Incluya el caso de uso y el número del ejercicio junto con su nombre en todos los archivos enviados. Por ejemplo, Russell-UC2-IS-exercise-sheet.docx, Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *Todos los archivos deben enviarse en inglés*. Póngase en contacto con training@gbif.org si tiene alguna pregunta."
 
 #. type: Title ===
 #: assignments.en.adoc:27
 #, no-wrap
 msgid "Assignment submission"
-msgstr "Envío de la Tarea"
+msgstr "Envío del proyecto"
 
 #. type: Plain text
 #: assignments.en.adoc:31
 msgid "Assignments can be submitted from the online (HTML) version of the course."
-msgstr "Las tareas pueden enviarse desde la versión en línea (HTML) del curso."
+msgstr "Los proyectos pueden enviarse desde la versión en línea (HTML) del curso."
 
 #. type: Plain text
 #: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] in a new window."
-msgstr "Por favor, envíe sus archivos de tareas mediante el formulario a continuación. Si no ve un formulario, también puede visitar el https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission site^] en una nueva ventana."
+msgstr "Por favor, envíe sus archivos de proyectos mediante el formulario a continuación. Si no ve un formulario, también puede visitar el https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[sitio de envío^] en una nueva ventana."
 
 #. type: delimited block +
 #: assignments.en.adoc:38
@@ -4284,7 +4284,7 @@ msgstr "Evaluación del curso"
 #. type: Plain text
 #: course-evaluation.en.adoc:5
 msgid "Complete the course evaluation"
-msgstr "Completa la evaluación del curso"
+msgstr "Complete la evaluación del curso"
 
 #. type: Title ==
 #: keydocs.en.adoc:1
@@ -4295,7 +4295,7 @@ msgstr "Documentación clave"
 #. type: Plain text
 #: keydocs.en.adoc:6
 msgid "The following references provide further detail on the topics covered in this course.  All links open in a new window/tab."
-msgstr "Las siguientes referencias proporcionan más detalles sobre los temas cubiertos en este curso. Todos los enlaces se abren en una nueva ventana / pestaña."
+msgstr "Las siguientes referencias proporcionan más detalles sobre los temas cubiertos en este curso. Todos los enlaces se abren en una ventana/pestaña nueva."
 
 #. type: Title ===
 #: keydocs.en.adoc:7
@@ -4341,12 +4341,12 @@ msgstr "https://www.gbif.org/es/become-a-publisher[Conviértete en un publicador
 #. type: Plain text
 #: keydocs.en.adoc:21
 msgid "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^] + GBIF Secretariat & IAIA: International Association for Impact Assessment (2020)."
-msgstr "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^] + GBIF Secretariat & IAIA: Ie IAIA: Asociación Internacional para la Evaluación de Impacto (2020)."
+msgstr "https://docs.gbif-uat.org/eia-best-practices/translation_1.0/es/[Buenas prácticas para la publicación de datos sobre biodiversidad procedentes de evaluaciones de impacto ambiental^] + GBIF Secretariat & IAIA: Asociación internacional para la evaluación del impacto (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:23
 msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
-msgstr "https://doi.org/10.35035/doc-b8hq-me03[Guía para que las empresas privadas se conviertan en publicadores de datos a través de GBIF: Documento de plantilla para apoyar el proceso interno de autorización para convertirse en un publicador de GBIF^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
+msgstr "https://doi.org/10.35035/doc-b8hq-me03[Guía para que las empresas privadas se conviertan en publicadores de datos a través de GBIF: documento de plantilla para apoyar el proceso interno de autorización para convertirse en un publicador de GBIF^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:25
@@ -4510,17 +4510,17 @@ msgstr "Georreferenciación"
 #. type: Plain text
 #: keydocs.en.adoc:67
 msgid "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] + Arthur D. Chapman & John R. Wieczorek (2020)."
-msgstr "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] + Arthur D. Chapman & John R. Wieczorek (2020)."
+msgstr "https://docs.gbif-uat.org/georeferencing-best-practices/translation_1.0/es/#depth[Buenas prácticas de georreferenciación^] + Arthur D. Chapman & John R. Wieczorek (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:69
 msgid "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
-msgstr "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
+msgstr "https://docs.gbif-uat.org/georeferencing-quick-reference-guide/translation_1.0/es/[Guía rápida de georreferenciación^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:71
 msgid "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
-msgstr "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
+msgstr "https://docs.gbif-uat.org/georeferencing-calculator-manual/translation_1.0/es/[Manual de la calculadora de georreferenciaciónl^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:72
@@ -4707,7 +4707,7 @@ msgstr "Especies sensibles"
 #. type: Plain text
 #: keydocs.en.adoc:134
 msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] + Arthur D. Chapman 2020."
-msgstr "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] + Arthur D. Chapman 2020."
+msgstr "https://docs.gbif-uat.org/sensitive-species-best-practices/translation_master/es/[Buenas prácticas actuales para la generalización de datos de registros biológicos de especies sensibles^] + Arthur D. Chapman 2020."
 
 #. type: Title ===
 #: keydocs.en.adoc:135
@@ -4723,7 +4723,7 @@ msgstr "https://data-blog.gbif.org/post/gbif-checklist-datasets-and-data-gaps/[G
 #. type: Plain text
 #: keydocs.en.adoc:139
 msgid "https://www.gbif.org/tools/name-parser[GBIF Labs - Names Parser^]"
-msgstr "https://www.gbif.org/tools/name-parser[GBIF Labs - Analizador de Nombres^]"
+msgstr "https://www.gbif.org/tools/name-parser[GBIF Labs - Analizador de nombres^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:140
@@ -4838,7 +4838,7 @@ msgstr "[[DOI]]DOI"
 #. type: Plain text
 #: glossary.en.adoc:32
 msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
-msgstr "Digital Object Identifier. Identificador persistente o resolutor que se utiliza para identificar objetos de forma única. Los DOI se utilizan principalmente para identificar información académica, profesional y gubernamental, como artículos de revistas, informes de investigación y conjuntos de datos, y publicaciones oficiales."
+msgstr "Digital Object Identifier. Identificador persistente o handle que se utiliza para identificar objetos de forma única. Los DOI se utilizan principalmente para identificar información académica, profesional y gubernamental, como artículos de revistas, informes de investigación y conjuntos de datos, y publicaciones oficiales."
 
 #. type: Labeled list
 #: glossary.en.adoc:33
@@ -4974,17 +4974,17 @@ msgstr "<<<"
 #: data-papers.en.adoc:3
 #, no-wrap
 msgid "Appendix: Data papers"
-msgstr "Apéndice: Documentos de Datos"
+msgstr "Apéndice: Artículos de datos"
 
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr "Un documento de datos es un documento revisado por pares que describe un conjunto de datos, publicado en una revista revisada por pares. Se necesita un esfuerzo para preparar, curar y describir los datos. Los documentos de datos reconocen este esfuerzo por medio de un artículo académico. No nos rereferiremos a cómo crear documentos de datos en este curso; sin embargo, como actividad opcional, puede ver este video (51:51) presentado por Lizanne Roxburgh. En este video, aprenderá más sobre la publicación de artículos de datos. Si no puede ver el video incrustado, puede link:../videos/Webinar_data_papers.mp4[descargar^,opts=download] localmente. (MP4 - 99,2 MB)"
+msgstr "Un artículo de datos es un documento revisado por pares que describe un conjunto de datos, publicado en una revista revisada por pares. Preparar, conservar y describir los datos supone un esfuerzo. Los artículos de datos reconocen este esfuerzo por medio de un artículo académico. En este curso no cubrimos cómo crear artículos de datos, sin embargo, como actividad opcional, puede ver este vídeo (51:51) presentado por Lizanne Roxburgh. En este video, aprenderá más sobre la publicación de artículos de datos. Si no puede ver el video incrustado, puede link:../videos/Webinar_data_papers.mp4[descargarlo^,opts=download] localmente. (MP4 - 99,2 MB)"
 
 #. type: Plain text
 #: data-papers.en.adoc:17
 msgid "You can read more about data papers on GBIF.org."
-msgstr "Puede leer más sobre documentos de datos en GBIF.org."
+msgstr "Puede leer más sobre artículos de datos en GBIF.org."
 
 #. type: Target for macro image
 #: data-papers.en.adoc:18
@@ -5001,12 +5001,12 @@ msgstr "img/web/datapapersIPT.png"
 #. type: delimited block =
 #: data-papers.en.adoc:24
 msgid "View the links below to see a data paper as it appears on the IPT, on GBIF.org and in the Journal. Each are cross-linked."
-msgstr "Vea los enlaces de abajo para ver un documento de datos tal y como aparece en el IPT, en GBIF.org y en el Journal. Cada uno de ellos están enlazados."
+msgstr "Vea los enlaces a continuación para ver un artículo de datos tal y como aparece en el IPT, en GBIF.org y en la revista científica. Cada uno de ellos tiene un vínculo directo."
 
 #. type: delimited block =
 #: data-papers.en.adoc:26
 msgid "Journal: https://doi.org/10.3897/BDJ.2.e4244"
-msgstr "Journal: https://doi.org/10.3897/BDJ.2.e4244"
+msgstr "Revista científica: https://doi.org/10.3897/BDJ.2.e4244"
 
 #. type: delimited block =
 #: data-papers.en.adoc:27
@@ -5033,7 +5033,7 @@ msgstr "Este apéndice contiene las respuestas e información adicional a todos 
 #: solutions.en.adoc:7
 #, no-wrap
 msgid "Foundations review solutions"
-msgstr "Fundamentos de la revisión de soluciones"
+msgstr "Soluciones de la revisión de las bases"
 
 #. type: Plain text
 #: solutions.en.adoc:10
@@ -5049,7 +5049,7 @@ msgstr "combina y presenta funciones y características para manipular datos, ju
 #. type: Plain text
 #: solutions.en.adoc:15
 msgid "structured and organized collection of data and/or information held on a computer + *database* +"
-msgstr "recopilación estructurada y organizada de datos y / o información almacenada en una computadora + *base de datos* +"
+msgstr "recopilación estructurada y organizada de datos y/o información almacenada en una computadora + *base de datos* +"
 
 #. type: Plain text
 #: solutions.en.adoc:17
@@ -5071,7 +5071,7 @@ msgstr "La codificación incorrecta fue usada para abrir el archivo"
 #: solutions.en.adoc:25
 #, no-wrap
 msgid "*For the given software, input the type of software (data capture, data management, data cleaning, data publishing).*\n"
-msgstr "*Para el software dado, ingrese el tipo de software (captura, administración, limpieza, publicación de datos).*\n"
+msgstr "*Para el software dado, ingrese el tipo de software (captura de datos, gestión de datos, limpieza de datos, publicación de datos).*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:28
@@ -5091,13 +5091,13 @@ msgstr "iNaturalist + *captura de datos*"
 #. type: Plain text
 #: solutions.en.adoc:34
 msgid "OpenRefine + *data cleaning*"
-msgstr "OpenRefine + *Limpieza de datos*"
+msgstr "OpenRefine + *limpieza de datos*"
 
 #. type: Plain text
 #: solutions.en.adoc:36
 #, no-wrap
 msgid "*For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)*\n"
-msgstr "*Para el ejemplo dado, ingrese el tipo de datos correcto (binario, booleano, float, entero, entero largo, texto, texto no estructurado)*\n"
+msgstr "*Para el ejemplo dado, ingrese el tipo de datos correcto (binario, booleano, flotante, entero, entero largo, texto, texto no estructurado)*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:39
@@ -5122,7 +5122,7 @@ msgstr "1024 + *entero*"
 #. type: Plain text
 #: solutions.en.adoc:47
 msgid "29.0 + *float*"
-msgstr "29.0 + *float*"
+msgstr "29.0 + *flotante*"
 
 #. type: Plain text
 #: solutions.en.adoc:49
@@ -5148,7 +5148,7 @@ msgstr "Asignado"
 #. type: Plain text
 #: solutions.en.adoc:56
 msgid "Identifying"
-msgstr "Identificando"
+msgstr "Identificador"
 
 #. type: Plain text
 #: solutions.en.adoc:57
@@ -5195,13 +5195,13 @@ msgstr "Un atributo tiene el MISMO campo/tipo de datos para cada registro. + *co
 #. type: Plain text
 #: solutions.en.adoc:72
 msgid "Attributes of a record ALWAYS stay together. + *row*"
-msgstr "Atributos de un registro SIEMPRE permanecen juntos. + *fila*"
+msgstr "Los atributos de un registro SIEMPRE permanecen juntos. + *fila*"
 
 #. type: Plain text
 #: solutions.en.adoc:74
 #, no-wrap
 msgid "*Who determines the fitness for use of your data?*\n"
-msgstr "*¿Quién determina la aptitud para el uso de tus datos?*\n"
+msgstr "*¿Quién determina la aptitud para el uso (\"fitness for use\") de sus datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:76
@@ -5239,7 +5239,7 @@ msgstr "Baja exactitud, baja precisión + *A*"
 #: solutions.en.adoc:90
 #, no-wrap
 msgid "*Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.*\n"
-msgstr "*Identificar las relaciones de datos en las que el conjunto de datos B debe fusionarse con el conjunto de datos A (0: 1, 1: 0, 1: 1, 1: ∞, ∞: 1, ∞: ∞). No todas las relaciones son utilizadas.*\n"
+msgstr "*Identifique las relaciones de datos donde el conjunto de datos B debe combinarse con el conjunto de datos A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). No se utilizan todas las relaciones.*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:93
@@ -5254,7 +5254,7 @@ msgstr "El campo del país sólo existe en el conjunto de datos B + *0:1*"
 #. type: Plain text
 #: solutions.en.adoc:97
 msgid "Name field exists in dataset A, but dataset B contains First Name and Last Name fields + *1:∞*"
-msgstr "El campo de nombre existe en el dataset A, pero el conjunto de datos B contiene campos de Nombre y Apellidos + *1:∞*"
+msgstr "El campo del nombre existe en el conjunto de datos A, pero el conjunto de datos B contiene los campos de Nombre y Apellidos + *1:∞*"
 
 #. type: Plain text
 #: solutions.en.adoc:99
@@ -5269,7 +5269,7 @@ msgstr "La elevación existe en el conjunto de datos A, pero no en el conjunto d
 #. type: Plain text
 #: solutions.en.adoc:103
 msgid "Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B + *1:∞*"
-msgstr "La fecha existe en el dataset A, pero el Día, el Mes y el Año son campos separados en el dataset B + *1:∞*"
+msgstr "La fecha existe en el conjunto de datos A, pero el Día, Mes y Año son campos separados en el conjunto de datos B + *1:∞*"
 
 #. type: Plain text
 #: solutions.en.adoc:105
@@ -5280,18 +5280,18 @@ msgstr "*Los metadatos son importantes porque (seleccione los enunciados VERDADE
 #. type: Plain text
 #: solutions.en.adoc:107
 msgid "it allows users to determine if a dataset is fit for their use."
-msgstr "permite a los usuarios determinar si un conjunto de datos es adecuado para su uso."
+msgstr "permiten a los usuarios determinar si un conjunto de datos es adecuado para su uso."
 
 #. type: Plain text
 #: solutions.en.adoc:108
 msgid "it allows you to know under which legal terms the reuse of data is permitted."
-msgstr "le permite saber bajo qué términos legales se permite la reutilización de datos."
+msgstr "le permiten saber bajo qué términos legales se permite la reutilización de datos."
 
 #. type: Title ===
 #: solutions.en.adoc:109
 #, no-wrap
 msgid "Planning review solutions"
-msgstr "Planificación de soluciones de revisión"
+msgstr "Soluciones de la revisión de planificación"
 
 #. type: Plain text
 #: solutions.en.adoc:112
@@ -5307,7 +5307,7 @@ msgstr "Iniciar, Planear, Ejecutar, Monitoreo y Control, Cerrar"
 #. type: Plain text
 #: solutions.en.adoc:116
 msgid "Learn More: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
-msgstr "Aprende más: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
+msgstr "Aprenda más: https://quizlet.com/306742513/1-introduction-pmbok-guide-6th-edition-flash-cards/"
 
 #. type: Plain text
 #: solutions.en.adoc:118
@@ -5318,12 +5318,12 @@ msgstr "*¿Cuáles son los tipos de entregables?*\n"
 #. type: Plain text
 #: solutions.en.adoc:120
 msgid "Stated - YES"
-msgstr "Declarado - SÍ"
+msgstr "Declarado - SI"
 
 #. type: Plain text
 #: solutions.en.adoc:121
 msgid "Implied - YES"
-msgstr "Implícito - SÍ"
+msgstr "Implícito - SI"
 
 #. type: Plain text
 #: solutions.en.adoc:122
@@ -5333,12 +5333,12 @@ msgstr "Estimado - NO"
 #. type: Plain text
 #: solutions.en.adoc:123
 msgid "Direct - YES"
-msgstr "Directo - SÍ"
+msgstr "Directo - SI"
 
 #. type: Plain text
 #: solutions.en.adoc:124
 msgid "Indirect - YES"
-msgstr "Indirecto - SÍ"
+msgstr "Indirecto - SI"
 
 #. type: Plain text
 #: solutions.en.adoc:125
@@ -5375,17 +5375,17 @@ msgstr "Afiliación - NO, Este es un Tipo de Recurso"
 #. type: Plain text
 #: solutions.en.adoc:136
 msgid "Publishing - YES"
-msgstr "Publicación - SÍ"
+msgstr "Publicación - SI"
 
 #. type: Plain text
 #: solutions.en.adoc:137
 msgid "Imaging - YES"
-msgstr "Imagen - SÍ"
+msgstr "Imagen - SI"
 
 #. type: Plain text
 #: solutions.en.adoc:138
 msgid "Georeferencing - YES"
-msgstr "Georreferenciación - SÍ"
+msgstr "Georreferenciación - SI"
 
 #. type: Plain text
 #: solutions.en.adoc:139
@@ -5396,23 +5396,23 @@ msgstr "Mayor conciencia pública - NO, Este es un objetivo implícito."
 #: solutions.en.adoc:140
 #, no-wrap
 msgid "Data capture review solutions"
-msgstr "Soluciones de revisión de captura de datos"
+msgstr "Soluciones de la revisión de captura de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:143
 #, no-wrap
 msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
-msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para una colección ictiológica?*\n"
+msgstr "¿Qué tipo(s) de conjuntos de datos elegiría para una colección de ictiología?\n"
 
 #. type: Plain text
 #: solutions.en.adoc:148
 msgid "occurrence + Most of the time, specimens from collection databases are shared as occurrence data.  Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.  Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID."
-msgstr "registro biológico + La mayoría de las veces, las muestras de las bases de datos de la colección se comparten como datos de registros biológicos. Cada registro (espécimen o grupo de especímenes) tiene su propio identificador único (a veces derivado de su número de catálogo en la colección fuente) y los campos Darwin Core usados ​​para compartirlos dentro de GBIF describen cada espécimen: nombre científico, la fecha en que fue recolectado el campo, quién lo recolectó y / o identificó, dónde, etc. Cada colección puede tener más de un espécimen de una misma especie, siempre que cada espécimen esté identificado por una identificador único."
+msgstr "registro biológico + La mayoría de las veces, los especímenes de las bases de datos de la colección se comparten como datos de registros biológicos. Cada registro (espécimen o grupo de especímenes) tiene su propio identificador único (a veces derivado de su número de catálogo en la colección fuente) y los campos Darwin Core usados ​​para compartirlos dentro de GBIF describen cada espécimen: nombre científico, la fecha en que fue recolectado el campo, quién lo recolectó y/o identificó, dónde, etc. Cada colección puede tener más de un espécimen de una misma especie, siempre que cada espécimen esté identificado por una identificador único."
 
 #. type: Plain text
 #: solutions.en.adoc:150
 msgid "checklist + It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr "lista de especies + También es posible crear y compartir una lista de especies taxonómica derivada de una base de datos de colección; en este caso, se recomienda compartir la lista de especies como un conjunto de datos taxonómicos, con la lista de registros (espécimen) asociada a ella mediante el uso del núcleo de registros como una extensión del Taxon Core en el IPT de GBIF."
+msgstr "lista de especies + También es posible crear y compartir una lista de especies taxonómica derivada de una base de datos de colección. En este caso se recomienda compartir la lista de especies como un conjunto de datos taxonómicos, con la lista de registros (espécimen) asociada a ella mediante el uso del núcleo de registros como una extensión del Taxon Core en el IPT de GBIF."
 
 #. type: Plain text
 #: solutions.en.adoc:152
@@ -5434,7 +5434,7 @@ msgstr "lista de especies + Las especies invasoras pueden ser rastreadas y monit
 #: solutions.en.adoc:159
 #, no-wrap
 msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
-msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para la flora y fauna de un estudio de impacto ambiental?*\n"
+msgstr "*¿Qué tipo(s) de conjuntos de datos elegiría para la flora y fauna de un estudio de impacto ambiental?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:162
