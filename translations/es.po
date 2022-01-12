@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-12 15:44\n"
+"PO-Revision-Date: 2022-01-12 16:47\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -2640,7 +2640,7 @@ msgstr "¿Por qué es mejor limpiar sus datos?"
 msgid "- [x] to make them as fit for use as possible\n"
 "- [x] to achieve your data quality goals\n"
 "- [ ] data should be cleaned by the users, not the providers\n"
-msgstr "- [x] para hacerlos tan aptos para el uso (\"fitness for use\") como sea posible \n"
+msgstr "- [x] para hacerlos tan aptos para el uso (\"fit for use\") como sea posible \n"
 "- [x] para lograr sus objetivos de calidad de datos\n"
 "- [ ] los datos deben ser limpiados por los usuarios. no por los proveedores\n"
 
@@ -2657,14 +2657,14 @@ msgid "- [ ] work alone, you know your data best\n"
 "- [x] ask your colleagues for expertise\n"
 "- [x] work at an institutional level to harmonize data quality workflows\n"
 msgstr "- [ ] trabajar solo, usted conoce mejor sus datos\n"
-"- [x] pregunte a sus colegas por su experiencia\n"
+"- [x] pregunte a sus colegas experimentados\n"
 "- [x] trabajar a nivel institucional para armonizar los flujos de trabajo de calidad de los datos\n"
 
 #.  Question 3
 #. type: Plain text
 #: management.en.adoc:178
 msgid "Which is best:"
-msgstr "Cuál es el mejor:"
+msgstr "Qué es mejor:"
 
 #. type: delimited block .
 #: management.en.adoc:185
@@ -2672,7 +2672,7 @@ msgstr "Cuál es el mejor:"
 msgid "- [x] prevent errors from occurring\n"
 "- [x] correct errors as soon as you find them in your database or spreadsheet\n"
 "- [ ] not cleaning errors but documenting them as you go, so people who reuse your data know where they are\n"
-msgstr "- [x] prevenir que se generen errores\n"
+msgstr "- [x] evitar que se generen errores\n"
 "- [x] corregir los errores tan pronto como los encuentre en su base de datos u hoja de cálculo\n"
 "- [ ] no limpiar los errores, sino documentarlos sobre la marcha, para que las personas que reutilizan sus datos sepan dónde están\n"
 
@@ -5444,7 +5444,7 @@ msgstr "resgistro biológico + Los datos son registrados por naturalistas en el 
 #. type: Plain text
 #: solutions.en.adoc:164
 msgid "sampling event + They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr "evento de muestreo + También pueden ser compartidos como conjuntos de datos de eventos si se estandarizan protocolos (como parcelas de vegetación, transectas, trampas…) se utilizan para recopilar los datos."
+msgstr "evento de muestreo + También pueden ser compartidos como conjuntos de datos de eventos si se estandarizan protocolos (como parcelas de vegetación, transectos, trampas…) se utilizan para recopilar los datos."
 
 #. type: Plain text
 #: solutions.en.adoc:166
@@ -5461,7 +5461,7 @@ msgstr "registro biológico + Estos datos se comparten como conjuntos de datos d
 #: solutions.en.adoc:171
 #, no-wrap
 msgid "*What dataset type(s) would you choose for insect trap data?*\n"
-msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para los datos de trampas para insectos?*\n"
+msgstr "*¿Qué tipo(s) de conjuntos de datos elegiría para los datos de trampas de insectos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:174
@@ -5471,13 +5471,13 @@ msgstr "registro biológico + Aunque dichos datos se pueden compartir como conju
 #. type: Plain text
 #: solutions.en.adoc:178
 msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr "evento de muestreo + Las trampas para insectos (así como otras trampas, como trampas de caída, trampas Malaise…) se utilizan típicamente en programas de monitoreo para verificar la presencia (o ausencia) de algunas especies y/o evaluar su abundancia específica. El uso del campo \"eventID\" para identificar cada trampa permite a los usuarios obtener todas las muestras recolectadas dentro de cada trampa. La misma lógica se aplica a otros protocolos de campo, como transectas, parcelas, cámaras remotas, etc.: al utilizar el Core de eventos de muestreo en lugar del Core de registros biológicos, podrá compartir mucha más información sobre el contexto de la recopilación de datos y permitirá que los usuarios comprendan mejor (e incluso reproduzcan) su trabajo."
+msgstr "evento de muestreo + Las trampas para insectos (así como otras trampas, como trampas de caída, trampas Malaise…) se utilizan típicamente en programas de monitoreo para verificar la presencia (o ausencia) de algunas especies y/o evaluar su abundancia específica. El uso del campo \"eventID\" para identificar cada trampa permite a los usuarios obtener todas las muestras colectadas dentro de cada trampa. La misma lógica se aplica a otros protocolos de campo, como transectos, parcelas, cámaras remotas, etc.: al utilizar el Core de eventos de muestreo en lugar del Core de registros biológicos, podrá compartir mucha más información sobre el contexto de la recopilación de datos y permitirá que los usuarios comprendan mejor (e incluso reproduzcan) su trabajo."
 
 #. type: Plain text
 #: solutions.en.adoc:180
 #, no-wrap
 msgid "*What dataset type(s) would you choose for national park management data?*\n"
-msgstr "*¿Qué tipo de conjunto de datos elegiría(s) para los datos de gestión de parques nacionales?*\n"
+msgstr "*¿Qué tipo(s) de conjuntos de datos elegiría para los datos de gestión de parques nacionales?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:183
@@ -5492,7 +5492,7 @@ msgstr "lista de especies + Es importante saber cuántas especies están present
 #. type: Plain text
 #: solutions.en.adoc:187
 msgid "sampling event + check and track the populations"
-msgstr "evento de muestreo + comprobar y rastrear a las poblaciones"
+msgstr "evento de muestreo + comprobar y seguir a las poblaciones"
 
 #. type: Plain text
 #: solutions.en.adoc:189
@@ -5525,18 +5525,18 @@ msgstr "lista de especies + Las listas de especies geográficas o temáticas se 
 #: solutions.en.adoc:201
 #, no-wrap
 msgid "Data management review solutions"
-msgstr "Soluciones de revisión de la gestión de datos"
+msgstr "Soluciones de la revisión de gestión de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:204
 #, no-wrap
 msgid "*Why is it best to clean your data?*\n"
-msgstr "*¿Por qué es mejor limpiar tus datos?*\n"
+msgstr "*¿Por qué es mejor limpiar sus datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:206
 msgid "to make them as fit for use as possible"
-msgstr "para hacerlos tan aptos para su uso como sea posible"
+msgstr "para hacerlos tan aptos para el uso (\"fit for use\") como sea posible"
 
 #. type: Plain text
 #: solutions.en.adoc:207
@@ -5567,18 +5567,18 @@ msgstr "trabajar a nivel institucional para armonizar los flujos de trabajo de c
 #. type: Plain text
 #: solutions.en.adoc:217
 msgid "Nobody is expected to know everything about biodiversity data; you should seek help and advice from your colleagues or other knowledgeable people, and ensure that you're applying the good practices recommended by your institution as you clean your data."
-msgstr "No se espera que alguien sepa todo sobre datos de biodiversidad; debe buscar ayuda y consejo de sus colegas u otras personas con conocimientos, y asegurarse de que está aplicando las buenas prácticas recomendadas por su institución a medida que limpia sus datos."
+msgstr "No se espera que alguien sepa todo sobre datos de biodiversidad; debe buscar ayuda y consejo de sus colegas u otras personas con conocimientos y asegurarse de que está aplicando las buenas prácticas recomendadas por su institución a medida que limpia sus datos."
 
 #. type: Plain text
 #: solutions.en.adoc:219
 #, no-wrap
 msgid "*Which is best:*\n"
-msgstr "*Cuál es el mejor:*\n"
+msgstr "*Qué es mejor:*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:221
 msgid "prevent errors from occurring"
-msgstr "evitar que los errores ocurran"
+msgstr "evitar que se generen errores"
 
 #. type: Plain text
 #: solutions.en.adoc:222
@@ -5593,12 +5593,12 @@ msgstr "La mejor manera de evitar la propagación de errores en sus datos es evi
 #. type: Plain text
 #: solutions.en.adoc:226
 msgid "Of course, mistakes are unavoidable so you should also clean them as soon as you find them, and document the cleaning process."
-msgstr "Por supuesto, los errores son inevitables, así que deberías limpiarlos tan pronto como los encuentres, y documentar el proceso de limpieza."
+msgstr "Por supuesto, los errores son inevitables, así que debería limpiarlos tan pronto como los encuentre, y documentar el proceso de limpieza."
 
 #. type: Plain text
 #: solutions.en.adoc:228
 msgid "If you don't have the time or resources to properly clean your data, it is best to wait before you can do so instead of publishing erroneous data that might confuse people."
-msgstr "Si no tiene tiempo o recursos para limpiar sus datos correctamente es mejor esperar antes de poder hacerlo en lugar de publicar datos erróneos que podrían confundir a la gente."
+msgstr "Si no tiene tiempo o recursos para limpiar adecuadamente sus datos, es mejor esperar a poder hacerlo en lugar de publicar datos erróneos que puedan confundir a la gente."
 
 #. type: Plain text
 #: solutions.en.adoc:230
@@ -5624,13 +5624,13 @@ msgstr "Las personas que puedan usar sus datos más adelante, pueden informarle 
 #. type: Plain text
 #: solutions.en.adoc:238
 msgid "GBIF can perform automatic checks on your data (e.g. detection of missing values, geographic outliers, unknown scientific names) but should not be held responsible for errors that occurred earlier in the data management process."
-msgstr "GBIF puede realizar comprobaciones automáticas de sus datos (por ej., detección de valores perdidos, valores geográficos atípicos, nombres científicos desconocidos), pero no debe responsabilizarse de los errores que hayan ocurrido anteriormente en el proceso de gestión de datos."
+msgstr "GBIF puede realizar comprobaciones automáticas de sus datos (p. ej., detección de valores perdidos, valores geográficos atípicos, nombres científicos desconocidos), pero no debe responsabilizarse de los errores que hayan ocurrido anteriormente en el proceso de gestión de datos."
 
 #. type: Plain text
 #: solutions.en.adoc:240
 #, no-wrap
 msgid "*Which tools can be used to clean your data?*\n"
-msgstr "*¿Qué herramientas se pueden utilizar para limpiar tus datos?*\n"
+msgstr "*¿Qué herramientas se pueden utilizar para limpiar sus datos?*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:242
@@ -5650,13 +5650,13 @@ msgstr "Herramientas online como el Scientific Names Resolver o Google Maps"
 #. type: Plain text
 #: solutions.en.adoc:247
 msgid "All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful-tools,helpful tools>> listed in the data management section."
-msgstr "Se pueden usar todo tipo de herramientas para limpiar sus datos, pero debe identificar cuáles responderán a sus necesidades en términos de resolución taxonómica, georreferenciación, eliminación de duplicados, etc. Puede encontrar <<helpful-tools,helpful tools>> enumeradas en la sección de gestión de datos."
+msgstr "Se pueden usar todo tipo de herramientas para limpiar sus datos, pero debe identificar cuáles responderán a sus necesidades en términos de resolución taxonómica, georreferenciación, eliminación de duplicados, etc. Puede encontrar <<helpful-tools,herramientas útiles>> enumeradas en la sección de gestión de datos."
 
 #. type: Title ===
 #: solutions.en.adoc:248
 #, no-wrap
 msgid "Data publishing review solutions"
-msgstr "Soluciones de revisión de publicación de datos"
+msgstr "Soluciones de la revisión de publicación de datos"
 
 #. type: Plain text
 #: solutions.en.adoc:251
@@ -5683,12 +5683,12 @@ msgstr "*¿Qué es un IPT?*\n"
 #. type: Plain text
 #: solutions.en.adoc:259
 msgid "a tool that helps you publish your data to GBIF"
-msgstr "una herramienta que te ayuda a publicar tus datos en GBIF"
+msgstr "una herramienta que lo ayuda a publicar sus datos en GBIF"
 
 #. type: Plain text
 #: solutions.en.adoc:260
 msgid "a tool that helps you produce a Data paper"
-msgstr "una herramienta que te ayuda a producir un Documento de Datos"
+msgstr "una herramienta que le ayuda a producir un artículo de datos (Data Paper)"
 
 #. type: Plain text
 #: solutions.en.adoc:263
@@ -5698,7 +5698,7 @@ msgstr "El IPT (Integrated Publishing Toolkit) es un software codificado en Java
 #. type: Plain text
 #: solutions.en.adoc:265
 msgid "The IPT can also help you with the process of writing and submitting a data paper, thanks to the EML file it generates automatically when you fill in the metadata for your data resource."
-msgstr "El IPT también puede ayudarle en el proceso de escribir y enviar un documento de datos, gracias al archivo EML que se genera automáticamente cuando se rellenan los metadatos del recurso de datos."
+msgstr "El IPT también puede ayudarle en el proceso de escribir y enviar un documento de datos, gracias al archivo EML que se genera automáticamente cuando se completan los metadatos del recurso de datos."
 
 #. type: Plain text
 #: solutions.en.adoc:267
@@ -5714,7 +5714,7 @@ msgstr "C0, CC-BY y CC-BY-NC"
 #. type: Plain text
 #: solutions.en.adoc:272
 msgid "The Creative Commons licences and waivers recommended to publish your dataset(s) to GBIF are CC0, CC-BY and CC-BY-NC.  They are widely recognized licenses and/or waivers that align with international open-data requirements for data sharing and re-use."
-msgstr "Las licencias de Creative Commons y exenciones recomendadas para publicar su(s) conjuntos de datos en GBIF son CC0, CC-BY y CC-BY-NC. Son licencias y/o exenciones ampliamente reconocidas que se ajustan a los requisitos internacionales de datos abiertos para compartir y reutilizar datos."
+msgstr "Las licencias de Creative Commons y exenciones recomendadas para publicar su(s) conjunto(s) de datos en GBIF son CC0, CC-BY y CC-BY-NC. Son licencias y/o exenciones ampliamente reconocidas que se ajustan a los requisitos internacionales de datos abiertos para compartir y reutilizar datos."
 
 #. type: Plain text
 #: solutions.en.adoc:274
@@ -5725,7 +5725,7 @@ msgstr "Tenga en cuenta que sólo debe elegir CC0 o CC-BY licencia/exención par
 #: solutions.en.adoc:276
 #, no-wrap
 msgid "*What are the three Cores from which you can choose for an IPT resource?*\n"
-msgstr "*¿Cuáles son los tres Cores entre los que puedes elegir un recurso IPT?*\n"
+msgstr "*¿Cuáles son los tres Núcleos (Cores) entre los que se puede elegir para un recurso IPT*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:278
@@ -5761,12 +5761,12 @@ msgstr "tantos como sea necesario"
 #. type: Plain text
 #: solutions.en.adoc:291
 msgid "Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it.  You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it."
-msgstr "Una vez que hayas elegido un núcleo para tu recurso IPT, puedes añadirle extensiones de Darwin Core. Puedes añadir una o varias extensiones, dependiendo del tipo de núcleo que elijas, y qué extensiones son compatibles con ella."
+msgstr "Una vez que haya elegido un núcleo para su recurso IPT, puede añadirle extensiones de Darwin Core. Puede añadir una o varias extensiones, dependiendo del tipo de núcleo que elija y de qué extensiones son compatibles con el."
 
 #. type: Plain text
 #: solutions.en.adoc:293
 msgid "Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core."
-msgstr "Las extensiones no son obligatorias (puedes publicar un conjunto de datos sin ninguna extensión) pero pueden ser útiles si quieres compartir información adicional que no podrías mapear con el Core elegido."
+msgstr "Las extensiones no son obligatorias (puede publicar un conjunto de datos sin ninguna extensión) pero pueden ser útiles si quiere compartir información adicional que no podrías mapear con el Core elegido."
 
 #. type: Title ===
 #: solutions.en.adoc:294
@@ -5799,7 +5799,7 @@ msgstr "El éxito de este curso depende en gran medida del apoyo brindado a los 
 #. type: Plain text
 #: acknowledgements.en.adoc:10
 msgid "The following individuals are recognized for their significant contributions to the course design, materials and instruction:"
-msgstr "Los siguientes individuos son reconocidos por sus contribuciones significativas al diseño, materiales e instrucción del curso:"
+msgstr "Los siguientes individuos son reconocidos por sus contribuciones significativas al diseño, los materiales y la instrucción del curso:"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:12
@@ -5990,7 +5990,7 @@ msgstr "Recursos"
 #. type: Plain text
 #: acknowledgements.en.adoc:57
 msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
-msgstr "La plataforma de mesa en línea es proporcionada por https://playingcards.io/[PlayingCards.io^]. Muchas gracias y nuestro agradecimiento a Jwalant Patel y Eric Ma por encontrar y ayudar a crear las mesas de juego en línea y a Kate Webbink por su experiencia artística."
+msgstr "La plataforma de mesa en línea es proporcionada por https://playingcards.io/[PlayingCards.io^]. Muchas gracias a Jwalant Patel y Eric Ma por encontrar y ayudar a crear las mesas de juego en línea y a Kate Webbink por su experiencia artística."
 
 #. type: Plain text
 #: acknowledgements.en.adoc:58
@@ -6011,7 +6011,7 @@ msgstr "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
 #: acknowledgements.en.adoc:61
 #, no-wrap
 msgid "Resource support"
-msgstr "Apoyo de recursos"
+msgstr "Apoyo en recursos"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:64
@@ -6058,7 +6058,7 @@ msgstr "Cita sugerida"
 #. type: Plain text
 #: colophon.en.adoc:6
 msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
-msgstr "Curso de Movilización de Datos de Biodiversidad GBIF (2021) GBIF. 12ª edición. Secretariado de GBIF:. https://doi.org/10.35035/ce-c6cr-6w42. [Fecha de curso.]"
+msgstr "Curso de movilización de datos sobre biodiversidad de GBIF (2021) GBIF. 12ª edición. Secretaría de GBIF:. https://doi.org/10.35035/ce-c6cr-6w42. [Fecha del curso.]"
 
 #. type: Title ===
 #: colophon.en.adoc:7
@@ -6069,7 +6069,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
-msgstr "El _Curso de Movilización de Datos sobre Biodiversidad de GBIF_ se desarrolló originalmente como parte de https://www.gbif.org/bid[Información de Biodiversidad para el Desarrollo^], un programa financiado por https://europa.eu[Unión Europea^]. El plan de estudios original fue creado por Néstor Beltrán, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell y Katia Cezón, con contribuciones adicionales de entrenadores, mentores y estudiantes de GBIF."
+msgstr "El _Curso de movilización de datos sobre biodiversidad de GBIF_ se desarrolló originalmente como parte de https://www.gbif.org/bid[Información de Biodiversidad para el Desarrollo^], un programa financiado por https://europa.eu[Unión Europea^]. El plan de estudios original fue creado por Néstor Beltrán, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell y Katia Cezón, con contribuciones adicionales de entrenadores, mentores y estudiantes de GBIF."
 
 #. type: Title ===
 #: colophon.en.adoc:11
@@ -6097,7 +6097,7 @@ msgstr "https://doi.org/10.35035/ce-c6cr-6w42"
 #: colophon.en.adoc:19
 #, no-wrap
 msgid "Document control"
-msgstr "Control de documentos"
+msgstr "Control del documento"
 
 #. type: Plain text
 #: colophon.en.adoc:21
