@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2021-12-06 09:30+0000\n"
-"PO-Revision-Date: 2022-01-11 20:44\n"
+"PO-Revision-Date: 2022-01-12 14:24\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -4148,27 +4148,27 @@ msgstr "Los voluntarios de la Sociedad Ornitológica de Copenhague han recopilad
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:149
 msgid "Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography.  Since all the observations were made in Denmark, continent and country can easily be added.  Additionally, only the scientific name was provided.  Higher taxonomy can be derived utilizing software tools such as OpenRefine.  You are also aware that there are typographic errors that were made by the digitizers."
-msgstr "A través de la georreferenciación retrospectiva, se agregaron coordenadas al conjunto de datos junto con la localidad, pero ninguna otra geografía superior. Dado que todas las observaciones se realizaron en Dinamarca, el continente y el país se pueden agregar fácilmente. Además, solo se proporcionó el nombre científico. Se puede obtener una taxonomía más alta utilizando herramientas de software como OpenRefine. También es consciente de que los digitalizadores cometieron errores tipográficos."
+msgstr "A través de la georreferenciación retrospectiva, se han agregado coordenadas al conjunto de datos junto con la localidad, pero no otra geografía superior. Dado que todas las observaciones se realizaron en Dinamarca, el continente y el país se pueden agregar fácilmente. Además, solo se proporcionó el nombre científico. Se puede obtener una taxonomía más alta utilizando herramientas de software como OpenRefine. Usted además es consciente de que hay errores tipográficos cometidos por los digitalizadores."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
 msgid "Download link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
-msgstr "Enlace de link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
+msgstr "Descargue link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
 msgid "Identify and correct any invalid years."
-msgstr "Identificar y corregir cualquier año inválido."
+msgstr "Identifique y corrija cualquier año inválido."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:153
 msgid "Verify and correct taxonomy."
-msgstr "Verificar y corregir la taxonomía."
+msgstr "Verifique y corrija la taxonomía."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:156
 msgid "Verify coordinates are correct for the two given localities.  Correct any that are not.  Coordinates should be in decimal format."
-msgstr "Verifique que las coordenadas sean correctas para las dos localidades dadas. Corrija las que no lo sean. Las coordenadas deben estar en formato decimal."
+msgstr "Verifique que las coordenadas son correctas para las dos localidades dadas.  Corrija las que no lo sean.  Las coordenadas deben estar en formato decimal."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:157
@@ -4183,28 +4183,28 @@ msgstr "Recuerde conservar la información original proporcionada y documentar s
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:161
 msgid "dataset should contain only years 1883-1939"
-msgstr "el conjunto de datos debe contener sólo años entre 1883-1939"
+msgstr "el conjunto de datos debe contener sólo los años 1883-1939"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:169
 msgid "For this exercise, you will take the role of the person responsible for publishing the cleaned data online via the GBIF network.  You have been supplied with a multimedia file and an identification history file that should be published along with the observations.  The staff member in charge of data quality has provided cleaned datasets for you to publish."
-msgstr "Para este ejercicio, asumirá el rol de la persona responsable de publicar los datos limpios en línea a través de la red GBIF. Se le ha proporcionado un archivo multimedia y un archivo histórico de identificación que debe publicarse junto con las observaciones. El miembro del personal a cargo de la calidad de los datos, le ha proporcionado conjuntos de datos limpios para que los publique."
+msgstr "Para este ejercicio, asumirá el rol de la persona responsable de publicar los datos limpios en línea a través de la red GBIF. Se le ha proporcionado un archivo multimedia y un archivo histórico de identificación que debe publicarse junto con las observaciones. El miembro del personal a cargo de la calidad de los datos le ha proporcionado conjuntos de datos limpios para que los publique."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:171
 msgid "Download link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
-msgstr "Enlace de link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
+msgstr "Descargue link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
 
 #. type: Title ==
 #: assignments.en.adoc:1
 #, no-wrap
 msgid "Final assignments"
-msgstr "Asignaciones finales"
+msgstr "Proyectos finales"
 
 #. type: Plain text
 #: assignments.en.adoc:5
 msgid "For your final activities, you will complete and submit Use Case II and Use Case III for evaluation."
-msgstr "Para sus actividades finales, completará y enviará el Caso de Uso II y el Caso de Uso III para su evaluación."
+msgstr "Para sus actividades finales, completará y enviará el Caso de uso II y el Caso de uso III para su evaluación."
 
 #. type: Title ===
 #: assignments.en.adoc:6
@@ -4215,17 +4215,17 @@ msgstr "CASO DE USO II"
 #. type: Plain text
 #: assignments.en.adoc:9
 msgid "There are two options for USE CASE II (<<use-case-ii-invasive-species,Invasive species>> OR <<use-case-ii-lepidoptera-sightings,Lepidoptera sightings>>).  You only need to select one of them for your assignment."
-msgstr "Hay dos opciones para el CASO DE USO II (<<caso-de-uso-ii-especies-invasoras,Especies invasoras>> OR <<caso-de-uso-ii-avistamiento-de-lepidópteros,Muestreo de Lepidoptera>>). Solo necesita seleccionar uno de ellos para su tarea."
+msgstr "Hay dos opciones para el CASO DE USO II (<<caso-de-uso-ii-especies-invasoras,Especies invasoras>> o <<caso-de-uso-ii-avistamiento-de-lepidópteros,Muestreo de Lepidoptera>>). Solo necesita seleccionar uno de ellos como su proyecto."
 
 #. type: Plain text
 #: assignments.en.adoc:11 assignments.en.adoc:20
 msgid "Required files for submission:"
-msgstr "Archivos requeridos para su envío:"
+msgstr "Archivos requeridos para el envío:"
 
 #. type: Plain text
 #: assignments.en.adoc:13 assignments.en.adoc:22
 msgid "completed exercise sheet (MS Word Doc or similar is acceptable)"
-msgstr "hoja completa del ejercicio (documento de MS Word o similar es aceptable)"
+msgstr "hoja de ejercicios completa (se acepta documento de MS Word o similar)"
 
 #. type: Plain text
 #: assignments.en.adoc:14 assignments.en.adoc:23
