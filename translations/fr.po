@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2022-06-20 09:09+0000\n"
-"PO-Revision-Date: 2022-06-20 10:12\n"
+"POT-Creation-Date: 2022-08-05 13:46+0000\n"
+"PO-Revision-Date: 2022-08-05 16:01\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1109,7 +1109,7 @@ msgid "Foundations review"
 msgstr "Compte-rendu des fondations"
 
 #. type: Plain text
-#: foundations.en.adoc:484 planning.en.adoc:132 capture.en.adoc:63
+#: foundations.en.adoc:484 planning.en.adoc:134 capture.en.adoc:63
 #: management.en.adoc:150 publishing.en.adoc:61
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr "Passez un quiz sur les concepts que vous avez appris dans cette section."
@@ -1651,7 +1651,7 @@ msgstr "VERT : https://playingcards.io/m53by6[^]"
 #. type: Plain text
 #: planning.en.adoc:63
 msgid "PURPLE: https://playingcards.io/y4h6ky[^]"
-msgstr ""
+msgstr "VIOLET : https://playingcards.io/y4h6ky[^]"
 
 #. type: Plain text
 #: planning.en.adoc:65
@@ -1661,194 +1661,199 @@ msgstr "ROUGE : https://playingcards.io/vbtkgd[^]"
 #. type: Plain text
 #: planning.en.adoc:67
 msgid "YELLOW: https://playingcards.io/m6j9sk[^]"
-msgstr ""
+msgstr "JAUNE : https://playingcards.io/m6j9sk[^]"
 
 #. type: Plain text
 #: planning.en.adoc:69
+msgid "ORANGE: https://playingcards.io/868jgh[^]"
+msgstr "ORANGE : https://playingcards.io/868jgh[^]"
+
+#. type: Plain text
+#: planning.en.adoc:71
 msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
 msgstr "Un grand merci à Jwalant Patel et Eric Ma pour avoir trouvé et aidé à créer les tables de jeu en ligne pour cet exercice et à Kate Webbink pour son expertise artistique. La plateforme de table de jeu en ligne est fournie par https://playingcards.io/."
 
 #. type: Title ====
-#: planning.en.adoc:70 use-case-invasive-species.en.adoc:72
+#: planning.en.adoc:72 use-case-invasive-species.en.adoc:72
 #: use-case-lepidoptera-sampling.en.adoc:92
 #, no-wrap
 msgid "Exercise 1a"
 msgstr "Exercice 1a"
 
 #. type: Plain text
-#: planning.en.adoc:72 capture.en.adoc:47 management.en.adoc:28
+#: planning.en.adoc:74 capture.en.adoc:47 management.en.adoc:28
 #: publishing.en.adoc:46
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
 msgstr "Lire le <<scénario,Cas Pratique I>> (si vous ne l'avez pas déjà fait)."
 
 #. type: Plain text
-#: planning.en.adoc:76
+#: planning.en.adoc:78
 msgid "Using the cards select the goals that mostly closely match those the project outlines and then choose the tasks that would need to be carried out to complete them.  Next, identify the people/resources that the project has available to it and assign role cards to them as appropriate.  Lastly, assign these to their stakeholder groups and affiliations."
 msgstr "En utilisant les cartes, sélectionnez les objectifs qui correspondent le plus aux grandes lignes du projet et choisissez ensuite les tâches qui doivent être réalisées pour les accomplir. Ensuite, identifiez les personnes/ressources dont le projet dispose et assignez-leur des cartes de rôles, le cas échéant. Enfin, attribuez-les à leurs groupes d'intervenants et à leurs affiliations."
 
 #. type: Plain text
-#: planning.en.adoc:78
+#: planning.en.adoc:80
 msgid "Review the GOALS cards with the group, select and lay out the ones that fit the use case."
 msgstr "Examinez les cartes GOALS avec le groupe, choisissez et disposez celles qui correspondent au cas d'utilisation."
 
 #. type: Plain text
-#: planning.en.adoc:79
+#: planning.en.adoc:81
 msgid "Review the TASK cards with the group."
 msgstr "Examinez les cartes TASK avec le groupe."
 
 #. type: Plain text
-#: planning.en.adoc:80
+#: planning.en.adoc:82
 msgid "Assign the TASK cards to each of the GOAL cards selected from the use case description."
 msgstr "Attribuez les cartes TASK à chacune des cartes GOAL sélectionnées à partir de la description du cas d'utilisation."
 
 #. type: Plain text
-#: planning.en.adoc:81
+#: planning.en.adoc:83
 msgid "Identify the institutions and people mentioned in the use case text and make note of them."
 msgstr "Identifiez les institutions et les personnes mentionnées dans le texte du cas d'utilisation et en prendre note."
 
 #. type: Plain text
-#: planning.en.adoc:82
+#: planning.en.adoc:84
 msgid "Lay out the AFFILIATIONS cards on the table."
 msgstr "Déposez les cartes AFFILIATIONS sur la table."
 
 #. type: Plain text
-#: planning.en.adoc:83
+#: planning.en.adoc:85
 msgid "Review the STAKEHOLDER cards, identify any mentioned in the use case and then decide which AFFILIATION they belong to."
 msgstr "Examinez les cartes STAKEHOLDER, identifiez celles mentionnées dans le cas d'utilisation et décidez ensuite à quelle AFFILIATION elles appartiennent."
 
 #. type: Plain text
-#: planning.en.adoc:84
+#: planning.en.adoc:86
 msgid "Review the ROLE cards, identify any mentioned in the use case and decide which STAKEHOLDER group they belong to."
 msgstr "Examinez les cartes ROLE, identifiez celles mentionnées dans le cas d'utilisation et décidez à quel groupe de STAKEHOLDER elles appartiennent."
 
 #. type: Plain text
-#: planning.en.adoc:85
+#: planning.en.adoc:87
 msgid "Make notes to cards as appropriate."
 msgstr "Prenez des notes sur les cartes si nécessaire."
 
 #. type: Plain text
-#: planning.en.adoc:86
+#: planning.en.adoc:88
 msgid "Once the cards are assigned take pictures/screenshots."
 msgstr "Une fois que les cartes sont disposées, prenez des photos/captures d'écran."
 
 #. type: Plain text
-#: planning.en.adoc:87
+#: planning.en.adoc:89
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
 msgstr "Utilisez <<feuille-dexercice,le fichier d'exercice>> pour donner vos réponses."
 
 #. type: delimited block *
-#: planning.en.adoc:90
+#: planning.en.adoc:92
 #, no-wrap
 msgid "*Question*\n"
 msgstr "*Question*\n"
 
 #. type: delimited block *
-#: planning.en.adoc:92
+#: planning.en.adoc:94
 msgid "Are there resources or goals missing from the cards that you feel are critical to the successful completion of the project? Note these on the answer sheet."
 msgstr "Y a-t-il des ressources ou des objectifs manquants dans les cartes que vous estimez essentiels à la réussite du projet ? Notez-les sur la feuille de réponses."
 
 #. type: Title ====
-#: planning.en.adoc:94 use-case-invasive-species.en.adoc:91
+#: planning.en.adoc:96 use-case-invasive-species.en.adoc:91
 #: use-case-lepidoptera-sampling.en.adoc:107
 #, no-wrap
 msgid "Exercise 1b"
 msgstr "Exercice 1b"
 
 #. type: Plain text
-#: planning.en.adoc:97
+#: planning.en.adoc:99
 msgid "Using the stakeholder and goal analysis from exercise 1a, develop a workflow using the STAGE cards."
 msgstr "En utilisant l'analyse des parties prenantes (stakeholders) et des objectifs (goals) de l'exercice 1a, créez un processus en utilisant les cartes STAGE."
 
 #. type: Plain text
-#: planning.en.adoc:99
+#: planning.en.adoc:101
 msgid "Re-read the use case introduction, if necessary."
 msgstr "Lisez à nouveau l'introduction du cas d'utilisation, si nécessaire."
 
 #. type: Plain text
-#: planning.en.adoc:100
+#: planning.en.adoc:102
 msgid "Decide which TASKS for which each ROLE will be responsible."
 msgstr "Décidez de quelles TASKS sera responsable chaque ROLE."
 
 #. type: Plain text
-#: planning.en.adoc:101
+#: planning.en.adoc:103
 msgid "Review the STAGE cards and order the TASKS appropriately."
 msgstr "Passez en revue les cartes STAGE et ordonnez les TASKS de façon appropriée."
 
 #. type: Plain text
-#: planning.en.adoc:102 capture.en.adoc:56 management.en.adoc:44
+#: planning.en.adoc:104 capture.en.adoc:56 management.en.adoc:44
 #: management.en.adoc:70 management.en.adoc:87 publishing.en.adoc:56
 msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr "Utilisez la feuille d'exercice téléchargée précédemment pour donner vos réponses."
 
 #. type: delimited block *
-#: planning.en.adoc:105
+#: planning.en.adoc:107
 #, no-wrap
 msgid "*Questions*   \n"
 msgstr "*Questions*   \n"
 
 #. type: delimited block *
-#: planning.en.adoc:108
+#: planning.en.adoc:110
 msgid "Are there obvious bottlenecks in the workflow? For example: Are there too many tasks for a particular role/resource?"
 msgstr "Existe-t-il des goulets d'étranglement évidents dans le processus ? Par exemple : y a-t-il trop de tâches pour un rôle ou une ressource en particulier ?"
 
 #. type: delimited block *
-#: planning.en.adoc:110
+#: planning.en.adoc:112
 msgid "What issues do you think would be important to the successful mobilization of data from the points of view of each stakeholder/role? For example: What are the deliverables? Thinking about the general project timeframe, are they realistic?"
 msgstr "Selon vous, quelles questions sont importantes pour réussir la mobilisation des données du point de vue de chaque intervenant/rôle ? Par exemple : Quels sont les livrables ? Sont-ils réalistes, en prenant en considération le cadre temporel du projet ?"
 
 #. type: delimited block *
-#: planning.en.adoc:111
+#: planning.en.adoc:113
 msgid "Consolidate notes and prioritize in order of importance."
 msgstr "Reprenez vos notes et priorisez par ordre d'importance."
 
 #. type: delimited block *
-#: planning.en.adoc:112
+#: planning.en.adoc:114
 msgid "If you have time you can explore different combinations as different scenarios are possible in different contexts or even try to document the situation for your own project."
 msgstr "Si vous avez le temps, vous pouvez explorer différentes combinaisons car différents scénarios sont possibles dans différents contextes, ou même essayez de décrire la situation pour votre propre projet."
 
 #. type: Title ====
-#: planning.en.adoc:114
+#: planning.en.adoc:116
 #, no-wrap
 msgid "Exercise 1c"
 msgstr "Exercice 1c"
 
 #. type: Plain text
-#: planning.en.adoc:117
+#: planning.en.adoc:119
 msgid "This exercise should be used when the course is taught virtually or onsite as a group activity."
 msgstr "Cet exercice devrait être utilisé lorsque le cours est enseigné en ligne, ou sur place en tant qu'activité de groupe."
 
 #. type: Plain text
-#: planning.en.adoc:119
+#: planning.en.adoc:121
 msgid "After the exercises the presenter of each group will:"
 msgstr "Après les exercices, le présentateur de chaque groupe devra :"
 
 #. type: Plain text
-#: planning.en.adoc:121
+#: planning.en.adoc:123
 msgid "Present any missing stakeholders and/or tasks saying why they were added."
 msgstr "Présenter les parties prenantes (STAKEHOLDERS) ou les tâches (TASKS) manquantes, en expliquant pourquoi elles ont été ajoutées."
 
 #. type: Plain text
-#: planning.en.adoc:122
+#: planning.en.adoc:124
 msgid "Highlight the two most critical issues/topics that the group has identified."
 msgstr "Mettre en évidence les deux questions/sujets les plus critiques identifiés par le groupe."
 
 #. type: Plain text
-#: planning.en.adoc:124
+#: planning.en.adoc:126
 msgid "Potential discussion points across groups:"
 msgstr "Points de discussion potentiels entre les groupes :"
 
 #. type: Plain text
-#: planning.en.adoc:126
+#: planning.en.adoc:128
 msgid "What similarities and differences can be seen in the flows?"
 msgstr "Quelles similitudes et différences peuvent être observées dans les processus ?"
 
 #. type: Plain text
-#: planning.en.adoc:127
+#: planning.en.adoc:129
 msgid "Were there common issues that came up across the groups?"
 msgstr "Y avait-il des problèmes communs qui se sont présentés au sein des groupes ?"
 
 #. type: Title ===
-#: planning.en.adoc:128 capture.en.adoc:59 management.en.adoc:146
+#: planning.en.adoc:130 capture.en.adoc:59 management.en.adoc:146
 #: publishing.en.adoc:57
 #, no-wrap
 msgid "Review"
@@ -1859,12 +1864,12 @@ msgstr "Compte-rendu"
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: planning.en.adoc:140
+#: planning.en.adoc:142
 msgid "What is the order of the five PMBoK Process Groupings?"
 msgstr "Quel est l'ordre des cinq regroupements de processus PMBoK ?"
 
 #. type: delimited block .
-#: planning.en.adoc:148
+#: planning.en.adoc:150
 #, no-wrap
 msgid "- [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closing\n"
 "- [x] Initiating, Planning, Executing, Monitoring and Controlling, Closing\n"
@@ -1877,12 +1882,12 @@ msgstr "- [ ] Planification, Initiation, Surveillance et Contrôle, Exécution, 
 
 #.  Question 2
 #. type: Plain text
-#: planning.en.adoc:151
+#: planning.en.adoc:153
 msgid "What are the types of deliverables? (multiple correct answers)"
 msgstr "Quels sont les types d'éléments à livrer ? (plusieurs réponses correctes)"
 
 #. type: delimited block .
-#: planning.en.adoc:160
+#: planning.en.adoc:162
 #, no-wrap
 msgid "- [x] Stated\n"
 "- [x] Implied\n"
@@ -1899,12 +1904,12 @@ msgstr "- [x] Déterminé\n"
 
 #.  Question 3
 #. type: Plain text
-#: planning.en.adoc:163
+#: planning.en.adoc:165
 msgid "What is a bottleneck?"
 msgstr "Qu'est-ce qu'un goulot d'étranglement ?"
 
 #. type: delimited block .
-#: planning.en.adoc:169
+#: planning.en.adoc:171
 #, no-wrap
 msgid "- [x] a blockage that delays development or progress\n"
 "- [ ] a space where something or someone is missing\n"
@@ -1915,12 +1920,12 @@ msgstr "- [x] un blocage qui retarde le développement ou le progrès\n"
 
 #.  Question 4
 #. type: Plain text
-#: planning.en.adoc:172
+#: planning.en.adoc:174
 msgid "Which are examples of mobilization tasks? (multiple correct answers)"
 msgstr "Quels sont les exemples de tâches de mobilisation ? (Plusieurs réponses correctes)"
 
 #. type: delimited block .
-#: planning.en.adoc:180
+#: planning.en.adoc:182
 #, no-wrap
 msgid "- [ ] Affiliation\n"
 "- [x] Publishing\n"

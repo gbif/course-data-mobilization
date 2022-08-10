@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2022-06-20 09:09+0000\n"
-"PO-Revision-Date: 2022-06-20 10:12\n"
+"POT-Creation-Date: 2022-08-05 13:46+0000\n"
+"PO-Revision-Date: 2022-08-05 14:47\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -1102,7 +1102,7 @@ msgid "Foundations review"
 msgstr ""
 
 #. type: Plain text
-#: foundations.en.adoc:484 planning.en.adoc:132 capture.en.adoc:63
+#: foundations.en.adoc:484 planning.en.adoc:134 capture.en.adoc:63
 #: management.en.adoc:150 publishing.en.adoc:61
 msgid "Quiz yourself on the concepts learned in this section."
 msgstr ""
@@ -1590,190 +1590,195 @@ msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:69
+msgid "ORANGE: https://playingcards.io/868jgh[^]"
+msgstr ""
+
+#. type: Plain text
+#: planning.en.adoc:71
 msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
 msgstr ""
 
 #. type: Title ====
-#: planning.en.adoc:70 use-case-invasive-species.en.adoc:72
+#: planning.en.adoc:72 use-case-invasive-species.en.adoc:72
 #: use-case-lepidoptera-sampling.en.adoc:92
 #, no-wrap
 msgid "Exercise 1a"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:72 capture.en.adoc:47 management.en.adoc:28
+#: planning.en.adoc:74 capture.en.adoc:47 management.en.adoc:28
 #: publishing.en.adoc:46
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:76
+#: planning.en.adoc:78
 msgid "Using the cards select the goals that mostly closely match those the project outlines and then choose the tasks that would need to be carried out to complete them.  Next, identify the people/resources that the project has available to it and assign role cards to them as appropriate.  Lastly, assign these to their stakeholder groups and affiliations."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:78
+#: planning.en.adoc:80
 msgid "Review the GOALS cards with the group, select and lay out the ones that fit the use case."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:79
+#: planning.en.adoc:81
 msgid "Review the TASK cards with the group."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:80
+#: planning.en.adoc:82
 msgid "Assign the TASK cards to each of the GOAL cards selected from the use case description."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:81
+#: planning.en.adoc:83
 msgid "Identify the institutions and people mentioned in the use case text and make note of them."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:82
+#: planning.en.adoc:84
 msgid "Lay out the AFFILIATIONS cards on the table."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:83
+#: planning.en.adoc:85
 msgid "Review the STAKEHOLDER cards, identify any mentioned in the use case and then decide which AFFILIATION they belong to."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:84
+#: planning.en.adoc:86
 msgid "Review the ROLE cards, identify any mentioned in the use case and decide which STAKEHOLDER group they belong to."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:85
+#: planning.en.adoc:87
 msgid "Make notes to cards as appropriate."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:86
+#: planning.en.adoc:88
 msgid "Once the cards are assigned take pictures/screenshots."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:87
+#: planning.en.adoc:89
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:90
+#: planning.en.adoc:92
 #, no-wrap
 msgid "*Question*\n"
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:92
+#: planning.en.adoc:94
 msgid "Are there resources or goals missing from the cards that you feel are critical to the successful completion of the project? Note these on the answer sheet."
 msgstr ""
 
 #. type: Title ====
-#: planning.en.adoc:94 use-case-invasive-species.en.adoc:91
+#: planning.en.adoc:96 use-case-invasive-species.en.adoc:91
 #: use-case-lepidoptera-sampling.en.adoc:107
 #, no-wrap
 msgid "Exercise 1b"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:97
+#: planning.en.adoc:99
 msgid "Using the stakeholder and goal analysis from exercise 1a, develop a workflow using the STAGE cards."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:99
+#: planning.en.adoc:101
 msgid "Re-read the use case introduction, if necessary."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:100
+#: planning.en.adoc:102
 msgid "Decide which TASKS for which each ROLE will be responsible."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:101
+#: planning.en.adoc:103
 msgid "Review the STAGE cards and order the TASKS appropriately."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:102 capture.en.adoc:56 management.en.adoc:44
+#: planning.en.adoc:104 capture.en.adoc:56 management.en.adoc:44
 #: management.en.adoc:70 management.en.adoc:87 publishing.en.adoc:56
 msgid "Use the previously downloaded exercise sheet to provide your answers."
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:105
+#: planning.en.adoc:107
 #, no-wrap
 msgid "*Questions*   \n"
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:108
+#: planning.en.adoc:110
 msgid "Are there obvious bottlenecks in the workflow? For example: Are there too many tasks for a particular role/resource?"
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:110
+#: planning.en.adoc:112
 msgid "What issues do you think would be important to the successful mobilization of data from the points of view of each stakeholder/role? For example: What are the deliverables? Thinking about the general project timeframe, are they realistic?"
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:111
+#: planning.en.adoc:113
 msgid "Consolidate notes and prioritize in order of importance."
 msgstr ""
 
 #. type: delimited block *
-#: planning.en.adoc:112
+#: planning.en.adoc:114
 msgid "If you have time you can explore different combinations as different scenarios are possible in different contexts or even try to document the situation for your own project."
 msgstr ""
 
 #. type: Title ====
-#: planning.en.adoc:114
+#: planning.en.adoc:116
 #, no-wrap
 msgid "Exercise 1c"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:117
+#: planning.en.adoc:119
 msgid "This exercise should be used when the course is taught virtually or onsite as a group activity."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:119
+#: planning.en.adoc:121
 msgid "After the exercises the presenter of each group will:"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:121
+#: planning.en.adoc:123
 msgid "Present any missing stakeholders and/or tasks saying why they were added."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:122
+#: planning.en.adoc:124
 msgid "Highlight the two most critical issues/topics that the group has identified."
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:124
+#: planning.en.adoc:126
 msgid "Potential discussion points across groups:"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:126
+#: planning.en.adoc:128
 msgid "What similarities and differences can be seen in the flows?"
 msgstr ""
 
 #. type: Plain text
-#: planning.en.adoc:127
+#: planning.en.adoc:129
 msgid "Were there common issues that came up across the groups?"
 msgstr ""
 
 #. type: Title ===
-#: planning.en.adoc:128 capture.en.adoc:59 management.en.adoc:146
+#: planning.en.adoc:130 capture.en.adoc:59 management.en.adoc:146
 #: publishing.en.adoc:57
 #, no-wrap
 msgid "Review"
@@ -1784,12 +1789,12 @@ msgstr ""
 #.  The + connects the question into the numbered list item, see https://docs.asciidoctor.org/asciidoc/latest/lists/continuation/
 #.  Question 1
 #. type: delimited block *
-#: planning.en.adoc:140
+#: planning.en.adoc:142
 msgid "What is the order of the five PMBoK Process Groupings?"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:148
+#: planning.en.adoc:150
 #, no-wrap
 msgid "- [ ] Planning, Initiating, Monitoring and Controlling, Executing, Closing\n"
 "- [x] Initiating, Planning, Executing, Monitoring and Controlling, Closing\n"
@@ -1799,12 +1804,12 @@ msgstr ""
 
 #.  Question 2
 #. type: Plain text
-#: planning.en.adoc:151
+#: planning.en.adoc:153
 msgid "What are the types of deliverables? (multiple correct answers)"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:160
+#: planning.en.adoc:162
 #, no-wrap
 msgid "- [x] Stated\n"
 "- [x] Implied\n"
@@ -1816,12 +1821,12 @@ msgstr ""
 
 #.  Question 3
 #. type: Plain text
-#: planning.en.adoc:163
+#: planning.en.adoc:165
 msgid "What is a bottleneck?"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:169
+#: planning.en.adoc:171
 #, no-wrap
 msgid "- [x] a blockage that delays development or progress\n"
 "- [ ] a space where something or someone is missing\n"
@@ -1830,12 +1835,12 @@ msgstr ""
 
 #.  Question 4
 #. type: Plain text
-#: planning.en.adoc:172
+#: planning.en.adoc:174
 msgid "Which are examples of mobilization tasks? (multiple correct answers)"
 msgstr ""
 
 #. type: delimited block .
-#: planning.en.adoc:180
+#: planning.en.adoc:182
 #, no-wrap
 msgid "- [ ] Affiliation\n"
 "- [x] Publishing\n"
