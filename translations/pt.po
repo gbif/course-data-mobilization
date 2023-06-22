@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2023-01-11 10:38+0000\n"
-"PO-Revision-Date: 2023-06-22 10:38\n"
+"POT-Creation-Date: 2023-06-22 10:48+0000\n"
+"PO-Revision-Date: 2023-06-22 12:18\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -4347,18 +4347,24 @@ msgstr "https://www.gbif.org/become-a-publisher[Torne-se um publicador de dados 
 
 #. type: Plain text
 #: keydocs.en.adoc:21
-msgid "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^] + GBIF Secretariat & IAIA: International Association for Impact Assessment (2020)."
-msgstr "https://doi.org/10.35035/doc-5xdm-8762[Melhores Práticas para a Publicação de Dados de Biodiversidade de Avaliações de Impacto Ambiental^] + Secretariado GBIF & IAIA: Associação Internacional para Avaliação de Impacto (2020)."
+#, no-wrap
+msgid "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^]\n"
+"GBIF Secretariat & IAIA: International Association for Impact Assessment (2020)."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:23
-msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^] + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
-msgstr "https://doi.org/10.35035/doc-b8hq-me03[Guia para empresas privadas tornarem-se publicadores de dados através de GBIF: Documento modelo para apoiar o processo de autorização interno para se tornar um publicador do GBIF + Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezoish, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
+#, no-wrap
+msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^]\n"
+"Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:25
-msgid "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] + Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
-msgstr "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^] + Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
+#, no-wrap
+msgid "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^]\n"
+"Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:26
@@ -4418,8 +4424,10 @@ msgstr "Publicação de dados: IPT"
 
 #. type: Plain text
 #: keydocs.en.adoc:40
-msgid "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^] + Robertson et al. (2014)"
-msgstr "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitando a Publicação de Dados de Biodiversidade Eficiente na Internet^] + Robertson et al. (2014)"
+#, no-wrap
+msgid "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^]\n"
+"Robertson et al. (2014)"
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:41
@@ -4505,8 +4513,10 @@ msgstr "https://www.gbif.org/science-review[Science Review^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:62
-msgid "https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^] + GBIF Secretariat (2019)."
-msgstr "https://doi.org/10.15468/doc-z79c-sa53[Estabelecendo um efetivo Nó participante do GBIF: Conceitos e considerações gerais^] + Secretariado do GBIF (2019)."
+#, no-wrap
+msgid "https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^]\n"
+"GBIF Secretariat (2019)."
+msgstr ""
 
 #. type: Title ===
 #: keydocs.en.adoc:63
@@ -4516,18 +4526,24 @@ msgstr "Georreferenciação"
 
 #. type: Plain text
 #: keydocs.en.adoc:67
-msgid "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^] + Arthur D. Chapman & John R. Wieczorek (2020)."
-msgstr "https://doi.org/10.15468/doc-gg7h-s853[Melhores Práticas de georeferenciação^] + Arthur D. Capítulo e John R. Wieczorek (2020)."
+#, no-wrap
+msgid "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^]\n"
+"Arthur D. Chapman & John R. Wieczorek (2020)."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:69
-msgid "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
-msgstr "https://doi.org/10.35035/e09p-h128[Guia rápido de georeferenciação^] + Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna e David A. Bloom (2020)."
+#, no-wrap
+msgid "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^]\n"
+"Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:71
-msgid "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
-msgstr "https://doi.org/10.35035/gdwq-3v93[Manual de cálculo de georeferenciação^] + David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
+#, no-wrap
+msgid "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^]\n"
+"David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:72
@@ -4600,43 +4616,59 @@ msgstr "https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expr
 
 #. type: Plain text
 #: keydocs.en.adoc:94
-msgid "https://doi.org/10.15468/doc-gzjg-af18[Guía para la limpieza de datos sobre biodiversidad con OpenRefine^] + Paula F. Zermoglio, Camila A. Plata Corredor, John R. Wieczorek, Ricardo Ortiz Gallego & Leonardo Buitrago (2021)."
-msgstr "https://doi.org/10.15468/doc-gzjg-af18[Guía para la limpieza de datos sobre biodiversidad con OpenRefine^] + Paula F. Zermoglio, Camila A. Plata Corredor, John R. Wieczorek, Ricardo Ortiz Gallego & Leonardo Buitrago (2021)."
+#, no-wrap
+msgid "https://doi.org/10.15468/doc-gzjg-af18[Guía para la limpieza de datos sobre biodiversidad con OpenRefine^]\n"
+"Paula F. Zermoglio, Camila A. Plata Corredor, John R. Wieczorek, Ricardo Ortiz Gallego & Leonardo Buitrago (2021)."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:97
-msgid "http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html[Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data^] + iPhylo blog post. Rod Page 2012."
-msgstr "http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html[Usando o Google Refine e bancos de dados taxonómicos (EOL, NCBI, uBio, WORMS) para limpar dados desorganizados^] + + iPhylo blog post. Rod Page 2012."
+#, no-wrap
+msgid "http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html[Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data^]\n"
+"iPhylo blog post. Rod Page 2012."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:99
-msgid "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^] + iPhylo blog post. Rod Page 2013."
-msgstr "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^] + iPhylo blog post. Rod Page 2013."
+#, no-wrap
+msgid "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^]\n"
+"iPhylo blog post. Rod Page 2013."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:101
-msgid "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^] + Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
-msgstr "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^] + Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
+#, no-wrap
+msgid "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^]\n"
+"Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:103
-msgid "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^] + iDigBio 2013."
-msgstr "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^] + iDigBio 2013."
+#, no-wrap
+msgid "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^]\n"
+"iDigBio 2013."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:105
-msgid "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^] + Canadensys 2014."
-msgstr "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^] + Canadensys 2014."
+#, no-wrap
+msgid "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^]\n"
+"Canadensys 2014."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:107
-msgid "http://slides.com/dimitribrosens/o-3#/[Cleaning data with OpenRefine^] + Desmet and Brosens 2016 TDWG."
-msgstr "http://slides.com/dimitribrosens/o-3#/[Cleaning data with OpenRefine^] + Desmet and Brosens 2016 TDWG."
+#, no-wrap
+msgid "http://slides.com/dimitribrosens/o-3#/[Cleaning data with OpenRefine^]\n"
+"Desmet and Brosens 2016 TDWG."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:109
-msgid "https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^] + Querying the IUCN Red List, using a species list, OpenRefine, and some pre-written code. Olly Griffin July 2019."
-msgstr "https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^] + Querying the IUCN Red List, using a species list, OpenRefine, and some pre-written code. Olly Griffin July 2019."
+#, no-wrap
+msgid "https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^]\n"
+"Querying the IUCN Red List, using a species list, OpenRefine, and some pre-written code. Olly Griffin July 2019."
+msgstr ""
 
 #. type: Title ===
 #: keydocs.en.adoc:110
@@ -4682,18 +4714,24 @@ msgstr "Qualidade"
 
 #. type: Plain text
 #: keydocs.en.adoc:123
-msgid "https://www.gbif.org/document/80509/principles-of-data-quality[Principles of Data Quality^] + Arthur Chapman 2005."
-msgstr "https://www.gbif.org/document/80509/principles-of-data-quality[Princípios da Qualidade dos Dados^] + Capítulo Arthur 2005."
+#, no-wrap
+msgid "https://www.gbif.org/document/80509/principles-of-data-quality[Principles of Data Quality^]\n"
+"Arthur Chapman 2005."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:125
-msgid "https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data[Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data^] + Arthur Chapman 2005."
-msgstr "https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data[Princípios e Métodos de Limpeza de Dados: Espécies Primárias e Dados de Ocorrência de espécies^] + Arthur Chapman 2005."
+#, no-wrap
+msgid "https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data[Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data^]\n"
+"Arthur Chapman 2005."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:127
-msgid "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^] + DataOne 2014."
-msgstr "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Tenha cuidado com as datas no Excel^] + DataOne 2014."
+#, no-wrap
+msgid "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^]\n"
+"DataOne 2014."
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:128
@@ -4713,8 +4751,10 @@ msgstr "Espécie sensível"
 
 #. type: Plain text
 #: keydocs.en.adoc:134
-msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^] + Arthur D. Chapman 2020."
-msgstr "https://doi.org/10.15468/doc-5jp4-5g10[Melhores Práticas Actuais para Generalização de Ocorrências de Espécies Sensíveis^] + Arthur D. Capítulo 2020."
+#, no-wrap
+msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]\n"
+"Arthur D. Chapman 2020."
+msgstr ""
 
 #. type: Title ===
 #: keydocs.en.adoc:135
@@ -5050,18 +5090,24 @@ msgstr "Para a afirmação fornecida, insira o termo correcto (base de dados, l�
 
 #. type: Plain text
 #: solutions.en.adoc:13
-msgid "combines and presents functions and features for manipulating data, together in a unified interface + *database program* +"
-msgstr "combina e apresenta funções e recursos para manipular dados, juntos em uma interface unificada + *programa de base de dados* +"
+#, no-wrap
+msgid "combines and presents functions and features for manipulating data, together in a unified interface\n"
+"*database program* +"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:15
-msgid "structured and organized collection of data and/or information held on a computer + *database* +"
-msgstr "coleção de dados estruturada e organizada e/ou informações armazenadas em um computador + *base de dados* +"
+#, no-wrap
+msgid "structured and organized collection of data and/or information held on a computer\n"
+"*database* +"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:17
-msgid "the way by which a human communicates with a computer + *database language* +"
-msgstr "a maneira pela qual um humano se comunica com um computador + *linguagem de base de dados* +"
+#, no-wrap
+msgid "the way by which a human communicates with a computer\n"
+"*database language* +"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:19
@@ -5082,23 +5128,31 @@ msgstr "*Para o software fornecido, insira o tipo de software (captura de dados,
 
 #. type: Plain text
 #: solutions.en.adoc:28
-msgid "Integrated Publishing Toolkit (IPT) + *data publishing*"
-msgstr "Integrated Publishing Toolkit (IPT) + *publicação de dados*"
+#, no-wrap
+msgid "Integrated Publishing Toolkit (IPT)\n"
+"*data publishing*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:30
-msgid "Specify + *data capture* AND *data management*"
-msgstr "Specify + *captura de dados* E *gestão de dados*"
+#, no-wrap
+msgid "Specify\n"
+"*data capture* AND *data management*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:32
-msgid "iNaturalist + *data capture*"
-msgstr "iNaturalist + *captura de dados*"
+#, no-wrap
+msgid "iNaturalist\n"
+"*data capture*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:34
-msgid "OpenRefine + *data cleaning*"
-msgstr "OpenRefine + *limpeza de dados*"
+#, no-wrap
+msgid "OpenRefine\n"
+"*data cleaning*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:36
@@ -5108,38 +5162,52 @@ msgstr "*Para o exemplo dado, insira o tipo de dados correcto (binário, boolean
 
 #. type: Plain text
 #: solutions.en.adoc:39
-msgid "1236975 + *long integer*"
-msgstr "1236975 + *inteiro longo*"
+#, no-wrap
+msgid "1236975\n"
+"*long integer*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:41
-msgid "01101111 + *binary*"
-msgstr "01101111 + *binário*"
+#, no-wrap
+msgid "01101111\n"
+"*binary*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:43
-msgid "We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. + *unstructured text*"
-msgstr "Caminhamos 5 milhas pelo caminho a oeste desde a estação dos correios no centro da cidade. Depois, seguimos 2 milhas a norte num caminho de terra até o rio. Em seguida, continuamos a oeste ao longo do rio por mais 5 milhas. + *texto não estruturado*"
+#, no-wrap
+msgid "We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles.\n"
+"*unstructured text*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:45
-msgid "1024 + *integer*"
-msgstr "1024 + *integer*"
+#, no-wrap
+msgid "1024\n"
+"*integer*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:47
-msgid "29.0 + *float*"
-msgstr "29,0 + *float*"
+#, no-wrap
+msgid "29.0\n"
+"*float*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:49
-msgid "Yes/No + *boolean*"
-msgstr "Sim/Não + *booleano*"
+#, no-wrap
+msgid "Yes/No\n"
+"*boolean*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:51
-msgid "6 rabbits were observed + *text*"
-msgstr "6 coelhos foram observados + *texto*"
+#, no-wrap
+msgid "6 rabbits were observed\n"
+"*text*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:53
@@ -5191,18 +5259,24 @@ msgstr "Para cada afirmação, insira a estrutura correta (linha, coluna, tabela
 
 #. type: Plain text
 #: solutions.en.adoc:68
-msgid "All data refers to a SINGLE concept. + *table*"
-msgstr "Todos os dados se referem a um conceito SINGLE. + *tabela*"
+#, no-wrap
+msgid "All data refers to a SINGLE concept.\n"
+"*table*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:70
-msgid "An attribute has the SAME field/data type for every record. + *column*"
-msgstr "Um atributo tem o mesmo tipo de campo/dado para cada registo. + *coluna*"
+#, no-wrap
+msgid "An attribute has the SAME field/data type for every record.\n"
+"*column*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:72
-msgid "Attributes of a record ALWAYS stay together. + *row*"
-msgstr "Atributos de um registo SEMPRE permanecem juntos. + *linha*"
+#, no-wrap
+msgid "Attributes of a record ALWAYS stay together.\n"
+"*row*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:74
@@ -5225,23 +5299,31 @@ msgstr "*Para as instruções fornecidas, insira a imagem correspondente. (A, B,
 
 #. type: Plain text
 #: solutions.en.adoc:82
-msgid "High accuracy, low precision + *C*"
-msgstr "Alta exatidão, baixa precisão + *C*"
+#, no-wrap
+msgid "High accuracy, low precision\n"
+"*C*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:84
-msgid "Low accuracy, high precision + *B*"
-msgstr "Baixa exatidão, alta precisão + *B*"
+#, no-wrap
+msgid "Low accuracy, high precision\n"
+"*B*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:86
-msgid "High accuracy, high precision + *D*"
-msgstr "Alta exatidão, alta precisão + *D*"
+#, no-wrap
+msgid "High accuracy, high precision\n"
+"*D*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:88
-msgid "Low accuracy, low precision + *A*"
-msgstr "Baixa exatidão, baixa precisão + *A*"
+#, no-wrap
+msgid "Low accuracy, low precision\n"
+"*A*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:90
@@ -5251,33 +5333,45 @@ msgstr "Identifique as relações de dados em que o conjunto de dados B precisa 
 
 #. type: Plain text
 #: solutions.en.adoc:93
-msgid "Collector field exists in both dataset A and B + *1:1*"
-msgstr "O campo de coletor existe em ambos os conjuntos de dados A e B + *1:1*"
+#, no-wrap
+msgid "Collector field exists in both dataset A and B\n"
+"*1:1*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:95
-msgid "Country field only exists in dataset B + *0:1*"
-msgstr "O campo país só existe no conjunto de dados B + *0:1*"
+#, no-wrap
+msgid "Country field only exists in dataset B\n"
+"*0:1*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:97
-msgid "Name field exists in dataset A, but dataset B contains First Name and Last Name fields + *1:∞*"
-msgstr "O campo nome existe no conjunto de dados A, mas o conjunto de dados B contém os campos Primeiro Nome e Sobrenome + *1:∞*"
+#, no-wrap
+msgid "Name field exists in dataset A, but dataset B contains First Name and Last Name fields\n"
+"*1:∞*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:99
-msgid "ID field exists in both dataset A and B + *1:1*"
-msgstr "Campo de ID existe em ambos os conjuntos de dados A e B + *1:1*"
+#, no-wrap
+msgid "ID field exists in both dataset A and B\n"
+"*1:1*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:101
-msgid "Elevation exists in dataset A, but not in dataset B + *1:0*"
-msgstr "Elevação existe no conjunto de dados A, mas não no conjunto de dados B + *1:0*"
+#, no-wrap
+msgid "Elevation exists in dataset A, but not in dataset B\n"
+"*1:0*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:103
-msgid "Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B + *1:∞*"
-msgstr "A data existe no conjunto de dados A, mas o Dia, o Mês e o Ano são campos separados no conjunto de dados B + *1:∞*"
+#, no-wrap
+msgid "Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B\n"
+"*1:∞*"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:105
@@ -5414,13 +5508,17 @@ msgstr "*Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma col
 
 #. type: Plain text
 #: solutions.en.adoc:148
-msgid "occurrence + Most of the time, specimens from collection databases are shared as occurrence data.  Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc.  Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID."
-msgstr "ocorrência + A maioria das vezes, espécimes de bases de dados de colheita são partilhados como dados de ocorrência. Cada ocorrência (espécime ou grupo de espécimes) tem o seu próprio identificador único (às vezes derivado do seu número de catálogo na coleção fonte) e os campos Darwin Core usados para partilhá-los através do GBIF descrevem cada espécime: nome científico, a data em que foi recolhido no campo, quem o recolheu e/ou identificou, onde, etc. Cada coleção pode ter mais do que um espécime de uma mesma espécie, desde que cada espécime seja identificado por um identificador único."
+#, no-wrap
+msgid "occurrence\n"
+"Most of the time, specimens from collection databases are shared as occurrence data. Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc. Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID.  "
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:150
-msgid "checklist + It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr "checklist + Também é possível criar e partilhar uma checklist taxonómica derivada de uma base de dados de coleção; neste caso, é recomendado partilhar a checklist como um conjunto de dados taxonómicos, com a lista de ocorrências (espécimes) associada, usando o Occurrence core como uma extensão do Taxon Core no GBIF IPT."
+#, no-wrap
+msgid "checklist\n"
+"It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:152
@@ -5430,13 +5528,17 @@ msgstr "*Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma lis
 
 #. type: Plain text
 #: solutions.en.adoc:155
-msgid "occurrence + Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
-msgstr "ocorrência + Alguns publicadores de dados partilharão conjuntos de dados de ocorrência provenientes de estudos ou de programas de acompanhamento de espécimes de alguma espécie invasora; quando os dados se concentram em indivíduos, em vez das espécies invasoras, em geral, podem ser partilhados como dados de ocorrência."
+#, no-wrap
+msgid "occurrence\n"
+"Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:157
-msgid "checklist + Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr "checklist + Espécies invasovas podem ser rastreadas e monitorizadas a diferentes escalas (regional, nacional, temático…); uma vez que este tipo de conjunto de dados se concentra mais na espécie e sua distribuição num determinado âmbito geográfico, eles são partilhados principalmente como conjuntos de dados taxonómicos através do GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[ver resultados de pesquisa GRIIS])."
+#, no-wrap
+msgid "checklist\n"
+"Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:159
@@ -5446,13 +5548,17 @@ msgstr "*Qual(ais) o(s) tipo(s) de conjuntos de dados que escolheria para a flor
 
 #. type: Plain text
 #: solutions.en.adoc:162
-msgid "occurrence + Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
-msgstr "ocorrência + Os dados são registados pelos naturalistas no campo e podem ser partilhados como conjuntos de dados de ocorrência simples."
+#, no-wrap
+msgid "occurrence\n"
+"Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:164
-msgid "sampling event + They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr "evento de amostragem + Eles também podem ser partilhados como conjuntos de dados de eventos se houver protocolos padronizados (como pontos de vegetação, transectos, armadilhas…) para colher os dados."
+#, no-wrap
+msgid "sampling event\n"
+"They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:166
@@ -5462,8 +5568,10 @@ msgstr "*Qual(ais) o(s) tipo(s) de conjuntos de dados que escolheria para os dad
 
 #. type: Plain text
 #: solutions.en.adoc:169
-msgid "occurrence + These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
-msgstr "ocorrência + Estes dados são partilhados como conjuntos de dados de ocorrência: idealmente, cada pássaro é identificado com o seu organismID, e cada ocorrência (GPS ping) tem a sua própria ocorrência, que é útil para rastrear os diferentes locais GPS do mesmo pássaro no âmbito do programa de rastreamento ou projeto. (Veja https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
+#, no-wrap
+msgid "occurrence\n"
+"These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:171
@@ -5473,13 +5581,17 @@ msgstr "*Qual(ais) o(s) tipo(s) de conjuntos de dados que escolheria para dados 
 
 #. type: Plain text
 #: solutions.en.adoc:174
-msgid "occurrence + Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
-msgstr "ocorrência + Embora tais dados possam ser partilhados como conjuntos de dados de ocorrências simples, é melhor se forem partilhados como conjuntos de dados de eventos, onde a localização, identificador e conteúdo de cada armadilha podem ser melhor detalhados."
+#, no-wrap
+msgid "occurrence\n"
+"Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:178
-msgid "sampling event + Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap.  The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr "evento de amostragem + Armadilhas de insectos (bem como outras armadilhas, tais como armadilhas pitfall, armadilhas malaise…) são normalmente usadas em programas de monitorização para verificar a presença (ou ausência) de algumas espécies e/ou avaliar a sua abundância específica. Usar o campo \"eventID\" para identificar cada armadilha permite aos utilizadores obter todos os espécimes colhidos dentro de cada armadilha. A mesma lógica aplica-se a outros protocolos de campo, como transectos, pontos, câmaras remotas, etc. usando o núcleo do Evento (Event core) em vez do núcleo de Ocorrência (Occurrence core), poderá partilhar muito mais informações sobre o contexto da colheita de dados, e permitir que os utilizadores compreendam melhor (e possam até replicar) o seu trabalho."
+#, no-wrap
+msgid "sampling event\n"
+"Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap. The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:180
@@ -5489,18 +5601,24 @@ msgstr "*Qual(ais) o(s) tipo(s) de base de dados você escolheria para a gestão
 
 #. type: Plain text
 #: solutions.en.adoc:183
-msgid "occurrence + record individuals of species"
-msgstr "ocorrência + registo de indivíduos de espécies"
+#, no-wrap
+msgid "occurrence\n"
+"record individuals of species"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:185
-msgid "checklist + It is important to know how many species are present in the park/reserve perimeter and their conservation status."
-msgstr "checklist + É importante saber quantas espécies estão presentes no perímetro do parque/reserva e o seu estado de conservação."
+#, no-wrap
+msgid "checklist\n"
+"It is important to know how many species are present in the park/reserve perimeter and their conservation status."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:187
-msgid "sampling event + check and track the populations"
-msgstr "evento de amostragem + verifique e rastreie as populações"
+#, no-wrap
+msgid "sampling event\n"
+"check and track the populations"
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:189
@@ -5510,13 +5628,17 @@ msgstr "*Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para um biob
 
 #. type: Plain text
 #: solutions.en.adoc:192
-msgid "occurrence + Bioblitz datasets are mainly shared as occurrence datasets."
-msgstr "ocorrência + conjuntos de dados de Bioblitz são partilhados principalmente como conjuntos de dados de ocorrência."
+#, no-wrap
+msgid "occurrence\n"
+"Bioblitz datasets are mainly shared as occurrence datasets."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:194
-msgid "sampling event + Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
-msgstr "evento de amostragem + Dependendo do programa de ciência cidadã, podem ser usados protocolos de amostragem específicos por voluntários, e neste caso, os dados podem ser partilhados como um conjunto de dados do eventos."
+#, no-wrap
+msgid "sampling event\n"
+"Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
+msgstr ""
 
 #. type: Plain text
 #: solutions.en.adoc:196
@@ -5526,8 +5648,10 @@ msgstr "*Qual(ais) o(s) tipo(s) de conjunto de dados que escolheria para uma lis
 
 #. type: Plain text
 #: solutions.en.adoc:200
-msgid "checklist + Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
-msgstr "checklist + Listas de espécies geográficas ou temáticas são frequentemente usadas para partilhar informações sobre as espécies presentes numa determinada área; na maior parte das vezes, essas listas também mencionam a distribuição de cada espécie, bem como o seu estado de conservação nesta área. As listas regionais de espécies podem proporcionar uma visão útil da biodiversidade e dos habitats de uma região, e precisa ser partilhado como conjuntos de dados taxonómicos, com ou sem ocorrências associadas."
+#, no-wrap
+msgid "checklist\n"
+"Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
+msgstr ""
 
 #. type: Title ===
 #: solutions.en.adoc:201
