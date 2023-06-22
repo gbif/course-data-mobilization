@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2022-10-19 07:43+0000\n"
-"PO-Revision-Date: 2022-10-19 19:44\n"
+"POT-Creation-Date: 2023-01-11 10:38+0000\n"
+"PO-Revision-Date: 2023-06-22 10:38\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -755,12 +755,12 @@ msgstr "Conditions requises pour l’installation"
 #. type: delimited block *
 #: foundations.en.adoc:242
 msgid "Linux users only: Java JRE installed."
-msgstr ""
+msgstr "Seulement pour les utilisateurs de Linux : Java JRE installé."
 
 #. type: delimited block *
 #: foundations.en.adoc:243
 msgid "Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet Explorer is not supported."
-msgstr ""
+msgstr "Google Chrome, Microsoft Edge ou Mozilla Firefox installés. Internet Explorer n'est pas pris en charge."
 
 #. type: delimited block *
 #: foundations.en.adoc:245
@@ -776,23 +776,23 @@ msgstr "Installation sur MS Windows"
 #. type: delimited block =
 #: foundations.en.adoc:249 foundations.en.adoc:262
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
-msgstr ""
+msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Kit Windows *with embedded Java*]. Choisissez d'enregistrer le fichier plutôt que de l'ouvrir."
 
 #. type: delimited block *
 #: foundations.en.adoc:250
 msgid "Find the downloaded file.  Right click it, and choose \"Extract all…\". Unzip, and double-click on openrefine.exe or refine.bat if the former does not work."
-msgstr ""
+msgstr "Trouvez le fichier téléchargé. Faites un clic droit dessus et choisissez \"Extract all…\". Dézippez, et double-cliquez sur openrefine.exe ou refine.bat si le premier ne fonctionne pas."
 
 #. type: delimited block *
 #: foundations.en.adoc:251
 msgid "A command window will appear (don't close it) and soon after a new web browser window will show the application."
-msgstr ""
+msgstr "Une fenêtre de commande apparaîtra (ne la fermez pas) et aussitôt, une nouvelle fenêtre de navigateur Web affichera l'application."
 
 #. type: Block title
 #: foundations.en.adoc:252
 #, no-wrap
 msgid "Detailed instructions for MS Windows (click to expand)"
-msgstr ""
+msgstr "Instructions détaillées pour MS Windows (cliquez pour développer)"
 
 #. type: delimited block =
 #: foundations.en.adoc:256 foundations.en.adoc:265 foundations.en.adoc:274
@@ -804,57 +804,57 @@ msgstr ""
 #: foundations.en.adoc:444 foundations.en.adoc:453 foundations.en.adoc:462
 #: foundations.en.adoc:471
 msgid "{blank}"
-msgstr ""
+msgstr "{blank}"
 
 #. type: Target for macro image
 #: foundations.en.adoc:260
 #, no-wrap
 msgid "img/web/install-openrefine/win1-save-download.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win1-save-download.png"
 
 #. type: Target for macro image
 #: foundations.en.adoc:269
 #, no-wrap
 msgid "img/web/install-openrefine/win2-extract-all.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win2-extract-all.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:271
 msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
-msgstr ""
+msgstr "Trouvez le fichier que vous avez téléchargé. Faites un clic droit dessus et choisissez \"Extract all…\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:278
 #, no-wrap
 msgid "img/web/install-openrefine/win3-extract-location.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win3-extract-location.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:280
 msgid "Click \"Extract\""
-msgstr ""
+msgstr "Cliquez sur \"Extract\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:287
 #, no-wrap
 msgid "img/web/install-openrefine/win4-create-shortcut.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win4-create-shortcut.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:289
 msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
-msgstr ""
+msgstr "Trouvez les fichiers extraits. En option, faites un clic droit sur « openrefine» et choisissez « \"Send to → Desktop (create shortcut)» pour créer un raccourci sur votre bureau. Puis double-cliquez sur \"openrefine\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:296
 #, no-wrap
 msgid "img/web/install-openrefine/win5-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win5-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:298
 msgid "A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use."
-msgstr ""
+msgstr "Une fenêtre de console noire s'ouvre, et peu de temps plus tard le navigateur s'ouvre. OpenRefine est maintenant prêt à l'emploi."
 
 #. type: Title ====
 #: foundations.en.adoc:301
@@ -865,7 +865,7 @@ msgstr "Installation sur Mac"
 #. type: Plain text
 #: foundations.en.adoc:304
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
-msgstr ""
+msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
 
 #. type: Plain text
 #: foundations.en.adoc:306
@@ -881,133 +881,133 @@ msgstr "Faites un double clic dessus et une nouvelle fenêtre de navigateur Web 
 #: foundations.en.adoc:308
 #, no-wrap
 msgid "Detailed instructions for Mac (click to expand)"
-msgstr ""
+msgstr "Instructions détaillées pour Mac (cliquez pour développer)"
 
 #. type: Target for macro image
 #: foundations.en.adoc:316
 #, no-wrap
 msgid "img/web/install-openrefine/mac01-download-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac01-download-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:318
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it."
-msgstr ""
+msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
 
 #. type: Target for macro image
 #: foundations.en.adoc:325
 #, no-wrap
 msgid "img/web/install-openrefine/mac02-unidentified-developer.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac02-unidentified-developer.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:327
 msgid "A warning is shown. Click \"OK\"."
-msgstr ""
+msgstr "Un avertissement est affiché. Cliquez sur \"OK\"."
 
 #. type: Target for macro image
 #: foundations.en.adoc:334
 #, no-wrap
 msgid "img/web/install-openrefine/mac03-system-preferences.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac03-system-preferences.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:336
 msgid "Open System Preferences."
-msgstr ""
+msgstr "Ouvrir les Préférences Système."
 
 #. type: Target for macro image
 #: foundations.en.adoc:343
 #, no-wrap
 msgid "img/web/install-openrefine/mac04-security-and-privacy.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac04-security-and-privacy.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:345
 msgid "Open Security & Privacy"
-msgstr ""
+msgstr "Ouvrir Sécurité et confidentialité"
 
 #. type: Target for macro image
 #: foundations.en.adoc:352
 #, no-wrap
 msgid "img/web/install-openrefine/mac05-open-anyway.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac05-open-anyway.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:354
 msgid "Choose \"Open Anyway\" at the bottom."
-msgstr ""
+msgstr "Choisissez \"Open Anyway\" en bas de page."
 
 #. type: Target for macro image
 #: foundations.en.adoc:361
 #, no-wrap
 msgid "img/web/install-openrefine/mac06-yes-really-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac06-yes-really-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:363
 msgid "Choose \"Open\""
-msgstr ""
+msgstr "Choisissez \"Open\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:370
 #, no-wrap
 msgid "img/web/install-openrefine/mac07-copy-to-applications.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac07-copy-to-applications.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:372
 msgid "Finally, the application archive is opened! Drag it to your Applications folder."
-msgstr ""
+msgstr "Enfin, l'archive de l'application est ouverte ! Glissez-la dans votre dossier Applications."
 
 #. type: Target for macro image
 #: foundations.en.adoc:379
 #, no-wrap
 msgid "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:381
 msgid "Double-click the OpenRefine icon.  Another security warning appears!"
-msgstr ""
+msgstr "Double-cliquez sur l'icône OpenRefind. Une autre alerte de sécurité s'affiche !"
 
 #. type: Target for macro image
 #: foundations.en.adoc:388
 #, no-wrap
 msgid "img/web/install-openrefine/mac09-not-the-user.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac09-not-the-user.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:390
 msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
-msgstr ""
+msgstr "Retournez à \"Security & Privacy\" et cliquez sur \"Open Anyway\" — à nouveau."
 
 #. type: Target for macro image
 #: foundations.en.adoc:397
 #, no-wrap
 msgid "img/web/install-openrefine/mac10-use-linux-instead.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac10-use-linux-instead.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:399
 msgid "(To avoid these warnings, the OpenRefine developers would need to pay Apple.)"
-msgstr ""
+msgstr "(Pour éviter ces avertissements, les développeurs d'OpenRefine devaient payer Apple.)"
 
 #. type: delimited block =
 #: foundations.en.adoc:401
 msgid "Click \"Open\"."
-msgstr ""
+msgstr "Cliquez sur \"Open\"."
 
 #. type: Target for macro image
 #: foundations.en.adoc:408
 #, no-wrap
 msgid "img/web/install-openrefine/mac11-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac11-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:410
 msgid "Finally! The application is running."
-msgstr ""
+msgstr "Enfin ! L'application est en cours d'exécution."
 
 #. type: Title ====
 #: foundations.en.adoc:414
@@ -1018,7 +1018,7 @@ msgstr "Installation sur Linux"
 #. type: Plain text
 #: foundations.en.adoc:417
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
-msgstr ""
+msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
 
 #. type: Plain text
 #: foundations.en.adoc:419
@@ -1029,34 +1029,34 @@ msgstr "Téléchargez, extrayez, puis tapez ./refine pour démarrer. Cela néces
 #: foundations.en.adoc:420
 #, no-wrap
 msgid "Detailed instructions for Linux (click to expand)"
-msgstr ""
+msgstr "Instructions détaillées pour Linux (cliquez pour développer)"
 
 #. type: delimited block =
 #: foundations.en.adoc:424
 msgid "These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is similar for Gnome (e.g. Ubuntu, Red Hat, CentOS)."
-msgstr ""
+msgstr "Ces instructions sont pour KDE (par exemple, Kubuntu, SuSE), mais le processus est similaire pour Gnome (par exemple, Ubuntu, Red Hat, CentOS)."
 
 #. type: Target for macro image
 #: foundations.en.adoc:430
 #, no-wrap
 msgid "img/web/install-openrefine/kde1-download-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde1-download-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:432
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].  Open it."
-msgstr ""
+msgstr "Téléchargez le https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
 
 #. type: Target for macro image
 #: foundations.en.adoc:439
 #, no-wrap
 msgid "img/web/install-openrefine/kde2-extract.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde2-extract.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:441
 msgid "Click \"Extract\" to unpack the downloaded application."
-msgstr ""
+msgstr "Cliquez sur « Extract » pour décompresser l'application téléchargée."
 
 #. type: Target for macro image
 #: foundations.en.adoc:448
@@ -1067,40 +1067,40 @@ msgstr "img/web/install-openrefine/kde3-extract-all.png"
 #. type: delimited block =
 #: foundations.en.adoc:450
 msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
-msgstr ""
+msgstr "Choisissez un endroit approprié. Sélectionnez aussi \"Open destination folder after extraction\" et \"Close Ark after extraction\""
 
 #. type: Target for macro image
 #: foundations.en.adoc:457
 #, no-wrap
 msgid "img/web/install-openrefine/kde4-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde4-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:459
 msgid "Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you can safely exit OpenRefine later, by closing the Konsole window."
-msgstr ""
+msgstr "Faites un clic droit sur « refine» et choisissez « Run in Konsole», ce qui est nécessaire pour que vous puissiez quitter en toute sécurité OpenRefine plus tard, en fermant la fenêtre Konsole."
 
 #. type: Target for macro image
 #: foundations.en.adoc:466
 #, no-wrap
 msgid "img/web/install-openrefine/kde5-execute.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde5-execute.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:468
 msgid "Confirm that you wish to execute the downloaded application."
-msgstr ""
+msgstr "Confirmez que vous souhaitez exécuter l'application téléchargée."
 
 #. type: Target for macro image
 #: foundations.en.adoc:475
 #, no-wrap
 msgid "img/web/install-openrefine/kde6-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde6-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:477
 msgid "OpenRefine is now running."
-msgstr ""
+msgstr "OpenRefine est en cours d'exécution."
 
 #. type: Title ===
 #: foundations.en.adoc:481
@@ -1640,13 +1640,13 @@ msgstr "Liens vers la salle de jeux (chaque table s'ouvrira dans une nouvelle fe
 
 #. type: Plain text
 #: planning.en.adoc:59
-msgid "BLUE: https://playingcards.io/8dwg98[^]"
-msgstr "BLEU : https://playingcards.io/8dwg98[^]"
+msgid "BLUE: https://playingcards.io/ndqppx[^]"
+msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:61
-msgid "GREEN: https://playingcards.io/m53by6[^]"
-msgstr "VERT : https://playingcards.io/m53by6[^]"
+msgid "GREEN: https://playingcards.io/zpwe9j[^]"
+msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:63
@@ -1655,8 +1655,8 @@ msgstr "VIOLET : https://playingcards.io/y4h6ky[^]"
 
 #. type: Plain text
 #: planning.en.adoc:65
-msgid "RED: https://playingcards.io/vbtkgd[^]"
-msgstr "ROUGE : https://playingcards.io/vbtkgd[^]"
+msgid "RED: https://playingcards.io/4x4e2j[^]"
+msgstr ""
 
 #. type: Plain text
 #: planning.en.adoc:67
@@ -3706,12 +3706,12 @@ msgstr "Télécharger le link:../course-docs/UC2-LS-exercise-sheet_EN.docx[fichi
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:82
 msgid "The volume of analogue data (paper logs) arriving at the IBAN headquarters will soon exceed their capacity to digitize, so the steering committee has decided to reconsider the current approach to this area of their work which has grown unmanaged for the last few years.  To date, this is how work has been organized:"
-msgstr ""
+msgstr "Le volume de données analogiques (registre papier) arrivant au siège de l'IBAN dépassera bientôt leur capacité de numérisation, le comité directeur a donc décidé de reconsidérer l'approche actuelle dans ce domaine de leur travail qui s'est développé sans gestion au cours des dernières années. À ce jour, c'est ainsi que le travail a été organisé :"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:84
 msgid "The paper logs arrive via post. The secretary opens the packages and collates the logs."
-msgstr ""
+msgstr "Les registres papier arrive par courrier. Le secrétaire ouvre les paquets et rassemble les registres."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:85
