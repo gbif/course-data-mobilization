@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2023-06-22 10:48+0000\n"
-"PO-Revision-Date: 2023-10-12 01:44\n"
+"PO-Revision-Date: 2023-10-12 02:45\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5534,14 +5534,16 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour une collection 
 #, no-wrap
 msgid "occurrence\n"
 "Most of the time, specimens from collection databases are shared as occurrence data. Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc. Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID.  "
-msgstr ""
+msgstr "occurrence\n"
+"La plupart du temps, les spécimens de bases de données de collection sont partagés en tant que données d'occurrence. Chaque occurrence (spécimen ou groupe de spécimens) a son propre identifiant unique (parfois dérivé de son numéro de catalogue dans la collection source) et les champs Darwin Core utilisés pour les partager au sein du GBIF décrivent chaque spécimen : nom scientifique, la date à laquelle il a été recueillie sur le terrain, qui l'a collecté et/ou identifié, où, etc. Chaque collection peut avoir plus d'un spécimen d'une même espèce, à condition que chaque spécimen soit identifié par une identification unique.  "
 
 #. type: Plain text
 #: solutions.en.adoc:150
 #, no-wrap
 msgid "checklist\n"
 "It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr ""
+msgstr "liste de contrôle\n"
+"Il est également possible de créer et de partager une liste de contrôle taxonomique dérivée d'une base de données de collection ; dans ce cas, il est recommandé de partager la liste de contrôle en tant qu'ensemble de données taxonomiques, avec la liste des occurrences (spécimens) associées à elle en utilisant le noyau Occurrence comme extension du noyau taxon sur l'IPT du GBIF."
 
 #. type: Plain text
 #: solutions.en.adoc:152
@@ -5554,7 +5556,8 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour une liste d'esp
 #, no-wrap
 msgid "occurrence\n"
 "Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
-msgstr ""
+msgstr "occurrence\n"
+"Certains éditeurs de données partageront des ensembles de données d'occurrence provenant d'études ou de programmes de suivi de spécimens provenant de certaines espèces envahissantes spécifiques ; lorsque les données se concentrent sur les individus au lieu de l'espèce envahissante, en général, elles peuvent être partagées en tant que données d'occurrence."
 
 #. type: Plain text
 #: solutions.en.adoc:157
