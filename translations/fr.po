@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2023-06-22 10:48+0000\n"
-"PO-Revision-Date: 2023-10-12 02:45\n"
+"PO-Revision-Date: 2023-10-12 03:55\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5564,7 +5564,8 @@ msgstr "occurrence\n"
 #, no-wrap
 msgid "checklist\n"
 "Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr ""
+msgstr "la liste de contrôle\n"
+"Les espèces invasives peuvent être suivies et surveillées à différentes échelles (régionales, nationales, thématiques…); car ce type de jeu de données se concentre davantage sur les espèces et leur distribution sur une portée géographique donnée, ils sont principalement partagés en tant que jeux de données taxonomiques au sein du GBIF (https://www. bif.org/dataset/search?project_id=GRIIS[ voir les résultats de recherche GRIIS])."
 
 #. type: Plain text
 #: solutions.en.adoc:159
@@ -5577,14 +5578,16 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour la flore et la 
 #, no-wrap
 msgid "occurrence\n"
 "Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
-msgstr ""
+msgstr "occurrences\n"
+"Les données sont enregistrées par des naturalistes sur le terrain et peuvent être partagées en tant que simples jeux de données d'Occurrence."
 
 #. type: Plain text
 #: solutions.en.adoc:164
 #, no-wrap
 msgid "sampling event\n"
 "They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr ""
+msgstr "événement d'échantillonnage\n"
+"Ils peuvent également être partagés en tant que jeux de données d'événements si des protocoles normalisés (comme des plots de végétation, les transectes, les pièges…) sont utilisés pour collecter les données."
 
 #. type: Plain text
 #: solutions.en.adoc:166
@@ -5597,7 +5600,8 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour des données de
 #, no-wrap
 msgid "occurrence\n"
 "These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
-msgstr ""
+msgstr "occurrence\n"
+"Ces données sont partagées comme des jeux de données d'occurrences : idéalement, chaque oiseau est identifié avec son organisme et chaque occurrence (GPS ping) a son propre ID d'occurrence, qui est utile pour suivre les différents emplacements GPS du même oiseau dans le cadre du programme ou du projet de suivi. (Voir https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
 
 #. type: Plain text
 #: solutions.en.adoc:171
@@ -5610,14 +5614,16 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour des données de
 #, no-wrap
 msgid "occurrence\n"
 "Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
-msgstr ""
+msgstr "occurrence\n"
+"Bien que ces données puissent être partagées en tant que jeux de données d'occurrence simples, il est préférable qu'ils soient partagés comme des jeux de données d'événement, où l'emplacement, l'identifiant et le contenu de chaque piège peuvent être mieux détaillés."
 
 #. type: Plain text
 #: solutions.en.adoc:178
 #, no-wrap
 msgid "sampling event\n"
 "Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap. The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr ""
+msgstr "échantillonnage d'événement\n"
+"Pièges à insectes (ainsi que d'autres pièges tels que pièges à trappes, les pièges à malaise…) sont généralement utilisés dans les programmes de surveillance pour vérifier la présence (ou l'absence) de certaines espèces et/ou évaluer leur abondance spécifique. L'utilisation du champ « eventID » pour identifier chaque piège permet aux utilisateurs de récupérer tous les spécimens dans chaque piège. La même logique s'applique aux autres protocoles de terrain tels que les transectes, les tracés, les caméras à distance, etc. en utilisant le Noyau d'Evénement au lieu du Noyau d'Occurrence, vous serez en mesure de partager beaucoup plus d'informations sur le contexte de la collecte de données, et permettre aux utilisateurs de mieux comprendre (et même de répliquer) votre travail."
 
 #. type: Plain text
 #: solutions.en.adoc:180
@@ -5630,21 +5636,24 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour des données de
 #, no-wrap
 msgid "occurrence\n"
 "record individuals of species"
-msgstr ""
+msgstr "occurrence\n"
+"enregistrer des individus d'espèces"
 
 #. type: Plain text
 #: solutions.en.adoc:185
 #, no-wrap
 msgid "checklist\n"
 "It is important to know how many species are present in the park/reserve perimeter and their conservation status."
-msgstr ""
+msgstr "liste de contrôle\n"
+"Il est important de savoir combien d'espèces sont présentes dans le périmètre du parc ou de la réserve et leur état de conservation."
 
 #. type: Plain text
 #: solutions.en.adoc:187
 #, no-wrap
 msgid "sampling event\n"
 "check and track the populations"
-msgstr ""
+msgstr "échantillonnage d'événement\n"
+"vérifiez et suivez les populations"
 
 #. type: Plain text
 #: solutions.en.adoc:189
@@ -5657,14 +5666,16 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour un inventaire �
 #, no-wrap
 msgid "occurrence\n"
 "Bioblitz datasets are mainly shared as occurrence datasets."
-msgstr ""
+msgstr "occurrence\n"
+"Les jeux de données Bioblitz sont principalement partagés en tant qu'ensembles de données d'occurrence."
 
 #. type: Plain text
 #: solutions.en.adoc:194
 #, no-wrap
 msgid "sampling event\n"
 "Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
-msgstr ""
+msgstr "événement d'échantillonnage\n"
+"Selon le programme scientifique citoyen, des protocoles d'échantillonnage spécifiques peuvent être utilisés par les volontaires, auquel cas les données peuvent être partagées en tant que jeu de données d'événement."
 
 #. type: Plain text
 #: solutions.en.adoc:196
@@ -5677,7 +5688,8 @@ msgstr "*Quel(s) type(s) de jeu de données choisiriez-vous pour une liste d'esp
 #, no-wrap
 msgid "checklist\n"
 "Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
-msgstr ""
+msgstr "liste de contrôle\n"
+"Les listes d'espèces géographiques ou thématiques sont souvent utilisées pour partager des informations sur les espèces présentes dans une région donnée ; la plupart du temps, ces listes mentionnent également la répartition de chaque espèce ainsi que son état de conservation dans ce domaine. Les listes d'espèces régionales peuvent donner un aperçu utile de la biodiversité et des habitats d'une région, et doivent être partagés en tant qu'ensembles de données taxonomiques, avec ou sans occurrences associées."
 
 #. type: Title ===
 #: solutions.en.adoc:201
