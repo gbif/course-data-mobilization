@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2023-06-22 10:48+0000\n"
-"PO-Revision-Date: 2023-07-13 01:13\n"
+"PO-Revision-Date: 2023-10-12 00:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1646,7 +1646,7 @@ msgstr "BLEU : https://playingcards.io/ndqppx[^]"
 #. type: Plain text
 #: planning.en.adoc:61
 msgid "GREEN: https://playingcards.io/zpwe9j[^]"
-msgstr ""
+msgstr "VERT : https://playingcards.io/zpwe9j[^]"
 
 #. type: Plain text
 #: planning.en.adoc:63
@@ -1656,7 +1656,7 @@ msgstr "VIOLET : https://playingcards.io/y4h6ky[^]"
 #. type: Plain text
 #: planning.en.adoc:65
 msgid "RED: https://playingcards.io/4x4e2j[^]"
-msgstr ""
+msgstr "ROUGE : https://playingcards.io/4x4e2j[^]"
 
 #. type: Plain text
 #: planning.en.adoc:67
@@ -3716,32 +3716,32 @@ msgstr "Les registres papier arrive par courrier. Le secrétaire ouvre les paque
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:85
 msgid "There are five volunteers with basic computer skills using two shared computers to digitize the paper logs. These volunteers are also citizen scientists themselves, so they are familiar with the taxonomy of the order Lepidoptera, and with the species occurring in the country where the headquarters of IBAN are located."
-msgstr ""
+msgstr "Il y a cinq bénévoles avec des compétences informatiques de base utilisant deux ordinateurs partagés pour numériser les registreen papier. Ces bénévoles sont aussi des citoyens en science participative eux-mêmes, donc ils sont familiers avec la taxonomie de l'ordre Lepidoptera, et avec les espèces présentes dans le pays où se trouve le siège de l'IBAN."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:86
 msgid "The digitizers come and go whenever they have time so they usually check for computer availability via phone. Sometimes there are time clashes and some have to go home as the two computers are busy, and sometimes the two computers are unused."
-msgstr ""
+msgstr "Les numériseurs arrivent et partent chaque fois qu'ils ont le temps de sorte qu'ils vérifient habituellement la disponibilité de l'ordinateur par téléphone. Parfois, il y a des conflits de temps et certains doivent rentrer chez eux car les deux ordinateurs sont occupés, et parfois les deux ordinateurs sont inutilisés."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:87
 msgid "When they digitize, they usually pick one paper log at a time from the pile, and digitize it (if they can). Common problems that occur are that:"
-msgstr ""
+msgstr "Lorsqu'ils numérisent, ils choisissent généralement un registre en papier à la fois à partir d'une pile et le numérisent (s'ils le peuvent). Les problèmes courants qui se posent sont les suivants :"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:88
 msgid "the digitizer does not know the species observed (misspellings occur),"
-msgstr ""
+msgstr "le numériseur ne connaît pas l'espèce observée (des fautes d'orthographes arrivent),"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:89
 msgid "the digitizer does not know the area where the sampling has occurred,"
-msgstr ""
+msgstr "le numériseur ne connaît pas la zone où l'échantillonnage a eu lieu,"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:90
 msgid "the digitizer cannot read the handwriting or the language in which some of the comments are written."
-msgstr ""
+msgstr "le numériseur ne peut pas lire l'écriture manuscripte ou la langue dans laquelle certains des commentaires sont écrits."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:91
