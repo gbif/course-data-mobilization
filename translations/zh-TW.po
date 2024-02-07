@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2023-06-22 10:48+0000\n"
-"PO-Revision-Date: 2023-06-22 12:18\n"
+"PO-Revision-Date: 2024-01-16 12:10\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -36,13 +36,13 @@ msgstr ""
 #: index.en.adoc:22
 #, no-wrap
 msgid "_Zonocerus elegans_ (Thunberg, 1815) observed in Zimbabwe by nickypegg (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "_Zonocerus elegans_ (Thunberg, 1815) observed in Zimbabwe by nickypegg (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: index.en.adoc:23
 #, no-wrap
 msgid "img/web/photo.jpg"
-msgstr ""
+msgstr "img/web/photo.jpg"
 
 #. type: Title ==
 #: description.en.adoc:2
@@ -53,7 +53,8 @@ msgstr "課程說明"
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "This course enables participants to plan and implement biodiversity data mobilization efforts effectively using accepted community standards.  Its aim is to increase the volume, richness and quality of the data published through the GBIF network.  This course was first developed as part of the https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development] (BID) programme funded by the https://europa.eu/[European Union]."
-msgstr ""
+msgstr "這門課程中，將讓參與者學習到：如何依照共通的操作標準來進行作業，藉以更有效率地去規劃、發布與應用生物多樣性資料。\n"
+"這門課程由 https://europa.eu/[European Union] 所贊助的 https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development[Biodiversity Information for Development] (BID) 計畫提出，希望透過這門課程，可以增進 GBIF 網路上的資料總量、豐富程度、與品質。"
 
 #. type: delimited block *
 #: description.en.adoc:10
@@ -63,7 +64,7 @@ msgstr "主題包含："
 #. type: delimited block *
 #: description.en.adoc:12
 msgid "Project management"
-msgstr ""
+msgstr "專案管理"
 
 #. type: Title ==
 #: description.en.adoc:13 use-case-herbarium-specimens.en.adoc:57
@@ -89,7 +90,7 @@ msgstr "資料發布"
 #. type: delimited block *
 #: description.en.adoc:18
 msgid "This course is comprised of video instruction paired with quizzes and practical exercises.  When offered as an onsite or virtual workshop, group work and social interaction are encouraged."
-msgstr ""
+msgstr "這門課程包括影片的操作說明、隨堂小考及範例練習。當這門課以實體、或線上視訊工作坊進行時，我們鼓勵您在其中多多進行團隊互動。"
 
 #. type: Title ===
 #: description.en.adoc:20
@@ -100,43 +101,43 @@ msgstr "讀者"
 #. type: Plain text
 #: description.en.adoc:24
 msgid "This course is designed for individuals who work as researchers or technicians in biodiversity research or policy institutions.  The instruction provided is particularly useful for those who have a need or desire to plan mobilization projects and/or mobilize biodiversity information for their respective institutions."
-msgstr ""
+msgstr "這門課程是為 生物多樣性領域相關的研究者、技術員、或政策單位 所設計，若您正在規劃、或具有想將自己單位的生物多樣性資料流通的需求，其中的操作說明將對您特別有用。"
 
 #. type: Title ===
 #: description.en.adoc:25
 #, no-wrap
 msgid "Prerequisites"
-msgstr ""
+msgstr "先決條件"
 
 #. type: Plain text
 #: description.en.adoc:28
 msgid "https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF course^]"
-msgstr ""
+msgstr "https://docs.gbif.org/course-introduction-to-gbif[Introduction to GBIF course^]"
 
 #. type: Plain text
 #: description.en.adoc:30
 msgid "Additionally, to make best use of the activities around this course, the participants should possess the following skills and knowledge:"
-msgstr ""
+msgstr "此外，為確保課程的品質、與收穫，參與者最好擁有以下的先備知識、技能："
 
 #. type: Plain text
 #: description.en.adoc:32
 msgid "Basic skills in computer and internet use, and, in particular, in the use of spreadsheets."
-msgstr ""
+msgstr "了解如何使用基礎的電腦與網路操作、以及試算表的使用。"
 
 #. type: Plain text
 #: description.en.adoc:33
 msgid "Basic knowledge about geography and biodiversity informatics: geography and mapping concepts, basic taxonomy and nomenclature rules."
-msgstr ""
+msgstr "對於地理與生物多樣性資訊有基礎的認識，如：了解地理和地圖之概念、知道基礎的分類學與命名規則。"
 
 #. type: Plain text
 #: description.en.adoc:34
 msgid "Willingness to disseminate the knowledge learned in the workshop with partners and collaborators in your project by adapting the biodiversity data mobilization training materials to specific contexts and languages while maintaining their instructional value."
-msgstr ""
+msgstr "願意將相關訓練教材根據當下所處之脈絡進行修改，並同時不改其教學價值，藉此將工作坊學習到的知識推廣給計劃中的工作夥伴、協作者。"
 
 #. type: Plain text
 #: description.en.adoc:35
 msgid "A good command of English. While efforts are made to provide materials in other languages, instruction/videos will be in English."
-msgstr ""
+msgstr "良好的英文能力。在此雖然我們努力提供其他語言的材料，但相關說明、影片仍會是英文。"
 
 #. type: Title ===
 #: description.en.adoc:36
@@ -147,94 +148,96 @@ msgstr "學習目標"
 #. type: Plain text
 #: description.en.adoc:39
 msgid "Learn key concepts (foundations) of biodiversity informatics, particular to biodiversity digital data management."
-msgstr ""
+msgstr "學習生物多樣性資訊的基礎、與關鍵概念(特別是生物多樣性數位資料的管理)"
 
 #. type: Plain text
 #: description.en.adoc:40
 msgid "Receive an introduction to the Darwin Core Standard and its components."
-msgstr ""
+msgstr "了解達爾文核心標準(Darwin Core Standard)的架構、與其組成內容"
 
 #. type: Plain text
 #: description.en.adoc:41
 msgid "Learn to understand the different stages for planning a mobilization project and how to adapt stages to a specific project."
-msgstr ""
+msgstr "了解規劃生物多樣性資料數位化專案的不同階段，並學習如何據此應用到實際專案之上"
 
 #. type: Plain text
 #: description.en.adoc:42
 msgid "Evaluate a data mobilization strategy to identify potential gaps, inefficiencies and pitfalls."
-msgstr ""
+msgstr "審視資料流通策略，來評估潛在的差距、效率低下之處及遇到的陷阱。"
 
 #. type: Plain text
 #: description.en.adoc:43
 msgid "Develop a data mobilization strategy customized to a given institutional framework."
-msgstr ""
+msgstr "能為特定機構規劃專屬的資料流通策略"
 
 #. type: Plain text
 #: description.en.adoc:44
 msgid "Learn to identify the types of data and how to best capture relevant information using best practices, existing softwares, tools and techniques."
-msgstr ""
+msgstr "學習分辨資料型態，及如何最有效地透過現有的軟體、工具、技術來獲取相關資訊"
 
 #. type: Plain text
 #: description.en.adoc:45
 msgid "Use software tools designed to facilitate biodiversity data capture to produce digital biodiversity data from analogue sources."
-msgstr ""
+msgstr "練習使用針對生物多樣性資料獲取而設計的軟體工具，並從中建立生物多樣性資料"
 
 #. type: Plain text
 #: description.en.adoc:46
 msgid "Learn data quality concepts and receive an introduction to tools used for standardizing data, validating data, and cleaning data."
-msgstr ""
+msgstr "建立資料品質的概念，並初步了解資料標準化、驗證、清理的相關工具介紹"
 
 #. type: Plain text
 #: description.en.adoc:47
 msgid "Use software tools to evaluate the fitness-for-use of a biodiversity dataset"
-msgstr ""
+msgstr "學習以軟體工具評估一生物多樣性資料集的易用性"
 
 #. type: Plain text
 #: description.en.adoc:48
 msgid "Use software tools designed for (biodiversity) data cleaning."
-msgstr ""
+msgstr "練習使用相關的資料清理工具"
 
 #. type: Plain text
 #: description.en.adoc:49
 msgid "Learn the process of making biodiversity data freely available online, also known as data publishing, utilizing GBIF’s Integrated Publishing Toolkit (IPT)."
-msgstr ""
+msgstr "了解如何使用GBIF 資料整合發布工具(GBIF’s Integrated Publishing Toolkit, GBIF IPT)來將生物多樣性資料公開發布"
 
 #. type: Plain text
 #: description.en.adoc:50
 msgid "Define the publishable data types and subtypes (if any) for a biodiversity dataset."
-msgstr ""
+msgstr "定義欲發布之生物多樣性資料中的資料主類型、副類型"
 
 #. type: Plain text
 #: description.en.adoc:51
 msgid "Use the GBIF IPT to publish biodiversity datasets using the appropriate extensions."
-msgstr ""
+msgstr "選擇適當的延伸資料集(extensions)形式，並在GBIF 資料整合發布工具上發表資料集"
 
 #. type: Plain text
 #: description.en.adoc:52
 msgid "Capacitate others in the planning, capture, management and publishing of biodiversity data."
-msgstr ""
+msgstr "協助他人規劃、獲取、管理及發布生物多樣性資料"
 
 #. type: Title ===
 #: description.en.adoc:53
 #, no-wrap
 msgid "Certification"
-msgstr ""
+msgstr "認證"
 
 #. type: Plain text
 #: description.en.adoc:56
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge].  See <<assessment-and-certification,Assessment and Certification>> for more details."
-msgstr ""
+msgstr "當您完成課程並通過認證作業測驗後，便有機會獲得官方的相關認證。認證將以 https://openbadges.org/[Open Badge] 呈現，詳情請見<<assessment-and-certification,Assessment and Certification>>"
 
 #. type: Title ==
 #: downloads.en.adoc:1
 #, no-wrap
 msgid "Files for download"
-msgstr ""
+msgstr "檔案下載"
 
 #. type: Plain text
 #: downloads.en.adoc:7
 msgid "All files for the course may be downloaded from this page.  Or if you prefer, all files are linked individually throughout the course as they occur in the curriculum.  The video files are embedded throughout the course, as well, and play from YouTube. Subtitles are available when playing from YouTube for most videos.  If you have difficulty accessing the embedded videos, please download the mp4 files to play them locally on your computer."
-msgstr ""
+msgstr "這堂課相關的下載檔案都在這個頁面上。\n"
+"這些檔案將貫穿整門課程，並且也都具有單獨的頁面連結，因此您也可以選擇遇到時再播放、或下載。\n"
+"其中，影片都已嵌入在課程頁面中，並也可以從YouTube播放(在YouTube上的影片多半具有字幕)。但若您無法播放、存取課程中嵌入的影片，建議您將這些.mp4檔案下載至電腦中播放。"
 
 #. type: Title ===
 #: downloads.en.adoc:8
@@ -245,42 +248,42 @@ msgstr "影片"
 #. type: Plain text
 #: downloads.en.adoc:10
 msgid "The videos are narrated in English. Subtitles are not available for the downloaded videos."
-msgstr ""
+msgstr "這些影片中將採用英文，且下載的影片中並不包含字幕。"
 
 #. type: Plain text
 #: downloads.en.adoc:12
 msgid "link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
-msgstr ""
+msgstr "基礎(一) link:../videos/Foundations1.zip[Foundations1.zip,opts=download] (73.7 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:14
 msgid "link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
-msgstr ""
+msgstr "基礎(二) link:../videos/Foundations2.zip[Foundations2.zip,opts=download] (90.2 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:16
 msgid "link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
-msgstr ""
+msgstr "規劃 link:../videos/Planning.zip[Planning.zip,opts=download] (51.3 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:18
 msgid "link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
-msgstr ""
+msgstr "資料擷取 link:../videos/Capture.zip[Capture.zip,opts=download] (63.1 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:20
 msgid "link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
-msgstr ""
+msgstr "資料管理 link:../videos/Management.zip[Management.zip,opts=download] (30.2 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:22
 msgid "link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
-msgstr ""
+msgstr "資料集發布 link:../videos/Publishing.zip[Publishing.zip,opts=download] (77.9 MB)"
 
 #. type: Plain text
 #: downloads.en.adoc:24
 msgid "link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
-msgstr ""
+msgstr "附錄：發表資料集論文 link:../videos/Appendix-Data-Papers.zip[Appendix-Data-Papers.zip,opts=download] (97.5 MB)"
 
 #. type: Title ===
 #: downloads.en.adoc:25
@@ -291,68 +294,70 @@ msgstr "練習資料"
 #. type: Plain text
 #: downloads.en.adoc:27
 msgid "This link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) contains the exercise data for all the use cases."
-msgstr ""
+msgstr "這個連結 link:../exercise-data/UseCaseExerciseData.zip[compressed file,opts=download] (ZIP 37.7 MB) 中，包含了所有練習用的資料"
 
 #. type: Title ===
 #: downloads.en.adoc:28
 #, no-wrap
 msgid "Exercise sheets"
-msgstr ""
+msgstr "練習試算表"
 
 #. type: Plain text
 #: downloads.en.adoc:30
 msgid "This link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) contains the exercise sheets for all the use cases.  The exercises sheets are written in English and should be completed in English."
-msgstr ""
+msgstr "這個連結 link:../course-docs/ExerciseSheets.zip[compressed file,opts=download] (ZIP 1.4 MB) 包含了所有的課後練習試算表。這個練習檔以英文寫成，且須以英文完成練習。"
 
 #. type: Title ==
 #: foundations.en.adoc:2
 #, no-wrap
 msgid "Foundations "
-msgstr ""
+msgstr "基礎 "
 
 #. type: Plain text
 #: foundations.en.adoc:9
 msgid "This module includes instruction to ensure all participants are at the same level before delving into the data mobilization topics.  You will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.  You will also receive an introduction to data quality and learn the importance of documentation.  Lastly, you will be asked to install the OpenRefine software as part of this module."
-msgstr ""
+msgstr "為確保每位參與者在接下來的資料流通課程前都至少有一定程度的先備知識，在這個環節中將進行基礎介紹說明。\n"
+"其中包含：(1)使用的語言、專有名詞、部分基礎概念的定義，以及接下來課程中將使用到的功能與流程。(2)資料品質的概念與文件結構化的重要性 (3)安裝OpenRefine ，在這一環節中會用上\n\n"
 
 #. type: Title ===
 #: foundations.en.adoc:10
 #, no-wrap
 msgid "Terminology"
-msgstr ""
+msgstr "專有名詞"
 
 #. type: Title ====
 #: foundations.en.adoc:12
 #, no-wrap
 msgid "Definitions"
-msgstr ""
+msgstr "定義"
 
 #. type: Plain text
 #: foundations.en.adoc:16
 msgid "In this video (12:02), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Definitions.mp4[download^,opts=download] it locally. (MP4 - 38.5 MB)"
-msgstr ""
+msgstr "在這影片 (12:02)中，將介紹所使用的到的專有名詞。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Foundations_Definitions.mp4[download^,opts=download] 並在電腦上觀賞。 (MP4 - 38.5 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:20
 #, no-wrap
 msgid "Software"
-msgstr ""
+msgstr "軟體"
 
 #. type: Plain text
 #: foundations.en.adoc:24
 msgid "In this video (05:58), you will review examples of the different types of applications and software available in the world of biodiversity mobilization informatics.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Software.mp4[download^,opts=download] it locally. (MP4 - 18.9 MB)"
-msgstr ""
+msgstr "在這影片 (05:58)中，將介紹生物多樣性資料流通過程中不同的環節，以及其對應功能的軟體。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Foundations_Software.mp4[download^,opts=download] 並在電腦上觀賞。 (MP4 - 18.9 MB)"
 
 #. type: Title ====
 #: foundations.en.adoc:28
 #, no-wrap
 msgid "Structures"
-msgstr ""
+msgstr "資料結構"
 
 #. type: Plain text
 #: foundations.en.adoc:32
 msgid "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Structures.mp4[download^,opts=download] it locally. (MP4 - 38.8 MB)"
-msgstr ""
+msgstr "In this video (13:10), you will review the field and data types that hold data, the structures that help to organize and protect that data and what these mean for the integrity and security of your data.  \n\n"
+"在這影片中，將了解資料保存欄位、資料型態與資料結構，並進一步了解其對於資料保存與規劃上的助益，以及之於資料完整性與安全性的意義。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Foundations_Structures.mp4[download^,opts=download] 並在電腦上觀賞。(MP4 - 38.8 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:36
@@ -363,17 +368,18 @@ msgstr "資料品質"
 #. type: Plain text
 #: foundations.en.adoc:40
 msgid "In this video (12:26), you will review terminology used in this course.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Data_Quality.mp4[download^,opts=download] it locally. (MP4 - 44.5 MB)"
-msgstr ""
+msgstr "在這影片 (12:26)中，將介紹所使用的到的專有名詞。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Foundations_Data_Quality.mp4[download^,opts=download]  並在電腦上觀賞。 (MP4 - 44.5 MB)"
 
 #. type: Plain text
 #: foundations.en.adoc:48
 msgid "Below you will find a selected reading from Arthur Chapman’s guide “Principles of data quality”.  https://www.gbif.org/document/80509/principles-of-data-quality[Full document^], references and translations can be found on GBIF.org."
-msgstr ""
+msgstr "以下為選讀文章──來自Arthur Chapman’s guide 的 “Principles of data quality” (資料品質原理)\n"
+"此為全文 https://www.gbif.org/document/80509/principles-of-data-quality[Full document^] ，參考資料及翻譯也可在GBIF.org上找到。"
 
 #. type: delimited block _
 #: foundations.en.adoc:53
 msgid "Before a detailed discussion on data quality and its application to species-occurrence data can take place, there are a number of concepts that need to be defined and described.  These include the term data quality itself, the terms accuracy and precision that are often misapplied, and what we mean by primary species data and species-occurrence data."
-msgstr ""
+msgstr "在近一步探討資料品質和它在物種出現紀錄上的應用前，尚有一些概念需要釐清，如：資料品質的意義、詞語上常被誤用的「正確性」與「精準性」間之定義與區別，與初級物種資料和物種出現紀錄資料的意義。"
 
 #. type: delimited block _
 #: foundations.en.adoc:55
@@ -395,7 +401,7 @@ msgstr ""
 #: foundations.en.adoc:64
 #, no-wrap
 msgid "*Primary species data*\n"
-msgstr ""
+msgstr "*初級物種資料*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:67
@@ -406,7 +412,7 @@ msgstr ""
 #: foundations.en.adoc:69
 #, no-wrap
 msgid "*Accuracy and Precision*\n"
-msgstr ""
+msgstr "*正確性與精準度*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:71
@@ -432,7 +438,7 @@ msgstr ""
 #: foundations.en.adoc:85
 #, no-wrap
 msgid "*Data quality*\n"
-msgstr ""
+msgstr "*資料品質*"
 
 #. type: delimited block _
 #: foundations.en.adoc:90
