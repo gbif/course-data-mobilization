@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-09 09:56\n"
+"PO-Revision-Date: 2024-02-09 11:36\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -390,8 +390,7 @@ msgstr "*物種出現紀錄資料*\n"
 #. type: delimited block _
 #: foundations.en.adoc:59
 msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
-msgstr "物種出現紀錄資料(Species-occurrence data)包含：博物館及植物標本館中附在標本(或批次)上的標籤資料、觀測資料、和環境調查資料。在這之中，雖含有線段資料(環境調查中的穿越線調查資料，如：沿河流之蒐集)、多角形資料(於特定區域內的觀測，如：國家公園)、網格資料(於規則網格中的觀測、調查記錄)等不同樣態的資料，但廣義上它們仍算作我們所稱的\"基於點的\"(point-based)資料。\n\n"
-"一般而言，我們此處討論的是具有地理參照之資料。這些具有地理參照資訊能將這筆紀錄連結至空間中特定位置──無論是否含有地理座標(如：經緯度、UTM)、或具對地區的具體描述(海拔、深度)和及時間(日期、時刻)。\n"
+msgstr "物種出現紀錄資料(Species-occurrence data)包含：博物館與植物標本館中附在標本(或批次)上的標籤資料、一般的觀測資料、和環境調查資料。在這個範疇中，雖含有線段資料(環境調查中的穿越線調查資料，如：沿河流之蒐集)、多角形資料(於特定區域內的觀測，如：國家公園)、網格資料(於規則網格中的觀測、調查記錄)等不同樣態的資料，但廣義上它們仍算作所謂的\"基於點的\"(point-based)資料。就此而言，廣義上我們討論的是具有地理參照資訊之資料，其中的地理參照資訊便能將之與特定時空位置連結起來──其中的地理資訊可以含有確切的地理座標(若有則如：經緯度、UTM)，或具對地區的具體描述(如：海拔、深度等)，並這些資訊都需搭配上時間之資料(日期、時刻)。"
 
 #. type: delimited block _
 #: foundations.en.adoc:62
@@ -407,7 +406,7 @@ msgstr "*初級物種資料*\n"
 #. type: delimited block _
 #: foundations.en.adoc:67
 msgid "“Primary species data” is used to describe raw collection data and data without any spatial attributes.  It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references."
-msgstr ""
+msgstr "「初級物種資料」(“Primary species data” )用來指最原始的標本蒐集資料，它包含了沒有空間屬性的命名分類描述資訊，如：名稱、系統分類、與不具有地理空間屬性的分類概念。"
 
 #. type: delimited block _
 #: foundations.en.adoc:69
@@ -418,17 +417,22 @@ msgstr "*正確性與精準度*\n"
 #. type: delimited block _
 #: foundations.en.adoc:71
 msgid "Accuracy and precision are regularly confused and the differences are not generally understood."
-msgstr ""
+msgstr "正確性(Accuracy)與精準度(Precision)經常被搞混，其因在於人們普遍不理解其中的差異。"
 
 #. type: delimited block _
 #: foundations.en.adoc:73
 msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
-msgstr ""
+msgstr "「正確性」指的是量測值(或觀測值、估計值)與真值(或實際情況、或被接受為真的值，如：測量控制點的座標)的靠近程度。\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:80
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
-msgstr ""
+msgstr "「精準度」(又稱解析度)則可被分為兩種類型：\n"
+"首先，統計精度指的是重複觀測結果與它們自身的接近程度，其與真值的接近程度無關，因此有可能有高正確性、但低精準度的狀況。\n\n"
+"其次，數值精度指的是紀錄有效位數的個數\n"
+"並隨著電腦的出現\n\n"
+"舉例而言，資料庫中可以記載經度/緯度至小數點下10位的準確度(約為現實中之0.1mm)，然而該紀錄的解析度通常則為\n\n\n"
+"這導致對解析度與準確度產生了錯誤的認識\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:83
