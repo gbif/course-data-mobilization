@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-07 12:15\n"
+"PO-Revision-Date: 2024-02-09 06:47\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -390,7 +390,8 @@ msgstr "*物種出現紀錄資料*\n"
 #. type: delimited block _
 #: foundations.en.adoc:59
 msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
-msgstr ""
+msgstr "物種出現紀錄資料(Species-occurrence data)包含：博物館及植物標本館中附在標本(或批次)上的標籤資料、觀測資料、和環境調查資料。在這之中，雖含有線段資料(環境調查中的穿越線調查資料，如：沿河流之蒐集)、多角形資料(於特定區域內的觀測，如：國家公園)、網格資料(於規則網格中的觀測、調查記錄)等不同樣態的資料，但廣義上它們仍算作我們所稱的\"基於點的\"(point-based)資料。\n\n"
+"一般而言，我們此處討論的是具有地理參照之資料。這些具有地理參照資訊能將這筆紀錄連結至空間中特定位置──無論是否含有地理座標(如：經緯度、UTM)、或具對地區的具體描述(海拔、深度)和及時間(日期、時刻)。\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:62
