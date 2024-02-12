@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-09 11:36\n"
+"PO-Revision-Date: 2024-02-12 12:34\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -428,16 +428,13 @@ msgstr "「正確性」指的是量測值(或觀測值、估計值)與真值(或
 #: foundations.en.adoc:80
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
 msgstr "「精準度」(又稱解析度)則可被分為兩種類型：\n"
-"首先，統計精度指的是重複觀測結果與它們自身的接近程度，其與真值的接近程度無關，因此有可能有高正確性、但低精準度的狀況。\n\n"
-"其次，數值精度指的是紀錄有效位數的個數\n"
-"並隨著電腦的出現\n\n"
-"舉例而言，資料庫中可以記載經度/緯度至小數點下10位的準確度(約為現實中之0.1mm)，然而該紀錄的解析度通常則為\n\n\n"
-"這導致對解析度與準確度產生了錯誤的認識\n"
+"首先，統計精度指的是重複觀測結果與它們自身的接近程度，其與真值的接近程度無關，因此有可能有高正確性、但低精準度的狀況。\n"
+"其次，數值精度指的是記錄有效位數的個數，並隨著電腦的出現更加明顯。舉例而言，資料庫中可以輸出經度/緯度至小數點下10位的準確度(約為現實中之0.1mm)，然而該記錄的解析度實際上並不優於10-100m(小數點下3-4位)，這常導致大眾對解析度與準確度產生了混淆、錯誤的認識。"
 
 #. type: delimited block _
 #: foundations.en.adoc:83
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
-msgstr ""
+msgstr "除了帶有空間屬性的資料外，「正確性」與「精準度」這兩個詞也能被用在不具空間屬性的資料上。舉例而言，一個標本可能雖被鑑定至亞種的層級(高的精準度)卻分在錯的分類底下(低正確性)，或是僅鑑定至科的層級(高正確性、低精準度)。"
 
 #. type: delimited block _
 #: foundations.en.adoc:85
