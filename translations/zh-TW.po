@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-12 15:07\n"
+"PO-Revision-Date: 2024-02-13 02:08\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -450,12 +450,12 @@ msgstr "「資料品質」一詞具有多個面向，並同時與資料管理、
 #. type: delimited block _
 #: foundations.en.adoc:92
 msgid "Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret."
-msgstr ""
+msgstr "Redman (2001)認為：一適合使用的資料必須是能被取得(accessible)、正確(accurate)、即時更新(timely)、完整(complete)、與其他來源一致(consistent with other sources)、與主題相關(relevant)、全面(comprehensive)的，並提供使用者適當程度的細節、且容易閱讀理解。"
 
 #. type: delimited block _
 #: foundations.en.adoc:96
 msgid "One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.  There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.  This may require such things as atomizing data fields, adding geo-referencing information, etc."
-msgstr ""
+msgstr "身為資料保管者，可以去思考該做什麼來面向更廣的使用者、及拓展資料庫的用途(如：增加其潛在的使用與相關性)。這類工作譬如：將資料欄位原子化、或新增地理參考資訊......等等──也是故，這樣的思考也勢必得在 使用性提升 vs. 投入的工作成本 中做出權衡。"
 
 #. type: delimited block _
 #: foundations.en.adoc:98
