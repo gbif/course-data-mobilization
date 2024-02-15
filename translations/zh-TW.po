@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-15 04:06\n"
+"PO-Revision-Date: 2024-02-15 06:00\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -476,24 +476,24 @@ msgstr "在更以商業導向的方法中，Redman (2001)將品質保證(QA)定�
 #. type: delimited block _
 #: foundations.en.adoc:106
 msgid "How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management."
-msgstr ""
+msgstr "上述提到的術語如何實際應用尚不清楚，且在大多數的情境中，它們常被同義地使用，並用以描述資料品質管理的整體操作。"
 
 #. type: delimited block _
 #: foundations.en.adoc:108
 #, no-wrap
 msgid "*Uncertainty*\n"
-msgstr ""
+msgstr "*不確定性*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:113
 msgid "Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).  Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.  There is always uncertainty in data; the difficulty is in recording, understanding and visualizing that uncertainty so that others can also understand it.  Uncertainty is a key term in understanding risk and risk assessment."
-msgstr ""
+msgstr "「不確定性」(Uncertainty )可以視為是對「對一未知量的知識及資訊的不完整性」的衡量，若當完美的測量裝置存在時，則可確定它的實際程度 (Cullen and Frey 1999)。不確定性是觀察者對資料理解的性質，此性質與觀察者較有關，而非每份資料本身。在資料中永遠存在不確定性，若想透過記錄、理解、和視覺化這樣的不確定性來讓他人能理解並不容易。但總之，不確定性是用來理解風險及其評估的關鍵術語。"
 
 #. type: delimited block _
 #: foundations.en.adoc:115
 #, no-wrap
 msgid "*Error*\n"
-msgstr ""
+msgstr "*誤差*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:122
