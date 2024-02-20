@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-20 07:49\n"
+"PO-Revision-Date: 2024-02-20 09:58\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -503,39 +503,40 @@ msgstr "「誤差」(Error )一詞同時包含了資料的不精準(imprecision)
 #. type: delimited block _
 #: foundations.en.adoc:125
 msgid "An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.  Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code."
-msgstr ""
+msgstr "舉個情境而言，是在使用不同的大地測量基準的時候。若在整個分析中只使用同個大地測量基準，可能不會發生大問題；但若在分析中使用了來自不同大地測量基準、且有不同偏差的資料，(如：使用不同大地測量基準的資料集、或鑑定時參照了早期版本的命名法規)，則可能就會發生問題。"
 
 #. type: delimited block _
 #: foundations.en.adoc:129
 msgid "“Because error is inescapable, it should be recognized as a fundamental dimension of data” (Chrisman 1991).  Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.  Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented."
-msgstr ""
+msgstr "(Chrisman 1991)提到：由於無法避免誤差，因此應將它視為資料的基礎維度。只有當誤差與資料的同時呈現時，才可能去了解資料的限制、甚至理解現有知識的極限在哪。承上所述，需要計算整理空間、屬性、時間等三個維度的已知誤差，藉此更進一步了解資料性質。"
 
 #. type: delimited block _
 #: foundations.en.adoc:131
 #, no-wrap
 msgid "*Validation and Cleaning*\n"
-msgstr ""
+msgstr "*資料驗證與清理*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:137
 msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
-msgstr ""
+msgstr "資料驗證(Validation)是檢查資料是否正確、完整、合理的過程。其中包含：格式檢查、完整度檢查、合理性檢查、限制檢查，資料回顧(藉此判別離群值及其他誤差。如：地理上、統計上、時間上、環境性的......等等)，以及相關領域專家(如：分類學家)對資料的評估。此外，這階段也會去檢查資料是否遵守適用的標準、規則和慣例。這些檢查常會將可疑紀錄標記、整理出來，並進行後續的確認。找出造成誤差的主因，並盡可能避免這些錯誤再度發生，是驗證與清理中的關鍵階段(Redman 2001)。"
 
 #. type: delimited block _
 #: foundations.en.adoc:142
 msgid "Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.  The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.  It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.  It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered."
-msgstr ""
+msgstr "資料清理(Data cleaning)是修補上階段找出的錯誤的過程，其可同義於「資料清潔」(注意：有些人使用「資料清潔」一詞來同時概括資料驗證、清理兩個階段，但此處並非此用法)。這階段中，要避免無意間的資料損失、同時在更改資料時要特別小心。較好的做法是新舊並存(保留原始資料、及更正後的版本)，且並排保存在資料庫中，藉此若在清理時出錯時還能恢復成原始資料。"
 
 #. type: Title ===
 #: foundations.en.adoc:145
 #, no-wrap
 msgid "Documentation"
-msgstr ""
+msgstr "文件化"
 
 #. type: delimited block *
 #: foundations.en.adoc:150
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr ""
+msgstr "在這影片中 (09:47)將介紹文件化(documentation )的重要性，及其與資料管理、發布的關聯。\n"
+"你將會學到資料映射(data mapping)、資料間相互關係、與後設資料(metadata)的概念。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Foundations_Documentation.mp4[download^,opts=download] 並在電腦上觀賞。 (MP4 - 29.2 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:154
