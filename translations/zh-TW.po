@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-22 06:45\n"
+"PO-Revision-Date: 2024-02-22 08:57\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -677,40 +677,41 @@ msgstr "*功能性*：你得先對「要軟體能達成什麼」的期待十分�
 #, no-wrap
 msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
 "It will also make more likely to be updated and ported to more modern operating systems.\n"
-msgstr ""
+msgstr "*穩定性*：\n"
+"有些解方已經在市面上好一陣子，且被實體的機構、公司支援，它們更可能是沒有bug、或擁有良好的系統來解決任何出現的問題。它們也更有可能更新並移植到更現代的作業系統上。"
 
 #. type: delimited block *
 #: foundations.en.adoc:215
 #, no-wrap
 msgid "*Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.\n"
 "Check the opinions of other users online.\n"
-msgstr ""
+msgstr "*可擴展性*： 有些軟體在剛開箱展示時表現良好，但一段時間後、或使用大量資料時、或同時多人存取時的表現卻會下降。請參考網上其他使用者的意見。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:217
 #, no-wrap
 msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
 "Data transformation is a time consuming task.\n"
-msgstr ""
+msgstr "*整合性*：請確保軟體能讀取你使用的資料格式，且也能生產出你需要的格式。資料轉換可是件耗時的工作。"
 
 #. type: delimited block *
 #: foundations.en.adoc:218
 #, no-wrap
 msgid "*Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.\n"
-msgstr ""
+msgstr "*語言支援*：讓每個軟體使用者都能理解它的介面、且也都了解可能會使用到的檔案，這點十分重要。"
 
 #. type: delimited block *
 #: foundations.en.adoc:220
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
-msgstr ""
+msgstr "*文檔與技術支援*： 確保探索完既有的文檔與技術支援機制，你將確定在某刻你會需要它們。"
 
 #. type: delimited block *
 #: foundations.en.adoc:221
 #, no-wrap
 msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learned while using them, supported by in-line help systems.\n"
-msgstr ""
+msgstr "*學習曲線*：有些軟體可能需要特別的訓練來學習如何使用，但有些則更加直覺性、且能在使用中學會操作(透過內建的幫助系統)。"
 
 #. type: Title ===
 #: foundations.en.adoc:222
@@ -721,13 +722,13 @@ msgstr "安裝 OpenRefine"
 #. type: delimited block *
 #: foundations.en.adoc:225
 msgid "Install software required for activities later in the course"
-msgstr ""
+msgstr "安裝後續課程活動所需之軟體工具"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: foundations.en.adoc:226
 #, no-wrap
 msgid "Open Refine Logo"
-msgstr ""
+msgstr "Open Refine Logo"
 
 #. type: Target for macro image
 #: foundations.en.adoc:226
@@ -754,7 +755,7 @@ msgstr ""
 #: foundations.en.adoc:239
 #, no-wrap
 msgid "Installation Requirements"
-msgstr ""
+msgstr "安裝需求"
 
 #. type: delimited block *
 #: foundations.en.adoc:242
@@ -808,19 +809,19 @@ msgstr ""
 #: foundations.en.adoc:444 foundations.en.adoc:453 foundations.en.adoc:462
 #: foundations.en.adoc:471
 msgid "{blank}"
-msgstr ""
+msgstr "{blank}"
 
 #. type: Target for macro image
 #: foundations.en.adoc:260
 #, no-wrap
 msgid "img/web/install-openrefine/win1-save-download.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win1-save-download.png"
 
 #. type: Target for macro image
 #: foundations.en.adoc:269
 #, no-wrap
 msgid "img/web/install-openrefine/win2-extract-all.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win2-extract-all.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:271
@@ -831,7 +832,7 @@ msgstr ""
 #: foundations.en.adoc:278
 #, no-wrap
 msgid "img/web/install-openrefine/win3-extract-location.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win3-extract-location.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:280
@@ -842,7 +843,7 @@ msgstr ""
 #: foundations.en.adoc:287
 #, no-wrap
 msgid "img/web/install-openrefine/win4-create-shortcut.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win4-create-shortcut.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:289
@@ -853,7 +854,7 @@ msgstr ""
 #: foundations.en.adoc:296
 #, no-wrap
 msgid "img/web/install-openrefine/win5-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win5-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:298
