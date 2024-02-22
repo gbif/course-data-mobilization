@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-21 06:04\n"
+"PO-Revision-Date: 2024-02-22 05:44\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -574,32 +574,32 @@ msgstr "這過程中的步驟可能包含："
 #: foundations.en.adoc:175
 #, no-wrap
 msgid "*Pre-digitization curation and staging*: This includes the preparation of the data source for the digitization process, including the assignment of unique identifiers that will help to refer to the source without error and to keep all derived information together.\n"
-msgstr ""
+msgstr "*數位化前預先管理、分層*：這包含數位化前的資料準備工作，諸如：將資料指定獨一無二的辨識碼，這將幫助資料集引用時不會出錯，並讓所有衍生資訊保存在一起。"
 
 #. type: delimited block *
 #: foundations.en.adoc:176
 #, no-wrap
 msgid "*Image capture*: This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.\n"
-msgstr ""
+msgstr "*影像擷取*：這包含了一定程度的事先規畫，除了影像擷取本身外(如：工作程序的定義、硬體的選擇)，亦包括影像如何在何處被儲存與處理。"
 
 #. type: delimited block *
 #: foundations.en.adoc:177
 #, no-wrap
 msgid "*Image processing*: This includes quality control, file conversion, etc.\n"
-msgstr ""
+msgstr "*影像加工*：包含品質控制、版本轉換...等等。"
 
 #. type: delimited block *
 #: foundations.en.adoc:179
 #, no-wrap
 msgid "*Electronic data capture*: The core of the digitization process, includes capturing key information in a database.\n"
 "The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.\n"
-msgstr ""
+msgstr "*數位資料獲取*：資料數位化程序的核心，包含如何獲取資料庫中的關鍵資訊。影片中強調，雖然鍵盤最常見的輸入資訊方法，但越來越多的機構正轉向使用進階的資料輸入科技。"
 
 #. type: delimited block *
 #: foundations.en.adoc:180
 #, no-wrap
 msgid "*Georeferencing*: Geographical information is very important for biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.\n"
-msgstr ""
+msgstr "*進行地理參考*：地理資訊對生物多樣性分析非常重要，因此資料數位化專案都應盡可能地去萃取出更加正確的理資訊。"
 
 #. type: delimited block *
 #: foundations.en.adoc:184
