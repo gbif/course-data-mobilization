@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-22 08:57\n"
+"PO-Revision-Date: 2024-02-24 07:50\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -739,7 +739,7 @@ msgstr ""
 #. type: delimited block *
 #: foundations.en.adoc:231
 msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^] 是個專門用來改善資料集整體品質的工具，其中含有許多能處理表格資料的功能。這個應用程式能在你的電腦上做為小型伺服器運行，且為了使用它，須將你的網頁瀏覽器連上該伺服器的位址。因此，請將 OpenRefine想做為一個個人、私人的網路應用程式。"
 
 #. type: delimited block *
 #: foundations.en.adoc:236
