@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-28 18:07\n"
+"PO-Revision-Date: 2024-02-28 19:09\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -586,20 +586,20 @@ msgstr "*影像擷取*：這包含了一定程度的事先規畫，除了影像�
 #: foundations.en.adoc:177
 #, no-wrap
 msgid "*Image processing*: This includes quality control, file conversion, etc.\n"
-msgstr "*影像加工*：包含品質控制、版本轉換...等等。"
+msgstr "*影像加工*：包含品質控制、版本轉換...等等。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:179
 #, no-wrap
 msgid "*Electronic data capture*: The core of the digitization process, includes capturing key information in a database.\n"
 "The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.\n"
-msgstr "*數位資料獲取*：資料數位化程序的核心，包含如何獲取資料庫中的關鍵資訊。影片中強調，雖然鍵盤最常見的輸入資訊方法，但越來越多的機構正轉向使用進階的資料輸入科技。"
+msgstr "*數位資料獲取*：資料數位化程序的核心，包含如何獲取資料庫中的關鍵資訊。影片中強調，雖然鍵盤最常見的輸入資訊方法，但越來越多的機構正轉向使用進階的資料輸入科技。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:180
 #, no-wrap
 msgid "*Georeferencing*: Geographical information is very important for biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.\n"
-msgstr "*進行地理參考*：地理資訊對生物多樣性分析非常重要，因此資料數位化專案都應盡可能地去萃取出更加正確的理資訊。"
+msgstr "*進行地理參考*：地理資訊對生物多樣性分析非常重要，因此資料數位化專案都應盡可能地去萃取出更加正確的理資訊。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:184
@@ -656,21 +656,21 @@ msgstr "Download link:../course-docs/Software-database-EN.xlsx[Software-database
 #. type: delimited block *
 #: foundations.en.adoc:206
 msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^]:"
-msgstr "當分析你不曾使用過的生物多樣性資訊軟體時，你需要根據你的目的來選擇、使用它。下述清單中列出了不同的評估面向，以供評估開始時的參考。這些面向是受到GBIF手冊  https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^] 中「characteristics of a good database solution」一章啟發而列出的，如以下：\n\n"
+msgstr "當分析你不曾使用過的生物多樣性資訊軟體時，你需要根據你的目的來選擇、使用它。下述清單中列出了不同的評估面向，以供評估開始時的參考。這些面向是受到GBIF手冊  https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^] 中「characteristics of a good database solution」一章啟發而列出的，如以下："
 
 #. type: delimited block *
 #: foundations.en.adoc:209
 #, no-wrap
 msgid "*Price*: One of the most determining factors.\n"
 "Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.\n"
-msgstr "*價格*：最重要的決定因素之一。除了軟體授權費用外，還需考慮運行的硬體、維護、升級、和使用時的專業知識。"
+msgstr "*價格*：最重要的決定因素之一。除了軟體授權費用外，還需考慮運行的硬體、維護、升級、和使用時的專業知識。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:211
 #, no-wrap
 msgid "*Functionality*: You need to have clarity on what do you expect the software to achieve, and make sure it does it efficiently.\n"
 "Do not get distracted by additional functionality that can make the software more complex unnecessarily.\n"
-msgstr "*功能性*：你得先對「要軟體能達成什麼」的期待十分清楚，藉以確保它能有效地達成目標。不要分心在附加功能上，它們可能會讓軟體不必要地變得更加複雜。"
+msgstr "*功能性*：你得先對「要軟體能達成什麼」的期待十分清楚，藉以確保它能有效地達成目標。不要分心在附加功能上，它們可能會讓軟體不必要地變得更加複雜。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:213
@@ -678,7 +678,7 @@ msgstr "*功能性*：你得先對「要軟體能達成什麼」的期待十分�
 msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
 "It will also make more likely to be updated and ported to more modern operating systems.\n"
 msgstr "*穩定性*：\n"
-"有些解方已經在市面上好一陣子，且被實體的機構、公司支援，它們更可能是沒有bug、或擁有良好的系統來解決任何出現的問題。它們也更有可能更新並移植到更現代的作業系統上。"
+"有些解方已經在市面上好一陣子，且被實體的機構、公司支援，它們更可能是沒有bug、或擁有良好的系統來解決任何出現的問題。它們也更有可能更新並移植到更現代的作業系統上。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:215
@@ -692,26 +692,26 @@ msgstr "*可擴展性*： 有些軟體在剛開箱展示時表現良好，但一
 #, no-wrap
 msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
 "Data transformation is a time consuming task.\n"
-msgstr "*整合性*：請確保軟體能讀取你使用的資料格式，且也能生產出你需要的格式。資料轉換可是件耗時的工作。"
+msgstr "*整合性*：請確保軟體能讀取你使用的資料格式，且也能生產出你需要的格式。資料轉換可是件耗時的工作。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:218
 #, no-wrap
 msgid "*Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.\n"
-msgstr "*語言支援*：讓每個軟體使用者都能理解它的介面、且也都了解可能會使用到的檔案，這點十分重要。"
+msgstr "*語言支援*：讓每個軟體使用者都能理解它的介面、且也都了解可能會使用到的檔案，這點十分重要。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:220
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
-msgstr "*文檔與技術支援*： 確保探索完既有的文檔與技術支援機制，你將確定在某刻你會需要它們。"
+msgstr "*文檔與技術支援*： 確保探索完既有的文檔與技術支援機制，你將確定在某刻你會需要它們。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:221
 #, no-wrap
 msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learned while using them, supported by in-line help systems.\n"
-msgstr "*學習曲線*：有些軟體可能需要特別的訓練來學習如何使用，但有些則更加直覺性、且能在使用中學會操作(透過內建的幫助系統)。"
+msgstr "*學習曲線*：有些軟體可能需要特別的訓練來學習如何使用，但有些則更加直覺性、且能在使用中學會操作(透過內建的幫助系統)。\n"
 
 #. type: Title ===
 #: foundations.en.adoc:222
@@ -870,7 +870,7 @@ msgstr "在 Mac 上安裝"
 #. type: Plain text
 #: foundations.en.adoc:304
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
-msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]  。"
+msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit] 。"
 
 #. type: Plain text
 #: foundations.en.adoc:306
@@ -1023,12 +1023,12 @@ msgstr "在 Linux 上安裝"
 #. type: Plain text
 #: foundations.en.adoc:417
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
-msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit] "
+msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]"
 
 #. type: Plain text
 #: foundations.en.adoc:419
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
-msgstr "下載、解壓縮，接著輸入 ./refine 來開啟。這會需要Java有安裝在電腦上才能運行。 "
+msgstr "下載、解壓縮，接著輸入 ./refine 來開啟。這會需要Java有安裝在電腦上才能運行。"
 
 #. type: Block title
 #: foundations.en.adoc:420
