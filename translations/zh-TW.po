@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-24 09:03\n"
+"PO-Revision-Date: 2024-02-28 18:07\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -317,7 +317,7 @@ msgstr "基礎 "
 #: foundations.en.adoc:9
 msgid "This module includes instruction to ensure all participants are at the same level before delving into the data mobilization topics.  You will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.  You will also receive an introduction to data quality and learn the importance of documentation.  Lastly, you will be asked to install the OpenRefine software as part of this module."
 msgstr "為確保每位參與者在接下來的資料流通課程前都至少有一定程度的先備知識，在這個環節中將進行基礎介紹說明。\n"
-"其中包含：(1)使用的語言、專有名詞、部分基礎概念的定義，以及接下來課程中將使用到的功能與流程。(2)資料品質的概念與文件結構化的重要性 (3)安裝OpenRefine ，在這一環節中會用上\n\n"
+"其中包含：(1)使用的語言、專有名詞、部分基礎概念的定義，以及接下來課程中將使用到的功能與流程。(2)資料品質的概念與文件結構化的重要性 (3)安裝OpenRefine ，在這一環節中會用上"
 
 #. type: Title ===
 #: foundations.en.adoc:10
@@ -422,7 +422,7 @@ msgstr "正確性(Accuracy)與精準度(Precision)經常被搞混，其因在於
 #. type: delimited block _
 #: foundations.en.adoc:73
 msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
-msgstr "「正確性」指的是量測值(或觀測值、估計值)與真值(或實際情況、或被接受為真的值，如：測量控制點的座標)的靠近程度。\n"
+msgstr "「正確性」指的是量測值(或觀測值、估計值)與真值(或實際情況、或被接受為真的值，如：測量控制點的座標)的靠近程度。"
 
 #. type: delimited block _
 #: foundations.en.adoc:80
@@ -440,7 +440,7 @@ msgstr "除了帶有空間屬性的資料外，「正確性」與「精準度」
 #: foundations.en.adoc:85
 #, no-wrap
 msgid "*Data quality*\n"
-msgstr "*資料品質*"
+msgstr "*資料品質*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:90
@@ -461,7 +461,7 @@ msgstr "身為資料保管者，可以去思考該做什麼來面向更廣的使
 #: foundations.en.adoc:98
 #, no-wrap
 msgid "*Quality Assurance/ Quality Control*\n"
-msgstr "*品質保證/品質控管*"
+msgstr "*品質保證/品質控管*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:102
@@ -498,7 +498,7 @@ msgstr "*誤差*\n"
 #. type: delimited block _
 #: foundations.en.adoc:122
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
-msgstr "「誤差」(Error )一詞同時包含了資料的不精準(imprecision)與不正確(inaccuracy)兩個層面。有許多因素會造成誤差，但一般來說，誤差會被視為是隨機、或系統性的──隨機誤差指的是隨機抽樣造成測量值與真實值之間產生的偏差；而系統性誤差則來自值上的整體偏移，若從製圖學的視角看仍保有「相對的正確性」(Chrisman 1991)，是而在決定「適用性」時，在某些應用上系統誤差在可能是可被接受的。\n\n"
+msgstr "「誤差」(Error )一詞同時包含了資料的不精準(imprecision)與不正確(inaccuracy)兩個層面。有許多因素會造成誤差，但一般來說，誤差會被視為是隨機、或系統性的──隨機誤差指的是隨機抽樣造成測量值與真實值之間產生的偏差；而系統性誤差則來自值上的整體偏移，若從製圖學的視角看仍保有「相對的正確性」(Chrisman 1991)，是而在決定「適用性」時，在某些應用上系統誤差在可能是可被接受的。"
 
 #. type: delimited block _
 #: foundations.en.adoc:125
@@ -563,7 +563,7 @@ msgstr "在工作坊中，我們並不會教資料數位化本身，因為它很
 #. type: delimited block *
 #: foundations.en.adoc:171
 msgid "There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.  It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to.  In this exercise we introduce you to some practical digitization workflow resources to help get you started.  These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows."
-msgstr "組織資料數位化的方法有很多種，一開始可能讓人感到不知從何下手。記住重要的一點是，在大多數他人的數位化案例中，很可能就有著和你們打算數位化的同類型標本、物件。在這個練習中，我們會介紹一些實際的資料數位化流程資源，藉此幫助你們上路，這些練習也會成為未來工作坊中選擇、修改、評估工作流程的基礎。\n\n"
+msgstr "組織資料數位化的方法有很多種，一開始可能讓人感到不知從何下手。記住重要的一點是，在大多數他人的數位化案例中，很可能就有著和你們打算數位化的同類型標本、物件。在這個練習中，我們會介紹一些實際的資料數位化流程資源，藉此幫助你們上路，這些練習也會成為未來工作坊中選擇、修改、評估工作流程的基礎。"
 
 #. type: delimited block *
 #: foundations.en.adoc:173
@@ -574,13 +574,13 @@ msgstr "這過程中的步驟可能包含："
 #: foundations.en.adoc:175
 #, no-wrap
 msgid "*Pre-digitization curation and staging*: This includes the preparation of the data source for the digitization process, including the assignment of unique identifiers that will help to refer to the source without error and to keep all derived information together.\n"
-msgstr "*數位化前預先管理、分層*：這包含數位化前的資料準備工作，諸如：將資料指定獨一無二的辨識碼，這將幫助資料集引用時不會出錯，並讓所有衍生資訊保存在一起。"
+msgstr "*數位化前預先管理、分層*：這包含數位化前的資料準備工作，諸如：將資料指定獨一無二的辨識碼，這將幫助資料集引用時不會出錯，並讓所有衍生資訊保存在一起。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:176
 #, no-wrap
 msgid "*Image capture*: This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.\n"
-msgstr "*影像擷取*：這包含了一定程度的事先規畫，除了影像擷取本身外(如：工作程序的定義、硬體的選擇)，亦包括影像如何在何處被儲存與處理。"
+msgstr "*影像擷取*：這包含了一定程度的事先規畫，除了影像擷取本身外(如：工作程序的定義、硬體的選擇)，亦包括影像如何在何處被儲存與處理。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:177
