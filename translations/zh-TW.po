@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-28 19:09\n"
+"PO-Revision-Date: 2024-02-29 02:10\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1117,7 +1117,7 @@ msgstr "基礎回顧"
 #: foundations.en.adoc:484 planning.en.adoc:134 capture.en.adoc:63
 #: management.en.adoc:150 publishing.en.adoc:61
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr ""
+msgstr "小試身手，回憶一下這節學到的概念吧！"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1126,7 +1126,7 @@ msgstr ""
 #. type: delimited block *
 #: foundations.en.adoc:492
 msgid "For the given statement, input the correct term (database, database language, database program)"
-msgstr ""
+msgstr "請在接下來的段落中填入對應的詞彙(資料庫、資料庫語言、資料庫程式)"
 
 #. type: delimited block .
 #: foundations.en.adoc:501
@@ -1137,7 +1137,12 @@ msgid "* combines and presents functions and features for manipulating data, tog
 "  __database__\n"
 "* the way by which a human communicates with a computer +\n"
 "  __database language__\n"
-msgstr ""
+msgstr "* 將操作資料的功能，在統一的介面中組合呈現的是 +\n"
+"  __資料庫程式__\n"
+"* 將電腦中的數據、資訊結構化，並組織起來的集合是 +\n"
+"  __資料庫__\n"
+"* 人類與電腦溝通所使用的是 +\n"
+"  __資料庫程式語言__"
 
 #.  Question 2
 #. type: Plain text
