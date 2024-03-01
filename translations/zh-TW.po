@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-29 03:39\n"
+"PO-Revision-Date: 2024-03-01 12:59\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1235,7 +1235,7 @@ msgstr "* 1236975 +\n"
 #. type: Plain text
 #: foundations.en.adoc:550
 msgid "Which of these terms describes a \"field/column name\"?"
-msgstr ""
+msgstr "下面哪些詞彙適合來形容「欄位名稱(field/column name)」？"
 
 #. type: delimited block .
 #: foundations.en.adoc:559
@@ -1246,13 +1246,18 @@ msgid "- [x] Assigned\n"
 "- [ ] Readable\n"
 "- [x] Unique\n"
 "- [ ] User-interface\n"
-msgstr ""
+msgstr "- [x] 須被指定Assigned\n"
+"- [ ] 描述性Descriptive\n"
+"- [x] 用來鑑別Identifying\n"
+"- [ ] 可讀Readable\n"
+"- [x] 獨一無二Unique\n"
+"- [ ] 成為使用者的中介User-interface\n"
 
 #.  Question 6
 #. type: Plain text
 #: foundations.en.adoc:562
 msgid "Which of these terms describes a \"field label\"?"
-msgstr ""
+msgstr "下面哪些詞彙適合來形容「欄位標籤(field label」？"
 
 #. type: delimited block .
 #: foundations.en.adoc:571
@@ -1263,13 +1268,18 @@ msgid "- [ ] Assigned\n"
 "- [x] Readable\n"
 "- [ ] Unique\n"
 "- [x] User-interface\n"
-msgstr ""
+msgstr "- [ ] 須被指定Assigned\n"
+"- [x] 描述性Descriptive\n"
+"- [ ] 用來鑑別Identifying\n"
+"- [x] 可讀Readable\n"
+"- [ ] 獨一無二Unique\n"
+"- [x] 成為使用者的中介User-interface"
 
 #.  Question 7
 #. type: Plain text
 #: foundations.en.adoc:574
 msgid "For each statement, input the correct structure (row, column, table)"
-msgstr ""
+msgstr "請為下面敘述填入正確的資料結構 (列row, 行column, 表格table)"
 
 #. type: delimited block .
 #: foundations.en.adoc:583
@@ -1280,13 +1290,18 @@ msgid "* All data refers to a SINGLE concept. +\n"
 "  __column__\n"
 "* Attributes of a record ALWAYS stay together. +\n"
 "  __row__\n"
-msgstr ""
+msgstr "* 集中了所有資料的是 +\n"
+"  __表格table__\n"
+"* 集中記錄同屬性資料的是 +\n"
+"  __行column__\n"
+"* 將同筆數據的屬性資料綁在一起的是 +\n"
+"  __列row__\n"
 
 #.  Question 8
 #. type: Plain text
 #: foundations.en.adoc:586
 msgid "Who determines the fitness for use of your data?"
-msgstr ""
+msgstr "誰決定了你資料的適用度(fitness for use)？"
 
 #. type: delimited block .
 #: foundations.en.adoc:593
@@ -1295,13 +1310,16 @@ msgid "- [ ] The museum or department director\n"
 "- [x] The users of the data for research or education\n"
 "- [ ] The collector of the data in the field\n"
 "- [ ] The person entering the data into the database\n"
-msgstr ""
+msgstr "- [ ] 博物館、部門主管\n"
+"- [x] 用這筆資料研究、教育的使用者們\n"
+"- [ ] 該領域中的資料蒐集者\n"
+"- [ ] 將資料輸入資料庫的人\n"
 
 #.  Question 9
 #. type: Plain text
 #: foundations.en.adoc:597
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
-msgstr ""
+msgstr "請根據圖片填入適當的描述(A, B, C, D).   image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 
 #. type: delimited block .
 #: foundations.en.adoc:608
@@ -1314,7 +1332,14 @@ msgid "* High accuracy, low precision +\n"
 "  __D__\n"
 "* Low accuracy, low precision +\n"
 "  __A__\n"
-msgstr ""
+msgstr "* 高正確性,、低精準度 +\n"
+"  __C__\n"
+"* 低正確性、高精準度 +\n"
+"  __B__\n"
+"* 高正確性、高精準度 +\n"
+"  __D__\n"
+"* 低正確性、低精準度 +\n"
+"  __A__\n"
 
 #.  Question 10
 #. type: Plain text
@@ -1465,7 +1490,7 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:49
 #, no-wrap
 msgid "Exercises"
-msgstr ""
+msgstr "練習"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:52
@@ -1502,7 +1527,7 @@ msgstr "<<Exercise 4>>"
 #: use-case-herbarium-specimens.en.adoc:69
 #, no-wrap
 msgid "Exercise sheet"
-msgstr ""
+msgstr "練習試算表"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
