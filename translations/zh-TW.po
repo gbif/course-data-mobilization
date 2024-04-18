@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-04-18 07:33\n"
+"PO-Revision-Date: 2024-04-18 09:43\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1411,7 +1411,7 @@ msgstr "請將自己帶入下列應用場景："
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr "此案例是關乎於 規劃、資料獲取、資料管理與發布資料集 等部份的綜合練習。在此推薦先下載 link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) ，這樣方便能在練習時邊做筆記。此案例的參考解法將在解答附錄中提供，此練習不會作為評分對象。"
+msgstr "此案例是關乎於 規劃、資料獲取、資料管理與發布資料集 等部份的綜合練習。在此推薦先下載 link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) ，這樣方便在練習時邊做筆記。此案例的參考解法將在解答附錄中提供，此練習不會作為評分對象。"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1431,7 +1431,7 @@ msgstr "*地區植物標本館中的資料數位化專案*\n"
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "這是一個在瓜地馬拉蒐集的 裂瓣穀精草標本 https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong]  by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
@@ -1442,7 +1442,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:20
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. The data are from a real dataset, but have been modified for the purposes of these exercises. It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr ""
+msgstr "以下內容是作為資料數位化課程的基礎練習而設計的，其中構想、內容來自於 Alberto González-Talaván, Néstor Beltrán, Nicolas Noé 與 Sharon Grant 。使用到的資料則來自於實際存在的資料集(但有先因應本次練習而進行調整)，而相關的敘述皆是假想情境，且僅適用於教學目的。"
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:21 use-case-invasive-species.en.adoc:27
@@ -1450,7 +1450,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:22
 #, no-wrap
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:25
@@ -1516,7 +1516,7 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
 #, no-wrap
 msgid "Planning"
-msgstr ""
+msgstr "規劃"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:56
