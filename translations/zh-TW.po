@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-04-09 07:09\n"
+"PO-Revision-Date: 2024-04-18 07:33\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1389,25 +1389,29 @@ msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [x] it allows you to know under which legal terms the reuse of data is permitted.\n"
 "- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
 "- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
-msgstr ""
+msgstr "- [x] 它讓使用者能判斷是否符合用途\n"
+"- [ ]  它讓你能為每個物種出沒紀錄分享更精準的定位\n"
+"- [x] 它讓人知道資料再利用的合法範圍、條約\n"
+"- [ ]  它能被應用在所有相關的材料，如：圖像、影片、或其他形式媒介上\n"
+"- [ ]  它能讓人知道該機構的展覽、與開放日\n"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:3
 #, no-wrap
 msgid "Use Case I - Herbarium Specimens"
-msgstr ""
+msgstr "使用案例一、植物標本館的標本"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-species.en.adoc:6
 #: use-case-lepidoptera-sampling.en.adoc:6
 #: use-case-birds-from-literature.en.adoc:6
 msgid "Familiarize yourself with the use case scenario."
-msgstr ""
+msgstr "請將自己帶入下列應用場景："
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr ""
+msgstr "此案例是關乎於 規劃、資料獲取、資料管理與發布資料集 等部份的綜合練習。在此推薦先下載 link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) ，這樣方便能在練習時邊做筆記。此案例的參考解法將在解答附錄中提供，此練習不會作為評分對象。"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1415,13 +1419,13 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:9
 #, no-wrap
 msgid "Scenario"
-msgstr ""
+msgstr "情境"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:14
 #, no-wrap
 msgid "*A Data Mobilization Project in a Regional Herbarium*\n"
-msgstr ""
+msgstr "*地區植物標本館中的資料數位化專案*\n"
 
 #. type: Block title
 #: use-case-herbarium-specimens.en.adoc:16
