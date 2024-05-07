@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2023-06-22 10:48+0000\n"
-"PO-Revision-Date: 2024-01-16 12:10\n"
+"POT-Creation-Date: 2024-02-07 11:52+0000\n"
+"PO-Revision-Date: 2024-04-18 09:43\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -317,7 +317,7 @@ msgstr "基礎 "
 #: foundations.en.adoc:9
 msgid "This module includes instruction to ensure all participants are at the same level before delving into the data mobilization topics.  You will receive an introduction to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.  You will also receive an introduction to data quality and learn the importance of documentation.  Lastly, you will be asked to install the OpenRefine software as part of this module."
 msgstr "為確保每位參與者在接下來的資料流通課程前都至少有一定程度的先備知識，在這個環節中將進行基礎介紹說明。\n"
-"其中包含：(1)使用的語言、專有名詞、部分基礎概念的定義，以及接下來課程中將使用到的功能與流程。(2)資料品質的概念與文件結構化的重要性 (3)安裝OpenRefine ，在這一環節中會用上\n\n"
+"其中包含：(1)使用的語言、專有名詞、部分基礎概念的定義，以及接下來課程中將使用到的功能與流程。(2)資料品質的概念與文件結構化的重要性 (3)安裝OpenRefine ，在這一環節中會用上"
 
 #. type: Title ===
 #: foundations.en.adoc:10
@@ -390,12 +390,12 @@ msgstr "*物種出現紀錄資料*\n"
 #. type: delimited block _
 #: foundations.en.adoc:59
 msgid "Species-occurrence data is used here to include specimen label data attached to specimens or lots housed in museums and herbaria, observational data and environmental survey data.  In general, the data are what we term “point-based”, although line (transect data from environmental surveys, collections along a river), polygon (observations from within a defined area such as a national park) and grid data (observations or survey records from a regular grid) are also included.  In general we are talking about georeferenced data – i.e. records with geographic references that tie them to a particular place in space – whether with a georeferenced coordinate (e.g. latitude and longitude, UTM) or not (textual description of a locality, altitude, depth) – and time (date, time of day)."
-msgstr ""
+msgstr "物種出現紀錄資料(Species-occurrence data)包含：博物館與植物標本館中附在標本(或批次)上的標籤資料、一般的觀測資料、和環境調查資料。在這個範疇中，雖含有線段資料(環境調查中的穿越線調查資料，如：沿河流之蒐集)、多角形資料(於特定區域內的觀測，如：國家公園)、網格資料(於規則網格中的觀測、調查記錄)等不同樣態的資料，但廣義上它們仍算作所謂的\"基於點的\"(point-based)資料。就此而言，廣義上我們討論的是具有地理參照資訊之資料，其中的地理參照資訊便能將之與特定時空位置連結起來──其中的地理資訊可以含有確切的地理座標(若有則如：經緯度、UTM)，或具對地區的具體描述(如：海拔、深度等)，並這些資訊都需搭配上時間之資料(日期、時刻)。"
 
 #. type: delimited block _
 #: foundations.en.adoc:62
 msgid "In general the data are also tied to a taxonomic name, but unidentified collections may also be included.  The term has occasionally been used interchangeably with the term “primary species data”."
-msgstr ""
+msgstr "物種出現紀錄資料一般都會帶有詳細的分類名稱，但亦可能包含有尚未鑑別者。因此，「物種出現紀錄資料」一詞有時能和「初級物種資料(“primary species data”)」相互替換。"
 
 #. type: delimited block _
 #: foundations.en.adoc:64
@@ -406,7 +406,7 @@ msgstr "*初級物種資料*\n"
 #. type: delimited block _
 #: foundations.en.adoc:67
 msgid "“Primary species data” is used to describe raw collection data and data without any spatial attributes.  It includes taxonomic and nomenclatural data without spatial attributes, such as names, taxa and taxonomic concepts without associated geographic references."
-msgstr ""
+msgstr "「初級物種資料」(“Primary species data” )用來指最原始的標本蒐集資料，它包含了沒有空間屬性的命名分類描述資訊，如：名稱、系統分類、與不具有地理空間屬性的分類概念。"
 
 #. type: delimited block _
 #: foundations.en.adoc:69
@@ -417,123 +417,126 @@ msgstr "*正確性與精準度*\n"
 #. type: delimited block _
 #: foundations.en.adoc:71
 msgid "Accuracy and precision are regularly confused and the differences are not generally understood."
-msgstr ""
+msgstr "正確性(Accuracy)與精準度(Precision)經常被搞混，其因在於人們普遍不理解其中的差異。"
 
 #. type: delimited block _
 #: foundations.en.adoc:73
 msgid "Accuracy refers to the closeness of measured values, observations or estimates to the real or true value (or to a value that is accepted as being true – for example, the coordinates of a survey control point)."
-msgstr ""
+msgstr "「正確性」指的是量測值(或觀測值、估計值)與真值(或實際情況、或被接受為真的值，如：測量控制點的座標)的靠近程度。"
 
 #. type: delimited block _
 #: foundations.en.adoc:80
 msgid "Precision (or Resolution) can be divided into two main types.  Statistical precision is the closeness with which repeated observations conform to themselves.  They have nothing to do with their relationship to the true value, and may have high precision, but low accuracy.  Numerical precision is the number of significant digits that an observation is recorded in and has become far more obvious with the advent of computers.  For example a database may output a decimal latitude/longitude record to 10 decimal places – i.e. ca .01 mm when in reality the record has a resolution no greater than 10-100 m (3-4 decimal places).  This often leads to a false impression of both the resolution and the accuracy."
-msgstr ""
+msgstr "「精準度」(又稱解析度)則可被分為兩種類型：\n"
+"首先，統計精度指的是重複觀測結果與它們自身的接近程度，其與真值的接近程度無關，因此有可能有高正確性、但低精準度的狀況。\n"
+"其次，數值精度指的是記錄有效位數的個數，並隨著電腦的出現更加明顯。舉例而言，資料庫中可以輸出經度/緯度至小數點下10位的準確度(約為現實中之0.1mm)，然而該記錄的解析度實際上並不優於10-100m(小數點下3-4位)，這常導致大眾對解析度與準確度產生了混淆、錯誤的認識。"
 
 #. type: delimited block _
 #: foundations.en.adoc:83
 msgid "These terms – accuracy and precision – can also be applied to non-spatial data as well as to spatial data.  For example, a collection may have an identification to subspecies level (i.e. have high precision), but be the wrong taxon (i.e. have low accuracy), or be identified only to Family level (high accuracy, but low precision)."
-msgstr ""
+msgstr "除了帶有空間屬性的資料外，「正確性」與「精準度」這兩個詞也能被用在不具空間屬性的資料上。舉例而言，一個標本可能雖被鑑定至亞種的層級(高的精準度)卻分在錯的分類底下(低正確性)，或是僅鑑定至科的層級(高正確性、低精準度)。"
 
 #. type: delimited block _
 #: foundations.en.adoc:85
 #, no-wrap
 msgid "*Data quality*\n"
-msgstr "*資料品質*"
+msgstr "*資料品質*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:90
 msgid "Data quality is multidimensional, and involves data management, modelling and analysis, quality control and assurance, storage and presentation.  As independently stated by Chrisman (1991) and Strong et al. (1997), data quality is related to use and cannot be assessed independently of the user.  In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized only when someone uses the data to do something useful.  Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999)."
-msgstr ""
+msgstr "「資料品質」一詞具有多個面向，並同時與資料管理、建模分析、品質控管確認、儲存與呈現有關。在Chrisman (1991)及Strong et al. (1997)中分別指出，資料品質僅和資料的利用相關，並且無法獨立於使用者外評估。在資料庫中，一筆數據並沒有所謂「實際的」品質與價值(Dalcin 2004)，它們的潛在價值只有在某位使用者的利用下才進而實現──故也由此可知，資料的品質便與滿足使用者需要的能力息息相關(English 1999)。"
 
 #. type: delimited block _
 #: foundations.en.adoc:92
 msgid "Redman (2001), suggested that for data to be fit for use they must be accessible, accurate, timely, complete, consistent with other sources, relevant, comprehensive, provide a proper level of detail, be easy to read and easy to interpret."
-msgstr ""
+msgstr "Redman (2001)認為：一適合使用的資料必須是能被取得(accessible)、正確(accurate)、即時更新(timely)、完整(complete)、與其他來源一致(consistent with other sources)、與主題相關(relevant)、全面(comprehensive)的，並提供使用者適當程度的細節、且容易閱讀理解。"
 
 #. type: delimited block _
 #: foundations.en.adoc:96
 msgid "One issue that a data custodian may need to consider is what may need to be done with the database to increase its usability to a wider audience (i.e. increase its potential use or relevance) and thus make it fit for a wider range of purposes.  There will be a trade off in this between the increased usability and the amount of effort required to add extra functionality and usability.  This may require such things as atomizing data fields, adding geo-referencing information, etc."
-msgstr ""
+msgstr "身為資料保管者，可以去思考該做什麼來面向更廣的使用者、及拓展資料庫的用途(如：增加其潛在的使用與相關性)。這類工作譬如：將資料欄位原子化、或新增地理參考資訊......等等──也是故，這樣的思考也勢必得在 使用性提升 vs. 投入的工作成本 中做出權衡。"
 
 #. type: delimited block _
 #: foundations.en.adoc:98
 #, no-wrap
 msgid "*Quality Assurance/ Quality Control*\n"
-msgstr ""
+msgstr "*品質保證/品質控管*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:102
 msgid "The difference between quality control and quality assurance is not always clear.  Taulbee (1996) makes the distinction between Quality Control and Quality Assurance and stresses that one cannot exist without the other if quality goals are to be met.  She defines Quality Control as a judgement of quality based on internal standards, processes and procedures established to control and monitor quality; and Quality Assurance as a judgement of quality based on standards external to the process and is the reviewing of the activities and quality control processes to insure that the final products meet predetermined standards of quality."
-msgstr ""
+msgstr "一直以來，品質控管(QC)、品質保證(QA)之間的差異並不清楚。Taulbee (1996)認為強調若要達成品質目標，兩者缺一不可，並對此做出區別。她將品質控管(QC)定義為：根據內部的標準、流程、或程序進行的品質判斷，藉此來控制及監測品質；而品質保證(QA)則依據外部標準進行，藉由回顧過程中的種種行為、品質控管(QC)流程，來確保最終產品符合預定的品質標準。"
 
 #. type: delimited block _
 #: foundations.en.adoc:104
 msgid "In a more business-oriented approach, Redman (2001) defines Quality Assurance as “those activities that are designed to produce defect-free information products to meet the most important needs of the most important customers, at the lowest possible cost”."
-msgstr ""
+msgstr "在更以商業導向的方法中，Redman (2001)將品質保證(QA)定義成「以盡可能低的成本來滿足最重要客戶的需求，並為此設計來生產無瑕疵的資訊產品的所有行為活動」。"
 
 #. type: delimited block _
 #: foundations.en.adoc:106
 msgid "How these terms are to be applied in practice is not clear, and in most cases the terms seem to be largely used synonymously to describe the overall practice of data quality management."
-msgstr ""
+msgstr "上述提到的術語如何實際應用尚不清楚，且在大多數的情境中，它們常被同義地使用，並用以描述資料品質管理的整體操作。"
 
 #. type: delimited block _
 #: foundations.en.adoc:108
 #, no-wrap
 msgid "*Uncertainty*\n"
-msgstr ""
+msgstr "*不確定性*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:113
 msgid "Uncertainty may be thought of as a “measure of the incompleteness of one’s knowledge or information about an unknown quantity whose true value could be established if a perfect measuring device were available” (Cullen and Frey 1999).  Uncertainty is a property of the observer’s understanding of the data, and is more about the observer than the data per se.  There is always uncertainty in data; the difficulty is in recording, understanding and visualizing that uncertainty so that others can also understand it.  Uncertainty is a key term in understanding risk and risk assessment."
-msgstr ""
+msgstr "「不確定性」(Uncertainty )可以視為是對「對一未知量的知識及資訊的不完整性」的衡量，若當完美的測量裝置存在時，則可確定它的實際程度 (Cullen and Frey 1999)。不確定性是觀察者對資料理解的性質，此性質與觀察者較有關，而非每份資料本身。在資料中永遠存在不確定性，若想透過記錄、理解、和視覺化這樣的不確定性來讓他人能理解並不容易。但總之，不確定性是用來理解風險及其評估的關鍵術語。"
 
 #. type: delimited block _
 #: foundations.en.adoc:115
 #, no-wrap
 msgid "*Error*\n"
-msgstr ""
+msgstr "*誤差*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:122
 msgid "Error encompasses both the imprecision of data and their inaccuracies.  There are many factors that contribute to error.  Error is generally seen as being either random or systematic.  Random error tends to refer to deviation from the true state in a random manner.  Systematic error or bias arises from a uniform shift in values and is sometimes described as having ‘relative accuracy’ in the cartographic world (Chrisman 1991).  In determining ‘fitness for use’ systematic error may be acceptable for some applications, and unfit for others."
-msgstr ""
+msgstr "「誤差」(Error )一詞同時包含了資料的不精準(imprecision)與不正確(inaccuracy)兩個層面。有許多因素會造成誤差，但一般來說，誤差會被視為是隨機、或系統性的──隨機誤差指的是隨機抽樣造成測量值與真實值之間產生的偏差；而系統性誤差則來自值上的整體偏移，若從製圖學的視角看仍保有「相對的正確性」(Chrisman 1991)，是而在決定「適用性」時，在某些應用上系統誤差在可能是可被接受的。"
 
 #. type: delimited block _
 #: foundations.en.adoc:125
 msgid "An example may be the use of a different geodetic datum1 – where, if used throughout the analysis, may not cause any major problems.  Problems will arise though where an analysis uses data from different sources and with different biases – for example data sources that use different geodetic datums, or where identifications may have been carried out using an earlier version of a nomenclatural code."
-msgstr ""
+msgstr "舉個情境而言，是在使用不同的大地測量基準的時候。若在整個分析中只使用同個大地測量基準，可能不會發生大問題；但若在分析中使用了來自不同大地測量基準、且有不同偏差的資料，(如：使用不同大地測量基準的資料集、或鑑定時參照了早期版本的命名法規)，則可能就會發生問題。"
 
 #. type: delimited block _
 #: foundations.en.adoc:129
 msgid "“Because error is inescapable, it should be recognized as a fundamental dimension of data” (Chrisman 1991).  Only when error is included in a representation of the data is it possible to answer questions about limitations in the data, and even limitations in current knowledge.  Known errors in the three dimensions of space, attribute and time need to be measured, calculated, recorded and documented."
-msgstr ""
+msgstr "(Chrisman 1991)提到：由於無法避免誤差，因此應將它視為資料的基礎維度。只有當誤差與資料的同時呈現時，才可能去了解資料的限制、甚至理解現有知識的極限在哪。承上所述，需要計算整理空間、屬性、時間等三個維度的已知誤差，藉此更進一步了解資料性質。"
 
 #. type: delimited block _
 #: foundations.en.adoc:131
 #, no-wrap
 msgid "*Validation and Cleaning*\n"
-msgstr ""
+msgstr "*資料驗證與清理*\n"
 
 #. type: delimited block _
 #: foundations.en.adoc:137
 msgid "Validation is a process used to determine if data are inaccurate, incomplete, or unreasonable.  The process may include format checks, completeness checks, reasonableness checks, limit checks, review of the data to identify outliers (geographic, statistical, temporal or environmental) or other errors, and assessment of data by subject area experts (e.g. taxonomic specialists).  These processes usually result in flagging, documenting and subsequent checking of suspect records.  Validation checks may also involve checking for compliance against applicable standards, rules, and conventions.  A key stage in data validation and cleaning is to identify the root causes of the errors detected and to focus on preventing those errors from re-occurring (Redman 2001)."
-msgstr ""
+msgstr "資料驗證(Validation)是檢查資料是否正確、完整、合理的過程。其中包含：格式檢查、完整度檢查、合理性檢查、限制檢查，資料回顧(藉此判別離群值及其他誤差。如：地理上、統計上、時間上、環境性的......等等)，以及相關領域專家(如：分類學家)對資料的評估。此外，這階段也會去檢查資料是否遵守適用的標準、規則和慣例。這些檢查常會將可疑紀錄標記、整理出來，並進行後續的確認。找出造成誤差的主因，並盡可能避免這些錯誤再度發生，是驗證與清理中的關鍵階段(Redman 2001)。"
 
 #. type: delimited block _
 #: foundations.en.adoc:142
 msgid "Data cleaning refers to the process of “fixing” errors in the data that have been identified during the validation process.  The term is synonymous with “data cleansing”, although some use data cleansing to encompass both data validation and data cleaning.  It is important in the data cleaning process that data is not inadvertently lost, and changes to existing information be carried out very carefully.  It is often better to retain both the old (original data) and the new (corrected data) side by side in the database so that if mistakes are made in the cleaning process, the original information can be recovered."
-msgstr ""
+msgstr "資料清理(Data cleaning)是修補上階段找出的錯誤的過程，其可同義於「資料清潔」(注意：有些人使用「資料清潔」一詞來同時概括資料驗證、清理兩個階段，但此處並非此用法)。這階段中，要避免無意間的資料損失、同時在更改資料時要特別小心。較好的做法是新舊並存(保留原始資料、及更正後的版本)，且並排保存在資料庫中，藉此若在清理時出錯時還能恢復成原始資料。"
 
 #. type: Title ===
 #: foundations.en.adoc:145
 #, no-wrap
 msgid "Documentation"
-msgstr ""
+msgstr "文件化"
 
 #. type: delimited block *
 #: foundations.en.adoc:150
 msgid "In this video (09:47), we will provide an overview of the importance of documentation as it relates to data management and data publishing.  You will learn about data mapping, data relationships and metadata.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Documentation.mp4[download^,opts=download] it locally. (MP4 - 29.2 MB)"
-msgstr ""
+msgstr "在這影片中 (09:47)將介紹文件化(documentation )的重要性，及其與資料管理、發布的關聯。\n"
+"你將會學到資料映射(data mapping)、資料間相互關係、與後設資料(metadata)的概念。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Foundations_Documentation.mp4[download^,opts=download] 並在電腦上觀賞。 (MP4 - 29.2 MB)"
 
 #. type: Title ===
 #: foundations.en.adoc:154
@@ -544,168 +547,171 @@ msgstr "資料數位化流程"
 #. type: delimited block *
 #: foundations.en.adoc:158
 msgid "This video (07:20) on Digitization Workflows identifies five clusters (or stages) in the process of digitizing natural history collection objects using digital images, and these stages can be easily adapted to other biodiversity data sources.  If you are unable to watch the embedded video, you can link:../videos/Foundations_Workflows.mp4[download^,opts=download] it locally. (MP4 - 26.8 MB)"
-msgstr ""
+msgstr "在這部介紹資料數位化流程的影片中(07:20)，定義了以數位影像來將自然歷史館藏物件數位化的\n"
+"五個階段，而這幾個階段也能較容易地應用在其他的生物多樣性資料來源上。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Foundations_Workflows.mp4[download^,opts=download] 並在電腦上觀賞。 (MP4 - 26.8 MB)"
 
 #. type: delimited block *
 #: foundations.en.adoc:163
 msgid "As the video highlights, digitization protocols vary from institution to institution, but it is essential that the chosen protocol is agreed, documented and respected."
-msgstr ""
+msgstr "正如同影片中強調，數位化協議(digitization protocols)會隨組織而異，故確保採用的是被同意、記錄、且受到認可的協議是至關重要的。"
 
 #. type: delimited block *
 #: foundations.en.adoc:166
 msgid "We do not teach digitization, per se, during the workshop, as it can easily stand as a week-long course on its own, instead we focus on basic introduction to biodiversity data capture.  However, we want to provide you with resources on digitization as we know many are interested in this."
-msgstr ""
+msgstr "在工作坊中，我們並不會教資料數位化本身，因為它很容易就變成長達一周的課程內容；相反地，我們會專注在關於生物多樣性資料獲取的基礎介紹上。雖說如此，由於我們知道仍有許多夥伴對此感興趣，所以仍想提供給一些關於資料數位化的相關學習資源給你們。"
 
 #. type: delimited block *
 #: foundations.en.adoc:171
 msgid "There are many ways to organize digitization efforts and so digitization can seem daunting to begin with.  It is important to remember that in most cases someone else has already tried to digitize the same types of specimens and objects that you are planning to.  In this exercise we introduce you to some practical digitization workflow resources to help get you started.  These will also form the basis for work we will do in the workshop on selecting, modifying and assessing workflows."
-msgstr ""
+msgstr "組織資料數位化的方法有很多種，一開始可能讓人感到不知從何下手。記住重要的一點是，在大多數他人的數位化案例中，很可能就有著和你們打算數位化的同類型標本、物件。在這個練習中，我們會介紹一些實際的資料數位化流程資源，藉此幫助你們上路，這些練習也會成為未來工作坊中選擇、修改、評估工作流程的基礎。"
 
 #. type: delimited block *
 #: foundations.en.adoc:173
 msgid "Some steps in the process may include:"
-msgstr ""
+msgstr "這過程中的步驟可能包含："
 
 #. type: delimited block *
 #: foundations.en.adoc:175
 #, no-wrap
 msgid "*Pre-digitization curation and staging*: This includes the preparation of the data source for the digitization process, including the assignment of unique identifiers that will help to refer to the source without error and to keep all derived information together.\n"
-msgstr ""
+msgstr "*數位化前預先管理、分層*：這包含數位化前的資料準備工作，諸如：將資料指定獨一無二的辨識碼，這將幫助資料集引用時不會出錯，並讓所有衍生資訊保存在一起。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:176
 #, no-wrap
 msgid "*Image capture*: This includes a fair amount of planning, not only on the image capture itself (e.g. definition of the work sequence, selection of adequate hardware), but also on how and where the images will be stored and handled.\n"
-msgstr ""
+msgstr "*影像擷取*：這包含了一定程度的事先規畫，除了影像擷取本身外(如：工作程序的定義、硬體的選擇)，亦包括影像如何在何處被儲存與處理。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:177
 #, no-wrap
 msgid "*Image processing*: This includes quality control, file conversion, etc.\n"
-msgstr ""
+msgstr "*影像加工*：包含品質控制、版本轉換...等等。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:179
 #, no-wrap
 msgid "*Electronic data capture*: The core of the digitization process, includes capturing key information in a database.\n"
 "The video highlights that the most common method of entering the information is through a keyboard, but more and more institutions are turning to advanced data entry technologies.\n"
-msgstr ""
+msgstr "*數位資料獲取*：資料數位化程序的核心，包含如何獲取資料庫中的關鍵資訊。影片中強調，雖然鍵盤最常見的輸入資訊方法，但越來越多的機構正轉向使用進階的資料輸入科技。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:180
 #, no-wrap
 msgid "*Georeferencing*: Geographical information is very important for biodiversity analysis, so digitization projects should seek to extract the most accurate geographical information possible.\n"
-msgstr ""
+msgstr "*進行地理參考*：地理資訊對生物多樣性分析非常重要，因此資料數位化專案都應盡可能地去萃取出更加正確的理資訊。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:184
 msgid "Integrated Digitized Biocollections (https://www.idigbio.org/[iDigBio^]) is the coordination centre for the United States National Resource for Advancing Digitization of Biodiversity Collections (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]).  They lead a nation-wide effort to make data and images for millions of biological specimens available in a standard electronic format for the research community, government agencies, students, educators, and the general public.  They have produced several videos that discuss the digitization process."
-msgstr ""
+msgstr "整合數位化生物館藏(Integrated Digitized Biocollections, iDigBio) (https://www.idigbio.org/[iDigBio^])  是美國聯邦自然資源局下生物多樣性館藏進階數位化(United States National Resource for Advancing Digitization of Biodiversity Collections) (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503559[ADBC^]) \n"
+"的協調中心單位。iDigBio它們領導著全國範圍的工作規模，藉以讓數百萬計的生物樣本能以標準的數位格式提供給科學研究社群、政府單位、學生、教育者、及社會大眾。他們同時也有製作幾支討論資料數位化流程的影片。"
 
 #. type: delimited block *
 #: foundations.en.adoc:186
 msgid "There are other videos in the iDigBio series that you may be interested in, if you wish to learn more about specific workflows for different specimen types:"
-msgstr ""
+msgstr "若你想更了解不同樣本類型的特定工作流程，你可能也會對iDigBio系列的其他影片感興趣："
 
 #. type: delimited block *
 #: foundations.en.adoc:188
 msgid "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690[^]"
-msgstr ""
+msgstr "“Digitizing Wet Collections” (4:34 mins) https://vimeo.com/120369690[^]"
 
 #. type: delimited block *
 #: foundations.en.adoc:189
 msgid "“Imaging Workflows for the Digitization of Dry-preserved Vertebrate Specimens” (7:25 mins) https://vimeo.com/160615629[^]"
-msgstr ""
+msgstr "“Imaging Workflows for the Digitization of Dry-preserved Vertebrate Specimens” (7:25 mins) https://vimeo.com/160615629[^]"
 
 #. type: delimited block *
 #: foundations.en.adoc:190
 msgid "“Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768[^]"
-msgstr ""
+msgstr "“Digitizing Herbarium Specimens” (7:34 mins) https://vimeo.com/120369768[^]"
 
 #. type: Title ===
 #: foundations.en.adoc:191
 #, no-wrap
 msgid "Software tools"
-msgstr ""
+msgstr "軟體工具"
 
 #. type: delimited block *
 #: foundations.en.adoc:194
 msgid "Review software tools used in biodiversity informatics"
-msgstr ""
+msgstr "回顧生物多樣性資訊使用之軟體工具"
 
 #. type: delimited block *
 #: foundations.en.adoc:197
 msgid "During the course activities, we’ll demonstrate and work with many different software tools related to data digitization, data quality and transformation.  You probably already use several of them in your daily work."
-msgstr ""
+msgstr "在課程活動中，我們將示範如何使用不同軟體工具(如：與資料數位化、資料品質或轉換相關)來工作。這些軟體或許你也曾經在日常工作中使用過。"
 
 #. type: delimited block *
 #: foundations.en.adoc:200
 msgid "Community trainers, mentors and former course participants have compiled a list with information about biodiversity informatics software tools.  It provides links for their main websites, a key facts and a summary of strong and weak points."
-msgstr ""
+msgstr "為此，社群訓練者、指導者、與先前的課程參加者已先整理出一份清單，其中包含了生物多樣性資訊軟體工具的相關資訊，如：主網站連結、關鍵事實、及優缺點的整理。"
 
 #. type: delimited block *
 #: foundations.en.adoc:202
 msgid "Download link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
-msgstr ""
+msgstr "Download link:../course-docs/Software-database-EN.xlsx[Software-database-EN.xlsx,opts=download]. (23 KB)"
 
 #. type: delimited block *
 #: foundations.en.adoc:206
 msgid "When analysing biodiversity software that you have not used before, you need to consider how you would adapt it for your purposes.  You will find below a list with which you can start your evaluation.  They are inspired by the chapter “characteristics of a good database solution” of the GBIF manual https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^]:"
-msgstr ""
+msgstr "當分析你不曾使用過的生物多樣性資訊軟體時，你需要根據你的目的來選擇、使用它。下述清單中列出了不同的評估面向，以供評估開始時的參考。這些面向是受到GBIF手冊  https://www.gbif.org/document/80574/initiating-a-collection-digitisation-project[“Initiating a Digitisation Project”^] 中「characteristics of a good database solution」一章啟發而列出的，如以下："
 
 #. type: delimited block *
 #: foundations.en.adoc:209
 #, no-wrap
 msgid "*Price*: One of the most determining factors.\n"
 "Beware of other costs beyond the price of the software license, such as hardware needed to run it, maintenance, upgrades, and the expertise to run it.\n"
-msgstr ""
+msgstr "*價格*：最重要的決定因素之一。除了軟體授權費用外，還需考慮運行的硬體、維護、升級、和使用時的專業知識。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:211
 #, no-wrap
 msgid "*Functionality*: You need to have clarity on what do you expect the software to achieve, and make sure it does it efficiently.\n"
 "Do not get distracted by additional functionality that can make the software more complex unnecessarily.\n"
-msgstr ""
+msgstr "*功能性*：你得先對「要軟體能達成什麼」的期待十分清楚，藉以確保它能有效地達成目標。不要分心在附加功能上，它們可能會讓軟體不必要地變得更加複雜。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:213
 #, no-wrap
 msgid "*Stability*: Some solutions have been in the market for long and are supported by solid institutions or companies are more likely to be bug-free and/or have good systems in place to solve any issues arising.\n"
 "It will also make more likely to be updated and ported to more modern operating systems.\n"
-msgstr ""
+msgstr "*穩定性*：\n"
+"有些解方已經在市面上好一陣子，且被實體的機構、公司支援，它們更可能是沒有bug、或擁有良好的系統來解決任何出現的問題。它們也更有可能更新並移植到更現代的作業系統上。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:215
 #, no-wrap
 msgid "*Scalability*: Some software performs very well when demoed out-of-the-box, but its  performance degrades after some time or when using them with larger amounts of data or when several users access it simultaneously.\n"
 "Check the opinions of other users online.\n"
-msgstr ""
+msgstr "*可擴展性*： 有些軟體在剛開箱展示時表現良好，但一段時間後、或使用大量資料時、或同時多人存取時的表現卻會下降。請參考網上其他使用者的意見。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:217
 #, no-wrap
 msgid "*Integration*: Make sure that the software accepts and produces the data formats that you use and need.\n"
 "Data transformation is a time consuming task.\n"
-msgstr ""
+msgstr "*整合性*：請確保軟體能讀取你使用的資料格式，且也能生產出你需要的格式。資料轉換可是件耗時的工作。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:218
 #, no-wrap
 msgid "*Language support*: it is essential that everyone using the software can understand its interface, and the documentation that will make possible its use.\n"
-msgstr ""
+msgstr "*語言支援*：讓每個軟體使用者都能理解它的介面、且也都了解可能會使用到的檔案，這點十分重要。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:220
 #, no-wrap
 msgid "*Documentation and technical support*: make sure to explore the existing documentation and support mechanisms.\n"
 "You can be sure that at some point you will need it.\n"
-msgstr ""
+msgstr "*文檔與技術支援*： 確保探索完既有的文檔與技術支援機制，你將確定在某刻你會需要它們。\n"
 
 #. type: delimited block *
 #: foundations.en.adoc:221
 #, no-wrap
 msgid "*Learning curve*: Some software may require specific training to learn how to use it, while others are more intuitive and can be learned while using them, supported by in-line help systems.\n"
-msgstr ""
+msgstr "*學習曲線*：有些軟體可能需要特別的訓練來學習如何使用，但有些則更加直覺性、且能在使用中學會操作(透過內建的幫助系統)。\n"
 
 #. type: Title ===
 #: foundations.en.adoc:222
@@ -716,13 +722,13 @@ msgstr "安裝 OpenRefine"
 #. type: delimited block *
 #: foundations.en.adoc:225
 msgid "Install software required for activities later in the course"
-msgstr ""
+msgstr "安裝後續課程活動所需之軟體工具"
 
 #. type: Positional ($1) AttributeList argument for macro 'image'
 #: foundations.en.adoc:226
 #, no-wrap
 msgid "Open Refine Logo"
-msgstr ""
+msgstr "Open Refine Logo"
 
 #. type: Target for macro image
 #: foundations.en.adoc:226
@@ -733,65 +739,65 @@ msgstr ""
 #. type: delimited block *
 #: foundations.en.adoc:231
 msgid "https://openrefine.org/[OpenRefine^] is a tool with a set of features for working with tabular data that improves the overall quality of a dataset.  It is an application that runs on your own computer as a small web server, and in order to use it your web browser should point at that web server.  So, think of OpenRefine as a personal and private web application."
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^] 是個專門用來改善資料集整體品質的工具，其中含有許多能處理表格資料的功能。這個應用程式能在你的電腦上做為小型伺服器運行，且為了使用它，須將你的網頁瀏覽器連上該伺服器的位址。因此，請將 OpenRefine想做為一個個人、私人的網路應用程式。"
 
 #. type: delimited block *
 #: foundations.en.adoc:236
 msgid "We will use OpenRefine during the data mobilization portion of the course, especially during the practical exercises.  It will be necessary to install OpenRefine on your laptop.  If you are a skilled computer user, you can follow these steps to install the software on your computer.  If you are not confident, please ask for help. Refer to the https://openrefine.org/download.html[OpenRefine download page^] for more details."
-msgstr ""
+msgstr "在資料數位化課程的一部份(尤其在實作單元)中，將使用OpenRefine 進行，因此需要會先在你的桌電中安裝完畢。若你是位熟練的電腦使用者，你可以依循下面的這些步驟來在電腦上安裝軟體；但若你對此並沒有信心，請尋求協助。更多細節請參考 https://openrefine.org/download.html[OpenRefine download page^] 。"
 
 #. type: delimited block *
 #: foundations.en.adoc:238
 msgid "Administrative passwords may be required to install software."
-msgstr ""
+msgstr "在安裝時，可能會需要用到系統管理者密碼。"
 
 #. type: Title ====
 #: foundations.en.adoc:239
 #, no-wrap
 msgid "Installation Requirements"
-msgstr ""
+msgstr "安裝需求"
 
 #. type: delimited block *
 #: foundations.en.adoc:242
 msgid "Linux users only: Java JRE installed."
-msgstr ""
+msgstr "Linux 使用者： 需已安裝Java JRE"
 
 #. type: delimited block *
 #: foundations.en.adoc:243
 msgid "Google Chrome, Microsoft Edge or Mozilla Firefox installed.  Internet Explorer is not supported."
-msgstr ""
+msgstr "已安裝如Google Chrome、 Microsoft Edge 或Mozilla Firefox 等網頁瀏覽器。請注意，它並不支援 Internet Explorer。"
 
 #. type: delimited block *
 #: foundations.en.adoc:245
 msgid "The latest stable release is OpenRefine 3.4.1, released on September 24, 2020. Detailed installation instructions are available at https://docs.openrefine.org/manual/installing/[^]."
-msgstr ""
+msgstr "最新的OpenRefine穩定版本為發布於2020/9/24的3.4.1版。更多安裝說明請見 https://docs.openrefine.org/manual/installing/[^] 。"
 
 #. type: Title ====
 #: foundations.en.adoc:246
 #, no-wrap
 msgid "Installation on MS Windows"
-msgstr ""
+msgstr "在微軟Windows上安裝"
 
 #. type: delimited block =
 #: foundations.en.adoc:249 foundations.en.adoc:262
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*].  Choose to save the file rather than open it."
-msgstr ""
+msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-win-with-java-3.4.1.zip[Windows kit *with embedded Java*] 。選擇保存文件，而非打開它。"
 
 #. type: delimited block *
 #: foundations.en.adoc:250
 msgid "Find the downloaded file.  Right click it, and choose \"Extract all…\". Unzip, and double-click on openrefine.exe or refine.bat if the former does not work."
-msgstr ""
+msgstr "找到下載好的檔案，點選右鍵選擇「解壓縮全部...」。解壓縮，並雙擊openrefine.exe (若打不開，則點選 refine.bat)。"
 
 #. type: delimited block *
 #: foundations.en.adoc:251
 msgid "A command window will appear (don't close it) and soon after a new web browser window will show the application."
-msgstr ""
+msgstr "接著會跳出一個命令視窗(別關掉它)，稍待後，會出現一個新的web瀏覽器視窗，並顯示該應用程式。"
 
 #. type: Block title
 #: foundations.en.adoc:252
 #, no-wrap
 msgid "Detailed instructions for MS Windows (click to expand)"
-msgstr ""
+msgstr "詳細說明__Windows系統(點選展開)"
 
 #. type: delimited block =
 #: foundations.en.adoc:256 foundations.en.adoc:265 foundations.en.adoc:274
@@ -803,57 +809,57 @@ msgstr ""
 #: foundations.en.adoc:444 foundations.en.adoc:453 foundations.en.adoc:462
 #: foundations.en.adoc:471
 msgid "{blank}"
-msgstr ""
+msgstr "{blank}"
 
 #. type: Target for macro image
 #: foundations.en.adoc:260
 #, no-wrap
 msgid "img/web/install-openrefine/win1-save-download.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win1-save-download.png"
 
 #. type: Target for macro image
 #: foundations.en.adoc:269
 #, no-wrap
 msgid "img/web/install-openrefine/win2-extract-all.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win2-extract-all.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:271
 msgid "Find the file you downloaded.  Right click it, and choose \"Extract All…\""
-msgstr ""
+msgstr "找到下載好的檔案，點選右鍵選擇「解壓縮全部...」"
 
 #. type: Target for macro image
 #: foundations.en.adoc:278
 #, no-wrap
 msgid "img/web/install-openrefine/win3-extract-location.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win3-extract-location.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:280
 msgid "Click \"Extract\""
-msgstr ""
+msgstr "點選「解壓縮」"
 
 #. type: Target for macro image
 #: foundations.en.adoc:287
 #, no-wrap
 msgid "img/web/install-openrefine/win4-create-shortcut.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win4-create-shortcut.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:289
 msgid "Find the extracted files.  Optionally, right click \"openrefine\" and choose \"Send to → Desktop (create shortcut)\" to create a shortcut on your desktop.  Then double click \"openrefine\""
-msgstr ""
+msgstr "找到解壓縮完的檔案，你可以點選「openrefine」後右鍵、選擇「傳送到 → 桌面(建立捷徑)」來在桌面上創建捷徑。接著雙擊點選開啟「openrefine」"
 
 #. type: Target for macro image
 #: foundations.en.adoc:296
 #, no-wrap
 msgid "img/web/install-openrefine/win5-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/win5-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:298
 msgid "A black console window opens, and a short time later the browser opens.  OpenRefine is now ready to use."
-msgstr ""
+msgstr "一個黑色的命令視窗開啟，短時間後瀏覽器會開啟，接著就能使用OpenRefine了。"
 
 #. type: Title ====
 #: foundations.en.adoc:301
@@ -864,254 +870,254 @@ msgstr "在 Mac 上安裝"
 #. type: Plain text
 #: foundations.en.adoc:304
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit]."
-msgstr ""
+msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit] 。"
 
 #. type: Plain text
 #: foundations.en.adoc:306
 msgid "Download, open, drag icon into the Applications folder.  You do not need to install Java separately."
-msgstr ""
+msgstr "下載且打開後、把圖示拖曳到應用程式資料夾。這裡你不需要額外分開安裝Java。"
 
 #. type: Plain text
 #: foundations.en.adoc:307
 msgid "Double click on it and a new web browser window will show the application."
-msgstr ""
+msgstr "雙擊點選它，就會跳出新的視窗來顯示應用程式。"
 
 #. type: Block title
 #: foundations.en.adoc:308
 #, no-wrap
 msgid "Detailed instructions for Mac (click to expand)"
-msgstr ""
+msgstr "詳細說明__Mac系統(點選展開)"
 
 #. type: Target for macro image
 #: foundations.en.adoc:316
 #, no-wrap
 msgid "img/web/install-openrefine/mac01-download-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac01-download-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:318
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit], and choose to open it."
-msgstr ""
+msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-mac-3.4.1.dmg[Mac kit] ，並打開它。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:325
 #, no-wrap
 msgid "img/web/install-openrefine/mac02-unidentified-developer.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac02-unidentified-developer.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:327
 msgid "A warning is shown. Click \"OK\"."
-msgstr ""
+msgstr "會跳出一個警訊，點選「OK」"
 
 #. type: Target for macro image
 #: foundations.en.adoc:334
 #, no-wrap
 msgid "img/web/install-openrefine/mac03-system-preferences.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac03-system-preferences.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:336
 msgid "Open System Preferences."
-msgstr ""
+msgstr "打開系統偏好設置"
 
 #. type: Target for macro image
 #: foundations.en.adoc:343
 #, no-wrap
 msgid "img/web/install-openrefine/mac04-security-and-privacy.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac04-security-and-privacy.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:345
 msgid "Open Security & Privacy"
-msgstr ""
+msgstr "打開「安全與隱私性」"
 
 #. type: Target for macro image
 #: foundations.en.adoc:352
 #, no-wrap
 msgid "img/web/install-openrefine/mac05-open-anyway.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac05-open-anyway.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:354
 msgid "Choose \"Open Anyway\" at the bottom."
-msgstr ""
+msgstr "在按鈕上選擇「無論如何開啟」。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:361
 #, no-wrap
 msgid "img/web/install-openrefine/mac06-yes-really-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac06-yes-really-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:363
 msgid "Choose \"Open\""
-msgstr ""
+msgstr "點選「打開」"
 
 #. type: Target for macro image
 #: foundations.en.adoc:370
 #, no-wrap
 msgid "img/web/install-openrefine/mac07-copy-to-applications.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac07-copy-to-applications.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:372
 msgid "Finally, the application archive is opened! Drag it to your Applications folder."
-msgstr ""
+msgstr "最終，應用程式存檔便打開了！把它拖曳到應用程式的資料夾中。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:379
 #, no-wrap
 msgid "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac08-who-owns-this-computer-anyway.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:381
 msgid "Double-click the OpenRefine icon.  Another security warning appears!"
-msgstr ""
+msgstr "雙點OpenRefine 圖示，另一個安全性通知會出現。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:388
 #, no-wrap
 msgid "img/web/install-openrefine/mac09-not-the-user.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac09-not-the-user.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:390
 msgid "Go back to \"Security & Privacy\" and click \"Open Anyway\" — again."
-msgstr ""
+msgstr "回到「安全性&隱私」，並再度點選「無論如何開啟」"
 
 #. type: Target for macro image
 #: foundations.en.adoc:397
 #, no-wrap
 msgid "img/web/install-openrefine/mac10-use-linux-instead.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac10-use-linux-instead.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:399
 msgid "(To avoid these warnings, the OpenRefine developers would need to pay Apple.)"
-msgstr ""
+msgstr "(若要避免這些警示出現，OpenRefine 的開發者將需要付錢給Apple)"
 
 #. type: delimited block =
 #: foundations.en.adoc:401
 msgid "Click \"Open\"."
-msgstr ""
+msgstr "點選「開啟」。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:408
 #, no-wrap
 msgid "img/web/install-openrefine/mac11-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/mac11-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:410
 msgid "Finally! The application is running."
-msgstr ""
+msgstr "終於！應用程式開始運作了"
 
 #. type: Title ====
 #: foundations.en.adoc:414
 #, no-wrap
 msgid "Installation on Linux"
-msgstr ""
+msgstr "在 Linux 上安裝"
 
 #. type: Plain text
 #: foundations.en.adoc:417
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]."
-msgstr ""
+msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]"
 
 #. type: Plain text
 #: foundations.en.adoc:419
 msgid "Download, extract, then type ./refine to start.  This requires Java to be installed on your computer."
-msgstr ""
+msgstr "下載、解壓縮，接著輸入 ./refine 來開啟。這會需要Java有安裝在電腦上才能運行。"
 
 #. type: Block title
 #: foundations.en.adoc:420
 #, no-wrap
 msgid "Detailed instructions for Linux (click to expand)"
-msgstr ""
+msgstr "詳細說明__Linux 系統(點選展開)"
 
 #. type: delimited block =
 #: foundations.en.adoc:424
 msgid "These instructions are for KDE (e.g. Kubuntu, SuSE), but the process is similar for Gnome (e.g. Ubuntu, Red Hat, CentOS)."
-msgstr ""
+msgstr "這些說明是寫給KDE(如： Kubuntu, SuSE)的，但過程與Gnome (如： Ubuntu, Red Hat, CentOS)很相似。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:430
 #, no-wrap
 msgid "img/web/install-openrefine/kde1-download-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde1-download-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:432
 msgid "Download the https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit].  Open it."
-msgstr ""
+msgstr "下載 https://github.com/OpenRefine/OpenRefine/releases/download/3.4.1/openrefine-linux-3.4.1.tar.gz[Linux kit]。 並打開它。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:439
 #, no-wrap
 msgid "img/web/install-openrefine/kde2-extract.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde2-extract.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:441
 msgid "Click \"Extract\" to unpack the downloaded application."
-msgstr ""
+msgstr "點選「解壓縮」來把下載的應用程式解壓縮。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:448
 #, no-wrap
 msgid "img/web/install-openrefine/kde3-extract-all.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde3-extract-all.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:450
 msgid "Choose a suitable place.  I also selected \"Open destination folder after extraction\" and \"Close Ark after extraction\""
-msgstr ""
+msgstr "選擇適當的儲存空間。我這邊也一併選擇了\"解壓縮完成後打開目的資料夾\"及\"在解壓縮後關閉Ark\"。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:457
 #, no-wrap
 msgid "img/web/install-openrefine/kde4-open.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde4-open.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:459
 msgid "Right click \"refine\" and choose \"Run in Konsole\".  This is needed so you can safely exit OpenRefine later, by closing the Konsole window."
-msgstr ""
+msgstr "右鍵點選「refine」且選「在命令視窗中運行(Run in Konsole)」。這是必要的步驟，來讓你在之後可以關閉Konsole視窗來安全地關掉OpenRefine 。"
 
 #. type: Target for macro image
 #: foundations.en.adoc:466
 #, no-wrap
 msgid "img/web/install-openrefine/kde5-execute.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde5-execute.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:468
 msgid "Confirm that you wish to execute the downloaded application."
-msgstr ""
+msgstr "確認你想執行下載的檔案"
 
 #. type: Target for macro image
 #: foundations.en.adoc:475
 #, no-wrap
 msgid "img/web/install-openrefine/kde6-run.png"
-msgstr ""
+msgstr "img/web/install-openrefine/kde6-run.png"
 
 #. type: delimited block =
 #: foundations.en.adoc:477
 msgid "OpenRefine is now running."
-msgstr ""
+msgstr "OpenRefine開始運作中"
 
 #. type: Title ===
 #: foundations.en.adoc:481
 #, no-wrap
 msgid "Foundations review"
-msgstr ""
+msgstr "基礎回顧"
 
 #. type: Plain text
 #: foundations.en.adoc:484 planning.en.adoc:134 capture.en.adoc:63
 #: management.en.adoc:150 publishing.en.adoc:61
 msgid "Quiz yourself on the concepts learned in this section."
-msgstr ""
+msgstr "小試身手，回憶一下這節學到的概念吧！"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -1120,7 +1126,7 @@ msgstr ""
 #. type: delimited block *
 #: foundations.en.adoc:492
 msgid "For the given statement, input the correct term (database, database language, database program)"
-msgstr ""
+msgstr "請在接下來的段落中填入對應的詞彙(資料庫、資料庫語言、資料庫程式)"
 
 #. type: delimited block .
 #: foundations.en.adoc:501
@@ -1131,13 +1137,18 @@ msgid "* combines and presents functions and features for manipulating data, tog
 "  __database__\n"
 "* the way by which a human communicates with a computer +\n"
 "  __database language__\n"
-msgstr ""
+msgstr "* 將操作資料的功能，在統一的介面中組合呈現的是 +\n"
+"  __資料庫程式__\n"
+"* 將電腦中的數據、資訊結構化，並組織起來的集合是 +\n"
+"  __資料庫__\n"
+"* 人類與電腦溝通所使用的是 +\n"
+"  __資料庫程式語言__"
 
 #.  Question 2
 #. type: Plain text
 #: foundations.en.adoc:504
 msgid "If you open a data file and see the following, what would you suspect is the issue? +"
-msgstr ""
+msgstr "若你打開資料檔後看到以下情形，會判斷它為何種情況？"
 
 #. type: Plain text
 #: foundations.en.adoc:506 solutions.en.adoc:21
@@ -1151,13 +1162,16 @@ msgid "- [ ] Nothing\n"
 "- [ ] It is corrupt\n"
 "- [x] The wrong encoding was used to open the file\n"
 "- [ ] The sender used a weird font\n"
-msgstr ""
+msgstr "- [ ] 沒事\n"
+"- [ ] 檔案損毀\n"
+"- [x] 開啟檔案時採用錯誤的編碼\n"
+"- [ ] 寄件者用了奇怪的的字體\n"
 
 #.  Question 3
 #. type: Plain text
 #: foundations.en.adoc:516
 msgid "For the given software, input the type of software (data capture, data management, data cleaning, data publishing)."
-msgstr ""
+msgstr "請為下方軟體配對填入正確的功能(資料獲取、資料管理、資料清理、資料發布)"
 
 #. type: delimited block .
 #: foundations.en.adoc:527
@@ -1170,13 +1184,20 @@ msgid "* Integrated Publishing Toolkit (IPT) +\n"
 "  __data capture__\n"
 "* OpenRefine +\n"
 "  __data cleaning__\n"
-msgstr ""
+msgstr "* 整合發布工具(Integrated Publishing Toolkit, IPT) +\n"
+"  __資料發布__\n"
+"* Specify +\n"
+"  __資料獲取__ 及 __資料管理__\n"
+"* iNaturalist +\n"
+"  __資料獲取__\n"
+"* OpenRefine +\n"
+"  __資料清理__\n"
 
 #.  Question 4
 #. type: Plain text
 #: foundations.en.adoc:530
 msgid "For the given example, input the correct data type (binary, boolean, float, integer, long integer, text, unstructured text)"
-msgstr ""
+msgstr "請為下列填入正確的資料類型(二進位制 binary, 布林變數 boolean, 單浮點小數 float, 整數 integer, 常整數long integer, 文字text, 非結構化文字unstructured text)"
 
 #. type: delimited block .
 #: foundations.en.adoc:547
@@ -1195,13 +1216,26 @@ msgid "* 1236975 +\n"
 "  __boolean__\n"
 "* 6 rabbits were observed +\n"
 "  __text__\n"
-msgstr ""
+msgstr "* 1236975 +\n"
+"  __長整數long integer__\n"
+"* 01101111 +\n"
+"  __二進位binary__\n"
+"* We walked 5 miles down the road west from the post office in the center of town. We then went 2 miles north on a dirt path to the river. Then we continued west along the river for another 5 miles. +\n"
+"  __分結構化文字unstructured text__\n"
+"* 1024 +\n"
+"  __整數integer__\n"
+"* 29.0 +\n"
+"  __單浮點小數float__\n"
+"* Yes/No +\n"
+"  __布林變數boolean__\n"
+"* 6 rabbits were observed +\n"
+"  __文字text__\n"
 
 #.  Question 5
 #. type: Plain text
 #: foundations.en.adoc:550
 msgid "Which of these terms describes a \"field/column name\"?"
-msgstr ""
+msgstr "下面哪些詞彙適合來形容「欄位名稱(field/column name)」？"
 
 #. type: delimited block .
 #: foundations.en.adoc:559
@@ -1212,13 +1246,18 @@ msgid "- [x] Assigned\n"
 "- [ ] Readable\n"
 "- [x] Unique\n"
 "- [ ] User-interface\n"
-msgstr ""
+msgstr "- [x] 須被指定Assigned\n"
+"- [ ] 描述性Descriptive\n"
+"- [x] 用來鑑別Identifying\n"
+"- [ ] 可讀Readable\n"
+"- [x] 獨一無二Unique\n"
+"- [ ] 成為使用者的中介User-interface\n"
 
 #.  Question 6
 #. type: Plain text
 #: foundations.en.adoc:562
 msgid "Which of these terms describes a \"field label\"?"
-msgstr ""
+msgstr "下面哪些詞彙適合來形容「欄位標籤(field label」？"
 
 #. type: delimited block .
 #: foundations.en.adoc:571
@@ -1229,13 +1268,18 @@ msgid "- [ ] Assigned\n"
 "- [x] Readable\n"
 "- [ ] Unique\n"
 "- [x] User-interface\n"
-msgstr ""
+msgstr "- [ ] 須被指定Assigned\n"
+"- [x] 描述性Descriptive\n"
+"- [ ] 用來鑑別Identifying\n"
+"- [x] 可讀Readable\n"
+"- [ ] 獨一無二Unique\n"
+"- [x] 成為使用者的中介User-interface"
 
 #.  Question 7
 #. type: Plain text
 #: foundations.en.adoc:574
 msgid "For each statement, input the correct structure (row, column, table)"
-msgstr ""
+msgstr "請為下面敘述填入正確的資料結構 (列row, 行column, 表格table)"
 
 #. type: delimited block .
 #: foundations.en.adoc:583
@@ -1246,13 +1290,18 @@ msgid "* All data refers to a SINGLE concept. +\n"
 "  __column__\n"
 "* Attributes of a record ALWAYS stay together. +\n"
 "  __row__\n"
-msgstr ""
+msgstr "* 集中了所有資料的是 +\n"
+"  __表格table__\n"
+"* 集中記錄同屬性資料的是 +\n"
+"  __行column__\n"
+"* 將同筆數據的屬性資料綁在一起的是 +\n"
+"  __列row__\n"
 
 #.  Question 8
 #. type: Plain text
 #: foundations.en.adoc:586
 msgid "Who determines the fitness for use of your data?"
-msgstr ""
+msgstr "誰決定了你資料的適用度(fitness for use)？"
 
 #. type: delimited block .
 #: foundations.en.adoc:593
@@ -1261,13 +1310,16 @@ msgid "- [ ] The museum or department director\n"
 "- [x] The users of the data for research or education\n"
 "- [ ] The collector of the data in the field\n"
 "- [ ] The person entering the data into the database\n"
-msgstr ""
+msgstr "- [ ] 博物館、部門主管\n"
+"- [x] 用這筆資料研究、教育的使用者們\n"
+"- [ ] 該領域中的資料蒐集者\n"
+"- [ ] 將資料輸入資料庫的人\n"
 
 #.  Question 9
 #. type: Plain text
 #: foundations.en.adoc:597
 msgid "For the given statements, input the matching image. (A, B, C, D)  image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
-msgstr ""
+msgstr "請根據圖片填入適當的描述(A, B, C, D).   image:img/web/accuracyandprecision.png[align=center,width=640,height=360]"
 
 #. type: delimited block .
 #: foundations.en.adoc:608
@@ -1280,13 +1332,20 @@ msgid "* High accuracy, low precision +\n"
 "  __D__\n"
 "* Low accuracy, low precision +\n"
 "  __A__\n"
-msgstr ""
+msgstr "* 高正確性,、低精準度 +\n"
+"  __C__\n"
+"* 低正確性、高精準度 +\n"
+"  __B__\n"
+"* 高正確性、高精準度 +\n"
+"  __D__\n"
+"* 低正確性、低精準度 +\n"
+"  __A__\n"
 
 #.  Question 10
 #. type: Plain text
 #: foundations.en.adoc:611
 msgid "Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships are used."
-msgstr ""
+msgstr "請在下列各個將資料集B併入資料集A的案例中，鑑別出是何種資料對應關係(0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞，並非所有關係都會被使用到)"
 
 #. type: delimited block .
 #: foundations.en.adoc:626
@@ -1303,13 +1362,24 @@ msgid "* Collector field exists in both dataset A and B +\n"
 "  __1:0__\n"
 "* Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B +\n"
 "  __1:∞__\n"
-msgstr ""
+msgstr "* A、B中都存在的蒐集者欄位+\n"
+"  __1:1__\n"
+"* 僅在B中存在的國家代碼 +\n"
+"  __0:1__\n"
+"* A中存在完整姓名欄位，而在B中拆成姓、名兩個欄位 +\n"
+"  __1:∞__\n"
+"* A、B中都存在的ID欄位 +\n"
+"  __1:1__\n"
+"* 僅在A中存在的海拔紀錄 +\n"
+"  __1:0__\n"
+"* A中存在之日期欄位，而在B中被拆成年月日等不同欄位 +\n"
+"  __1:∞__"
 
 #.  Question 11
 #. type: Plain text
 #: foundations.en.adoc:629
 msgid "Metadata is important because (select the TRUE statements):"
-msgstr ""
+msgstr "後設資料的重要是因為......(請選擇正確的敘述):"
 
 #. type: delimited block .
 #: foundations.en.adoc:637
@@ -1319,25 +1389,29 @@ msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [x] it allows you to know under which legal terms the reuse of data is permitted.\n"
 "- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
 "- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
-msgstr ""
+msgstr "- [x] 它讓使用者能判斷是否符合用途\n"
+"- [ ]  它讓你能為每個物種出沒紀錄分享更精準的定位\n"
+"- [x] 它讓人知道資料再利用的合法範圍、條約\n"
+"- [ ]  它能被應用在所有相關的材料，如：圖像、影片、或其他形式媒介上\n"
+"- [ ]  它能讓人知道該機構的展覽、與開放日\n"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:3
 #, no-wrap
 msgid "Use Case I - Herbarium Specimens"
-msgstr ""
+msgstr "使用案例一、植物標本館的標本"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-species.en.adoc:6
 #: use-case-lepidoptera-sampling.en.adoc:6
 #: use-case-birds-from-literature.en.adoc:6
 msgid "Familiarize yourself with the use case scenario."
-msgstr ""
+msgstr "請將自己帶入下列應用場景："
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:11
 msgid "Use Case I is a practice use case for the planning, data capture, data management and data publishing modules.  It is recommended that you download the link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) so that you can make notes as you work through the exercises.  A suggested solution will be provided in the solution appendix.  Use Case I is not graded."
-msgstr ""
+msgstr "此案例是關乎於 規劃、資料獲取、資料管理與發布資料集 等部份的綜合練習。在此推薦先下載 link:../course-docs/UC1-Herbarium-Exercise_EN.docx[exercise sheet,opts=download] (MS Word 345 KB) ，這樣方便在練習時邊做筆記。此案例的參考解法將在解答附錄中提供，此練習不會作為評分對象。"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:12 use-case-invasive-species.en.adoc:14
@@ -1345,19 +1419,19 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:9
 #, no-wrap
 msgid "Scenario"
-msgstr ""
+msgstr "情境"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:14
 #, no-wrap
 msgid "*A Data Mobilization Project in a Regional Herbarium*\n"
-msgstr ""
+msgstr "*地區植物標本館中的資料數位化專案*\n"
 
 #. type: Block title
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "這是一個在瓜地馬拉蒐集的 裂瓣穀精草標本 https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong]  by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
@@ -1368,7 +1442,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:20
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Néstor Beltrán, Nicolas Noé, Sharon Grant. The data are from a real dataset, but have been modified for the purposes of these exercises. It is a fictionalized scenario and is meant only for instructional purposes."
-msgstr ""
+msgstr "以下內容是作為資料數位化課程的基礎練習而設計的，其中構想、內容來自於 Alberto González-Talaván, Néstor Beltrán, Nicolas Noé 與 Sharon Grant 。使用到的資料則來自於實際存在的資料集(但有先因應本次練習而進行調整)，而相關的敘述皆是假想情境，且僅適用於教學目的。"
 
 #. type: Title ====
 #: use-case-herbarium-specimens.en.adoc:21 use-case-invasive-species.en.adoc:27
@@ -1376,7 +1450,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:22
 #, no-wrap
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:25
@@ -1431,7 +1505,7 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:49
 #, no-wrap
 msgid "Exercises"
-msgstr ""
+msgstr "練習"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:52
@@ -1442,38 +1516,38 @@ msgstr ""
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
 #, no-wrap
 msgid "Planning"
-msgstr ""
+msgstr "規劃"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:56
 msgid "<<Exercise 1a-c>>"
-msgstr ""
+msgstr "<<Exercise 1a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:60
 msgid "<<Exercise 2>>"
-msgstr ""
+msgstr "<<Exercise 2>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:64
 msgid "<<Exercise 3a-c>>"
-msgstr ""
+msgstr "<<Exercise 3a-c>>"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:68
 msgid "<<Exercise 4>>"
-msgstr ""
+msgstr "<<Exercise 4>>"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:69
 #, no-wrap
 msgid "Exercise sheet"
-msgstr ""
+msgstr "練習試算表"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:71
 msgid "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
-msgstr ""
+msgstr "link:../course-docs/UC1-Herbarium-Exercise_EN.docx[UC1-Herbarium-Exercise_EN.docx,opts=download] (MS Word 345 KB)"
 
 #. type: Plain text
 #: planning.en.adoc:7
@@ -1506,7 +1580,7 @@ msgstr ""
 #: planning.en.adoc:24
 #, no-wrap
 msgid "Exercise 1a-c"
-msgstr ""
+msgstr "Exercise 1a-c"
 
 #. type: Plain text
 #: planning.en.adoc:28
@@ -1522,12 +1596,12 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:32
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role definitions^]"
-msgstr ""
+msgstr "https://github.com/fieldmuseum/planning-cards/wiki/ROLE-CARDS---DEFINITIONS[Role definitions^]"
 
 #. type: Plain text
 #: planning.en.adoc:33
 msgid "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage definitions^]"
-msgstr ""
+msgstr "https://github.com/fieldmuseum/planning-cards/wiki/STAGE-CARD---DEFINITIONS[Stage definitions^]"
 
 #. type: Plain text
 #: planning.en.adoc:35
@@ -1572,32 +1646,32 @@ msgstr ""
 #. type: Plain text
 #: planning.en.adoc:59
 msgid "BLUE: https://playingcards.io/ndqppx[^]"
-msgstr ""
+msgstr "BLUE: https://playingcards.io/ndqppx[^]"
 
 #. type: Plain text
 #: planning.en.adoc:61
 msgid "GREEN: https://playingcards.io/zpwe9j[^]"
-msgstr ""
+msgstr "GREEN: https://playingcards.io/zpwe9j[^]"
 
 #. type: Plain text
 #: planning.en.adoc:63
-msgid "PURPLE: https://playingcards.io/y4h6ky[^]"
-msgstr ""
+msgid "ORANGE: https://playingcards.io/868jgh[^]"
+msgstr "ORANGE: https://playingcards.io/868jgh[^]"
 
 #. type: Plain text
 #: planning.en.adoc:65
-msgid "RED: https://playingcards.io/4x4e2j[^]"
-msgstr ""
+msgid "PURPLE: https://playingcards.io/g6khb7[^]"
+msgstr "PURPLE: https://playingcards.io/g6khb7[^]"
 
 #. type: Plain text
 #: planning.en.adoc:67
-msgid "YELLOW: https://playingcards.io/m6j9sk[^]"
-msgstr ""
+msgid "RED: https://playingcards.io/3pad4w[^]"
+msgstr "RED: https://playingcards.io/3pad4w[^]"
 
 #. type: Plain text
 #: planning.en.adoc:69
-msgid "ORANGE: https://playingcards.io/868jgh[^]"
-msgstr ""
+msgid "YELLOW: https://playingcards.io/w488nb[^]"
+msgstr "YELLOW: https://playingcards.io/w488nb[^]"
 
 #. type: Plain text
 #: planning.en.adoc:71
@@ -1609,7 +1683,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:92
 #, no-wrap
 msgid "Exercise 1a"
-msgstr ""
+msgstr "Exercise 1a"
 
 #. type: Plain text
 #: planning.en.adoc:74 capture.en.adoc:47 management.en.adoc:28
@@ -1688,7 +1762,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:107
 #, no-wrap
 msgid "Exercise 1b"
-msgstr ""
+msgstr "Exercise 1b"
 
 #. type: Plain text
 #: planning.en.adoc:99
@@ -1746,7 +1820,7 @@ msgstr ""
 #: planning.en.adoc:116
 #, no-wrap
 msgid "Exercise 1c"
-msgstr ""
+msgstr "Exercise 1c"
 
 #. type: Plain text
 #: planning.en.adoc:119
@@ -1920,7 +1994,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:105
 #, no-wrap
 msgid "Exercise 2"
-msgstr ""
+msgstr "Exercise 2"
 
 #. type: Plain text
 #: capture.en.adoc:45
@@ -1962,7 +2036,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
 "image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.gbif.org/occurrence/441867173[Eutrigla gurnardus (Linnaeus, 1758)] | Muséum d’histoire naturelle de Nice\n"
+"image::img/web/QDataTypes-specimen.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:81 capture.en.adoc:94
@@ -2004,7 +2080,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
 "image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://upload.wikimedia.org/wikipedia/commons/6/64/Entomologist_chasing_buterflies.jpg[Entomologist chasing butterflies] by Matthieu Gauvain (CC-BY-SA)\n"
+"image::img/web/QDataTypes-field.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:109 capture.en.adoc:137 capture.en.adoc:169
@@ -2032,7 +2110,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
 "image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://commons.wikimedia.org/wiki/File:Griffon_vulture_at_Gamla_nature_reserve.jpg[Griffin vulture] observed at Gamla Nature Reserve by מינוזיג - MinoZig (CC0) \n"
+"image::img/web/QDataTypes-tracking.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:124
@@ -2054,7 +2134,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
 "image::img/web/QDataTypes-traps.png[align=\"center\",width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.flickr.com/photos/miheco/215305679/[Insect trap] by miheco (CC-BY-SA)\n"
+"image::img/web/QDataTypes-traps.png[align=\"center\",width=640,height=360]\n"
 
 #.  Question 6
 #. type: Plain text
@@ -2074,7 +2156,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
 "image::img/web/QDataTypes-Observations.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.\n"
+"image::img/web/QDataTypes-Observations.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:152
@@ -2108,7 +2192,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
 "image::img/web/QDataTypes-citizen.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://www.nps.gov/experiences/citizen-scientists-bioblitz.htm?fullweb=1[Looking for birds with park staff] by US National Park Service (authorized reuse on google image search)\n"
+"image::img/web/QDataTypes-citizen.png[align=center,width=640,height=360]\n"
 
 #.  Question 8
 #. type: Plain text
@@ -2122,7 +2208,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
 "image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".https://pixabay.com/photos/zoo-de-magdebourg-makibo-2876837/[Black rhino] observed at the Magdeburg Zoo in Germany by Mani300\n"
+"image::img/web/QDataTypes-threatened.png[align=center,width=640,height=360]\n"
 
 #. type: delimited block .
 #: capture.en.adoc:182
@@ -2163,7 +2251,7 @@ msgstr ""
 #: management.en.adoc:23
 #, no-wrap
 msgid "Exercise 3a-c"
-msgstr ""
+msgstr "Exercise 3a-c"
 
 #. type: Plain text
 #: management.en.adoc:26
@@ -2179,7 +2267,7 @@ msgstr ""
 #: management.en.adoc:33
 #, no-wrap
 msgid "Exercise 3a"
-msgstr ""
+msgstr "Exercise 3a"
 
 #. type: Plain text
 #: management.en.adoc:36
@@ -2211,7 +2299,7 @@ msgstr ""
 #: management.en.adoc:45
 #, no-wrap
 msgid "Exercise 3b"
-msgstr ""
+msgstr "Exercise 3b"
 
 #. type: Plain text
 #: management.en.adoc:48
@@ -2298,7 +2386,7 @@ msgstr ""
 #: management.en.adoc:71
 #, no-wrap
 msgid "Exercise 3c"
-msgstr ""
+msgstr "Exercise 3c"
 
 #. type: Plain text
 #: management.en.adoc:75
@@ -2784,7 +2872,10 @@ msgid "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,wid
 "|An overall score of 2.5-2.9 earns a BASIC Biodiversity Data Mobilization badge\n\n"
 "|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=center,width=75,height=75]\n"
 "|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
-msgstr ""
+msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,width=75,height=75]\n"
+"|An overall score of 2.5-2.9 earns a BASIC Biodiversity Data Mobilization badge\n\n"
+"|image:img/logos/GBIF-biodiversity-data-mobilization-ADVANCED.png[align=center,width=75,height=75]\n"
+"|An overall score of 3.0-4.0 earns an ADVANCED Biodiversity Data Mobilization badge\n"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:19
@@ -3113,7 +3204,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:89
 #, no-wrap
 msgid "Exercise 1"
-msgstr ""
+msgstr "Exercise 1"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:71
@@ -3271,7 +3362,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:137
 #, no-wrap
 msgid "Exercise 3"
-msgstr ""
+msgstr "Exercise 3"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:131
@@ -3340,7 +3431,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:19
 #, no-wrap
 msgid "img/web/use-case-2-Papilio_machaon.jpeg"
-msgstr ""
+msgstr "img/web/use-case-2-Papilio_machaon.jpeg"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:23
@@ -3397,7 +3488,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:61
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-analogue.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-analogue.png"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:68
@@ -3408,13 +3499,13 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:69
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-digital-1.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-digital-1.png"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:70
 #, no-wrap
 msgid "img/web/use-case-2-lepidoptera-digital-2.png"
-msgstr ""
+msgstr "img/web/use-case-2-lepidoptera-digital-2.png"
 
 #. type: Title ===
 #: use-case-lepidoptera-sampling.en.adoc:72
@@ -3708,7 +3799,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:62
 #, no-wrap
 msgid "img/web/use-case-3-analogue.png"
-msgstr ""
+msgstr "img/web/use-case-3-analogue.png"
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:64
@@ -3725,7 +3816,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:68
 #, no-wrap
 msgid "img/web/use-case-3-scanned.png"
-msgstr ""
+msgstr "img/web/use-case-3-scanned.png"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:74
@@ -4004,7 +4095,7 @@ msgstr ""
 #: assignments.en.adoc:38
 #, no-wrap
 msgid "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
-msgstr ""
+msgstr "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" style=\"width: 100%; min-height: 900px;\"></iframe>\n"
 
 #. type: Title ==
 #: course-evaluation.en.adoc:1
@@ -4037,108 +4128,111 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:10
 msgid "https://dwc.tdwg.org/terms/[Darwin Core Terms: A quick reference guide^]"
-msgstr ""
+msgstr "https://dwc.tdwg.org/terms/[Darwin Core Terms: A quick reference guide^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:11
 msgid "https://dwc.tdwg.org/simple/[Simple DarwinCore^]"
-msgstr ""
+msgstr "https://dwc.tdwg.org/simple/[Simple DarwinCore^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:12
 msgid "https://github.com/tdwg/dwc-qa[Darwin Core Questions & Answers^]"
-msgstr ""
+msgstr "https://github.com/tdwg/dwc-qa[Darwin Core Questions & Answers^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:13
 msgid "https://tools.gbif.org/dwca-validator/extensions.do[Darwin Core extensions registered with GBIF^]"
-msgstr ""
+msgstr "https://tools.gbif.org/dwca-validator/extensions.do[Darwin Core extensions registered with GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:17
 msgid "https://www.gbif.org/publishing-data[Quick guide to publishing data through GBIF^]"
-msgstr ""
+msgstr "https://www.gbif.org/publishing-data[Quick guide to publishing data through GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:18
 msgid "https://github.com/gbif/ipt/wiki/howToPublish[How to publish biodiversity data through GBIF.org^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/howToPublish[How to publish biodiversity data through GBIF.org^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:19
 msgid "https://www.gbif.org/become-a-publisher[Become a data publisher with GBIF^]"
-msgstr ""
+msgstr "https://www.gbif.org/become-a-publisher[Become a data publisher with GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:21
 #, no-wrap
 msgid "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^]\n"
 "GBIF Secretariat & IAIA: International Association for Impact Assessment (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-5xdm-8762[Best Practices for Publishing Biodiversity Data from Environmental Impact Assessments^]\n"
+"GBIF Secretariat & IAIA: International Association for Impact Assessment (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:23
 #, no-wrap
 msgid "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^]\n"
 "Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-b8hq-me03[Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher^]\n"
+"Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:25
 #, no-wrap
 msgid "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^]\n"
 "Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-vf1a-nr22[Publishing DNA-derived data through biodiversity data platforms^]\n"
+"Anders F. Andersson, Andrew Bissett, Anders G. Finstad, Frode Fossøy, Marie Grosjean, Michael Hope, Thomas S. Jeppesen, Urmas Kõljalg, Daniel Lundin, R. Henrik Nilsson, Maria Prager, Cecilie Svenningsen & Dmitry Schigel (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:26
 msgid "https://www.gbif.org/dataset-classes[Classes of datasets supported by GBIF^]"
-msgstr ""
+msgstr "https://www.gbif.org/dataset-classes[Classes of datasets supported by GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:27
 msgid "https://www.gbif.org/data-quality-requirements[GBIF data quality requirements for publishing^]"
-msgstr ""
+msgstr "https://www.gbif.org/data-quality-requirements[GBIF data quality requirements for publishing^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:28
 msgid "https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[GBIF data licenses^]"
-msgstr ""
+msgstr "https://www.gbif.org/news/82363/new-approaches-to-data-licensing-and-endorsement[GBIF data licenses^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:29
 msgid "https://github.com/gbif/ipt/wiki/checklistData#templates[Checklist core templates^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/checklistData#templates[Checklist core templates^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:30
 msgid "https://github.com/gbif/ipt/wiki/occurrenceData#templates[Occurrence core templates^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/occurrenceData#templates[Occurrence core templates^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:31
 msgid "https://github.com/gbif/ipt/wiki/samplingEventData#templates[Sampling event core templates^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/samplingEventData#templates[Sampling event core templates^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:32
 msgid "https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData[Sampling event data best practices^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/BestPracticesSamplingEventData[Sampling event data best practices^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:33
 msgid "https://data-blog.gbif.org/post/gbif-multimedia/[Sharing images, sounds and videos on GBIF^]"
-msgstr ""
+msgstr "https://data-blog.gbif.org/post/gbif-multimedia/[Sharing images, sounds and videos on GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:34
 msgid "https://www.gbif.org/data-papers[Data papers^]"
-msgstr ""
+msgstr "https://www.gbif.org/data-papers[Data papers^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:35
 msgid "https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED[Published data papers^]"
-msgstr ""
+msgstr "https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED[Published data papers^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:36
@@ -4151,32 +4245,33 @@ msgstr ""
 #, no-wrap
 msgid "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^]\n"
 "Robertson et al. (2014)"
-msgstr ""
+msgstr "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102623[The GBIF Integrated Publishing Toolkit: Facilitating the Efficient Publishing of Biodiversity Data on the Internet^]\n"
+"Robertson et al. (2014)"
 
 #. type: Plain text
 #: keydocs.en.adoc:41
 msgid "https://github.com/gbif/ipt/wiki/PublisherProfiles[To install IPT or not to install IPT^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/PublisherProfiles[To install IPT or not to install IPT^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:42
 msgid "https://github.com/gbif/ipt/wiki/dataHostingCentres[IPT data hosting centres^]"
-msgstr ""
+msgstr "https://github.com/gbif/ipt/wiki/dataHostingCentres[IPT data hosting centres^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:43
 msgid "http://idigbio.adobeconnect.com/p4dfquy4bsf/[IPT Install / Set up webinar^]"
-msgstr ""
+msgstr "http://idigbio.adobeconnect.com/p4dfquy4bsf/[IPT Install / Set up webinar^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:44
 msgid "https://vimeo.com/116142276[Installing the IPT video^]"
-msgstr ""
+msgstr "https://vimeo.com/116142276[Installing the IPT video^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:45
 msgid "https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]"
-msgstr ""
+msgstr "https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:46
@@ -4187,60 +4282,61 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:49
 msgid "https://www.idigbio.org/wiki/index.php/Digitization_Resources[iDigBio Digitization Resources^]"
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/index.php/Digitization_Resources[iDigBio Digitization Resources^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:50
 msgid "https://www.idigbio.org/wiki/index.php/Collections_Digitization_Workflows[iDigBio Collections Digitization Workflows^]"
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/index.php/Collections_Digitization_Workflows[iDigBio Collections Digitization Workflows^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:51
 msgid "https://www.idigbio.org/wiki/index.php/Digitization_Workflows_and_Protocols[iDigBio Digitization Workflows and Protocols^]"
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/index.php/Digitization_Workflows_and_Protocols[iDigBio Digitization Workflows and Protocols^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:52
 msgid "https://www.idigbio.org/wiki/index.php/Specimen_Image_Capture[iDigBio specimen image capture guide^]"
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/index.php/Specimen_Image_Capture[iDigBio specimen image capture guide^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:53
 msgid "http://www.canadensys.net/publication/multimedia-publication-guide[Canadensys 10-step guide to managing images with your biodiversity data^]"
-msgstr ""
+msgstr "http://www.canadensys.net/publication/multimedia-publication-guide[Canadensys 10-step guide to managing images with your biodiversity data^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:54
 #, no-wrap
 msgid "GBIF"
-msgstr ""
+msgstr "GBIF"
 
 #. type: Plain text
 #: keydocs.en.adoc:57
 msgid "https://www.gbif.org/what-is-gbif[What is GBIF^]"
-msgstr ""
+msgstr "https://www.gbif.org/what-is-gbif[What is GBIF^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:58
 msgid "https://www.gbif.org/strategic-plan[Strategic Plan^]"
-msgstr ""
+msgstr "https://www.gbif.org/strategic-plan[Strategic Plan^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:59
 msgid "https://www.gbif.org/become-member[Become a member^]"
-msgstr ""
+msgstr "https://www.gbif.org/become-member[Become a member^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:60
 msgid "https://www.gbif.org/science-review[Science Review^]"
-msgstr ""
+msgstr "https://www.gbif.org/science-review[Science Review^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:62
 #, no-wrap
 msgid "https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^]\n"
 "GBIF Secretariat (2019)."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Participant Node: Concepts and general considerations^]\n"
+"GBIF Secretariat (2019)."
 
 #. type: Title ===
 #: keydocs.en.adoc:63
@@ -4253,26 +4349,29 @@ msgstr ""
 #, no-wrap
 msgid "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^]\n"
 "Arthur D. Chapman & John R. Wieczorek (2020)."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-gg7h-s853[Georeferencing Best Practices^]\n"
+"Arthur D. Chapman & John R. Wieczorek (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:69
 #, no-wrap
 msgid "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^]\n"
 "Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/e09p-h128[Georeferencing Quick Reference Guide^]\n"
+"Paula F. Zermoglio, Arthur D. Chapman, John R. Wieczorek, Maria Celeste Luna & David A. Bloom (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:71
 #, no-wrap
 msgid "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^]\n"
 "David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
-msgstr ""
+msgstr "https://doi.org/10.35035/gdwq-3v93[Georeferencing Calculator Manual^]\n"
+"David A. Bloom, John R. Wieczorek & Paula F. Zermoglio (2020)."
 
 #. type: Plain text
 #: keydocs.en.adoc:72
 msgid "http://georeferencing.org/[Georeferencing resources^]"
-msgstr ""
+msgstr "http://georeferencing.org/[Georeferencing resources^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:73
@@ -4283,12 +4382,12 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:76
 msgid "http://www.griis.org/about.php[GRISS - Global Register of Introduced and Invasive Species^]"
-msgstr ""
+msgstr "http://www.griis.org/about.php[GRISS - Global Register of Introduced and Invasive Species^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:77
 msgid "https://osf.io/7dpgr/[TrIAS - Tracking Invasive Alien Species^]"
-msgstr ""
+msgstr "https://osf.io/7dpgr/[TrIAS - Tracking Invasive Alien Species^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:78
@@ -4299,12 +4398,12 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:81
 msgid "https://living-atlases.gbif.org/[Living Atlases^]"
-msgstr ""
+msgstr "https://living-atlases.gbif.org/[Living Atlases^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:82
 msgid "http://www.gbif.org/resource/82847[ALA key technical documentation^]"
-msgstr ""
+msgstr "http://www.gbif.org/resource/82847[ALA key technical documentation^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:83
@@ -4315,12 +4414,12 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:86
 msgid "http://vertnet.org/resources/downloadsinexcelguide.html[VertNet Guide to opening text files in Excel^]"
-msgstr ""
+msgstr "http://vertnet.org/resources/downloadsinexcelguide.html[VertNet Guide to opening text files in Excel^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:87
 msgid "http://vertnet.org/resources/datalicensingguide.html[VertNet data licensing guide^]"
-msgstr ""
+msgstr "http://vertnet.org/resources/datalicensingguide.html[VertNet data licensing guide^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:88 solutions.en.adoc:243
@@ -4331,68 +4430,76 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:91
 msgid "https://github.com/OpenRefine/OpenRefine/wiki[OpenRefine documentation^]"
-msgstr ""
+msgstr "https://github.com/OpenRefine/OpenRefine/wiki[OpenRefine documentation^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:92
 msgid "https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions[OpenRefine regular expressions^]"
-msgstr ""
+msgstr "https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions[OpenRefine regular expressions^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:94
 #, no-wrap
 msgid "https://doi.org/10.15468/doc-gzjg-af18[Guía para la limpieza de datos sobre biodiversidad con OpenRefine^]\n"
 "Paula F. Zermoglio, Camila A. Plata Corredor, John R. Wieczorek, Ricardo Ortiz Gallego & Leonardo Buitrago (2021)."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-gzjg-af18[Guía para la limpieza de datos sobre biodiversidad con OpenRefine^]\n"
+"Paula F. Zermoglio, Camila A. Plata Corredor, John R. Wieczorek, Ricardo Ortiz Gallego & Leonardo Buitrago (2021)."
 
 #. type: Plain text
 #: keydocs.en.adoc:97
 #, no-wrap
 msgid "http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html[Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data^]\n"
 "iPhylo blog post. Rod Page 2012."
-msgstr ""
+msgstr "http://iphylo.blogspot.com/2012/02/using-google-refine-and-taxonomic.html[Using Google Refine and taxonomic databases (EOL, NCBI, uBio, WORMS) to clean messy data^]\n"
+"iPhylo blog post. Rod Page 2012."
 
 #. type: Plain text
 #: keydocs.en.adoc:99
 #, no-wrap
 msgid "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^]\n"
 "iPhylo blog post. Rod Page 2013."
-msgstr ""
+msgstr "http://iphylo.blogspot.com/2013/04/reconciling-author-names-using-open.html[Reconciling author names using Open Refine and VIAF^]\n"
+"iPhylo blog post. Rod Page 2013."
 
 #. type: Plain text
 #: keydocs.en.adoc:101
 #, no-wrap
 msgid "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^]\n"
 "Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
-msgstr ""
+msgstr "http://gbif.blogspot.com/2013/07/validating-scientific-names-with.html[Validating scientific names with the GBIF Portal web service API^]\n"
+"Guest post was written by Gaurav Vaidya, Victoria Tersigni and Robert Guralnick 2013."
 
 #. type: Plain text
 #: keydocs.en.adoc:103
 #, no-wrap
 msgid "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^]\n"
 "iDigBio 2013."
-msgstr ""
+msgstr "https://www.idigbio.org/wiki/images/2/22/OpenRefine.pdf[iDigBio Cleaning data with OpenRefine^]\n"
+"iDigBio 2013."
 
 #. type: Plain text
 #: keydocs.en.adoc:105
 #, no-wrap
 msgid "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^]\n"
 "Canadensys 2014."
-msgstr ""
+msgstr "http://www.canadensys.net/2014/have-we-got-the-names-right[Have We Got the Names “Right”?^]\n"
+"Canadensys 2014."
 
 #. type: Plain text
 #: keydocs.en.adoc:107
 #, no-wrap
 msgid "http://slides.com/dimitribrosens/o-3#/[Cleaning data with OpenRefine^]\n"
 "Desmet and Brosens 2016 TDWG."
-msgstr ""
+msgstr "http://slides.com/dimitribrosens/o-3#/[Cleaning data with OpenRefine^]\n"
+"Desmet and Brosens 2016 TDWG."
 
 #. type: Plain text
 #: keydocs.en.adoc:109
 #, no-wrap
 msgid "https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^]\n"
 "Querying the IUCN Red List, using a species list, OpenRefine, and some pre-written code. Olly Griffin July 2019."
-msgstr ""
+msgstr "https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^]\n"
+"Querying the IUCN Red List, using a species list, OpenRefine, and some pre-written code. Olly Griffin July 2019."
 
 #. type: Title ===
 #: keydocs.en.adoc:110
@@ -4403,32 +4510,32 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:113
 msgid "http://www.agilenutshell.com/[Agile^]"
-msgstr ""
+msgstr "http://www.agilenutshell.com/[Agile^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:114
 msgid "https://www.scrum.org/resources/what-is-scrum[What is SCRUM^]"
-msgstr ""
+msgstr "https://www.scrum.org/resources/what-is-scrum[What is SCRUM^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:115
 msgid "https://www.atlassian.com/agile/scrum[SCRUM Framework^]"
-msgstr ""
+msgstr "https://www.atlassian.com/agile/scrum[SCRUM Framework^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:116
 msgid "https://www.atlassian.com/agile/kanban[Kanban methodology^]"
-msgstr ""
+msgstr "https://www.atlassian.com/agile/kanban[Kanban methodology^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:117
 msgid "https://scrumguide.com/[Scrum Guide^]"
-msgstr ""
+msgstr "https://scrumguide.com/[Scrum Guide^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:118
 msgid "https://github.com/[GitHub^]"
-msgstr ""
+msgstr "https://github.com/[GitHub^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:119
@@ -4441,31 +4548,34 @@ msgstr ""
 #, no-wrap
 msgid "https://www.gbif.org/document/80509/principles-of-data-quality[Principles of Data Quality^]\n"
 "Arthur Chapman 2005."
-msgstr ""
+msgstr "https://www.gbif.org/document/80509/principles-of-data-quality[Principles of Data Quality^]\n"
+"Arthur Chapman 2005."
 
 #. type: Plain text
 #: keydocs.en.adoc:125
 #, no-wrap
 msgid "https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data[Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data^]\n"
 "Arthur Chapman 2005."
-msgstr ""
+msgstr "https://www.gbif.org/document/80528/principles-and-methods-of-data-cleaning-primary-species-and-species-occurrence-data[Principles and Methods of Data Cleaning: Primary Species and Species-Occurrence Data^]\n"
+"Arthur Chapman 2005."
 
 #. type: Plain text
 #: keydocs.en.adoc:127
 #, no-wrap
 msgid "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^]\n"
 "DataOne 2014."
-msgstr ""
+msgstr "https://coffeehouse.dataone.org/2014/04/09/abandon-all-hope-ye-who-enter-dates-in-excel[Be careful with dates in Excel^]\n"
+"DataOne 2014."
 
 #. type: Plain text
 #: keydocs.en.adoc:128
 msgid "https://www.w3.org/International/questions/qa-what-is-encoding[Character encoding for beginners^]"
-msgstr ""
+msgstr "https://www.w3.org/International/questions/qa-what-is-encoding[Character encoding for beginners^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:129
 msgid "http://mvz.berkeley.edu/Locality_Field_Recording_Notebooks.html[MVZ Guide for Recording Localities in Field Notes^]"
-msgstr ""
+msgstr "http://mvz.berkeley.edu/Locality_Field_Recording_Notebooks.html[MVZ Guide for Recording Localities in Field Notes^]"
 
 #. type: Title ===
 #: keydocs.en.adoc:130
@@ -4478,7 +4588,8 @@ msgstr ""
 #, no-wrap
 msgid "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]\n"
 "Arthur D. Chapman 2020."
-msgstr ""
+msgstr "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Generalizing Sensitive Species Occurrence Data^]\n"
+"Arthur D. Chapman 2020."
 
 #. type: Title ===
 #: keydocs.en.adoc:135
@@ -4489,32 +4600,32 @@ msgstr ""
 #. type: Plain text
 #: keydocs.en.adoc:138
 msgid "https://data-blog.gbif.org/post/gbif-checklist-datasets-and-data-gaps/[GBIF checklist datasets and data gaps^]"
-msgstr ""
+msgstr "https://data-blog.gbif.org/post/gbif-checklist-datasets-and-data-gaps/[GBIF checklist datasets and data gaps^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:139
 msgid "https://www.gbif.org/tools/name-parser[GBIF Labs - Names Parser^]"
-msgstr ""
+msgstr "https://www.gbif.org/tools/name-parser[GBIF Labs - Names Parser^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:140
 msgid "https://www.gbif.org/tools/species-lookup[GBIF Labs - Species Matching^]"
-msgstr ""
+msgstr "https://www.gbif.org/tools/species-lookup[GBIF Labs - Species Matching^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:141
 msgid "http://resolver.globalnames.org/[Global Names Resolver^]"
-msgstr ""
+msgstr "http://resolver.globalnames.org/[Global Names Resolver^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:142
 msgid "https://obis.org/manual/namematching/[Marine Name Matching Strategy for taxonomic quality control^]"
-msgstr ""
+msgstr "https://obis.org/manual/namematching/[Marine Name Matching Strategy for taxonomic quality control^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:142
 msgid "http://match.taibif.tw/index.html[Nomenmatch^]"
-msgstr ""
+msgstr "http://match.taibif.tw/index.html[Nomenmatch^]"
 
 #. type: Title ==
 #: glossary.en.adoc:2
@@ -4527,7 +4638,7 @@ msgstr ""
 #: glossary.en.adoc:7
 #, no-wrap
 msgid "[[ALA]]ALA"
-msgstr ""
+msgstr "[[ALA]]ALA"
 
 #. type: Plain text
 #: glossary.en.adoc:9
@@ -4538,7 +4649,7 @@ msgstr ""
 #: glossary.en.adoc:10
 #, no-wrap
 msgid "[[API]]API"
-msgstr ""
+msgstr "[[API]]API"
 
 #. type: Plain text
 #: glossary.en.adoc:12
@@ -4549,7 +4660,7 @@ msgstr ""
 #: glossary.en.adoc:13
 #, no-wrap
 msgid "[[BID]]BID"
-msgstr ""
+msgstr "[[BID]]BID"
 
 #. type: Plain text
 #: glossary.en.adoc:15
@@ -4560,7 +4671,7 @@ msgstr ""
 #: glossary.en.adoc:16
 #, no-wrap
 msgid "[[BIFA]]BIFA"
-msgstr ""
+msgstr "[[BIFA]]BIFA"
 
 #. type: Plain text
 #: glossary.en.adoc:17
@@ -4571,7 +4682,7 @@ msgstr ""
 #: glossary.en.adoc:18
 #, no-wrap
 msgid "[[CC]]CC Licences"
-msgstr ""
+msgstr "[[CC]]CC Licences"
 
 #. type: Plain text
 #: glossary.en.adoc:21
@@ -4582,7 +4693,7 @@ msgstr ""
 #: glossary.en.adoc:22
 #, no-wrap
 msgid "[[vocab]]Controlled Vocabulary"
-msgstr ""
+msgstr "[[vocab]]Controlled Vocabulary"
 
 #. type: Plain text
 #: glossary.en.adoc:26
@@ -4593,7 +4704,7 @@ msgstr ""
 #: glossary.en.adoc:27
 #, no-wrap
 msgid "[[DwC]]DwC"
-msgstr ""
+msgstr "[[DwC]]DwC"
 
 #. type: Plain text
 #: glossary.en.adoc:29
@@ -4604,7 +4715,7 @@ msgstr ""
 #: glossary.en.adoc:30
 #, no-wrap
 msgid "[[DOI]]DOI"
-msgstr ""
+msgstr "[[DOI]]DOI"
 
 #. type: Plain text
 #: glossary.en.adoc:32
@@ -4615,7 +4726,7 @@ msgstr ""
 #: glossary.en.adoc:33
 #, no-wrap
 msgid "[[DwC-A]]DwC-A"
-msgstr ""
+msgstr "[[DwC-A]]DwC-A"
 
 #. type: Plain text
 #: glossary.en.adoc:36
@@ -4641,7 +4752,7 @@ msgstr ""
 #: glossary.en.adoc:42
 #, no-wrap
 msgid "[[GUID]]GUID"
-msgstr ""
+msgstr "[[GUID]]GUID"
 
 #. type: Plain text
 #: glossary.en.adoc:43
@@ -4652,7 +4763,7 @@ msgstr ""
 #: glossary.en.adoc:44
 #, no-wrap
 msgid "[[IPT]]IPT"
-msgstr ""
+msgstr "[[IPT]]IPT"
 
 #. type: Plain text
 #: glossary.en.adoc:48
@@ -4663,7 +4774,7 @@ msgstr ""
 #: glossary.en.adoc:49
 #, no-wrap
 msgid "[[loan]]Loan"
-msgstr ""
+msgstr "[[loan]]Loan"
 
 #. type: Plain text
 #: glossary.en.adoc:50
@@ -4674,7 +4785,7 @@ msgstr ""
 #: glossary.en.adoc:51
 #, no-wrap
 msgid "[[LSID]]LSID"
-msgstr ""
+msgstr "[[LSID]]LSID"
 
 #. type: Plain text
 #: glossary.en.adoc:53
@@ -4685,7 +4796,7 @@ msgstr ""
 #: glossary.en.adoc:54
 #, no-wrap
 msgid "[[DP]]Data Publishing"
-msgstr ""
+msgstr "[[DP]]Data Publishing"
 
 #. type: Plain text
 #: glossary.en.adoc:56
@@ -4696,7 +4807,7 @@ msgstr ""
 #: glossary.en.adoc:57
 #, no-wrap
 msgid "[[resource]]Resource"
-msgstr ""
+msgstr "[[resource]]Resource"
 
 #. type: Plain text
 #: glossary.en.adoc:58
@@ -4707,7 +4818,7 @@ msgstr ""
 #: glossary.en.adoc:59
 #, no-wrap
 msgid "[[TDWG]]TDWG"
-msgstr ""
+msgstr "[[TDWG]]TDWG"
 
 #. type: Plain text
 #: glossary.en.adoc:60
@@ -4718,7 +4829,7 @@ msgstr ""
 #: glossary.en.adoc:61
 #, no-wrap
 msgid "[[URN]]URN"
-msgstr ""
+msgstr "[[URN]]URN"
 
 #. type: Plain text
 #: glossary.en.adoc:62
@@ -4729,7 +4840,7 @@ msgstr ""
 #: glossary.en.adoc:63
 #, no-wrap
 msgid "[[UUID]]UUID"
-msgstr ""
+msgstr "[[UUID]]UUID"
 
 #. type: Plain text
 #: glossary.en.adoc:64
@@ -4739,7 +4850,7 @@ msgstr ""
 #. type: Plain text
 #: glossary.en.adoc:65
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: data-papers.en.adoc:3
@@ -4761,13 +4872,13 @@ msgstr ""
 #: data-papers.en.adoc:18
 #, no-wrap
 msgid "img/web/datapapers.png"
-msgstr ""
+msgstr "img/web/datapapers.png"
 
 #. type: Target for macro image
 #: data-papers.en.adoc:20
 #, no-wrap
 msgid "img/web/datapapersIPT.png"
-msgstr ""
+msgstr "img/web/datapapersIPT.png"
 
 #. type: delimited block =
 #: data-papers.en.adoc:24
@@ -4782,12 +4893,12 @@ msgstr ""
 #. type: delimited block =
 #: data-papers.en.adoc:27
 msgid "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
-msgstr ""
+msgstr "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
 
 #. type: delimited block =
 #: data-papers.en.adoc:28
 msgid "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
-msgstr ""
+msgstr "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
 
 #. type: Title ==
 #: solutions.en.adoc:2
@@ -5632,7 +5743,7 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:296
 msgid "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested solution^,opts=download] (PDF 144 KB)"
-msgstr ""
+msgstr "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested solution^,opts=download] (PDF 144 KB)"
 
 #. type: Title ==
 #: acknowledgements.en.adoc:2
@@ -5659,67 +5770,67 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:12
 msgid "Nestor Beltran*"
-msgstr ""
+msgstr "Nestor Beltran*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:13
 msgid "David Bloom"
-msgstr ""
+msgstr "David Bloom"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:14
 msgid "Katia Cezón*"
-msgstr ""
+msgstr "Katia Cezón*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:15
 msgid "Dag Endresen"
-msgstr ""
+msgstr "Dag Endresen"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:16
 msgid "Alberto González-Talaván*"
-msgstr ""
+msgstr "Alberto González-Talaván*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:17
 msgid "Sharon Grant*"
-msgstr ""
+msgstr "Sharon Grant*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:18
 msgid "Marie-Elise Lecoq"
-msgstr ""
+msgstr "Marie-Elise Lecoq"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:19
 msgid "Sophie Pamerlon*"
-msgstr ""
+msgstr "Sophie Pamerlon*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:20
 msgid "Nicolas Noé*"
-msgstr ""
+msgstr "Nicolas Noé*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:21
 msgid "Mélianie Raymond*"
-msgstr ""
+msgstr "Mélianie Raymond*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:22
 msgid "Laura Anne Russell*"
-msgstr ""
+msgstr "Laura Anne Russell*"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:23
 msgid "John Wieczorek"
-msgstr ""
+msgstr "John Wieczorek"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:24 acknowledgements.en.adoc:53
 msgid "Paula Zermoglio"
-msgstr ""
+msgstr "Paula Zermoglio"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:26
@@ -5742,42 +5853,42 @@ msgstr ""
 #: acknowledgements.en.adoc:31
 #, no-wrap
 msgid "French"
-msgstr ""
+msgstr "French"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:33
 msgid "Maxime Coupremanne"
-msgstr ""
+msgstr "Maxime Coupremanne"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:34
 msgid "Jaures Gbètoho"
-msgstr ""
+msgstr "Jaures Gbètoho"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:35
 msgid "Marie Grosjean"
-msgstr ""
+msgstr "Marie Grosjean"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:36
 msgid "Patricia Mergen"
-msgstr ""
+msgstr "Patricia Mergen"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:37
 msgid "Sophie Pamerlon"
-msgstr ""
+msgstr "Sophie Pamerlon"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:38
 msgid "Andry Jean Marc Rakotomanjaka"
-msgstr ""
+msgstr "Andry Jean Marc Rakotomanjaka"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:39
 msgid "Y. Sabastian Wirsiy"
-msgstr ""
+msgstr "Y. Sabastian Wirsiy"
 
 #. type: Title ====
 #: acknowledgements.en.adoc:40
@@ -5788,22 +5899,22 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:42
 msgid "Rui Figueira"
-msgstr ""
+msgstr "Rui Figueira"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:43
 msgid "Clara Baringo Fonseca"
-msgstr ""
+msgstr "Clara Baringo Fonseca"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:44
 msgid "Keila Elizabeth Macfadem Juarez"
-msgstr ""
+msgstr "Keila Elizabeth Macfadem Juarez"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:45
 msgid "Tainan Messina"
-msgstr ""
+msgstr "Tainan Messina"
 
 #. type: Title ====
 #: acknowledgements.en.adoc:46
@@ -5814,27 +5925,27 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:48
 msgid "Leonardo Buitrago"
-msgstr ""
+msgstr "Leonardo Buitrago"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:49
 msgid "Victor Chocho"
-msgstr ""
+msgstr "Victor Chocho"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:50
 msgid "Camila Plata"
-msgstr ""
+msgstr "Camila Plata"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:51
 msgid "Anabela Plos"
-msgstr ""
+msgstr "Anabela Plos"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:52
 msgid "William Ulate"
-msgstr ""
+msgstr "William Ulate"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:54
@@ -5855,12 +5966,12 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:59
 msgid "https://openrefine.org/[OpenRefine^]"
-msgstr ""
+msgstr "https://openrefine.org/[OpenRefine^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:60
 msgid "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
-msgstr ""
+msgstr "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:61
@@ -5871,37 +5982,37 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:64
 msgid "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
-msgstr ""
+msgstr "https://www.biodiversity.be/[Belgium Biodiversity Platform^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:65
 msgid "http://www.gbif.fr/[GBIF France^]"
-msgstr ""
+msgstr "http://www.gbif.fr/[GBIF France^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:66
 msgid "https://www.gbif.no/[GBIF Norway^]"
-msgstr ""
+msgstr "https://www.gbif.no/[GBIF Norway^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:67
 msgid "https://www.gbif.es/[GBIF Spain^]"
-msgstr ""
+msgstr "https://www.gbif.es/[GBIF Spain^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:68
 msgid "https://sibcolombia.net/[SiB Colombia^]"
-msgstr ""
+msgstr "https://sibcolombia.net/[SiB Colombia^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:69
 msgid "https://www.fieldmuseum.org/[The Field Museum^]"
-msgstr ""
+msgstr "https://www.fieldmuseum.org/[The Field Museum^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:69
 msgid "http://vertnet.org/[VertNet^]"
-msgstr ""
+msgstr "http://vertnet.org/[VertNet^]"
 
 #. type: Title ==
 #: colophon.en.adoc:1
@@ -5951,7 +6062,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:18
 msgid "https://doi.org/10.35035/ce-c6cr-6w42"
-msgstr ""
+msgstr "https://doi.org/10.35035/ce-c6cr-6w42"
 
 #. type: Title ===
 #: colophon.en.adoc:19
