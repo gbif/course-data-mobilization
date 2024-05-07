@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-02-07 16:08\n"
+"POT-Creation-Date: 2024-02-28 19:09+0000\n"
+"PO-Revision-Date: 2024-05-07 13:20\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2027,8 +2027,8 @@ msgstr "Téléchargez le modèle de feuille de calcul : link:../exercise-data/UC
 
 #. type: Plain text
 #: capture.en.adoc:58
-msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
-msgstr "vous devrez peut-être ajouter des champs à la feuille de calcul car vous pourrez peut-être saisir plus d'informations à partir des étiquettes que ce qui est prévu dans le modèle."
+msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels than was planned for in the template."
+msgstr ""
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2024-02-07 11:52+0000\n"
-"PO-Revision-Date: 2024-04-18 09:43\n"
+"POT-Creation-Date: 2024-02-28 19:09+0000\n"
+"PO-Revision-Date: 2024-05-07 13:22\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1142,7 +1142,7 @@ msgstr "* 將操作資料的功能，在統一的介面中組合呈現的是 +\n
 "* 將電腦中的數據、資訊結構化，並組織起來的集合是 +\n"
 "  __資料庫__\n"
 "* 人類與電腦溝通所使用的是 +\n"
-"  __資料庫程式語言__"
+"  __資料庫程式語言__\n"
 
 #.  Question 2
 #. type: Plain text
@@ -1273,7 +1273,7 @@ msgstr "- [ ] 須被指定Assigned\n"
 "- [ ] 用來鑑別Identifying\n"
 "- [x] 可讀Readable\n"
 "- [ ] 獨一無二Unique\n"
-"- [x] 成為使用者的中介User-interface"
+"- [x] 成為使用者的中介User-interface\n"
 
 #.  Question 7
 #. type: Plain text
@@ -1373,7 +1373,7 @@ msgstr "* A、B中都存在的蒐集者欄位+\n"
 "* 僅在A中存在的海拔紀錄 +\n"
 "  __1:0__\n"
 "* A中存在之日期欄位，而在B中被拆成年月日等不同欄位 +\n"
-"  __1:∞__"
+"  __1:∞__\n"
 
 #.  Question 11
 #. type: Plain text
@@ -1390,10 +1390,10 @@ msgid "- [x] it allows users to determine if a dataset is fit for their use.\n"
 "- [ ] it also applies to all supplemental and associated materials, including images, video, and other media.\n"
 "- [ ] it allows you know about the institution's next exhibition/opening hours.\n"
 msgstr "- [x] 它讓使用者能判斷是否符合用途\n"
-"- [ ]  它讓你能為每個物種出沒紀錄分享更精準的定位\n"
+"- [ ] 它讓你能為每個物種出沒紀錄分享更精準的定位\n"
 "- [x] 它讓人知道資料再利用的合法範圍、條約\n"
-"- [ ]  它能被應用在所有相關的材料，如：圖像、影片、或其他形式媒介上\n"
-"- [ ]  它能讓人知道該機構的展覽、與開放日\n"
+"- [ ] 它能被應用在所有相關的材料，如：圖像、影片、或其他形式媒介上\n"
+"- [ ] 它能讓人知道該機構的展覽、與開放日\n"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:3
@@ -1431,7 +1431,7 @@ msgstr "*地區植物標本館中的資料數位化專案*\n"
 #: use-case-herbarium-specimens.en.adoc:16
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] collected in Guatemala by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr "這是一個在瓜地馬拉蒐集的 裂瓣穀精草標本 https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong]  by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
+msgstr "這是一個在瓜地馬拉蒐集的 裂瓣穀精草標本 https://www.gbif.org/occurrence/1228493621[Eriocaulon bilobatum Morong] by Rapid Reference Collection (RRC) | Field Museum of Natural History - Keller Action Science Center (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-herbarium-specimens.en.adoc:17
@@ -2018,7 +2018,7 @@ msgstr ""
 
 #. type: Plain text
 #: capture.en.adoc:58
-msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels that was planned for in the template."
+msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels than was planned for in the template."
 msgstr ""
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
