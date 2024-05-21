@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-05-20 16:03\n"
+"PO-Revision-Date: 2024-05-21 01:54\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1499,7 +1499,7 @@ msgstr "資料集說明"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:48
 msgid "The professor has a simple non-relational database on his computer which serves as an index of many but not all specimens.  Any images of the specimens that exist are held locally by the individual researchers that took them."
-msgstr ""
+msgstr "教授的電腦中有個非關聯式資料庫，能做為大部分標本的索引(但沒有涵蓋到所有標本)。任何標本的影像資料都只存在於當初拍下影像的研究者手上。"
 
 #. type: Title ===
 #: use-case-herbarium-specimens.en.adoc:49
@@ -1510,7 +1510,7 @@ msgstr "練習"
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:52
 msgid "The individual exercises for this use case are located in the corresponding modules."
-msgstr ""
+msgstr "此案例的各環節練習分布於對應的模塊中。"
 
 #. type: Title ==
 #: use-case-herbarium-specimens.en.adoc:53 planning.en.adoc:2
