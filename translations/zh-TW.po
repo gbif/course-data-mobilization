@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-05-25 06:47\n"
+"PO-Revision-Date: 2024-05-25 08:21\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1399,7 +1399,7 @@ msgstr "- [x] 它讓使用者能判斷是否符合用途\n"
 #: use-case-herbarium-specimens.en.adoc:3
 #, no-wrap
 msgid "Use Case I - Herbarium Specimens"
-msgstr "使用案例一、植物標本館的標本"
+msgstr "練習案例一、植物標本館的標本"
 
 #. type: Plain text
 #: use-case-herbarium-specimens.en.adoc:6 use-case-invasive-species.en.adoc:6
@@ -1676,8 +1676,7 @@ msgstr "YELLOW: https://playingcards.io/w488nb[^]"
 #. type: Plain text
 #: planning.en.adoc:71
 msgid "Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables for this exercise and to Kate Webbink for artistic expertise. The online tabletop platform is provided by https://playingcards.io/."
-msgstr "在此特別感謝 Jwalant Patel 和 Eric Ma 為本次練習找到並幫助建立此線上卡牌桌，以及Kate Webbink 的藝術專業知識。\n"
-"線上卡牌桌遊平台由by https://playingcards.io/ 提供。"
+msgstr "在此特別感謝 Jwalant Patel 和 Eric Ma 為本次練習找到並幫助建立此線上卡牌桌，以及Kate Webbink 的美術專業能力。線上卡牌桌遊平台由by https://playingcards.io/ 提供。"
 
 #. type: Title ====
 #: planning.en.adoc:72 use-case-invasive-species.en.adoc:72
@@ -1690,12 +1689,12 @@ msgstr "Exercise 1a"
 #: planning.en.adoc:74 capture.en.adoc:47 management.en.adoc:28
 #: publishing.en.adoc:46
 msgid "Read <<scenario,USE CASE I>> (if you haven't already)."
-msgstr ""
+msgstr "請看 <<練習案例一：情境>> (若您還沒閱讀過的話)"
 
 #. type: Plain text
 #: planning.en.adoc:78
 msgid "Using the cards select the goals that mostly closely match those the project outlines and then choose the tasks that would need to be carried out to complete them.  Next, identify the people/resources that the project has available to it and assign role cards to them as appropriate.  Lastly, assign these to their stakeholder groups and affiliations."
-msgstr ""
+msgstr "透過卡牌選出最符合此專案大綱的的目標(goal)，接著選出需要進行的任務目標(task)。接下來，確定專案中可用的參與者、資源，並分配適合的角色卡給他們。最後，將這些分派給他們的利害關係人群體、隸屬關係上。"
 
 #. type: Plain text
 #: planning.en.adoc:80
@@ -1751,7 +1750,7 @@ msgstr ""
 #: planning.en.adoc:92
 #, no-wrap
 msgid "*Question*\n"
-msgstr ""
+msgstr "*問題*\n"
 
 #. type: delimited block *
 #: planning.en.adoc:94
@@ -1795,7 +1794,7 @@ msgstr ""
 #: planning.en.adoc:107
 #, no-wrap
 msgid "*Questions*   \n"
-msgstr ""
+msgstr "*問題*\n"
 
 #. type: delimited block *
 #: planning.en.adoc:110
@@ -2201,7 +2200,7 @@ msgstr ":figure-caption!:\n"
 #. type: Plain text
 #: capture.en.adoc:172
 msgid "What dataset type(s) would you choose for a regional species list?"
-msgstr ""
+msgstr "你該為地區的物種名錄選擇哪種資料集呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:178
@@ -2219,7 +2218,9 @@ msgstr ":figure-caption!:\n"
 msgid "- [ ] occurrence\n"
 "- [x] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [ ] occurrence\n"
+"- [x] checklist\n"
+"- [ ] sampling event\n"
 
 #. type: Plain text
 #: management.en.adoc:6
@@ -2230,18 +2231,18 @@ msgstr ""
 #: management.en.adoc:7
 #, no-wrap
 msgid "Principles of data management"
-msgstr ""
+msgstr "資料管理的原則"
 
 #. type: Plain text
 #: management.en.adoc:11
 msgid "In this video (09:49), you will review an important set of principles necessary to improve data through the processes of data cleaning.  If you are unable to watch the embedded video, you can link:../videos/Data_Management.mp4[download^,opts=download] it locally. (MP4 - 16.6 MB)"
-msgstr ""
+msgstr "在這影片 (09:49)中，將回顧一些透過資料清理過程中善資料的重要原則。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Foundations_Data_Quality.mp4[download^,opts=download]  並在電腦上觀賞。 (MP4 - 16.6 MB)"
 
 #. type: Title ===
 #: management.en.adoc:15
 #, no-wrap
 msgid "Data management tools"
-msgstr ""
+msgstr "資料管理工具"
 
 #. type: Plain text
 #: management.en.adoc:19
@@ -2274,7 +2275,7 @@ msgstr "Exercise 3a"
 #: management.en.adoc:36
 #, no-wrap
 msgid "*Validation checks*\n"
-msgstr ""
+msgstr "*資料驗證檢查*\n"
 
 #. type: Plain text
 #: management.en.adoc:39
@@ -2284,17 +2285,17 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:41
 msgid "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Download link:../exercise-data/UC1-3ab-data-cleaning.csv[UC1-3ab-data-cleaning.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:42
 msgid "Import the CSV file in Excel using the Excel wizard. See link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) for import instructions for your operating system (Windows, Mac, Linux)."
-msgstr ""
+msgstr "將CSV以Excel wizard匯入Excel中。可見 link:../course-docs/Excel-tips-EN.pdf[Excel-tips-EN.pdf^,opts=download] (PDF, 7 MB) 來獲得符合您操作系統(Windows, Mac, Linux)的更多說明。"
 
 #. type: Plain text
 #: management.en.adoc:43
 msgid "Find and correct the errors manually."
-msgstr ""
+msgstr "找到、手動更正錯誤。"
 
 #. type: Title ====
 #: management.en.adoc:45
@@ -2306,7 +2307,7 @@ msgstr "Exercise 3b"
 #: management.en.adoc:48
 #, no-wrap
 msgid "*Other data management tools*\n"
-msgstr ""
+msgstr "*其他資料管理工具*"
 
 #. type: Plain text
 #: management.en.adoc:50
@@ -2341,32 +2342,32 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:58
 msgid "The three categories of errors are:"
-msgstr ""
+msgstr "錯誤的三種種類分別是："
 
 #. type: Plain text
 #: management.en.adoc:60
 msgid "Nomenclatural errors"
-msgstr ""
+msgstr "命名錯誤"
 
 #. type: Plain text
 #: management.en.adoc:61
 msgid "Format errors"
-msgstr ""
+msgstr "格式錯誤"
 
 #. type: Plain text
 #: management.en.adoc:62
 msgid "Geographic errors / outliers"
-msgstr ""
+msgstr "地理資訊錯誤/離群值"
 
 #. type: Plain text
 #: management.en.adoc:65
 msgid "Refer to <<Helpful tools>> in order to complete the exercise.  You are not limited to these tools, you may use any tools you like."
-msgstr ""
+msgstr "請參考 <<Helpful tools>> 來完成整個練習。可以使用的工具不受限於這些，您可以使用任何想要的工具。"
 
 #. type: Plain text
 #: management.en.adoc:66
 msgid "Use the same file from the previous exercise."
-msgstr ""
+msgstr "使用上個練習中的相同檔案"
 
 #. type: Plain text
 #: management.en.adoc:67
@@ -2381,7 +2382,7 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:69
 msgid "Correct the entire file if you have time."
-msgstr ""
+msgstr "若您有空的話，把整個檔案都做一遍。"
 
 #. type: Title ====
 #: management.en.adoc:71
@@ -2398,7 +2399,7 @@ msgstr ""
 #: management.en.adoc:80
 #, no-wrap
 msgid "*OpenRefine*\n"
-msgstr ""
+msgstr "*OpenRefine*\n"
 
 #. type: Plain text
 #: management.en.adoc:82
@@ -2408,7 +2409,7 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:84
 msgid "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
-msgstr ""
+msgstr "Download link:../exercise-data/UC1-3c-open-refine.csv[UC1-3c-open-refine.csv,opts=download]. (207.5 KB)"
 
 #. type: Plain text
 #: management.en.adoc:86
@@ -2425,7 +2426,7 @@ msgstr ""
 #: management.en.adoc:90
 #, no-wrap
 msgid "Validation checks"
-msgstr ""
+msgstr "資料驗證檢查"
 
 #. type: Plain text
 #: management.en.adoc:95
@@ -2532,67 +2533,67 @@ msgstr ""
 #: management.en.adoc:133
 #, no-wrap
 msgid "Helpful tools"
-msgstr ""
+msgstr "實用工具"
 
 #. type: Plain text
 #: management.en.adoc:136
 #, no-wrap
 msgid "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
-msgstr ""
+msgstr "*GBIF Name Parser*: https://www.gbif.org/tools/name-parser\n"
 
 #. type: Plain text
 #: management.en.adoc:137
 #, no-wrap
 msgid "*Global Names Resolver*: http://resolver.globalnames.org\n"
-msgstr ""
+msgstr "*Global Names Resolver*: http://resolver.globalnames.org\n"
 
 #. type: Plain text
 #: management.en.adoc:138
 #, no-wrap
 msgid "*Catalogue of Life name match*: https://data.catalogueoflife.org/tools/name-match\n"
-msgstr ""
+msgstr "*Catalogue of Life name match*: https://data.catalogueoflife.org/tools/name-match\n"
 
 #. type: Plain text
 #: management.en.adoc:139
 #, no-wrap
 msgid "*TNRS*: https://tnrs.biendata.org/\n"
-msgstr ""
+msgstr "*TNRS*: https://tnrs.biendata.org/\n"
 
 #. type: Plain text
 #: management.en.adoc:140
 #, no-wrap
 msgid "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
-msgstr ""
+msgstr "*WoRMS*: https://www.marinespecies.org/aphia.php?p=match\n"
 
 #. type: Plain text
 #: management.en.adoc:141
 #, no-wrap
 msgid "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
-msgstr ""
+msgstr "*InfoXY*: http://splink.cria.org.br/infoxy?criaLANG=en\n"
 
 #. type: Plain text
 #: management.en.adoc:142
 #, no-wrap
 msgid "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
-msgstr ""
+msgstr "*Georeferencing Calculator*: http://georeferencing.org/georefcalculator/gc.html\n"
 
 #. type: Plain text
 #: management.en.adoc:143
 #, no-wrap
 msgid "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
-msgstr ""
+msgstr "*Canadensys coordinate conversion*: http://data.canadensys.net/tools/coordinates\n"
 
 #. type: Plain text
 #: management.en.adoc:144
 #, no-wrap
 msgid "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
-msgstr ""
+msgstr "*Canadensys date parsing*: http://data.canadensys.net/tools/dates\n"
 
 #. type: Plain text
 #: management.en.adoc:145
 #, no-wrap
 msgid "*Google Maps*: https://maps.google.com/\n"
-msgstr ""
+msgstr "*Google Maps*: https://maps.google.com/\n"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2601,7 +2602,7 @@ msgstr ""
 #. type: delimited block *
 #: management.en.adoc:158
 msgid "Why is it best to clean your data?"
-msgstr ""
+msgstr "為什麼最好要清理你的資料呢？"
 
 #. type: delimited block .
 #: management.en.adoc:165
@@ -2609,7 +2610,9 @@ msgstr ""
 msgid "- [x] to make them as fit for use as possible\n"
 "- [x] to achieve your data quality goals\n"
 "- [ ] data should be cleaned by the users, not the providers\n"
-msgstr ""
+msgstr "- [x] 讓它們盡可能的方便使用\n"
+"- [x] 達到你對資料品質的目標\n"
+"- [ ] 資料應該由使用者自己清，而非提供者\n"
 
 #.  Question 2
 #. type: Plain text
@@ -2660,7 +2663,7 @@ msgstr ""
 #. type: Plain text
 #: management.en.adoc:201
 msgid "Which tools can be used to clean your data ?"
-msgstr ""
+msgstr "下列哪些工具可以用來清理你的資料？"
 
 #. type: delimited block .
 #: management.en.adoc:209
@@ -2669,7 +2672,10 @@ msgid "- [x] Excel & other spreadsheets management tools\n"
 "- [x] OpenRefine\n"
 "- [x] Your database software\n"
 "- [x] Online tools such as Scientific Names Resolver or Google Maps\n"
-msgstr ""
+msgstr "- [x] Excel 和其他 spreadsheets的管理工具 \n"
+"- [x] OpenRefine\n"
+"- [x] 你的資料庫軟體\n"
+"- [x] 線上工具，如：Scientific Names Resolver 、 Google Maps\n"
 
 #. type: Plain text
 #: publishing.en.adoc:6
@@ -2680,7 +2686,7 @@ msgstr ""
 #: publishing.en.adoc:7
 #, no-wrap
 msgid "Data publishing concepts"
-msgstr ""
+msgstr "資料發布概念"
 
 #. type: Plain text
 #: publishing.en.adoc:11
@@ -2712,17 +2718,17 @@ msgstr ""
 #. type: Plain text
 #: publishing.en.adoc:28
 msgid "https://training-ipt-a.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-a.gbif.org/[^]"
 
 #. type: Plain text
 #: publishing.en.adoc:30
 msgid "https://training-ipt-b.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-b.gbif.org/[^]"
 
 #. type: Plain text
 #: publishing.en.adoc:32
 msgid "https://training-ipt-c.gbif.org/[^]"
-msgstr ""
+msgstr "https://training-ipt-c.gbif.org/[^]"
 
 #. type: Title ===
 #: publishing.en.adoc:33
@@ -2798,7 +2804,7 @@ msgstr ""
 #. type: Plain text
 #: publishing.en.adoc:79
 msgid "What is an IPT?"
-msgstr ""
+msgstr "什麼是IPT？"
 
 #. type: delimited block .
 #: publishing.en.adoc:86
@@ -3688,7 +3694,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:156
 msgid "Download link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
-msgstr ""
+msgstr "下載 link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPublication.xlsx]. (58 KB)"
 
 #. type: Title ==
 #: use-case-birds-from-literature.en.adoc:3
@@ -3717,7 +3723,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:14
 #, no-wrap
 msgid "img/web/use-case-3-scanner.png"
-msgstr ""
+msgstr "img/web/use-case-3-scanner.png"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:18
@@ -4426,7 +4432,7 @@ msgstr "http://vertnet.org/resources/datalicensingguide.html[VertNet data licens
 #: keydocs.en.adoc:88 solutions.en.adoc:243
 #, no-wrap
 msgid "OpenRefine"
-msgstr ""
+msgstr "OpenRefine"
 
 #. type: Plain text
 #: keydocs.en.adoc:91
@@ -5597,7 +5603,7 @@ msgstr ""
 #: solutions.en.adoc:240
 #, no-wrap
 msgid "*Which tools can be used to clean your data?*\n"
-msgstr ""
+msgstr "*下列哪些工具可以用來清理你的資料？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:242
@@ -5848,13 +5854,13 @@ msgstr ""
 #: acknowledgements.en.adoc:29
 #, no-wrap
 msgid "Translators"
-msgstr ""
+msgstr "翻譯者"
 
 #. type: Title ====
 #: acknowledgements.en.adoc:31
 #, no-wrap
 msgid "French"
-msgstr "French"
+msgstr "法文"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:33
@@ -5895,7 +5901,7 @@ msgstr "Y. Sabastian Wirsiy"
 #: acknowledgements.en.adoc:40
 #, no-wrap
 msgid "Portuguese"
-msgstr ""
+msgstr "葡萄牙文"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:42
@@ -5921,7 +5927,7 @@ msgstr "Tainan Messina"
 #: acknowledgements.en.adoc:46
 #, no-wrap
 msgid "Spanish"
-msgstr ""
+msgstr "西班牙文"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:48
@@ -5962,7 +5968,7 @@ msgstr ""
 #. type: Plain text
 #: acknowledgements.en.adoc:58
 msgid "Icons used in this course are made by Freepik from https://www.flaticon.com/[www.flaticon.com^]"
-msgstr ""
+msgstr "此練習中的圖示(Icons)來自 Freepik from https://www.flaticon.com/[www.flaticon.com^]"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:59
