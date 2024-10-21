@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-10-21 09:27\n"
+"PO-Revision-Date: 2024-10-21 11:50\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1729,22 +1729,22 @@ msgstr "查看利害關係人卡(STAKEHOLDER)，辨別在本次案例中提到�
 #. type: Plain text
 #: planning.en.adoc:86
 msgid "Review the ROLE cards, identify any mentioned in the use case and decide which STAKEHOLDER group they belong to."
-msgstr ""
+msgstr "查看角色卡(ROLE)，找出案例中提到者，並決定各個利害關係人(STAKEHOLDER)屬於何種角色。"
 
 #. type: Plain text
 #: planning.en.adoc:87
 msgid "Make notes to cards as appropriate."
-msgstr ""
+msgstr "根據需要在卡片上做記錄。"
 
 #. type: Plain text
 #: planning.en.adoc:88
 msgid "Once the cards are assigned take pictures/screenshots."
-msgstr ""
+msgstr "一旦分配了卡片，就拍照/截圖。"
 
 #. type: Plain text
 #: planning.en.adoc:89
 msgid "Use the <<exercise-sheet,exercise sheet>> to provide your answers."
-msgstr ""
+msgstr "用 <<exercise-sheet,exercise sheet>> 來提供你的答案"
 
 #. type: delimited block *
 #: planning.en.adoc:92
@@ -1755,7 +1755,7 @@ msgstr "*問題*\n"
 #. type: delimited block *
 #: planning.en.adoc:94
 msgid "Are there resources or goals missing from the cards that you feel are critical to the successful completion of the project? Note these on the answer sheet."
-msgstr ""
+msgstr "是否有你認為對於完成專案至關重要，但卡片中遺漏的資源、目標呢？若有，請記在答案紙(answer sheet)上。"
 
 #. type: Title ====
 #: planning.en.adoc:96 use-case-invasive-species.en.adoc:91
@@ -1767,28 +1767,28 @@ msgstr "Exercise 1b"
 #. type: Plain text
 #: planning.en.adoc:99
 msgid "Using the stakeholder and goal analysis from exercise 1a, develop a workflow using the STAGE cards."
-msgstr ""
+msgstr "根據exercise 1a的利害關係人、目標分析，用工作階段卡(STAGE)來發展工作流。"
 
 #. type: Plain text
 #: planning.en.adoc:101
 msgid "Re-read the use case introduction, if necessary."
-msgstr ""
+msgstr "如果需要，可以重讀一次案例介紹。"
 
 #. type: Plain text
 #: planning.en.adoc:102
 msgid "Decide which TASKS for which each ROLE will be responsible."
-msgstr ""
+msgstr "決定每個任務(TASK)該由哪個角色(ROLE)負責。"
 
 #. type: Plain text
 #: planning.en.adoc:103
 msgid "Review the STAGE cards and order the TASKS appropriately."
-msgstr ""
+msgstr "查看工作階段卡(STAGE)，並適當地安排任務(TASK)。"
 
 #. type: Plain text
 #: planning.en.adoc:104 capture.en.adoc:56 management.en.adoc:44
 #: management.en.adoc:70 management.en.adoc:87 publishing.en.adoc:56
 msgid "Use the previously downloaded exercise sheet to provide your answers."
-msgstr ""
+msgstr "使用前面下載的練習表exercise sheet 來提供你的答案。"
 
 #. type: delimited block *
 #: planning.en.adoc:107
@@ -1799,7 +1799,7 @@ msgstr "*問題*\n"
 #. type: delimited block *
 #: planning.en.adoc:110
 msgid "Are there obvious bottlenecks in the workflow? For example: Are there too many tasks for a particular role/resource?"
-msgstr ""
+msgstr "工作流中有明顯的瓶頸嗎？如：有特定的角色/資源負擔了太多的任務嗎？"
 
 #. type: delimited block *
 #: planning.en.adoc:112
