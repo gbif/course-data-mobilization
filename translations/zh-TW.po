@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-10-31 10:50\n"
+"PO-Revision-Date: 2024-10-31 12:14\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2000,7 +2000,7 @@ msgstr "資料獲取、處理與品質"
 #. type: Plain text
 #: capture.en.adoc:37
 msgid "In this video (09:11), you will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.  If you are unable to watch the embedded video, you can link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] it locally. (MP4 - 19 MB)"
-msgstr ""
+msgstr "在此影片中(09:11)，你將探討何謂在資料獲取時的品質、與原則，特別是指自館藏標籤、田野筆記、或試算表來源獲取資料的場合。若您無法觀看遷入於此的影片，可點選 link:../videos/Data_capture_processing_quality.mp4[download^,opts=download] 下載並觀賞。(MP4 - 19 MB)"
 
 #. type: Title ===
 #: capture.en.adoc:41 use-case-invasive-species.en.adoc:112
@@ -2074,7 +2074,9 @@ msgstr ""
 msgid ":figure-caption!:\n"
 ".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
 "image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
-msgstr ""
+msgstr ":figure-caption!:\n"
+".Water hyacinth (Eichhornia crassipes) observed in Bourail, New Caledonia, where it is an introduced and invasive species by GRIIS. Photo by gérard (2016) licensed under CC BY-SA 2.0\n"
+"image::img/web/QDataTypes-plant.png[align=center,width=640,height=360]\n"
 
 #.  Question 3
 #. type: Plain text
