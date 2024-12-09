@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-12-09 00:22\n"
+"PO-Revision-Date: 2024-12-09 01:50\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2273,7 +2273,7 @@ msgstr "資料管理工具"
 #. type: Plain text
 #: management.en.adoc:19
 msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
-msgstr "在這影片中 (06:42)， 你將學到一些能用來增進資料品質的工具。若您無法觀看遷入在課程頁面上的影片，可以點此下載 link:../videos/Data_Management_Tools.mp4[download,opts=download] 並在電腦上觀賞。 (MP4 - 10.3 MB)"
+msgstr "在這影片中 (06:42)， 你將學到一些能用來增進資料品質的工具。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/Data_Management_Tools.mp4[download,opts=download] 並在電腦上觀賞。 (MP4 - 10.3 MB)"
 
 #. type: Title ===
 #: management.en.adoc:23
@@ -2284,12 +2284,12 @@ msgstr "Exercise 3a-c"
 #. type: Plain text
 #: management.en.adoc:26
 msgid "For these exercises, you will perform technical and consistency validation checks, improve data with different tools, and learn how to use https://openrefine.org/[OpenRefine^]."
-msgstr ""
+msgstr "這個練習中，你將進行技術性驗證與一致性檢查，以不同工具來增進資料集外，且學習如何使用 https://openrefine.org/[OpenRefine^] 。"
 
 #. type: Plain text
 #: management.en.adoc:32
 msgid "Your institution is part of the “Global Poales Association (GPA)”.  This association has secured funding to publish an up-to-date flora on the group and has requested your herbarium to participate and provide any high quality records you may have on this order of plants.  The order is well represented in your collection so you think you could contribute substantially to this effort."
-msgstr ""
+msgstr "你的機構隸屬於「國際禾本植物協會(Global Poales Association, 下稱GPA)」的其中一員。此協會已經募得了發表最新版植物誌所需的資助，並要求你的標本館去參與、並提供該目植物任何可能有的高品質紀錄資訊。該目在你的館藏中十分豐富，因此你認為你能很好地對此有所貢獻。"
 
 #. type: Title ====
 #: management.en.adoc:33
@@ -2306,7 +2306,7 @@ msgstr "*資料驗證檢查*\n"
 #. type: Plain text
 #: management.en.adoc:39
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
-msgstr ""
+msgstr "此練習中，我們將專注在技術性錯誤，並練習執行基本的驗證檢查來找出技術性錯誤。請參考  <<Validation checks>> 來得到更多關於錯誤的種類資訊。  "
 
 #. type: Plain text
 #: management.en.adoc:41
@@ -2338,32 +2338,32 @@ msgstr "*其他資料管理工具*\n"
 #. type: Plain text
 #: management.en.adoc:50
 msgid "The GPA association has given you a checklist of data quality elements to verify:"
-msgstr ""
+msgstr "GPA協會給了一份資料品質的要求清單要你驗證："
 
 #. type: Plain text
 #: management.en.adoc:52
 msgid "All plant names (full name) are correctly spelled"
-msgstr ""
+msgstr "所有植物名稱(全名)都拼寫正確"
 
 #. type: Plain text
 #: management.en.adoc:53
 msgid "All plant names belong to the order"
-msgstr ""
+msgstr "所有植物名都屬於該目"
 
 #. type: Plain text
 #: management.en.adoc:54
 msgid "All records have coordinates"
-msgstr ""
+msgstr "所有紀錄都有座標"
 
 #. type: Plain text
 #: management.en.adoc:55
 msgid "All coordinates are inside the country stated and converted to decimal format"
-msgstr ""
+msgstr "所有座標都在上面表示的國家內、並轉換至十進位制"
 
 #. type: Plain text
 #: management.en.adoc:56
 msgid "All dates are in the proper column and in the format YYYY-MM-DD"
-msgstr ""
+msgstr "所有日期資料都在適當的欄位內，並且格式為YYYY-MM-DD"
 
 #. type: Plain text
 #: management.en.adoc:58
@@ -2398,12 +2398,12 @@ msgstr "使用上個練習中的相同檔案"
 #. type: Plain text
 #: management.en.adoc:67
 msgid "Make the correction ONLY for the Eriocaulaceae family (so you may want to filter the data)"
-msgstr ""
+msgstr "只對 Eriocaulaceae (穀精草科)的紀錄進行更正(對此你可能會要篩選資料)"
 
 #. type: Plain text
 #: management.en.adoc:68
 msgid "Correct the errors found in the dataset used in exercise 3a (previous exercise), using the tools of your choice, and document the changes you perform in the exercise sheet."
-msgstr ""
+msgstr "更正那些在前個練習中(exercise 3a)找到的資料集錯誤，使用你選擇的工具，並將你做出的變更在練習表中記錄成檔。"
 
 #. type: Plain text
 #: management.en.adoc:69
@@ -2419,7 +2419,7 @@ msgstr "Exercise 3c"
 #. type: Plain text
 #: management.en.adoc:75
 msgid "In this video (03:27), you will learn about https://openrefine.org/[OpenRefine^]. You can use OpenRefine to standardize and improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] it locally. (MP4 - 3.8 MB)"
-msgstr ""
+msgstr "在這影片中 (03:27)，你將學習 https://openrefine.org/[OpenRefine^]。你可以用 OpenRefine來標準化、並增進你的資料集品質。若您無法觀看嵌入在課程頁面上的影片，可點此下載 link:../videos/Data_Management_OpenRefine.mp4[download,opts=download] 至電腦上觀賞 (MP4 - 3.8 MB)"
 
 #. type: Plain text
 #: management.en.adoc:80
@@ -2430,7 +2430,7 @@ msgstr "*OpenRefine*\n"
 #. type: Plain text
 #: management.en.adoc:82
 msgid "In this exercise we use OpenRefine to improve the quality of a dataset by using the default features, existing web services and regular expressions."
-msgstr ""
+msgstr "在此練習中，我們使用OpenRefine 來改善資料集的品質。將使用的是內建的基本功能、既存的網路服務、及正規表示式。"
 
 #. type: Plain text
 #: management.en.adoc:84
@@ -8283,7 +8283,8 @@ msgstr ""
 #, no-wrap
 msgid " \n"
 "// Slide 8\n"
-msgstr ""
+msgstr " \n"
+"// Slide 8\n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:103
@@ -8338,7 +8339,7 @@ msgstr ""
 #: scripts/documentation.en.txt:124
 #, no-wrap
 msgid "// Slide 9 \n"
-msgstr ""
+msgstr "// Slide 9 \n"
 
 #. type: Plain text
 #: scripts/documentation.en.txt:127
@@ -8894,7 +8895,7 @@ msgstr ""
 #: scripts/organizing.en.txt:211 scripts/structures.en.txt:155
 #, no-wrap
 msgid "// Slide 24\n"
-msgstr ""
+msgstr "// Slide 24\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:213
@@ -8960,7 +8961,7 @@ msgstr ""
 #: scripts/organizing.en.txt:233 scripts/structures.en.txt:161
 #, no-wrap
 msgid "// Slide 25\n"
-msgstr ""
+msgstr "// Slide 25\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:235
@@ -8978,7 +8979,7 @@ msgstr ""
 #: scripts/organizing.en.txt:239
 #, no-wrap
 msgid "// Slide 26\n"
-msgstr ""
+msgstr "// Slide 26\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:241
@@ -9021,7 +9022,7 @@ msgstr ""
 #: scripts/organizing.en.txt:254
 #, no-wrap
 msgid "// Slide 27\n"
-msgstr ""
+msgstr "// Slide 27\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:256
@@ -9046,7 +9047,7 @@ msgstr ""
 #: scripts/organizing.en.txt:263
 #, no-wrap
 msgid "// Slide 28\n"
-msgstr ""
+msgstr "// Slide 28\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:266
@@ -9059,7 +9060,7 @@ msgstr ""
 #: scripts/organizing.en.txt:268
 #, no-wrap
 msgid "// Slide 29\n"
-msgstr ""
+msgstr "// Slide 29\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:270
@@ -9103,7 +9104,7 @@ msgstr ""
 #: scripts/organizing.en.txt:284
 #, no-wrap
 msgid "// Slide 30\n"
-msgstr ""
+msgstr "// Slide 30\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:286
@@ -9123,7 +9124,7 @@ msgstr ""
 #: scripts/organizing.en.txt:292
 #, no-wrap
 msgid "// Slide 31\n"
-msgstr ""
+msgstr "// Slide 31\n"
 
 #. type: Plain text
 #: scripts/organizing.en.txt:297
@@ -10395,7 +10396,8 @@ msgstr ""
 #, no-wrap
 msgid " \n"
 "// Slide 10\n"
-msgstr ""
+msgstr " \n"
+"// Slide 10\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:148
@@ -10501,7 +10503,8 @@ msgstr ""
 #, no-wrap
 msgid " \n"
 "// Slide 12\n"
-msgstr ""
+msgstr " \n"
+"// Slide 12\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:189
@@ -10572,7 +10575,8 @@ msgstr ""
 #, no-wrap
 msgid " \n"
 "// Slide 15\n"
-msgstr ""
+msgstr " \n"
+"// Slide 15\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:234
@@ -10661,7 +10665,8 @@ msgstr ""
 #, no-wrap
 msgid " \n"
 "// Slide 18\n"
-msgstr ""
+msgstr " \n"
+"// Slide 18\n"
 
 #. type: Plain text
 #: scripts/standards.en.txt:274
