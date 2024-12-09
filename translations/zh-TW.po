@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-12-08 23:18\n"
+"PO-Revision-Date: 2024-12-09 00:22\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2029,12 +2029,12 @@ msgstr "下載 link:../exercise-data/UC1-2-base-material.zip[UC1-2-base-material
 #. type: Plain text
 #: capture.en.adoc:55
 msgid "Download the spreadsheet template: link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) to transcribe the information found on each of the images for the five specimens."
-msgstr ""
+msgstr "下載試算表模板: link:../exercise-data/UC1-2-occurrence-template.xlsx[UC1-2-occurrence-template.xlsx,opts=download] (57.3 KB) ，用它來把照片上找到的資訊轉錄下來。"
 
 #. type: Plain text
 #: capture.en.adoc:58
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels than was planned for in the template."
-msgstr ""
+msgstr "你或許會加入更多欄位，因為你可能能夠找到比模板預期規劃中更多的欄位資訊。"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2043,7 +2043,7 @@ msgstr ""
 #. type: delimited block *
 #: capture.en.adoc:71
 msgid "What dataset type(s) would you choose for an ichthyology collection?"
-msgstr ""
+msgstr "你會選擇哪種資料型態給一個魚類分類學的蒐藏呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:77
@@ -2061,13 +2061,15 @@ msgstr ":figure-caption!:\n"
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [x] 物種出現紀錄occurrence\n"
+"- [x] 物種名錄checklist\n"
+"- [ ] 調查事件sampling event\n"
 
 #.  Question 2
 #. type: Plain text
 #: capture.en.adoc:84
 msgid "What dataset type(s) would you choose for a list of invasive species?"
-msgstr ""
+msgstr "你會選擇什麼資料型態給一個關於入侵種的清單呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:90
@@ -2083,13 +2085,13 @@ msgstr ":figure-caption!:\n"
 #. type: Plain text
 #: capture.en.adoc:97
 msgid "What dataset type(s) would you choose for the flora and fauna of an environmental impact study?"
-msgstr ""
+msgstr "你會選擇什麼資料型態給環境衝擊調查下所得的植物相、動物相資料呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:101
 #, no-wrap
 msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
-msgstr ""
+msgstr "這份環境衝擊評估調查是由專家完成，目的是為了評估一特定區域在人類活動影響(如：道路施工、風機發電、採礦作業、建築...等等)之前、之下、之後的的生物多樣性、棲地類型(biotope)。"
 
 #. type: delimited block .
 #: capture.en.adoc:105
@@ -2107,19 +2109,21 @@ msgstr ":figure-caption!:\n"
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [x] sampling event\n"
-msgstr ""
+msgstr "- [x] 物種出現紀錄occurrence\n"
+"- [] 物種名錄checklist\n"
+"- [x] 調查事件sampling event\n"
 
 #.  Question 4
 #. type: Plain text
 #: capture.en.adoc:112
 msgid "What dataset type(s) would you choose for bird tracking data?"
-msgstr ""
+msgstr "你會為鳥類的追蹤資料選擇怎樣的資料集型態呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:116
 #, no-wrap
 msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
-msgstr ""
+msgstr "這份鳥類追蹤紀錄是利用特殊裝置(如：安裝於鳥身上的GPS追蹤器)紀錄而成，也是此能讓科學家得幾追蹤牠們的遷徙路徑、築巢地點。"
 
 #. type: delimited block .
 #: capture.en.adoc:120
@@ -2137,13 +2141,15 @@ msgstr ":figure-caption!:\n"
 msgid "- [x] occurrence\n"
 "- [ ] checklist\n"
 "- [ ] sampling event\n"
-msgstr ""
+msgstr "- [x] 物種出現紀錄occurrence\n"
+"- [] 物種名錄checklist\n"
+"- [] 調查事件sampling event\n"
 
 #.  Question 5
 #. type: Plain text
 #: capture.en.adoc:127
 msgid "What dataset type(s) would you choose for insect trap data?"
-msgstr ""
+msgstr "你會為捕蟲陷阱資料選擇怎樣的資料集型態呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:133
@@ -2159,13 +2165,13 @@ msgstr ":figure-caption!:\n"
 #. type: Plain text
 #: capture.en.adoc:140
 msgid "What dataset type(s) would you choose for national park management data?"
-msgstr ""
+msgstr "你會為國家公園管理資料選擇怎樣的資料集型態呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:144
 #, no-wrap
 msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
-msgstr ""
+msgstr "特定保護區域(如：國家公園、或小的自然保留區)管理所需要的資料十分多樣、且具有不同的資料來源：植生調查、動物個體追蹤、巡守員或警衛的觀察、甚至是「公民科學」資料或從社群媒體圖片中可推論出來的資料。"
 
 #. type: delimited block .
 #: capture.en.adoc:148
@@ -2183,25 +2189,28 @@ msgstr ":figure-caption!:\n"
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [x] sampling event\n"
-msgstr ""
+msgstr "\n"
+"- [x] 物種出現紀錄occurrence\n"
+"- [x] 物種名錄checklist\n"
+"- [x] 調查事件sampling event"
 
 #.  Question 7
 #. type: Plain text
 #: capture.en.adoc:155
 msgid "What dataset type(s) would you choose for a citizen science bioblitz?"
-msgstr ""
+msgstr "你認為公民科學中生物閃電戰(bioblitz)應該要用什麼資料集型態呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:159
 #, no-wrap
 msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
-msgstr ""
+msgstr "公民科學資料有時會透過主題式的田野工作日來蒐集獲得，也就是生物閃電戰(bioblitz)。志願者們通常聚集於特定區域，並花上一天試圖觀察、鑑別儘可能越多物種。"
 
 #. type: delimited block .
 #: capture.en.adoc:161
 #, no-wrap
 msgid "Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.\n"
-msgstr ""
+msgstr "每個參與者產出的資料，都會被彙整進整個公民科學專案之中、或資料管理工具內。"
 
 #. type: delimited block .
 #: capture.en.adoc:165
@@ -2217,7 +2226,7 @@ msgstr ":figure-caption!:\n"
 #. type: Plain text
 #: capture.en.adoc:172
 msgid "What dataset type(s) would you choose for a regional species list?"
-msgstr "你該為地區的物種名錄選擇哪種資料集呢？"
+msgstr "你會為一地區物種名錄選擇哪種資料集型態呢？"
 
 #. type: delimited block .
 #: capture.en.adoc:178
@@ -2242,7 +2251,7 @@ msgstr "- [ ] occurrence\n"
 #. type: Plain text
 #: management.en.adoc:6
 msgid "In this module, you will review the main concepts, related tools and best practices for data management, particularly, data cleaning and standardization."
-msgstr ""
+msgstr "在這個模組中，你將回顧資料管理(尤其是資料清理與標準化)的主要概念、最佳操作以及相關工具。"
 
 #. type: Title ===
 #: management.en.adoc:7
@@ -2264,7 +2273,7 @@ msgstr "資料管理工具"
 #. type: Plain text
 #: management.en.adoc:19
 msgid "In this video (06:42), you will learn about a variety of tools that you can use to improve the quality of your data.  If you are unable to watch the embedded video, you can link:../videos/Data_Management_Tools.mp4[download,opts=download] it locally. (MP4 - 10.3 MB)"
-msgstr ""
+msgstr "在這影片中 (06:42)， 你將學到一些能用來增進資料品質的工具。若您無法觀看遷入在課程頁面上的影片，可以點此下載 link:../videos/Data_Management_Tools.mp4[download,opts=download] 並在電腦上觀賞。 (MP4 - 10.3 MB)"
 
 #. type: Title ===
 #: management.en.adoc:23
@@ -3540,7 +3549,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
 msgid "Download the link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "下載 link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:82
@@ -3901,7 +3910,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
 msgid "Download the link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "下載 link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
@@ -3999,7 +4008,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
 msgid "Download link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
-msgstr ""
+msgstr "下載 link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleaning.zip,opts=download]. (45 KB)"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
@@ -4039,7 +4048,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:171
 msgid "Download link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
-msgstr ""
+msgstr "下載 link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPublication.zip,opts=download]. (65 KB)"
 
 #. type: Title ==
 #: assignments.en.adoc:1
@@ -6108,7 +6117,7 @@ msgstr ""
 #: scripts/structures.en.txt:2
 #, no-wrap
 msgid "// Slide 1\n"
-msgstr ""
+msgstr "// Slide 1\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:4
@@ -6125,7 +6134,7 @@ msgstr ""
 #: scripts/structures.en.txt:7
 #, no-wrap
 msgid "// Slide 2\n"
-msgstr ""
+msgstr "// Slide 2\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:8
@@ -6142,7 +6151,7 @@ msgstr ""
 #: scripts/structures.en.txt:12
 #, no-wrap
 msgid "// Slide 3\n"
-msgstr ""
+msgstr "// Slide 3\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:15
@@ -6157,7 +6166,7 @@ msgstr ""
 #: scripts/data-capture.en.txt:17
 #, no-wrap
 msgid "// Slide 4 \n"
-msgstr ""
+msgstr "// Slide 4 \n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:23
@@ -6177,7 +6186,7 @@ msgstr ""
 #: scripts/standards.en.txt:53 scripts/structures.en.txt:20
 #, no-wrap
 msgid "// Slide 5\n"
-msgstr ""
+msgstr "// Slide 5\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:29
@@ -6196,7 +6205,7 @@ msgstr ""
 #: scripts/structures.en.txt:28
 #, no-wrap
 msgid "// Slide 6\n"
-msgstr ""
+msgstr "// Slide 6\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:36
@@ -6211,7 +6220,7 @@ msgstr ""
 #: scripts/data-capture.en.txt:38
 #, no-wrap
 msgid "// Slide 7 \n"
-msgstr ""
+msgstr "// Slide 7 \n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:42
@@ -6228,7 +6237,7 @@ msgstr ""
 #: scripts/software.en.txt:50 scripts/structures.en.txt:47
 #, no-wrap
 msgid "// Slide 8\n"
-msgstr ""
+msgstr "// Slide 8\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:47
@@ -6245,7 +6254,7 @@ msgstr ""
 #: scripts/standards.en.txt:132 scripts/structures.en.txt:54
 #, no-wrap
 msgid "// Slide 9\n"
-msgstr ""
+msgstr "// Slide 9\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:54
@@ -6275,7 +6284,7 @@ msgstr ""
 #: scripts/standards.en.txt:178 scripts/structures.en.txt:73
 #, no-wrap
 msgid "// Slide 11\n"
-msgstr ""
+msgstr "// Slide 11\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:65
@@ -6291,7 +6300,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:109 scripts/structures.en.txt:80
 #, no-wrap
 msgid "// Slide 12\n"
-msgstr ""
+msgstr "// Slide 12\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:70
@@ -6307,7 +6316,7 @@ msgstr ""
 #: scripts/standards.en.txt:205 scripts/structures.en.txt:84
 #, no-wrap
 msgid "// Slide 13\n"
-msgstr ""
+msgstr "// Slide 13\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:76
@@ -6324,7 +6333,7 @@ msgstr ""
 #: scripts/structures.en.txt:89
 #, no-wrap
 msgid "// Slide 14\n"
-msgstr ""
+msgstr "// Slide 14\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:81
@@ -6349,7 +6358,7 @@ msgstr ""
 #: scripts/structures.en.txt:100
 #, no-wrap
 msgid "// Slide 16\n"
-msgstr ""
+msgstr "// Slide 16\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:90
@@ -6382,7 +6391,7 @@ msgstr ""
 #: scripts/structures.en.txt:104
 #, no-wrap
 msgid "// Slide 17\n"
-msgstr ""
+msgstr "// Slide 17\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:102
@@ -6398,7 +6407,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:183 scripts/structures.en.txt:111
 #, no-wrap
 msgid "// Slide 18\n"
-msgstr ""
+msgstr "// Slide 18\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:106 scripts/data-management.en.txt:126
@@ -6472,7 +6481,7 @@ msgstr ""
 #: scripts/structures.en.txt:16
 #, no-wrap
 msgid "// Slide 4\n"
-msgstr ""
+msgstr "// Slide 4\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:23
@@ -6607,7 +6616,7 @@ msgstr ""
 #: scripts/structures.en.txt:66
 #, no-wrap
 msgid "// Slide 10\n"
-msgstr ""
+msgstr "// Slide 10\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:88
@@ -6698,7 +6707,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:2
 #, no-wrap
 msgid "// SLIDE 1\n"
-msgstr ""
+msgstr "// SLIDE 1\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:4
@@ -6710,7 +6719,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:6
 #, no-wrap
 msgid "// SLIDE 2\n"
-msgstr ""
+msgstr "// SLIDE 2\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:9
@@ -6723,7 +6732,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:11
 #, no-wrap
 msgid "// SLIDE 3\n"
-msgstr ""
+msgstr "// SLIDE 3\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:16
@@ -6738,7 +6747,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:18
 #, no-wrap
 msgid "// SLIDE 4\n"
-msgstr ""
+msgstr "// SLIDE 4\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:20
@@ -6765,7 +6774,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:29
 #, no-wrap
 msgid "// SLIDE 5\n"
-msgstr ""
+msgstr "// SLIDE 5\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:32
@@ -6784,7 +6793,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:36
 #, no-wrap
 msgid "// SLIDE 6\n"
-msgstr ""
+msgstr "// SLIDE 6\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:39
@@ -6797,7 +6806,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:41
 #, no-wrap
 msgid "// SLIDE 7\n"
-msgstr ""
+msgstr "// SLIDE 7\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:43
@@ -6815,7 +6824,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:47
 #, no-wrap
 msgid "// SLIDE 8\n"
-msgstr ""
+msgstr "// SLIDE 8\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:49
@@ -6849,7 +6858,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:61
 #, no-wrap
 msgid "// SLIDE 10\n"
-msgstr ""
+msgstr "// SLIDE 10\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:63
@@ -6937,7 +6946,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:101
 #, no-wrap
 msgid "// SLIDE 11\n"
-msgstr ""
+msgstr "// SLIDE 11\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:103
@@ -6956,7 +6965,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:108
 #, no-wrap
 msgid "// SLIDE 12\n"
-msgstr ""
+msgstr "// SLIDE 12\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:110
@@ -6999,7 +7008,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
 #, no-wrap
 msgid "// SLIDE 13\n"
-msgstr ""
+msgstr "// SLIDE 13\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:126
@@ -7012,7 +7021,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:128
 #, no-wrap
 msgid "// SLIDE 14\n"
-msgstr ""
+msgstr "// SLIDE 14\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:131
@@ -7031,7 +7040,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:135
 #, no-wrap
 msgid "// SLIDE 15\n"
-msgstr ""
+msgstr "// SLIDE 15\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:138
@@ -7050,7 +7059,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:143
 #, no-wrap
 msgid "// SLIDE 16\n"
-msgstr ""
+msgstr "// SLIDE 16\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:145
@@ -7076,7 +7085,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:153
 #, no-wrap
 msgid "// SLIDE 17\n"
-msgstr ""
+msgstr "// SLIDE 17\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:156
@@ -7107,7 +7116,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:164
 #, no-wrap
 msgid "// SLIDE 18\n"
-msgstr ""
+msgstr "// SLIDE 18\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:166
@@ -7119,7 +7128,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:168
 #, no-wrap
 msgid "// SLIDE 19\n"
-msgstr ""
+msgstr "// SLIDE 19\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:172
@@ -7133,7 +7142,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:174
 #, no-wrap
 msgid "// SLIDE 20\n"
-msgstr ""
+msgstr "// SLIDE 20\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:176
@@ -7159,7 +7168,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:184
 #, no-wrap
 msgid "// SLIDE 21\n"
-msgstr ""
+msgstr "// SLIDE 21\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:186
@@ -7206,7 +7215,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:203
 #, no-wrap
 msgid "// SLIDE 22\n"
-msgstr ""
+msgstr "// SLIDE 22\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:206
@@ -7257,7 +7266,7 @@ msgstr ""
 #: scripts/data-quality.en.txt:222
 #, no-wrap
 msgid "// SLIDE 23\n"
-msgstr ""
+msgstr "// SLIDE 23\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:229
@@ -7333,7 +7342,7 @@ msgstr ""
 #: scripts/standards.en.txt:93 scripts/structures.en.txt:41
 #, no-wrap
 msgid "// Slide 7\n"
-msgstr ""
+msgstr "// Slide 7\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:41
@@ -7398,7 +7407,7 @@ msgstr ""
 #: scripts/resourcing.en.txt:151 scripts/structures.en.txt:95
 #, no-wrap
 msgid "// Slide 15\n"
-msgstr ""
+msgstr "// Slide 15\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:81
@@ -7433,7 +7442,7 @@ msgstr ""
 #: scripts/structures.en.txt:116
 #, no-wrap
 msgid "// Slide 19\n"
-msgstr ""
+msgstr "// Slide 19\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:102
@@ -7449,7 +7458,7 @@ msgstr ""
 #: scripts/standards.en.txt:287
 #, no-wrap
 msgid "// Slide 20\n"
-msgstr ""
+msgstr "// Slide 20\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:107
@@ -7487,7 +7496,7 @@ msgstr ""
 #: scripts/organizing.en.txt:182 scripts/structures.en.txt:132
 #, no-wrap
 msgid "// Slide 21\n"
-msgstr ""
+msgstr "// Slide 21\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:121
@@ -7502,7 +7511,7 @@ msgstr ""
 #: scripts/structures.en.txt:143
 #, no-wrap
 msgid "// Slide 22\n"
-msgstr ""
+msgstr "// Slide 22\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:125
@@ -7539,7 +7548,7 @@ msgstr ""
 #: scripts/structures.en.txt:150
 #, no-wrap
 msgid "// Slide 23\n"
-msgstr ""
+msgstr "// Slide 23\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:142
