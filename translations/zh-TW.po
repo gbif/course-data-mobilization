@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-12-10 03:30\n"
+"PO-Revision-Date: 2024-12-10 06:02\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2469,53 +2469,59 @@ msgstr "*技術性錯誤Technical errors*\n"
 #, no-wrap
 msgid "*Completeness*: \n"
 "Whether all the data and metadata is available – are all fields present, are all fields filled out?\n"
-msgstr ""
+msgstr "*完整性Completeness*: \n"
+"所有的資料與後設資料是否齊全──是否所有欄位都在、且無缺失？\n"
 
 #. type: Plain text
 #: management.en.adoc:100
 #, no-wrap
 msgid "*Bounds*: \n"
 "For example, are days given in the range 1-31 (depending on month)\n"
-msgstr ""
+msgstr "*該有的限制Bounds*: \n"
+"比如日期應當於1至31之間(依月份而定)"
 
 #. type: Plain text
 #: management.en.adoc:102
 #, no-wrap
 msgid "*Data type*: \n"
 "For example, does the Date field contain a date or a number?\n"
-msgstr ""
+msgstr "*資料類型Data type*: \n"
+"舉例來說，填在日期欄位中的是否是單一日期、或數字呢？\n"
 
 #. type: Plain text
 #: management.en.adoc:104
 #, no-wrap
 msgid "*Data format*: \n"
 "For example, are Dates provided as 01/01/2010 or 01/Jan/10?\n"
-msgstr ""
+msgstr "*資料格式Data format*: \n"
+"舉例來說，日期格式會是如 01/01/2010 還是 01/Jan/10？\n"
 
 #. type: Plain text
 #: management.en.adoc:106
 #, no-wrap
 msgid "*Consistency errors*\n"
-msgstr ""
+msgstr "*一致性錯誤Consistency errors*\n"
 
 #. type: Plain text
 #: management.en.adoc:112
 msgid "Application of real-world rules to the data.  These may indicate incorrect data entry from older records, transcription errors or post processing.  Some are complex to implement and *require reference data sets to check against*.  E.g. a list of known collectors and collecting habits.  These rules can be gathered from data users and analysts."
-msgstr ""
+msgstr "把真實世界的規則套用在資料上。這可能代表有些錯誤是來自於舊紀錄的資料輸入、過去的錯誤轉錄、或後處理；而有些規則應用上十分複雜、且 *需要參考資料集才能檢驗* ───如：一份關於已知的蒐集者及其蒐集習慣的清單。這些規則可以從資料使用者、分析師中得到。\n"
 
 #. type: Plain text
 #: management.en.adoc:115
 #, no-wrap
 msgid "*Taxonomic*: \n"
 "For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?\n"
-msgstr ""
+msgstr "*分類上的Taxonomic*: \n"
+"如，若鑑定至種，則得有完整的學名(屬+種名)。\n"
 
 #. type: Plain text
 #: management.en.adoc:117
 #, no-wrap
 msgid "*Currency*: \n"
 "Are dates of collection, identification, update and digitization consistent?\n"
-msgstr ""
+msgstr "*流通性Currency*: \n"
+"檢查採集、鑑定、更新及數位化的日期是否一致？\n"
 
 #. type: Plain text
 #: management.en.adoc:120
@@ -2523,7 +2529,9 @@ msgstr ""
 msgid "*Outliers*: \n"
 "Detect outliers, but remember that not all outliers are necessarily errors. \n"
 "For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).\n"
-msgstr ""
+msgstr "*異常值Outliers*: \n"
+"去找出異常值，但記住不是所有的異常值都一定是錯誤。\n"
+"比如：不同於已知的物種分布區域、或已知的環境範圍(但請記住，比起是座標的錯誤異常，這個異常值更可能是被錯誤鑑定至此而產生的結果)。"
 
 #. type: Plain text
 #: management.en.adoc:123
@@ -2531,7 +2539,8 @@ msgstr ""
 msgid "*Geographic*: \n"
 "Are the coordinates within the identified locality or region? \n"
 "For example, are there any terrestrial occurrences in the sea or marine occurrences on land?\n"
-msgstr ""
+msgstr "*地理上的Geographic*: \n"
+"這些座標有落於對應的地點、地區內嗎？ 比如：是否有任何出現在海上的陸生紀錄、或出現在陸地上的海洋紀錄？"
 
 #. type: Plain text
 #: management.en.adoc:127
@@ -2540,14 +2549,18 @@ msgid "*Collecting patterns*: \n"
 "Does the occurrence detail match the known collecting patterns of the organization or collector?\n"
 "Do any records appear to have been created after a collector has died (could this possibly be a different collector with a similar name)?\n"
 "For example, are any mammal records attributed to a bird watching group?\n"
-msgstr ""
+msgstr "*採集模式Collecting patterns*: \n"
+"此筆出現紀錄的細節是否符合這個組織、採集者他們已知的採集模式呢？\n"
+"是否有任何紀錄是在採集者死亡後新增的(或者，這可能是另一位有著同名的不同採集者)？\n"
+"舉例如：是否有任何哺乳類紀錄出現在賞鳥團體的紀錄當中？\n"
 
 #. type: Plain text
 #: management.en.adoc:129
 #, no-wrap
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
-msgstr ""
+msgstr "*正確性與精準度Accuracy and precision*: \n"
+"具歷來說，是否有任何具地理參照的紀錄在精確的定位之前，就有著非常高的GPS精準度、正確性？"
 
 #. type: Plain text
 #: management.en.adoc:132
@@ -2555,7 +2568,8 @@ msgstr ""
 msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
 "Are the records consistent with the method provided?\n"
-msgstr ""
+msgstr "*採集方法Collecting methods*: \n"
+"不同採集方法(如：穿越線法、區域調查法)具有特定的特徵。這些記錄呈現出來與提供出來的方法是一致的嗎？"
 
 #. type: Title ====
 #: management.en.adoc:133
@@ -2646,7 +2660,7 @@ msgstr "- [x] 讓它們盡可能的方便使用\n"
 #. type: Plain text
 #: management.en.adoc:168
 msgid "How should you organize your data cleaning workflow?"
-msgstr ""
+msgstr "如何建構自己資料清理的工作流呢？"
 
 #. type: delimited block .
 #: management.en.adoc:175
