@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-12-12 01:34\n"
+"PO-Revision-Date: 2024-12-12 03:05\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -3153,36 +3153,36 @@ msgstr ""
 #: use-case-invasive-species.en.adoc:3
 #, no-wrap
 msgid "Use Case II - Invasive species"
-msgstr ""
+msgstr "Use Case II - 入侵種"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:8 use-case-lepidoptera-sampling.en.adoc:8
 msgid "You have a choice for Use Case II between two scenarios:"
-msgstr ""
+msgstr "Use Case II 中有兩種不同的情境，你可以在兩者中擇一："
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:10
 #: use-case-lepidoptera-sampling.en.adoc:10
 msgid "Invasive species checklist"
-msgstr ""
+msgstr "入侵種名錄"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:11
 #: use-case-lepidoptera-sampling.en.adoc:11
 msgid "Lepidoptera sampling"
-msgstr ""
+msgstr "鱗翅目(Lepidoptera )取樣調查"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:13
 #: use-case-lepidoptera-sampling.en.adoc:13
 msgid "Your choice for Use Case II will be graded."
-msgstr ""
+msgstr "在此Use Case II中的情境選擇將納入評分考量之中。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:16
 #, no-wrap
 msgid "*Tracking invasive species*\n"
-msgstr ""
+msgstr "*追蹤入侵物種*\n"
 
 #. type: Block title
 #: use-case-invasive-species.en.adoc:18
@@ -3199,12 +3199,12 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:22
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Sharon Grant, John Wieczorek, David Bloom and Laura Anne Russell."
-msgstr ""
+msgstr "此段敘述是為了生物多樣性資料流通課程的練習而發展的，而接下來此練習的概念內容則是由Sharon Grant、 John Wieczorek、David Bloom 與 Laura Anne Russell發展出來的。\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
 msgid "It is a fictionalized scenario based on a real dataset and is meant only for instructional purposes.  The original dataset is attributed to Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
-msgstr ""
+msgstr "以下虛構的場景是基於真實的資料集而來，並只允許作為教學用途使用。該原始的資料集可參至Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:31
@@ -3240,7 +3240,7 @@ msgstr ""
 #: use-case-invasive-species.en.adoc:52
 #, no-wrap
 msgid "img/web/use-case-2-invasives-data-collection.png"
-msgstr ""
+msgstr "img/web/use-case-2-invasives-data-collection.png"
 
 #. type: Title ====
 #: use-case-invasive-species.en.adoc:54
@@ -3408,7 +3408,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
 msgid "Download link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
-msgstr ""
+msgstr "下載 link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture.csv,opts=download]. (7.1 MB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
@@ -3493,7 +3493,7 @@ msgstr ""
 #: use-case-lepidoptera-sampling.en.adoc:18
 #, no-wrap
 msgid "https://www.gbif.org/occurrence/3039469018[Papilio machaon Linnaeus, 1758] observed in Israel by עומר וינר (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/occurrence/3039469018[Papilio machaon Linnaeus, 1758] observed in Israel by עומר וינר (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:19
