@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-12-10 06:02\n"
+"PO-Revision-Date: 2024-12-12 00:11\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2210,7 +2210,7 @@ msgstr "公民科學資料有時會透過主題式的田野工作日來蒐集獲
 #: capture.en.adoc:161
 #, no-wrap
 msgid "Data from each participant are captured and merged into the citizen science programme’s data capture or data management tool.\n"
-msgstr "每個參與者產出的資料，都會被彙整進整個公民科學專案之中、或資料管理工具內。"
+msgstr "每個參與者產出的資料，都會被彙整進整個公民科學專案之中、或資料管理工具內。\n"
 
 #. type: delimited block .
 #: capture.en.adoc:165
@@ -2505,7 +2505,7 @@ msgstr "*一致性錯誤Consistency errors*\n"
 #. type: Plain text
 #: management.en.adoc:112
 msgid "Application of real-world rules to the data.  These may indicate incorrect data entry from older records, transcription errors or post processing.  Some are complex to implement and *require reference data sets to check against*.  E.g. a list of known collectors and collecting habits.  These rules can be gathered from data users and analysts."
-msgstr "把真實世界的規則套用在資料上。這可能代表有些錯誤是來自於舊紀錄的資料輸入、過去的錯誤轉錄、或後處理；而有些規則應用上十分複雜、且 *需要參考資料集才能檢驗* ───如：一份關於已知的蒐集者及其蒐集習慣的清單。這些規則可以從資料使用者、分析師中得到。\n"
+msgstr "把真實世界的規則套用在資料上。這可能代表有些錯誤是來自於舊紀錄的資料輸入、過去的錯誤轉錄、或後處理；而有些規則應用上十分複雜、且 *需要參考資料集才能檢驗* ───如：一份關於已知的蒐集者及其蒐集習慣的清單。這些規則可以從資料使用者、分析師中得到。"
 
 #. type: Plain text
 #: management.en.adoc:115
@@ -2513,7 +2513,7 @@ msgstr "把真實世界的規則套用在資料上。這可能代表有些錯誤
 msgid "*Taxonomic*: \n"
 "For example, if identified to species level, have a binomial scientific name and entries in genus and species fields been provided?\n"
 msgstr "*分類上的Taxonomic*: \n"
-"如，若鑑定至種，則得有完整的學名(屬+種名)。\n"
+"如，若鑑定至種，則得有屬名+種小名等完整的學名。\n"
 
 #. type: Plain text
 #: management.en.adoc:117
@@ -2668,13 +2668,15 @@ msgstr "如何建構自己資料清理的工作流呢？"
 msgid "- [ ] work alone, you know your data best\n"
 "- [x] ask your colleagues for expertise\n"
 "- [x] work at an institutional level to harmonize data quality workflows\n"
-msgstr ""
+msgstr "- [ ] 自己工作，只有自己最了解資料集\n"
+"- [x] 詢問你的專家同事們\n"
+"- [x] 以機構的等級切入，對焦建立資料品質的工作流\n"
 
 #.  Question 3
 #. type: Plain text
 #: management.en.adoc:178
 msgid "Which is best:"
-msgstr ""
+msgstr "下列何者是最好的："
 
 #. type: delimited block .
 #: management.en.adoc:185
@@ -2682,7 +2684,9 @@ msgstr ""
 msgid "- [x] prevent errors from occurring\n"
 "- [x] correct errors as soon as you find them in your database or spreadsheet\n"
 "- [ ] not cleaning errors but documenting them as you go, so people who reuse your data know where they are\n"
-msgstr ""
+msgstr "- [x] 預防錯誤發生\n"
+"- [x] 盡速更正你在資料集、資料庫中找到的錯誤\n"
+"- [ ] 不清理錯誤但將它們記錄下來，因此使用你資料的人們可以知道錯誤在哪裡\n"
 
 #.  Question 4
 #. type: Plain text
