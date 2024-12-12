@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-12-12 00:11\n"
+"PO-Revision-Date: 2024-12-12 01:34\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2692,7 +2692,7 @@ msgstr "- [x] 預防錯誤發生\n"
 #. type: Plain text
 #: management.en.adoc:188
 msgid "Whose responsibility is data quality?"
-msgstr ""
+msgstr "資料品質是誰的責任？"
 
 #. type: delimited block .
 #: management.en.adoc:198
@@ -2703,7 +2703,12 @@ msgid "- [ ] The person(s) who record data on the field\n"
 "- [x] Everyone involved in the management of data\n"
 "- [ ] The people who use your data\n"
 "- [ ] GBIF\n"
-msgstr ""
+msgstr "- [ ] 記錄此筆資料的人\n"
+"- [ ] 資料抄寫員\n"
+"- [ ] 資料庫管理者\n"
+"- [x] 所有參與到資料管理的人\n"
+"- [ ] 用你資料的人\n"
+"- [ ] GBIF\n"
 
 #.  Question 5
 #. type: Plain text
@@ -2726,7 +2731,7 @@ msgstr "- [x] Excel 和其他 spreadsheets的管理工具 \n"
 #. type: Plain text
 #: publishing.en.adoc:6
 msgid "In this module, you will learn about data publishing concepts, including the IPT, cores and extensions, and the importance of licenses, metadata, mandatory fields and hosting of datasets."
-msgstr ""
+msgstr "這個課程模組中，你將學到資料集發布的概念，包含：IPT的使用、核心與衍生資料表單、授權的重要性、後設資料、必填欄位與資料集的擁有管理。"
 
 #. type: Title ===
 #: publishing.en.adoc:7
@@ -2737,29 +2742,29 @@ msgstr "資料發布概念"
 #. type: Plain text
 #: publishing.en.adoc:11
 msgid "In this video (11:45), you will learn about data publishing concepts and will receive an introduction to the Integrated Publishing Toolkit (https://www.gbif.org/ipt[IPT^]).  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_concepts.mp4[download^,opts=download] it locally. (MP4 - 20 MB)"
-msgstr ""
+msgstr "在這影片中 (11:45)，你將學習資料集發布的相關概念，並且會學習如何使用IPT(Integrated Publishing Toolkit資料整合發布工具，https://www.gbif.org/ipt[IPT^])的概要。若你無法觀看嵌入在頁面上的影片，你可以點此下載 link:../videos/Data_publishing_concepts.mp4[download^,opts=download] 至電腦上觀看 (MP4 - 20 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:15
 #, no-wrap
 msgid "IPT overview"
-msgstr ""
+msgstr "IPT  介紹"
 
 #. type: Plain text
 #: publishing.en.adoc:19
 msgid "In this video (06:56), you will receive an overview of the IPT data publishing interface.  If you are unable to watch the embedded video, you can link:../videos/Data_publishing_IPT.mp4[download^,opts=download] it locally. (MP4 - 8.7 MB)"
-msgstr ""
+msgstr "在這影片中 (06:56)，你將看到IPT工具的資料發布介面的相關介紹。若你無法觀看嵌入在頁面上的影片，可以點此下載 link:../videos/Data_publishing_concepts.mp4[download^,opts=download] 至電腦上觀看 (MP4 - 8.7 MB)"
 
 #. type: Title ====
 #: publishing.en.adoc:23
 #, no-wrap
 msgid "Training IPT installations"
-msgstr ""
+msgstr "Training IPT installations IPT課程訓練測試站"
 
 #. type: Plain text
 #: publishing.en.adoc:26
 msgid "If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on the course IPT."
-msgstr ""
+msgstr "若你沒有拿到登入用的帳號，請聯絡training@gbif.org，你將會拿到一組訓練用的課程帳號密碼。"
 
 #. type: Plain text
 #: publishing.en.adoc:28
@@ -2780,12 +2785,12 @@ msgstr "https://training-ipt-c.gbif.org/[^]"
 #: publishing.en.adoc:33
 #, no-wrap
 msgid "IPT demonstration"
-msgstr ""
+msgstr "IPT 工具示範"
 
 #. type: Plain text
 #: publishing.en.adoc:37
 msgid "In this video (24:16), you will learn how to publish an occurrence dataset using an IPT.  If you are unable to watch the embedded video, you can link:../videos/IPT_demo.mp4[download^,opts=download] it locally. (MP4 - 52.6 MB)"
-msgstr ""
+msgstr "在這影片中 (24:16)， 你將學到如何用IPT工具發布資料集。若您無法觀看嵌入在課程頁面上的影片，可以點此下載 link:../videos/IPT_demo.mp4[download^,opts=download] 並在電腦上觀賞。 (MP4 - 52.6 MB)"
 
 #. type: Title ===
 #: publishing.en.adoc:41 use-case-invasive-species.en.adoc:137
@@ -2793,12 +2798,12 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:162
 #, no-wrap
 msgid "Exercise 4"
-msgstr ""
+msgstr "Exercise 4"
 
 #. type: Plain text
 #: publishing.en.adoc:44
 msgid "In this exercise, you will publish an occurrence dataset using the IPT."
-msgstr ""
+msgstr "此練習中，你將使用IPT工具來發表一個物種出現記錄的資料集。"
 
 #. type: Plain text
 #: publishing.en.adoc:48 assessments-certification.en.adoc:154
@@ -2807,27 +2812,27 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:165
 #, no-wrap
 msgid "*Data publishing*\n"
-msgstr ""
+msgstr "*資料集發布Data publishing*\n"
 
 #. type: Plain text
 #: publishing.en.adoc:50
 msgid "After cleaning the data in the Poales dataset, the team considers that publishing the data online through the GBIF network could be a good way to make this effort visible. You have been requested to lead that publishing work, based on the dataset."
-msgstr ""
+msgstr "在清理完禾本目的資料集後，團隊認為把資料發佈到GBIF上是提升可見度的好方法，因此你被要求主導資料集發布的工作。"
 
 #. type: Plain text
 #: publishing.en.adoc:53
 msgid "At this point, you need an account on one of the <<Training IPT installations,course IPTs>>.  If you have not already been provided a login, please contact training@gbif.org and you will be provided with a login and password on one of the course IPTs."
-msgstr ""
+msgstr "在這臉上，你需要一個 <<Training IPT installations,course IPTs>> 的課程用IPT帳號。若你還沒有取得帳號，請聯絡training@gbif.org，而你將獲得一組課程用IPT工具的帳號密碼。"
 
 #. type: Plain text
 #: publishing.en.adoc:54
 msgid "Download link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
-msgstr ""
+msgstr "下載 link:../exercise-data/UC1-4-poales-publishing.csv[UC1-4-poales-publishing.csv,opts=download]. (233.5 KB)"
 
 #. type: Plain text
 #: publishing.en.adoc:55
 msgid "Use the assigned IPT installation and publish this file."
-msgstr ""
+msgstr "使用對應的IPT測試站，並發布此檔案。"
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -2836,7 +2841,7 @@ msgstr ""
 #. type: delimited block *
 #: publishing.en.adoc:69
 msgid "What does data publishing mean in the context of GBIF?"
-msgstr ""
+msgstr "資料發佈是什麼意思呢？"
 
 #. type: delimited block .
 #: publishing.en.adoc:76
@@ -2844,7 +2849,9 @@ msgstr ""
 msgid "- [ ] Exporting a csv file of your cleaned data that you can share with your colleagues\n"
 "- [ ] Writing an article describing your data, and the protocol(s) you used to collect, capture and clean them\n"
 "- [x] Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format\n"
-msgstr ""
+msgstr "- [ ] 把你清好的csv檔輸出，分享給你的同伴\n"
+"- [ ] 寫個關於你資料集的文章，其中並描述資料蒐集、獲取、及清理的操作方法\n"
+"- [x] 讓你的生物多樣性資料集能以標準的格式被公眾獲取\n"
 
 #.  Question 2
 #. type: Plain text
@@ -2858,13 +2865,15 @@ msgstr "什麼是IPT？"
 msgid "- [ ] a tool that helps you manage & correct your data\n"
 "- [x] a tool that helps you publish your data to GBIF\n"
 "- [x] a tool that helps you produce a Data paper\n"
-msgstr ""
+msgstr "- [ ] 幫助你管理、更正資料用的工具\n"
+"- [x] 用來發布資料到GBIF上的工具\n"
+"- [x] 協助你撰寫資料論文(Data paper)的工具\n"
 
 #.  Question 3
 #. type: Plain text
 #: publishing.en.adoc:89
 msgid "Which Creative Commons licences and waivers are recommended by GBIF for data publication?"
-msgstr ""
+msgstr "在資料集發布上，GBIF推薦哪種的創用CC標章(Creative Commons licences)、授權協議呢？"
 
 #. type: delimited block .
 #: publishing.en.adoc:96
@@ -2872,13 +2881,15 @@ msgstr ""
 msgid "- [ ] CC-BY, CC-BY-SA and CC-BY-ND\n"
 "- [x] CC0, CC-BY and CC-BY-NC\n"
 "- [ ] CC0, CC-BY and CC-BY-SA\n"
-msgstr ""
+msgstr "- [ ] CC-BY、 CC-BY-SA、 CC-BY-ND\n"
+"- [x] CC0、 CC-BY 、CC-BY-NC\n"
+"- [ ] CC0、 CC-BY 、CC-BY-SA\n"
 
 #.  Question 4
 #. type: Plain text
 #: publishing.en.adoc:99
 msgid "What are the three Cores from which you can choose for an IPT resource?"
-msgstr ""
+msgstr "IPT選擇資料來源時，可選的三個核心表單(Core)為哪些？"
 
 #. type: delimited block .
 #: publishing.en.adoc:106
@@ -2886,13 +2897,15 @@ msgstr ""
 msgid "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
 "- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
 "- [x] Occurrence Core, Taxon Core, Event Core\n"
-msgstr ""
+msgstr "- [ ] Metadata Core, Occurrence Core, Multimedia Core\n"
+"- [ ] Taxon Core, Collection Core, MeasurementOrFact Core\n"
+"- [x] Occurrence Core, Taxon Core, Event Core\n"
 
 #.  Question 5
 #. type: Plain text
 #: publishing.en.adoc:109
 msgid "How many Extensions files can a dataset have?"
-msgstr ""
+msgstr "一個資料集能附有幾個額外表單呢？"
 
 #. type: delimited block .
 #: publishing.en.adoc:116
@@ -2900,23 +2913,25 @@ msgstr ""
 msgid "- [ ] zero\n"
 "- [ ] one\n"
 "- [x] as many as needed\n"
-msgstr ""
+msgstr "- [ ] 零個\n"
+"- [ ] 一個\n"
+"- [x] 皆可，根據需求而定\n"
 
 #. type: Title ==
 #: assessments-certification.en.adoc:3
 #, no-wrap
 msgid "Assessment and certification"
-msgstr ""
+msgstr "學員考核與認證"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:6
 msgid "In this module, you will review the criteria to be used to assess assignments and to achieve certification."
-msgstr ""
+msgstr "在此課程模組中，你將了解用來考核學員、認證的標準。"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:8
 msgid "Upon successful completion of the course and successful assessment of assignments (by trainers and mentors), participants have the opportunity to receive an official certification in the form of an https://openbadges.org/[Open Badge]."
-msgstr ""
+msgstr "在上完課程並通過作業考核後，便有機會在 https://openbadges.org/[Open Badge] 中得到官方的相關認證。"
 
 #. type: Table
 #: assessments-certification.en.adoc:16
@@ -2933,18 +2948,18 @@ msgstr "|image:img/logos/GBIF-biodiversity-data-mobilization.png[align=center,wi
 #. type: Plain text
 #: assessments-certification.en.adoc:19
 msgid "Participants are required to submit (in English) Use Case II (choice between two options) and Use Case III and each Use Case is scored against the educational rubrics for the course. The rubrics define the skills and performance levels on which the learning objectives for the course are built."
-msgstr ""
+msgstr "參與者需要以英文繳交Use Case II(從兩個選項中擇一)及 Use Case III ，而他們都將根據課程的評量指標進行評分。這些評量指標定義了在每個學習目標上的技能表現。"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:21
 msgid "Review the rubrics to ensure understanding of the skills that will be assessed for certification."
-msgstr ""
+msgstr "重溫一次這些評量標準，來確保了解即將進行考核認證的技能。"
 
 #. type: Title ===
 #: assessments-certification.en.adoc:22
 #, no-wrap
 msgid "Planning rubric"
-msgstr ""
+msgstr "規劃階段的評量標準"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:25 use-case-invasive-species.en.adoc:67
@@ -2952,7 +2967,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:92
 #, no-wrap
 msgid "*Planning*\n"
-msgstr ""
+msgstr "*規劃階段*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:61
@@ -2992,7 +3007,7 @@ msgstr ""
 #: assessments-certification.en.adoc:63
 #, no-wrap
 msgid "Data capture rubric"
-msgstr ""
+msgstr "資料獲取的評量標準"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:66 use-case-invasive-species.en.adoc:115
@@ -3000,7 +3015,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:108
 #, no-wrap
 msgid "*Data capture*\n"
-msgstr ""
+msgstr "*資料獲取*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:96
@@ -3035,7 +3050,7 @@ msgstr ""
 #: assessments-certification.en.adoc:98
 #, no-wrap
 msgid "Data management rubric"
-msgstr ""
+msgstr "資料管理的評量標準"
 
 #. type: Plain text
 #: assessments-certification.en.adoc:101 use-case-invasive-species.en.adoc:128
@@ -3043,7 +3058,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:140
 #, no-wrap
 msgid "*Data management*\n"
-msgstr ""
+msgstr "*資料管理*\n"
 
 #. type: Table
 #: assessments-certification.en.adoc:149
@@ -3093,7 +3108,7 @@ msgstr ""
 #: assessments-certification.en.adoc:151
 #, no-wrap
 msgid "Data publishing rubric"
-msgstr ""
+msgstr "資料發佈的評量標準"
 
 #. type: Table
 #: assessments-certification.en.adoc:196
@@ -3173,7 +3188,7 @@ msgstr ""
 #: use-case-invasive-species.en.adoc:18
 #, no-wrap
 msgid "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam.) de Wit] observed in Hawaii by Sharon Grant (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
-msgstr ""
+msgstr "https://www.gbif.org/species/2970418[Leucaena leucocephala (Lam.) de Wit] observed in Hawaii by Sharon Grant (licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC-BY-NC 4.0])"
 
 #. type: Target for macro image
 #: use-case-invasive-species.en.adoc:19
@@ -3249,7 +3264,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
 msgid "Download the link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
-msgstr ""
+msgstr "下載 link:../course-docs/UC2-IS-exercise-sheet_EN.docx[exercise sheet,opts=download]. (MS Word, 342 KB)"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:64
