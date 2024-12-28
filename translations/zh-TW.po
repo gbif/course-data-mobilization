@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2024-12-28 05:49\n"
+"PO-Revision-Date: 2024-12-28 06:55\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -3356,7 +3356,7 @@ msgstr "每所高中的學生在其當地社區發起了一系列為期一天的
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:51
 msgid "Details, describing every observation of the 21 invasive species of interest, were recorded using a digital data collection form during each community collection event.  Participants uploaded the images captured on mobile phones and were encouraged to click their locations using a Google map, embedded in the form, to assign latitude and longitude to each observation.  The form’s design was based on the HISC pest reporting form."
-msgstr ""
+msgstr "在每次社區採集活動期間，使用數位資料收集表格記錄了對 21 種目標入侵物種的每次觀察的詳細資料。參與者上傳用手機拍攝的影像，並被鼓勵使用Google 地圖點擊其位置，以記錄每次觀察的緯度和經度於表格中。表格的設計是基於 HISC 有害生物回報表格。"
 
 #. type: Target for macro image
 #: use-case-invasive-species.en.adoc:52
@@ -3370,18 +3370,18 @@ msgstr "img/web/use-case-2-invasives-data-collection.png"
 #: use-case-birds-from-literature.en.adoc:71
 #, no-wrap
 msgid "Digital data description"
-msgstr ""
+msgstr "數位資料描述"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:59
 msgid "A database, created and hosted by the Computing Department at UHM, holds the imagery and data from the online form, but these data are not accessible publicly.  Data were exported as comma separated value (.csv) files and given to the four UHM graduate students for taxonomic validation using the images and descriptions submitted.  The BIISC GIS Analyst used the Google Maps coordinates and image EXIF data to check observations for quality and to add any missing georeferences.  Student mentors renamed all image files to match the observation number for cross referencing later at BIISC."
-msgstr ""
+msgstr "一個由夏威夷大學茂宜分校（UHM）資訊系所建立和託管的資料庫，儲存了來自線上表格的影像和資料，但這些資料不對外公開。資料以逗號分隔值（.csv）檔案格式匯出，並交給四位 UHM 研究生，讓他們使用提交的影像和描述進行分類學驗證。大島入侵物種委員會（BIISC）的地理資訊系統分析師使用 Google Maps 座標和影像 EXIF 資料來檢查觀測資料的品質，並加上任何缺失的地理參照。學生導師將所有影像檔案重新命名，使其與觀測編號相符，以便日後在 BIISC 進行交叉參照。"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:60
 #, no-wrap
 msgid "Invasives exercise sheet"
-msgstr ""
+msgstr "外來入侵物種練習表"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:63
