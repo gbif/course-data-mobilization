@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2025-01-14 21:27\n"
+"PO-Revision-Date: 2025-01-14 22:45\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -3326,7 +3326,7 @@ msgstr "此段敘述是為了生物多樣性資料流通課程的練習而發展
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
 msgid "It is a fictionalized scenario based on a real dataset and is meant only for instructional purposes.  The original dataset is attributed to Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
-msgstr "以下虛構的場景是基於真實的資料集而來，並只允許作為教學用途使用。該原始的資料集可參至Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
+msgstr "以下的虛構場景是基於真實資料集而來，並只允許作為教學用途使用。該原始資料集可參至Simpson A (2016). Big Island Invasive Species Committee - Pest Reports - 2005-2010. Version 4.1.  United States Geological Survey. https://doi.org/10.15468/hp7zwr[Occurrence Dataset] accessed via GBIF.org on 2017-07-13."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:31
@@ -3442,40 +3442,40 @@ msgstr "提供研究生薪資報酬。您無法為全部四位研究生支付相
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:88
 msgid "Contract a software company to build a database that can automatically ingest data directly from the online form.  The system will include an admin interface to allow data manipulation and csv exports."
-msgstr ""
+msgstr "和軟體公司簽約，來建置能直接從線上表單自動提取資料的資料庫。該系統將同時包含用來操作資料、並可以csv格式輸出的管理介面。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:89
 msgid "Fund four public outreach activities (e.g., a BioBlitz) to promote awareness in the communities and increase volunteer participation."
-msgstr ""
+msgstr "資助四場公眾擴大行動(如：生物閃電戰)，藉以提升社群關注、增進志工參與。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:90
 msgid "Prepare and carry out a reusable training a course for the teachers at the schools to teach them how to prepare data for submission to BIISC."
-msgstr ""
+msgstr "向學校教師提供可重複應用的訓練課程教案，並教導他們該如何準備向BIISC繳交的資料"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:94
 #: use-case-lepidoptera-sampling.en.adoc:110
 #, no-wrap
 msgid "*Assign roles*\n"
-msgstr ""
+msgstr "*指派角色*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:96
 msgid "The new project has the following people available for data processing and mobilization."
-msgstr ""
+msgstr "此新專案中，有以下幾位人員可以用來進行資料處理、數位化"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:98
 msgid "Assign roles to maximize the efficiency of the data processing and transformation to produce data of the highest quality as efficiently as possible?"
-msgstr ""
+msgstr "請指派角色與任務，來最大化資料處理與轉換的效率，以此來盡可能地產生最高品質的資料"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:101
 #, no-wrap
 msgid "*Roles*\n"
-msgstr ""
+msgstr "*角色*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:103
@@ -3562,7 +3562,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:133
 msgid "Download link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
-msgstr ""
+msgstr "下載 link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForCleaning.xlsx,opts=download]. (156 KB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:134
@@ -3583,7 +3583,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:146
 msgid "Download link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
-msgstr ""
+msgstr "下載 link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPublication.xlsx,opts=download]. (99 KB)"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
