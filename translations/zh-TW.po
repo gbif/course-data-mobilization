@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2025-01-19 05:58\n"
+"PO-Revision-Date: 2025-01-22 13:52\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -3480,52 +3480,52 @@ msgstr "*角色*\n"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:103
 msgid "BIISC GIS Analyst: Advanced computer use, GIS and data analysis tools."
-msgstr ""
+msgstr "BIISC GIS 分析師：精通電腦使用、地理資訊系統（GIS）和資料分析工具"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:104
 msgid "ISC Manager: Good computer skills."
-msgstr ""
+msgstr "ISC 經理：良好的電腦使用能力"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:105
 msgid "ISC Outreach Associate: Good field identification skills; Basic computer use. Social media expert."
-msgstr ""
+msgstr "ISC 外展助理：良好的野外物種鑑定能力；基本電腦使用能力。社群媒體專家。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:106
 msgid "Student Mentor 1: Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "學生導師 1：基礎分類學知識。基本電腦使用能力。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:107
 msgid "Student Mentor 2: Basic taxonomic knowledge. Basic computer use."
-msgstr ""
+msgstr "學生導師 2：基礎分類學知識。基本電腦使用能力。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:108
 msgid "Botany Student 1: Advanced taxonomic knowledge. Programming skills."
-msgstr ""
+msgstr "植物學學生 1：進階的分類學知識。程式設計能力。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:109
 msgid "Botany Student 2: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "植物學學生 2：進階的分類學知識。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:110
 msgid "Botany Student 3: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "植物學學生 3：進階的分類學知識。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:111
 msgid "Botany student 4: Advanced taxonomic knowledge."
-msgstr ""
+msgstr "植物學學生 4：進階的分類學知識。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:120
 msgid "The BIISC is now planning to make all of the data from the project publicly available by publishing datasets to GBIF.  As the BIISC’s Outreach Assistant, you must identify the relevant Darwin Core fields to accommodate the data from the online form.  You’ve noticed that additional data describing species and locations have been added to the data form by the graduate students performing validations.  To accommodate this data, you need to extend the data structure to aggregate the data from the online form with the added taxonomy and georeferences."
-msgstr ""
+msgstr "BIISC 正在計畫透過發布資料集至 GBIF 公開專案的所有資料。身為 BIISC 的外展助理，你必須判斷相關的達爾文核心標準（Darwin Core）的欄位以提供線上表單資料的對照。你注意到進行驗證的研究生已在資料表單中加入描述物種和地點的其他資料。為了能夠使這些資料對照達爾文核心標準，你需要擴展資料結構以彙整來自線上表單的資料以及新增的分類學和地理參考資料。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:122
@@ -3535,7 +3535,7 @@ msgstr "下載 link:../exercise-data/UC2-IS-2-ForCapture.csv[UC2-IS-2-ForCapture
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:123
 msgid "Using the downloaded dataset, produce a spreadsheet as example of the extended data structure and the fields you’ve identified as relevant for Darwin Core."
-msgstr ""
+msgstr "使用下載的資料集，製作一個試算表作為擴展資料結構的範例，並列出你認為與 達爾文核心標準相關的欄位。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
@@ -3544,7 +3544,7 @@ msgstr ""
 #: use-case-birds-from-literature.en.adoc:134
 #: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
-msgstr ""
+msgstr "使用練習表提供你的答案並繳交試算表。"
 
 #. type: Title ===
 #: use-case-invasive-species.en.adoc:125
@@ -3557,7 +3557,7 @@ msgstr "Exercise 3"
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:131
 msgid "Over the summer, interns at the HISC main office created checklists from the original occurrence data that were collected and augmented from the online form.  Taking the role of the HSC Project Leader, you must now carry out final quality checks prior to publication."
-msgstr ""
+msgstr "暑假期間，HISC 總部的實習生從線上表單的原始出現紀錄收集並擴增來建立了物種名錄。身為HSC 專案負責人，你現在必須在資料發布前執行最後的品質檢查。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:133
@@ -3568,17 +3568,17 @@ msgstr "下載 link:../exercise-data/UC2-IS-3-ForCleaning.xlsx[UC2-IS-3-ForClean
 #: use-case-invasive-species.en.adoc:134
 #: use-case-lepidoptera-sampling.en.adoc:144
 msgid "Evaluate the dataset and identify which types of errors are present."
-msgstr ""
+msgstr "評估資料集並判斷錯誤的類型。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:135
 msgid "Identify possible ways to correct those issues and perform those corrections for as many of the errors as you can."
-msgstr ""
+msgstr "找出可能的修正方法並盡可能修正這些錯誤。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:144
 msgid "The HISC is now ready to publish the checklist data and associated occurrences to GBIF.  For this exercise, you will take the role of the Project Leader.  Your responsibility: publishing the cleaned checklist data and associated occurrences online through the GBIF network."
-msgstr ""
+msgstr "HISC 現在準備將物種名錄和相關出現紀錄發布到 GBIF。在這個練習中，你將擔任專案負責人。你的責任是：透過 GBIF 網路發布已清理的清單資料和相關出現紀錄。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:146
@@ -3590,14 +3590,14 @@ msgstr "下載 link:../exercise-data/UC2-IS-4-ForPublication.xlsx[UC2-IS-4-ForPu
 #: use-case-lepidoptera-sampling.en.adoc:157
 #: use-case-birds-from-literature.en.adoc:172
 msgid "Use the previously provided IPT installation to publish the given dataset."
-msgstr ""
+msgstr "使用先前提供的 IPT 安裝來發布這個資料集。"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:147
 #: use-case-lepidoptera-sampling.en.adoc:157
 #: use-case-birds-from-literature.en.adoc:172
 msgid "Use the exercise sheet to provide your answers and link to the published dataset."
-msgstr ""
+msgstr "使用練習表提供你的答案並連結到已發布的資料集。"
 
 #. type: Title ==
 #: use-case-lepidoptera-sampling.en.adoc:3
