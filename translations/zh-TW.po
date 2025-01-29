@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2025-01-22 15:35\n"
+"PO-Revision-Date: 2025-01-29 08:36\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -3636,43 +3636,43 @@ msgstr "國際蝴蝶愛好者協會（ International Butterfly Amateur Network�
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:35
 msgid "The IBAN headquarters is mainly staffed with volunteers.  With the increasing popularity of citizen science and the general interest in butterflies as a charismatic group of organisms, more and more data are received every year and the paper data sheets quickly pile up undigitized.  The IBAN steering committee is trying to identify a more efficient and agile workflow for the creation of digital data because they would like to start publishing these data online regularly.  They would also like to start processing digital pictures that their volunteers are already capturing with mobile devices like phones and tablets.  Their ultimate objective is to raise the profile of the network and strengthen collaborations with local and regional governments to influence conservation policies for Lepidoptera in the countries involved."
-msgstr ""
+msgstr "IBAN 總部主要由志工組成。隨著公民科學日益普及，以及大眾對蝴蝶這種迷人生物的興趣與日俱增，每年收到的資料量持續增加，紙本資料表在尚未數位化的情況下快速堆積。IBAN 指導委員會正試圖找出一個更有效率且靈活的工作流程來建立數位資料，因為他們希望開始定期在線上發布這些資料。他們也想要開始處理志工們已經用手機和平板等行動裝置拍攝的數位照片。他們最終目標是提升網路知名度，並加強與地方及區域政府的合作，以影響相關國家的鱗翅目保育政策。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:38
 msgid "There is currently no formal agreement between IBAN and the amateurs capturing data, to cover the ways in which the data can be used, for example.  The steering committee has some concerns that when they start publishing the data online, they will have to formalize this arrangement."
-msgstr ""
+msgstr "目前 IBAN 與收集資料的業餘愛好者之間並沒有正式協議來規範資料的使用方式。指導委員會擔心，當他們開始在線上發布資料時，會需要將相關規範正式化。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:43
 msgid "The recommended protocol —Pollard walks— is based on transects that range between 300 and 600 m in length, divided into 50 m sections.  Each transect should cover a single habitat type."
-msgstr ""
+msgstr "建議的調查方法——穿越線調查法（Pollard walks）——是基於 300 到 600 公尺長的穿越線，每 50 公尺被分為一個小段，而每條穿越線只涵蓋單一棲地類型。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:46
 msgid "In each visit, transect-walkers have to count all species of Lepidoptera that can be seen within 5 m of the transect line.  Special behaviours (egg laying or nectaring), as well as developmental stage (e.g., larvae or eggs), should be recorded as well."
-msgstr ""
+msgstr "在每次調查中，穿越線調查員需要計算在穿越線兩側 5 公尺範圍內所有可見的鱗翅目物種，其中特殊行為（如：產卵或吸蜜）以及發育階段（如：幼蟲或卵）也都需要記錄。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:48
 msgid "For most countries, these sampling efforts happen once every two weeks from the beginning of October to the end of June."
-msgstr ""
+msgstr "對大多數國家而言，這些調查活動從每年十月初到次年六月底，每兩週進行一次。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:52
 msgid "There are quality control measures in place: every reported record is flagged \"Pending approval\".  Record status is only changed to \"Approved\" after verification by a designated taxonomic expert.  Species spotted out of their regular season or distribution area are flagged for additional verification."
-msgstr ""
+msgstr "目前相關的品質管理機制已經建立完成：每筆回報的出現紀錄都會被標記為「待核准」。在特定的分類學專家驗證後，紀錄狀態才會改為「已核准」。在非正常季節或分布區域發現的物種會被標記進行額外驗證。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:58
 msgid "Time of day and weather conditions are recorded at the beginning of the transect.  Along the transect, the number of individuals of every species seen is counted.  Un-identified species are counted and recorded either by family or as a predefined complex of two or three similar species.  Butterflies seen outside the 5 meter range are recorded as “Extra+the number of the nearest section” (e.g. 5-extra).  The end time of the transect is also recorded."
-msgstr ""
+msgstr "穿越線調查開始時會記錄當天的時間和天氣狀況，並沿著穿越線記錄看到的每個物種的個體數量。未能辨識的物種則依照科別或預先定義的二到三個相似物種組合來計數並記錄；在 5 公尺範圍外看到的蝴蝶則記錄為「額外 + 最近區段編號」（例如：5-extra）。穿越線調查結束時間也會被記錄。"
 
 #. type: Title ====
 #: use-case-lepidoptera-sampling.en.adoc:59
 #, no-wrap
 msgid "Analogue data capture example"
-msgstr ""
+msgstr "類比（紙本）資料收集範例："
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:61
@@ -3683,7 +3683,7 @@ msgstr "img/web/use-case-2-lepidoptera-analogue.png"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:68
 msgid "Some national offices use groups of volunteers to digitize the paper logs and produce digital spreadsheets.  The spreadsheets are very simple and include three datasheets.  One captures the information linked to the sampling efforts, the second the weather conditions and the third the species encountered and the number of individuals observed by the amateur."
-msgstr ""
+msgstr "部分國家辦公室使用志工團隊來數位化紙本紀錄並製作數位試算表。這些試算表非常簡單，共包含三個資料表：第一個記錄與調查活動相關的資訊，第二個記錄天氣狀況，第三個記錄業餘愛好者觀察到的物種與個體數量。"
 
 #. type: Target for macro image
 #: use-case-lepidoptera-sampling.en.adoc:69
@@ -3701,7 +3701,7 @@ msgstr "img/web/use-case-2-lepidoptera-digital-2.png"
 #: use-case-lepidoptera-sampling.en.adoc:72
 #, no-wrap
 msgid "Lepidoptera exercise sheet"
-msgstr ""
+msgstr "鱗翅目調查表"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:75
@@ -3711,88 +3711,88 @@ msgstr "下載 link:../course-docs/UC2-LS-exercise-sheet_EN.docx[exercise sheet,
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:82
 msgid "The volume of analogue data (paper logs) arriving at the IBAN headquarters will soon exceed their capacity to digitize, so the steering committee has decided to reconsider the current approach to this area of their work which has grown unmanaged for the last few years.  To date, this is how work has been organized:"
-msgstr ""
+msgstr "類比資料（紙本記錄）抵達 IBAN 總部的數量很快就會超過他們的數位化處理能力，因此指導委員會決定重新考慮這個在過去幾年中未經管理而持續成長的工作領域的現行方法。到目前為止，工作是這樣組織的："
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:84
 msgid "The paper logs arrive via post. The secretary opens the packages and collates the logs."
-msgstr ""
+msgstr "紙本記錄透過郵寄抵達，秘書開啟包裹並整理這些記錄。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:85
 msgid "There are five volunteers with basic computer skills using two shared computers to digitize the paper logs. These volunteers are also citizen scientists themselves, so they are familiar with the taxonomy of the order Lepidoptera, and with the species occurring in the country where the headquarters of IBAN are located."
-msgstr ""
+msgstr "有五位具備基本電腦技能的志工使用兩台共用電腦來數位化紙本記錄。這些志工本身也是公民科學家，所以他們熟悉鱗翅目的分類學，也了解 IBAN 總部所在國家出現的物種。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:86
 msgid "The digitizers come and go whenever they have time so they usually check for computer availability via phone. Sometimes there are time clashes and some have to go home as the two computers are busy, and sometimes the two computers are unused."
-msgstr ""
+msgstr "數位化工作人員依照自己的時間進出，所以他們通常會透過電話確認電腦是否可用。有時會發生時間衝突，有些人因為兩台電腦都在使用中而必須回家，有時兩台電腦則無人使用。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:87
 msgid "When they digitize, they usually pick one paper log at a time from the pile, and digitize it (if they can). Common problems that occur are that:"
-msgstr ""
+msgstr "在進行資料數位化時，他們通常從紙本堆中一次挑選一份來處理（如果他們能夠處理的話）。常見的問題包括："
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:88
 msgid "the digitizer does not know the species observed (misspellings occur),"
-msgstr ""
+msgstr "數位化人員不認識觀察到的物種（會發生拼寫錯誤），"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:89
 msgid "the digitizer does not know the area where the sampling has occurred,"
-msgstr ""
+msgstr "數位化人員不熟悉進行調查活動的地區，"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:90
 msgid "the digitizer cannot read the handwriting or the language in which some of the comments are written."
-msgstr ""
+msgstr "數位化人員無法辨認手寫字跡或某些評論所使用的語言。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:91
 msgid "A single taxonomic expert gets all the digitized tables and produces the report and distribution maps based on them. Normally she needs to discard around 15% of the digitized data because of inconsistencies, misspellings or other errors that she does not have the time to check."
-msgstr ""
+msgstr "一位分類學專家負責處理所有數位化的表格，並根據這些資料製作報告和分布圖。通常她需要捨棄約 15% 的數位化資料，因為這些資料存在不一致、拼寫錯誤或其他她沒有時間檢查的錯誤。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:95
 #, no-wrap
 msgid "*Analyze the financial component of their new digitization plan*\n"
-msgstr ""
+msgstr "*分析他們新數位化計畫的財務部分*\n"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:99
 msgid "The steering committee is analyzing the following options for their new digitization plan, all of which have financial implications on their already reduced budget.  They know they can only implement TWO of these options, so they need to choose wisely.  Use the exercise sheet to provide a recommendation on which two options they should select and explain why you chose them."
-msgstr ""
+msgstr "指導委員會正在分析以下新數位化計畫的選項，這些選項都會影響他們已經縮減的預算。他們知道只能實施其中「兩個」選項，所以需要明智地選擇。請使用練習表為他們提供建議，說明應該選擇哪兩個選項以及選擇的原因。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:101
 msgid "Option 1: Buy three more computers so all digitizers can work simultaneously."
-msgstr ""
+msgstr "選項 1：再購買三台電腦，讓所有數位化人員能同時工作。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:102
 msgid "Option 2: Offer financial support to the national offices to buy flatbed scanners and send/share the logs electronically instead of by post."
-msgstr ""
+msgstr "選項 2：為國家辦公室提供財務支持、購買文件掃描器，並以電子方式傳送／分享記錄取代郵寄。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:103
 msgid "Option 3: Offer financial compensation to the digitizers. They will not be able to pay all five of them the equivalent of a regular salary, but could cover the costs of part time positions for three of the volunteers."
-msgstr ""
+msgstr "選項 3：提供數位化人員財務報酬。雖然無法支付所有五位志工相當於正職的薪資，但可以支付三位志工兼職職位的費用。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:104
 msgid "Option 4: Purchase existing biodiversity digitization software in English, which comes with taxonomic entry check and in-built aids to correct geographical information."
-msgstr ""
+msgstr "選項 4：購買現有的英文版生物多樣性數位化軟體，其具備分類學輸入檢查功能和內建的地理資訊更正輔助工具。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:105
 msgid "Option 5: Contract a software development company to develop customized digitization software. For the same price of the commercial software, the developers will provide a solution in the local language, which will match the original data schema perfectly and will also provide a web data portal to expose the results of the digitization effort."
-msgstr ""
+msgstr "選項 5：聘請軟體開發公司開發客製化的數位化軟體。以與商業軟體相同的價格，開發人員將提供使用當地語言的解決方案，完全符合原始資料架構，並提供網頁資料入口網站來展示數位化成果。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:106
 msgid "Option 6: Organize a course for the five digitizers to improve their skills in taxonomy, computer use and biodiversity informatics standards."
-msgstr ""
+msgstr "選項 6：為五位數位化人員組織一個課程，提升他們在分類學、電腦使用和生物多樣性資訊學標準方面的技能。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:114
