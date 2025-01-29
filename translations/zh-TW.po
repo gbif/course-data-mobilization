@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2025-01-29 13:17\n"
+"PO-Revision-Date: 2025-01-29 15:33\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -3872,7 +3872,7 @@ msgstr "找出可能的修正方式，並盡可能修正其中的錯誤。"
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:154
 msgid "For this exercise, you will take the role of the taxonomic expert collaborating with IBAN at their headquarters.  Some of your previous responsibilities (writing the annual report, and producing the base distribution maps) have been handed over to the volunteers, and you have now been given a new responsibility: publishing the cleaned data online through the GBIF network.  The volunteer in charge of data quality has provided a dataset to be published."
-msgstr ""
+msgstr "在這個練習中，你將扮演與 IBAN 總部合作的分類學專家。你先前的責任（撰寫年度報告和製作基礎分布地圖）已經交給志工，而你現在有了新的責任：透過 GBIF（全球生物多樣性資訊機構）網絡在線上發布已清理的資料。負責資料品質管理的志工已提供了要發布的資料集。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:156
@@ -3883,24 +3883,24 @@ msgstr "下載 link:../exercise-data/UC2-LS-4-ForPublication.xlsx[UC2-LS-4-ForPu
 #: use-case-birds-from-literature.en.adoc:3
 #, no-wrap
 msgid "Use Case III - Birds from literature"
-msgstr ""
+msgstr "案例三 - 文獻中的鳥類"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:8
 msgid "Use Case III will be graded."
-msgstr ""
+msgstr "案例三將被評分"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:11
 #, no-wrap
 msgid "*Data Mobilization Project from Literature “Birds fallen at Danish Lighthouses, 1883–1939”*\n"
-msgstr ""
+msgstr "*來自文獻「Danish Lighthouses 落下的鳥類，1883-1939（Birds fallen at Danish Lighthouses, 1883–1939）」的資料流通專案*\n"
 
 #. type: Block title
 #: use-case-birds-from-literature.en.adoc:13
 #, no-wrap
 msgid "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG[High resolution scanner] for book digitization project by Heiko Hornig (licensed under https://creativecommons.org/licenses/by-sa/2.5/deed.en[CC BY-SA 2.5])"
-msgstr ""
+msgstr "https://upload.wikimedia.org/wikipedia/commons/b/bc/Wikimedia_Rechenbuchdigitalisierung_2006-05-24_01.JPG [高解析度掃描器] 由 Heiko Hornig 執行的書籍數位化專案（採用https://creativecommons.org/licenses/by-sa/2.5/deed.en 創用 CC 授權條款 CC BY-SA 2.5 授權）"
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:14
@@ -3911,57 +3911,57 @@ msgstr "img/web/use-case-3-scanner.png"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:18
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Alberto González-Talaván, Andrea Hahn, Laura Russell and Sharon Grant.  It is based upon a previous adaptation by Alberto González-Talaván, Danny Vélez, Larissa Smirnova, Laura Russell, Mélianie Raymond and Nicolas Noé."
-msgstr ""
+msgstr "這個敘述是作為生物多樣性資料流通課程實作練習的基礎而開發的，練習概念和內容由Alberto González-Talaván、Andrea Hahn、Laura Russell 和 Sharon Grant 開發。這是基於Alberto González-Talaván、Danny Vélez、Larissa Smirnova、Laura Russell、Mélianie Raymond 和 Nicolas Noé 先前改編的版本。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:21
 msgid "It is a fictionalized scenario based on a real project and dataset and is meant only for instructional purposes.  The https://danbif.dk/se-eksempler/fyrfaldne-fugle/[original project] and the https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49[original dataset] are attributed to the Danish GBIF Node, https://danbif.dk/[DanBIF]."
-msgstr ""
+msgstr "這是基於真實專案和資料集的虛構情境，僅供教學用途。原始專案（https://danbif.dk/se-eksempler/fyrfaldne-fugle/）和原始資料集（https://www.gbif.org/dataset/ad331dcc-d0fa-4816-b1e6-d36f9f899c49）歸屬於丹麥 GBIF（https://danbif.dk/）。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:27
 msgid "The Natural History Museum of Denmark (NHM-DK) is a research centre associated with the University of Copenhagen.  Their library is a member of the national library association who recently received state funding to make available online the resources held by its members.  The NHM-DK would like to begin digitization of the field notebooks, journal publications and books held in their library, some of which have significant historic value."
-msgstr ""
+msgstr "丹麥自然歷史博物館（NHM-DK）是哥本哈根大學的研究中心。他們的圖書館是國家圖書館協會的成員，最近獲得了國家資金，以利將其成員持有的資源放上網路。NHM-DK 想要開始將他們圖書館中的野外筆記本、期刊出版物和書籍數位化，其中一些具有重要的歷史價值。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:31
 msgid "After a short consultation with their regular partners, NHM-DK received a suggestion from the Head of the management office of the Nordjylland National Park.  They would like the contents of a particular classic literature compilation digitized for a project they are running: ‘Birds at the Danish Lighthouses, 1883–1939’ (In Danish, ‘Fuglene ved de danske Fyr, 1883–1939’).  They want to use any occurrence data recorded in those books from two lighthouses (Lodbjerg Fyr and Hanstholm Fyr) for an on-site exhibition project."
-msgstr ""
+msgstr "在與合作夥伴進行簡短諮詢後，NHM-DK 收到了來自 Nordjylland 國家公園管理辦公室主任的建議。他們希望將一份特定的經典文獻彙編數位化，用於他們正在進行的專案：「Danish Lighthouses 的鳥類，1883-1939」（丹麥文為「Fuglene ved de danske Fyr, 1883-1939」）。他們想要在實體展覽專案中使用這些書籍中任何有關兩座燈塔（Lodbjerg Fyr 和 Hanstholm Fyr）的出現紀錄資料。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:35
 msgid "The NHM-DK has started discussions with their national GBIF node, DanBIF, about the mobilization of the information contained in these volumes, namely to preserve their contents for the future and provide online access for everyone.  With the involvement of DanBIF, there is intent to publish and register the resulting extracted data with GBIF.  As GBIF requires a license be applied with all published data, the museum has decided to publish the data with a Creative Commons license allowing use of data with attribution (CC-BY)."
-msgstr ""
+msgstr "NHM-DK 已經開始與他們國家的 GBIF（全球生物多樣性資訊機構）——DanBIF 討論這些卷冊中資訊的流通問題，主要是為了保存其內容以供未來使用，並為所有人提供線上存取。在 DanBIF 的參與下，計劃將提取的資料發布並註冊到 GBIF。由於 GBIF 要求所有發布的資料都必須附加授權條款，博物館已決定以允許註明出處使用資料的創用 CC 授權條款（CC-BY）發布資料。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:37
 msgid "The IT services required are provided by the Technology Unit of the University of Copenhagen, as for all museum digital projects."
-msgstr ""
+msgstr "專案需要的 IT 服務由哥本哈根大學的技術部門提供，如同所有博物館的數位專案一樣。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:39
 msgid "The NHM-DK deputy director, who is coordinating this piece of work has developed a general outline for the work:"
-msgstr ""
+msgstr "NHM-DK 副館長正在協調這項工作，並建立了工作的整體框架："
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:42
 msgid "The museum will carry out the digitization of the literature using two library staff members trained in the use of the library scanner to scan delicate volumes.  They will also extract text from the scans through OCR (Optical Character Recognition) software."
-msgstr ""
+msgstr "博物館將由兩名受過圖書館掃描器使用培訓的圖書館工作人員進行文獻數位化，他們會小心處理這些脆弱的卷冊。他們還會透過 OCR（光學字元識別）軟體從掃描檔中提取文字。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:44
 msgid "Three volunteers from the Copenhagen Ornithological Society (COS) who regularly collaborate with the museum and are familiar with the birds of the region have been enlisted to assist and will complete the transfer of data from the scanned PDFs into spreadsheet format.  They will need to go to the museum and use the computers available in the library to gain access to the files stored in the museum intranet (private network)."
-msgstr ""
+msgstr "來自哥本哈根鳥類學會（COS）的三名志工經常與博物館合作，並熟悉該地區的鳥類，他們將協助並完成將掃描的 PDF 資料轉換為試算表格式的工作。他們需要到博物館使用圖書館的電腦才能存取儲存在博物館內部網路（私人網路）中的檔案。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:48
 msgid "The Ornithology Curator in the NHM-DK Bird Department will lead the team responsible for taxonomic checking, data curation, cleaning, format and transformation, and will oversee the entry of metadata for the published dataset.  The team includes a collaborating researcher from Sweden, and two postdoctoral students.  They have been selected for this task because they are used to working with digital biodiversity data.  They will all use their own work computers."
-msgstr ""
+msgstr "NHM-DK 鳥類部門的鳥類學研究員將帶領團隊共同負責分類檢查、資料典藏、清理、格式和轉換，並監督已發布資料集的詮釋資料輸入。團隊包括一名來自瑞典的合作研究員和兩名博士後研究生。他們被選定負責這項任務是因為他們習慣處理數位生物多樣性資料。他們都將使用自己的工作電腦。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:49
 msgid "The DanBIF Node Manager will ensure that the institution is adequately registered in GBIF as a data publisher and that the deputy director and the ornithology curator have the proper credentials and access to DanBIF’s IPT instance to upload and publish the data."
-msgstr ""
+msgstr "DanBIF 節點管理員將確保該機構在 GBIF 正確註冊為資料發布者，並確保副館長和鳥類學研究員擁有合適的憑證和存取權限，以使用 DanBIF 的資料整合發布工具（IPT）上傳和發布資料。"
 
 #. type: Title ====
 #: use-case-birds-from-literature.en.adoc:50
