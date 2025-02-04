@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2025-02-04 05:10\n"
+"PO-Revision-Date: 2025-02-04 06:38\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -4000,7 +4000,7 @@ msgstr "掃描與翻譯資料描述"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:67
 msgid "This is an example of the scanned and translated output from the analogue example above."
-msgstr ""
+msgstr "這是上述類比資料（紙本資料）的掃描和翻譯範例。"
 
 #. type: Target for macro image
 #: use-case-birds-from-literature.en.adoc:68
@@ -4011,58 +4011,58 @@ msgstr "img/web/use-case-3-scanned.png"
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:74
 msgid "Studying the extract from the book, the volunteers from the Copenhagen Ornithology Society suggest extracting the following data from the scanned and translated text:"
-msgstr ""
+msgstr "研究這本書的摘錄，哥本哈根鳥類學會的志工建議從掃描和翻譯的文本中提取以下資料："
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:76
 msgid "Scientific name as appearing in the book"
-msgstr ""
+msgstr "書中出現的科學名稱"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:77
 msgid "Common name(s) in Danish as appearing in the book"
-msgstr ""
+msgstr "書中出現的丹麥語俗名"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:78
 msgid "Locality"
-msgstr ""
+msgstr "地點"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:79
 msgid "Year/month/day"
-msgstr ""
+msgstr "年/月/日"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:80
 msgid "Observed number of individuals"
-msgstr ""
+msgstr "觀測個體數量"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:81
 msgid "Sex"
-msgstr ""
+msgstr "性別"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:82
 msgid "Lifestage"
-msgstr ""
+msgstr "生命階段"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:83
 msgid "Remarks"
-msgstr ""
+msgstr "備註"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:84
 msgid "URL of the digitized book page in which the occurrence is provided"
-msgstr ""
+msgstr "出現紀錄的數位化書籍頁面的 URL"
 
 #. type: Title ===
 #: use-case-birds-from-literature.en.adoc:85
 #, no-wrap
 msgid "Birds from literature exercise sheet"
-msgstr ""
+msgstr "文獻中的鳥類工作表"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:88
@@ -4072,42 +4072,42 @@ msgstr "下載 link:../course-docs/UC3-DL-exercise-sheet_EN.docx[exercise sheet,
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:95
 msgid "The team needs to develop a sustainable workflow to digitize literature resources, extract any valuable biodiversity information on them and publish it online via GBIF.  They need to develop a plan that can be sustained in the future once the funding from the national library association is over."
-msgstr ""
+msgstr "這個團隊需要開發一個數位化文獻資源的永續工作流程，摘要紙本文獻中有關生物多樣性的資訊，並透過 GBIF 發表在網路上。他們需要制定一個在國家圖書館協會資助結束後仍能永續的計劃。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:98
 msgid "The <<scenario-4,scenario>> section of this use case includes a brief description of the workflow conceived by the deputy director.  Based on the workflow and the accompanying text complete the following:"
-msgstr ""
+msgstr "《scenario-4，情境》部分包含副主任構想工作流程的概要描述。請根據工作流程和附帶文字完成以下任務："
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:100
 msgid "Identify the different stakeholders participating in this project"
-msgstr ""
+msgstr "辨識參與此專案的不同利益關係者"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:101
 msgid "Identify their affiliation and assign each of them to a stakeholder group"
-msgstr ""
+msgstr "確定他們的隸屬關係，並將每個人分配到相應的利益關係者群組"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:102
 msgid "Identify the roles associated to them and assign the tasks for which they are currently responsible"
-msgstr ""
+msgstr "辨識與他們相關的角色，並分配他們目前負責的任務"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:103
 msgid "Perform a critical analysis of the workflow, identify potential risks and gaps, and suggest ways to improve the workflow, maximize the efficiency of the digitization project and produce data of the highest quality possible."
-msgstr ""
+msgstr "對工作流程進行批判分析，辨識潛在風險和缺口，並提出改善工作流程的建議，藉此最佳化數位化專案的效率並產出最高品質的資料。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:111
 msgid "The scans and character recognition (OCR) of the books have been completed.  Occurrence data must now be extracted from those sources and compiled in a spreadsheet format."
-msgstr ""
+msgstr "書籍的掃描和文字識別（OCR）已經完成。現在必須從這些來源提取出現紀錄資料，並編譯成試算表格式。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:113
 msgid "The original data was in German and, to make it more widely usable when published online, the project manager would like to make it available in English."
-msgstr ""
+msgstr "由於原始資料是德文，為了讓資料在線上發布時適用範圍更廣，專案經理希望將其轉換為英文版本。"
 
 #. Do not translate this block
 #. The {empty} is to prevent the "2." producing a numbered list.
@@ -4140,27 +4140,27 @@ msgstr ""
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:132
 msgid "Take the role of a volunteer charged with transforming the translated text into a spreadsheet as individual occurrences.  The occurrences will need unique numbers assigned to them."
-msgstr ""
+msgstr "請扮演一位負責將翻譯文本轉換為個別出現紀錄的志工，這些出現紀錄需要分配唯一編號。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:133
 msgid "Create a spreadsheet using the data fields listed in the <<birds-digital-data-description>> using data found in the example above recorded by: Chr. Fr. Lütken."
-msgstr ""
+msgstr "請使用上述範例中由 Chr. Fr. Lütken 記錄的資料，並根據 《birds-digital-data-description》 中列出的資料欄位建立試算表。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:136
 msgid "In the examples used, the individual occurrences do not always contain data to complete all of the columns in the spreadsheet."
-msgstr ""
+msgstr "在使用的範例中，個別的出現紀錄並不總是包含完整的試算表欄位資料。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:143
 msgid "Data has now been compiled into a spreadsheet format by the volunteers from the Copenhagen Ornithological Society.  Taking the role of the Ornithology Curator in the Bird Department, you have been assigned the responsibility for data quality issues on the dataset."
-msgstr ""
+msgstr "資料現在已經由哥本哈根鳥類學會的志工整理成試算表格式。作為鳥類部門的典藏總監，你被指派負責該資料集的資料品質問題。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:149
 msgid "Through retrospective georeferencing, coordinates have been added to the dataset along with the locality, but no other higher geography.  Since all the observations were made in Denmark, continent and country can easily be added.  Additionally, only the scientific name was provided.  Higher taxonomy can be derived utilizing software tools such as OpenRefine.  You are also aware that there are typographic errors that were made by the digitizers."
-msgstr ""
+msgstr "透過追溯地理參照（retrospective georeferencing），座標已與地點一起添加到資料集中，但沒有其他更高層級的地理資訊。由於所有觀察都是在丹麥進行，因此可以輕易增加洲別和國家資訊。此外，目前資料集裡僅提供科學名稱。你可以使用 OpenRefine 等軟體工具來推導更高層級的分類系統。你也注意到數位化人員發生了一些拼字錯誤。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:151
@@ -4170,37 +4170,37 @@ msgstr "下載 link:../exercise-data/UC3-DL-3-ForCleaning.zip[UC3-DL-3-ForCleani
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:152
 msgid "Identify and correct any invalid years."
-msgstr ""
+msgstr "辨識並更正任何無效的年份。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:153
 msgid "Verify and correct taxonomy."
-msgstr ""
+msgstr "檢核並更正分類系統。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:156
 msgid "Verify coordinates are correct for the two given localities.  Correct any that are not.  Coordinates should be in decimal format."
-msgstr ""
+msgstr "檢核兩個給定地點的座標是否正確。如有錯誤請更正。座標應該使用十進位格式。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:157
 msgid "Add any data for missing elements that can be derived using the available data"
-msgstr ""
+msgstr "使用現有資料增加任何可推導的缺失元素"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:158
 msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
-msgstr ""
+msgstr "請記得保留原始提供的資訊，並將你的更改和假設紀錄個別記錄為詮釋資料的一部分。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:161
 msgid "dataset should contain only years 1883-1939"
-msgstr ""
+msgstr "資料集應僅包含 1883-1939 年間的資料"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:169
 msgid "For this exercise, you will take the role of the person responsible for publishing the cleaned data online via the GBIF network.  You have been supplied with a multimedia file and an identification history file that should be published along with the observations.  The staff member in charge of data quality has provided cleaned datasets for you to publish."
-msgstr ""
+msgstr "在這個練習中，你將扮演負責透過 GBIF（全球生物多樣性資訊機構）網路線上發布已清理資料的工作人員。你已獲得多媒體檔案和歷史辨識檔案，這些檔案要與觀察資料一起發布。負責資料品質的工作人員已為你提供已清理的資料集以供發布。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:171
@@ -4211,18 +4211,18 @@ msgstr "下載 link:../exercise-data/UC3-DL-4-ForPublication.zip[UC3-DL-4-ForPub
 #: assignments.en.adoc:1
 #, no-wrap
 msgid "Final assignments"
-msgstr ""
+msgstr "最終作業"
 
 #. type: Plain text
 #: assignments.en.adoc:5
 msgid "For your final activities, you will complete and submit Use Case II and Use Case III for evaluation."
-msgstr ""
+msgstr "你需要完成並提交使用案例 II 和使用案例 III 作為評估依據。"
 
 #. type: Title ===
 #: assignments.en.adoc:6
 #, no-wrap
 msgid "USE CASE II"
-msgstr ""
+msgstr "案例 II"
 
 #. type: Plain text
 #: assignments.en.adoc:9
@@ -4253,7 +4253,7 @@ msgstr ""
 #: assignments.en.adoc:16
 #, no-wrap
 msgid "USE CASE III"
-msgstr ""
+msgstr "案例 III"
 
 #. type: Plain text
 #: assignments.en.adoc:18
