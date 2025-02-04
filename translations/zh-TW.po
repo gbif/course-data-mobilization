@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2025-02-04 07:33\n"
+"PO-Revision-Date: 2025-02-04 09:04\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -4279,7 +4279,7 @@ msgstr "可以從課程的線上（HTML）版本繳交作業。"
 #. type: Plain text
 #: assignments.en.adoc:35
 msgid "Please submit your assignment files using the form below.  If you do not see a form, you can also visit the https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80[submission site^] in a new window."
-msgstr ""
+msgstr "請使用下方表單提交你的作業檔案。如果你沒有看到表單，也可以在新視窗中訪問 https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80[submission site^]。"
 
 #. type: delimited block +
 #: assignments.en.adoc:38
@@ -4291,29 +4291,29 @@ msgstr "<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e8
 #: course-evaluation.en.adoc:1
 #, no-wrap
 msgid "Course evaluation"
-msgstr ""
+msgstr "課程評估"
 
 #. type: Plain text
 #: course-evaluation.en.adoc:5
 msgid "Complete the course evaluation"
-msgstr ""
+msgstr "完成課程評估"
 
 #. type: Title ==
 #: keydocs.en.adoc:1
 #, no-wrap
 msgid "Key documentation"
-msgstr ""
+msgstr "重要文件"
 
 #. type: Plain text
 #: keydocs.en.adoc:6
 msgid "The following references provide further detail on the topics covered in this course.  All links open in a new window/tab."
-msgstr ""
+msgstr "以下參考資料提供本課程相關主題的更多細節，所有連結都會在新視窗／分頁中開啟。"
 
 #. type: Title ===
 #: keydocs.en.adoc:7
 #, no-wrap
 msgid "Darwin Core"
-msgstr ""
+msgstr "達爾文核心集（DwC）"
 
 #. type: Plain text
 #: keydocs.en.adoc:10
@@ -4428,7 +4428,7 @@ msgstr "https://www.gbif.org/resource/search?contentType=literature&topics=DATA_
 #: keydocs.en.adoc:36
 #, no-wrap
 msgid "Data publishing: IPT"
-msgstr ""
+msgstr "資料發布：資料整合發布工具（IPT）"
 
 #. type: Plain text
 #: keydocs.en.adoc:40
@@ -4467,7 +4467,7 @@ msgstr "https://youtu.be/eDH9IoTrMVE[IPT in Practice demonstration video^]"
 #: keydocs.en.adoc:46
 #, no-wrap
 msgid "Digitization"
-msgstr ""
+msgstr "數位化"
 
 #. type: Plain text
 #: keydocs.en.adoc:49
@@ -4532,7 +4532,7 @@ msgstr "https://doi.org/10.15468/doc-z79c-sa53[Establishing an Effective GBIF Pa
 #: keydocs.en.adoc:63
 #, no-wrap
 msgid "Georeferencing"
-msgstr ""
+msgstr "地理參照座標"
 
 #. type: Plain text
 #: keydocs.en.adoc:67
@@ -4567,7 +4567,7 @@ msgstr "http://georeferencing.org/[Georeferencing resources^]"
 #: keydocs.en.adoc:73
 #, no-wrap
 msgid "Invasive Species"
-msgstr ""
+msgstr "入侵物種"
 
 #. type: Plain text
 #: keydocs.en.adoc:76
@@ -4583,7 +4583,7 @@ msgstr "https://osf.io/7dpgr/[TrIAS - Tracking Invasive Alien Species^]"
 #: keydocs.en.adoc:78
 #, no-wrap
 msgid "Living Atlases"
-msgstr ""
+msgstr "生命地圖集"
 
 #. type: Plain text
 #: keydocs.en.adoc:81
@@ -4599,7 +4599,7 @@ msgstr "http://www.gbif.org/resource/82847[ALA key technical documentation^]"
 #: keydocs.en.adoc:83
 #, no-wrap
 msgid "Miscellaneous"
-msgstr ""
+msgstr "雜項"
 
 #. type: Plain text
 #: keydocs.en.adoc:86
@@ -4695,7 +4695,7 @@ msgstr "https://git-og.github.io/EasyOpenRedList/[EasyOpen Redlist^]\n"
 #: keydocs.en.adoc:110
 #, no-wrap
 msgid "Planning/Collaboration"
-msgstr ""
+msgstr "規劃／協作"
 
 #. type: Plain text
 #: keydocs.en.adoc:113
@@ -4731,7 +4731,7 @@ msgstr "https://github.com/[GitHub^]"
 #: keydocs.en.adoc:119
 #, no-wrap
 msgid "Quality"
-msgstr ""
+msgstr "品質"
 
 #. type: Plain text
 #: keydocs.en.adoc:123
@@ -4771,7 +4771,7 @@ msgstr "http://mvz.berkeley.edu/Locality_Field_Recording_Notebooks.html[MVZ Guid
 #: keydocs.en.adoc:130
 #, no-wrap
 msgid "Sensitive species"
-msgstr ""
+msgstr "敏感物種"
 
 #. type: Plain text
 #: keydocs.en.adoc:134
@@ -4785,7 +4785,7 @@ msgstr "https://doi.org/10.15468/doc-5jp4-5g10[Current Best Practices for Genera
 #: keydocs.en.adoc:135
 #, no-wrap
 msgid "Taxonomy"
-msgstr ""
+msgstr "分類學"
 
 #. type: Plain text
 #: keydocs.en.adoc:138
@@ -5088,7 +5088,7 @@ msgstr "GBIF: https://www.gbif.org/dataset/3c9e2297-bf20-4827-928e-7c7eefd9432c"
 #. type: delimited block =
 #: data-papers.en.adoc:28
 msgid "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
-msgstr "IPT: http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana"
+msgstr "*專案管理知識體係指南（PMBoK）五個流程群組的順序是什麼？*\n"
 
 #. type: Title ==
 #: solutions.en.adoc:2
@@ -5254,76 +5254,79 @@ msgstr "哪些詞語描述了「欄位／欄位名稱」？\n"
 #. type: Plain text
 #: solutions.en.adoc:55
 msgid "Assigned"
-msgstr ""
+msgstr "已分配"
 
 #. type: Plain text
 #: solutions.en.adoc:56
 msgid "Identifying"
-msgstr ""
+msgstr "辨識中"
 
 #. type: Plain text
 #: solutions.en.adoc:57
 msgid "Unique"
-msgstr ""
+msgstr "獨特"
 
 #. type: Plain text
 #: solutions.en.adoc:59
 #, no-wrap
 msgid "*Which of these terms describes a \"field label\"?*\n"
-msgstr ""
+msgstr "*哪些詞語描述了「欄位標籤」？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:61
 msgid "Descriptive"
-msgstr ""
+msgstr "描述性"
 
 #. type: Plain text
 #: solutions.en.adoc:62
 msgid "Readable"
-msgstr ""
+msgstr "可讀性"
 
 #. type: Plain text
 #: solutions.en.adoc:63
 msgid "User-interface"
-msgstr ""
+msgstr "使用者介面"
 
 #. type: Plain text
 #: solutions.en.adoc:65
 #, no-wrap
 msgid "*For each statement, input the correct structure (row, column, table)*\n"
-msgstr ""
+msgstr "*對於每個陳述，輸入正確的結構（列、欄、表格）*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:68
 #, no-wrap
 msgid "All data refers to a SINGLE concept.\n"
 "*table*"
-msgstr ""
+msgstr "所有資料都指向單一概念。\n"
+"*表格*"
 
 #. type: Plain text
 #: solutions.en.adoc:70
 #, no-wrap
 msgid "An attribute has the SAME field/data type for every record.\n"
 "*column*"
-msgstr ""
+msgstr "一個屬性對每個記錄都有相同的欄位／資料類型。\n"
+"*欄*"
 
 #. type: Plain text
 #: solutions.en.adoc:72
 #, no-wrap
 msgid "Attributes of a record ALWAYS stay together.\n"
 "*row*"
-msgstr ""
+msgstr "記錄的屬性總是保持在一起。\n"
+"*列*"
 
 #. type: Plain text
 #: solutions.en.adoc:74
 #, no-wrap
 msgid "*Who determines the fitness for use of your data?*\n"
-msgstr ""
+msgstr "誰決定你的資料使用適切性？\n"
 
 #. type: Plain text
 #: solutions.en.adoc:76
 msgid "The users of the data for research or education"
-msgstr ""
+msgstr "用於研究或教育的資料使用者"
 
 #. type: Plain text
 #: solutions.en.adoc:79
@@ -5337,98 +5340,108 @@ msgstr ""
 #, no-wrap
 msgid "High accuracy, low precision\n"
 "*C*"
-msgstr ""
+msgstr "高正確性，低精準度\n"
+"*C*"
 
 #. type: Plain text
 #: solutions.en.adoc:84
 #, no-wrap
 msgid "Low accuracy, high precision\n"
 "*B*"
-msgstr ""
+msgstr "低正確性，高精準度\n"
+"*B*"
 
 #. type: Plain text
 #: solutions.en.adoc:86
 #, no-wrap
 msgid "High accuracy, high precision\n"
 "*D*"
-msgstr ""
+msgstr "高正確性，高精準度\n"
+"*D*"
 
 #. type: Plain text
 #: solutions.en.adoc:88
 #, no-wrap
 msgid "Low accuracy, low precision\n"
 "*A*"
-msgstr ""
+msgstr "低正確性，低精準度\n"
+"*A*"
 
 #. type: Plain text
 #: solutions.en.adoc:90
 #, no-wrap
 msgid "*Identify the data relationships where Dataset B needs to be merged into Dataset A (0:1, 1:0, 1:1, 1:∞, ∞:1, ∞:∞). Not all the relationships used.*\n"
-msgstr ""
+msgstr "*辨識需要將資料集 B 合併到資料集 A 的資料關係（0:1、1:0、1:1、1:∞、∞:1、∞:∞）。並非所有關係都使用。*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:93
 #, no-wrap
 msgid "Collector field exists in both dataset A and B\n"
 "*1:1*"
-msgstr ""
+msgstr "收集者欄位同時存在於資料集 A 和 B 中\n"
+"*1:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:95
 #, no-wrap
 msgid "Country field only exists in dataset B\n"
 "*0:1*"
-msgstr ""
+msgstr "國家欄位只存在於資料集 B 中\n"
+"*0:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:97
 #, no-wrap
 msgid "Name field exists in dataset A, but dataset B contains First Name and Last Name fields\n"
 "*1:∞*"
-msgstr ""
+msgstr "名稱欄位存在於資料集 A 中，但資料集 B 包含名字和姓氏欄位\n"
+"*1:∞*"
 
 #. type: Plain text
 #: solutions.en.adoc:99
 #, no-wrap
 msgid "ID field exists in both dataset A and B\n"
 "*1:1*"
-msgstr ""
+msgstr "ID 欄位同時存在於資料集 A 和 B 中\n"
+"*1:1*"
 
 #. type: Plain text
 #: solutions.en.adoc:101
 #, no-wrap
 msgid "Elevation exists in dataset A, but not in dataset B\n"
 "*1:0*"
-msgstr ""
+msgstr "海拔存在於資料集 A 中，但不在資料集 B 中\n"
+"*1:0*"
 
 #. type: Plain text
 #: solutions.en.adoc:103
 #, no-wrap
 msgid "Date exists in dataset A, but Day, Month, and Year are separate fields in dataset B\n"
 "*1:∞*"
-msgstr ""
+msgstr "日期存在於資料集 A 中，但日、月、年在資料集 B 中是獨立欄位\n"
+"*1:∞*"
 
 #. type: Plain text
 #: solutions.en.adoc:105
 #, no-wrap
 msgid "*Metadata is important because (select the TRUE statements)*\n"
-msgstr ""
+msgstr "*詮釋資料很重要是因為（選擇正確的陳述）*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:107
 msgid "it allows users to determine if a dataset is fit for their use."
-msgstr ""
+msgstr "它讓使用者能夠確定資料集是否適合他們使用。"
 
 #. type: Plain text
 #: solutions.en.adoc:108
 msgid "it allows you to know under which legal terms the reuse of data is permitted."
-msgstr ""
+msgstr "它讓你知道在什麼法律條款下允許重複使用資料。"
 
 #. type: Title ===
 #: solutions.en.adoc:109
 #, no-wrap
 msgid "Planning review solutions"
-msgstr ""
+msgstr "計畫檢查辦法"
 
 #. type: Plain text
 #: solutions.en.adoc:112
@@ -5439,7 +5452,7 @@ msgstr ""
 #. type: Plain text
 #: solutions.en.adoc:114
 msgid "Initiating, Planning, Executing, Monitoring and Controlling, Closing"
-msgstr ""
+msgstr "起始、規劃、執行、監控、結束"
 
 #. type: Plain text
 #: solutions.en.adoc:116
@@ -5450,17 +5463,17 @@ msgstr "想知道更多：https://quizlet.com/306742513/1-introduction-pmbok-gui
 #: solutions.en.adoc:118
 #, no-wrap
 msgid "*What are the types of deliverable?*\n"
-msgstr ""
+msgstr "起始、規劃、執行、監控、結束\n"
 
 #. type: Plain text
 #: solutions.en.adoc:120
 msgid "Stated - YES"
-msgstr ""
+msgstr "明確的 - 是"
 
 #. type: Plain text
 #: solutions.en.adoc:121
 msgid "Implied - YES"
-msgstr ""
+msgstr "隱含的 - 是"
 
 #. type: Plain text
 #: solutions.en.adoc:122
