@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2024-02-28 19:09+0000\n"
-"PO-Revision-Date: 2025-02-04 12:26\n"
+"PO-Revision-Date: 2025-02-05 12:57\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1921,7 +1921,8 @@ msgid "- [x] a blockage that delays development or progress\n"
 "- [ ] a problem, or situation that prevents somebody from doing something, or that makes something impossible.\n"
 msgstr "- [x] 推遲進程發展的阻礙\n"
 "- [ ] 某人某物消失的空間\n"
-"- [ ] 讓某人避免做某件事、或使其變得無法達成的問題或狀況"
+"- [ ] 讓某人避免做某件事、或使其變得無法達成的問題或狀況.\n"
+"。\n"
 
 #.  Question 4
 #. type: Plain text
@@ -1941,7 +1942,7 @@ msgstr "- [ ] 聯繫Affiliation\n"
 "- [x] 資料發表Publishing\n"
 "- [x] 影像化Imaging\n"
 "- [x] 地理參考Georeferencing\n"
-"- [ ] 提高公眾關注Increased Public Awareness"
+"- [ ] 提高公眾關注Increased Public Awareness\n"
 
 #. type: Plain text
 #: capture.en.adoc:7
@@ -2091,7 +2092,8 @@ msgstr "你會選擇什麼資料型態給環境衝擊調查下所得的植物相
 #: capture.en.adoc:101
 #, no-wrap
 msgid "Environmental impact assessment studies are done by experts in order to assess the biodiversity and biotopes of a given area, before, during and after it is affected by human activities (road works, wind turbines, mining, building construction, etc.).\n"
-msgstr "這份環境衝擊評估調查是由專家完成，目的是為了評估一特定區域在人類活動影響(如：道路施工、風機發電、採礦作業、建築...等等)之前、之下、之後的的生物多樣性、棲地類型(biotope)。"
+msgstr "這份環境衝擊評估調查是由專家完成，目的是為了評估一特定區域在人類活動影響(如：道路施工、風機發電、採礦作業、建築...等等)之前、之下、之後的的生物多樣性、棲地類型(biotope).\n"
+"。"
 
 #. type: delimited block .
 #: capture.en.adoc:105
@@ -2123,7 +2125,8 @@ msgstr "你會為鳥類的追蹤資料選擇怎樣的資料集型態呢？"
 #: capture.en.adoc:116
 #, no-wrap
 msgid "Bird-tracking data are recorded using specific devices, such as GPS trackers mounted on live birds, thus allowing scientists to track their migratory routes or breeding sites.\n"
-msgstr "這份鳥類追蹤紀錄是利用特殊裝置(如：安裝於鳥身上的GPS追蹤器)紀錄而成，也是此能讓科學家得幾追蹤牠們的遷徙路徑、築巢地點。"
+msgstr "這份鳥類追蹤紀錄是利用特殊裝置(如：安裝於鳥身上的GPS追蹤器)紀錄而成，也是此能讓科學家得幾追蹤牠們的遷徙路徑、築巢地點.\n"
+"。"
 
 #. type: delimited block .
 #: capture.en.adoc:120
@@ -2171,7 +2174,8 @@ msgstr "你會為國家公園管理資料選擇怎樣的資料集型態呢？"
 #: capture.en.adoc:144
 #, no-wrap
 msgid "Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.\n"
-msgstr "特定保護區域(如：國家公園、或小的自然保留區)管理所需要的資料十分多樣、且具有不同的資料來源：植生調查、動物個體追蹤、巡守員或警衛的觀察、甚至是「公民科學」資料或從社群媒體圖片中可推論出來的資料。"
+msgstr "特定保護區域(如：國家公園、或小的自然保留區)管理所需要的資料十分多樣、且具有不同的資料來源：植生調查、動物個體追蹤、巡守員或警衛的觀察、甚至是「公民科學」資料或從社群媒體圖片中可推論出來的資料.\n"
+"。\n"
 
 #. type: delimited block .
 #: capture.en.adoc:148
@@ -2189,10 +2193,9 @@ msgstr ":figure-caption!:\n"
 msgid "- [x] occurrence\n"
 "- [x] checklist\n"
 "- [x] sampling event\n"
-msgstr "\n"
-"- [x] 物種出現紀錄occurrence\n"
+msgstr "- [x] 物種出現紀錄occurrence\n"
 "- [x] 物種名錄checklist\n"
-"- [x] 調查事件sampling event"
+"- [x] 調查事件sampling event\n"
 
 #.  Question 7
 #. type: Plain text
@@ -2204,7 +2207,8 @@ msgstr "你認為公民科學中生物閃電戰(bioblitz)應該要用什麼資�
 #: capture.en.adoc:159
 #, no-wrap
 msgid "Citizen science data are often collected through thematic fieldwork days known as a “bioblitz.” Volunteers typically gather in a given area and spend the day trying to observe and identify as many species as they can in this area.\n"
-msgstr "公民科學資料有時會透過主題式的田野工作日來蒐集獲得，也就是生物閃電戰(bioblitz)。志願者們通常聚集於特定區域，並花上一天試圖觀察、鑑別儘可能越多物種。"
+msgstr "公民科學資料有時會透過主題式的田野工作日來蒐集獲得，也就是生物閃電戰(bioblitz)。志願者們通常聚集於特定區域，並花上一天試圖觀察、鑑別儘可能越多物種.\n"
+"。"
 
 #. type: delimited block .
 #: capture.en.adoc:161
@@ -2306,7 +2310,7 @@ msgstr "*資料驗證檢查*\n"
 #. type: Plain text
 #: management.en.adoc:39
 msgid "In this exercise we will focus on technical errors and perform a basic validation check to identify technical errors.  Refer to <<Validation checks>> for information on the types of errors."
-msgstr "此練習中，我們將專注在技術性錯誤，並練習執行基本的驗證檢查來找出技術性錯誤。請參考  <<Validation checks>> 來得到更多關於錯誤的種類資訊。  "
+msgstr "此練習中，我們將專注在技術性錯誤，並練習執行基本的驗證檢查來找出技術性錯誤。請參考  <<Validation checks>> 來得到更多關於錯誤的種類資訊."
 
 #. type: Plain text
 #: management.en.adoc:41
@@ -2462,7 +2466,8 @@ msgid "*Technical errors*\n"
 "These may indicate incorrect exports, data mapping, field slippage (e.g. moving 1 column to the right) or data missing at the source.\n"
 msgstr "*技術性錯誤Technical errors*\n"
 "相對簡單、容易被自動化地檢查出來，*檢查資料的完整性*。 \n"
-"這也指那些錯誤的輸出格式、資料映射、欄位滑動(如：整行向右滑動一行)、及來源的資料缺失。"
+"這也指那些錯誤的輸出格式、資料映射、欄位滑動(如：整行向右滑動一行)、及來源的資料缺失.\n"
+"。"
 
 #. type: Plain text
 #: management.en.adoc:98
@@ -2478,7 +2483,7 @@ msgstr "*完整性Completeness*: \n"
 msgid "*Bounds*: \n"
 "For example, are days given in the range 1-31 (depending on month)\n"
 msgstr "*該有的限制Bounds*: \n"
-"比如日期應當於1至31之間(依月份而定)"
+"比如日期應當於1至31之間(依月份而定)\n"
 
 #. type: Plain text
 #: management.en.adoc:102
@@ -2531,7 +2536,8 @@ msgid "*Outliers*: \n"
 "For example, compare against a known species range, or known environmental range (but remember that outliers may be misidentifications, rather than incorrect coordinates).\n"
 msgstr "*異常值Outliers*: \n"
 "去找出異常值，但記住不是所有的異常值都一定是錯誤。\n"
-"比如：不同於已知的物種分布區域、或已知的環境範圍(但請記住，比起是座標的錯誤異常，這個異常值更可能是被錯誤鑑定至此而產生的結果)。"
+"比如：不同於已知的物種分布區域、或已知的環境範圍(但請記住，比起是座標的錯誤異常，這個異常值更可能是被錯誤鑑定至此而產生的結果)\n"
+"。\n"
 
 #. type: Plain text
 #: management.en.adoc:123
@@ -2540,7 +2546,7 @@ msgid "*Geographic*: \n"
 "Are the coordinates within the identified locality or region? \n"
 "For example, are there any terrestrial occurrences in the sea or marine occurrences on land?\n"
 msgstr "*地理上的Geographic*: \n"
-"這些座標有落於對應的地點、地區內嗎？ 比如：是否有任何出現在海上的陸生紀錄、或出現在陸地上的海洋紀錄？"
+"這些座標有落於對應的地點、地區內嗎？ 比如：是否有任何出現在海上的陸生紀錄、或出現在陸地上的海洋紀錄？\n"
 
 #. type: Plain text
 #: management.en.adoc:127
@@ -2560,7 +2566,7 @@ msgstr "*採集模式Collecting patterns*: \n"
 msgid "*Accuracy and precision*: \n"
 "For example, are any georeferenced records indicating very high precision or accuracy from a pre-GPS (or pre-accurate GPS) collecting period?\n"
 msgstr "*正確性與精準度Accuracy and precision*: \n"
-"具體來說，是否有任何具地理參照的紀錄在精確的定位之前，就有著非常高的GPS精準度、正確性？"
+"具體來說，是否有任何具地理參照的紀錄在精確的定位之前，就有著非常高的GPS精準度、正確性？\n"
 
 #. type: Plain text
 #: management.en.adoc:132
@@ -2569,7 +2575,7 @@ msgid "*Collecting methods*: \n"
 "Different survey methods (e.g. transects and area surveys) have particular characteristics. \n"
 "Are the records consistent with the method provided?\n"
 msgstr "*採集方法Collecting methods*: \n"
-"不同採集方法(如：穿越線法、區域調查法)具有特定的特徵。這些記錄呈現出來與提供出來的方法是一致的嗎？"
+"不同採集方法(如：穿越線法、區域調查法)具有特定的特徵。這些記錄呈現出來與提供出來的方法是一致的嗎？\n"
 
 #. type: Title ====
 #: management.en.adoc:133
@@ -2748,7 +2754,7 @@ msgstr "在這影片中 (11:45)，你將學習資料集發布的相關概念，�
 #: publishing.en.adoc:15
 #, no-wrap
 msgid "IPT overview"
-msgstr "IPT  介紹"
+msgstr "IPT 介紹"
 
 #. type: Plain text
 #: publishing.en.adoc:19
@@ -3321,7 +3327,7 @@ msgstr ""
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:22
 msgid "This narrative was developed as a basis for practical exercises in the biodiversity data mobilization course and the exercise concept and content was developed by Sharon Grant, John Wieczorek, David Bloom and Laura Anne Russell."
-msgstr "此段敘述是為了生物多樣性資料流通課程的練習而發展的，而接下來此練習的概念內容則是由Sharon Grant、 John Wieczorek、David Bloom 與 Laura Anne Russell發展出來的。\n"
+msgstr "此段敘述是為了生物多樣性資料流通課程的練習而發展的，而接下來此練習的概念內容則是由Sharon Grant、 John Wieczorek、David Bloom 與 Laura Anne Russell發展出來的."
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:26
@@ -3422,7 +3428,7 @@ msgstr "請使用練習表格提供您的答案。"
 #: use-case-invasive-species.en.adoc:81
 #, no-wrap
 msgid "*Options*\n"
-msgstr "*選項*"
+msgstr "*選項*\n"
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:83
@@ -4821,7 +4827,7 @@ msgstr "http://match.taibif.tw/index.html[Nomenmatch^]"
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr ""
+msgstr "詞彙表"
 
 #. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
@@ -4833,7 +4839,7 @@ msgstr "[[ALA]]ALA"
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "Atlas of Living Australia.  The Australian node of GBIF, who developed an open source data portal now widely used within the GBIF community & partners for biodiversity national portals."
-msgstr ""
+msgstr "澳洲生物誌：為全球生物多樣性資訊機構（GBIF）的澳洲節點，開發了開源資料入口網站，目前大多被 GBIF 社群和合作夥伴用於建立國家級生物多樣性入口網站。"
 
 #. type: Labeled list
 #: glossary.en.adoc:10
@@ -4844,7 +4850,7 @@ msgstr "[[API]]API"
 #. type: Plain text
 #: glossary.en.adoc:12
 msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
-msgstr ""
+msgstr "應用程式介面：一套明確定義的軟體元件間溝通方法。"
 
 #. type: Labeled list
 #: glossary.en.adoc:13
@@ -4855,7 +4861,7 @@ msgstr "[[BID]]BID"
 #. type: Plain text
 #: glossary.en.adoc:15
 msgid "Biodiversity Information for Development.  An EU funded project co-ordinated by GBIF whose aim is to increase data mobilization capacity in the Africa, Caribbean and Pacific regions."
-msgstr ""
+msgstr "生物多樣性資訊發展計畫：由歐盟資助、GBIF 協調的專案，目標是提升非洲、加勒比海和太平洋地區的資料流通能力。"
 
 #. type: Labeled list
 #: glossary.en.adoc:16
@@ -4866,7 +4872,7 @@ msgstr "[[BIFA]]BIFA"
 #. type: Plain text
 #: glossary.en.adoc:17
 msgid "Biodiversity Fund for Asia."
-msgstr ""
+msgstr "亞洲生物多樣性基金。"
 
 #. type: Labeled list
 #: glossary.en.adoc:18
@@ -4877,7 +4883,7 @@ msgstr "[[CC]]CC Licences"
 #. type: Plain text
 #: glossary.en.adoc:21
 msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools.  Three of them can be assigned to GBIF-shared datasets: CC0, CC BY and CC BY-NC."
-msgstr ""
+msgstr "創用 CC 授權條款：是由 CC 公眾授權組織（Creative Commons） 建立的一系列授權條款，透過提供免費的法律工具來促進創意和知識的分享與再利用。GBIF 分享的資料集可以使用其中三種授權方式：CC0、CC BY 和 CC BY-NC。"
 
 #. type: Labeled list
 #: glossary.en.adoc:22
@@ -4888,7 +4894,7 @@ msgstr "[[vocab]]Controlled Vocabulary"
 #. type: Plain text
 #: glossary.en.adoc:26
 msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
-msgstr ""
+msgstr "「控制詞彙」是用於特定欄位的可能值的受限制詞彙集，可以將其視為特定欄位的查詢清單或下拉選單。例如，達爾文核心標準（Darwin Core）欄位的紀錄類型（basisOfRecord）應只包含以下值之一：\"PreservedSpecimen\"、\"FossilSpecimen\"、\"LivingSpecimen\"、\"HumanObservation\"、\"MachineObservation\"。我們稱這個值列表為該欄位的控制詞彙。"
 
 #. type: Labeled list
 #: glossary.en.adoc:27
@@ -4899,7 +4905,7 @@ msgstr "[[DwC]]DwC"
 #. type: Plain text
 #: glossary.en.adoc:29
 msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
-msgstr ""
+msgstr "「達爾文核心標準」是一個生物多樣性資料標準，由 TDWG 維護，在 GBIF 社群和合作夥伴中被廣泛使用。它是一組標準化的術語（或欄位名稱）及其定義，用於分享生物多樣性資訊。"
 
 #. type: Labeled list
 #: glossary.en.adoc:30
@@ -4910,7 +4916,7 @@ msgstr "[[DOI]]DOI"
 #. type: Plain text
 #: glossary.en.adoc:32
 msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
-msgstr ""
+msgstr "數位物件識別碼：用於唯一識別物件的永久識別碼。DOI 主要用於識別學術、專業和政府資訊，如：期刊文章、研究報告、資料集和官方出版品。"
 
 #. type: Labeled list
 #: glossary.en.adoc:33
@@ -4921,22 +4927,22 @@ msgstr "[[DwC-A]]DwC-A"
 #. type: Plain text
 #: glossary.en.adoc:36
 msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
-msgstr ""
+msgstr "達爾文核心文件包：一個壓縮（zip）檔案，包含分享給 GBIF 的特定資源所需的所有資訊。每個壓縮檔包含三種類型的檔案："
 
 #. type: Plain text
 #: glossary.en.adoc:37
 msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
-msgstr ""
+msgstr "實際資料（一個或多個文字檔）：occurrence.txt/event.txt/measurmentoffact.txt 等"
 
 #. type: Plain text
 #: glossary.en.adoc:38
 msgid "a mapping file: rtf.xml"
-msgstr ""
+msgstr "對應檔案：rtf.xml"
 
 #. type: Plain text
 #: glossary.en.adoc:41
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr ""
+msgstr "詮釋資料（EML）檔案：eml.xml。當你使用 IPT 發布時，它會建立一個 Darwin Core Archive，並與 GBIF 分享。此外，當你從 GBIF 網站下載資料時，也可以選擇 DwC-A 格式。"
 
 #. type: Labeled list
 #: glossary.en.adoc:42
@@ -4947,7 +4953,7 @@ msgstr "[[GUID]]GUID"
 #. type: Plain text
 #: glossary.en.adoc:43
 msgid "Globally Unique IDentifier"
-msgstr ""
+msgstr "全球唯一識別碼"
 
 #. type: Labeled list
 #: glossary.en.adoc:44
@@ -4958,7 +4964,7 @@ msgstr "[[IPT]]IPT"
 #. type: Plain text
 #: glossary.en.adoc:48
 msgid "Integrated Publishing Toolkit.  It is a free and open source web application (software) for publishing biodiversity data.  The software itself lives on a server (either at your institution or elsewhere) that must have access to the internet 24/7.  It is used to create and handle Darwin Core Archive files that can be shared and used by anyone including GBIF."
-msgstr ""
+msgstr "資料整合發布工具：這是一個免費開源的網路應用程式（軟體），用於發布生物多樣性資料。該軟體必須存放在具有 24/7 網際網路存取的伺服器上（可以是你的機構或其他地方）。它用於建立和處理可供任何人（包括 GBIF）分享和使用的 Darwin Core Archive 檔案。"
 
 #. type: Labeled list
 #: glossary.en.adoc:49
@@ -4969,7 +4975,7 @@ msgstr "[[loan]]Loan"
 #. type: Plain text
 #: glossary.en.adoc:50
 msgid "In the context of natural history collections, this is the procedure of lending specimens between institutions."
-msgstr ""
+msgstr "借閱：在自然史收藏的語境中，這是指機構間標本借閱的程序。"
 
 #. type: Labeled list
 #: glossary.en.adoc:51
@@ -4980,7 +4986,7 @@ msgstr "[[LSID]]LSID"
 #. type: Plain text
 #: glossary.en.adoc:53
 msgid "Life Sciences Identifier.  They are persistent, globally unique identifiers for biological objects."
-msgstr ""
+msgstr "生命科學識別碼：它們是生物物件的永久性全球唯一識別碼。"
 
 #. type: Labeled list
 #: glossary.en.adoc:54
@@ -4991,7 +4997,7 @@ msgstr "[[DP]]Data Publishing"
 #. type: Plain text
 #: glossary.en.adoc:56
 msgid "With regards to GBIF we have a very specific definition of data publishing.  It refers to making biodiversity datasets publicly accessible and discoverable, in a standardized form, via an access point, typically a web address (a URL)."
-msgstr ""
+msgstr "「資料發布」在 GBIF 中有非常具體的定義。它指的是透過存取點（通常是網址 URL）以標準化形式使生物多樣性資料集可公開存取和發現。"
 
 #. type: Labeled list
 #: glossary.en.adoc:57
@@ -5002,7 +5008,7 @@ msgstr "[[resource]]Resource"
 #. type: Plain text
 #: glossary.en.adoc:58
 msgid "A Resource is the collective term used to refer to a particular dataset and its metadata once it has been uploaded to an IPT instance."
-msgstr ""
+msgstr "資源：用於指稱已上傳到 IPT 實例的特定資料集及其詮釋資料的集合術語。"
 
 #. type: Labeled list
 #: glossary.en.adoc:59
@@ -5013,7 +5019,7 @@ msgstr "[[TDWG]]TDWG"
 #. type: Plain text
 #: glossary.en.adoc:60
 msgid "Taxonomic Databases Working Group, now renamed Biodiversity Information Standards."
-msgstr ""
+msgstr "分類資料庫工作組：現已更名為生物多樣性資訊標準（Biodiversity Information Standards）。"
 
 #. type: Labeled list
 #: glossary.en.adoc:61
@@ -5024,7 +5030,7 @@ msgstr "[[URN]]URN"
 #. type: Plain text
 #: glossary.en.adoc:62
 msgid "Uniform Resource Number"
-msgstr ""
+msgstr "統一資源名稱"
 
 #. type: Labeled list
 #: glossary.en.adoc:63
@@ -5035,7 +5041,7 @@ msgstr "[[UUID]]UUID"
 #. type: Plain text
 #: glossary.en.adoc:64
 msgid "Universally Unique Identifier"
-msgstr ""
+msgstr "通用唯一識別碼"
 
 #. type: Plain text
 #: glossary.en.adoc:65
@@ -5046,17 +5052,17 @@ msgstr "<<<"
 #: data-papers.en.adoc:3
 #, no-wrap
 msgid "Appendix: Data papers"
-msgstr ""
+msgstr "附錄：資料論文"
 
 #. type: Plain text
 #: data-papers.en.adoc:12
 msgid "A data paper is a peer reviewed document describing a dataset, published in a peer reviewed journal.  It takes effort to prepare, curate and describe data.  Data papers provide recognition for this effort by means of a scholarly article.  We do not cover how to create data papers in this course, however, as an optional activity, you can watch this video (51:51) presented by Lizanne Roxburgh.  In this video, you will learn more about publishing data papers.  If you are unable to watch the embedded video, you can link:../videos/Webinar_data_papers.mp4[download,opts=download] it locally. (MP4 - 99.2 MB)"
-msgstr ""
+msgstr "資料論文是描述資料集的同儕審查文件，發表在同儕審查期刊上。準備、管理和描述資料需要付出努力。資料論文透過學術文章的形式對這種努力給予認可。我們在本課程中不會介紹如何建立資料論文，但作為選擇性活動，你可以觀看 Lizanne Roxburgh 主講的影片（51:51）。在這個影片中，你可以了解更多關於發布資料論文的資訊。如果你無法觀看嵌入的影片，你可以下載到本機端觀看。（MP4 - 99.2 MB）"
 
 #. type: Plain text
 #: data-papers.en.adoc:17
 msgid "You can read more about data papers on GBIF.org."
-msgstr ""
+msgstr "你可以在 GBIF.org 上閱讀更多關於資料論文的資訊。"
 
 #. type: Target for macro image
 #: data-papers.en.adoc:18
@@ -5073,12 +5079,12 @@ msgstr "img/web/datapapersIPT.png"
 #. type: delimited block =
 #: data-papers.en.adoc:24
 msgid "View the links below to see a data paper as it appears on the IPT, on GBIF.org and in the Journal. Each are cross-linked."
-msgstr ""
+msgstr "點擊下方連結可以看到資料論文在 IPT、GBIF.org 和期刊上的呈現方式。這些都是交叉連結的。"
 
 #. type: delimited block =
 #: data-papers.en.adoc:26
 msgid "Journal: https://doi.org/10.3897/BDJ.2.e4244"
-msgstr ""
+msgstr "期刊：https://doi.org/10.3897/BDJ.2.e4244"
 
 #. type: delimited block =
 #: data-papers.en.adoc:27
@@ -5094,45 +5100,48 @@ msgstr "*專案管理知識體係指南（PMBoK）五個流程群組的順序是
 #: solutions.en.adoc:2
 #, no-wrap
 msgid "Appendix: Solutions"
-msgstr ""
+msgstr "附錄：解答"
 
 #. type: Plain text
 #: solutions.en.adoc:6
 msgid "This appendix contains the answers and additional information to all of the review quizzes.  Additionally, this section contains a suggested solution to USE CASE I."
-msgstr ""
+msgstr "本附錄包含所有複習測驗的答案和補充資訊。此外，本節還包含 USE CASE I 的建議解答。"
 
 #. type: Title ===
 #: solutions.en.adoc:7
 #, no-wrap
 msgid "Foundations review solutions"
-msgstr ""
+msgstr "基礎知識複習解答"
 
 #. type: Plain text
 #: solutions.en.adoc:10
 #, no-wrap
 msgid "*For the given statement, input the correct term (database, database language, database program)*\n"
-msgstr ""
+msgstr "*針對給定的敘述，填入正確的術語（資料庫、資料庫語言、資料庫程式）*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:13
 #, no-wrap
 msgid "combines and presents functions and features for manipulating data, together in a unified interface\n"
 "*database program* +"
-msgstr ""
+msgstr "在統一介面中結合並呈現操作資料的功能和特性\n"
+"*資料庫程式* +"
 
 #. type: Plain text
 #: solutions.en.adoc:15
 #, no-wrap
 msgid "structured and organized collection of data and/or information held on a computer\n"
 "*database* +"
-msgstr ""
+msgstr "在電腦上保存結構化且有組織的資料和／或資訊集合\n"
+"*資料庫* +"
 
 #. type: Plain text
 #: solutions.en.adoc:17
 #, no-wrap
 msgid "the way by which a human communicates with a computer\n"
 "*database language* +"
-msgstr ""
+msgstr "人類與電腦溝通的方式\n"
+"*資料庫語言* +"
 
 #. type: Plain text
 #: solutions.en.adoc:19
@@ -5447,7 +5456,7 @@ msgstr "計畫檢查辦法"
 #: solutions.en.adoc:112
 #, no-wrap
 msgid "*What is the order of the five PMBoK Process Groupings?*\n"
-msgstr ""
+msgstr "*專案管理知識體係指南（PMBoK）五個流程群組的順序是什麼？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:114
