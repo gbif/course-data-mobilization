@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-02-05 13:28+0000\n"
+"POT-Creation-Date: 2025-04-02 13:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4321,10 +4321,7 @@ msgstr ""
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
-#: use-case-lepidoptera-sampling.en.adoc:133
 #: use-case-lepidoptera-sampling.en.adoc:146
-#: use-case-birds-from-literature.en.adoc:134
-#: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
 msgstr ""
 
@@ -4781,6 +4778,14 @@ msgstr ""
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:132
 msgid "Create a spreadsheet using this structure and the data from the logs."
+msgstr ""
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:133
+#: use-case-birds-from-literature.en.adoc:134
+msgid ""
+"Use the exercise sheet to provide your answers and submit the spreadsheet "
+"created in the previous step."
 msgstr ""
 
 #. type: Plain text
@@ -5284,6 +5289,13 @@ msgstr ""
 msgid ""
 "Remember to keep the original information provided and document your changes "
 "and assumptions as part of the individual records and the metadata."
+msgstr ""
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:159
+msgid ""
+"Use the exercise sheet to provide your answers and submit the cleaned text "
+"file extracted from the step 1."
 msgstr ""
 
 #. type: Plain text
@@ -5889,7 +5901,7 @@ msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:113
-msgid "http://www.agilenutshell.com/[Agile^]"
+msgid "https://softailed.com/blog/benefits-of-agile-methodology[Agile methodology^]"
 msgstr ""
 
 #. type: Plain text
