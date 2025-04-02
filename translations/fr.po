@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2025-02-05 13:28+0000\n"
-"PO-Revision-Date: 2025-02-05 18:53\n"
+"POT-Creation-Date: 2025-04-02 13:59+0000\n"
+"PO-Revision-Date: 2025-04-02 14:12\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3534,10 +3534,7 @@ msgstr "En utilisant le jeu de données téléchargé, créez une feuille de cal
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
-#: use-case-lepidoptera-sampling.en.adoc:133
 #: use-case-lepidoptera-sampling.en.adoc:146
-#: use-case-birds-from-literature.en.adoc:134
-#: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
 msgstr "Utilisez la feuille d'exercice pour fournir vos réponses et soumettre la feuille de calcul."
 
@@ -3848,6 +3845,12 @@ msgstr "Quelle structure de données utiliseriez-vous pour refléter les donnée
 #: use-case-lepidoptera-sampling.en.adoc:132
 msgid "Create a spreadsheet using this structure and the data from the logs."
 msgstr "Créez une feuille de calcul en utilisant cette structure et les données des journaux."
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:133
+#: use-case-birds-from-literature.en.adoc:134
+msgid "Use the exercise sheet to provide your answers and submit the spreadsheet created in the previous step."
+msgstr ""
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:141
@@ -4186,6 +4189,11 @@ msgstr "Ajouter des données pour les éléments manquants qui peuvent être dé
 #: use-case-birds-from-literature.en.adoc:158
 msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
 msgstr "N'oubliez pas de conserver les informations originales fournies et de documenter vos modifications et assomptions au niveau des enregistrements individuels et des métadonnées."
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:159
+msgid "Use the exercise sheet to provide your answers and submit the cleaned text file extracted from the step 1."
+msgstr ""
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:161
@@ -4694,8 +4702,8 @@ msgstr "Planification/Collaboration"
 
 #. type: Plain text
 #: keydocs.en.adoc:113
-msgid "http://www.agilenutshell.com/[Agile^]"
-msgstr "http://www.agilenutshell.com/[Agile^]"
+msgid "https://softailed.com/blog/benefits-of-agile-methodology[Agile methodology^]"
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:114
