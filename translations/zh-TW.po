@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2025-02-05 13:28+0000\n"
-"PO-Revision-Date: 2025-02-19 09:38\n"
+"POT-Creation-Date: 2025-04-02 13:59+0000\n"
+"PO-Revision-Date: 2025-04-02 14:12\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -3538,10 +3538,7 @@ msgstr "使用下載的資料集，製作一個試算表作為擴展資料結構
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
-#: use-case-lepidoptera-sampling.en.adoc:133
 #: use-case-lepidoptera-sampling.en.adoc:146
-#: use-case-birds-from-literature.en.adoc:134
-#: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
 msgstr "使用練習表提供你的答案並繳交試算表。"
 
@@ -3852,6 +3849,12 @@ msgstr "你會使用什麼資料結構來呈現這些紀錄中的資料？"
 #: use-case-lepidoptera-sampling.en.adoc:132
 msgid "Create a spreadsheet using this structure and the data from the logs."
 msgstr "請使用此結構和紀錄中的資料建立試算表。"
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:133
+#: use-case-birds-from-literature.en.adoc:134
+msgid "Use the exercise sheet to provide your answers and submit the spreadsheet created in the previous step."
+msgstr ""
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:141
@@ -4190,6 +4193,11 @@ msgstr "使用現有資料增加任何可推導的缺失元素"
 #: use-case-birds-from-literature.en.adoc:158
 msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
 msgstr "請記得保留原始提供的資訊，並將你的更改和假設紀錄個別記錄為詮釋資料的一部分。"
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:159
+msgid "Use the exercise sheet to provide your answers and submit the cleaned text file extracted from the step 1."
+msgstr ""
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:161
@@ -4698,8 +4706,8 @@ msgstr "規劃／協作"
 
 #. type: Plain text
 #: keydocs.en.adoc:113
-msgid "http://www.agilenutshell.com/[Agile^]"
-msgstr "http://www.agilenutshell.com/[Agile^]"
+msgid "https://softailed.com/blog/benefits-of-agile-methodology[Agile methodology^]"
+msgstr ""
 
 #. type: Plain text
 #: keydocs.en.adoc:114
