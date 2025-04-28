@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-04-28 08:45\n"
+"PO-Revision-Date: 2025-04-28 11:19\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -5562,7 +5562,7 @@ msgstr "資料擷取與審查解決方案"
 #: solutions.en.adoc:143
 #, no-wrap
 msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
-msgstr "針對魚類學（ichthyology）典藏資料，你會選擇哪種類型的資料集（dataset type）？"
+msgstr "*針對魚類學（ichthyology）典藏資料，你會選擇哪種類型的資料集（dataset type）？*"
 
 #. type: Plain text
 #: solutions.en.adoc:148
@@ -5584,7 +5584,7 @@ msgstr "物種名錄\n"
 #: solutions.en.adoc:152
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a list of invasive species?*\n"
-msgstr "針對外來入侵種（invasive species）名錄，你會選擇哪種類型的資料集？"
+msgstr "*針對外來入侵種（invasive species）名錄，你會選擇哪種類型的資料集？*"
 
 #. type: Plain text
 #: solutions.en.adoc:155
@@ -5607,219 +5607,231 @@ msgstr "物種名錄\n"
 #: solutions.en.adoc:159
 #, no-wrap
 msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
-msgstr "針對環境影響評估（environmental impact study）中的植物與動物資料，你會選擇哪種類型的資料集？"
+msgstr "*針對環境影響評估（environmental impact study）中的植物與動物資料，你會選擇哪種類型的資料集？*"
 
 #. type: Plain text
 #: solutions.en.adoc:162
 #, no-wrap
 msgid "occurrence\n"
 "Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
-msgstr ""
+msgstr "出現紀錄\n"
+"自然觀察者於野外記錄的資料，可作為簡單的出現紀錄資料集進行分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:164
 #, no-wrap
 msgid "sampling event\n"
 "They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr ""
+msgstr "採樣事件\n"
+"若資料是依據標準化調查方法（如：植群樣區、樣線調查、陷阱設置等）所採集，亦可作為事件資料集分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:166
 #, no-wrap
 msgid "*What dataset type(s) would you choose for bird tracking data?*\n"
-msgstr ""
+msgstr "*針對鳥類追蹤資料，你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:169
 #, no-wrap
 msgid "occurrence\n"
 "These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
-msgstr ""
+msgstr "出現紀錄\n"
+"這類資料通常以出現紀錄資料集進行分享：理想情況下，每隻鳥個體應有專屬的生物 ID（organismID），而每一次出現紀錄（GPS 定位點）則有各自的出現 ID（occurrenceID），這有助於在追蹤計畫或專案期間，追蹤同一隻鳥在不同時間點的 GPS 位置。（參考範例：https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f）"
 
 #. type: Plain text
 #: solutions.en.adoc:171
 #, no-wrap
 msgid "*What dataset type(s) would you choose for insect trap data?*\n"
-msgstr ""
+msgstr "*針對昆蟲誘捕資料，你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:174
 #, no-wrap
 msgid "occurrence\n"
 "Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
-msgstr ""
+msgstr "出現紀錄\n"
+"雖然這類資料可以作為簡單的出現紀錄資料集分享，但如果能以事件資料集方式分享，將能更詳細地記錄每個陷阱的位置、識別資訊及其內容，效果會更好。"
 
 #. type: Plain text
 #: solutions.en.adoc:178
 #, no-wrap
 msgid "sampling event\n"
 "Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap. The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr ""
+msgstr "採樣事件\n"
+"昆蟲誘捕器（以及其他類型的陷阱，如：陷阱坑、誘蟲網等）通常用於監測計畫中，以確認特定物種的出現（或缺席）情況及其豐富度。使用「eventID」欄位來標識每個陷阱，使用者即可取得該陷阱內所有收集到的標本資料。同樣的邏輯也適用於其他田野調查方法，如：樣線（transects）、樣區（plots）、遠端攝影機（remote cameras）等：若使用事件核心（Event Core）而非出現紀錄核心（Occurrence Core），將能分享更多關於資料採集背景的資訊，幫助使用者更好理解，甚至能夠複製你的調查方法。"
 
 #. type: Plain text
 #: solutions.en.adoc:180
 #, no-wrap
 msgid "*What dataset type(s) would you choose for national park management data?*\n"
-msgstr ""
+msgstr "*針對國家公園管理資料，你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:183
 #, no-wrap
 msgid "occurrence\n"
 "record individuals of species"
-msgstr ""
+msgstr "出現紀錄\n"
+"記錄物種個體的存在情形。"
 
 #. type: Plain text
 #: solutions.en.adoc:185
 #, no-wrap
 msgid "checklist\n"
 "It is important to know how many species are present in the park/reserve perimeter and their conservation status."
-msgstr ""
+msgstr "物種名錄\n"
+"了解公園或保護區範圍內現有物種數量及其保育狀態是很重要的。"
 
 #. type: Plain text
 #: solutions.en.adoc:187
 #, no-wrap
 msgid "sampling event\n"
 "check and track the populations"
-msgstr ""
+msgstr "採樣事件\n"
+"檢查與追蹤物種族群變化。\n\n"
 
 #. type: Plain text
 #: solutions.en.adoc:189
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a citizen science bioblitz?*\n"
-msgstr ""
+msgstr "*針對公民科學生物大調查（citizen science bioblitz），你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:192
 #, no-wrap
 msgid "occurrence\n"
 "Bioblitz datasets are mainly shared as occurrence datasets."
-msgstr ""
+msgstr "出現紀錄\n"
+"生物大調查（bioblitz）資料集通常以出現紀錄資料集的形式分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:194
 #, no-wrap
 msgid "sampling event\n"
 "Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
-msgstr ""
+msgstr "採樣事件\n"
+"視公民科學計畫的設計而定，若志工在調查過程中使用了特定的標準化採樣方法，則資料也可以作為事件資料集分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:196
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a regional species list?*\n"
-msgstr ""
+msgstr "*針對地區性物種名錄（regional species list），你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:200
 #, no-wrap
 msgid "checklist\n"
 "Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
-msgstr ""
+msgstr "物種名錄\n"
+"地理或主題性物種名錄通常用來分享某一特定區域內存在的物種資訊；大多數情況下，這些名錄也會提及每個物種在該地區的分布情形及其保育狀態。\n"
+"地區性物種名錄可以提供對該區域生物多樣性與棲地的實用洞察，應作為分類學資料集進行分享，可選擇是否同時附上出現紀錄資料。"
 
 #. type: Title ===
 #: solutions.en.adoc:201
 #, no-wrap
 msgid "Data management review solutions"
-msgstr ""
+msgstr "資料管理與審查解決方案"
 
 #. type: Plain text
 #: solutions.en.adoc:204
 #, no-wrap
 msgid "*Why is it best to clean your data?*\n"
-msgstr ""
+msgstr "*為什麼要清理資料？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:206
 msgid "to make them as fit for use as possible"
-msgstr ""
+msgstr "使資料盡可能適合使用"
 
 #. type: Plain text
 #: solutions.en.adoc:207
 msgid "to achieve your data quality goals"
-msgstr ""
+msgstr "達成你的資料品質目標"
 
 #. type: Plain text
 #: solutions.en.adoc:210
 msgid "You should always aim to manage and publish data with the highest possible quality.  This will improve your day-to-day work (it is easier to work with organized and clean data), as well as the work of potential re-users of your data, who need to understand them and trust their source before using them."
-msgstr ""
+msgstr "你應該始終以管理並發布最高品質的資料為目標。這不僅會提升你的日常工作效率（有條理、乾淨的資料更易於操作），也會幫助未來可能重用這些資料的使用者，讓他們在使用資料前，能夠理解資料內容並信任資料來源。"
 
 #. type: Plain text
 #: solutions.en.adoc:212
 #, no-wrap
 msgid "*How should you organize your data cleaning workflow?*\n"
-msgstr ""
+msgstr "*你該如何規劃資料清理工作流程？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:214
 msgid "ask your colleagues for expertise"
-msgstr ""
+msgstr "向同事請教專業意見"
 
 #. type: Plain text
 #: solutions.en.adoc:215
 msgid "work at an institutional level to harmonize data quality workflows"
-msgstr ""
+msgstr "於機構層級協作以統一資料品質工作流程"
 
 #. type: Plain text
 #: solutions.en.adoc:217
 msgid "Nobody is expected to know everything about biodiversity data; you should seek help and advice from your colleagues or other knowledgeable people, and ensure that you're applying the good practices recommended by your institution as you clean your data."
-msgstr ""
+msgstr "沒有人能夠掌握所有關於生物多樣性資料的知識；因此，你應該主動向同事或其他具專業知識的人士尋求協助與建議，並在清理資料時，確保遵循機構建議的良好做法。"
 
 #. type: Plain text
 #: solutions.en.adoc:219
 #, no-wrap
 msgid "*Which is best:*\n"
-msgstr ""
+msgstr "*哪一種做法最好？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:221
 msgid "prevent errors from occurring"
-msgstr ""
+msgstr "在錯誤發生前預防"
 
 #. type: Plain text
 #: solutions.en.adoc:222
 msgid "correct errors as soon as you find them in your database or spreadsheet"
-msgstr ""
+msgstr "在資料庫或試算表中發現錯誤時立即修正"
 
 #. type: Plain text
 #: solutions.en.adoc:224
 msgid "The best way to avoid spreading errors in your data is to prevent them from occurring at the start of the data collecting/recording process."
-msgstr ""
+msgstr "避免錯誤擴散到資料中的最佳方式，就是從資料蒐集／記錄的最初階段就預防錯誤的發生。"
 
 #. type: Plain text
 #: solutions.en.adoc:226
 msgid "Of course, mistakes are unavoidable so you should also clean them as soon as you find them, and document the cleaning process."
-msgstr ""
+msgstr "當然，錯誤是難以完全避免的，因此你也應該在發現錯誤時立即清理，並且記錄清理過程。"
 
 #. type: Plain text
 #: solutions.en.adoc:228
 msgid "If you don't have the time or resources to properly clean your data, it is best to wait before you can do so instead of publishing erroneous data that might confuse people."
-msgstr ""
+msgstr "如果你暫時沒有時間或資源正確清理資料，那麼應該延後發布，而非發布可能造成混淆的錯誤資料。"
 
 #. type: Plain text
 #: solutions.en.adoc:230
 #, no-wrap
 msgid "*Whose responsibility is data quality?*\n"
-msgstr ""
+msgstr "*資料品質是誰的責任？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:232
 msgid "Everyone involved in the management of data"
-msgstr ""
+msgstr "所有參與資料管理的人"
 
 #. type: Plain text
 #: solutions.en.adoc:234
 msgid "Every person involved in your data management workflow is at least partly responsible for their quality, from the field technicians to the database manager(s)."
-msgstr ""
+msgstr "在資料管理流程中，每一位參與者，從田野技術員到資料庫管理員，都對資料品質負有部分責任。"
 
 #. type: Plain text
 #: solutions.en.adoc:236
 msgid "People who might later use your data can inform you of any remaining error in your data, and should use them responsibly for their own research, but the initial data quality is not their responsibility."
-msgstr ""
+msgstr "未來可能使用你的資料的人，可以協助指出資料中尚存的錯誤，並應該在自身研究中負責任地使用資料；但初步資料品質的確保，並不是使用者的責任。"
 
 #. type: Plain text
 #: solutions.en.adoc:238
 msgid "GBIF can perform automatic checks on your data (e.g. detection of missing values, geographic outliers, unknown scientific names) but should not be held responsible for errors that occurred earlier in the data management process."
-msgstr ""
+msgstr "GBIF 可以對你的資料進行自動檢查（如：偵測缺失值、地理異常值、未知學名等），但不應被視為早期資料管理過程中錯誤的負責單位。"
 
 #. type: Plain text
 #: solutions.en.adoc:240
@@ -5830,34 +5842,35 @@ msgstr "*下列哪些工具可以用來清理你的資料？*\n"
 #. type: Plain text
 #: solutions.en.adoc:242
 msgid "Excel & other spreadsheets management tools"
-msgstr ""
+msgstr "可以用來管理 Excel 及其他試算表的工具"
 
 #. type: Plain text
 #: solutions.en.adoc:244
 msgid "Your database software"
-msgstr ""
+msgstr "你的資料庫軟體"
 
 #. type: Plain text
 #: solutions.en.adoc:245
 msgid "Online tools such as Scientific Names Resolver or Google Maps"
-msgstr ""
+msgstr "線上工具，如：Scientific Names Resolver、Google Maps"
 
 #. type: Plain text
 #: solutions.en.adoc:247
 msgid "All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful-tools,helpful tools>> listed in the data management section."
-msgstr ""
+msgstr "各種工具都可以協助資料清理，不過你應該根據自己的需求選擇適合的工具，例如：分類學名稱解析（taxonomic resolving）、地理定位（georeferencing）、刪除重複值（deleting duplicates）等等。\n"
+"你可以在資料管理章節中找到【實用工具（helpful tools）】的相關資訊。"
 
 #. type: Title ===
 #: solutions.en.adoc:248
 #, no-wrap
 msgid "Data publishing review solutions"
-msgstr ""
+msgstr "資料發布與審查解決方案"
 
 #. type: Plain text
 #: solutions.en.adoc:251
 #, no-wrap
 msgid "*What does data publishing mean in the context of GBIF?*\n"
-msgstr ""
+msgstr "*在 GBIF 的脈絡下，什麼是資料發布（data publishing）？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:253
@@ -6487,7 +6500,8 @@ msgstr "// Slide 11\n"
 #, no-wrap
 msgid "Spatial information can be found in numerous formats, not only geographic coordinates: examples include (but are not limited to) grid data, point+radius, or polygons.\n"
 "Each of them is useful to share in order to check the consistency of the geographical elements (eg coordinates vs country code, or to ensure a given locality is consistent with a collector’s travels)\n"
-msgstr ""
+msgstr "空間資訊（spatial information）可以存在於多種格式中，不僅限於地理座標（geographic coordinates）；舉例來說，包括但不限於網格資料（grid data）、點加半徑（point+radius）、或多邊形（polygons）等。\n"
+"分享這些資訊有助於檢查地理元素的一致性，例如：座標與國家代碼（country code）是否相符，或是確認某一地點是否符合採集者的旅行路徑。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:67 scripts/data-management.en.txt:124
@@ -6503,7 +6517,8 @@ msgstr "// Slide 12\n"
 #, no-wrap
 msgid "Within GBIF, it is recommended to share the geodetic Datum that was used to derive the coordinates (decimal latitude and longitude) shared.\n"
 "In the absence of a specific geodetic datum, GBIF will infer WGS84 as default.\n"
-msgstr ""
+msgstr "在 GBIF 的資料分享建議中，應一併提供產生座標（小數緯度與經度，decimal latitude and longitude）時所使用的地理基準（geodetic datum）。\n"
+"若未特別標註地理基準，GBIF 將預設推論為 WGS84。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:72 scripts/data-types.en.txt:69
@@ -6520,7 +6535,8 @@ msgstr "// Slide 13\n"
 msgid "This slide shows an old GBIF map with different types of geographical issues: the most obvious one is a mirror effect between the USA and China (reversed coordinates), and you can also notice an artificial line along the Greenwich meridian where ‘0’ values were put in the ‘decimalLongitude’ field, as well as another one on the Equator where ‘0’ values were put in the ‘decimalLatitude’ field.\n"
 "GBIF indexing now includes automatic geographical checks between the coordinates and countryCode shared within the dataset.\n"
 "Coordinates can be automatically reversed to match the country. \n"
-msgstr ""
+msgstr "這張投影片展示了一張舊版 GBIF 地圖，其中標示了不同類型的地理錯誤。最明顯的是美國與中國之間出現鏡像效應（座標反轉）；你也可以注意到格林威治子午線（Greenwich meridian）上出現了一條人為線條，這是因為在「decimalLongitude」欄位中出現了「0」值；赤道（Equator）上也出現另一條線，因為「decimalLatitude」欄位中出現了「0」值。\n"
+"目前 GBIF 的索引系統已內建自動地理檢查功能，會比對資料集內分享的座標與國家代碼（countryCode），並可自動反轉座標以符合所屬國家。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:78 scripts/data-types.en.txt:74
@@ -6536,7 +6552,8 @@ msgstr "// Slide 14\n"
 #, no-wrap
 msgid "Information about the context of the data collection or observation are very useful to share in order to give as much detail as possible regarding each occurrence.\n"
 "Information such as the collector name, collection or observation protocol, habitat and other factors can prove to be important when reusing data for example with ecological niche modelling.\n"
-msgstr ""
+msgstr "關於資料採集或觀察背景的資訊，也非常值得分享，以提供每筆出現紀錄更多細節。\n"
+"例如：採集者姓名（collector name）、採集或觀察方法（collection or observation protocol）、棲地（habitat）及其他相關因子等，這些資訊在後續資料重用，例如：生態棲位建模（ecological niche modelling）時，可能會成為非常重要的參考依據。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:86
