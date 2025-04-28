@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-04-25 06:20\n"
+"PO-Revision-Date: 2025-04-28 08:45\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -5556,53 +5556,58 @@ msgstr "提高公眾認知－否，這是一個隱含目標。"
 #: solutions.en.adoc:140
 #, no-wrap
 msgid "Data capture review solutions"
-msgstr ""
+msgstr "資料擷取與審查解決方案"
 
 #. type: Plain text
 #: solutions.en.adoc:143
 #, no-wrap
 msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
-msgstr ""
+msgstr "針對魚類學（ichthyology）典藏資料，你會選擇哪種類型的資料集（dataset type）？"
 
 #. type: Plain text
 #: solutions.en.adoc:148
 #, no-wrap
 msgid "occurrence\n"
 "Most of the time, specimens from collection databases are shared as occurrence data. Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc. Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID.  "
-msgstr ""
+msgstr "出現紀錄\n"
+"在多數情況下，典藏資料庫中的標本資料會以「出現紀錄資料（occurrence data）」的形式進行分享。每筆出現紀錄（無論是單一標本或標本群）都有其專屬的唯一識別碼（有時是根據來源典藏庫的編目號碼衍生而來），而用於在 GBIF 上分享這些資料的達爾文核心集（Darwin Core）欄位則記錄了每筆標本的資訊，例如：學名、採集日期、採集人員和或鑑定人員、採集地點等。一個典藏庫中可以有多筆來自同一物種的標本，只要每個標本都有各自唯一的識別碼即可。"
 
 #. type: Plain text
 #: solutions.en.adoc:150
 #, no-wrap
 msgid "checklist\n"
 "It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr ""
+msgstr "物種名錄\n"
+"也可以從典藏資料庫建立並分享一份分類學名錄（taxonomical checklist）。在這種情況下，建議將名錄作為分類學資料集（taxonomical dataset）進行分享，並透過在 GBIF IPT 上使用「出現紀錄核心（Occurrence Core）」作為「分類單元核心（Taxon Core）」的延伸，將出現紀錄（標本）與分類單元加以關聯。"
 
 #. type: Plain text
 #: solutions.en.adoc:152
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a list of invasive species?*\n"
-msgstr ""
+msgstr "針對外來入侵種（invasive species）名錄，你會選擇哪種類型的資料集？"
 
 #. type: Plain text
 #: solutions.en.adoc:155
 #, no-wrap
 msgid "occurrence\n"
 "Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
-msgstr ""
+msgstr "出現紀錄\n"
+"部分資料發布者會分享來自特定研究或監測計畫中針對某些特定外來入侵種標本的出現紀錄資料集；當資料重點放在個體標本而非整體物種時，通常會以出現紀錄的形式進行分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:157
 #, no-wrap
 msgid "checklist\n"
 "Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr ""
+msgstr "物種名錄\n"
+"外來入侵種可以在不同尺度（如：地區、國家或主題）進行追蹤與監測。由於此類資料集更著重於物種及其在特定地理範圍內的分布情形，因此主要以分類學資料集（taxonomical dataset）的形式，在 GBIF 平台上分享。\n"
+"（參考 GRIIS 搜尋結果：https://www.gbif.org/dataset/search?project_id=GRIIS）"
 
 #. type: Plain text
 #: solutions.en.adoc:159
 #, no-wrap
 msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
-msgstr ""
+msgstr "針對環境影響評估（environmental impact study）中的植物與動物資料，你會選擇哪種類型的資料集？"
 
 #. type: Plain text
 #: solutions.en.adoc:162
