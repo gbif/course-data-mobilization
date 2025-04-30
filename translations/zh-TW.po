@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-04-28 11:19\n"
+"PO-Revision-Date: 2025-04-30 09:37\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -5875,70 +5875,70 @@ msgstr "*在 GBIF 的脈絡下，什麼是資料發布（data publishing）？*\
 #. type: Plain text
 #: solutions.en.adoc:253
 msgid "Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format"
-msgstr ""
+msgstr "讓你的生物多樣性資料集（dataset）以標準化格式公開被取用與搜索"
 
 #. type: Plain text
 #: solutions.en.adoc:255
 msgid "Data publishing within GBIF means making your biodiversity dataset(s) publicly accessible in a standardized format (most of the time, Darwin Core), so that it can be discovered and reused by other people."
-msgstr ""
+msgstr "在 GBIF 中進行資料發布，意指將你的生物多樣性資料集以標準化格式（大多為達爾文核心集（Darwin Core））公開上傳，使其能被他人搜索與重複利用。"
 
 #. type: Plain text
 #: solutions.en.adoc:257
 #, no-wrap
 msgid "*What is an IPT?*\n"
-msgstr ""
+msgstr "什麼是整合發布工具包（IPT，Integrated Publishing Toolkit）？\n"
 
 #. type: Plain text
 #: solutions.en.adoc:259
 msgid "a tool that helps you publish your data to GBIF"
-msgstr ""
+msgstr "一個協助你將資料發布至 GBIF 的工具"
 
 #. type: Plain text
 #: solutions.en.adoc:260
 msgid "a tool that helps you produce a Data paper"
-msgstr ""
+msgstr "一個協助你撰寫資料論文的工具"
 
 #. type: Plain text
 #: solutions.en.adoc:263
 msgid "The IPT (Integrated Publishing Toolkit) is a Java-coded software that allows you to upload and publish data to GBIF.  It is not to be used as a data management or data cleaning tool."
-msgstr ""
+msgstr "整合發布工具包（IPT，Integrated Publishing Toolkit）是一套以 Java 編寫的軟體，用來將你的資料上傳並發布至 GBIF。它不是資料管理或資料清理的工具，請勿將其誤用於資料品質處理用途。"
 
 #. type: Plain text
 #: solutions.en.adoc:265
 msgid "The IPT can also help you with the process of writing and submitting a data paper, thanks to the EML file it generates automatically when you fill in the metadata for your data resource."
-msgstr ""
+msgstr "IPT 也能協助你撰寫與提交資料論文，因為在填寫資料資源的中繼資料時，它會自動產生一份生態詮釋資料語言（EML，Ecological Metadata Language）檔案，可直接用於論文撰寫程序。"
 
 #. type: Plain text
 #: solutions.en.adoc:267
 #, no-wrap
 msgid "*Which Creative Commons licences and waivers are recommended by GBIF for data publication?*\n"
-msgstr ""
+msgstr "*GBIF 建議用於資料發布的創用 CC（Creative Commons）授權條款有哪些？*"
 
 #. type: Plain text
 #: solutions.en.adoc:269
 msgid "CC0, CC-BY and CC-BY-NC"
-msgstr ""
+msgstr "CC0、CC-BY、CC-BY-NC"
 
 #. type: Plain text
 #: solutions.en.adoc:272
 msgid "The Creative Commons licences and waivers recommended to publish your dataset(s) to GBIF are CC0, CC-BY and CC-BY-NC.  They are widely recognized licenses and/or waivers that align with international open-data requirements for data sharing and re-use."
-msgstr ""
+msgstr "GBIF 建議你在發布資料集時，使用以下三種創用 CC（Creative Commons）授權或棄權條款：CC0、CC-BY 以及 CC-BY-NC。這些條款都是國際廣泛認可的開放資料授權方式，符合資料共享與重複使用的國際標準。"
 
 #. type: Plain text
 #: solutions.en.adoc:274
 msgid "Please note that you should only choose CC0 or CC-BY waiver/license for your BID-related dataset(s)."
-msgstr ""
+msgstr "請注意：若你所發布的資料集屬於生物多樣性相關資料集（BID-related dataset），則只能選擇 CC0 或 CC-BY 這兩種授權條款。"
 
 #. type: Plain text
 #: solutions.en.adoc:276
 #, no-wrap
 msgid "*What are the three Cores from which you can choose for an IPT resource?*\n"
-msgstr ""
+msgstr "*在 IPT 資源中，你可以選擇哪三種核心之一？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:278
 msgid "Occurrence Core, Taxon Core, Event Core"
-msgstr ""
+msgstr "出現紀錄核心（Occurrence Core）、分類單元核心（Taxon Core）、事件核心（Event Core）"
 
 #. type: Plain text
 #: solutions.en.adoc:280
