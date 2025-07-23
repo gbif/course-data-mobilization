@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-04-30 11:04\n"
+"PO-Revision-Date: 2025-07-23 09:15\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -5948,39 +5948,39 @@ msgstr "你可以為每一筆 IPT 資源選擇下列三種核心之一作為主�
 #. type: Plain text
 #: solutions.en.adoc:282
 msgid "The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact."
-msgstr ""
+msgstr "Darwin Core 標準也允許你將延伸項目連結至你所選擇的核心，例如：簡易多媒體（SimpleMultimedia）或 測量或事實（MeasurementOrFact）等。"
 
 #. type: Plain text
 #: solutions.en.adoc:284
 msgid "The metadata are filled in a separate section of the IPT and are shared using the EML standard, not the Darwin Core (which is used for data only)."
-msgstr ""
+msgstr "中繼資料則是在 IPT 中的另一個區段填寫，並以 EML（Ecological Metadata Language）標準進行分享，而非使用 Darwin Core（Darwin Core 僅用於資料本體的格式化欄位）。"
 
 #. type: Plain text
 #: solutions.en.adoc:286
 #, no-wrap
 msgid "*How many Extensions files can a dataset have?*\n"
-msgstr ""
+msgstr "一個資料集可以有幾個延伸項目檔案？\n"
 
 #. type: Plain text
 #: solutions.en.adoc:288
 msgid "as many as needed"
-msgstr ""
+msgstr "視需求可加入任意數量"
 
 #. type: Plain text
 #: solutions.en.adoc:291
 msgid "Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it.  You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it."
-msgstr ""
+msgstr "當你為 IPT 資源選定主核心之後，即可加入一個或多個 Darwin Core 延伸項目。你可以根據所選核心的類型與可相容的延伸，加入相對應的欄位。"
 
 #. type: Plain text
 #: solutions.en.adoc:293
 msgid "Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core."
-msgstr ""
+msgstr "延伸項目的加入是可選擇的（你可以發布一個完全不包含延伸的資料集），但當你想要分享無法在核心欄位中對應的額外資訊時，延伸會非常有幫助。"
 
 #. type: Title ===
 #: solutions.en.adoc:294
 #, no-wrap
 msgid "Use Case I suggested solution"
-msgstr ""
+msgstr "使用案例 I 建議解方"
 
 #. type: Plain text
 #: solutions.en.adoc:296
@@ -5991,23 +5991,23 @@ msgstr "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested so
 #: acknowledgements.en.adoc:2
 #, no-wrap
 msgid "Acknowledgements "
-msgstr ""
+msgstr "致謝 "
 
 #. type: Title ===
 #: acknowledgements.en.adoc:4
 #, no-wrap
 msgid "Course design and instruction"
-msgstr ""
+msgstr "課程設計與授課團隊"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:8
 msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
-msgstr ""
+msgstr "本課程之成功，有賴於 GBIF 能力培育導師網絡對學員的全力支持。歡迎造訪 GBIF 官方網頁：https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] 進一步了解這些導師與他們的重要貢獻。"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:10
 msgid "The following individuals are recognized for their significant contributions to the course design, materials and instruction:"
-msgstr ""
+msgstr "以下人員對於本課程的設計、教材編製與教學執行，貢獻卓著，特此致謝："
 
 #. type: Plain text
 #: acknowledgements.en.adoc:12
@@ -6078,7 +6078,7 @@ msgstr "Paula Zermoglio"
 #: acknowledgements.en.adoc:26
 #, no-wrap
 msgid "*Originators of the curriculum\n"
-msgstr ""
+msgstr "*課程原始設計者\n"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:28
