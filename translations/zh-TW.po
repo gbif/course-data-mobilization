@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-07-23 09:15\n"
+"PO-Revision-Date: 2025-07-23 11:31\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -6083,7 +6083,7 @@ msgstr "*課程原始設計者\n"
 #. type: Plain text
 #: acknowledgements.en.adoc:28
 msgid "Special acknowledgement to Arthur Chapman for the reuse of his materials on Data Quality."
-msgstr ""
+msgstr "特別感謝 Arthur Chapman，允許我們重製並使用其「資料品質」相關教材內容。"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:29
@@ -6193,12 +6193,13 @@ msgstr "William Ulate"
 #: acknowledgements.en.adoc:54
 #, no-wrap
 msgid "Resources"
-msgstr ""
+msgstr "資源來源"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:57
 msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
-msgstr ""
+msgstr "本課程所使用之線上桌遊平台由https://playingcards.io/[PlayingCards.io^] 提供。\n"
+"特別感謝 Jwalant Patel 與 Eric Ma 協助平台搜尋與建立，以及 Kate Webbink 提供的藝術設計支援。"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:58
@@ -6219,7 +6220,7 @@ msgstr "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
 #: acknowledgements.en.adoc:61
 #, no-wrap
 msgid "Resource support"
-msgstr ""
+msgstr "資源支援"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:64
@@ -6260,46 +6261,47 @@ msgstr "http://vertnet.org/[VertNet^]"
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "版本標註"
 
 #. type: Title ===
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "建議引用格式"
 
 #. type: Plain text
 #: colophon.en.adoc:6
 msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
-msgstr ""
+msgstr "GBIF 秘書處（2021）《GBIF 生物多樣性資料動員課程》第十二版。GBIF 秘書處：哥本哈根。\n"
+"https://doi.org/10.35035/ce-c6cr-6w42。［課程使用日期註記］"
 
 #. type: Title ===
 #: colophon.en.adoc:7
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "貢獻者"
 
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
-msgstr ""
+msgstr "《GBIF 生物多樣性資料動員課程》最初由 https://www.gbif.org/bid[Biodiversity Information Development^], 計畫所開發，該計畫由 https://europa.eu[European Union^] 提供資金支持。本課程原始課綱由 Nestor Beltran、Sharon Grant、Nicolas Nóe、Sophie Pamerlon、Alberto González-Talaván、Mélianie Raymond、Laura Anne Russell 與 Katia Cezón 撰寫，並由 GBIF 訓練師、導師與學員提供進一步補充與貢獻。"
 
 #. type: Title ===
 #: colophon.en.adoc:11
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "授權條款"
 
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "_GBIF Biodiversity Data Mobilization Course_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr ""
+msgstr "《Gbif 生物多樣性資料動員課程》採用 https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License] 授權。"
 
 #. type: Title ===
 #: colophon.en.adoc:15
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "永久識別網址"
 
 #. type: Plain text
 #: colophon.en.adoc:18
@@ -6310,12 +6312,12 @@ msgstr "https://doi.org/10.35035/ce-c6cr-6w42"
 #: colophon.en.adoc:19
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "文件版本紀錄"
 
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "12th edition, May 2021"
-msgstr ""
+msgstr "第十二版，2021 年 5 月"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:2 scripts/data-management.en.txt:2
@@ -6332,7 +6334,7 @@ msgstr "// Slide 1\n"
 #: scripts/data-capture.en.txt:4
 #, no-wrap
 msgid "This presentation is based on “Principles for data quality” by Arthur Chapman\n"
-msgstr ""
+msgstr "本簡報內容以 Arthur Chapman 所撰之《資料品質原則（Principles for data quality）》為基礎\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:6 scripts/data-management.en.txt:6
@@ -6349,7 +6351,7 @@ msgstr "// Slide 2\n"
 #: scripts/data-capture.en.txt:8
 #, no-wrap
 msgid "During this presentation, we will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.\n"
-msgstr ""
+msgstr "在這場簡報中，我們將探討資料品質原則如何應用於資料擷取階段，特別是處理典藏標籤、田野筆記本、試算表等來源的資料時。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:10 scripts/data-management.en.txt:11
@@ -6369,7 +6371,8 @@ msgid "Data quality is essential at every step of the data mobilization process,
 "Each person involved in the data capture has a share of responsibility regarding the data quality, but most decisions on this topic quality have to be taken at the institutional level.\n"
 "The keywords here are: planning and documentation! \n"
 "As mentioned in the Foundations documentation presentation, use existing standards and plan your workflows to match your goals; document everything you can, at every step, and share or re-use documents, data, tools and standards as much as possible.\n"
-msgstr ""
+msgstr "資料品質在整個資料動員流程中的每一個階段都相當重要，尤其是在資料擷取步驟中。每一位參與資料擷取的人，對資料品質皆負有一定責任；然而，與資料品質相關的多數關鍵決策，應於機構層級進行規劃與制定。此處的兩個關鍵詞是：規劃與文件化！\n"
+"如同在「基礎概念簡報」中所提及，請善用既有標準、規劃資料工作流程以對應你的目標，並在每個階段記錄所有可以記錄的內容，儘可能分享或重複使用既有的文件、資料、工具與標準。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:17
@@ -6385,7 +6388,11 @@ msgid "This is an example of a data quality workflow.\n"
 "Data quality isn’t the sole responsibility of the first person in the process (here, the collector) -- it is shared at every step and every person in the process should have a responsibility for quality.\n"
 "A functioning feedback loop needs to be in place in order to check, complete, update or correct data.\n"
 "This is where documentation is essential: you need to know who was responsible for each step in the process in order to validate changes that have been made to the data (or need to be made to the data).\n"
-msgstr ""
+msgstr "這是一個資料品質工作流程（data quality workflow）的範例。\n"
+"在這個流程中，從標本採集開始，接著進入資料擷取、品質控制、資料發布，最後到資料使用。\n"
+"資料品質並不是由流程中最初的參與者（此處為採集者）單方面負責的，每一位參與者每個階段都承擔資料品質的責任，也都應對品質把關負起一定責任。\n"
+"為了能檢查、補充、更新或修正資料內容，必須建立一個可運作的回饋機制。\n"
+"這也是為什麼文件紀錄非常重要：你需要清楚知道每個流程步驟是誰負責的，才能在需要修改或已修改資料時，確保其變更是合理且可追溯的。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:25 scripts/data-management.en.txt:35
@@ -6403,7 +6410,9 @@ msgstr "// Slide 5\n"
 msgid "In this simplified view of the data flow, you can see some of the data quality responsibilities of each group of people involved.\n"
 "In this example, the team in charge of the mobilization can be split into the ‘transcribers’ and ‘curator’ roles.\n"
 "The transcribers team needs to ensure data is captured and saved as best as possible, while the ‘curator’ role has the ultimate responsibility for ensuring that each team is fulfilling their roles in the process.\n"
-msgstr ""
+msgstr "在這個簡化的資料流程圖中，你可以看到不同角色在資料品質上的責任分工。\n"
+"在此範例中，負責資料動員的團隊可分為兩個角色群組：資料謄錄者與策展人。\n"
+"謄錄團隊的任務是盡可能準確地擷取與儲存資料，而策展人則需負起最終責任，確保每個團隊在流程中都確實履行其職責。"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:31 scripts/data-management.en.txt:41
@@ -6423,7 +6432,10 @@ msgid "Once the data workflow is in place, the data capture itself can begin.\n"
 "In the following slides, we will explore the different types of information that can be captured from specimens or field observations, and see what are the most common mistakes that should be avoided when dealing with each kind of information.\n"
 "The main topics will be as follows: taxonomic information, spatial information, collection information, descriptive information.\n"
 "Please note that each occurrence (each row in your database or spreadsheet) should have information linked to these 4 main topics in order to be shared and reused accordingly.\n"
-msgstr ""
+msgstr "當資料工作流程建立完成後，資料擷取工作便可正式展開。\n"
+"在接下來的簡報中，我們將依序探討可從標本或田野觀察中擷取的各類資訊，並說明在處理這些資訊時常見的錯誤類型與應避免的做法。\n"
+"本單元將涵蓋以下四大主題：分類學資訊（taxonomic information）、空間資訊（spatial information）、採集資訊（collection information）、描述性資訊（descriptive information）。\n"
+"請注意：每一筆出現紀錄（也就是你在資料庫或試算表中的每一列），都應包含上述四類資訊的對應欄位，這樣資料才能被妥善地分享與重複使用。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:38
@@ -6437,7 +6449,9 @@ msgstr "// Slide 7 \n"
 msgid "Taxonomic information is an essential part of the data capture process.\n"
 "Without it, a digitized specimen is useless and cannot be properly interpreted or reused.\n"
 "Note that the species name is not the only type of taxonomic information that can be exploited in the data capture process: sometimes the specimen hasn’t been identified to the species, and higher taxonomic levels such as the genus or family are still useful for data managers and users.\n"
-msgstr ""
+msgstr "分類學資訊（Taxonomic information）是資料擷取流程中不可或缺的一部分。\n"
+"若缺乏分類學資訊，數位化後的標本將無法被正確詮釋或再利用，等同於失去其科學價值。\n"
+"需要注意的是，「物種名稱」並不是資料擷取過程中唯一可用的分類資訊來源。有時標本尚未鑑定至物種階層，此時提供較高階的分類單元（如屬或科）依然對資料管理者與使用者具有實質參考價值。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:44 scripts/data-management.en.txt:63
@@ -6453,7 +6467,9 @@ msgstr "// Slide 8\n"
 #, no-wrap
 msgid "Most of the time, the scientific name is the main way of retrieving data in a database, portal, website, browser… Any error in the spelling or authority can lead to wrong or null queries, thus impeding the management and potential reuse of the data.\n"
 "This is why it’s very important to check all categories of scientific names to fix errors and/or omissions.\n"
-msgstr ""
+msgstr "在大多數情況下，「學名（scientific name）」是使用者查詢資料庫、入口網站、網頁或瀏覽器的主要依據。\n"
+"因此，若在學名拼寫或權威命名（authority）上出現錯誤，都可能導致查無資料或查詢錯誤，進而影響資料的管理與後續使用。\n"
+"這也是為什麼我們必須全面檢查所有類別的學名欄位，以便修正錯誤與補齊遺漏資訊。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:49 scripts/data-management.en.txt:73
@@ -6472,7 +6488,8 @@ msgid "The most common issues occurring with taxon information are missing or in
 "Always check the definitions and examples of taxonomic Darwin Core terms to avoid nomenclatural mistakes: http://rs.tdwg.org/dwc/terms/index.htm\n"
 " \n"
 "// Slide 10\n"
-msgstr ""
+msgstr "最常見的分類學資訊問題包括：資料缺漏或不一致、錯誤或非原子化的欄位值、重複資料和不確定性標註。\n"
+"為了避免命名錯誤，請務必查閱 Darwin Core 分類學欄位的定義與範例，以確保填寫正確無誤：http://rs.tdwg.org/dwc/terms/index.htm\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:60
