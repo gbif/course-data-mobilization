@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-07-23 11:31\n"
+"PO-Revision-Date: 2025-10-19 10:07\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -6499,7 +6499,11 @@ msgid "Geographic information proves to be valuable in a lot of data re-use cont
 "Coordinates should be recorded directly on the field when possible, along with the uncertainty and the geodetic datum used.\n"
 "Otherwise use relevant and verified sources to geolocate your data.\n"
 "You should note that coordinates or other geographic information can be generalized or not even shared at all in some contexts, such as with the conservation of sensitive species.\n"
-msgstr ""
+msgstr "地理資訊在許多資料再利用的情境中都極具價值，例如生態棲位模型或物種分布研究。\n"
+"雖然「舊有」典藏或標本往往難以、甚至無法精確定位其地理位置，但在可行的情況下，仍建議提供精確的座標或文字描述。\n\n"
+"若有現場採集的機會，應於野外直接記錄座標，並同時註明位置不確定性與所使用的大地基準。\n"
+"若無法直接記錄，則應使用可信且經驗證的資料來源來進行地理定位。\n\n"
+"需要注意的是，在某些情境下，例如保育敏感物種，座標或其他地理資訊可能必須模糊化處理，甚至不予公開，以避免對物種造成潛在風險。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:62 scripts/data-management.en.txt:97
@@ -6579,7 +6583,10 @@ msgid "// Slide 15\n"
 "Data quality factors regarding collection information are mainly along the lines of exactitude like the correct collector name, consistency for example using the same vocabulary for describing soils, habitats, and completeness as in providing all existing information about the description of a given species including the  flowering period, colour of the leaves, and medicinal uses.\n"
 "Within the Darwin Core and within the IPT you can find recommended controlled vocabularies for some fields such as the ‘lifeStage’.\n"
 "The TDWG vocabularies task group works to promote and make better the ease of use across vocabularies.\n"
-msgstr ""
+msgstr "投影片15\n"
+"收集資訊的資料品質要素主要包括準確性（如採集者姓名是否正確）、一致性（如在描述土壤與棲地時使用相同的詞彙）、以及完整性（如提供關於特定物種描述的所有現有資訊，包括花期、葉片顏色與藥用用途）。\n"
+"在達爾文核心標準與 IPT 中，可以找到針對部分欄位（例如：生命階段）所建議的控制詞彙。\n"
+"TDWG 詞彙工作小組致力於推廣並改進這些詞彙表的可用性，以促進跨詞彙系統的一致與使用。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:88 scripts/data-types.en.txt:83
@@ -6594,7 +6601,7 @@ msgstr "// Slide 16\n"
 #: scripts/data-capture.en.txt:90
 #, no-wrap
 msgid "Keep in mind that descriptive information are often incomplete due to a whole array of factors.\n"
-msgstr ""
+msgstr "請記住，描述性資訊往往因各種因素而不完整。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:92
