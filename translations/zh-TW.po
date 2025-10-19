@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-19 10:07\n"
+"PO-Revision-Date: 2025-10-19 11:08\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -6607,19 +6607,19 @@ msgstr "請記住，描述性資訊往往因各種因素而不完整。\n"
 #: scripts/data-capture.en.txt:92
 #, no-wrap
 msgid "Depending on the collection state, some labels can be incomplete or lacking crucial information; \n"
-msgstr ""
+msgstr "根據標本或資料的保存狀況，有些標籤可能不完整，或缺少關鍵資訊\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:94
 #, no-wrap
 msgid "Completeness (for example of a species description) is often impossible to achieve with a single individual; \n"
-msgstr ""
+msgstr "完整性（例如物種描述）往往無法僅依靠單一個體實現\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:96
 #, no-wrap
 msgid "and you should always check for consistency in your database or spreadsheet, for example in the terms used for describing colours, in order to avoid redundant information.\n"
-msgstr ""
+msgstr "此外，應隨時檢查資料庫或試算表中的一致性，例如在顏色描述所使用的詞彙上，以避免出現重複或多餘的資訊。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:98 scripts/data-types.en.txt:88
@@ -6636,7 +6636,9 @@ msgstr "// Slide 17\n"
 msgid "This presentation has focused on the topic of data quality applied to data capture; indeed, these are the steps where it is crucial to ensure that all information related to each record is correctly and completely captured, in order for the data to be as clear and understandable as possible for future users.\n"
 "This can only be done if consistent decisions are made at the institutional level in order to create a solid workflow for data capture and data management.\n"
 "The chain of responsibility regarding data quality is then split between the persons involved at each step of the process, but keep in mind that data can always be improved and fixed if errors or omissions are detected at later stages.\n"
-msgstr ""
+msgstr "本次演講重點探討了資料收集過程中的資料品質問題；事實上，在這些步驟中，確保與每筆記錄相關的所有資訊都得到正確、完整的採集至關重要，這樣才能確保資料對未來的使用者盡可能清晰易懂。\n\n"
+"只有在機構層級做出一致的決策，以創建可靠的資料收集和資料管理工作流程，才能做到這一點。\n\n"
+"資料品質的責任鏈隨後被分配給流程每個步驟的相關人員，但請記住，如果在後期階段檢測到錯誤或遺漏，資料總是可以改進和修復的。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:104 scripts/data-types.en.txt:92
@@ -6653,13 +6655,13 @@ msgstr "// Slide 18\n"
 #: scripts/publishing-concepts.en.txt:194 scripts/standards.en.txt:291
 #, no-wrap
 msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
-msgstr ""
+msgstr "如果對演講有任何疑問，請透過電子學習平台提供的討論區提出。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:108 scripts/data-types.en.txt:139
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
-msgstr ""
+msgstr "本影片屬於 GBIF 生物多樣性資料流通課程中一系列簡報的一部分。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:110 scripts/data-types.en.txt:141
