@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-19 14:14\n"
+"PO-Revision-Date: 2025-10-19 15:14\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -6686,31 +6686,32 @@ msgstr "在本次簡報中，我們將探討有效資料管理的重要原則和
 #, no-wrap
 msgid "The concept of data management includes a wide range of topics, from metadata formats to database organization.\n"
 "In this presentation we are going to discuss an important set of principles necessary to improve data through the processes of data cleaning.\n"
-msgstr ""
+msgstr "資料管理的概念涵蓋了從詮釋資料格式到資料庫組織等廣泛的主題。\n"
+"在此簡報中，我們將討論透過資料清理流程來改善資料所必需的一組重要原則。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:13
 #, no-wrap
 msgid "What is data cleaning?\n"
-msgstr ""
+msgstr "什麼是資料清理？\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:15
 #, no-wrap
 msgid "Data Cleaning was defined by Arthur Chapman in 2005 as:\n"
-msgstr ""
+msgstr "資料清理在 2005 年由 Arthur Chapman 定義為：\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:17
 #, no-wrap
 msgid "“A process used to determine inaccurate, incomplete, or unreasonable data and then improving the quality through correction of detected errors and omissions.”\n"
-msgstr ""
+msgstr "「一種用於辨別不正確、不完整或不合理資料的過程，並透過修正所發現的錯誤與遺漏來提升資料品質」。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:19
 #, no-wrap
 msgid "The process of cleaning might include checks on formatting, completeness and reasonableness, the identification of outliers, review by content experts, and validation against accepted standards, rules, and conventions.\n"
-msgstr ""
+msgstr "資料清理的過程可能包括格式檢查、完整性與合理性檢驗、離群值辨別、內容專家審查，以及依據公認標準、規則與慣例的驗證。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:21 scripts/data-types.en.txt:17
@@ -6726,49 +6727,49 @@ msgstr "// Slide 4\n"
 #: scripts/data-management.en.txt:23
 #, no-wrap
 msgid "Although there are many methods that can be applied while cleaning data, we view the process of cleaning in five general steps:\n"
-msgstr ""
+msgstr "雖然在資料清理過程中可應用多種方法，但我們將資料清理流程概括為五個主要步驟：\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:25
 #, no-wrap
 msgid "First, we seek to determine and define the types of errors that are most likely present in our data.\n"
-msgstr ""
+msgstr "首先，我們需要確定和定義我們的資料中最有可能存在的錯誤類型。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:27
 #, no-wrap
 msgid "Next, we conduct a search to identify the instances where those error have occurred.\n"
-msgstr ""
+msgstr "接下來，我們進行搜尋以找出這些錯誤實際發生的情形。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:29
 #, no-wrap
 msgid "Then, we will correct those errors, whenever possible.\n"
-msgstr ""
+msgstr "之後，我們會在可行的情況下修正這些錯誤。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:31
 #, no-wrap
 msgid "When we decide on the best means to make corrections, we want to document both the types of errors we find, as well as the solutions we have applied to them.\n"
-msgstr ""
+msgstr "當我們決定最佳的修正方法時，我們希望記錄我們發現的錯誤類型以及我們對它們應用的解決方案。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:33
 #, no-wrap
 msgid "Finally, we want to modify how data entry is practiced to reduce future errors of the same type. (Maletic & Marcus, 2000)\n"
-msgstr ""
+msgstr "最後，我們希望改進資料輸入的作業方式，以減少未來出現相同類型錯誤的機會。 （Maletic & Marcus，2000）\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:37
 #, no-wrap
 msgid "One thing is certain: Errors are common and we can always expect to find them in the data we maintain.\n"
-msgstr ""
+msgstr "有一點是確定的：錯誤很常見，我們總是會在我們維護的資料中發現它們。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:39
 #, no-wrap
 msgid "Our goal is to apply the best practices, including principles, processes, and tools, to make the data as fit for use as possible, even if we don’t know how data users will use the data.\n"
-msgstr ""
+msgstr "我們的目標是應用最佳實踐，包括原則、流程和工具，使資料盡可能適合使用，即使我們不知道資料使用者將如何使用資料。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:45
@@ -6776,25 +6777,27 @@ msgstr ""
 msgid "Let’s take a look at several of the recommended principles of data cleaning.\n"
 "These principles are presented for your consideration so that you can develop and improve upon your own data quality workflow.\n"
 "The workflow that you create should represent the most efficient and effective process to achieve the highest data quality given your institution’s resources and expertise.\n"
-msgstr ""
+msgstr "讓我們來看看幾項推薦的資料清理原則。\n"
+"這些原則旨在提供參考，協助你建立並持續改進自己的資料品質工作流程。\n"
+"你所設計的流程，應在機構可用的資源與專業能力範圍內，達成最高效且最有效的資料品質管理。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:47
 #, no-wrap
 msgid "Talk to your colleagues to learn about their workflows, but ultimately you should strive to create a workflow that will help you to achieve your data quality goals.\n"
-msgstr ""
+msgstr "與同事交流以了解他們的工作流程，但最終仍應致力於建立一套能協助你達成資料品質目標的流程。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:49
 #, no-wrap
 msgid "// Slide 7: Plan and Organize\n"
-msgstr ""
+msgstr "投影片7：規劃與組織\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:51
 #, no-wrap
 msgid "The first two principles in data cleaning are planning and organization.\n"
-msgstr ""
+msgstr "資料清理的前兩項原則是規劃與組織。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:56
@@ -6803,7 +6806,10 @@ msgid "Plan how you want the cleaning process to go.\n"
 "A scattered or random approach is not likely to produce consistent results.\n"
 "Develop and implement a strategy that fits with your institution’s resources and expertise.\n"
 "A solid plan will improve both your data and the reputation of your institution among data users.\n"
-msgstr ""
+msgstr "先規劃好資料清理的進行方式。\n"
+"零散或隨意的做法難以產生一致的結果。\n"
+"制定並實施符合你的機構資源和專業知識的策略。\n"
+"完善的計畫不僅能提升資料品質，亦能增進機構在資料使用者之間的聲譽。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:61
