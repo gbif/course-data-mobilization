@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-20 13:00\n"
+"PO-Revision-Date: 2025-10-20 13:56\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -6861,7 +6861,10 @@ msgid "Prioritize your cleaning to take advantage of the resources and knowledge
 "For example, you may choose to review all of the data recorded by collectors who are still alive so that important data is not lost later.\n"
 "If you maintain a large dataset you might choose to prioritize data that can be cleaned at the lowest cost using automated processes and then prioritize the more difficult errors that require individual attention.\n"
 "Ultimately, you should prioritize the data that is of the greatest value to the work of your institution and then move through the data in a logical and orderly manner.\n"
-msgstr ""
+msgstr "在進行資料清理時，應根據機構現有的資源與專業知識來設定優先順序。\n"
+"例如，你可以優先檢視由仍在世的採集者所記錄的資料，以避免重要資訊在日後遺失。\n"
+"若你管理的是大型資料集，則可以先處理能以自動化方式、低成本完成清理的部分，再將重點放在那些需要人工判斷與處理的複雜錯誤上。\n"
+"最後，你應優先處理對機構業務最具價值的資料，並以有條理、循序漸進的方式推進整體清理流程。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:84 scripts/data-types.en.txt:52
@@ -6879,26 +6882,30 @@ msgstr "// Slide 10\n"
 msgid "Some times it can be an effective strategy to set some measures of performance before the cleaning process begins.\n"
 "One performance measure might be to complete the cleaning of 500 records every week.\n"
 "Another measure might be to provide a statistical report of the accuracy of the corrections being made, such as:\n"
-msgstr ""
+msgstr "有時，在資料清理開始前設定績效指標，會是一項有效的策略。\n"
+"例如，可以設定每週完成 500 筆資料清理作業作為績效目標。\n"
+"另一種衡量方式則可透過統計報告呈現修正結果的準確度，例如：\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:90
 #, no-wrap
 msgid "“95% of all georeferences corrected this week now have an uncertainty in meters of less than 1000 meters.”\n"
-msgstr ""
+msgstr "「本週修正的地理參考資料中，有 95% 的不確定性已縮小至 1000 公尺以內。」\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:92
 #, no-wrap
 msgid "These kinds of measures can give direction and guidance to the people performing the cleaning, as well as, to serve as a means to report on successes and areas in need of improvement.\n"
-msgstr ""
+msgstr "這樣的指標能為執行資料清理的人員提供方向與指引，\n"
+"同時也可作為回報成果與辨別需改進之處的依據。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:95
 #, no-wrap
 msgid "In an ideal world, you will have developed a data maintenance plan that has been optimized to be as efficient and effective as possible.\n"
 "Optimization can be achieved in many different ways including taking advantage of your institution’s strengths, setting clear objectives and measure of success, and regular adjustment of your priorities based on available resources.\n"
-msgstr ""
+msgstr "在理想的情況下，你應該已建立一套經過最佳化、兼具效率與有效性的資料維護計畫。\n"
+"最佳化可以透過多種方式達成，包括善用機構的優勢、設定明確的目標與成功衡量標準，並根據可用資源定期調整優先順序。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:103
@@ -6908,7 +6915,11 @@ msgid "One of the best ways to learn how successful your data cleaning and data 
 "Once such way is to review the way that GBIF presents your data.\n"
 "You can view the comparison between the verbatim data published to GBIF and the interpreted data that GBIF might have corrected or updated.\n"
 "These comparisons can help you to optimize your data cleaning process, but you can also help GBIF to improve its data quality processes, too, when you provide expert feedback back to them.\n"
-msgstr ""
+msgstr "評估資料清理與資料維護流程成效的最佳方式之一，是向社群中的資料使用者尋求回饋。\n"
+"這可以透過前面提到的合作關係來進行，也能透過其他方式取得意見。\n"
+"其中一種方法是檢視 GBIF 平台上你的資料呈現方式。\n"
+"你可以比較自己發佈至 GBIF 的原始資料與 GBIF 經過解讀、修正或更新後的資料。\n"
+"這些比較能協助你優化資料清理流程，同時當你將專業意見回饋給 GBIF 時，也能幫助 GBIF 改進整體資料品質流程。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:107
@@ -6916,14 +6927,17 @@ msgstr ""
 msgid "One of the best ways to achieve success with data cleaning is to provide training and education to everyone who works with your data.\n"
 "These may be trainings that you organize yourself, local or regional trainings in partnership with, or presented by, other institutions in your area, or workshops and courses provided by other groups, such as GBIF.\n"
 "If you need training, please check the GBIF web site regularly or contact GBIF’s Community Mentors or GBIF’s Biodiversity Open Data Ambassadors who also can be good resources for training and education opportunities.\n"
-msgstr ""
+msgstr "在資料清理工作中取得成功的最佳方法之一，是為所有處理資料的人員提供培訓與教育。\n"
+"這些培訓可以由你自行規劃，也可以與當地或區域內的其他機構合作舉辦，或參加由其他組織如 GBIF所提供的工作坊與課程。\n"
+"如果你有培訓需求，請定期瀏覽 GBIF 官方網站，或聯繫 GBIF 社群導師或生物多樣性開放資料推廣大使，他們也可以為你提供培訓和教育訓練的管道。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:112
 #, no-wrap
 msgid "Documentation is one of the most important principles of data cleaning.\n"
 "This is true in two key ways.\n"
-msgstr ""
+msgstr "文件記錄是資料清理中最重要的原則之一。\n"
+"這一點在兩個方面尤為重要。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:117
@@ -6932,7 +6946,10 @@ msgid "First, whatever processes you use to maintain your data, it is important 
 "This transparency can be truly successful when the data cleaning process is well documented.\n"
 "Without clear and accessible documentation, you run the risk of losing best practices, building redundant processes and losing optimization.\n"
 "Good documentation will help you to avoid recurring errors.\n"
-msgstr ""
+msgstr "首先，無論你採用何種方式維護資料，都應對錯誤的發現與修正過程保持透明。\n"
+"當資料清理流程有完整記錄時，這種透明度才能真正發揮效果。\n"
+"若缺乏清楚且可取得的文件記錄，你可能會面臨失去最佳實踐、建立重複的流程，以及失去最佳化的風險。\n"
+"良好的文件記錄能幫助你避免錯誤重複發生。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:122
@@ -6941,7 +6958,10 @@ msgid "Documentation is also key to good data quality.\n"
 "Good documentation, in metadata, for example, allows data users to determine the fitness for use of your data.\n"
 "Your documentation should not only include good metadata, it should also include the best practices, standardized vocabularies, and taxonomic and geographic authorities used.\n"
 "Documenting what data was cleaned by whom will help you to improve your optimization, reach performance measures, and ultimately, tell a more complete story of where your data came from and how it was improved over time.\n"
-msgstr ""
+msgstr "文件記錄對維持良好的資料品質也很重要。\n"
+"例如，完整的描述性資料可以讓資料使用者判斷資料的適用性。\n"
+"你的文件記錄不僅應包含完整的描述性資料，還應記錄所使用的最佳實踐、標準化詞彙，以及所使用的分類和地理規範。\n"
+"記錄每筆資料由誰清理過，能幫助你提升流程最佳化、達成績效指標，且最終能夠更完整地呈現資料的來源，以及它是如何隨時間被逐步改善的。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:129 scripts/data-quality.en.txt:227
@@ -6949,7 +6969,8 @@ msgstr ""
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "本影片屬於 GBIF 生物多樣性資料流通課程的一系列簡報。\n"
+"生物多樣性資料流通課程最初是作為歐洲聯盟資助的生物多樣性資訊發展計畫的一部分所開發。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:131
