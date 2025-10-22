@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-22 13:55\n"
+"PO-Revision-Date: 2025-10-22 15:47\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -7019,7 +7019,10 @@ msgid "Before we begin, I’d like to take a moment to explain why data quality 
 "Cleanliness is next to Godliness is an expression that we sometimes use to describe the importance of data quality.\n"
 "In this case, Godliness can be understood as holiness, and when something is holy it is considered by many to be worthy of our trust.\n"
 "So, in the case of data quality, we are more likely to trust and to use data that has been cleaned and cared for.\n"
-msgstr ""
+msgstr "在開始之前，我想先說明一下為什麼資料品質這麼重要。\n"
+"我們有時會用一句話來形容它的重要性：「整潔近乎虔誠」。\n"
+"這裡的虔誠可以理解為神聖，而被視為神聖的事物，通常也更值得我們信任。\n"
+"同樣地，當資料經過清理與維護，我們更可能去信任並使用這些資料。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:18
@@ -7031,7 +7034,7 @@ msgstr "// SLIDE 4\n"
 #: scripts/data-quality.en.txt:20
 #, no-wrap
 msgid "Stepping back into the domain of biodiversity informatics, the classic definition of data quality was coined in 2005 by Arthur Chapman.\n"
-msgstr ""
+msgstr "回到生物多樣性資訊學的領域，資料品質的經典定義是由 Arthur Chapman 在2005年提出的。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:24
@@ -7039,14 +7042,16 @@ msgstr ""
 msgid "He wrote: “Data quality is related to use and cannot be assessed independently of the user.\n"
 "In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized when someone uses the data to do something useful.\n"
 "Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).”\n"
-msgstr ""
+msgstr "他提到：「資料品質取決於用途，不能脫離使用者來評估。\n"
+"在資料庫裡，資料本身沒有真正的品質或價值（Dalcin 2004）；只有當有人利用這些資料做出有意義的事時，它們的潛在價值才會被發揮。而資訊的品質，則在於它能否滿足使用者的需求與期待（English 1999）。」\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:27
 #, no-wrap
 msgid "And so, for us, as individuals who are responsible for maintaining data, we want the data we publish to be as satisfying to all of our potential users as possible.\n"
 "To do this, we seek to provide the highest quality data.\n"
-msgstr ""
+msgstr "對於我們這些負責維護資料的人而言，我們期望所發布的資料能盡可能滿足所有潛在使用者的需求。\n"
+"為了達成此目標，我們致力於提供最高品質的資料。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:29
@@ -7059,13 +7064,14 @@ msgstr "// SLIDE 5\n"
 #, no-wrap
 msgid "To help you to accomplish this task, we will explore Fitness for Use.\n"
 "We will also explore the Measures of Quality, specifically, Correctness and Consistency.\n"
-msgstr ""
+msgstr "為協助你達成此目標，我們將探討適用性。\n"
+"同時，我們也將介紹品質衡量，特別是正確性與一致性。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:34
 #, no-wrap
 msgid "These are important concepts that you will need to know and be able to articulate about your own data or data that you maintain.\n"
-msgstr ""
+msgstr "這些都是你在管理或維護資料時必須理解並能清楚闡述的重要概念。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:36
@@ -7078,7 +7084,8 @@ msgstr "// SLIDE 6\n"
 #, no-wrap
 msgid "Let’s begin with an example of Fitness for Use.\n"
 "A shoemaker creates a pair of clogs for the purpose of covering a person’s feet, just like those at the top of this image.\n"
-msgstr ""
+msgstr "我們先從適用性的例子開始說明。\n"
+"鞋匠製作一雙木屐，用來覆蓋並保護人的雙腳，就如同圖中上方所示的木屐。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:41
@@ -7090,13 +7097,13 @@ msgstr "// SLIDE 7\n"
 #: scripts/data-quality.en.txt:43
 #, no-wrap
 msgid "When the shoemaker made these shoes, did he know that this girl would use them for dancing?\n"
-msgstr ""
+msgstr "當鞋匠製作這雙鞋時，他是否知道這個女孩會用它來跳舞呢？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:45
 #, no-wrap
 msgid "Maybe.\n"
-msgstr ""
+msgstr "或許吧。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:47
@@ -7108,7 +7115,7 @@ msgstr "// SLIDE 8\n"
 #: scripts/data-quality.en.txt:49
 #, no-wrap
 msgid "Do you think that the same shoemaker knew that a gardener might one day use the shoes as plant pots?\n"
-msgstr ""
+msgstr "你認為同一位鞋匠是否知道，有一天園丁可能會將這雙鞋當作花盆使用呢？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:53
@@ -7116,21 +7123,24 @@ msgstr ""
 msgid "Maybe not.\n"
 " \n"
 "// SLIDE 9\n"
-msgstr ""
+msgstr "或許不知道。\n"
+"// 投影片9\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:56
 #, no-wrap
 msgid "We often hear people talk about data’s Fitness for Use in the ecological sciences, but what we need to remember is that data is not inherently good or bad.\n"
 "Rather it is the user of the data who gives data its value.\n"
-msgstr ""
+msgstr "在生態科學領域，我們經常聽到人們談論資料的適用性，\n"
+"但我們需要記住，資料本身並無固有的好壞之分。\n"
+"資料的價值，是由使用資料的人所賦予的。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:59
 #, no-wrap
 msgid "For example, for one person, data identified to the level of Genus may be sufficient to run predictive models of ecological niches.\n"
 "For a person studying a particular taxon, that same genus-level data will be much less useful than more detailed occurrences with subspecies information.\n"
-msgstr ""
+msgstr "例如，對某些人而言，分類至屬層級的資料已足以用來建立生態棲位的預測模型。然而，對研究特定分類群的人來說，同樣屬層級的資料，其價值遠低於包含亞種資訊的更詳細出現記錄。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:61
@@ -7142,20 +7152,21 @@ msgstr "// SLIDE 10\n"
 #: scripts/data-quality.en.txt:63
 #, no-wrap
 msgid "So, what is Fitness for Use and how does it relate to data?\n"
-msgstr ""
+msgstr "所以，什麼是適用性？它與資料有何關聯呢？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:65
 #, no-wrap
 msgid "When Chapman discusses Fitness for Use, he says that once a dataset has been created and shared there are two primary perspectives on how those data might be used; the perspective of the creator and the perspective of the user.\n"
-msgstr ""
+msgstr "當 Chapman 討論適用性時，他指出，一旦資料集被建立並分享，就會出現兩種主要的資料使用視角：創建者的視角與使用者的視角。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:68
 #, no-wrap
 msgid "To help somebody to decide if your data is trustworthy or useful enough for them to use, you have to understand your data and how to convey those data to the potential user.\n"
 "These are some of the important questions about the metadata, or characteristics of your data, that you should be able to answer and share with others:\n"
-msgstr ""
+msgstr "為了讓他人判斷你的資料是否可靠或足夠有用，你必須了解自己的資料，並掌握如何將這些資訊傳達給潛在使用者。\n"
+"以下是一些關於描述性資料或資料特性的重要問題，你應該能夠回答並與他人分享：\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:72
@@ -7163,7 +7174,9 @@ msgstr ""
 msgid "How Accessible are your data? \n"
 "How easily can someone access your data? \n"
 "People can’t use the data if they can’t find the data.\n"
-msgstr ""
+msgstr "你的資料有多容易取得？\n"
+"其他人能多方便地存取你的資料？\n"
+"如果找不到資料，人們就無法使用它。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:76
@@ -7171,7 +7184,9 @@ msgstr ""
 msgid "How Accurate are your data? \n"
 "Can your data be trusted? \n"
 "For example, are your identifications current and were they made by known experts?\n"
-msgstr ""
+msgstr "你的資料有多準確？\n"
+"你的資料能被信賴嗎？\n"
+"例如，資料中的物種鑑定是否為最新，且是否由公認的專家完成？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:80
@@ -7179,7 +7194,9 @@ msgstr ""
 msgid "How Timely are they? \n"
 "When will the data be made available? \n"
 "How often are they updated? \n"
-msgstr ""
+msgstr "你的資料更新的時效性如何？\n"
+"資料何時可供使用？\n"
+"更新頻率為何？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:84
@@ -7187,7 +7204,9 @@ msgstr ""
 msgid "How Complete or Comprehensive are the data? \n"
 "Which parts of your dataset are documented fully? \n"
 "How well do the data cover a particular time, place, or domain?\n"
-msgstr ""
+msgstr "你的資料有多完整或詳盡？\n"
+"資料集中的哪些項目有完整記錄？\n"
+"資料對特定的時間、地點或研究範疇的涵蓋範圍如何？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:88
@@ -7195,14 +7214,17 @@ msgstr ""
 msgid "How Consistent are they? \n"
 "Is the data in each field always of the same type? \n"
 "Was the data collected using the same documented protocols?\n"
-msgstr ""
+msgstr "你的資料有多一致？\n"
+"每個欄位中的資料是否始終保持相同的型態？\n"
+"資料是否依照相同的、已記錄的收集規範進行收集？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:91
 #, no-wrap
 msgid "How Relevant are they? \n"
 "How similar is this dataset to others that have been used successfully for the same purpose?\n"
-msgstr ""
+msgstr "你的資料有多相關？\n"
+"這個資料集與其他已成功用於相同目的的資料集相比，有多相似？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:95
@@ -7210,7 +7232,9 @@ msgstr ""
 msgid "How Detailed are the data? \n"
 "How much resolution is there in your data? \n"
 "At what scale can they be used for mapping?\n"
-msgstr ""
+msgstr "你的資料有多詳細？\n"
+"資料的解析度如何？\n"
+"可用於製作地圖的比例或尺度為何？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:99
@@ -7218,7 +7242,9 @@ msgstr ""
 msgid "Is the data Easy to interpret? \n"
 "Is the dataset documented in a clear and concise way? \n"
 "If your documents are handwritten, are they legible?\n"
-msgstr ""
+msgstr "資料容易理解嗎？\n"
+"資料集是否以清楚、簡明的方式記錄？\n"
+"若文件為手寫形式，是否清晰可辨？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:101
@@ -7230,14 +7256,15 @@ msgstr "// SLIDE 11\n"
 #: scripts/data-quality.en.txt:103
 #, no-wrap
 msgid "While Fitness for Use is subjective, measures of data quality are much less so.\n"
-msgstr ""
+msgstr "雖然適用性具有主觀性，但資料品質的衡量則相對客觀得多。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:106
 #, no-wrap
 msgid "Chapman states that: \"All data include error – there is no escaping it! \n"
 "It is knowing what the error is that is important, and knowing if the error is within acceptable limits for the purpose to which the data are to be put.”\n"
-msgstr ""
+msgstr "Chapman 指出：「所有資料都存在錯誤—這是無法避免的！\n"
+"重要的是要了解錯誤的性質，並判斷該錯誤是否在資料預定用途可接受的範圍內。」\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:108
@@ -7249,7 +7276,7 @@ msgstr "// SLIDE 12\n"
 #: scripts/data-quality.en.txt:110
 #, no-wrap
 msgid "We can use two measures of quality, Correctness and Consistency, to help us to document these inherent errors in data.\n"
-msgstr ""
+msgstr "我們可以透過兩個品質衡量指標—正確性與一致性，來協助記錄資料中固有的錯誤。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:112
