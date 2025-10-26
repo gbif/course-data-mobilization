@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-22 15:47\n"
+"PO-Revision-Date: 2025-10-26 13:14\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -7282,32 +7282,33 @@ msgstr "我們可以透過兩個品質衡量指標—正確性與一致性，來
 #: scripts/data-quality.en.txt:112
 #, no-wrap
 msgid "Correctness, sometimes called accuracy, is “How close the recorded value is to the actual, real-world value”.\n"
-msgstr ""
+msgstr "正確性有時也稱為準確性，是指「記錄的數值與真實世界中實際數值的接近程度」。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:114
 #, no-wrap
 msgid "In this diagram accuracy is how close a given dot is to the centre of the target.\n"
-msgstr ""
+msgstr "在此圖中，準確性是指給定點與目標中心的距離。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:116
 #, no-wrap
 msgid "Consistency, sometimes called precision, is “How often you get it right”\n"
-msgstr ""
+msgstr "一致性有時也稱為精確性，是指「你能多常得到正確結果的程度」\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:118
 #, no-wrap
 msgid "In this diagram, precision is how close the dots are together irrespective of how close they are to the centre of the target.\n"
-msgstr ""
+msgstr "在此圖中，精確性是指點之間的接近程度，而不管它們與目標中心的接近程度。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:121
 #, no-wrap
 msgid "These are measures of how well the data gatherer was able to capture the true value being investigated.\n"
 "Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.\n"
-msgstr ""
+msgstr "這些指標反映了資料蒐集者在多大程度上能夠準確捕捉所研究的真實數值。\n"
+"了解資料的這些特性，有助於判斷在資料清理、驗證與處理過程中，哪些方法可行、哪些則不可行。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
