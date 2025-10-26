@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-26 13:14\n"
+"PO-Revision-Date: 2025-10-26 14:27\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -7321,7 +7321,8 @@ msgstr "// SLIDE 13\n"
 #, no-wrap
 msgid "This image provides a clear set of illustrations of accuracy and precision.\n"
 "This may be a good image to keep with you when you have to explain these concepts to others.\n"
-msgstr ""
+msgstr "這張圖清楚地說明了準確性與精確性的概念。\n"
+"當你需要向他人解釋這兩個概念時，這會是一張很實用的參考圖。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:128
@@ -7334,13 +7335,14 @@ msgstr "// SLIDE 14\n"
 #, no-wrap
 msgid "Let’s look at some examples of Correctness, or accuracy, and how it can help us think about the practicalities of data cleaning.\n"
 "Remember that Correctness is how close you are to the center of a target.\n"
-msgstr ""
+msgstr "讓我們來看一些關於正確性或準確性的例子，以及它如何幫助我們思考資料清理的實用性。\n"
+"請記住，正確性是指你距離目標中心的距離。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:133
 #, no-wrap
 msgid "Let’s look at an example.\n"
-msgstr ""
+msgstr "讓我們來看一個例子。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:135
@@ -7353,13 +7355,14 @@ msgstr "// SLIDE 15\n"
 #, no-wrap
 msgid "For this example, let’s imagine your dataset contains records of fossil bird specimens from the Early Triassic Period.\n"
 "The taxonomic name for a number of specimens in your dataset is recorded as Thismia.\n"
-msgstr ""
+msgstr "在這個例子中，假設你的資料集中包含早三疊紀時期的化石鳥類標本紀錄。\n"
+"其中有一些標本的分類學名稱被記錄為 Thismia。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:140
 #, no-wrap
 msgid "Do you know if Thismia is a taxon of ancient birds?\n"
-msgstr ""
+msgstr "你知道 Thismia 是否屬於古代鳥類的分類單元嗎？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:143
@@ -7371,13 +7374,13 @@ msgstr "// SLIDE 16\n"
 #: scripts/data-quality.en.txt:145
 #, no-wrap
 msgid "In this case, the answer is no! \n"
-msgstr ""
+msgstr "在這個例子中，答案是否定的\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:147
 #, no-wrap
 msgid "Thismia is a very rare plant from the State of Illinois in the United States.\n"
-msgstr ""
+msgstr "Thismia 其實是一種非常罕見的植物，分布於美國伊利諾州。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:151
@@ -7385,7 +7388,9 @@ msgstr ""
 msgid "As a result, the correctness, or accuracy, of the taxonomic name is low.\n"
 "Perhaps because the data entry technician was not a paleontologist.\n"
 "As a result, all of the names in the dataset might need to be checked and corrected by an expert before the data could be used.\n"
-msgstr ""
+msgstr "因此，這些分類學名稱的正確性也就是準確性很低。\n"
+"可能的原因是資料輸入人員並非古生物學家。\n"
+"因此，在資料可供使用之前，資料集中的所有名稱可能都需要由專家進行核對與修正。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:153
@@ -7398,25 +7403,26 @@ msgstr "// SLIDE 17\n"
 #, no-wrap
 msgid "Let’s look at another example.\n"
 "Here, your dataset contains specimens collected in a place called Kalamazoo by a scientist named Richard Spruce.\n"
-msgstr ""
+msgstr "讓我們再看一個例子。\n"
+"在這個例子中，你的資料集中包含由科學家 Richard Spruce 所採集，地點標記為 Kalamazoo 的標本。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:158
 #, no-wrap
 msgid "We must ask ourselves:\n"
-msgstr ""
+msgstr "我們必須問我的自己：\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:160
 #, no-wrap
 msgid "Is 49007 the right postal code for Kalamazoo?\n"
-msgstr ""
+msgstr "49007 是 Kalamazoo 的正確郵遞區號嗎？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:162
 #, no-wrap
 msgid "Did Richard Spruce collect in Michigan?\n"
-msgstr ""
+msgstr "Richard Spruce 是在密西根州採集標本？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:164
@@ -7428,7 +7434,8 @@ msgstr "// SLIDE 18\n"
 #: scripts/data-quality.en.txt:166
 #, no-wrap
 msgid "In this case, the answer is yes to our first question, 49007 is a postal code for Kalamazoo, so the accuracy of the locality is good, but what about the collector, Richard Spruce?\n"
-msgstr ""
+msgstr "在這個例子中，對於第一個問題的答案是對的：49007 的確是 Kalamazoo 的郵遞區號，因此地點的準確性良好。\n"
+"但採集者 Richard Spruce 呢？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:168
@@ -7442,7 +7449,9 @@ msgstr "// SLIDE 19\n"
 msgid "There is, in fact, a famous botanist named Richard Spruce.\n"
 "He was born in 1817 and died in 1893, but he conducted his collecting in the Amazon Basin and Andes mountains in South America.\n"
 "Something is not quite right, so we need to find out more about the collector before we can be confident in the correctness of these data.\n"
-msgstr ""
+msgstr "事實上，的確有一位著名植物學家名為 Richard Spruce。\n"
+"他生於 1817 年，死於 1893 年，但他的採集活動主要在南美洲的亞馬遜盆地與安地斯山脈。\n"
+"這裡出現了問題，因此在能對這些資料的正確性有信心之前，我們需要進一步確認採集者的身分。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:174
@@ -7454,13 +7463,13 @@ msgstr "// SLIDE 20\n"
 #: scripts/data-quality.en.txt:176
 #, no-wrap
 msgid "Let’s take a look now at what Consistency, or precision, means to data.\n"
-msgstr ""
+msgstr "現在讓我們來看看一致性或稱精確性對資料的意義。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:178
 #, no-wrap
 msgid "Consistency represents how many times you get the same answer, regardless of where the center of the target lies.\n"
-msgstr ""
+msgstr "一致性代表你能多次得到相同結果，而不考慮目標的中心的位置。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:182
@@ -7468,7 +7477,9 @@ msgstr ""
 msgid "For example, your dataset contains botanical occurrences including a field, or column, named “Full Name”.\n"
 "This field contains the name of the specimen collector.\n"
 "As you can see there are five different names, but how many unique collectors are there? Can you tell just by looking at the names?\n"
-msgstr ""
+msgstr "例如，你的資料集中包含植物出現紀錄，其中有一個欄位名為「全名」。\n"
+"這個欄位記錄標本的採集者姓名。\n"
+"如你所見，欄位中出現了五種不同的名字，但實際上有多少位不同的採集者呢？只透過名字，你能判斷出來嗎？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:184
@@ -7480,26 +7491,27 @@ msgstr "// SLIDE 21\n"
 #: scripts/data-quality.en.txt:186
 #, no-wrap
 msgid "Sometimes, if you are familiar with the dataset, you might know how many collectors are represented just by looking at the data, but if you don’t know these data well, you might need to do some research, ask some questions or look at the original field notes.\n"
-msgstr ""
+msgstr "有時，如果你對資料集非常熟悉，僅透過觀察資料就可能知道包含了多少位採集者；\n"
+"但如果你不熟悉這些資料，則可能需要進行一些調查、提出問題，或參考原始的野外筆記。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:188
 #, no-wrap
 msgid "In this example, if you guessed that these five names represent two or three unique collectors, you would be right.\n"
-msgstr ""
+msgstr "在這個例子中，如果你猜測這五個名字代表兩到三位不同的採集者，那麼你的判斷是正確的。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:191
 #, no-wrap
 msgid "In blue, Joseph Dalton Hooker AND Hook.f.\n"
 "are the same person.\n"
-msgstr ""
+msgstr "以藍色標示的 Joseph Dalton Hooker 與 Hook.f. 其實是同一人。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:193
 #, no-wrap
 msgid "Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).\n"
-msgstr ""
+msgstr "句號是 Joseph Dalton Hooker (1817-1911) 的縮寫。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:197
@@ -7507,7 +7519,9 @@ msgstr ""
 msgid "In green, W.J. Hooker and Hook. are the same person.\n"
 "Period is the abbreviation for William Jackson Hooker (1785-1865).\n"
 "William was actually Joseph’s father.\n"
-msgstr ""
+msgstr "以綠色標示的 W.J. Hooker 與 Hook. 其實是同一人。\n"
+"句號是 William Jackson Hooker（1785–1865）的縮寫。\n"
+"William 其實是 Joseph 的父親。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:201
@@ -7515,7 +7529,8 @@ msgstr ""
 msgid "Finally, in the red, there is “Hooker, J.” \n"
 "This entry could be an error or typo of either Joseph or William Hooker, OR it could be a third person with a similar name.\n"
 "Thus, more research would be needed to clarify these data.\n"
-msgstr ""
+msgstr "最後，紅色部分是「Hooker, J」。這個紀錄可能是 Joseph 或 William Hooker 的錯誤或拼字錯誤，也可能是另一位同名的第三人。\n"
+"因此，需要進一步調查才能釐清這筆資料。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:203
@@ -7528,45 +7543,48 @@ msgstr "// SLIDE 22\n"
 #, no-wrap
 msgid "We have just discussed several simple illustrations of two measures of data quality.\n"
 "These examples should give you a basic understanding about how to identify the inaccuracies and imprecisions in data.\n"
-msgstr ""
+msgstr "我們剛剛討論了兩個資料品質衡量指標的幾個簡單範例。\n"
+"這些例子應能讓你對如何判斷資料中的不正確性與不一致性有基本的理解。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:208
 #, no-wrap
 msgid "How we document and fix these issues or errors is a process that we call data cleaning.\n"
-msgstr ""
+msgstr "我們用來記錄並修正這些問題或錯誤的過程，被稱為資料清理。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:210
 #, no-wrap
 msgid "More specifically:\n"
-msgstr ""
+msgstr "更具體地說：\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:213
 #, no-wrap
 msgid "Data cleaning is the process of correcting or removing dirty data caused by contradictions, disparities, keying mistakes, missing bits, and more.\n"
 "It also includes validation of the changes made, and may require normalization.\n"
-msgstr ""
+msgstr "資料清理是指對因矛盾、不一致、輸入錯誤、資料遺漏等原因造成的「髒資料」進行修正或刪除的過程。\n"
+"這個過程同時包含所做更改的驗證，並且可能需要進行標準化。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:215
 #, no-wrap
 msgid "Our data cleaning, or lack thereof, will affect how data users perceive your data’s fitness for use.\n"
-msgstr ""
+msgstr "我們的資料清理或缺乏資料清理將影響資料使用者如何看待你的資料是否適用。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:217
 #, no-wrap
 msgid "It is not necessary for you to do all the data cleaning yourself, in fact, a common misconception is that all errors MUST be fixed before you can share your data.\n"
-msgstr ""
+msgstr "你不必親自完成所有資料清理；事實上，一個常見的誤解是，所有錯誤必須在分享資料之前全部修正。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:220
 #, no-wrap
 msgid "The truth is that you can only clean as much data as your time, knowledge, and resources permit.\n"
 "As a result, it is essential to document what you know and what you do not know about your data so that when you do share them, data users will know the level of the quality of your data.\n"
-msgstr ""
+msgstr "事實上，你只能在時間、知識和資源允許的範圍內清理盡可能多的資料。\n"
+"因此，清楚記錄你對資料的了解與未知之處是很重要的，這樣在分享資料時，使用者才能掌握資料的品質水準。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:222
@@ -7579,7 +7597,8 @@ msgstr "// SLIDE 23\n"
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant with additional contributions by Dag Endresen, David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "本簡報最初由 Sharon Grant 創建，Dag Endresen、David Bloom、BID 和 BIFA 培訓師、導師和學生也參與了貢獻。\n"
+"本簡報由 David Bloom 講述。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:5
