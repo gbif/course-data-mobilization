@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-27 11:59\n"
+"PO-Revision-Date: 2025-10-27 13:29\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -7613,38 +7613,41 @@ msgstr "在本簡報中，我們將探討可稱為「原始生物多樣性資料
 #, no-wrap
 msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
 "I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
-msgstr ""
+msgstr "如同投影片上所示，GBIF 目前支援四種類型的資料集：\n"
+"資源資料集（例如僅含詮釋資料的資料集）、物種名錄、出現紀錄資料集，以及調查活動資料集。\n"
+"在本簡報中，我們不會討論資源資料集，因為僅包含詮釋資料的資料集並不在 GBIF 資助計畫的支援範圍內。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:15
 #, no-wrap
 msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
 "In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
-msgstr ""
+msgstr "在 GBIF 中可發布的第一種類型資料集是名錄，也就是物種或更高階分類群的清單。\n"
+"在名錄中，主要的單位是分類群，而非（個體的）出現紀錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:19
 #, no-wrap
 msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
-msgstr ""
+msgstr "名錄，更一般地說，分類資料集的範圍可能有很大的差異\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:21
 #, no-wrap
 msgid "a list of species present in a protected area is a checklist.\n"
-msgstr ""
+msgstr "一份列出保護區內所有物種的清單，就是一個名錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:23
 #, no-wrap
 msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
-msgstr ""
+msgstr "一份以國家或主題為範圍的分類群名錄（例如：寮國的蝴蝶－、或馬來西亞植物誌），有時還會提供分類群的分布資訊、分類階層與同物異名，這也是一種名錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:25
 #, no-wrap
 msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
-msgstr ""
+msgstr "IUCN 瀕危物種紅色名錄（無論是國際、國家或區域層級）也是一種名錄，並可提供所列分類群的受脅或保育狀態等相關資訊\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:31
@@ -7652,14 +7655,17 @@ msgstr ""
 msgid "GBIF provides data publishers with templates for each class of dataset.\n"
 "The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
 "In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
-msgstr ""
+msgstr "GBIF 為每一類型的資料集提供對應的模板。\n"
+"針對名錄（分類群資料），GBIF 的模板可用來分享與每個物種或分類群相關的資訊，例如：其 ID、完整學名與命名者、與其他分類群的關係、地理資訊等。\n"
+"在此模板中，一列代表一個分類群，而同一分類群在資料集中只能出現一次（否則會造成重複）。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:36
 #, no-wrap
 msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
 "Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
-msgstr ""
+msgstr "第二類可在 GBIF 上發布的資料，來自自然史或科學典藏，也就是所謂的標本資料。\n"
+"與名錄不同，標本資料的主要單位是標本（單一個體或一群個體），同一物種或分類群可能會有多個不同的標本。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:38 scripts/definitions.en.txt:44
@@ -7675,34 +7681,39 @@ msgstr "// Slide 7\n"
 #, no-wrap
 msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
 "However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
-msgstr ""
+msgstr "各類典藏與標本在數量、大小與保存方式上差異極大。\n"
+"然而，只要是保存生物個體的典藏，都可以在 GBIF 平台上被記錄與分享，例如植物標本館藏或動物典藏（包含化石）。\n"
+"但地質標本或人類文物等收藏，則不屬於 GBIF 的資料範疇。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:45
 #, no-wrap
 msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
-msgstr ""
+msgstr "生物多樣性資料也常見於技術與科學文獻中：這類資料可以整理後在 GBIF 上分享，但需要特別注意不要分享重複資料。例如，一個在科學文章中描述的標本，可能已經存在於其典藏資料集的 GBIF.org 上\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:50
 #, no-wrap
 msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
 "ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
-msgstr ""
+msgstr "在數位化資料集缺乏的情況下，生物多樣性資料可以從科學文章、博士或碩士論文、報告以及其他文件中擷取並整理。\n"
+"在整理文獻資料時，務必先聯繫資料擁有者，徵得同意後再發布到 GBIF\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:55
 #, no-wrap
 msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
 "These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
-msgstr ""
+msgstr "目前 GBIF.org 上的大多數資料來自實地調查紀錄。\n"
+"這些資料可透過不同的現地調查方法由科學家、博物學家或公民科學家利用各類計畫與應用程式進行觀察或採集。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:60
 #, no-wrap
 msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
 "They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
-msgstr ""
+msgstr "這些實地調查資料可以整理成調查報告、環境影響評估研究、野外筆記及其他紀錄。\n"
+"它們也可以與其他類型的資料相關聯，例如名錄，這些資料可作為在野外觀察或採集的出現紀錄的補充。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:67
@@ -7711,21 +7722,26 @@ msgid "Occurrence data represents the GBIF class of datasets with the largest nu
 "Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
 "In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
 "Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
-msgstr ""
+msgstr "出現紀錄資料是 GBIF 上資料筆數最多的資料集類型。\n"
+"典藏資料（也就是標本）、文獻資料以及實地調查資料都可以透過此模板在 GBIF 上分享，此模板以觀察到的個體或採集到的標本為核心。\n"
+"在這類資料集中，只要每個紀錄都有唯一識別碼，同一分類群可以有多個個體或標本。\n"
+"出現紀錄資料的其他欄位則包括每個紀錄的觀察或採集地點、時間、方式以及採集者或觀察者。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:72
 #, no-wrap
 msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
 "They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
-msgstr ""
+msgstr "調查活動資料是在 2015 年於GBIF.org新增的一類資料集。\n"
+"它讓資料發佈者分享更多關於觀察或標本採集的背景資訊，並將相關聯的出現紀錄歸類到同一次調查活動中。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:77
 #, no-wrap
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
-msgstr ""
+msgstr "GBIF 的調查活動資料模板讓資料發佈者分享更多關於生物多樣性資料採集或紀錄調查活動的背景資訊，例如相機陷阱、昆蟲陷阱、植物樣地調查、賞鳥地點等。\n"
+"此模板的結構比物種名錄資料集與出現紀錄資料集稍微複雜，因為它包含兩個檔案（例如：試算表中的兩個分頁）── 一個用來描述「調查活動」（例如每個陷阱），另一個用來描述與每個調查活動相關聯的標本或出現紀錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -7739,20 +7755,21 @@ msgstr "// Slide 15\n"
 #: scripts/data-types.en.txt:81
 #, no-wrap
 msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
-msgstr ""
+msgstr "有時，除了本影片先前提到的資料來源外，還可以透過其他來源取得額外的資訊或資料。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:86
 #, no-wrap
 msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
 "Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
-msgstr ""
+msgstr "這些其他來源包括遙測工具、地圖與衛星資料，以及其他資訊輔助資料，例如野生動物的照片、音檔與影片紀錄。\n"
+"大多數情況下，透過這些方式取得的資訊是對現有資料的補充，但可以提供有關個體及其位置、棲息地、遷徙路線等有價值的資訊。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:90
 #, no-wrap
 msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
-msgstr ""
+msgstr "在接下來的投影片中，我們將說明達爾文核心標準如何應用於不同類型的資料，以及如何選擇最適合特定資料集的資料類別。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:96
