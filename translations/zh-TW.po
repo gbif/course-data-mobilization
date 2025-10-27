@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-27 13:29\n"
+"PO-Revision-Date: 2025-10-27 14:29\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -7777,7 +7777,9 @@ msgstr "在接下來的投影片中，我們將說明達爾文核心標準如何
 msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
 "Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
 "In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
-msgstr ""
+msgstr "如同在「基礎知識 - 達爾文核心標準」簡報中所學，達爾文核心標準是由生物多樣性資訊標準組織（TDWG）所制定的資料分享標準，並廣泛用於GBIF社群的資料發布。\n"
+"根據所使用的資料集類型，需選擇三個核心資料集之一（出現紀錄、物種名錄或調查活動的核心資料集），並可連結一個或多個延伸資料集以分享更多資訊，例如多媒體連結、變數、鑑定史等。\n"
+"在某些情況下，核心資料集也可以作為延伸資料集來連結至其他核心資料集。例如在發布調查活動資料時，可以使用調查活動核心資料集描述採樣區域，再利用出現紀錄核心資料集作為延伸資料集，用以分享觀察到的標本或個體紀錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:98 scripts/definitions.en.txt:189
