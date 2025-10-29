@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-29 13:35\n"
+"PO-Revision-Date: 2025-10-29 15:39\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -7852,7 +7852,9 @@ msgstr "// Slide 21\n"
 msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
 "Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
 "You can find these requirements on GBIF.org from the How-to menu.\n"
-msgstr ""
+msgstr "在 GBIF 中，每一類資料集都必須符合其特定的資料品質要求。\n"
+"有些欄位是必填的，例如出現紀錄 ID、物種 ID 或調查活動 ID，視資料集類型而定；有些則為選填，但強烈建議提供，例如十進位制座標。\n"
+"這些要求可以在 GBIF 網站的操作指南選單中查詢。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:123 scripts/organizing.en.txt:191
@@ -7865,31 +7867,31 @@ msgstr "// Slide 22\n"
 #: scripts/data-types.en.txt:125
 #, no-wrap
 msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
-msgstr ""
+msgstr "為了能夠將資料發佈到 GBIF，在資料收集與管理的早期階段就了解各類資料集之間的差異非常重要。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:127
 #, no-wrap
 msgid "You can reflect on this topic with the following questions:\n"
-msgstr ""
+msgstr "你可以透過以下問題來思考這個主題：\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:129
 #, no-wrap
 msgid "Is your data type different than you originally thought?\n"
-msgstr ""
+msgstr "資料的類型是否與最初的判斷不同？\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:131
 #, no-wrap
 msgid "With what kind of data do you work?\n"
-msgstr ""
+msgstr "你在處理的是哪一類型的資料？\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:133
 #, no-wrap
 msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
-msgstr ""
+msgstr "你會如何將這些資料發佈到 GBIF？會使用哪一個核心資料集或延伸資料集\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:135 scripts/organizing.en.txt:203
@@ -7902,7 +7904,7 @@ msgstr "// Slide 23\n"
 #: scripts/data-types.en.txt:142
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "本簡報最初由 Sophie Pamerlon 製作並講述，並由 BID 與 BIFA 的講師、導師及學生提供額外貢獻。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:4
