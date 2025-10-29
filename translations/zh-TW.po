@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-10-27 14:29\n"
+"PO-Revision-Date: 2025-10-29 13:35\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -7795,7 +7795,9 @@ msgstr "// Slide 19\n"
 msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
 "The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
 "The data are then searchable and downloadable via GBIF.org.\n"
-msgstr ""
+msgstr "一但資料透過達爾文核心標準標準化後，每一類型的資料集（詮釋資料、調查活動、物種名錄或出現紀錄資料集）皆可透過此圖中所示的工具之一發佈至 GBIF.org。\n"
+"在 GBIF 社群中，最常使用的工具是由 GBIF 開發的整合發佈工具包(IPT)，該工具能將原始資料轉換為達爾文核心集檔案，再由 GBIF 擷取與索引。\n"
+"完成後，這些資料即可在 GBIF.org 上被搜尋與下載。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:104 scripts/definitions.en.txt:201
@@ -7810,31 +7812,32 @@ msgstr "// Slide 20\n"
 #, no-wrap
 msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
 "The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
-msgstr ""
+msgstr "選擇合適的資料集類型可能需要一些時間，特別是當你剛開始在 GBIF 平台上發佈資料時。\n"
+"GBIF 技術支援團隊製作了一份實用的流程圖，可在 GBIF Data Blog 上找到\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:109
 #, no-wrap
 msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
-msgstr ""
+msgstr "如果資料目前還沒有整理成資料庫或試算表的形式，或是內容尚未完整到可以分享，可以先發布一份資料描述，也就是僅含詮釋資料的資料集。（請注意，在 BID 和 BIFA 計畫中，這個選項是不被允許的）。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:111
 #, no-wrap
 msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
-msgstr ""
+msgstr "如果你的資料集裡的學名並不是指實際觀察到或採集到的生物或標本，那麼你可以把它發佈成分類學資源或物種名錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:113
 #, no-wrap
 msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
-msgstr ""
+msgstr "如果資料集中的學名對應到實際觀察或採集的標本，並附有觀察或採集的日期與地點，就可以將它發佈為出現紀錄資料集。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:115
 #, no-wrap
 msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
-msgstr ""
+msgstr "最後，如果資料中包含現場採樣所使用的調查方法或流程資訊，你就可以將它發佈為調查活動資料集。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:117 scripts/definitions.en.txt:210
