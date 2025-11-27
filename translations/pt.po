@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2025-04-02 14:12\n"
+"PO-Revision-Date: 2025-11-27 15:27\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -36,7 +36,7 @@ msgstr "languageLinks:combined[]"
 #: index.en.adoc:22
 #, no-wrap
 msgid "_Zonocerus elegans_ (Thunberg, 1815) observed in Zimbabwe by nickypegg (licensed under https://creativecommons.org/licenses/by-sa/4.0/[CC-BY-SA 4.0])"
-msgstr ""
+msgstr "_Zonocerus elegans_ (Thunberg, 1815) observado no Zimbabué por nickypegg (licenciado sob https://creativecommons.org/licenses/by-sa/4.0/[CC-BY-SA 4.0])"
 
 #. type: Target for macro image
 #: index.en.adoc:23
@@ -1641,32 +1641,32 @@ msgstr "Links para Sala de Jogos (cada mesa será aberta em uma nova janela/aba)
 #. type: Plain text
 #: planning.en.adoc:59
 msgid "BLUE: https://playingcards.io/ndqppx[^]"
-msgstr ""
+msgstr "AZUL: https://playingcards.io/ndqppx[^]"
 
 #. type: Plain text
 #: planning.en.adoc:61
 msgid "GREEN: https://playingcards.io/zpwe9j[^]"
-msgstr ""
+msgstr "VERDE: https://playingcards.io/zpwe9j[^]"
 
 #. type: Plain text
 #: planning.en.adoc:63
 msgid "ORANGE: https://playingcards.io/868jgh[^]"
-msgstr ""
+msgstr "LARANJA: https://playingcards.io/868jgh[^]"
 
 #. type: Plain text
 #: planning.en.adoc:65
 msgid "PURPLE: https://playingcards.io/g6khb7[^]"
-msgstr ""
+msgstr "ROXA: https://playingcards.io/g6khb7[^]"
 
 #. type: Plain text
 #: planning.en.adoc:67
 msgid "RED: https://playingcards.io/3pad4w[^]"
-msgstr ""
+msgstr "VERMELHA: https://playingcards.io/3pad4w[^]"
 
 #. type: Plain text
 #: planning.en.adoc:69
 msgid "YELLOW: https://playingcards.io/w488nb[^]"
-msgstr ""
+msgstr "AMARELA: https://playingcards.io/w488nb[^]"
 
 #. type: Plain text
 #: planning.en.adoc:71
@@ -2028,7 +2028,7 @@ msgstr "Descarregue o modelo de tabela: link:../exercise-data/UC1-2-ocorrer-temp
 #. type: Plain text
 #: capture.en.adoc:58
 msgid "you may need to add fields to the spreadsheet as you may be able to capture more information from the labels than was planned for in the template."
-msgstr ""
+msgstr "pode precisar de adicionar campos à tabela pois poderá capturar mais informações das etiquetas do que foram planeadas no modelo."
 
 #.  Note the lack of empty lines between the end of the question (....) and the start of the next question
 #.  (. What…) is required, so I have added // comments to help separate them.
@@ -3850,7 +3850,7 @@ msgstr "Criar uma tabela usando esta estrutura e os dados dos registos."
 #: use-case-lepidoptera-sampling.en.adoc:133
 #: use-case-birds-from-literature.en.adoc:134
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet created in the previous step."
-msgstr ""
+msgstr "Use a tabela de exercícios para fornecer as suas respostas e envie a folha de cálculo crada no passo anterior."
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:141
@@ -3939,7 +3939,7 @@ msgstr "Os serviços de TI necessários são fornecidos pela Unidade Tecnológic
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:39
 msgid "The NHM-DK deputy director, who is coordinating this piece of work has developed a general outline for the work:"
-msgstr ""
+msgstr "O diretor-adjunto do HHM-DK, que é quem está coordenar esta tarefa, desenvolveu um esboço geral para o trabalho:"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:42
@@ -3954,7 +3954,7 @@ msgstr "Três voluntários da Sociedade Ornitológica de Copenhaga (COS) que col
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:48
 msgid "The Ornithology Curator in the NHM-DK Bird Department will lead the team responsible for taxonomic checking, data curation, cleaning, format and transformation, and will oversee the entry of metadata for the published dataset.  The team includes a collaborating researcher from Sweden, and two postdoctoral students.  They have been selected for this task because they are used to working with digital biodiversity data.  They will all use their own work computers."
-msgstr ""
+msgstr "O Curador de Ornitologia no Departamento de Ornitologia do HHM-DK irá liderar a equipa responsável pela verificação taxonómica, curadoria de dados, limpeza, formato e transformação e irá supervisionar a entrada de metadados para o conjunto de dados publicado. Essa equipa inclui um investigador colaborador da Suécia e dois alunos do pós-doutoramento. Foram seleccionados para esta tarefa porque estão habituados a trabalhar com os dados digitais de biodiversidade. Todos eles utilizarão os seus próprios computadores de trabalho."
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:49
