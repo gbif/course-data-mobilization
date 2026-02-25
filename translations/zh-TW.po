@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
-"POT-Creation-Date: 2025-02-05 13:28+0000\n"
-"PO-Revision-Date: 2025-02-19 09:38\n"
+"POT-Creation-Date: 2025-04-02 13:59+0000\n"
+"PO-Revision-Date: 2026-01-17 08:49\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -3538,10 +3538,7 @@ msgstr "使用下載的資料集，製作一個試算表作為擴展資料結構
 
 #. type: Plain text
 #: use-case-invasive-species.en.adoc:124 use-case-invasive-species.en.adoc:136
-#: use-case-lepidoptera-sampling.en.adoc:133
 #: use-case-lepidoptera-sampling.en.adoc:146
-#: use-case-birds-from-literature.en.adoc:134
-#: use-case-birds-from-literature.en.adoc:159
 msgid "Use the exercise sheet to provide your answers and submit the spreadsheet."
 msgstr "使用練習表提供你的答案並繳交試算表。"
 
@@ -3852,6 +3849,12 @@ msgstr "你會使用什麼資料結構來呈現這些紀錄中的資料？"
 #: use-case-lepidoptera-sampling.en.adoc:132
 msgid "Create a spreadsheet using this structure and the data from the logs."
 msgstr "請使用此結構和紀錄中的資料建立試算表。"
+
+#. type: Plain text
+#: use-case-lepidoptera-sampling.en.adoc:133
+#: use-case-birds-from-literature.en.adoc:134
+msgid "Use the exercise sheet to provide your answers and submit the spreadsheet created in the previous step."
+msgstr "請使用練習表格填寫你的答案，並提交於前一步驟中建立的試算表。"
 
 #. type: Plain text
 #: use-case-lepidoptera-sampling.en.adoc:141
@@ -4190,6 +4193,11 @@ msgstr "使用現有資料增加任何可推導的缺失元素"
 #: use-case-birds-from-literature.en.adoc:158
 msgid "Remember to keep the original information provided and document your changes and assumptions as part of the individual records and the metadata."
 msgstr "請記得保留原始提供的資訊，並將你的更改和假設紀錄個別記錄為詮釋資料的一部分。"
+
+#. type: Plain text
+#: use-case-birds-from-literature.en.adoc:159
+msgid "Use the exercise sheet to provide your answers and submit the cleaned text file extracted from the step 1."
+msgstr "請使用練習表格填寫你的答案，並提交從步驟 1 中提取的清理後文字檔。"
 
 #. type: Plain text
 #: use-case-birds-from-literature.en.adoc:161
@@ -4698,8 +4706,8 @@ msgstr "規劃／協作"
 
 #. type: Plain text
 #: keydocs.en.adoc:113
-msgid "http://www.agilenutshell.com/[Agile^]"
-msgstr "http://www.agilenutshell.com/[Agile^]"
+msgid "https://softailed.com/blog/benefits-of-agile-methodology[Agile methodology^]"
+msgstr "https://softailed.com/blog/benefits-of-agile-methodology[Agile methodology^]"
 
 #. type: Plain text
 #: keydocs.en.adoc:114
@@ -5517,296 +5525,313 @@ msgstr "阻止某人做某件事、甚至使其不可能的問題與狀況 - NO 
 #: solutions.en.adoc:133
 #, no-wrap
 msgid "*Which are examples of mobilization tasks?*\n"
-msgstr ""
+msgstr "*哪些是動員任務的範例？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:135
 msgid "Affiliation - NO, This is a Resource Type"
-msgstr ""
+msgstr "隸屬關係－否，這是資源類型"
 
 #. type: Plain text
 #: solutions.en.adoc:136
 msgid "Publishing - YES"
-msgstr ""
+msgstr "出版－是"
 
 #. type: Plain text
 #: solutions.en.adoc:137
 msgid "Imaging - YES"
-msgstr ""
+msgstr "影像處理－是"
 
 #. type: Plain text
 #: solutions.en.adoc:138
 msgid "Georeferencing - YES"
-msgstr ""
+msgstr "地理參照－是"
 
 #. type: Plain text
 #: solutions.en.adoc:139
 msgid "Increased Public Awareness - NO, This is an implied goal."
-msgstr ""
+msgstr "提高公眾認知－否，這是一個隱含目標。"
 
 #. type: Title ===
 #: solutions.en.adoc:140
 #, no-wrap
 msgid "Data capture review solutions"
-msgstr ""
+msgstr "資料擷取與審查解決方案"
 
 #. type: Plain text
 #: solutions.en.adoc:143
 #, no-wrap
 msgid "*What dataset type(s) would you choose for an ichthyology collection?*\n"
-msgstr ""
+msgstr "*針對魚類學（ichthyology）典藏資料，你會選擇哪種類型的資料集（dataset type）？*"
 
 #. type: Plain text
 #: solutions.en.adoc:148
 #, no-wrap
 msgid "occurrence\n"
 "Most of the time, specimens from collection databases are shared as occurrence data. Each occurrence (specimen or group of specimens) has its own unique identifier (sometimes derived from its catalogue number in the source collection) and the Darwin Core fields used to share them within GBIF describe each specimen: scientific name, the date it was collected on the field, who collected and/or identified it, where, etc. Each collection can have more than one specimen from a same species, as long as each specimen is identified by a unique ID.  "
-msgstr ""
+msgstr "出現紀錄\n"
+"在多數情況下，典藏資料庫中的標本資料會以「出現紀錄資料（occurrence data）」的形式進行分享。每筆出現紀錄（無論是單一標本或標本群）都有其專屬的唯一識別碼（有時是根據來源典藏庫的編目號碼衍生而來），而用於在 GBIF 上分享這些資料的達爾文核心集（Darwin Core）欄位則記錄了每筆標本的資訊，例如：學名、採集日期、採集人員和或鑑定人員、採集地點等。一個典藏庫中可以有多筆來自同一物種的標本，只要每個標本都有各自唯一的識別碼即可。"
 
 #. type: Plain text
 #: solutions.en.adoc:150
 #, no-wrap
 msgid "checklist\n"
 "It is also possible to create and share a taxonomical checklist derived from a collection database; in this case, it is recommended to share the checklist as a taxonomical dataset, with the occurrence (specimen) list associated with it by using the Occurrence core as an extension to the Taxon Core on the GBIF IPT."
-msgstr ""
+msgstr "物種名錄\n"
+"也可以從典藏資料庫建立並分享一份分類學名錄（taxonomical checklist）。在這種情況下，建議將名錄作為分類學資料集（taxonomical dataset）進行分享，並透過在 GBIF IPT 上使用「出現紀錄核心（Occurrence Core）」作為「分類單元核心（Taxon Core）」的延伸，將出現紀錄（標本）與分類單元加以關聯。"
 
 #. type: Plain text
 #: solutions.en.adoc:152
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a list of invasive species?*\n"
-msgstr ""
+msgstr "*針對外來入侵種（invasive species）名錄，你會選擇哪種類型的資料集？*"
 
 #. type: Plain text
 #: solutions.en.adoc:155
 #, no-wrap
 msgid "occurrence\n"
 "Some data publishers will share occurrence datasets coming from studies or programs tracking specimens from some specific invasive species; when the data focuses on individuals instead of the invasive species, in general, they can be shared as occurrence data."
-msgstr ""
+msgstr "出現紀錄\n"
+"部分資料發布者會分享來自特定研究或監測計畫中針對某些特定外來入侵種標本的出現紀錄資料集；當資料重點放在個體標本而非整體物種時，通常會以出現紀錄的形式進行分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:157
 #, no-wrap
 msgid "checklist\n"
 "Invasive species can be tracked and monitored at different scales (regional, national, thematic…); as this type of dataset focuses more on the species and their distribution across a given geographical scope, they are mainly shared as taxonomical datasets within GBIF (https://www.gbif.org/dataset/search?project_id=GRIIS[see GRIIS search results])."
-msgstr ""
+msgstr "物種名錄\n"
+"外來入侵種可以在不同尺度（如：地區、國家或主題）進行追蹤與監測。由於此類資料集更著重於物種及其在特定地理範圍內的分布情形，因此主要以分類學資料集（taxonomical dataset）的形式，在 GBIF 平台上分享。\n"
+"（參考 GRIIS 搜尋結果：https://www.gbif.org/dataset/search?project_id=GRIIS）"
 
 #. type: Plain text
 #: solutions.en.adoc:159
 #, no-wrap
 msgid "*What dataset type(s) would you choose for the flora and fauna of an environmental impact study?*\n"
-msgstr ""
+msgstr "*針對環境影響評估（environmental impact study）中的植物與動物資料，你會選擇哪種類型的資料集？*"
 
 #. type: Plain text
 #: solutions.en.adoc:162
 #, no-wrap
 msgid "occurrence\n"
 "Data are recorded by naturalists on the field and can be shared as simple occurrence datasets."
-msgstr ""
+msgstr "出現紀錄\n"
+"自然觀察者於野外記錄的資料，可作為簡單的出現紀錄資料集進行分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:164
 #, no-wrap
 msgid "sampling event\n"
 "They can also be shared as event datasets if standardized protocols (such as vegetation plots, transects, traps…) are used to collect the data."
-msgstr ""
+msgstr "採樣事件\n"
+"若資料是依據標準化調查方法（如：植群樣區、樣線調查、陷阱設置等）所採集，亦可作為事件資料集分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:166
 #, no-wrap
 msgid "*What dataset type(s) would you choose for bird tracking data?*\n"
-msgstr ""
+msgstr "*針對鳥類追蹤資料，你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:169
 #, no-wrap
 msgid "occurrence\n"
 "These data are shared as occurrence datasets: ideally, each bird is identified with its organismID, and each occurrence (GPS ping) has its own occurrenceID, which is useful to track the different GPS locations of the same bird over the scope of the tracking programme or project. (See https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f[example])"
-msgstr ""
+msgstr "出現紀錄\n"
+"這類資料通常以出現紀錄資料集進行分享：理想情況下，每隻鳥個體應有專屬的生物 ID（organismID），而每一次出現紀錄（GPS 定位點）則有各自的出現 ID（occurrenceID），這有助於在追蹤計畫或專案期間，追蹤同一隻鳥在不同時間點的 GPS 位置。（參考範例：https://www.gbif.org/dataset/2fc1d8b5-9c99-4e03-8c3c-11a6e51a298f）"
 
 #. type: Plain text
 #: solutions.en.adoc:171
 #, no-wrap
 msgid "*What dataset type(s) would you choose for insect trap data?*\n"
-msgstr ""
+msgstr "*針對昆蟲誘捕資料，你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:174
 #, no-wrap
 msgid "occurrence\n"
 "Although such data can be shared as simple occurrence datasets, it is best if they’re shared as event datasets, where the location, identifier and contents of each trap can be better detailed."
-msgstr ""
+msgstr "出現紀錄\n"
+"雖然這類資料可以作為簡單的出現紀錄資料集分享，但如果能以事件資料集方式分享，將能更詳細地記錄每個陷阱的位置、識別資訊及其內容，效果會更好。"
 
 #. type: Plain text
 #: solutions.en.adoc:178
 #, no-wrap
 msgid "sampling event\n"
 "Insect traps (as well as other traps such as pitfall traps, malaise traps…) are typically used in monitoring programmes to check the presence (or absence) of some species and/or assess their specific abundance.  Using the “eventID” field to identify each trap allows the users to get all of the specimens collected within each trap. The same logic applies to other field protocols such as transects, plots, remote cameras, etc.: by using the Event Core instead of the Occurrence core, you’ll be able to share much more information about the context of the data collection, and allow users to better understand (and even replicate) your work."
-msgstr ""
+msgstr "採樣事件\n"
+"昆蟲誘捕器（以及其他類型的陷阱，如：陷阱坑、誘蟲網等）通常用於監測計畫中，以確認特定物種的出現（或缺席）情況及其豐富度。使用「eventID」欄位來標識每個陷阱，使用者即可取得該陷阱內所有收集到的標本資料。同樣的邏輯也適用於其他田野調查方法，如：樣線（transects）、樣區（plots）、遠端攝影機（remote cameras）等：若使用事件核心（Event Core）而非出現紀錄核心（Occurrence Core），將能分享更多關於資料採集背景的資訊，幫助使用者更好理解，甚至能夠複製你的調查方法。"
 
 #. type: Plain text
 #: solutions.en.adoc:180
 #, no-wrap
 msgid "*What dataset type(s) would you choose for national park management data?*\n"
-msgstr ""
+msgstr "*針對國家公園管理資料，你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:183
 #, no-wrap
 msgid "occurrence\n"
 "record individuals of species"
-msgstr ""
+msgstr "出現紀錄\n"
+"記錄物種個體的存在情形。"
 
 #. type: Plain text
 #: solutions.en.adoc:185
 #, no-wrap
 msgid "checklist\n"
 "It is important to know how many species are present in the park/reserve perimeter and their conservation status."
-msgstr ""
+msgstr "物種名錄\n"
+"了解公園或保護區範圍內現有物種數量及其保育狀態是很重要的。"
 
 #. type: Plain text
 #: solutions.en.adoc:187
 #, no-wrap
 msgid "sampling event\n"
 "check and track the populations"
-msgstr ""
+msgstr "採樣事件\n"
+"檢查與追蹤物種族群變化。\n\n"
 
 #. type: Plain text
 #: solutions.en.adoc:189
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a citizen science bioblitz?*\n"
-msgstr ""
+msgstr "*針對公民科學生物大調查（citizen science bioblitz），你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:192
 #, no-wrap
 msgid "occurrence\n"
 "Bioblitz datasets are mainly shared as occurrence datasets."
-msgstr ""
+msgstr "出現紀錄\n"
+"生物大調查（bioblitz）資料集通常以出現紀錄資料集的形式分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:194
 #, no-wrap
 msgid "sampling event\n"
 "Depending on the citizen science programme, specific sampling protocols might be used by the volunteers, in which case, the data can be shared as an event dataset."
-msgstr ""
+msgstr "採樣事件\n"
+"視公民科學計畫的設計而定，若志工在調查過程中使用了特定的標準化採樣方法，則資料也可以作為事件資料集分享。"
 
 #. type: Plain text
 #: solutions.en.adoc:196
 #, no-wrap
 msgid "*What dataset type(s) would you choose for a regional species list?*\n"
-msgstr ""
+msgstr "*針對地區性物種名錄（regional species list），你會選擇哪種類型的資料集？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:200
 #, no-wrap
 msgid "checklist\n"
 "Geographical or thematic species lists are often used to share information about the species present in a given area; most of the time, these lists also mention the distribution of each species as well as their conservation status in this area.  Regional species lists can give a useful insight into a region’s biodiversity and habitats, and need to be shared as taxonomical datasets, with or without associated occurrences."
-msgstr ""
+msgstr "物種名錄\n"
+"地理或主題性物種名錄通常用來分享某一特定區域內存在的物種資訊；大多數情況下，這些名錄也會提及每個物種在該地區的分布情形及其保育狀態。\n"
+"地區性物種名錄可以提供對該區域生物多樣性與棲地的實用洞察，應作為分類學資料集進行分享，可選擇是否同時附上出現紀錄資料。"
 
 #. type: Title ===
 #: solutions.en.adoc:201
 #, no-wrap
 msgid "Data management review solutions"
-msgstr ""
+msgstr "資料管理與審查解決方案"
 
 #. type: Plain text
 #: solutions.en.adoc:204
 #, no-wrap
 msgid "*Why is it best to clean your data?*\n"
-msgstr ""
+msgstr "*為什麼要清理資料？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:206
 msgid "to make them as fit for use as possible"
-msgstr ""
+msgstr "使資料盡可能適合使用"
 
 #. type: Plain text
 #: solutions.en.adoc:207
 msgid "to achieve your data quality goals"
-msgstr ""
+msgstr "達成你的資料品質目標"
 
 #. type: Plain text
 #: solutions.en.adoc:210
 msgid "You should always aim to manage and publish data with the highest possible quality.  This will improve your day-to-day work (it is easier to work with organized and clean data), as well as the work of potential re-users of your data, who need to understand them and trust their source before using them."
-msgstr ""
+msgstr "你應該始終以管理並發布最高品質的資料為目標。這不僅會提升你的日常工作效率（有條理、乾淨的資料更易於操作），也會幫助未來可能重用這些資料的使用者，讓他們在使用資料前，能夠理解資料內容並信任資料來源。"
 
 #. type: Plain text
 #: solutions.en.adoc:212
 #, no-wrap
 msgid "*How should you organize your data cleaning workflow?*\n"
-msgstr ""
+msgstr "*你該如何規劃資料清理工作流程？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:214
 msgid "ask your colleagues for expertise"
-msgstr ""
+msgstr "向同事請教專業意見"
 
 #. type: Plain text
 #: solutions.en.adoc:215
 msgid "work at an institutional level to harmonize data quality workflows"
-msgstr ""
+msgstr "於機構層級協作以統一資料品質工作流程"
 
 #. type: Plain text
 #: solutions.en.adoc:217
 msgid "Nobody is expected to know everything about biodiversity data; you should seek help and advice from your colleagues or other knowledgeable people, and ensure that you're applying the good practices recommended by your institution as you clean your data."
-msgstr ""
+msgstr "沒有人能夠掌握所有關於生物多樣性資料的知識；因此，你應該主動向同事或其他具專業知識的人士尋求協助與建議，並在清理資料時，確保遵循機構建議的良好做法。"
 
 #. type: Plain text
 #: solutions.en.adoc:219
 #, no-wrap
 msgid "*Which is best:*\n"
-msgstr ""
+msgstr "*哪一種做法最好？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:221
 msgid "prevent errors from occurring"
-msgstr ""
+msgstr "在錯誤發生前預防"
 
 #. type: Plain text
 #: solutions.en.adoc:222
 msgid "correct errors as soon as you find them in your database or spreadsheet"
-msgstr ""
+msgstr "在資料庫或試算表中發現錯誤時立即修正"
 
 #. type: Plain text
 #: solutions.en.adoc:224
 msgid "The best way to avoid spreading errors in your data is to prevent them from occurring at the start of the data collecting/recording process."
-msgstr ""
+msgstr "避免錯誤擴散到資料中的最佳方式，就是從資料蒐集／記錄的最初階段就預防錯誤的發生。"
 
 #. type: Plain text
 #: solutions.en.adoc:226
 msgid "Of course, mistakes are unavoidable so you should also clean them as soon as you find them, and document the cleaning process."
-msgstr ""
+msgstr "當然，錯誤是難以完全避免的，因此你也應該在發現錯誤時立即清理，並且記錄清理過程。"
 
 #. type: Plain text
 #: solutions.en.adoc:228
 msgid "If you don't have the time or resources to properly clean your data, it is best to wait before you can do so instead of publishing erroneous data that might confuse people."
-msgstr ""
+msgstr "如果你暫時沒有時間或資源正確清理資料，那麼應該延後發布，而非發布可能造成混淆的錯誤資料。"
 
 #. type: Plain text
 #: solutions.en.adoc:230
 #, no-wrap
 msgid "*Whose responsibility is data quality?*\n"
-msgstr ""
+msgstr "*資料品質是誰的責任？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:232
 msgid "Everyone involved in the management of data"
-msgstr ""
+msgstr "所有參與資料管理的人"
 
 #. type: Plain text
 #: solutions.en.adoc:234
 msgid "Every person involved in your data management workflow is at least partly responsible for their quality, from the field technicians to the database manager(s)."
-msgstr ""
+msgstr "在資料管理流程中，每一位參與者，從田野技術員到資料庫管理員，都對資料品質負有部分責任。"
 
 #. type: Plain text
 #: solutions.en.adoc:236
 msgid "People who might later use your data can inform you of any remaining error in your data, and should use them responsibly for their own research, but the initial data quality is not their responsibility."
-msgstr ""
+msgstr "未來可能使用你的資料的人，可以協助指出資料中尚存的錯誤，並應該在自身研究中負責任地使用資料；但初步資料品質的確保，並不是使用者的責任。"
 
 #. type: Plain text
 #: solutions.en.adoc:238
 msgid "GBIF can perform automatic checks on your data (e.g. detection of missing values, geographic outliers, unknown scientific names) but should not be held responsible for errors that occurred earlier in the data management process."
-msgstr ""
+msgstr "GBIF 可以對你的資料進行自動檢查（如：偵測缺失值、地理異常值、未知學名等），但不應被視為早期資料管理過程中錯誤的負責單位。"
 
 #. type: Plain text
 #: solutions.en.adoc:240
@@ -5817,144 +5842,145 @@ msgstr "*下列哪些工具可以用來清理你的資料？*\n"
 #. type: Plain text
 #: solutions.en.adoc:242
 msgid "Excel & other spreadsheets management tools"
-msgstr ""
+msgstr "可以用來管理 Excel 及其他試算表的工具"
 
 #. type: Plain text
 #: solutions.en.adoc:244
 msgid "Your database software"
-msgstr ""
+msgstr "你的資料庫軟體"
 
 #. type: Plain text
 #: solutions.en.adoc:245
 msgid "Online tools such as Scientific Names Resolver or Google Maps"
-msgstr ""
+msgstr "線上工具，如：Scientific Names Resolver、Google Maps"
 
 #. type: Plain text
 #: solutions.en.adoc:247
 msgid "All kinds of tools can be used to clean your data, but you should identify which ones will answer your needs in terms of taxonomic resolving, georeferencing, deleting duplicates, and so on. You can find <<helpful-tools,helpful tools>> listed in the data management section."
-msgstr ""
+msgstr "各種工具都可以協助資料清理，不過你應該根據自己的需求選擇適合的工具，例如：分類學名稱解析（taxonomic resolving）、地理定位（georeferencing）、刪除重複值（deleting duplicates）等等。\n"
+"你可以在資料管理章節中找到【實用工具（helpful tools）】的相關資訊。"
 
 #. type: Title ===
 #: solutions.en.adoc:248
 #, no-wrap
 msgid "Data publishing review solutions"
-msgstr ""
+msgstr "資料發布與審查解決方案"
 
 #. type: Plain text
 #: solutions.en.adoc:251
 #, no-wrap
 msgid "*What does data publishing mean in the context of GBIF?*\n"
-msgstr ""
+msgstr "*在 GBIF 的脈絡下，什麼是資料發布（data publishing）？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:253
 msgid "Making your biodiversity dataset(s) publicly accessible and discoverable in a standardized format"
-msgstr ""
+msgstr "讓你的生物多樣性資料集（dataset）以標準化格式公開被取用與搜索"
 
 #. type: Plain text
 #: solutions.en.adoc:255
 msgid "Data publishing within GBIF means making your biodiversity dataset(s) publicly accessible in a standardized format (most of the time, Darwin Core), so that it can be discovered and reused by other people."
-msgstr ""
+msgstr "在 GBIF 中進行資料發布，意指將你的生物多樣性資料集以標準化格式（大多為達爾文核心集（Darwin Core））公開上傳，使其能被他人搜索與重複利用。"
 
 #. type: Plain text
 #: solutions.en.adoc:257
 #, no-wrap
 msgid "*What is an IPT?*\n"
-msgstr ""
+msgstr "什麼是整合發布工具包（IPT，Integrated Publishing Toolkit）？\n"
 
 #. type: Plain text
 #: solutions.en.adoc:259
 msgid "a tool that helps you publish your data to GBIF"
-msgstr ""
+msgstr "一個協助你將資料發布至 GBIF 的工具"
 
 #. type: Plain text
 #: solutions.en.adoc:260
 msgid "a tool that helps you produce a Data paper"
-msgstr ""
+msgstr "一個協助你撰寫資料論文的工具"
 
 #. type: Plain text
 #: solutions.en.adoc:263
 msgid "The IPT (Integrated Publishing Toolkit) is a Java-coded software that allows you to upload and publish data to GBIF.  It is not to be used as a data management or data cleaning tool."
-msgstr ""
+msgstr "整合發布工具包（IPT，Integrated Publishing Toolkit）是一套以 Java 編寫的軟體，用來將你的資料上傳並發布至 GBIF。它不是資料管理或資料清理的工具，請勿將其誤用於資料品質處理用途。"
 
 #. type: Plain text
 #: solutions.en.adoc:265
 msgid "The IPT can also help you with the process of writing and submitting a data paper, thanks to the EML file it generates automatically when you fill in the metadata for your data resource."
-msgstr ""
+msgstr "IPT 也能協助你撰寫與提交資料論文，因為在填寫資料資源的中繼資料時，它會自動產生一份生態詮釋資料語言（EML，Ecological Metadata Language）檔案，可直接用於論文撰寫程序。"
 
 #. type: Plain text
 #: solutions.en.adoc:267
 #, no-wrap
 msgid "*Which Creative Commons licences and waivers are recommended by GBIF for data publication?*\n"
-msgstr ""
+msgstr "*GBIF 建議用於資料發布的創用 CC（Creative Commons）授權條款有哪些？*"
 
 #. type: Plain text
 #: solutions.en.adoc:269
 msgid "CC0, CC-BY and CC-BY-NC"
-msgstr ""
+msgstr "CC0、CC-BY、CC-BY-NC"
 
 #. type: Plain text
 #: solutions.en.adoc:272
 msgid "The Creative Commons licences and waivers recommended to publish your dataset(s) to GBIF are CC0, CC-BY and CC-BY-NC.  They are widely recognized licenses and/or waivers that align with international open-data requirements for data sharing and re-use."
-msgstr ""
+msgstr "GBIF 建議你在發布資料集時，使用以下三種創用 CC（Creative Commons）授權或棄權條款：CC0、CC-BY 以及 CC-BY-NC。這些條款都是國際廣泛認可的開放資料授權方式，符合資料共享與重複使用的國際標準。"
 
 #. type: Plain text
 #: solutions.en.adoc:274
 msgid "Please note that you should only choose CC0 or CC-BY waiver/license for your BID-related dataset(s)."
-msgstr ""
+msgstr "請注意：若你所發布的資料集屬於生物多樣性相關資料集（BID-related dataset），則只能選擇 CC0 或 CC-BY 這兩種授權條款。"
 
 #. type: Plain text
 #: solutions.en.adoc:276
 #, no-wrap
 msgid "*What are the three Cores from which you can choose for an IPT resource?*\n"
-msgstr ""
+msgstr "*在 IPT 資源中，你可以選擇哪三種核心之一？*\n"
 
 #. type: Plain text
 #: solutions.en.adoc:278
 msgid "Occurrence Core, Taxon Core, Event Core"
-msgstr ""
+msgstr "出現紀錄核心（Occurrence Core）、分類單元核心（Taxon Core）、事件核心（Event Core）"
 
 #. type: Plain text
 #: solutions.en.adoc:280
 msgid "You can choose one of the three following Cores for each of your IPT resources: Occurrence, Taxon or Event Core."
-msgstr ""
+msgstr "你可以為每一筆 IPT 資源選擇下列三種核心之一作為主核心：出現紀錄（Occurrence）、分類單元（Taxon）或 事件（Event）核心。"
 
 #. type: Plain text
 #: solutions.en.adoc:282
 msgid "The Darwin Core standard also allows you to link extensions to your chosen Core, such as SimpleMultimedia or MeasurementOrFact."
-msgstr ""
+msgstr "Darwin Core 標準也允許你將延伸項目連結至你所選擇的核心，例如：簡易多媒體（SimpleMultimedia）或 測量或事實（MeasurementOrFact）等。"
 
 #. type: Plain text
 #: solutions.en.adoc:284
 msgid "The metadata are filled in a separate section of the IPT and are shared using the EML standard, not the Darwin Core (which is used for data only)."
-msgstr ""
+msgstr "中繼資料則是在 IPT 中的另一個區段填寫，並以 EML（Ecological Metadata Language）標準進行分享，而非使用 Darwin Core（Darwin Core 僅用於資料本體的格式化欄位）。"
 
 #. type: Plain text
 #: solutions.en.adoc:286
 #, no-wrap
 msgid "*How many Extensions files can a dataset have?*\n"
-msgstr ""
+msgstr "一個資料集可以有幾個延伸項目檔案？\n"
 
 #. type: Plain text
 #: solutions.en.adoc:288
 msgid "as many as needed"
-msgstr ""
+msgstr "視需求可加入任意數量"
 
 #. type: Plain text
 #: solutions.en.adoc:291
 msgid "Once you have chosen a Core for your IPT resource, you can add Darwin core extensions to it.  You can add only one or several extensions, depending on the type of Core you chose, and which extensions are compatible with it."
-msgstr ""
+msgstr "當你為 IPT 資源選定主核心之後，即可加入一個或多個 Darwin Core 延伸項目。你可以根據所選核心的類型與可相容的延伸，加入相對應的欄位。"
 
 #. type: Plain text
 #: solutions.en.adoc:293
 msgid "Extensions are not mandatory (you can publish a dataset without any extension) but can be useful if you want to share additional information that you could not map with your chosen Core."
-msgstr ""
+msgstr "延伸項目的加入是可選擇的（你可以發布一個完全不包含延伸的資料集），但當你想要分享無法在核心欄位中對應的額外資訊時，延伸會非常有幫助。"
 
 #. type: Title ===
 #: solutions.en.adoc:294
 #, no-wrap
 msgid "Use Case I suggested solution"
-msgstr ""
+msgstr "使用案例 I 建議解方"
 
 #. type: Plain text
 #: solutions.en.adoc:296
@@ -5965,23 +5991,23 @@ msgstr "link:../course-docs/UC1-Herbarium-Suggested-Solution_EN.pdf[suggested so
 #: acknowledgements.en.adoc:2
 #, no-wrap
 msgid "Acknowledgements "
-msgstr ""
+msgstr "致謝 "
 
 #. type: Title ===
 #: acknowledgements.en.adoc:4
 #, no-wrap
 msgid "Course design and instruction"
-msgstr ""
+msgstr "課程設計與授課團隊"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:8
 msgid "The success of this course depends heavily on the support provided to participants from GBIF's network of capacity enhancement mentors.  Visit the GBIF page on https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] to read more about these individuals and their contributions."
-msgstr ""
+msgstr "本課程之成功，有賴於 GBIF 能力培育導師網絡對學員的全力支持。歡迎造訪 GBIF 官方網頁：https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity enhancement mentoring^] 進一步了解這些導師與他們的重要貢獻。"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:10
 msgid "The following individuals are recognized for their significant contributions to the course design, materials and instruction:"
-msgstr ""
+msgstr "以下人員對於本課程的設計、教材編製與教學執行，貢獻卓著，特此致謝："
 
 #. type: Plain text
 #: acknowledgements.en.adoc:12
@@ -6052,12 +6078,12 @@ msgstr "Paula Zermoglio"
 #: acknowledgements.en.adoc:26
 #, no-wrap
 msgid "*Originators of the curriculum\n"
-msgstr ""
+msgstr "*課程原始設計者\n"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:28
 msgid "Special acknowledgement to Arthur Chapman for the reuse of his materials on Data Quality."
-msgstr ""
+msgstr "特別感謝 Arthur Chapman，允許我們重製並使用其「資料品質」相關教材內容。"
 
 #. type: Title ===
 #: acknowledgements.en.adoc:29
@@ -6167,12 +6193,13 @@ msgstr "William Ulate"
 #: acknowledgements.en.adoc:54
 #, no-wrap
 msgid "Resources"
-msgstr ""
+msgstr "資源來源"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:57
 msgid "The online tabletop platform is provided by https://playingcards.io/[PlayingCards.io^]. Much appreciation and thanks to Jwalant Patel and Eric Ma for finding and helping to create the online playing tables and to Kate Webbink for artistic expertise."
-msgstr ""
+msgstr "本課程所使用之線上桌遊平台由https://playingcards.io/[PlayingCards.io^] 提供。\n"
+"特別感謝 Jwalant Patel 與 Eric Ma 協助平台搜尋與建立，以及 Kate Webbink 提供的藝術設計支援。"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:58
@@ -6193,7 +6220,7 @@ msgstr "https://www.gbif.org/ipt[Integrated Publishing Toolkit^]"
 #: acknowledgements.en.adoc:61
 #, no-wrap
 msgid "Resource support"
-msgstr ""
+msgstr "資源支援"
 
 #. type: Plain text
 #: acknowledgements.en.adoc:64
@@ -6234,46 +6261,47 @@ msgstr "http://vertnet.org/[VertNet^]"
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "版本標註"
 
 #. type: Title ===
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "建議引用格式"
 
 #. type: Plain text
 #: colophon.en.adoc:6
 msgid "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/ce-c6cr-6w42. [Date of course.]"
-msgstr ""
+msgstr "GBIF 秘書處（2021）《GBIF 生物多樣性資料動員課程》第十二版。GBIF 秘書處：哥本哈根。\n"
+"https://doi.org/10.35035/ce-c6cr-6w42。［課程使用日期註記］"
 
 #. type: Title ===
 #: colophon.en.adoc:7
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "貢獻者"
 
 #. type: Plain text
 #: colophon.en.adoc:10
 msgid "The _GBIF Biodiversity Data Mobilization Course_ was originally developed as part of https://www.gbif.org/bid[Biodiversity Information Development^], a programme funded by the https://europa.eu[European Union^]. The original curriculum was created by Nestor Beltran, Sharon Grant, Nicolas Nóe, Sophie Pamerlon, Alberto González-Talaván, Mélianie Raymond, Laura Anne Russell and Katia Cezón, with additional contributions by GBIF trainers, mentors and students."
-msgstr ""
+msgstr "《GBIF 生物多樣性資料動員課程》最初由 https://www.gbif.org/bid[Biodiversity Information Development^], 計畫所開發，該計畫由 https://europa.eu[European Union^] 提供資金支持。本課程原始課綱由 Nestor Beltran、Sharon Grant、Nicolas Nóe、Sophie Pamerlon、Alberto González-Talaván、Mélianie Raymond、Laura Anne Russell 與 Katia Cezón 撰寫，並由 GBIF 訓練師、導師與學員提供進一步補充與貢獻。"
 
 #. type: Title ===
 #: colophon.en.adoc:11
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "授權條款"
 
 #. type: Plain text
 #: colophon.en.adoc:14
 msgid "_GBIF Biodiversity Data Mobilization Course_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License]."
-msgstr ""
+msgstr "《Gbif 生物多樣性資料動員課程》採用 https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License] 授權。"
 
 #. type: Title ===
 #: colophon.en.adoc:15
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "永久識別網址"
 
 #. type: Plain text
 #: colophon.en.adoc:18
@@ -6284,12 +6312,12 @@ msgstr "https://doi.org/10.35035/ce-c6cr-6w42"
 #: colophon.en.adoc:19
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "文件版本紀錄"
 
 #. type: Plain text
 #: colophon.en.adoc:21
 msgid "12th edition, May 2021"
-msgstr ""
+msgstr "第十二版，2021 年 5 月"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:2 scripts/data-management.en.txt:2
@@ -6306,7 +6334,7 @@ msgstr "// Slide 1\n"
 #: scripts/data-capture.en.txt:4
 #, no-wrap
 msgid "This presentation is based on “Principles for data quality” by Arthur Chapman\n"
-msgstr ""
+msgstr "本簡報內容以 Arthur Chapman 所撰之《資料品質原則（Principles for data quality）》為基礎\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:6 scripts/data-management.en.txt:6
@@ -6323,7 +6351,7 @@ msgstr "// Slide 2\n"
 #: scripts/data-capture.en.txt:8
 #, no-wrap
 msgid "During this presentation, we will explore the principles of data quality applied to data capture, specifically when capturing data from collection labels, fieldwork notebooks, spreadsheets, etc.\n"
-msgstr ""
+msgstr "在這場簡報中，我們將探討資料品質原則如何應用於資料擷取階段，特別是處理典藏標籤、田野筆記本、試算表等來源的資料時。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:10 scripts/data-management.en.txt:11
@@ -6343,7 +6371,8 @@ msgid "Data quality is essential at every step of the data mobilization process,
 "Each person involved in the data capture has a share of responsibility regarding the data quality, but most decisions on this topic quality have to be taken at the institutional level.\n"
 "The keywords here are: planning and documentation! \n"
 "As mentioned in the Foundations documentation presentation, use existing standards and plan your workflows to match your goals; document everything you can, at every step, and share or re-use documents, data, tools and standards as much as possible.\n"
-msgstr ""
+msgstr "資料品質在整個資料動員流程中的每一個階段都相當重要，尤其是在資料擷取步驟中。每一位參與資料擷取的人，對資料品質皆負有一定責任；然而，與資料品質相關的多數關鍵決策，應於機構層級進行規劃與制定。此處的兩個關鍵詞是：規劃與文件化！\n"
+"如同在「基礎概念簡報」中所提及，請善用既有標準、規劃資料工作流程以對應你的目標，並在每個階段記錄所有可以記錄的內容，儘可能分享或重複使用既有的文件、資料、工具與標準。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:17
@@ -6359,7 +6388,11 @@ msgid "This is an example of a data quality workflow.\n"
 "Data quality isn’t the sole responsibility of the first person in the process (here, the collector) -- it is shared at every step and every person in the process should have a responsibility for quality.\n"
 "A functioning feedback loop needs to be in place in order to check, complete, update or correct data.\n"
 "This is where documentation is essential: you need to know who was responsible for each step in the process in order to validate changes that have been made to the data (or need to be made to the data).\n"
-msgstr ""
+msgstr "這是一個資料品質工作流程（data quality workflow）的範例。\n"
+"在這個流程中，從標本採集開始，接著進入資料擷取、品質控制、資料發布，最後到資料使用。\n"
+"資料品質並不是由流程中最初的參與者（此處為採集者）單方面負責的，每一位參與者每個階段都承擔資料品質的責任，也都應對品質把關負起一定責任。\n"
+"為了能檢查、補充、更新或修正資料內容，必須建立一個可運作的回饋機制。\n"
+"這也是為什麼文件紀錄非常重要：你需要清楚知道每個流程步驟是誰負責的，才能在需要修改或已修改資料時，確保其變更是合理且可追溯的。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:25 scripts/data-management.en.txt:35
@@ -6377,7 +6410,9 @@ msgstr "// Slide 5\n"
 msgid "In this simplified view of the data flow, you can see some of the data quality responsibilities of each group of people involved.\n"
 "In this example, the team in charge of the mobilization can be split into the ‘transcribers’ and ‘curator’ roles.\n"
 "The transcribers team needs to ensure data is captured and saved as best as possible, while the ‘curator’ role has the ultimate responsibility for ensuring that each team is fulfilling their roles in the process.\n"
-msgstr ""
+msgstr "在這個簡化的資料流程圖中，你可以看到不同角色在資料品質上的責任分工。\n"
+"在此範例中，負責資料動員的團隊可分為兩個角色群組：資料謄錄者與策展人。\n"
+"謄錄團隊的任務是盡可能準確地擷取與儲存資料，而策展人則需負起最終責任，確保每個團隊在流程中都確實履行其職責。"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:31 scripts/data-management.en.txt:41
@@ -6397,7 +6432,10 @@ msgid "Once the data workflow is in place, the data capture itself can begin.\n"
 "In the following slides, we will explore the different types of information that can be captured from specimens or field observations, and see what are the most common mistakes that should be avoided when dealing with each kind of information.\n"
 "The main topics will be as follows: taxonomic information, spatial information, collection information, descriptive information.\n"
 "Please note that each occurrence (each row in your database or spreadsheet) should have information linked to these 4 main topics in order to be shared and reused accordingly.\n"
-msgstr ""
+msgstr "當資料工作流程建立完成後，資料擷取工作便可正式展開。\n"
+"在接下來的簡報中，我們將依序探討可從標本或田野觀察中擷取的各類資訊，並說明在處理這些資訊時常見的錯誤類型與應避免的做法。\n"
+"本單元將涵蓋以下四大主題：分類學資訊（taxonomic information）、空間資訊（spatial information）、採集資訊（collection information）、描述性資訊（descriptive information）。\n"
+"請注意：每一筆出現紀錄（也就是你在資料庫或試算表中的每一列），都應包含上述四類資訊的對應欄位，這樣資料才能被妥善地分享與重複使用。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:38
@@ -6411,7 +6449,9 @@ msgstr "// Slide 7 \n"
 msgid "Taxonomic information is an essential part of the data capture process.\n"
 "Without it, a digitized specimen is useless and cannot be properly interpreted or reused.\n"
 "Note that the species name is not the only type of taxonomic information that can be exploited in the data capture process: sometimes the specimen hasn’t been identified to the species, and higher taxonomic levels such as the genus or family are still useful for data managers and users.\n"
-msgstr ""
+msgstr "分類學資訊（Taxonomic information）是資料擷取流程中不可或缺的一部分。\n"
+"若缺乏分類學資訊，數位化後的標本將無法被正確詮釋或再利用，等同於失去其科學價值。\n"
+"需要注意的是，「物種名稱」並不是資料擷取過程中唯一可用的分類資訊來源。有時標本尚未鑑定至物種階層，此時提供較高階的分類單元（如屬或科）依然對資料管理者與使用者具有實質參考價值。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:44 scripts/data-management.en.txt:63
@@ -6427,7 +6467,9 @@ msgstr "// Slide 8\n"
 #, no-wrap
 msgid "Most of the time, the scientific name is the main way of retrieving data in a database, portal, website, browser… Any error in the spelling or authority can lead to wrong or null queries, thus impeding the management and potential reuse of the data.\n"
 "This is why it’s very important to check all categories of scientific names to fix errors and/or omissions.\n"
-msgstr ""
+msgstr "在大多數情況下，「學名（scientific name）」是使用者查詢資料庫、入口網站、網頁或瀏覽器的主要依據。\n"
+"因此，若在學名拼寫或權威命名（authority）上出現錯誤，都可能導致查無資料或查詢錯誤，進而影響資料的管理與後續使用。\n"
+"這也是為什麼我們必須全面檢查所有類別的學名欄位，以便修正錯誤與補齊遺漏資訊。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:49 scripts/data-management.en.txt:73
@@ -6446,7 +6488,8 @@ msgid "The most common issues occurring with taxon information are missing or in
 "Always check the definitions and examples of taxonomic Darwin Core terms to avoid nomenclatural mistakes: http://rs.tdwg.org/dwc/terms/index.htm\n"
 " \n"
 "// Slide 10\n"
-msgstr ""
+msgstr "最常見的分類學資訊問題包括：資料缺漏或不一致、錯誤或非原子化的欄位值、重複資料和不確定性標註。\n"
+"為了避免命名錯誤，請務必查閱 Darwin Core 分類學欄位的定義與範例，以確保填寫正確無誤：http://rs.tdwg.org/dwc/terms/index.htm\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:60
@@ -6456,7 +6499,11 @@ msgid "Geographic information proves to be valuable in a lot of data re-use cont
 "Coordinates should be recorded directly on the field when possible, along with the uncertainty and the geodetic datum used.\n"
 "Otherwise use relevant and verified sources to geolocate your data.\n"
 "You should note that coordinates or other geographic information can be generalized or not even shared at all in some contexts, such as with the conservation of sensitive species.\n"
-msgstr ""
+msgstr "地理資訊在許多資料再利用的情境中都極具價值，例如生態棲位模型或物種分布研究。\n"
+"雖然「舊有」典藏或標本往往難以、甚至無法精確定位其地理位置，但在可行的情況下，仍建議提供精確的座標或文字描述。\n\n"
+"若有現場採集的機會，應於野外直接記錄座標，並同時註明位置不確定性與所使用的大地基準。\n"
+"若無法直接記錄，則應使用可信且經驗證的資料來源來進行地理定位。\n\n"
+"需要注意的是，在某些情境下，例如保育敏感物種，座標或其他地理資訊可能必須模糊化處理，甚至不予公開，以避免對物種造成潛在風險。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:62 scripts/data-management.en.txt:97
@@ -6474,7 +6521,8 @@ msgstr "// Slide 11\n"
 #, no-wrap
 msgid "Spatial information can be found in numerous formats, not only geographic coordinates: examples include (but are not limited to) grid data, point+radius, or polygons.\n"
 "Each of them is useful to share in order to check the consistency of the geographical elements (eg coordinates vs country code, or to ensure a given locality is consistent with a collector’s travels)\n"
-msgstr ""
+msgstr "空間資訊（spatial information）可以存在於多種格式中，不僅限於地理座標（geographic coordinates）；舉例來說，包括但不限於網格資料（grid data）、點加半徑（point+radius）、或多邊形（polygons）等。\n"
+"分享這些資訊有助於檢查地理元素的一致性，例如：座標與國家代碼（country code）是否相符，或是確認某一地點是否符合採集者的旅行路徑。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:67 scripts/data-management.en.txt:124
@@ -6490,7 +6538,8 @@ msgstr "// Slide 12\n"
 #, no-wrap
 msgid "Within GBIF, it is recommended to share the geodetic Datum that was used to derive the coordinates (decimal latitude and longitude) shared.\n"
 "In the absence of a specific geodetic datum, GBIF will infer WGS84 as default.\n"
-msgstr ""
+msgstr "在 GBIF 的資料分享建議中，應一併提供產生座標（小數緯度與經度，decimal latitude and longitude）時所使用的地理基準（geodetic datum）。\n"
+"若未特別標註地理基準，GBIF 將預設推論為 WGS84。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:72 scripts/data-types.en.txt:69
@@ -6507,7 +6556,8 @@ msgstr "// Slide 13\n"
 msgid "This slide shows an old GBIF map with different types of geographical issues: the most obvious one is a mirror effect between the USA and China (reversed coordinates), and you can also notice an artificial line along the Greenwich meridian where ‘0’ values were put in the ‘decimalLongitude’ field, as well as another one on the Equator where ‘0’ values were put in the ‘decimalLatitude’ field.\n"
 "GBIF indexing now includes automatic geographical checks between the coordinates and countryCode shared within the dataset.\n"
 "Coordinates can be automatically reversed to match the country. \n"
-msgstr ""
+msgstr "這張投影片展示了一張舊版 GBIF 地圖，其中標示了不同類型的地理錯誤。最明顯的是美國與中國之間出現鏡像效應（座標反轉）；你也可以注意到格林威治子午線（Greenwich meridian）上出現了一條人為線條，這是因為在「decimalLongitude」欄位中出現了「0」值；赤道（Equator）上也出現另一條線，因為「decimalLatitude」欄位中出現了「0」值。\n"
+"目前 GBIF 的索引系統已內建自動地理檢查功能，會比對資料集內分享的座標與國家代碼（countryCode），並可自動反轉座標以符合所屬國家。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:78 scripts/data-types.en.txt:74
@@ -6523,7 +6573,8 @@ msgstr "// Slide 14\n"
 #, no-wrap
 msgid "Information about the context of the data collection or observation are very useful to share in order to give as much detail as possible regarding each occurrence.\n"
 "Information such as the collector name, collection or observation protocol, habitat and other factors can prove to be important when reusing data for example with ecological niche modelling.\n"
-msgstr ""
+msgstr "關於資料採集或觀察背景的資訊，也非常值得分享，以提供每筆出現紀錄更多細節。\n"
+"例如：採集者姓名（collector name）、採集或觀察方法（collection or observation protocol）、棲地（habitat）及其他相關因子等，這些資訊在後續資料重用，例如：生態棲位建模（ecological niche modelling）時，可能會成為非常重要的參考依據。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:86
@@ -6532,7 +6583,10 @@ msgid "// Slide 15\n"
 "Data quality factors regarding collection information are mainly along the lines of exactitude like the correct collector name, consistency for example using the same vocabulary for describing soils, habitats, and completeness as in providing all existing information about the description of a given species including the  flowering period, colour of the leaves, and medicinal uses.\n"
 "Within the Darwin Core and within the IPT you can find recommended controlled vocabularies for some fields such as the ‘lifeStage’.\n"
 "The TDWG vocabularies task group works to promote and make better the ease of use across vocabularies.\n"
-msgstr ""
+msgstr "投影片15\n"
+"收集資訊的資料品質要素主要包括準確性（如採集者姓名是否正確）、一致性（如在描述土壤與棲地時使用相同的詞彙）、以及完整性（如提供關於特定物種描述的所有現有資訊，包括花期、葉片顏色與藥用用途）。\n"
+"在達爾文核心標準與 IPT 中，可以找到針對部分欄位（例如：生命階段）所建議的控制詞彙。\n"
+"TDWG 詞彙工作小組致力於推廣並改進這些詞彙表的可用性，以促進跨詞彙系統的一致與使用。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:88 scripts/data-types.en.txt:83
@@ -6547,25 +6601,25 @@ msgstr "// Slide 16\n"
 #: scripts/data-capture.en.txt:90
 #, no-wrap
 msgid "Keep in mind that descriptive information are often incomplete due to a whole array of factors.\n"
-msgstr ""
+msgstr "請記住，描述性資訊往往因各種因素而不完整。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:92
 #, no-wrap
 msgid "Depending on the collection state, some labels can be incomplete or lacking crucial information; \n"
-msgstr ""
+msgstr "根據標本或資料的保存狀況，有些標籤可能不完整，或缺少關鍵資訊\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:94
 #, no-wrap
 msgid "Completeness (for example of a species description) is often impossible to achieve with a single individual; \n"
-msgstr ""
+msgstr "完整性（例如物種描述）往往無法僅依靠單一個體實現\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:96
 #, no-wrap
 msgid "and you should always check for consistency in your database or spreadsheet, for example in the terms used for describing colours, in order to avoid redundant information.\n"
-msgstr ""
+msgstr "此外，應隨時檢查資料庫或試算表中的一致性，例如在顏色描述所使用的詞彙上，以避免出現重複或多餘的資訊。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:98 scripts/data-types.en.txt:88
@@ -6582,7 +6636,9 @@ msgstr "// Slide 17\n"
 msgid "This presentation has focused on the topic of data quality applied to data capture; indeed, these are the steps where it is crucial to ensure that all information related to each record is correctly and completely captured, in order for the data to be as clear and understandable as possible for future users.\n"
 "This can only be done if consistent decisions are made at the institutional level in order to create a solid workflow for data capture and data management.\n"
 "The chain of responsibility regarding data quality is then split between the persons involved at each step of the process, but keep in mind that data can always be improved and fixed if errors or omissions are detected at later stages.\n"
-msgstr ""
+msgstr "本次演講重點探討了資料收集過程中的資料品質問題；事實上，在這些步驟中，確保與每筆記錄相關的所有資訊都得到正確、完整的採集至關重要，這樣才能確保資料對未來的使用者盡可能清晰易懂。\n\n"
+"只有在機構層級做出一致的決策，以創建可靠的資料收集和資料管理工作流程，才能做到這一點。\n\n"
+"資料品質的責任鏈隨後被分配給流程每個步驟的相關人員，但請記住，如果在後期階段檢測到錯誤或遺漏，資料總是可以改進和修復的。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:104 scripts/data-types.en.txt:92
@@ -6599,62 +6655,63 @@ msgstr "// Slide 18\n"
 #: scripts/publishing-concepts.en.txt:194 scripts/standards.en.txt:291
 #, no-wrap
 msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
-msgstr ""
+msgstr "如果對演講有任何疑問，請透過電子學習平台提供的討論區提出。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:108 scripts/data-types.en.txt:139
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
-msgstr ""
+msgstr "本影片屬於 GBIF 生物多樣性資料流通課程中一系列簡報的一部分。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:110 scripts/data-types.en.txt:141
 #, no-wrap
 msgid "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "生物多樣性資料流通課程最初是作為歐盟資助的生物多樣性資訊發展計劃的一部分而開發的。\n"
 
 #. type: Plain text
 #: scripts/data-capture.en.txt:111
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by Laura Russell, BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "本簡報最初由 Sophie Pamerlon 製作並講述，並由 Laura Russell 以及 BID 與 BIFA 的講師、導師和學生提供額外貢獻。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:4
 #, no-wrap
 msgid "In this presentation, we are going to explore the key principles and processes important to effective data management.\n"
-msgstr ""
+msgstr "在本次簡報中，我們將探討有效資料管理的重要原則和流程。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:9
 #, no-wrap
 msgid "The concept of data management includes a wide range of topics, from metadata formats to database organization.\n"
 "In this presentation we are going to discuss an important set of principles necessary to improve data through the processes of data cleaning.\n"
-msgstr ""
+msgstr "資料管理的概念涵蓋了從詮釋資料格式到資料庫組織等廣泛的主題。\n"
+"在此簡報中，我們將討論透過資料清理流程來改善資料所必需的一組重要原則。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:13
 #, no-wrap
 msgid "What is data cleaning?\n"
-msgstr ""
+msgstr "什麼是資料清理？\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:15
 #, no-wrap
 msgid "Data Cleaning was defined by Arthur Chapman in 2005 as:\n"
-msgstr ""
+msgstr "資料清理在 2005 年由 Arthur Chapman 定義為：\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:17
 #, no-wrap
 msgid "“A process used to determine inaccurate, incomplete, or unreasonable data and then improving the quality through correction of detected errors and omissions.”\n"
-msgstr ""
+msgstr "「一種用於辨別不正確、不完整或不合理資料的過程，並透過修正所發現的錯誤與遺漏來提升資料品質」。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:19
 #, no-wrap
 msgid "The process of cleaning might include checks on formatting, completeness and reasonableness, the identification of outliers, review by content experts, and validation against accepted standards, rules, and conventions.\n"
-msgstr ""
+msgstr "資料清理的過程可能包括格式檢查、完整性與合理性檢驗、離群值辨別、內容專家審查，以及依據公認標準、規則與慣例的驗證。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:21 scripts/data-types.en.txt:17
@@ -6670,49 +6727,49 @@ msgstr "// Slide 4\n"
 #: scripts/data-management.en.txt:23
 #, no-wrap
 msgid "Although there are many methods that can be applied while cleaning data, we view the process of cleaning in five general steps:\n"
-msgstr ""
+msgstr "雖然在資料清理過程中可應用多種方法，但我們將資料清理流程概括為五個主要步驟：\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:25
 #, no-wrap
 msgid "First, we seek to determine and define the types of errors that are most likely present in our data.\n"
-msgstr ""
+msgstr "首先，我們需要確定和定義我們的資料中最有可能存在的錯誤類型。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:27
 #, no-wrap
 msgid "Next, we conduct a search to identify the instances where those error have occurred.\n"
-msgstr ""
+msgstr "接下來，我們進行搜尋以找出這些錯誤實際發生的情形。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:29
 #, no-wrap
 msgid "Then, we will correct those errors, whenever possible.\n"
-msgstr ""
+msgstr "之後，我們會在可行的情況下修正這些錯誤。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:31
 #, no-wrap
 msgid "When we decide on the best means to make corrections, we want to document both the types of errors we find, as well as the solutions we have applied to them.\n"
-msgstr ""
+msgstr "當我們決定最佳的修正方法時，我們希望記錄我們發現的錯誤類型以及我們對它們應用的解決方案。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:33
 #, no-wrap
 msgid "Finally, we want to modify how data entry is practiced to reduce future errors of the same type. (Maletic & Marcus, 2000)\n"
-msgstr ""
+msgstr "最後，我們希望改進資料輸入的作業方式，以減少未來出現相同類型錯誤的機會。 （Maletic & Marcus，2000）\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:37
 #, no-wrap
 msgid "One thing is certain: Errors are common and we can always expect to find them in the data we maintain.\n"
-msgstr ""
+msgstr "有一點是確定的：錯誤很常見，我們總是會在我們維護的資料中發現它們。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:39
 #, no-wrap
 msgid "Our goal is to apply the best practices, including principles, processes, and tools, to make the data as fit for use as possible, even if we don’t know how data users will use the data.\n"
-msgstr ""
+msgstr "我們的目標是應用最佳實踐，包括原則、流程和工具，使資料盡可能適合使用，即使我們不知道資料使用者將如何使用資料。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:45
@@ -6720,25 +6777,27 @@ msgstr ""
 msgid "Let’s take a look at several of the recommended principles of data cleaning.\n"
 "These principles are presented for your consideration so that you can develop and improve upon your own data quality workflow.\n"
 "The workflow that you create should represent the most efficient and effective process to achieve the highest data quality given your institution’s resources and expertise.\n"
-msgstr ""
+msgstr "讓我們來看看幾項推薦的資料清理原則。\n"
+"這些原則旨在提供參考，協助你建立並持續改進自己的資料品質工作流程。\n"
+"你所設計的流程，應在機構可用的資源與專業能力範圍內，達成最高效且最有效的資料品質管理。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:47
 #, no-wrap
 msgid "Talk to your colleagues to learn about their workflows, but ultimately you should strive to create a workflow that will help you to achieve your data quality goals.\n"
-msgstr ""
+msgstr "與同事交流以了解他們的工作流程，但最終仍應致力於建立一套能協助你達成資料品質目標的流程。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:49
 #, no-wrap
 msgid "// Slide 7: Plan and Organize\n"
-msgstr ""
+msgstr "投影片7：規劃與組織\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:51
 #, no-wrap
 msgid "The first two principles in data cleaning are planning and organization.\n"
-msgstr ""
+msgstr "資料清理的前兩項原則是規劃與組織。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:56
@@ -6747,7 +6806,10 @@ msgid "Plan how you want the cleaning process to go.\n"
 "A scattered or random approach is not likely to produce consistent results.\n"
 "Develop and implement a strategy that fits with your institution’s resources and expertise.\n"
 "A solid plan will improve both your data and the reputation of your institution among data users.\n"
-msgstr ""
+msgstr "先規劃好資料清理的進行方式。\n"
+"零散或隨意的做法難以產生一致的結果。\n"
+"制定並實施符合你的機構資源和專業知識的策略。\n"
+"完善的計畫不僅能提升資料品質，亦能增進機構在資料使用者之間的聲譽。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:61
@@ -6756,7 +6818,10 @@ msgid "One of the first steps of your plan should be to organize the data.\n"
 "For example, you could organize your data by taxon and then send the appropriate subset of data to individuals with the knowledge or resources to clean based on names.\n"
 "This can be done by geography or basis of record, or even in specifically sized packages of data in numeric order.\n"
 "Work to the strengths of your institution.\n"
-msgstr ""
+msgstr "你的計劃的第一步應該是整理資料。\n"
+"例如，你可以按分類群整理數據，然後將相應的資料子集分配給具備相關知識或資源的人員，依物種名稱進行清理。\n"
+"資料也可以依地理位置或紀錄類型來整理，甚至可以按數字順序將資料分成特定大小的資料夾。\n"
+"應充分發揮機構的優勢來安排資料處理。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:68
@@ -6765,14 +6830,18 @@ msgid "As Arthur Chapman says “Prevention is better than cure.” \n"
 "At the end of the day is always easier and less expensive to prevent an error than it is seek one out and correct it.\n"
 "The more planning you do in advance, even all the way back to the moment that data is recorded in the field, the fewer errors you are likely to find.\n"
 "Standardized vocabularies and clear procedures for data capture and data entry are only a few of the many tools you can use to prevent possible errors.\n"
-msgstr ""
+msgstr "正如 Arthur Chapman 所說：「預防勝於治療。」\n"
+"歸根究底，預防錯誤總比事後尋找並修正錯誤更簡單且成本更低。\n"
+"越早進行規劃，甚至從資料在野外記錄的那一刻起就開始規劃，你發現錯誤的機率就越低。\n"
+"使用標準化詞彙以及清晰的資料收集與輸入流程，僅是你可以用來預防潛在錯誤的眾多工具中的一部分。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:71
 #, no-wrap
 msgid "Be sure that everyone in your organization understands that data quality is everyone’s responsibility.\n"
 "Of course, the primary responsibility lies with the people who maintain the data, but everyone, from field technicians to students performing data entry to emeritus curators have a responsibility to treat the data with care and to communicate any errors or inconsistencies they might discover.\n"
-msgstr ""
+msgstr "請確保機構中的每個人都了解：資料品質是所有人的共同責任。\n"
+"當然，主要責任在於負責維護資料的人員，但從野外技術人員、執行資料輸入的學生，到資深研究館員，每個人都有責任謹慎對待資料，並告知他們發現的任何錯誤或不一致之處。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:77
@@ -6780,7 +6849,10 @@ msgstr ""
 msgid "Data maintenance is only as effective as the expertise that support the process and no single individual can be expected to know everything about everything.\n"
 "Developing partnerships with data users and content experts can help to make the data quality process more successful.\n"
 "Reach out to your user community, both inside and outside of your institution, and work with them to help maintain your data at the highest quality.\n"
-msgstr ""
+msgstr "資料維護的成效取決於支援該流程的專業知識，\n"
+"而沒有人能夠對所有領域都瞭若指掌。\n"
+"與資料使用者及領域專家建立合作關係，有助於提升資料品質管理的成效。\n"
+"主動與機構內外的使用者社群聯繫，並與他們協作，共同維持資料的最高品質。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:82
@@ -6789,7 +6861,10 @@ msgid "Prioritize your cleaning to take advantage of the resources and knowledge
 "For example, you may choose to review all of the data recorded by collectors who are still alive so that important data is not lost later.\n"
 "If you maintain a large dataset you might choose to prioritize data that can be cleaned at the lowest cost using automated processes and then prioritize the more difficult errors that require individual attention.\n"
 "Ultimately, you should prioritize the data that is of the greatest value to the work of your institution and then move through the data in a logical and orderly manner.\n"
-msgstr ""
+msgstr "在進行資料清理時，應根據機構現有的資源與專業知識來設定優先順序。\n"
+"例如，你可以優先檢視由仍在世的採集者所記錄的資料，以避免重要資訊在日後遺失。\n"
+"若你管理的是大型資料集，則可以先處理能以自動化方式、低成本完成清理的部分，再將重點放在那些需要人工判斷與處理的複雜錯誤上。\n"
+"最後，你應優先處理對機構業務最具價值的資料，並以有條理、循序漸進的方式推進整體清理流程。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:84 scripts/data-types.en.txt:52
@@ -6807,26 +6882,30 @@ msgstr "// Slide 10\n"
 msgid "Some times it can be an effective strategy to set some measures of performance before the cleaning process begins.\n"
 "One performance measure might be to complete the cleaning of 500 records every week.\n"
 "Another measure might be to provide a statistical report of the accuracy of the corrections being made, such as:\n"
-msgstr ""
+msgstr "有時，在資料清理開始前設定績效指標，會是一項有效的策略。\n"
+"例如，可以設定每週完成 500 筆資料清理作業作為績效目標。\n"
+"另一種衡量方式則可透過統計報告呈現修正結果的準確度，例如：\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:90
 #, no-wrap
 msgid "“95% of all georeferences corrected this week now have an uncertainty in meters of less than 1000 meters.”\n"
-msgstr ""
+msgstr "「本週修正的地理參考資料中，有 95% 的不確定性已縮小至 1000 公尺以內。」\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:92
 #, no-wrap
 msgid "These kinds of measures can give direction and guidance to the people performing the cleaning, as well as, to serve as a means to report on successes and areas in need of improvement.\n"
-msgstr ""
+msgstr "這樣的指標能為執行資料清理的人員提供方向與指引，\n"
+"同時也可作為回報成果與辨別需改進之處的依據。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:95
 #, no-wrap
 msgid "In an ideal world, you will have developed a data maintenance plan that has been optimized to be as efficient and effective as possible.\n"
 "Optimization can be achieved in many different ways including taking advantage of your institution’s strengths, setting clear objectives and measure of success, and regular adjustment of your priorities based on available resources.\n"
-msgstr ""
+msgstr "在理想的情況下，你應該已建立一套經過最佳化、兼具效率與有效性的資料維護計畫。\n"
+"最佳化可以透過多種方式達成，包括善用機構的優勢、設定明確的目標與成功衡量標準，並根據可用資源定期調整優先順序。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:103
@@ -6836,7 +6915,11 @@ msgid "One of the best ways to learn how successful your data cleaning and data 
 "Once such way is to review the way that GBIF presents your data.\n"
 "You can view the comparison between the verbatim data published to GBIF and the interpreted data that GBIF might have corrected or updated.\n"
 "These comparisons can help you to optimize your data cleaning process, but you can also help GBIF to improve its data quality processes, too, when you provide expert feedback back to them.\n"
-msgstr ""
+msgstr "評估資料清理與資料維護流程成效的最佳方式之一，是向社群中的資料使用者尋求回饋。\n"
+"這可以透過前面提到的合作關係來進行，也能透過其他方式取得意見。\n"
+"其中一種方法是檢視 GBIF 平台上你的資料呈現方式。\n"
+"你可以比較自己發佈至 GBIF 的原始資料與 GBIF 經過解讀、修正或更新後的資料。\n"
+"這些比較能協助你優化資料清理流程，同時當你將專業意見回饋給 GBIF 時，也能幫助 GBIF 改進整體資料品質流程。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:107
@@ -6844,14 +6927,17 @@ msgstr ""
 msgid "One of the best ways to achieve success with data cleaning is to provide training and education to everyone who works with your data.\n"
 "These may be trainings that you organize yourself, local or regional trainings in partnership with, or presented by, other institutions in your area, or workshops and courses provided by other groups, such as GBIF.\n"
 "If you need training, please check the GBIF web site regularly or contact GBIF’s Community Mentors or GBIF’s Biodiversity Open Data Ambassadors who also can be good resources for training and education opportunities.\n"
-msgstr ""
+msgstr "在資料清理工作中取得成功的最佳方法之一，是為所有處理資料的人員提供培訓與教育。\n"
+"這些培訓可以由你自行規劃，也可以與當地或區域內的其他機構合作舉辦，或參加由其他組織如 GBIF所提供的工作坊與課程。\n"
+"如果你有培訓需求，請定期瀏覽 GBIF 官方網站，或聯繫 GBIF 社群導師或生物多樣性開放資料推廣大使，他們也可以為你提供培訓和教育訓練的管道。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:112
 #, no-wrap
 msgid "Documentation is one of the most important principles of data cleaning.\n"
 "This is true in two key ways.\n"
-msgstr ""
+msgstr "文件記錄是資料清理中最重要的原則之一。\n"
+"這一點在兩個方面尤為重要。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:117
@@ -6860,7 +6946,10 @@ msgid "First, whatever processes you use to maintain your data, it is important 
 "This transparency can be truly successful when the data cleaning process is well documented.\n"
 "Without clear and accessible documentation, you run the risk of losing best practices, building redundant processes and losing optimization.\n"
 "Good documentation will help you to avoid recurring errors.\n"
-msgstr ""
+msgstr "首先，無論你採用何種方式維護資料，都應對錯誤的發現與修正過程保持透明。\n"
+"當資料清理流程有完整記錄時，這種透明度才能真正發揮效果。\n"
+"若缺乏清楚且可取得的文件記錄，你可能會面臨失去最佳實踐、建立重複的流程，以及失去最佳化的風險。\n"
+"良好的文件記錄能幫助你避免錯誤重複發生。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:122
@@ -6869,7 +6958,10 @@ msgid "Documentation is also key to good data quality.\n"
 "Good documentation, in metadata, for example, allows data users to determine the fitness for use of your data.\n"
 "Your documentation should not only include good metadata, it should also include the best practices, standardized vocabularies, and taxonomic and geographic authorities used.\n"
 "Documenting what data was cleaned by whom will help you to improve your optimization, reach performance measures, and ultimately, tell a more complete story of where your data came from and how it was improved over time.\n"
-msgstr ""
+msgstr "文件記錄對維持良好的資料品質也很重要。\n"
+"例如，完整的描述性資料可以讓資料使用者判斷資料的適用性。\n"
+"你的文件記錄不僅應包含完整的描述性資料，還應記錄所使用的最佳實踐、標準化詞彙，以及所使用的分類和地理規範。\n"
+"記錄每筆資料由誰清理過，能幫助你提升流程最佳化、達成績效指標，且最終能夠更完整地呈現資料的來源，以及它是如何隨時間被逐步改善的。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:129 scripts/data-quality.en.txt:227
@@ -6877,14 +6969,16 @@ msgstr ""
 #, no-wrap
 msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
 "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
-msgstr ""
+msgstr "本影片屬於 GBIF 生物多樣性資料流通課程的一系列簡報。\n"
+"生物多樣性資料流通課程最初是作為歐洲聯盟資助的生物多樣性資訊發展計畫的一部分所開發。\n"
 
 #. type: Plain text
 #: scripts/data-management.en.txt:131
 #, no-wrap
 msgid "This presentation was originally created by Nestor Beltran with additional contributions by David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "本簡報最初由 Nestor Beltran 製作，並由 David Bloom、BID 與 BIFA 的講師、導師及學員共同完善。\n"
+"本簡報由 David Bloom 講述。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:2
@@ -6896,7 +6990,7 @@ msgstr "// SLIDE 1\n"
 #: scripts/data-quality.en.txt:4
 #, no-wrap
 msgid "In this presentation, we are going to introduce some of the concepts that are important to understand basic data quality.\n"
-msgstr ""
+msgstr "在本簡報中，我們將介紹一些對於理解基本資料品質很重要的概念。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:6
@@ -6909,7 +7003,8 @@ msgstr "// SLIDE 2\n"
 #, no-wrap
 msgid "The two primary concepts that we will explore are Fitness for Use and Measures of Quality.\n"
 "These two ideas will lay the foundation for more detailed data quality concepts and techniques in the future.\n"
-msgstr ""
+msgstr "我們將探討的兩個主要概念是適用性與品質衡量。\n"
+"這兩個概念將為之後更深入的資料品質理論與技術奠定基礎。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:11
@@ -6924,7 +7019,10 @@ msgid "Before we begin, I’d like to take a moment to explain why data quality 
 "Cleanliness is next to Godliness is an expression that we sometimes use to describe the importance of data quality.\n"
 "In this case, Godliness can be understood as holiness, and when something is holy it is considered by many to be worthy of our trust.\n"
 "So, in the case of data quality, we are more likely to trust and to use data that has been cleaned and cared for.\n"
-msgstr ""
+msgstr "在開始之前，我想先說明一下為什麼資料品質這麼重要。\n"
+"我們有時會用一句話來形容它的重要性：「整潔近乎虔誠」。\n"
+"這裡的虔誠可以理解為神聖，而被視為神聖的事物，通常也更值得我們信任。\n"
+"同樣地，當資料經過清理與維護，我們更可能去信任並使用這些資料。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:18
@@ -6936,7 +7034,7 @@ msgstr "// SLIDE 4\n"
 #: scripts/data-quality.en.txt:20
 #, no-wrap
 msgid "Stepping back into the domain of biodiversity informatics, the classic definition of data quality was coined in 2005 by Arthur Chapman.\n"
-msgstr ""
+msgstr "回到生物多樣性資訊學的領域，資料品質的經典定義是由 Arthur Chapman 在2005年提出的。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:24
@@ -6944,14 +7042,16 @@ msgstr ""
 msgid "He wrote: “Data quality is related to use and cannot be assessed independently of the user.\n"
 "In a database, the data have no actual quality or value (Dalcin 2004); they only have potential value that is realized when someone uses the data to do something useful.\n"
 "Information quality relates to its ability to satisfy its customers and to meet customers’ needs (English 1999).”\n"
-msgstr ""
+msgstr "他提到：「資料品質取決於用途，不能脫離使用者來評估。\n"
+"在資料庫裡，資料本身沒有真正的品質或價值（Dalcin 2004）；只有當有人利用這些資料做出有意義的事時，它們的潛在價值才會被發揮。而資訊的品質，則在於它能否滿足使用者的需求與期待（English 1999）。」\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:27
 #, no-wrap
 msgid "And so, for us, as individuals who are responsible for maintaining data, we want the data we publish to be as satisfying to all of our potential users as possible.\n"
 "To do this, we seek to provide the highest quality data.\n"
-msgstr ""
+msgstr "對於我們這些負責維護資料的人而言，我們期望所發布的資料能盡可能滿足所有潛在使用者的需求。\n"
+"為了達成此目標，我們致力於提供最高品質的資料。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:29
@@ -6964,13 +7064,14 @@ msgstr "// SLIDE 5\n"
 #, no-wrap
 msgid "To help you to accomplish this task, we will explore Fitness for Use.\n"
 "We will also explore the Measures of Quality, specifically, Correctness and Consistency.\n"
-msgstr ""
+msgstr "為協助你達成此目標，我們將探討適用性。\n"
+"同時，我們也將介紹品質衡量，特別是正確性與一致性。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:34
 #, no-wrap
 msgid "These are important concepts that you will need to know and be able to articulate about your own data or data that you maintain.\n"
-msgstr ""
+msgstr "這些都是你在管理或維護資料時必須理解並能清楚闡述的重要概念。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:36
@@ -6983,7 +7084,8 @@ msgstr "// SLIDE 6\n"
 #, no-wrap
 msgid "Let’s begin with an example of Fitness for Use.\n"
 "A shoemaker creates a pair of clogs for the purpose of covering a person’s feet, just like those at the top of this image.\n"
-msgstr ""
+msgstr "我們先從適用性的例子開始說明。\n"
+"鞋匠製作一雙木屐，用來覆蓋並保護人的雙腳，就如同圖中上方所示的木屐。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:41
@@ -6995,13 +7097,13 @@ msgstr "// SLIDE 7\n"
 #: scripts/data-quality.en.txt:43
 #, no-wrap
 msgid "When the shoemaker made these shoes, did he know that this girl would use them for dancing?\n"
-msgstr ""
+msgstr "當鞋匠製作這雙鞋時，他是否知道這個女孩會用它來跳舞呢？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:45
 #, no-wrap
 msgid "Maybe.\n"
-msgstr ""
+msgstr "或許吧。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:47
@@ -7013,7 +7115,7 @@ msgstr "// SLIDE 8\n"
 #: scripts/data-quality.en.txt:49
 #, no-wrap
 msgid "Do you think that the same shoemaker knew that a gardener might one day use the shoes as plant pots?\n"
-msgstr ""
+msgstr "你認為同一位鞋匠是否知道，有一天園丁可能會將這雙鞋當作花盆使用呢？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:53
@@ -7021,21 +7123,24 @@ msgstr ""
 msgid "Maybe not.\n"
 " \n"
 "// SLIDE 9\n"
-msgstr ""
+msgstr "或許不知道。\n"
+"// 投影片9\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:56
 #, no-wrap
 msgid "We often hear people talk about data’s Fitness for Use in the ecological sciences, but what we need to remember is that data is not inherently good or bad.\n"
 "Rather it is the user of the data who gives data its value.\n"
-msgstr ""
+msgstr "在生態科學領域，我們經常聽到人們談論資料的適用性，\n"
+"但我們需要記住，資料本身並無固有的好壞之分。\n"
+"資料的價值，是由使用資料的人所賦予的。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:59
 #, no-wrap
 msgid "For example, for one person, data identified to the level of Genus may be sufficient to run predictive models of ecological niches.\n"
 "For a person studying a particular taxon, that same genus-level data will be much less useful than more detailed occurrences with subspecies information.\n"
-msgstr ""
+msgstr "例如，對某些人而言，分類至屬層級的資料已足以用來建立生態棲位的預測模型。然而，對研究特定分類群的人來說，同樣屬層級的資料，其價值遠低於包含亞種資訊的更詳細出現記錄。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:61
@@ -7047,20 +7152,21 @@ msgstr "// SLIDE 10\n"
 #: scripts/data-quality.en.txt:63
 #, no-wrap
 msgid "So, what is Fitness for Use and how does it relate to data?\n"
-msgstr ""
+msgstr "所以，什麼是適用性？它與資料有何關聯呢？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:65
 #, no-wrap
 msgid "When Chapman discusses Fitness for Use, he says that once a dataset has been created and shared there are two primary perspectives on how those data might be used; the perspective of the creator and the perspective of the user.\n"
-msgstr ""
+msgstr "當 Chapman 討論適用性時，他指出，一旦資料集被建立並分享，就會出現兩種主要的資料使用視角：創建者的視角與使用者的視角。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:68
 #, no-wrap
 msgid "To help somebody to decide if your data is trustworthy or useful enough for them to use, you have to understand your data and how to convey those data to the potential user.\n"
 "These are some of the important questions about the metadata, or characteristics of your data, that you should be able to answer and share with others:\n"
-msgstr ""
+msgstr "為了讓他人判斷你的資料是否可靠或足夠有用，你必須了解自己的資料，並掌握如何將這些資訊傳達給潛在使用者。\n"
+"以下是一些關於描述性資料或資料特性的重要問題，你應該能夠回答並與他人分享：\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:72
@@ -7068,7 +7174,9 @@ msgstr ""
 msgid "How Accessible are your data? \n"
 "How easily can someone access your data? \n"
 "People can’t use the data if they can’t find the data.\n"
-msgstr ""
+msgstr "你的資料有多容易取得？\n"
+"其他人能多方便地存取你的資料？\n"
+"如果找不到資料，人們就無法使用它。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:76
@@ -7076,7 +7184,9 @@ msgstr ""
 msgid "How Accurate are your data? \n"
 "Can your data be trusted? \n"
 "For example, are your identifications current and were they made by known experts?\n"
-msgstr ""
+msgstr "你的資料有多準確？\n"
+"你的資料能被信賴嗎？\n"
+"例如，資料中的物種鑑定是否為最新，且是否由公認的專家完成？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:80
@@ -7084,7 +7194,9 @@ msgstr ""
 msgid "How Timely are they? \n"
 "When will the data be made available? \n"
 "How often are they updated? \n"
-msgstr ""
+msgstr "你的資料更新的時效性如何？\n"
+"資料何時可供使用？\n"
+"更新頻率為何？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:84
@@ -7092,7 +7204,9 @@ msgstr ""
 msgid "How Complete or Comprehensive are the data? \n"
 "Which parts of your dataset are documented fully? \n"
 "How well do the data cover a particular time, place, or domain?\n"
-msgstr ""
+msgstr "你的資料有多完整或詳盡？\n"
+"資料集中的哪些項目有完整記錄？\n"
+"資料對特定的時間、地點或研究範疇的涵蓋範圍如何？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:88
@@ -7100,14 +7214,17 @@ msgstr ""
 msgid "How Consistent are they? \n"
 "Is the data in each field always of the same type? \n"
 "Was the data collected using the same documented protocols?\n"
-msgstr ""
+msgstr "你的資料有多一致？\n"
+"每個欄位中的資料是否始終保持相同的型態？\n"
+"資料是否依照相同的、已記錄的收集規範進行收集？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:91
 #, no-wrap
 msgid "How Relevant are they? \n"
 "How similar is this dataset to others that have been used successfully for the same purpose?\n"
-msgstr ""
+msgstr "你的資料有多相關？\n"
+"這個資料集與其他已成功用於相同目的的資料集相比，有多相似？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:95
@@ -7115,7 +7232,9 @@ msgstr ""
 msgid "How Detailed are the data? \n"
 "How much resolution is there in your data? \n"
 "At what scale can they be used for mapping?\n"
-msgstr ""
+msgstr "你的資料有多詳細？\n"
+"資料的解析度如何？\n"
+"可用於製作地圖的比例或尺度為何？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:99
@@ -7123,7 +7242,9 @@ msgstr ""
 msgid "Is the data Easy to interpret? \n"
 "Is the dataset documented in a clear and concise way? \n"
 "If your documents are handwritten, are they legible?\n"
-msgstr ""
+msgstr "資料容易理解嗎？\n"
+"資料集是否以清楚、簡明的方式記錄？\n"
+"若文件為手寫形式，是否清晰可辨？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:101
@@ -7135,14 +7256,15 @@ msgstr "// SLIDE 11\n"
 #: scripts/data-quality.en.txt:103
 #, no-wrap
 msgid "While Fitness for Use is subjective, measures of data quality are much less so.\n"
-msgstr ""
+msgstr "雖然適用性具有主觀性，但資料品質的衡量則相對客觀得多。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:106
 #, no-wrap
 msgid "Chapman states that: \"All data include error – there is no escaping it! \n"
 "It is knowing what the error is that is important, and knowing if the error is within acceptable limits for the purpose to which the data are to be put.”\n"
-msgstr ""
+msgstr "Chapman 指出：「所有資料都存在錯誤—這是無法避免的！\n"
+"重要的是要了解錯誤的性質，並判斷該錯誤是否在資料預定用途可接受的範圍內。」\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:108
@@ -7154,38 +7276,39 @@ msgstr "// SLIDE 12\n"
 #: scripts/data-quality.en.txt:110
 #, no-wrap
 msgid "We can use two measures of quality, Correctness and Consistency, to help us to document these inherent errors in data.\n"
-msgstr ""
+msgstr "我們可以透過兩個品質衡量指標—正確性與一致性，來協助記錄資料中固有的錯誤。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:112
 #, no-wrap
 msgid "Correctness, sometimes called accuracy, is “How close the recorded value is to the actual, real-world value”.\n"
-msgstr ""
+msgstr "正確性有時也稱為準確性，是指「記錄的數值與真實世界中實際數值的接近程度」。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:114
 #, no-wrap
 msgid "In this diagram accuracy is how close a given dot is to the centre of the target.\n"
-msgstr ""
+msgstr "在此圖中，準確性是指給定點與目標中心的距離。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:116
 #, no-wrap
 msgid "Consistency, sometimes called precision, is “How often you get it right”\n"
-msgstr ""
+msgstr "一致性有時也稱為精確性，是指「你能多常得到正確結果的程度」\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:118
 #, no-wrap
 msgid "In this diagram, precision is how close the dots are together irrespective of how close they are to the centre of the target.\n"
-msgstr ""
+msgstr "在此圖中，精確性是指點之間的接近程度，而不管它們與目標中心的接近程度。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:121
 #, no-wrap
 msgid "These are measures of how well the data gatherer was able to capture the true value being investigated.\n"
 "Knowing these properties of your data will help you to understand the ways in which you can and cannot clean, validate and process the data.\n"
-msgstr ""
+msgstr "這些指標反映了資料蒐集者在多大程度上能夠準確捕捉所研究的真實數值。\n"
+"了解資料的這些特性，有助於判斷在資料清理、驗證與處理過程中，哪些方法可行、哪些則不可行。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:123 scripts/documentation.en.txt:174
@@ -7198,7 +7321,8 @@ msgstr "// SLIDE 13\n"
 #, no-wrap
 msgid "This image provides a clear set of illustrations of accuracy and precision.\n"
 "This may be a good image to keep with you when you have to explain these concepts to others.\n"
-msgstr ""
+msgstr "這張圖清楚地說明了準確性與精確性的概念。\n"
+"當你需要向他人解釋這兩個概念時，這會是一張很實用的參考圖。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:128
@@ -7211,13 +7335,14 @@ msgstr "// SLIDE 14\n"
 #, no-wrap
 msgid "Let’s look at some examples of Correctness, or accuracy, and how it can help us think about the practicalities of data cleaning.\n"
 "Remember that Correctness is how close you are to the center of a target.\n"
-msgstr ""
+msgstr "讓我們來看一些關於正確性或準確性的例子，以及它如何幫助我們思考資料清理的實用性。\n"
+"請記住，正確性是指你距離目標中心的距離。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:133
 #, no-wrap
 msgid "Let’s look at an example.\n"
-msgstr ""
+msgstr "讓我們來看一個例子。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:135
@@ -7230,13 +7355,14 @@ msgstr "// SLIDE 15\n"
 #, no-wrap
 msgid "For this example, let’s imagine your dataset contains records of fossil bird specimens from the Early Triassic Period.\n"
 "The taxonomic name for a number of specimens in your dataset is recorded as Thismia.\n"
-msgstr ""
+msgstr "在這個例子中，假設你的資料集中包含早三疊紀時期的化石鳥類標本紀錄。\n"
+"其中有一些標本的分類學名稱被記錄為 Thismia。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:140
 #, no-wrap
 msgid "Do you know if Thismia is a taxon of ancient birds?\n"
-msgstr ""
+msgstr "你知道 Thismia 是否屬於古代鳥類的分類單元嗎？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:143
@@ -7248,13 +7374,13 @@ msgstr "// SLIDE 16\n"
 #: scripts/data-quality.en.txt:145
 #, no-wrap
 msgid "In this case, the answer is no! \n"
-msgstr ""
+msgstr "在這個例子中，答案是否定的\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:147
 #, no-wrap
 msgid "Thismia is a very rare plant from the State of Illinois in the United States.\n"
-msgstr ""
+msgstr "Thismia 其實是一種非常罕見的植物，分布於美國伊利諾州。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:151
@@ -7262,7 +7388,9 @@ msgstr ""
 msgid "As a result, the correctness, or accuracy, of the taxonomic name is low.\n"
 "Perhaps because the data entry technician was not a paleontologist.\n"
 "As a result, all of the names in the dataset might need to be checked and corrected by an expert before the data could be used.\n"
-msgstr ""
+msgstr "因此，這些分類學名稱的正確性也就是準確性很低。\n"
+"可能的原因是資料輸入人員並非古生物學家。\n"
+"因此，在資料可供使用之前，資料集中的所有名稱可能都需要由專家進行核對與修正。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:153
@@ -7275,25 +7403,26 @@ msgstr "// SLIDE 17\n"
 #, no-wrap
 msgid "Let’s look at another example.\n"
 "Here, your dataset contains specimens collected in a place called Kalamazoo by a scientist named Richard Spruce.\n"
-msgstr ""
+msgstr "讓我們再看一個例子。\n"
+"在這個例子中，你的資料集中包含由科學家 Richard Spruce 所採集，地點標記為 Kalamazoo 的標本。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:158
 #, no-wrap
 msgid "We must ask ourselves:\n"
-msgstr ""
+msgstr "我們必須問我的自己：\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:160
 #, no-wrap
 msgid "Is 49007 the right postal code for Kalamazoo?\n"
-msgstr ""
+msgstr "49007 是 Kalamazoo 的正確郵遞區號嗎？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:162
 #, no-wrap
 msgid "Did Richard Spruce collect in Michigan?\n"
-msgstr ""
+msgstr "Richard Spruce 是在密西根州採集標本？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:164
@@ -7305,7 +7434,8 @@ msgstr "// SLIDE 18\n"
 #: scripts/data-quality.en.txt:166
 #, no-wrap
 msgid "In this case, the answer is yes to our first question, 49007 is a postal code for Kalamazoo, so the accuracy of the locality is good, but what about the collector, Richard Spruce?\n"
-msgstr ""
+msgstr "在這個例子中，對於第一個問題的答案是對的：49007 的確是 Kalamazoo 的郵遞區號，因此地點的準確性良好。\n"
+"但採集者 Richard Spruce 呢？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:168
@@ -7319,7 +7449,9 @@ msgstr "// SLIDE 19\n"
 msgid "There is, in fact, a famous botanist named Richard Spruce.\n"
 "He was born in 1817 and died in 1893, but he conducted his collecting in the Amazon Basin and Andes mountains in South America.\n"
 "Something is not quite right, so we need to find out more about the collector before we can be confident in the correctness of these data.\n"
-msgstr ""
+msgstr "事實上，的確有一位著名植物學家名為 Richard Spruce。\n"
+"他生於 1817 年，死於 1893 年，但他的採集活動主要在南美洲的亞馬遜盆地與安地斯山脈。\n"
+"這裡出現了問題，因此在能對這些資料的正確性有信心之前，我們需要進一步確認採集者的身分。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:174
@@ -7331,13 +7463,13 @@ msgstr "// SLIDE 20\n"
 #: scripts/data-quality.en.txt:176
 #, no-wrap
 msgid "Let’s take a look now at what Consistency, or precision, means to data.\n"
-msgstr ""
+msgstr "現在讓我們來看看一致性或稱精確性對資料的意義。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:178
 #, no-wrap
 msgid "Consistency represents how many times you get the same answer, regardless of where the center of the target lies.\n"
-msgstr ""
+msgstr "一致性代表你能多次得到相同結果，而不考慮目標的中心的位置。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:182
@@ -7345,7 +7477,9 @@ msgstr ""
 msgid "For example, your dataset contains botanical occurrences including a field, or column, named “Full Name”.\n"
 "This field contains the name of the specimen collector.\n"
 "As you can see there are five different names, but how many unique collectors are there? Can you tell just by looking at the names?\n"
-msgstr ""
+msgstr "例如，你的資料集中包含植物出現紀錄，其中有一個欄位名為「全名」。\n"
+"這個欄位記錄標本的採集者姓名。\n"
+"如你所見，欄位中出現了五種不同的名字，但實際上有多少位不同的採集者呢？只透過名字，你能判斷出來嗎？\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:184
@@ -7357,26 +7491,27 @@ msgstr "// SLIDE 21\n"
 #: scripts/data-quality.en.txt:186
 #, no-wrap
 msgid "Sometimes, if you are familiar with the dataset, you might know how many collectors are represented just by looking at the data, but if you don’t know these data well, you might need to do some research, ask some questions or look at the original field notes.\n"
-msgstr ""
+msgstr "有時，如果你對資料集非常熟悉，僅透過觀察資料就可能知道包含了多少位採集者；\n"
+"但如果你不熟悉這些資料，則可能需要進行一些調查、提出問題，或參考原始的野外筆記。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:188
 #, no-wrap
 msgid "In this example, if you guessed that these five names represent two or three unique collectors, you would be right.\n"
-msgstr ""
+msgstr "在這個例子中，如果你猜測這五個名字代表兩到三位不同的採集者，那麼你的判斷是正確的。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:191
 #, no-wrap
 msgid "In blue, Joseph Dalton Hooker AND Hook.f.\n"
 "are the same person.\n"
-msgstr ""
+msgstr "以藍色標示的 Joseph Dalton Hooker 與 Hook.f. 其實是同一人。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:193
 #, no-wrap
 msgid "Period is the abbreviation used for Joseph Dalton Hooker (1817-1911).\n"
-msgstr ""
+msgstr "句號是 Joseph Dalton Hooker (1817-1911) 的縮寫。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:197
@@ -7384,7 +7519,9 @@ msgstr ""
 msgid "In green, W.J. Hooker and Hook. are the same person.\n"
 "Period is the abbreviation for William Jackson Hooker (1785-1865).\n"
 "William was actually Joseph’s father.\n"
-msgstr ""
+msgstr "以綠色標示的 W.J. Hooker 與 Hook. 其實是同一人。\n"
+"句號是 William Jackson Hooker（1785–1865）的縮寫。\n"
+"William 其實是 Joseph 的父親。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:201
@@ -7392,7 +7529,8 @@ msgstr ""
 msgid "Finally, in the red, there is “Hooker, J.” \n"
 "This entry could be an error or typo of either Joseph or William Hooker, OR it could be a third person with a similar name.\n"
 "Thus, more research would be needed to clarify these data.\n"
-msgstr ""
+msgstr "最後，紅色部分是「Hooker, J」。這個紀錄可能是 Joseph 或 William Hooker 的錯誤或拼字錯誤，也可能是另一位同名的第三人。\n"
+"因此，需要進一步調查才能釐清這筆資料。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:203
@@ -7405,45 +7543,48 @@ msgstr "// SLIDE 22\n"
 #, no-wrap
 msgid "We have just discussed several simple illustrations of two measures of data quality.\n"
 "These examples should give you a basic understanding about how to identify the inaccuracies and imprecisions in data.\n"
-msgstr ""
+msgstr "我們剛剛討論了兩個資料品質衡量指標的幾個簡單範例。\n"
+"這些例子應能讓你對如何判斷資料中的不正確性與不一致性有基本的理解。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:208
 #, no-wrap
 msgid "How we document and fix these issues or errors is a process that we call data cleaning.\n"
-msgstr ""
+msgstr "我們用來記錄並修正這些問題或錯誤的過程，被稱為資料清理。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:210
 #, no-wrap
 msgid "More specifically:\n"
-msgstr ""
+msgstr "更具體地說：\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:213
 #, no-wrap
 msgid "Data cleaning is the process of correcting or removing dirty data caused by contradictions, disparities, keying mistakes, missing bits, and more.\n"
 "It also includes validation of the changes made, and may require normalization.\n"
-msgstr ""
+msgstr "資料清理是指對因矛盾、不一致、輸入錯誤、資料遺漏等原因造成的「髒資料」進行修正或刪除的過程。\n"
+"這個過程同時包含所做更改的驗證，並且可能需要進行標準化。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:215
 #, no-wrap
 msgid "Our data cleaning, or lack thereof, will affect how data users perceive your data’s fitness for use.\n"
-msgstr ""
+msgstr "我們的資料清理或缺乏資料清理將影響資料使用者如何看待你的資料是否適用。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:217
 #, no-wrap
 msgid "It is not necessary for you to do all the data cleaning yourself, in fact, a common misconception is that all errors MUST be fixed before you can share your data.\n"
-msgstr ""
+msgstr "你不必親自完成所有資料清理；事實上，一個常見的誤解是，所有錯誤必須在分享資料之前全部修正。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:220
 #, no-wrap
 msgid "The truth is that you can only clean as much data as your time, knowledge, and resources permit.\n"
 "As a result, it is essential to document what you know and what you do not know about your data so that when you do share them, data users will know the level of the quality of your data.\n"
-msgstr ""
+msgstr "事實上，你只能在時間、知識和資源允許的範圍內清理盡可能多的資料。\n"
+"因此，清楚記錄你對資料的了解與未知之處是很重要的，這樣在分享資料時，使用者才能掌握資料的品質水準。\n"
 
 #. type: Plain text
 #: scripts/data-quality.en.txt:222
@@ -7456,52 +7597,57 @@ msgstr "// SLIDE 23\n"
 #, no-wrap
 msgid "This presentation was originally created by Sharon Grant with additional contributions by Dag Endresen, David Bloom, BID and BIFA Trainers, Mentors and Students.\n"
 "This presentation has been narrated by David Bloom.\n"
-msgstr ""
+msgstr "本簡報最初由 Sharon Grant 創建，Dag Endresen、David Bloom、BID 和 BIFA 培訓師、導師和學生也參與了貢獻。\n"
+"本簡報由 David Bloom 講述。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:5
 #, no-wrap
 msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
 "These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
-msgstr ""
+msgstr "在本簡報中，我們將探討可稱為「原始生物多樣性資料」並在 GBIF 內部共享的不同類型的資料。\n"
+"這些數據可能非常複雜且來源多樣；我們將了解如何依據 GBIF 社群採用的 Darwin Core 資料分享標準，將其結構化為 GBIF 所接受的三種資料類別之一。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:10
 #, no-wrap
 msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
 "I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
-msgstr ""
+msgstr "如同投影片上所示，GBIF 目前支援四種類型的資料集：\n"
+"資源資料集（例如僅含詮釋資料的資料集）、物種名錄、出現紀錄資料集，以及調查活動資料集。\n"
+"在本簡報中，我們不會討論資源資料集，因為僅包含詮釋資料的資料集並不在 GBIF 資助計畫的支援範圍內。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:15
 #, no-wrap
 msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
 "In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
-msgstr ""
+msgstr "在 GBIF 中可發布的第一種類型資料集是名錄，也就是物種或更高階分類群的清單。\n"
+"在名錄中，主要的單位是分類群，而非（個體的）出現紀錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:19
 #, no-wrap
 msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
-msgstr ""
+msgstr "名錄，更一般地說，分類資料集的範圍可能有很大的差異\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:21
 #, no-wrap
 msgid "a list of species present in a protected area is a checklist.\n"
-msgstr ""
+msgstr "一份列出保護區內所有物種的清單，就是一個名錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:23
 #, no-wrap
 msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
-msgstr ""
+msgstr "一份以國家或主題為範圍的分類群名錄（例如：寮國的蝴蝶－、或馬來西亞植物誌），有時還會提供分類群的分布資訊、分類階層與同物異名，這也是一種名錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:25
 #, no-wrap
 msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
-msgstr ""
+msgstr "IUCN 瀕危物種紅色名錄（無論是國際、國家或區域層級）也是一種名錄，並可提供所列分類群的受脅或保育狀態等相關資訊\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:31
@@ -7509,14 +7655,17 @@ msgstr ""
 msgid "GBIF provides data publishers with templates for each class of dataset.\n"
 "The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
 "In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
-msgstr ""
+msgstr "GBIF 為每一類型的資料集提供對應的模板。\n"
+"針對名錄（分類群資料），GBIF 的模板可用來分享與每個物種或分類群相關的資訊，例如：其 ID、完整學名與命名者、與其他分類群的關係、地理資訊等。\n"
+"在此模板中，一列代表一個分類群，而同一分類群在資料集中只能出現一次（否則會造成重複）。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:36
 #, no-wrap
 msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
 "Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
-msgstr ""
+msgstr "第二類可在 GBIF 上發布的資料，來自自然史或科學典藏，也就是所謂的標本資料。\n"
+"與名錄不同，標本資料的主要單位是標本（單一個體或一群個體），同一物種或分類群可能會有多個不同的標本。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:38 scripts/definitions.en.txt:44
@@ -7532,34 +7681,39 @@ msgstr "// Slide 7\n"
 #, no-wrap
 msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
 "However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
-msgstr ""
+msgstr "各類典藏與標本在數量、大小與保存方式上差異極大。\n"
+"然而，只要是保存生物個體的典藏，都可以在 GBIF 平台上被記錄與分享，例如植物標本館藏或動物典藏（包含化石）。\n"
+"但地質標本或人類文物等收藏，則不屬於 GBIF 的資料範疇。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:45
 #, no-wrap
 msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
-msgstr ""
+msgstr "生物多樣性資料也常見於技術與科學文獻中：這類資料可以整理後在 GBIF 上分享，但需要特別注意不要分享重複資料。例如，一個在科學文章中描述的標本，可能已經存在於其典藏資料集的 GBIF.org 上\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:50
 #, no-wrap
 msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
 "ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
-msgstr ""
+msgstr "在數位化資料集缺乏的情況下，生物多樣性資料可以從科學文章、博士或碩士論文、報告以及其他文件中擷取並整理。\n"
+"在整理文獻資料時，務必先聯繫資料擁有者，徵得同意後再發布到 GBIF\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:55
 #, no-wrap
 msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
 "These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
-msgstr ""
+msgstr "目前 GBIF.org 上的大多數資料來自實地調查紀錄。\n"
+"這些資料可透過不同的現地調查方法由科學家、博物學家或公民科學家利用各類計畫與應用程式進行觀察或採集。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:60
 #, no-wrap
 msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
 "They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
-msgstr ""
+msgstr "這些實地調查資料可以整理成調查報告、環境影響評估研究、野外筆記及其他紀錄。\n"
+"它們也可以與其他類型的資料相關聯，例如名錄，這些資料可作為在野外觀察或採集的出現紀錄的補充。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:67
@@ -7568,21 +7722,26 @@ msgid "Occurrence data represents the GBIF class of datasets with the largest nu
 "Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
 "In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
 "Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
-msgstr ""
+msgstr "出現紀錄資料是 GBIF 上資料筆數最多的資料集類型。\n"
+"典藏資料（也就是標本）、文獻資料以及實地調查資料都可以透過此模板在 GBIF 上分享，此模板以觀察到的個體或採集到的標本為核心。\n"
+"在這類資料集中，只要每個紀錄都有唯一識別碼，同一分類群可以有多個個體或標本。\n"
+"出現紀錄資料的其他欄位則包括每個紀錄的觀察或採集地點、時間、方式以及採集者或觀察者。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:72
 #, no-wrap
 msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
 "They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
-msgstr ""
+msgstr "調查活動資料是在 2015 年於GBIF.org新增的一類資料集。\n"
+"它讓資料發佈者分享更多關於觀察或標本採集的背景資訊，並將相關聯的出現紀錄歸類到同一次調查活動中。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:77
 #, no-wrap
 msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
 "Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
-msgstr ""
+msgstr "GBIF 的調查活動資料模板讓資料發佈者分享更多關於生物多樣性資料採集或紀錄調查活動的背景資訊，例如相機陷阱、昆蟲陷阱、植物樣地調查、賞鳥地點等。\n"
+"此模板的結構比物種名錄資料集與出現紀錄資料集稍微複雜，因為它包含兩個檔案（例如：試算表中的兩個分頁）── 一個用來描述「調查活動」（例如每個陷阱），另一個用來描述與每個調查活動相關聯的標本或出現紀錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:79 scripts/definitions.en.txt:144
@@ -7596,20 +7755,21 @@ msgstr "// Slide 15\n"
 #: scripts/data-types.en.txt:81
 #, no-wrap
 msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
-msgstr ""
+msgstr "有時，除了本影片先前提到的資料來源外，還可以透過其他來源取得額外的資訊或資料。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:86
 #, no-wrap
 msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
 "Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
-msgstr ""
+msgstr "這些其他來源包括遙測工具、地圖與衛星資料，以及其他資訊輔助資料，例如野生動物的照片、音檔與影片紀錄。\n"
+"大多數情況下，透過這些方式取得的資訊是對現有資料的補充，但可以提供有關個體及其位置、棲息地、遷徙路線等有價值的資訊。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:90
 #, no-wrap
 msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
-msgstr ""
+msgstr "在接下來的投影片中，我們將說明達爾文核心標準如何應用於不同類型的資料，以及如何選擇最適合特定資料集的資料類別。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:96
@@ -7617,7 +7777,9 @@ msgstr ""
 msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
 "Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
 "In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
-msgstr ""
+msgstr "如同在「基礎知識 - 達爾文核心標準」簡報中所學，達爾文核心標準是由生物多樣性資訊標準組織（TDWG）所制定的資料分享標準，並廣泛用於GBIF社群的資料發布。\n"
+"根據所使用的資料集類型，需選擇三個核心資料集之一（出現紀錄、物種名錄或調查活動的核心資料集），並可連結一個或多個延伸資料集以分享更多資訊，例如多媒體連結、變數、鑑定史等。\n"
+"在某些情況下，核心資料集也可以作為延伸資料集來連結至其他核心資料集。例如在發布調查活動資料時，可以使用調查活動核心資料集描述採樣區域，再利用出現紀錄核心資料集作為延伸資料集，用以分享觀察到的標本或個體紀錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:98 scripts/definitions.en.txt:189
@@ -7633,7 +7795,9 @@ msgstr "// Slide 19\n"
 msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
 "The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
 "The data are then searchable and downloadable via GBIF.org.\n"
-msgstr ""
+msgstr "一但資料透過達爾文核心標準標準化後，每一類型的資料集（詮釋資料、調查活動、物種名錄或出現紀錄資料集）皆可透過此圖中所示的工具之一發佈至 GBIF.org。\n"
+"在 GBIF 社群中，最常使用的工具是由 GBIF 開發的整合發佈工具包(IPT)，該工具能將原始資料轉換為達爾文核心集檔案，再由 GBIF 擷取與索引。\n"
+"完成後，這些資料即可在 GBIF.org 上被搜尋與下載。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:104 scripts/definitions.en.txt:201
@@ -7648,31 +7812,32 @@ msgstr "// Slide 20\n"
 #, no-wrap
 msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
 "The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
-msgstr ""
+msgstr "選擇合適的資料集類型可能需要一些時間，特別是當你剛開始在 GBIF 平台上發佈資料時。\n"
+"GBIF 技術支援團隊製作了一份實用的流程圖，可在 GBIF Data Blog 上找到\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:109
 #, no-wrap
 msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
-msgstr ""
+msgstr "如果資料目前還沒有整理成資料庫或試算表的形式，或是內容尚未完整到可以分享，可以先發布一份資料描述，也就是僅含詮釋資料的資料集。（請注意，在 BID 和 BIFA 計畫中，這個選項是不被允許的）。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:111
 #, no-wrap
 msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
-msgstr ""
+msgstr "如果你的資料集裡的學名並不是指實際觀察到或採集到的生物或標本，那麼你可以把它發佈成分類學資源或物種名錄。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:113
 #, no-wrap
 msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
-msgstr ""
+msgstr "如果資料集中的學名對應到實際觀察或採集的標本，並附有觀察或採集的日期與地點，就可以將它發佈為出現紀錄資料集。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:115
 #, no-wrap
 msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
-msgstr ""
+msgstr "最後，如果資料中包含現場採樣所使用的調查方法或流程資訊，你就可以將它發佈為調查活動資料集。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:117 scripts/definitions.en.txt:210
@@ -7687,7 +7852,9 @@ msgstr "// Slide 21\n"
 msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
 "Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
 "You can find these requirements on GBIF.org from the How-to menu.\n"
-msgstr ""
+msgstr "在 GBIF 中，每一類資料集都必須符合其特定的資料品質要求。\n"
+"有些欄位是必填的，例如出現紀錄 ID、物種 ID 或調查活動 ID，視資料集類型而定；有些則為選填，但強烈建議提供，例如十進位制座標。\n"
+"這些要求可以在 GBIF 網站的操作指南選單中查詢。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:123 scripts/organizing.en.txt:191
@@ -7700,31 +7867,31 @@ msgstr "// Slide 22\n"
 #: scripts/data-types.en.txt:125
 #, no-wrap
 msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
-msgstr ""
+msgstr "為了能夠將資料發佈到 GBIF，在資料收集與管理的早期階段就了解各類資料集之間的差異非常重要。\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:127
 #, no-wrap
 msgid "You can reflect on this topic with the following questions:\n"
-msgstr ""
+msgstr "你可以透過以下問題來思考這個主題：\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:129
 #, no-wrap
 msgid "Is your data type different than you originally thought?\n"
-msgstr ""
+msgstr "資料的類型是否與最初的判斷不同？\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:131
 #, no-wrap
 msgid "With what kind of data do you work?\n"
-msgstr ""
+msgstr "你在處理的是哪一類型的資料？\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:133
 #, no-wrap
 msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
-msgstr ""
+msgstr "你會如何將這些資料發佈到 GBIF？會使用哪一個核心資料集或延伸資料集\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:135 scripts/organizing.en.txt:203
@@ -7737,91 +7904,91 @@ msgstr "// Slide 23\n"
 #: scripts/data-types.en.txt:142
 #, no-wrap
 msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
-msgstr ""
+msgstr "本簡報最初由 Sophie Pamerlon 製作並講述，並由 BID 與 BIFA 的講師、導師及學生提供額外貢獻。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:4
 #, no-wrap
 msgid "This session is foundation work and part of the Terminology section.\n"
-msgstr ""
+msgstr "這個課程是基礎的課程，也屬於術語說明的章節\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:6
 #, no-wrap
 msgid "We will be introducing you to the language, terminology and definitions for some of the basic concepts, functions and processes that you are going to be putting into use during the rest of the course.\n"
-msgstr ""
+msgstr "我們將介紹關於基本概念&功能&流程的語言、術語，以及定義，你將在課程的其餘部分運用這些概念、功能和流程。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:10
 #, no-wrap
 msgid "First let’s review the structure of this session.\n"
-msgstr ""
+msgstr "首先，我們先來回顧這個章節的結構。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:12
 #, no-wrap
 msgid "In the section on DEFINITIONS we will first try to clarify the use of the word “Data”.\n"
-msgstr ""
+msgstr "在「詞語定義」章節中，我們會先嘗試闡述「資料(Data)」的含意\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:14
 #, no-wrap
 msgid "We will then look at the terminology surrounding Fields, Labels and Lists.\n"
-msgstr ""
+msgstr "我們會接著專注在關乎於欄位、標籤、列表等相關的術語上\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:16
 #, no-wrap
 msgid "And lastly, we will straighten out some concepts around characters and their mappings that will help prevent unwanted data messes.\n"
-msgstr ""
+msgstr "而最後，為了避免不樂見的資料混亂，我們會特別深入梳理關於電腦中字元和其對應表的概念"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:20
 #, no-wrap
 msgid "First definitions.\n"
-msgstr ""
+msgstr "首先，「詞語定義」"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:22
 #, no-wrap
 msgid "In this section we will look at some of the many different terms and phrases that exist within the world of data and information management. \n"
-msgstr ""
+msgstr "在這個部分裡，我們將了解資料和資訊管理領域中許多不同的術語和短語。"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:24
 #, no-wrap
 msgid "We will be using these throughout the course and it is important that you be familiar with, when and how to use them.\n"
-msgstr ""
+msgstr "這些詞語們將會貫串整堂課中，因此熟悉它們並知道如何、及何時使用它們是十分重要的。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:28
 #, no-wrap
 msgid "Let’s focus for a moment on some common words and phrases that contain the word data.\n"
-msgstr ""
+msgstr "現在我們來看到一些常見的包含「資料(data)」一詞的術語。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:32
 #, no-wrap
 msgid "All of the phrases here include the word data, but are they all the same, and if not, then what is the difference?  \n"
-msgstr ""
+msgstr "這邊所有的詞都包含著「資料(data)」一字，不過請問他們都是一樣的嗎？如果不是，那差異在是什麼呢？\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:36
 #, no-wrap
 msgid "So, what is a “Database”?\n"
-msgstr ""
+msgstr "恩，所以說，什麼是「資料庫」？\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:38
 #, no-wrap
 msgid "There are many definitions, but what they all have in common is the theme that a database is a structured and organized collection of data and/or information held on a computer.\n"
-msgstr ""
+msgstr "資料庫有許多定義，但它們的共通點是：資料庫是儲存在電腦中且結構化、組織化的資料集合。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:40
 #, no-wrap
 msgid "Everything else in the list is just a way to help you achieve this data nirvana! \n"
-msgstr ""
+msgstr "清單中的其他所有內容，都是了協助你達到這種資料的理想境界\n\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:42
@@ -7857,7 +8024,7 @@ msgstr ""
 #: scripts/definitions.en.txt:54
 #, no-wrap
 msgid "Java, SPARQL, SQL and Python\n"
-msgstr ""
+msgstr "Java, SPARQL, SQL 和Python\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:56
