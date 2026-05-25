@@ -8,7 +8,7 @@ Lastly, you will review principles of data quality in the context of data captur
 === Standards and Darwin Core
 [NOTE.presentation]
 In this video (15:37), you will learn how you interact with standards every day. 
-Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^] with which you will continue to use throughout this course.
+Then you will be introduced to https://www.tdwg.org/[Biodiversity Information Standards^], including the https://www.tdwg.org/standards/dwc/[Darwin Core Standard^], which you will continue to use throughout this course.
 If you are unable to watch the embedded video, you can link:../videos/Foundations_Standards_Darwin_Core.mp4[download^,opts=download] it locally. (MP4 - 27 MB)
 
 [.responsive-video]
@@ -140,7 +140,7 @@ image::img/web/QDataTypes-traps.png[align="center",width=640,height=360]
 +
 [question, mc]
 ....
-Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social medias.
+Data acquired in the context of protected areas management (such as national parks but also smaller nature reserves) can be diverse and have different origins: botanical surveys, tagged animals tracking, observations from rangers and guards, and even ‘citizen science’ data or data inferred from pictures shared on social media.
 
 :figure-caption!:
 .https://pixabay.com/photos/%C3%A9l%C3%A9phant-%C3%A9l%C3%A9phant-d-asie-4037451/[Sri Lankan elephants] observed by pen_ash.
