@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: data-mobilization-course\n"
 "POT-Creation-Date: 2025-04-02 13:59+0000\n"
-"PO-Revision-Date: 2026-01-17 08:49\n"
+"PO-Revision-Date: 2026-08-30 14:29\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -7994,31 +7994,31 @@ msgstr "清單中的其他所有內容，都是了協助你達到這種資料的
 #: scripts/definitions.en.txt:42
 #, no-wrap
 msgid "Let’s dig a little deeper then into those other terms.\n"
-msgstr ""
+msgstr "好，我們來深入挖掘其他詞彙的意涵。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:46
 #, no-wrap
 msgid "Let us take a look at the phrase “database language”.\n"
-msgstr ""
+msgstr "我們現在來看「資料庫語言」這個詞。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:48
 #, no-wrap
 msgid "According to the Oxford English dictionary “language” is the method of human communication, […], consisting of the use of words [or symbols] in a structured and conventional way.\n"
-msgstr ""
+msgstr "根據《牛津英語詞典》，「語言」指的是人類溝通的方式，以結構化且約定俗成的方式使用文字、詞[或符號]。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:50
 #, no-wrap
 msgid "For our purposes, database languages and their close allies the array languages are the way by which a human communicates with a computer to manipulate and move around data. \n"
-msgstr ""
+msgstr "就我們的目的來說，資料庫語言及其密切相關的陣列語言是人類與電腦溝通來操作、移動資料的方式\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:52
 #, no-wrap
 msgid "Examples that you may have come across are:\n"
-msgstr ""
+msgstr "可能會遇到的例子如：\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:54
@@ -8030,73 +8030,75 @@ msgstr "Java, SPARQL, SQL 和Python\n"
 #: scripts/definitions.en.txt:56
 #, no-wrap
 msgid "They are simply methods used to define and create tables, views and queries and also allow users to access, update, store and move data around.\n"
-msgstr ""
+msgstr "它們僅是用於定義和建立表格、視圖、查詢的簡單方法，也允許使用者存取、更新、儲存及移動資料。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:60
 #, no-wrap
 msgid "Now let’s look at the phrase “database program or software”.\n"
-msgstr ""
+msgstr "現在我們來看這個詞「資料庫程式(或軟體)」\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:62
 #, no-wrap
 msgid "Again going to the Oxford English dictionary a “program/programme” is a set of related measures or activities with a particular long-term aim.\n"
-msgstr ""
+msgstr "也根據《牛津英語詞典》，「程式(program/programme)」指的是一系列具長期目標的相關措施、活動\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:64
 #, no-wrap
 msgid "In this context, a “database program or software” combines and presents functions and features for manipulating data, together is a unified interface. \n"
-msgstr ""
+msgstr "在此脈絡下，「資料庫程式(或軟體)」結合操作資料的功能、特性，並整合在同一介面下"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:66
 #, no-wrap
 msgid "Examples that you may come across are:\n"
-msgstr ""
+msgstr "你可能遇到的例子如："
 
 #. type: Plain text
 #: scripts/definitions.en.txt:68
 #, no-wrap
 msgid "Microsoft Access, FilemakerPro and Oracle\n"
-msgstr ""
+msgstr "Microsoft Access、 FilemakerPro 與 Oracle\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:70
 #, no-wrap
 msgid "So, database programs or software are grouped utilities which allow a user, via a database language, to store, manage, query and report data held in the system.\n"
-msgstr ""
+msgstr "因此，資料庫程式(軟體)為一組整合的工具集，允許使用者由資料庫語言來儲存、管理、查詢系統中的資料、或產出報表"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:74
 #, no-wrap
 msgid "The last term is “data cleaning tool”.\n"
-msgstr ""
+msgstr "最後一個詞是「資料清理工具」\n"
+"。\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:76
 #, no-wrap
 msgid "Data cleaning tools are systems whose utilities focus is on the manipulation of data with the aim of increasing fitness for use. \n"
-msgstr ""
+msgstr "「資料清理工具」是用來操作資料，以增加資料可用性的系統"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:78
 #, no-wrap
 msgid "Examples that you may be familiar or will learn about during the course are:\n"
-msgstr ""
+msgstr "你可能聽過、或將在此學到的例子如："
 
 #. type: Plain text
 #: scripts/definitions.en.txt:80
 #, no-wrap
 msgid "OpenRefine, MatLab  and spreadsheets\n"
-msgstr ""
+msgstr "OpenRefine、 MatLab 和試算表\n"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:82
 #, no-wrap
 msgid "A data cleaning tool should assist the user in the discovery and repair of messy data in order to increase quality.\n"
-msgstr ""
+msgstr "資料清理工具應協助使用者找到並修復異常(髒)的資料，以提升資料品質\n"
+"。"
 
 #. type: Plain text
 #: scripts/definitions.en.txt:86
